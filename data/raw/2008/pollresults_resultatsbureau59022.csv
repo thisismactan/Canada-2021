@@ -1,0 +1,938 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59022,Prince George--Peace River","Prince George--Peace River"," 1","Coal River",N,N,"2",0,2,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 1","Coal River",N,N,"2",0,2,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 1","Coal River",N,N,"2",0,2,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 1","Coal River",N,N,"2",0,2,"Hill","","Jay","Conservative","Conservateur",Y,Y,0
+59022,Prince George--Peace River","Prince George--Peace River"," 2","Muncho Lake",N,N,"",1,16,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 2","Muncho Lake",N,N,"",1,16,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 2","Muncho Lake",N,N,"",1,16,"Gidney","","Lindsay","Liberal","Libéral",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 2","Muncho Lake",N,N,"",1,16,"Hill","","Jay","Conservative","Conservateur",Y,Y,7
+59022,Prince George--Peace River","Prince George--Peace River"," 3","Toad River",N,N,"4",0,63,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 3","Toad River",N,N,"4",0,63,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 3","Toad River",N,N,"4",0,63,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 3","Toad River",N,N,"4",0,63,"Hill","","Jay","Conservative","Conservateur",Y,Y,0
+59022,Prince George--Peace River","Prince George--Peace River"," 4","Fort Nelson",N,N,"",0,537,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 4","Fort Nelson",N,N,"",0,537,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 4","Fort Nelson",N,N,"",0,537,"Gidney","","Lindsay","Liberal","Libéral",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 4","Fort Nelson",N,N,"",0,537,"Hill","","Jay","Conservative","Conservateur",Y,Y,204
+59022,Prince George--Peace River","Prince George--Peace River"," 5","Fort Nelson",N,N,"",0,244,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 5","Fort Nelson",N,N,"",0,244,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 5","Fort Nelson",N,N,"",0,244,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 5","Fort Nelson",N,N,"",0,244,"Hill","","Jay","Conservative","Conservateur",Y,Y,63
+59022,Prince George--Peace River","Prince George--Peace River"," 6","Fort Nelson",N,N,"",1,396,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 6","Fort Nelson",N,N,"",1,396,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 6","Fort Nelson",N,N,"",1,396,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 6","Fort Nelson",N,N,"",1,396,"Hill","","Jay","Conservative","Conservateur",Y,Y,119
+59022,Prince George--Peace River","Prince George--Peace River"," 7A","Fort Nelson",N,N,"",0,430,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 7A","Fort Nelson",N,N,"",0,430,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 7A","Fort Nelson",N,N,"",0,430,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 7A","Fort Nelson",N,N,"",0,430,"Hill","","Jay","Conservative","Conservateur",Y,Y,41
+59022,Prince George--Peace River","Prince George--Peace River"," 7B","Fort Nelson",N,N,"",0,424,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 7B","Fort Nelson",N,N,"",0,424,"Crowley","","Hilary","Green Party","Parti Vert",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 7B","Fort Nelson",N,N,"",0,424,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 7B","Fort Nelson",N,N,"",0,424,"Hill","","Jay","Conservative","Conservateur",Y,Y,45
+59022,Prince George--Peace River","Prince George--Peace River"," 8","Fort Nelson",N,N,"",1,243,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 8","Fort Nelson",N,N,"",1,243,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 8","Fort Nelson",N,N,"",1,243,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 8","Fort Nelson",N,N,"",1,243,"Hill","","Jay","Conservative","Conservateur",Y,Y,55
+59022,Prince George--Peace River","Prince George--Peace River"," 9","Fort Nelson",N,N,"",0,397,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 9","Fort Nelson",N,N,"",0,397,"Crowley","","Hilary","Green Party","Parti Vert",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 9","Fort Nelson",N,N,"",0,397,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 9","Fort Nelson",N,N,"",0,397,"Hill","","Jay","Conservative","Conservateur",Y,Y,84
+59022,Prince George--Peace River","Prince George--Peace River"," 10","Fort Nelson",N,N,"",0,365,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59022,Prince George--Peace River","Prince George--Peace River"," 10","Fort Nelson",N,N,"",0,365,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 10","Fort Nelson",N,N,"",0,365,"Gidney","","Lindsay","Liberal","Libéral",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 10","Fort Nelson",N,N,"",0,365,"Hill","","Jay","Conservative","Conservateur",Y,Y,84
+59022,Prince George--Peace River","Prince George--Peace River"," 11","Fort Nelson",N,N,"",1,570,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 11","Fort Nelson",N,N,"",1,570,"Crowley","","Hilary","Green Party","Parti Vert",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 11","Fort Nelson",N,N,"",1,570,"Gidney","","Lindsay","Liberal","Libéral",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 11","Fort Nelson",N,N,"",1,570,"Hill","","Jay","Conservative","Conservateur",Y,Y,126
+59022,Prince George--Peace River","Prince George--Peace River"," 12","Prophet River",N,N,"",0,34,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 12","Prophet River",N,N,"",0,34,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 12","Prophet River",N,N,"",0,34,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 12","Prophet River",N,N,"",0,34,"Hill","","Jay","Conservative","Conservateur",Y,Y,10
+59022,Prince George--Peace River","Prince George--Peace River"," 13","Fort Ware 1",N,N,"",0,139,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 13","Fort Ware 1",N,N,"",0,139,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 13","Fort Ware 1",N,N,"",0,139,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 13","Fort Ware 1",N,N,"",0,139,"Hill","","Jay","Conservative","Conservateur",Y,Y,14
+59022,Prince George--Peace River","Prince George--Peace River"," 14","Ingenika Point",N,N,"",0,96,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 14","Ingenika Point",N,N,"",0,96,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 14","Ingenika Point",N,N,"",0,96,"Gidney","","Lindsay","Liberal","Libéral",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 14","Ingenika Point",N,N,"",0,96,"Hill","","Jay","Conservative","Conservateur",Y,Y,18
+59022,Prince George--Peace River","Prince George--Peace River"," 15","Mackenzie",N,N,"",1,268,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 15","Mackenzie",N,N,"",1,268,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 15","Mackenzie",N,N,"",1,268,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 15","Mackenzie",N,N,"",1,268,"Hill","","Jay","Conservative","Conservateur",Y,Y,79
+59022,Prince George--Peace River","Prince George--Peace River"," 16","Mackenzie",N,N,"",0,379,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59022,Prince George--Peace River","Prince George--Peace River"," 16","Mackenzie",N,N,"",0,379,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 16","Mackenzie",N,N,"",0,379,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 16","Mackenzie",N,N,"",0,379,"Hill","","Jay","Conservative","Conservateur",Y,Y,77
+59022,Prince George--Peace River","Prince George--Peace River"," 17","Mackenzie",N,N,"",0,307,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 17","Mackenzie",N,N,"",0,307,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 17","Mackenzie",N,N,"",0,307,"Gidney","","Lindsay","Liberal","Libéral",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 17","Mackenzie",N,N,"",0,307,"Hill","","Jay","Conservative","Conservateur",Y,Y,65
+59022,Prince George--Peace River","Prince George--Peace River"," 18","Mackenzie",N,N,"",1,303,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 18","Mackenzie",N,N,"",1,303,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 18","Mackenzie",N,N,"",1,303,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 18","Mackenzie",N,N,"",1,303,"Hill","","Jay","Conservative","Conservateur",Y,Y,64
+59022,Prince George--Peace River","Prince George--Peace River"," 19","Mackenzie",N,N,"",0,394,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 19","Mackenzie",N,N,"",0,394,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 19","Mackenzie",N,N,"",0,394,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 19","Mackenzie",N,N,"",0,394,"Hill","","Jay","Conservative","Conservateur",Y,Y,51
+59022,Prince George--Peace River","Prince George--Peace River"," 20","Mackenzie",N,N,"",0,323,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 20","Mackenzie",N,N,"",0,323,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 20","Mackenzie",N,N,"",0,323,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 20","Mackenzie",N,N,"",0,323,"Hill","","Jay","Conservative","Conservateur",Y,Y,71
+59022,Prince George--Peace River","Prince George--Peace River"," 21","Mackenzie",N,N,"",0,334,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59022,Prince George--Peace River","Prince George--Peace River"," 21","Mackenzie",N,N,"",0,334,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 21","Mackenzie",N,N,"",0,334,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 21","Mackenzie",N,N,"",0,334,"Hill","","Jay","Conservative","Conservateur",Y,Y,87
+59022,Prince George--Peace River","Prince George--Peace River"," 22","Mackenzie",N,N,"",3,296,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 22","Mackenzie",N,N,"",3,296,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 22","Mackenzie",N,N,"",3,296,"Gidney","","Lindsay","Liberal","Libéral",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 22","Mackenzie",N,N,"",3,296,"Hill","","Jay","Conservative","Conservateur",Y,Y,75
+59022,Prince George--Peace River","Prince George--Peace River"," 23","Mackenzie",N,N,"",0,252,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 23","Mackenzie",N,N,"",0,252,"Crowley","","Hilary","Green Party","Parti Vert",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 23","Mackenzie",N,N,"",0,252,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 23","Mackenzie",N,N,"",0,252,"Hill","","Jay","Conservative","Conservateur",Y,Y,72
+59022,Prince George--Peace River","Prince George--Peace River"," 24","McLeod Lake",N,N,"",0,127,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59022,Prince George--Peace River","Prince George--Peace River"," 24","McLeod Lake",N,N,"",0,127,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 24","McLeod Lake",N,N,"",0,127,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 24","McLeod Lake",N,N,"",0,127,"Hill","","Jay","Conservative","Conservateur",Y,Y,24
+59022,Prince George--Peace River","Prince George--Peace River"," 25","Pink Mountain",N,N,"",2,89,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 25","Pink Mountain",N,N,"",2,89,"Crowley","","Hilary","Green Party","Parti Vert",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 25","Pink Mountain",N,N,"",2,89,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 25","Pink Mountain",N,N,"",2,89,"Hill","","Jay","Conservative","Conservateur",Y,Y,41
+59022,Prince George--Peace River","Prince George--Peace River"," 26","Upper Halfway",N,N,"",0,98,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 26","Upper Halfway",N,N,"",0,98,"Crowley","","Hilary","Green Party","Parti Vert",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 26","Upper Halfway",N,N,"",0,98,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 26","Upper Halfway",N,N,"",0,98,"Hill","","Jay","Conservative","Conservateur",Y,Y,19
+59022,Prince George--Peace River","Prince George--Peace River"," 27","Wonowon",N,N,"",0,97,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 27","Wonowon",N,N,"",0,97,"Crowley","","Hilary","Green Party","Parti Vert",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 27","Wonowon",N,N,"",0,97,"Gidney","","Lindsay","Liberal","Libéral",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 27","Wonowon",N,N,"",0,97,"Hill","","Jay","Conservative","Conservateur",Y,Y,28
+59022,Prince George--Peace River","Prince George--Peace River"," 28","Buick",N,N,"",0,210,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 28","Buick",N,N,"",0,210,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 28","Buick",N,N,"",0,210,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 28","Buick",N,N,"",0,210,"Hill","","Jay","Conservative","Conservateur",Y,Y,75
+59022,Prince George--Peace River","Prince George--Peace River"," 29","Rose Prairie",N,N,"",0,91,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 29","Rose Prairie",N,N,"",0,91,"Crowley","","Hilary","Green Party","Parti Vert",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 29","Rose Prairie",N,N,"",0,91,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 29","Rose Prairie",N,N,"",0,91,"Hill","","Jay","Conservative","Conservateur",Y,Y,26
+59022,Prince George--Peace River","Prince George--Peace River"," 30","Prespatou",N,N,"",0,194,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 30","Prespatou",N,N,"",0,194,"Crowley","","Hilary","Green Party","Parti Vert",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 30","Prespatou",N,N,"",0,194,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 30","Prespatou",N,N,"",0,194,"Hill","","Jay","Conservative","Conservateur",Y,Y,66
+59022,Prince George--Peace River","Prince George--Peace River"," 31","Rose Prairie",N,N,"",0,72,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 31","Rose Prairie",N,N,"",0,72,"Crowley","","Hilary","Green Party","Parti Vert",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 31","Rose Prairie",N,N,"",0,72,"Gidney","","Lindsay","Liberal","Libéral",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 31","Rose Prairie",N,N,"",0,72,"Hill","","Jay","Conservative","Conservateur",Y,Y,17
+59022,Prince George--Peace River","Prince George--Peace River"," 32","Rose Prairie",N,N,"",0,258,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 32","Rose Prairie",N,N,"",0,258,"Crowley","","Hilary","Green Party","Parti Vert",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 32","Rose Prairie",N,N,"",0,258,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 32","Rose Prairie",N,N,"",0,258,"Hill","","Jay","Conservative","Conservateur",Y,Y,142
+59022,Prince George--Peace River","Prince George--Peace River"," 33","Montney",N,N,"",1,324,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 33","Montney",N,N,"",1,324,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 33","Montney",N,N,"",1,324,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 33","Montney",N,N,"",1,324,"Hill","","Jay","Conservative","Conservateur",Y,Y,125
+59022,Prince George--Peace River","Prince George--Peace River"," 34A","Charlie Lake",N,N,"",0,633,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 34A","Charlie Lake",N,N,"",0,633,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 34A","Charlie Lake",N,N,"",0,633,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 34A","Charlie Lake",N,N,"",0,633,"Hill","","Jay","Conservative","Conservateur",Y,Y,247
+59022,Prince George--Peace River","Prince George--Peace River"," 34B","Charlie Lake",N,N,"",0,647,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 34B","Charlie Lake",N,N,"",0,647,"Crowley","","Hilary","Green Party","Parti Vert",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 34B","Charlie Lake",N,N,"",0,647,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 34B","Charlie Lake",N,N,"",0,647,"Hill","","Jay","Conservative","Conservateur",Y,Y,206
+59022,Prince George--Peace River","Prince George--Peace River"," 35","Charlie Lake",N,N,"",1,162,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 35","Charlie Lake",N,N,"",1,162,"Crowley","","Hilary","Green Party","Parti Vert",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 35","Charlie Lake",N,N,"",1,162,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 35","Charlie Lake",N,N,"",1,162,"Hill","","Jay","Conservative","Conservateur",Y,Y,63
+59022,Prince George--Peace River","Prince George--Peace River"," 36","Charlie Lake",N,N,"",1,338,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 36","Charlie Lake",N,N,"",1,338,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 36","Charlie Lake",N,N,"",1,338,"Gidney","","Lindsay","Liberal","Libéral",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 36","Charlie Lake",N,N,"",1,338,"Hill","","Jay","Conservative","Conservateur",Y,Y,122
+59022,Prince George--Peace River","Prince George--Peace River"," 37","Charlie Lake",N,N,"",0,277,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 37","Charlie Lake",N,N,"",0,277,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 37","Charlie Lake",N,N,"",0,277,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 37","Charlie Lake",N,N,"",0,277,"Hill","","Jay","Conservative","Conservateur",Y,Y,120
+59022,Prince George--Peace River","Prince George--Peace River"," 38","North Pine",N,N,"",0,234,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 38","North Pine",N,N,"",0,234,"Crowley","","Hilary","Green Party","Parti Vert",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 38","North Pine",N,N,"",0,234,"Gidney","","Lindsay","Liberal","Libéral",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 38","North Pine",N,N,"",0,234,"Hill","","Jay","Conservative","Conservateur",Y,Y,116
+59022,Prince George--Peace River","Prince George--Peace River"," 39","Charlie Lake",N,N,"",0,373,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 39","Charlie Lake",N,N,"",0,373,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 39","Charlie Lake",N,N,"",0,373,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 39","Charlie Lake",N,N,"",0,373,"Hill","","Jay","Conservative","Conservateur",Y,Y,165
+59022,Prince George--Peace River","Prince George--Peace River"," 40","Charlie Lake",N,N,"",1,391,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 40","Charlie Lake",N,N,"",1,391,"Crowley","","Hilary","Green Party","Parti Vert",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 40","Charlie Lake",N,N,"",1,391,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 40","Charlie Lake",N,N,"",1,391,"Hill","","Jay","Conservative","Conservateur",Y,Y,156
+59022,Prince George--Peace River","Prince George--Peace River"," 41","Fort St. John",N,N,"",0,274,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 41","Fort St. John",N,N,"",0,274,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 41","Fort St. John",N,N,"",0,274,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 41","Fort St. John",N,N,"",0,274,"Hill","","Jay","Conservative","Conservateur",Y,Y,132
+59022,Prince George--Peace River","Prince George--Peace River"," 42","Fort St. John",N,N,"",1,429,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 42","Fort St. John",N,N,"",1,429,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 42","Fort St. John",N,N,"",1,429,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 42","Fort St. John",N,N,"",1,429,"Hill","","Jay","Conservative","Conservateur",Y,Y,129
+59022,Prince George--Peace River","Prince George--Peace River"," 43","Baldonnel",N,N,"",0,459,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 43","Baldonnel",N,N,"",0,459,"Crowley","","Hilary","Green Party","Parti Vert",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 43","Baldonnel",N,N,"",0,459,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 43","Baldonnel",N,N,"",0,459,"Hill","","Jay","Conservative","Conservateur",Y,Y,202
+59022,Prince George--Peace River","Prince George--Peace River"," 44","Taylor",N,N,"",0,323,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 44","Taylor",N,N,"",0,323,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 44","Taylor",N,N,"",0,323,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 44","Taylor",N,N,"",0,323,"Hill","","Jay","Conservative","Conservateur",Y,Y,89
+59022,Prince George--Peace River","Prince George--Peace River"," 45A","Taylor",N,N,"",1,314,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 45A","Taylor",N,N,"",1,314,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 45A","Taylor",N,N,"",1,314,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 45A","Taylor",N,N,"",1,314,"Hill","","Jay","Conservative","Conservateur",Y,Y,110
+59022,Prince George--Peace River","Prince George--Peace River"," 45B","Taylor",N,N,"",0,384,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 45B","Taylor",N,N,"",0,384,"Crowley","","Hilary","Green Party","Parti Vert",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 45B","Taylor",N,N,"",0,384,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 45B","Taylor",N,N,"",0,384,"Hill","","Jay","Conservative","Conservateur",Y,Y,117
+59022,Prince George--Peace River","Prince George--Peace River"," 46","Cecil Lake",N,N,"",1,319,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 46","Cecil Lake",N,N,"",1,319,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 46","Cecil Lake",N,N,"",1,319,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 46","Cecil Lake",N,N,"",1,319,"Hill","","Jay","Conservative","Conservateur",Y,Y,150
+59022,Prince George--Peace River","Prince George--Peace River"," 47","Flatrock",N,N,"",0,258,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 47","Flatrock",N,N,"",0,258,"Crowley","","Hilary","Green Party","Parti Vert",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 47","Flatrock",N,N,"",0,258,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 47","Flatrock",N,N,"",0,258,"Hill","","Jay","Conservative","Conservateur",Y,Y,124
+59022,Prince George--Peace River","Prince George--Peace River"," 48","Fort St. John",N,N,"",0,527,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 48","Fort St. John",N,N,"",0,527,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 48","Fort St. John",N,N,"",0,527,"Gidney","","Lindsay","Liberal","Libéral",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 48","Fort St. John",N,N,"",0,527,"Hill","","Jay","Conservative","Conservateur",Y,Y,196
+59022,Prince George--Peace River","Prince George--Peace River"," 49A","Fort St. John",N,N,"",1,354,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 49A","Fort St. John",N,N,"",1,354,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 49A","Fort St. John",N,N,"",1,354,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 49A","Fort St. John",N,N,"",1,354,"Hill","","Jay","Conservative","Conservateur",Y,Y,119
+59022,Prince George--Peace River","Prince George--Peace River"," 49B","Fort St. John",N,N,"",0,311,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 49B","Fort St. John",N,N,"",0,311,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 49B","Fort St. John",N,N,"",0,311,"Gidney","","Lindsay","Liberal","Libéral",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 49B","Fort St. John",N,N,"",0,311,"Hill","","Jay","Conservative","Conservateur",Y,Y,110
+59022,Prince George--Peace River","Prince George--Peace River"," 50","Fort St. John",N,N,"",1,484,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59022,Prince George--Peace River","Prince George--Peace River"," 50","Fort St. John",N,N,"",1,484,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 50","Fort St. John",N,N,"",1,484,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 50","Fort St. John",N,N,"",1,484,"Hill","","Jay","Conservative","Conservateur",Y,Y,173
+59022,Prince George--Peace River","Prince George--Peace River"," 51","Fort St. John",N,N,"",1,428,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 51","Fort St. John",N,N,"",1,428,"Crowley","","Hilary","Green Party","Parti Vert",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 51","Fort St. John",N,N,"",1,428,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 51","Fort St. John",N,N,"",1,428,"Hill","","Jay","Conservative","Conservateur",Y,Y,145
+59022,Prince George--Peace River","Prince George--Peace River"," 52","Fort St. John",N,N,"",1,283,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 52","Fort St. John",N,N,"",1,283,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 52","Fort St. John",N,N,"",1,283,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 52","Fort St. John",N,N,"",1,283,"Hill","","Jay","Conservative","Conservateur",Y,Y,111
+59022,Prince George--Peace River","Prince George--Peace River"," 53","Fort St. John",N,N,"",0,488,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 53","Fort St. John",N,N,"",0,488,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 53","Fort St. John",N,N,"",0,488,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 53","Fort St. John",N,N,"",0,488,"Hill","","Jay","Conservative","Conservateur",Y,Y,181
+59022,Prince George--Peace River","Prince George--Peace River"," 54","Fort St. John",N,N,"",2,394,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 54","Fort St. John",N,N,"",2,394,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 54","Fort St. John",N,N,"",2,394,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 54","Fort St. John",N,N,"",2,394,"Hill","","Jay","Conservative","Conservateur",Y,Y,139
+59022,Prince George--Peace River","Prince George--Peace River"," 55A","Fort St. John",N,N,"",0,297,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 55A","Fort St. John",N,N,"",0,297,"Crowley","","Hilary","Green Party","Parti Vert",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 55A","Fort St. John",N,N,"",0,297,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 55A","Fort St. John",N,N,"",0,297,"Hill","","Jay","Conservative","Conservateur",Y,Y,99
+59022,Prince George--Peace River","Prince George--Peace River"," 55B","Fort St. John",N,N,"",0,304,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 55B","Fort St. John",N,N,"",0,304,"Crowley","","Hilary","Green Party","Parti Vert",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 55B","Fort St. John",N,N,"",0,304,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 55B","Fort St. John",N,N,"",0,304,"Hill","","Jay","Conservative","Conservateur",Y,Y,88
+59022,Prince George--Peace River","Prince George--Peace River"," 55-1","Fort St. John",N,N,"",0,338,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 55-1","Fort St. John",N,N,"",0,338,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 55-1","Fort St. John",N,N,"",0,338,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 55-1","Fort St. John",N,N,"",0,338,"Hill","","Jay","Conservative","Conservateur",Y,Y,115
+59022,Prince George--Peace River","Prince George--Peace River"," 56","Fort St. John",N,N,"",0,403,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 56","Fort St. John",N,N,"",0,403,"Crowley","","Hilary","Green Party","Parti Vert",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 56","Fort St. John",N,N,"",0,403,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 56","Fort St. John",N,N,"",0,403,"Hill","","Jay","Conservative","Conservateur",Y,Y,94
+59022,Prince George--Peace River","Prince George--Peace River"," 57","Fort St. John",N,N,"",1,499,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 57","Fort St. John",N,N,"",1,499,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 57","Fort St. John",N,N,"",1,499,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 57","Fort St. John",N,N,"",1,499,"Hill","","Jay","Conservative","Conservateur",Y,Y,69
+59022,Prince George--Peace River","Prince George--Peace River"," 58","Fort St. John",N,N,"",0,416,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 58","Fort St. John",N,N,"",0,416,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 58","Fort St. John",N,N,"",0,416,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 58","Fort St. John",N,N,"",0,416,"Hill","","Jay","Conservative","Conservateur",Y,Y,104
+59022,Prince George--Peace River","Prince George--Peace River"," 59","Fort St. John",N,N,"",0,400,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 59","Fort St. John",N,N,"",0,400,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 59","Fort St. John",N,N,"",0,400,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 59","Fort St. John",N,N,"",0,400,"Hill","","Jay","Conservative","Conservateur",Y,Y,43
+59022,Prince George--Peace River","Prince George--Peace River"," 60","Fort St. John",N,N,"",1,459,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 60","Fort St. John",N,N,"",1,459,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 60","Fort St. John",N,N,"",1,459,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 60","Fort St. John",N,N,"",1,459,"Hill","","Jay","Conservative","Conservateur",Y,Y,69
+59022,Prince George--Peace River","Prince George--Peace River"," 61","Fort St. John",N,N,"",0,383,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59022,Prince George--Peace River","Prince George--Peace River"," 61","Fort St. John",N,N,"",0,383,"Crowley","","Hilary","Green Party","Parti Vert",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 61","Fort St. John",N,N,"",0,383,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 61","Fort St. John",N,N,"",0,383,"Hill","","Jay","Conservative","Conservateur",Y,Y,79
+59022,Prince George--Peace River","Prince George--Peace River"," 62","Fort St. John",N,N,"",2,490,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 62","Fort St. John",N,N,"",2,490,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 62","Fort St. John",N,N,"",2,490,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 62","Fort St. John",N,N,"",2,490,"Hill","","Jay","Conservative","Conservateur",Y,Y,83
+59022,Prince George--Peace River","Prince George--Peace River"," 63","Fort St. John",N,N,"",1,528,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 63","Fort St. John",N,N,"",1,528,"Crowley","","Hilary","Green Party","Parti Vert",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 63","Fort St. John",N,N,"",1,528,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 63","Fort St. John",N,N,"",1,528,"Hill","","Jay","Conservative","Conservateur",Y,Y,129
+59022,Prince George--Peace River","Prince George--Peace River"," 64","Fort St. John",N,N,"",0,515,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 64","Fort St. John",N,N,"",0,515,"Crowley","","Hilary","Green Party","Parti Vert",N,N,27
+59022,Prince George--Peace River","Prince George--Peace River"," 64","Fort St. John",N,N,"",0,515,"Gidney","","Lindsay","Liberal","Libéral",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 64","Fort St. John",N,N,"",0,515,"Hill","","Jay","Conservative","Conservateur",Y,Y,128
+59022,Prince George--Peace River","Prince George--Peace River"," 65","Fort St. John",N,N,"",0,451,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 65","Fort St. John",N,N,"",0,451,"Crowley","","Hilary","Green Party","Parti Vert",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 65","Fort St. John",N,N,"",0,451,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 65","Fort St. John",N,N,"",0,451,"Hill","","Jay","Conservative","Conservateur",Y,Y,106
+59022,Prince George--Peace River","Prince George--Peace River"," 66","Fort St. John",N,N,"",0,527,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 66","Fort St. John",N,N,"",0,527,"Crowley","","Hilary","Green Party","Parti Vert",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 66","Fort St. John",N,N,"",0,527,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 66","Fort St. John",N,N,"",0,527,"Hill","","Jay","Conservative","Conservateur",Y,Y,135
+59022,Prince George--Peace River","Prince George--Peace River"," 67","Fort St. John",N,N,"",0,179,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 67","Fort St. John",N,N,"",0,179,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 67","Fort St. John",N,N,"",0,179,"Gidney","","Lindsay","Liberal","Libéral",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 67","Fort St. John",N,N,"",0,179,"Hill","","Jay","Conservative","Conservateur",Y,Y,50
+59022,Prince George--Peace River","Prince George--Peace River"," 68","Fort St. John",N,N,"",0,368,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 68","Fort St. John",N,N,"",0,368,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 68","Fort St. John",N,N,"",0,368,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 68","Fort St. John",N,N,"",0,368,"Hill","","Jay","Conservative","Conservateur",Y,Y,93
+59022,Prince George--Peace River","Prince George--Peace River"," 69","Fort St. John",N,N,"",0,511,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 69","Fort St. John",N,N,"",0,511,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 69","Fort St. John",N,N,"",0,511,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 69","Fort St. John",N,N,"",0,511,"Hill","","Jay","Conservative","Conservateur",Y,Y,112
+59022,Prince George--Peace River","Prince George--Peace River"," 70","Fort St. John",N,N,"",1,506,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59022,Prince George--Peace River","Prince George--Peace River"," 70","Fort St. John",N,N,"",1,506,"Crowley","","Hilary","Green Party","Parti Vert",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 70","Fort St. John",N,N,"",1,506,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 70","Fort St. John",N,N,"",1,506,"Hill","","Jay","Conservative","Conservateur",Y,Y,123
+59022,Prince George--Peace River","Prince George--Peace River"," 71","Fort St. John",N,N,"",0,331,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 71","Fort St. John",N,N,"",0,331,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 71","Fort St. John",N,N,"",0,331,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 71","Fort St. John",N,N,"",0,331,"Hill","","Jay","Conservative","Conservateur",Y,Y,77
+59022,Prince George--Peace River","Prince George--Peace River"," 72A","Fort St. John",N,N,"",0,528,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 72A","Fort St. John",N,N,"",0,528,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 72A","Fort St. John",N,N,"",0,528,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 72A","Fort St. John",N,N,"",0,528,"Hill","","Jay","Conservative","Conservateur",Y,Y,85
+59022,Prince George--Peace River","Prince George--Peace River"," 72B","Fort St. John",N,N,"",0,510,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 72B","Fort St. John",N,N,"",0,510,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 72B","Fort St. John",N,N,"",0,510,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 72B","Fort St. John",N,N,"",0,510,"Hill","","Jay","Conservative","Conservateur",Y,Y,81
+59022,Prince George--Peace River","Prince George--Peace River"," 73","Lemoray",N,N,"80",0,9,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 73","Lemoray",N,N,"80",0,9,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 73","Lemoray",N,N,"80",0,9,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 73","Lemoray",N,N,"80",0,9,"Hill","","Jay","Conservative","Conservateur",Y,Y,0
+59022,Prince George--Peace River","Prince George--Peace River"," 74","Hudson's Hope",N,N,"",4,278,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 74","Hudson's Hope",N,N,"",4,278,"Crowley","","Hilary","Green Party","Parti Vert",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 74","Hudson's Hope",N,N,"",4,278,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 74","Hudson's Hope",N,N,"",4,278,"Hill","","Jay","Conservative","Conservateur",Y,Y,115
+59022,Prince George--Peace River","Prince George--Peace River"," 75","Hudson's Hope",N,N,"",1,514,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 75","Hudson's Hope",N,N,"",1,514,"Crowley","","Hilary","Green Party","Parti Vert",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 75","Hudson's Hope",N,N,"",1,514,"Gidney","","Lindsay","Liberal","Libéral",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 75","Hudson's Hope",N,N,"",1,514,"Hill","","Jay","Conservative","Conservateur",Y,Y,184
+59022,Prince George--Peace River","Prince George--Peace River"," 76","Moberly Lake",N,N,"",0,362,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59022,Prince George--Peace River","Prince George--Peace River"," 76","Moberly Lake",N,N,"",0,362,"Crowley","","Hilary","Green Party","Parti Vert",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 76","Moberly Lake",N,N,"",0,362,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 76","Moberly Lake",N,N,"",0,362,"Hill","","Jay","Conservative","Conservateur",Y,Y,46
+59022,Prince George--Peace River","Prince George--Peace River"," 77","Jackfish Lake",N,N,"",0,202,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 77","Jackfish Lake",N,N,"",0,202,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 77","Jackfish Lake",N,N,"",0,202,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 77","Jackfish Lake",N,N,"",0,202,"Hill","","Jay","Conservative","Conservateur",Y,Y,71
+59022,Prince George--Peace River","Prince George--Peace River"," 78","Chetwynd",N,N,"",0,318,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 78","Chetwynd",N,N,"",0,318,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 78","Chetwynd",N,N,"",0,318,"Gidney","","Lindsay","Liberal","Libéral",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 78","Chetwynd",N,N,"",0,318,"Hill","","Jay","Conservative","Conservateur",Y,Y,99
+59022,Prince George--Peace River","Prince George--Peace River"," 79","Chetwynd",N,N,"",0,450,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 79","Chetwynd",N,N,"",0,450,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 79","Chetwynd",N,N,"",0,450,"Gidney","","Lindsay","Liberal","Libéral",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 79","Chetwynd",N,N,"",0,450,"Hill","","Jay","Conservative","Conservateur",Y,Y,134
+59022,Prince George--Peace River","Prince George--Peace River"," 80","Chetwynd",N,N,"",0,501,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59022,Prince George--Peace River","Prince George--Peace River"," 80","Chetwynd",N,N,"",0,501,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 80","Chetwynd",N,N,"",0,501,"Gidney","","Lindsay","Liberal","Libéral",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 80","Chetwynd",N,N,"",0,501,"Hill","","Jay","Conservative","Conservateur",Y,Y,130
+59022,Prince George--Peace River","Prince George--Peace River"," 81","Chetwynd",N,N,"",0,411,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59022,Prince George--Peace River","Prince George--Peace River"," 81","Chetwynd",N,N,"",0,411,"Crowley","","Hilary","Green Party","Parti Vert",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 81","Chetwynd",N,N,"",0,411,"Gidney","","Lindsay","Liberal","Libéral",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 81","Chetwynd",N,N,"",0,411,"Hill","","Jay","Conservative","Conservateur",Y,Y,71
+59022,Prince George--Peace River","Prince George--Peace River"," 82","Chetwynd",N,N,"",0,389,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 82","Chetwynd",N,N,"",0,389,"Crowley","","Hilary","Green Party","Parti Vert",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 82","Chetwynd",N,N,"",0,389,"Gidney","","Lindsay","Liberal","Libéral",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 82","Chetwynd",N,N,"",0,389,"Hill","","Jay","Conservative","Conservateur",Y,Y,93
+59022,Prince George--Peace River","Prince George--Peace River"," 83A","Chetwynd",N,N,"",1,323,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 83A","Chetwynd",N,N,"",1,323,"Crowley","","Hilary","Green Party","Parti Vert",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 83A","Chetwynd",N,N,"",1,323,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 83A","Chetwynd",N,N,"",1,323,"Hill","","Jay","Conservative","Conservateur",Y,Y,84
+59022,Prince George--Peace River","Prince George--Peace River"," 83B","Chetwynd",N,N,"",0,316,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 83B","Chetwynd",N,N,"",0,316,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 83B","Chetwynd",N,N,"",0,316,"Gidney","","Lindsay","Liberal","Libéral",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 83B","Chetwynd",N,N,"",0,316,"Hill","","Jay","Conservative","Conservateur",Y,Y,93
+59022,Prince George--Peace River","Prince George--Peace River"," 84","Chetwynd",N,N,"",0,117,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 84","Chetwynd",N,N,"",0,117,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 84","Chetwynd",N,N,"",0,117,"Gidney","","Lindsay","Liberal","Libéral",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 84","Chetwynd",N,N,"",0,117,"Hill","","Jay","Conservative","Conservateur",Y,Y,30
+59022,Prince George--Peace River","Prince George--Peace River"," 85","Bear Lake",N,N,"",0,192,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 85","Bear Lake",N,N,"",0,192,"Crowley","","Hilary","Green Party","Parti Vert",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 85","Bear Lake",N,N,"",0,192,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 85","Bear Lake",N,N,"",0,192,"Hill","","Jay","Conservative","Conservateur",Y,Y,58
+59022,Prince George--Peace River","Prince George--Peace River"," 86A","Ness Lake",N,N,"",0,366,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 86A","Ness Lake",N,N,"",0,366,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 86A","Ness Lake",N,N,"",0,366,"Gidney","","Lindsay","Liberal","Libéral",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 86A","Ness Lake",N,N,"",0,366,"Hill","","Jay","Conservative","Conservateur",Y,Y,103
+59022,Prince George--Peace River","Prince George--Peace River"," 86B","Ness Lake",N,N,"",1,407,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59022,Prince George--Peace River","Prince George--Peace River"," 86B","Ness Lake",N,N,"",1,407,"Crowley","","Hilary","Green Party","Parti Vert",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 86B","Ness Lake",N,N,"",1,407,"Gidney","","Lindsay","Liberal","Libéral",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 86B","Ness Lake",N,N,"",1,407,"Hill","","Jay","Conservative","Conservateur",Y,Y,117
+59022,Prince George--Peace River","Prince George--Peace River"," 87","Nukko Lake",N,N,"",0,413,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 87","Nukko Lake",N,N,"",0,413,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 87","Nukko Lake",N,N,"",0,413,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 87","Nukko Lake",N,N,"",0,413,"Hill","","Jay","Conservative","Conservateur",Y,Y,95
+59022,Prince George--Peace River","Prince George--Peace River"," 88A","Nukko Lake",N,N,"",1,378,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 88A","Nukko Lake",N,N,"",1,378,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 88A","Nukko Lake",N,N,"",1,378,"Gidney","","Lindsay","Liberal","Libéral",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 88A","Nukko Lake",N,N,"",1,378,"Hill","","Jay","Conservative","Conservateur",Y,Y,100
+59022,Prince George--Peace River","Prince George--Peace River"," 88B","Nukko Lake",N,N,"",0,415,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59022,Prince George--Peace River","Prince George--Peace River"," 88B","Nukko Lake",N,N,"",0,415,"Crowley","","Hilary","Green Party","Parti Vert",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 88B","Nukko Lake",N,N,"",0,415,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 88B","Nukko Lake",N,N,"",0,415,"Hill","","Jay","Conservative","Conservateur",Y,Y,124
+59022,Prince George--Peace River","Prince George--Peace River"," 89","Salmon Valley",N,N,"",3,394,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59022,Prince George--Peace River","Prince George--Peace River"," 89","Salmon Valley",N,N,"",3,394,"Crowley","","Hilary","Green Party","Parti Vert",N,N,34
+59022,Prince George--Peace River","Prince George--Peace River"," 89","Salmon Valley",N,N,"",3,394,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 89","Salmon Valley",N,N,"",3,394,"Hill","","Jay","Conservative","Conservateur",Y,Y,140
+59022,Prince George--Peace River","Prince George--Peace River"," 90","Giscome",N,N,"",1,254,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 90","Giscome",N,N,"",1,254,"Crowley","","Hilary","Green Party","Parti Vert",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 90","Giscome",N,N,"",1,254,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 90","Giscome",N,N,"",1,254,"Hill","","Jay","Conservative","Conservateur",Y,Y,58
+59022,Prince George--Peace River","Prince George--Peace River"," 91","Ferndale",N,N,"",0,408,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59022,Prince George--Peace River","Prince George--Peace River"," 91","Ferndale",N,N,"",0,408,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 91","Ferndale",N,N,"",0,408,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 91","Ferndale",N,N,"",0,408,"Hill","","Jay","Conservative","Conservateur",Y,Y,132
+59022,Prince George--Peace River","Prince George--Peace River"," 92","Shelley",N,N,"",0,290,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 92","Shelley",N,N,"",0,290,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 92","Shelley",N,N,"",0,290,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 92","Shelley",N,N,"",0,290,"Hill","","Jay","Conservative","Conservateur",Y,Y,69
+59022,Prince George--Peace River","Prince George--Peace River"," 93","Blackburn",N,N,"",0,391,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 93","Blackburn",N,N,"",0,391,"Crowley","","Hilary","Green Party","Parti Vert",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 93","Blackburn",N,N,"",0,391,"Gidney","","Lindsay","Liberal","Libéral",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 93","Blackburn",N,N,"",0,391,"Hill","","Jay","Conservative","Conservateur",Y,Y,88
+59022,Prince George--Peace River","Prince George--Peace River"," 94","Bonnet Hill",N,N,"",1,407,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59022,Prince George--Peace River","Prince George--Peace River"," 94","Bonnet Hill",N,N,"",1,407,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 94","Bonnet Hill",N,N,"",1,407,"Gidney","","Lindsay","Liberal","Libéral",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 94","Bonnet Hill",N,N,"",1,407,"Hill","","Jay","Conservative","Conservateur",Y,Y,120
+59022,Prince George--Peace River","Prince George--Peace River"," 95","Bonnet Hill",N,N,"",1,261,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 95","Bonnet Hill",N,N,"",1,261,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 95","Bonnet Hill",N,N,"",1,261,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 95","Bonnet Hill",N,N,"",1,261,"Hill","","Jay","Conservative","Conservateur",Y,Y,67
+59022,Prince George--Peace River","Prince George--Peace River"," 96","Tabor Lake",N,N,"",0,517,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59022,Prince George--Peace River","Prince George--Peace River"," 96","Tabor Lake",N,N,"",0,517,"Crowley","","Hilary","Green Party","Parti Vert",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 96","Tabor Lake",N,N,"",0,517,"Gidney","","Lindsay","Liberal","Libéral",N,N,45
+59022,Prince George--Peace River","Prince George--Peace River"," 96","Tabor Lake",N,N,"",0,517,"Hill","","Jay","Conservative","Conservateur",Y,Y,124
+59022,Prince George--Peace River","Prince George--Peace River"," 97","Pineview",N,N,"",0,412,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59022,Prince George--Peace River","Prince George--Peace River"," 97","Pineview",N,N,"",0,412,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 97","Pineview",N,N,"",0,412,"Gidney","","Lindsay","Liberal","Libéral",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 97","Pineview",N,N,"",0,412,"Hill","","Jay","Conservative","Conservateur",Y,Y,126
+59022,Prince George--Peace River","Prince George--Peace River"," 98","Pineview",N,N,"",0,486,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59022,Prince George--Peace River","Prince George--Peace River"," 98","Pineview",N,N,"",0,486,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 98","Pineview",N,N,"",0,486,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 98","Pineview",N,N,"",0,486,"Hill","","Jay","Conservative","Conservateur",Y,Y,138
+59022,Prince George--Peace River","Prince George--Peace River"," 99","Pineview",N,N,"",0,155,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 99","Pineview",N,N,"",0,155,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 99","Pineview",N,N,"",0,155,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 99","Pineview",N,N,"",0,155,"Hill","","Jay","Conservative","Conservateur",Y,Y,51
+59022,Prince George--Peace River","Prince George--Peace River"," 100","Pineview",N,N,"",2,508,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+59022,Prince George--Peace River","Prince George--Peace River"," 100","Pineview",N,N,"",2,508,"Crowley","","Hilary","Green Party","Parti Vert",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 100","Pineview",N,N,"",2,508,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 100","Pineview",N,N,"",2,508,"Hill","","Jay","Conservative","Conservateur",Y,Y,134
+59022,Prince George--Peace River","Prince George--Peace River"," 101","Buckhorn",N,N,"",0,284,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 101","Buckhorn",N,N,"",0,284,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 101","Buckhorn",N,N,"",0,284,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 101","Buckhorn",N,N,"",0,284,"Hill","","Jay","Conservative","Conservateur",Y,Y,102
+59022,Prince George--Peace River","Prince George--Peace River"," 102","Buckhorn",N,N,"",2,309,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 102","Buckhorn",N,N,"",2,309,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 102","Buckhorn",N,N,"",2,309,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 102","Buckhorn",N,N,"",2,309,"Hill","","Jay","Conservative","Conservateur",Y,Y,117
+59022,Prince George--Peace River","Prince George--Peace River"," 103","Buckhorn",N,N,"",0,201,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 103","Buckhorn",N,N,"",0,201,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 103","Buckhorn",N,N,"",0,201,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 103","Buckhorn",N,N,"",0,201,"Hill","","Jay","Conservative","Conservateur",Y,Y,62
+59022,Prince George--Peace River","Prince George--Peace River"," 104","Buckhorn",N,N,"",0,334,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59022,Prince George--Peace River","Prince George--Peace River"," 104","Buckhorn",N,N,"",0,334,"Crowley","","Hilary","Green Party","Parti Vert",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 104","Buckhorn",N,N,"",0,334,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 104","Buckhorn",N,N,"",0,334,"Hill","","Jay","Conservative","Conservateur",Y,Y,107
+59022,Prince George--Peace River","Prince George--Peace River"," 105","Upper Fraser",N,N,"",1,109,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 105","Upper Fraser",N,N,"",1,109,"Crowley","","Hilary","Green Party","Parti Vert",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 105","Upper Fraser",N,N,"",1,109,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 105","Upper Fraser",N,N,"",1,109,"Hill","","Jay","Conservative","Conservateur",Y,Y,20
+59022,Prince George--Peace River","Prince George--Peace River"," 106","Longworth",N,N,"105",0,21,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 106","Longworth",N,N,"105",0,21,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 106","Longworth",N,N,"105",0,21,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 106","Longworth",N,N,"105",0,21,"Hill","","Jay","Conservative","Conservateur",Y,Y,0
+59022,Prince George--Peace River","Prince George--Peace River"," 107","Prince George",N,N,"",0,500,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59022,Prince George--Peace River","Prince George--Peace River"," 107","Prince George",N,N,"",0,500,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 107","Prince George",N,N,"",0,500,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 107","Prince George",N,N,"",0,500,"Hill","","Jay","Conservative","Conservateur",Y,Y,141
+59022,Prince George--Peace River","Prince George--Peace River"," 108","Prince George",N,N,"",1,335,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59022,Prince George--Peace River","Prince George--Peace River"," 108","Prince George",N,N,"",1,335,"Crowley","","Hilary","Green Party","Parti Vert",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 108","Prince George",N,N,"",1,335,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 108","Prince George",N,N,"",1,335,"Hill","","Jay","Conservative","Conservateur",Y,Y,80
+59022,Prince George--Peace River","Prince George--Peace River"," 109","Prince George",N,N,"",1,587,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59022,Prince George--Peace River","Prince George--Peace River"," 109","Prince George",N,N,"",1,587,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 109","Prince George",N,N,"",1,587,"Gidney","","Lindsay","Liberal","Libéral",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 109","Prince George",N,N,"",1,587,"Hill","","Jay","Conservative","Conservateur",Y,Y,118
+59022,Prince George--Peace River","Prince George--Peace River"," 110","Prince George",N,N,"",0,459,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59022,Prince George--Peace River","Prince George--Peace River"," 110","Prince George",N,N,"",0,459,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 110","Prince George",N,N,"",0,459,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 110","Prince George",N,N,"",0,459,"Hill","","Jay","Conservative","Conservateur",Y,Y,92
+59022,Prince George--Peace River","Prince George--Peace River"," 111","Prince George",N,N,"",0,530,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59022,Prince George--Peace River","Prince George--Peace River"," 111","Prince George",N,N,"",0,530,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 111","Prince George",N,N,"",0,530,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 111","Prince George",N,N,"",0,530,"Hill","","Jay","Conservative","Conservateur",Y,Y,95
+59022,Prince George--Peace River","Prince George--Peace River"," 112","Prince George",N,N,"",0,464,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59022,Prince George--Peace River","Prince George--Peace River"," 112","Prince George",N,N,"",0,464,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 112","Prince George",N,N,"",0,464,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 112","Prince George",N,N,"",0,464,"Hill","","Jay","Conservative","Conservateur",Y,Y,123
+59022,Prince George--Peace River","Prince George--Peace River"," 113","Prince George",N,N,"",0,442,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59022,Prince George--Peace River","Prince George--Peace River"," 113","Prince George",N,N,"",0,442,"Crowley","","Hilary","Green Party","Parti Vert",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 113","Prince George",N,N,"",0,442,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 113","Prince George",N,N,"",0,442,"Hill","","Jay","Conservative","Conservateur",Y,Y,161
+59022,Prince George--Peace River","Prince George--Peace River"," 114","Prince George",N,N,"",0,446,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59022,Prince George--Peace River","Prince George--Peace River"," 114","Prince George",N,N,"",0,446,"Crowley","","Hilary","Green Party","Parti Vert",N,N,31
+59022,Prince George--Peace River","Prince George--Peace River"," 114","Prince George",N,N,"",0,446,"Gidney","","Lindsay","Liberal","Libéral",N,N,36
+59022,Prince George--Peace River","Prince George--Peace River"," 114","Prince George",N,N,"",0,446,"Hill","","Jay","Conservative","Conservateur",Y,Y,134
+59022,Prince George--Peace River","Prince George--Peace River"," 115","Prince George",N,N,"",0,264,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 115","Prince George",N,N,"",0,264,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 115","Prince George",N,N,"",0,264,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 115","Prince George",N,N,"",0,264,"Hill","","Jay","Conservative","Conservateur",Y,Y,38
+59022,Prince George--Peace River","Prince George--Peace River"," 116","Prince George",N,N,"",0,362,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59022,Prince George--Peace River","Prince George--Peace River"," 116","Prince George",N,N,"",0,362,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 116","Prince George",N,N,"",0,362,"Gidney","","Lindsay","Liberal","Libéral",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 116","Prince George",N,N,"",0,362,"Hill","","Jay","Conservative","Conservateur",Y,Y,119
+59022,Prince George--Peace River","Prince George--Peace River"," 117","Prince George",N,N,"",0,448,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59022,Prince George--Peace River","Prince George--Peace River"," 117","Prince George",N,N,"",0,448,"Crowley","","Hilary","Green Party","Parti Vert",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 117","Prince George",N,N,"",0,448,"Gidney","","Lindsay","Liberal","Libéral",N,N,35
+59022,Prince George--Peace River","Prince George--Peace River"," 117","Prince George",N,N,"",0,448,"Hill","","Jay","Conservative","Conservateur",Y,Y,144
+59022,Prince George--Peace River","Prince George--Peace River"," 118","Prince George",N,N,"",1,505,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59022,Prince George--Peace River","Prince George--Peace River"," 118","Prince George",N,N,"",1,505,"Crowley","","Hilary","Green Party","Parti Vert",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 118","Prince George",N,N,"",1,505,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 118","Prince George",N,N,"",1,505,"Hill","","Jay","Conservative","Conservateur",Y,Y,179
+59022,Prince George--Peace River","Prince George--Peace River"," 118-1","Prince George",Y,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 118-1","Prince George",Y,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 118-1","Prince George",Y,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 118-1","Prince George",Y,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,0
+59022,Prince George--Peace River","Prince George--Peace River"," 119A","Prince George",N,N,"",0,279,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 119A","Prince George",N,N,"",0,279,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 119A","Prince George",N,N,"",0,279,"Gidney","","Lindsay","Liberal","Libéral",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 119A","Prince George",N,N,"",0,279,"Hill","","Jay","Conservative","Conservateur",Y,Y,71
+59022,Prince George--Peace River","Prince George--Peace River"," 119B","Prince George",N,N,"",0,389,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59022,Prince George--Peace River","Prince George--Peace River"," 119B","Prince George",N,N,"",0,389,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 119B","Prince George",N,N,"",0,389,"Gidney","","Lindsay","Liberal","Libéral",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 119B","Prince George",N,N,"",0,389,"Hill","","Jay","Conservative","Conservateur",Y,Y,132
+59022,Prince George--Peace River","Prince George--Peace River"," 120","Prince George",N,N,"",1,568,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+59022,Prince George--Peace River","Prince George--Peace River"," 120","Prince George",N,N,"",1,568,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 120","Prince George",N,N,"",1,568,"Gidney","","Lindsay","Liberal","Libéral",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 120","Prince George",N,N,"",1,568,"Hill","","Jay","Conservative","Conservateur",Y,Y,126
+59022,Prince George--Peace River","Prince George--Peace River"," 121","Prince George",N,N,"",1,547,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+59022,Prince George--Peace River","Prince George--Peace River"," 121","Prince George",N,N,"",1,547,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 121","Prince George",N,N,"",1,547,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 121","Prince George",N,N,"",1,547,"Hill","","Jay","Conservative","Conservateur",Y,Y,152
+59022,Prince George--Peace River","Prince George--Peace River"," 122","Prince George",N,N,"",0,543,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59022,Prince George--Peace River","Prince George--Peace River"," 122","Prince George",N,N,"",0,543,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 122","Prince George",N,N,"",0,543,"Gidney","","Lindsay","Liberal","Libéral",N,N,34
+59022,Prince George--Peace River","Prince George--Peace River"," 122","Prince George",N,N,"",0,543,"Hill","","Jay","Conservative","Conservateur",Y,Y,135
+59022,Prince George--Peace River","Prince George--Peace River"," 123","Prince George",N,N,"",1,412,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59022,Prince George--Peace River","Prince George--Peace River"," 123","Prince George",N,N,"",1,412,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 123","Prince George",N,N,"",1,412,"Gidney","","Lindsay","Liberal","Libéral",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 123","Prince George",N,N,"",1,412,"Hill","","Jay","Conservative","Conservateur",Y,Y,108
+59022,Prince George--Peace River","Prince George--Peace River"," 124","Prince George",N,N,"",0,308,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59022,Prince George--Peace River","Prince George--Peace River"," 124","Prince George",N,N,"",0,308,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 124","Prince George",N,N,"",0,308,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 124","Prince George",N,N,"",0,308,"Hill","","Jay","Conservative","Conservateur",Y,Y,93
+59022,Prince George--Peace River","Prince George--Peace River"," 125","Prince George",N,N,"",1,332,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 125","Prince George",N,N,"",1,332,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 125","Prince George",N,N,"",1,332,"Gidney","","Lindsay","Liberal","Libéral",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 125","Prince George",N,N,"",1,332,"Hill","","Jay","Conservative","Conservateur",Y,Y,114
+59022,Prince George--Peace River","Prince George--Peace River"," 126","Prince George",N,N,"",0,497,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59022,Prince George--Peace River","Prince George--Peace River"," 126","Prince George",N,N,"",0,497,"Crowley","","Hilary","Green Party","Parti Vert",N,N,39
+59022,Prince George--Peace River","Prince George--Peace River"," 126","Prince George",N,N,"",0,497,"Gidney","","Lindsay","Liberal","Libéral",N,N,41
+59022,Prince George--Peace River","Prince George--Peace River"," 126","Prince George",N,N,"",0,497,"Hill","","Jay","Conservative","Conservateur",Y,Y,167
+59022,Prince George--Peace River","Prince George--Peace River"," 127A","Prince George",N,N,"",1,354,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59022,Prince George--Peace River","Prince George--Peace River"," 127A","Prince George",N,N,"",1,354,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 127A","Prince George",N,N,"",1,354,"Gidney","","Lindsay","Liberal","Libéral",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 127A","Prince George",N,N,"",1,354,"Hill","","Jay","Conservative","Conservateur",Y,Y,86
+59022,Prince George--Peace River","Prince George--Peace River"," 127B","Prince George",N,N,"",0,414,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59022,Prince George--Peace River","Prince George--Peace River"," 127B","Prince George",N,N,"",0,414,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 127B","Prince George",N,N,"",0,414,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 127B","Prince George",N,N,"",0,414,"Hill","","Jay","Conservative","Conservateur",Y,Y,92
+59022,Prince George--Peace River","Prince George--Peace River"," 128","Prince George",N,N,"",0,468,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59022,Prince George--Peace River","Prince George--Peace River"," 128","Prince George",N,N,"",0,468,"Crowley","","Hilary","Green Party","Parti Vert",N,N,31
+59022,Prince George--Peace River","Prince George--Peace River"," 128","Prince George",N,N,"",0,468,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 128","Prince George",N,N,"",0,468,"Hill","","Jay","Conservative","Conservateur",Y,Y,105
+59022,Prince George--Peace River","Prince George--Peace River"," 129","Prince George",N,N,"",0,292,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 129","Prince George",N,N,"",0,292,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 129","Prince George",N,N,"",0,292,"Gidney","","Lindsay","Liberal","Libéral",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 129","Prince George",N,N,"",0,292,"Hill","","Jay","Conservative","Conservateur",Y,Y,71
+59022,Prince George--Peace River","Prince George--Peace River"," 130","Prince George",N,N,"",0,421,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59022,Prince George--Peace River","Prince George--Peace River"," 130","Prince George",N,N,"",0,421,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 130","Prince George",N,N,"",0,421,"Gidney","","Lindsay","Liberal","Libéral",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 130","Prince George",N,N,"",0,421,"Hill","","Jay","Conservative","Conservateur",Y,Y,100
+59022,Prince George--Peace River","Prince George--Peace River"," 131","Prince George",N,N,"",0,348,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59022,Prince George--Peace River","Prince George--Peace River"," 131","Prince George",N,N,"",0,348,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 131","Prince George",N,N,"",0,348,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 131","Prince George",N,N,"",0,348,"Hill","","Jay","Conservative","Conservateur",Y,Y,82
+59022,Prince George--Peace River","Prince George--Peace River"," 132","Prince George",N,N,"",0,251,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59022,Prince George--Peace River","Prince George--Peace River"," 132","Prince George",N,N,"",0,251,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 132","Prince George",N,N,"",0,251,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 132","Prince George",N,N,"",0,251,"Hill","","Jay","Conservative","Conservateur",Y,Y,46
+59022,Prince George--Peace River","Prince George--Peace River"," 133","Prince George",N,N,"",0,401,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59022,Prince George--Peace River","Prince George--Peace River"," 133","Prince George",N,N,"",0,401,"Crowley","","Hilary","Green Party","Parti Vert",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 133","Prince George",N,N,"",0,401,"Gidney","","Lindsay","Liberal","Libéral",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 133","Prince George",N,N,"",0,401,"Hill","","Jay","Conservative","Conservateur",Y,Y,106
+59022,Prince George--Peace River","Prince George--Peace River"," 134","Prince George",N,N,"",4,375,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59022,Prince George--Peace River","Prince George--Peace River"," 134","Prince George",N,N,"",4,375,"Crowley","","Hilary","Green Party","Parti Vert",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 134","Prince George",N,N,"",4,375,"Gidney","","Lindsay","Liberal","Libéral",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 134","Prince George",N,N,"",4,375,"Hill","","Jay","Conservative","Conservateur",Y,Y,60
+59022,Prince George--Peace River","Prince George--Peace River"," 135","Prince George",N,N,"",4,517,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59022,Prince George--Peace River","Prince George--Peace River"," 135","Prince George",N,N,"",4,517,"Crowley","","Hilary","Green Party","Parti Vert",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 135","Prince George",N,N,"",4,517,"Gidney","","Lindsay","Liberal","Libéral",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 135","Prince George",N,N,"",4,517,"Hill","","Jay","Conservative","Conservateur",Y,Y,66
+59022,Prince George--Peace River","Prince George--Peace River"," 136","Prince George",N,N,"",0,472,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59022,Prince George--Peace River","Prince George--Peace River"," 136","Prince George",N,N,"",0,472,"Crowley","","Hilary","Green Party","Parti Vert",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 136","Prince George",N,N,"",0,472,"Gidney","","Lindsay","Liberal","Libéral",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 136","Prince George",N,N,"",0,472,"Hill","","Jay","Conservative","Conservateur",Y,Y,87
+59022,Prince George--Peace River","Prince George--Peace River"," 137","Prince George",N,N,"",0,367,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59022,Prince George--Peace River","Prince George--Peace River"," 137","Prince George",N,N,"",0,367,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 137","Prince George",N,N,"",0,367,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 137","Prince George",N,N,"",0,367,"Hill","","Jay","Conservative","Conservateur",Y,Y,56
+59022,Prince George--Peace River","Prince George--Peace River"," 138","Prince George",N,N,"",0,474,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59022,Prince George--Peace River","Prince George--Peace River"," 138","Prince George",N,N,"",0,474,"Crowley","","Hilary","Green Party","Parti Vert",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 138","Prince George",N,N,"",0,474,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 138","Prince George",N,N,"",0,474,"Hill","","Jay","Conservative","Conservateur",Y,Y,57
+59022,Prince George--Peace River","Prince George--Peace River"," 139","Prince George",N,N,"",0,392,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59022,Prince George--Peace River","Prince George--Peace River"," 139","Prince George",N,N,"",0,392,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 139","Prince George",N,N,"",0,392,"Gidney","","Lindsay","Liberal","Libéral",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 139","Prince George",N,N,"",0,392,"Hill","","Jay","Conservative","Conservateur",Y,Y,72
+59022,Prince George--Peace River","Prince George--Peace River"," 140","Prince George",N,N,"",1,353,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59022,Prince George--Peace River","Prince George--Peace River"," 140","Prince George",N,N,"",1,353,"Crowley","","Hilary","Green Party","Parti Vert",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 140","Prince George",N,N,"",1,353,"Gidney","","Lindsay","Liberal","Libéral",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 140","Prince George",N,N,"",1,353,"Hill","","Jay","Conservative","Conservateur",Y,Y,63
+59022,Prince George--Peace River","Prince George--Peace River"," 141","Prince George",N,N,"",2,369,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59022,Prince George--Peace River","Prince George--Peace River"," 141","Prince George",N,N,"",2,369,"Crowley","","Hilary","Green Party","Parti Vert",N,N,27
+59022,Prince George--Peace River","Prince George--Peace River"," 141","Prince George",N,N,"",2,369,"Gidney","","Lindsay","Liberal","Libéral",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 141","Prince George",N,N,"",2,369,"Hill","","Jay","Conservative","Conservateur",Y,Y,87
+59022,Prince George--Peace River","Prince George--Peace River"," 142","Prince George",N,N,"",0,371,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59022,Prince George--Peace River","Prince George--Peace River"," 142","Prince George",N,N,"",0,371,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 142","Prince George",N,N,"",0,371,"Gidney","","Lindsay","Liberal","Libéral",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 142","Prince George",N,N,"",0,371,"Hill","","Jay","Conservative","Conservateur",Y,Y,80
+59022,Prince George--Peace River","Prince George--Peace River"," 143","Prince George",N,N,"",2,365,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59022,Prince George--Peace River","Prince George--Peace River"," 143","Prince George",N,N,"",2,365,"Crowley","","Hilary","Green Party","Parti Vert",N,N,37
+59022,Prince George--Peace River","Prince George--Peace River"," 143","Prince George",N,N,"",2,365,"Gidney","","Lindsay","Liberal","Libéral",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 143","Prince George",N,N,"",2,365,"Hill","","Jay","Conservative","Conservateur",Y,Y,47
+59022,Prince George--Peace River","Prince George--Peace River"," 144","Prince George",N,N,"",1,296,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59022,Prince George--Peace River","Prince George--Peace River"," 144","Prince George",N,N,"",1,296,"Crowley","","Hilary","Green Party","Parti Vert",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 144","Prince George",N,N,"",1,296,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 144","Prince George",N,N,"",1,296,"Hill","","Jay","Conservative","Conservateur",Y,Y,53
+59022,Prince George--Peace River","Prince George--Peace River"," 145","Prince George",N,N,"",0,301,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 145","Prince George",N,N,"",0,301,"Crowley","","Hilary","Green Party","Parti Vert",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 145","Prince George",N,N,"",0,301,"Gidney","","Lindsay","Liberal","Libéral",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 145","Prince George",N,N,"",0,301,"Hill","","Jay","Conservative","Conservateur",Y,Y,52
+59022,Prince George--Peace River","Prince George--Peace River"," 146","Prince George",N,N,"",1,609,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59022,Prince George--Peace River","Prince George--Peace River"," 146","Prince George",N,N,"",1,609,"Crowley","","Hilary","Green Party","Parti Vert",N,N,47
+59022,Prince George--Peace River","Prince George--Peace River"," 146","Prince George",N,N,"",1,609,"Gidney","","Lindsay","Liberal","Libéral",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 146","Prince George",N,N,"",1,609,"Hill","","Jay","Conservative","Conservateur",Y,Y,72
+59022,Prince George--Peace River","Prince George--Peace River"," 147","Prince George",Y,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 147","Prince George",Y,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 147","Prince George",Y,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 147","Prince George",Y,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,0
+59022,Prince George--Peace River","Prince George--Peace River"," 148","Sunset Prairie",N,N,"",0,144,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 148","Sunset Prairie",N,N,"",0,144,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 148","Sunset Prairie",N,N,"",0,144,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 148","Sunset Prairie",N,N,"",0,144,"Hill","","Jay","Conservative","Conservateur",Y,Y,45
+59022,Prince George--Peace River","Prince George--Peace River"," 149","Tower Lake",N,N,"",1,190,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 149","Tower Lake",N,N,"",1,190,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 149","Tower Lake",N,N,"",1,190,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 149","Tower Lake",N,N,"",1,190,"Hill","","Jay","Conservative","Conservateur",Y,Y,55
+59022,Prince George--Peace River","Prince George--Peace River"," 150","Doe River",N,N,"",0,227,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 150","Doe River",N,N,"",0,227,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 150","Doe River",N,N,"",0,227,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 150","Doe River",N,N,"",0,227,"Hill","","Jay","Conservative","Conservateur",Y,Y,72
+59022,Prince George--Peace River","Prince George--Peace River"," 151","Rolla",N,N,"",0,218,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 151","Rolla",N,N,"",0,218,"Crowley","","Hilary","Green Party","Parti Vert",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 151","Rolla",N,N,"",0,218,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 151","Rolla",N,N,"",0,218,"Hill","","Jay","Conservative","Conservateur",Y,Y,97
+59022,Prince George--Peace River","Prince George--Peace River"," 152","Farmington",N,N,"",0,254,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 152","Farmington",N,N,"",0,254,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 152","Farmington",N,N,"",0,254,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 152","Farmington",N,N,"",0,254,"Hill","","Jay","Conservative","Conservateur",Y,Y,136
+59022,Prince George--Peace River","Prince George--Peace River"," 153","Bessborough",N,N,"",1,533,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59022,Prince George--Peace River","Prince George--Peace River"," 153","Bessborough",N,N,"",1,533,"Crowley","","Hilary","Green Party","Parti Vert",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 153","Bessborough",N,N,"",1,533,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 153","Bessborough",N,N,"",1,533,"Hill","","Jay","Conservative","Conservateur",Y,Y,148
+59022,Prince George--Peace River","Prince George--Peace River"," 154","Sunset Prairie",N,N,"",0,141,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 154","Sunset Prairie",N,N,"",0,141,"Crowley","","Hilary","Green Party","Parti Vert",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 154","Sunset Prairie",N,N,"",0,141,"Gidney","","Lindsay","Liberal","Libéral",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 154","Sunset Prairie",N,N,"",0,141,"Hill","","Jay","Conservative","Conservateur",Y,Y,59
+59022,Prince George--Peace River","Prince George--Peace River"," 155","Sunset Prairie",N,N,"",0,200,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 155","Sunset Prairie",N,N,"",0,200,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 155","Sunset Prairie",N,N,"",0,200,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 155","Sunset Prairie",N,N,"",0,200,"Hill","","Jay","Conservative","Conservateur",Y,Y,66
+59022,Prince George--Peace River","Prince George--Peace River"," 156","Fellers Heights",N,N,"",0,306,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 156","Fellers Heights",N,N,"",0,306,"Crowley","","Hilary","Green Party","Parti Vert",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 156","Fellers Heights",N,N,"",0,306,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 156","Fellers Heights",N,N,"",0,306,"Hill","","Jay","Conservative","Conservateur",Y,Y,110
+59022,Prince George--Peace River","Prince George--Peace River"," 157","Dawson Creek",N,N,"",0,488,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59022,Prince George--Peace River","Prince George--Peace River"," 157","Dawson Creek",N,N,"",0,488,"Crowley","","Hilary","Green Party","Parti Vert",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 157","Dawson Creek",N,N,"",0,488,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 157","Dawson Creek",N,N,"",0,488,"Hill","","Jay","Conservative","Conservateur",Y,Y,146
+59022,Prince George--Peace River","Prince George--Peace River"," 158","Dawson Creek",N,N,"",0,145,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 158","Dawson Creek",N,N,"",0,145,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 158","Dawson Creek",N,N,"",0,145,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 158","Dawson Creek",N,N,"",0,145,"Hill","","Jay","Conservative","Conservateur",Y,Y,53
+59022,Prince George--Peace River","Prince George--Peace River"," 159","Dawson Creek",N,N,"",1,232,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 159","Dawson Creek",N,N,"",1,232,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 159","Dawson Creek",N,N,"",1,232,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 159","Dawson Creek",N,N,"",1,232,"Hill","","Jay","Conservative","Conservateur",Y,Y,99
+59022,Prince George--Peace River","Prince George--Peace River"," 160","Pouce Coupe",N,N,"",2,394,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 160","Pouce Coupe",N,N,"",2,394,"Crowley","","Hilary","Green Party","Parti Vert",N,N,31
+59022,Prince George--Peace River","Prince George--Peace River"," 160","Pouce Coupe",N,N,"",2,394,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 160","Pouce Coupe",N,N,"",2,394,"Hill","","Jay","Conservative","Conservateur",Y,Y,137
+59022,Prince George--Peace River","Prince George--Peace River"," 161","Pouce Coupe",N,N,"",1,368,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 161","Pouce Coupe",N,N,"",1,368,"Crowley","","Hilary","Green Party","Parti Vert",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 161","Pouce Coupe",N,N,"",1,368,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 161","Pouce Coupe",N,N,"",1,368,"Hill","","Jay","Conservative","Conservateur",Y,Y,102
+59022,Prince George--Peace River","Prince George--Peace River"," 162","Pouce Coupe",N,N,"",0,289,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 162","Pouce Coupe",N,N,"",0,289,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 162","Pouce Coupe",N,N,"",0,289,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 162","Pouce Coupe",N,N,"",0,289,"Hill","","Jay","Conservative","Conservateur",Y,Y,97
+59022,Prince George--Peace River","Prince George--Peace River"," 163","Tomslake",N,N,"",0,189,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59022,Prince George--Peace River","Prince George--Peace River"," 163","Tomslake",N,N,"",0,189,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 163","Tomslake",N,N,"",0,189,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 163","Tomslake",N,N,"",0,189,"Hill","","Jay","Conservative","Conservateur",Y,Y,66
+59022,Prince George--Peace River","Prince George--Peace River"," 164","Tupper",N,N,"",0,140,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 164","Tupper",N,N,"",0,140,"Crowley","","Hilary","Green Party","Parti Vert",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 164","Tupper",N,N,"",0,140,"Gidney","","Lindsay","Liberal","Libéral",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 164","Tupper",N,N,"",0,140,"Hill","","Jay","Conservative","Conservateur",Y,Y,55
+59022,Prince George--Peace River","Prince George--Peace River"," 165","Fellers Heights",N,N,"",0,85,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 165","Fellers Heights",N,N,"",0,85,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 165","Fellers Heights",N,N,"",0,85,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 165","Fellers Heights",N,N,"",0,85,"Hill","","Jay","Conservative","Conservateur",Y,Y,71
+59022,Prince George--Peace River","Prince George--Peace River"," 166","Tumbler Ridge",N,N,"",0,577,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59022,Prince George--Peace River","Prince George--Peace River"," 166","Tumbler Ridge",N,N,"",0,577,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 166","Tumbler Ridge",N,N,"",0,577,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 166","Tumbler Ridge",N,N,"",0,577,"Hill","","Jay","Conservative","Conservateur",Y,Y,131
+59022,Prince George--Peace River","Prince George--Peace River"," 167","Tumbler Ridge",N,N,"",0,244,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 167","Tumbler Ridge",N,N,"",0,244,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 167","Tumbler Ridge",N,N,"",0,244,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 167","Tumbler Ridge",N,N,"",0,244,"Hill","","Jay","Conservative","Conservateur",Y,Y,62
+59022,Prince George--Peace River","Prince George--Peace River"," 168","Tumbler Ridge",N,N,"",0,254,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 168","Tumbler Ridge",N,N,"",0,254,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 168","Tumbler Ridge",N,N,"",0,254,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 168","Tumbler Ridge",N,N,"",0,254,"Hill","","Jay","Conservative","Conservateur",Y,Y,74
+59022,Prince George--Peace River","Prince George--Peace River"," 169","Tumbler Ridge",N,N,"",0,225,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 169","Tumbler Ridge",N,N,"",0,225,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 169","Tumbler Ridge",N,N,"",0,225,"Gidney","","Lindsay","Liberal","Libéral",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 169","Tumbler Ridge",N,N,"",0,225,"Hill","","Jay","Conservative","Conservateur",Y,Y,59
+59022,Prince George--Peace River","Prince George--Peace River"," 170","Tumbler Ridge",N,N,"",0,247,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 170","Tumbler Ridge",N,N,"",0,247,"Crowley","","Hilary","Green Party","Parti Vert",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 170","Tumbler Ridge",N,N,"",0,247,"Gidney","","Lindsay","Liberal","Libéral",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 170","Tumbler Ridge",N,N,"",0,247,"Hill","","Jay","Conservative","Conservateur",Y,Y,80
+59022,Prince George--Peace River","Prince George--Peace River"," 171","Tumbler Ridge",N,N,"",0,201,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 171","Tumbler Ridge",N,N,"",0,201,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 171","Tumbler Ridge",N,N,"",0,201,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 171","Tumbler Ridge",N,N,"",0,201,"Hill","","Jay","Conservative","Conservateur",Y,Y,70
+59022,Prince George--Peace River","Prince George--Peace River"," 172","Kelly Lake",N,N,"",0,53,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 172","Kelly Lake",N,N,"",0,53,"Crowley","","Hilary","Green Party","Parti Vert",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 172","Kelly Lake",N,N,"",0,53,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 172","Kelly Lake",N,N,"",0,53,"Hill","","Jay","Conservative","Conservateur",Y,Y,4
+59022,Prince George--Peace River","Prince George--Peace River"," 173","Dawson Creek",N,N,"",3,530,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59022,Prince George--Peace River","Prince George--Peace River"," 173","Dawson Creek",N,N,"",3,530,"Crowley","","Hilary","Green Party","Parti Vert",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 173","Dawson Creek",N,N,"",3,530,"Gidney","","Lindsay","Liberal","Libéral",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 173","Dawson Creek",N,N,"",3,530,"Hill","","Jay","Conservative","Conservateur",Y,Y,166
+59022,Prince George--Peace River","Prince George--Peace River"," 174","Dawson Creek",N,N,"",1,411,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 174","Dawson Creek",N,N,"",1,411,"Crowley","","Hilary","Green Party","Parti Vert",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 174","Dawson Creek",N,N,"",1,411,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 174","Dawson Creek",N,N,"",1,411,"Hill","","Jay","Conservative","Conservateur",Y,Y,97
+59022,Prince George--Peace River","Prince George--Peace River"," 175","Dawson Creek",N,N,"",0,381,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59022,Prince George--Peace River","Prince George--Peace River"," 175","Dawson Creek",N,N,"",0,381,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 175","Dawson Creek",N,N,"",0,381,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 175","Dawson Creek",N,N,"",0,381,"Hill","","Jay","Conservative","Conservateur",Y,Y,90
+59022,Prince George--Peace River","Prince George--Peace River"," 176","Dawson Creek",N,N,"",0,522,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59022,Prince George--Peace River","Prince George--Peace River"," 176","Dawson Creek",N,N,"",0,522,"Crowley","","Hilary","Green Party","Parti Vert",N,N,35
+59022,Prince George--Peace River","Prince George--Peace River"," 176","Dawson Creek",N,N,"",0,522,"Gidney","","Lindsay","Liberal","Libéral",N,N,27
+59022,Prince George--Peace River","Prince George--Peace River"," 176","Dawson Creek",N,N,"",0,522,"Hill","","Jay","Conservative","Conservateur",Y,Y,132
+59022,Prince George--Peace River","Prince George--Peace River"," 177","Dawson Creek",N,N,"",0,364,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 177","Dawson Creek",N,N,"",0,364,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 177","Dawson Creek",N,N,"",0,364,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 177","Dawson Creek",N,N,"",0,364,"Hill","","Jay","Conservative","Conservateur",Y,Y,132
+59022,Prince George--Peace River","Prince George--Peace River"," 178","Dawson Creek",N,N,"",0,430,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59022,Prince George--Peace River","Prince George--Peace River"," 178","Dawson Creek",N,N,"",0,430,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 178","Dawson Creek",N,N,"",0,430,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 178","Dawson Creek",N,N,"",0,430,"Hill","","Jay","Conservative","Conservateur",Y,Y,124
+59022,Prince George--Peace River","Prince George--Peace River"," 179","Dawson Creek",N,N,"",5,490,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59022,Prince George--Peace River","Prince George--Peace River"," 179","Dawson Creek",N,N,"",5,490,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 179","Dawson Creek",N,N,"",5,490,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 179","Dawson Creek",N,N,"",5,490,"Hill","","Jay","Conservative","Conservateur",Y,Y,124
+59022,Prince George--Peace River","Prince George--Peace River"," 180","Dawson Creek",N,N,"",1,371,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 180","Dawson Creek",N,N,"",1,371,"Crowley","","Hilary","Green Party","Parti Vert",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 180","Dawson Creek",N,N,"",1,371,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 180","Dawson Creek",N,N,"",1,371,"Hill","","Jay","Conservative","Conservateur",Y,Y,76
+59022,Prince George--Peace River","Prince George--Peace River"," 181","Dawson Creek",N,N,"",1,331,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 181","Dawson Creek",N,N,"",1,331,"Crowley","","Hilary","Green Party","Parti Vert",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 181","Dawson Creek",N,N,"",1,331,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 181","Dawson Creek",N,N,"",1,331,"Hill","","Jay","Conservative","Conservateur",Y,Y,52
+59022,Prince George--Peace River","Prince George--Peace River"," 182","Dawson Creek",N,N,"",0,549,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59022,Prince George--Peace River","Prince George--Peace River"," 182","Dawson Creek",N,N,"",0,549,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 182","Dawson Creek",N,N,"",0,549,"Gidney","","Lindsay","Liberal","Libéral",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 182","Dawson Creek",N,N,"",0,549,"Hill","","Jay","Conservative","Conservateur",Y,Y,119
+59022,Prince George--Peace River","Prince George--Peace River"," 183","Dawson Creek",N,N,"",1,509,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59022,Prince George--Peace River","Prince George--Peace River"," 183","Dawson Creek",N,N,"",1,509,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 183","Dawson Creek",N,N,"",1,509,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 183","Dawson Creek",N,N,"",1,509,"Hill","","Jay","Conservative","Conservateur",Y,Y,121
+59022,Prince George--Peace River","Prince George--Peace River"," 184","Dawson Creek",N,N,"",0,308,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 184","Dawson Creek",N,N,"",0,308,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 184","Dawson Creek",N,N,"",0,308,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 184","Dawson Creek",N,N,"",0,308,"Hill","","Jay","Conservative","Conservateur",Y,Y,75
+59022,Prince George--Peace River","Prince George--Peace River"," 185","Dawson Creek",N,N,"",1,364,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 185","Dawson Creek",N,N,"",1,364,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 185","Dawson Creek",N,N,"",1,364,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 185","Dawson Creek",N,N,"",1,364,"Hill","","Jay","Conservative","Conservateur",Y,Y,107
+59022,Prince George--Peace River","Prince George--Peace River"," 186","Dawson Creek",N,N,"",0,449,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59022,Prince George--Peace River","Prince George--Peace River"," 186","Dawson Creek",N,N,"",0,449,"Crowley","","Hilary","Green Party","Parti Vert",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 186","Dawson Creek",N,N,"",0,449,"Gidney","","Lindsay","Liberal","Libéral",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 186","Dawson Creek",N,N,"",0,449,"Hill","","Jay","Conservative","Conservateur",Y,Y,104
+59022,Prince George--Peace River","Prince George--Peace River"," 187","Dawson Creek",N,N,"",1,344,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 187","Dawson Creek",N,N,"",1,344,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 187","Dawson Creek",N,N,"",1,344,"Gidney","","Lindsay","Liberal","Libéral",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 187","Dawson Creek",N,N,"",1,344,"Hill","","Jay","Conservative","Conservateur",Y,Y,84
+59022,Prince George--Peace River","Prince George--Peace River"," 188","Dawson Creek",N,N,"",1,507,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59022,Prince George--Peace River","Prince George--Peace River"," 188","Dawson Creek",N,N,"",1,507,"Crowley","","Hilary","Green Party","Parti Vert",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 188","Dawson Creek",N,N,"",1,507,"Gidney","","Lindsay","Liberal","Libéral",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 188","Dawson Creek",N,N,"",1,507,"Hill","","Jay","Conservative","Conservateur",Y,Y,55
+59022,Prince George--Peace River","Prince George--Peace River"," 189","Dawson Creek",N,N,"",1,370,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 189","Dawson Creek",N,N,"",1,370,"Crowley","","Hilary","Green Party","Parti Vert",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 189","Dawson Creek",N,N,"",1,370,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 189","Dawson Creek",N,N,"",1,370,"Hill","","Jay","Conservative","Conservateur",Y,Y,73
+59022,Prince George--Peace River","Prince George--Peace River"," 190","Dawson Creek",N,N,"",1,427,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 190","Dawson Creek",N,N,"",1,427,"Crowley","","Hilary","Green Party","Parti Vert",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 190","Dawson Creek",N,N,"",1,427,"Gidney","","Lindsay","Liberal","Libéral",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 190","Dawson Creek",N,N,"",1,427,"Hill","","Jay","Conservative","Conservateur",Y,Y,81
+59022,Prince George--Peace River","Prince George--Peace River"," 191","Dome Creek",N,N,"",0,37,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 191","Dome Creek",N,N,"",0,37,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 191","Dome Creek",N,N,"",0,37,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 191","Dome Creek",N,N,"",0,37,"Hill","","Jay","Conservative","Conservateur",Y,Y,10
+59022,Prince George--Peace River","Prince George--Peace River"," 192","Crescent Spur",N,N,"",0,36,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 192","Crescent Spur",N,N,"",0,36,"Crowley","","Hilary","Green Party","Parti Vert",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 192","Crescent Spur",N,N,"",0,36,"Gidney","","Lindsay","Liberal","Libéral",N,N,0
+59022,Prince George--Peace River","Prince George--Peace River"," 192","Crescent Spur",N,N,"",0,36,"Hill","","Jay","Conservative","Conservateur",Y,Y,8
+59022,Prince George--Peace River","Prince George--Peace River"," 193","McBride",N,N,"",0,417,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59022,Prince George--Peace River","Prince George--Peace River"," 193","McBride",N,N,"",0,417,"Crowley","","Hilary","Green Party","Parti Vert",N,N,45
+59022,Prince George--Peace River","Prince George--Peace River"," 193","McBride",N,N,"",0,417,"Gidney","","Lindsay","Liberal","Libéral",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 193","McBride",N,N,"",0,417,"Hill","","Jay","Conservative","Conservateur",Y,Y,131
+59022,Prince George--Peace River","Prince George--Peace River"," 194","McBride",N,N,"",0,343,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59022,Prince George--Peace River","Prince George--Peace River"," 194","McBride",N,N,"",0,343,"Crowley","","Hilary","Green Party","Parti Vert",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 194","McBride",N,N,"",0,343,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 194","McBride",N,N,"",0,343,"Hill","","Jay","Conservative","Conservateur",Y,Y,86
+59022,Prince George--Peace River","Prince George--Peace River"," 195","McBride",N,N,"",0,166,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 195","McBride",N,N,"",0,166,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 195","McBride",N,N,"",0,166,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 195","McBride",N,N,"",0,166,"Hill","","Jay","Conservative","Conservateur",Y,Y,59
+59022,Prince George--Peace River","Prince George--Peace River"," 196","Dunster",N,N,"",1,174,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 196","Dunster",N,N,"",1,174,"Crowley","","Hilary","Green Party","Parti Vert",N,N,34
+59022,Prince George--Peace River","Prince George--Peace River"," 196","Dunster",N,N,"",1,174,"Gidney","","Lindsay","Liberal","Libéral",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 196","Dunster",N,N,"",1,174,"Hill","","Jay","Conservative","Conservateur",Y,Y,54
+59022,Prince George--Peace River","Prince George--Peace River"," 500","Mobile poll/Bureau itinérant",N,N,"",1,233,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 500","Mobile poll/Bureau itinérant",N,N,"",1,233,"Crowley","","Hilary","Green Party","Parti Vert",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 500","Mobile poll/Bureau itinérant",N,N,"",1,233,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 500","Mobile poll/Bureau itinérant",N,N,"",1,233,"Hill","","Jay","Conservative","Conservateur",Y,Y,101
+59022,Prince George--Peace River","Prince George--Peace River"," 501","Mobile poll/Bureau itinérant",N,N,"",0,113,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 501","Mobile poll/Bureau itinérant",N,N,"",0,113,"Crowley","","Hilary","Green Party","Parti Vert",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 501","Mobile poll/Bureau itinérant",N,N,"",0,113,"Gidney","","Lindsay","Liberal","Libéral",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 501","Mobile poll/Bureau itinérant",N,N,"",0,113,"Hill","","Jay","Conservative","Conservateur",Y,Y,54
+59022,Prince George--Peace River","Prince George--Peace River"," 502","Mobile poll/Bureau itinérant",N,N,"",0,99,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 502","Mobile poll/Bureau itinérant",N,N,"",0,99,"Crowley","","Hilary","Green Party","Parti Vert",N,N,3
+59022,Prince George--Peace River","Prince George--Peace River"," 502","Mobile poll/Bureau itinérant",N,N,"",0,99,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 502","Mobile poll/Bureau itinérant",N,N,"",0,99,"Hill","","Jay","Conservative","Conservateur",Y,Y,54
+59022,Prince George--Peace River","Prince George--Peace River"," 503","Mobile poll/Bureau itinérant",N,N,"",2,180,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59022,Prince George--Peace River","Prince George--Peace River"," 503","Mobile poll/Bureau itinérant",N,N,"",2,180,"Crowley","","Hilary","Green Party","Parti Vert",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 503","Mobile poll/Bureau itinérant",N,N,"",2,180,"Gidney","","Lindsay","Liberal","Libéral",N,N,19
+59022,Prince George--Peace River","Prince George--Peace River"," 503","Mobile poll/Bureau itinérant",N,N,"",2,180,"Hill","","Jay","Conservative","Conservateur",Y,Y,53
+59022,Prince George--Peace River","Prince George--Peace River"," 504","Mobile poll/Bureau itinérant",N,N,"",1,148,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59022,Prince George--Peace River","Prince George--Peace River"," 504","Mobile poll/Bureau itinérant",N,N,"",1,148,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 504","Mobile poll/Bureau itinérant",N,N,"",1,148,"Gidney","","Lindsay","Liberal","Libéral",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 504","Mobile poll/Bureau itinérant",N,N,"",1,148,"Hill","","Jay","Conservative","Conservateur",Y,Y,18
+59022,Prince George--Peace River","Prince George--Peace River"," 600","Fort Nelson",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 600","Fort Nelson",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 600","Fort Nelson",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 600","Fort Nelson",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,106
+59022,Prince George--Peace River","Prince George--Peace River"," 601","Mackenzie",N,N,"",1,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 601","Mackenzie",N,N,"",1,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 601","Mackenzie",N,N,"",1,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 601","Mackenzie",N,N,"",1,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,121
+59022,Prince George--Peace River","Prince George--Peace River"," 602","Charlie Lake",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 602","Charlie Lake",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 602","Charlie Lake",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 602","Charlie Lake",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,171
+59022,Prince George--Peace River","Prince George--Peace River"," 603","Taylor--Fort St. John",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," 603","Taylor--Fort St. John",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 603","Taylor--Fort St. John",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,1
+59022,Prince George--Peace River","Prince George--Peace River"," 603","Taylor--Fort St. John",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,102
+59022,Prince George--Peace River","Prince George--Peace River"," 604","Fort St. John",N,N,"",1,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," 604","Fort St. John",N,N,"",1,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,23
+59022,Prince George--Peace River","Prince George--Peace River"," 604","Fort St. John",N,N,"",1,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 604","Fort St. John",N,N,"",1,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,237
+59022,Prince George--Peace River","Prince George--Peace River"," 605","Fort St. John",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 605","Fort St. John",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 605","Fort St. John",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,14
+59022,Prince George--Peace River","Prince George--Peace River"," 605","Fort St. John",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,194
+59022,Prince George--Peace River","Prince George--Peace River"," 606","Chetwynd",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59022,Prince George--Peace River","Prince George--Peace River"," 606","Chetwynd",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 606","Chetwynd",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,13
+59022,Prince George--Peace River","Prince George--Peace River"," 606","Chetwynd",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,116
+59022,Prince George--Peace River","Prince George--Peace River"," 607","Nukko Lake",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 607","Nukko Lake",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,22
+59022,Prince George--Peace River","Prince George--Peace River"," 607","Nukko Lake",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,16
+59022,Prince George--Peace River","Prince George--Peace River"," 607","Nukko Lake",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,91
+59022,Prince George--Peace River","Prince George--Peace River"," 608","Pineview",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59022,Prince George--Peace River","Prince George--Peace River"," 608","Pineview",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 608","Pineview",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,18
+59022,Prince George--Peace River","Prince George--Peace River"," 608","Pineview",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,138
+59022,Prince George--Peace River","Prince George--Peace River"," 609","Prince George",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59022,Prince George--Peace River","Prince George--Peace River"," 609","Prince George",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 609","Prince George",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,26
+59022,Prince George--Peace River","Prince George--Peace River"," 609","Prince George",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,184
+59022,Prince George--Peace River","Prince George--Peace River"," 610","Prince George",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+59022,Prince George--Peace River","Prince George--Peace River"," 610","Prince George",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,34
+59022,Prince George--Peace River","Prince George--Peace River"," 610","Prince George",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 610","Prince George",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,212
+59022,Prince George--Peace River","Prince George--Peace River"," 611","Prince George",N,N,"",1,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+59022,Prince George--Peace River","Prince George--Peace River"," 611","Prince George",N,N,"",1,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,39
+59022,Prince George--Peace River","Prince George--Peace River"," 611","Prince George",N,N,"",1,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,29
+59022,Prince George--Peace River","Prince George--Peace River"," 611","Prince George",N,N,"",1,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,140
+59022,Prince George--Peace River","Prince George--Peace River"," 612","Sunset Prairie",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59022,Prince George--Peace River","Prince George--Peace River"," 612","Sunset Prairie",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 612","Sunset Prairie",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 612","Sunset Prairie",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,112
+59022,Prince George--Peace River","Prince George--Peace River"," 613","Pouce Coupe",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59022,Prince George--Peace River","Prince George--Peace River"," 613","Pouce Coupe",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,8
+59022,Prince George--Peace River","Prince George--Peace River"," 613","Pouce Coupe",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,4
+59022,Prince George--Peace River","Prince George--Peace River"," 613","Pouce Coupe",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,63
+59022,Prince George--Peace River","Prince George--Peace River"," 614","Tumbler Ridge",N,N,"",0,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 614","Tumbler Ridge",N,N,"",0,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,5
+59022,Prince George--Peace River","Prince George--Peace River"," 614","Tumbler Ridge",N,N,"",0,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,12
+59022,Prince George--Peace River","Prince George--Peace River"," 614","Tumbler Ridge",N,N,"",0,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,87
+59022,Prince George--Peace River","Prince George--Peace River"," 615","Dawson Creek",N,N,"",3,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59022,Prince George--Peace River","Prince George--Peace River"," 615","Dawson Creek",N,N,"",3,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,24
+59022,Prince George--Peace River","Prince George--Peace River"," 615","Dawson Creek",N,N,"",3,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,15
+59022,Prince George--Peace River","Prince George--Peace River"," 615","Dawson Creek",N,N,"",3,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,182
+59022,Prince George--Peace River","Prince George--Peace River"," 616","Dawson Creek",N,N,"",2,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59022,Prince George--Peace River","Prince George--Peace River"," 616","Dawson Creek",N,N,"",2,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,27
+59022,Prince George--Peace River","Prince George--Peace River"," 616","Dawson Creek",N,N,"",2,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,20
+59022,Prince George--Peace River","Prince George--Peace River"," 616","Dawson Creek",N,N,"",2,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,213
+59022,Prince George--Peace River","Prince George--Peace River"," 617","McBride",N,N,"",1,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59022,Prince George--Peace River","Prince George--Peace River"," 617","McBride",N,N,"",1,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,6
+59022,Prince George--Peace River","Prince George--Peace River"," 617","McBride",N,N,"",1,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,2
+59022,Prince George--Peace River","Prince George--Peace River"," 617","McBride",N,N,"",1,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,39
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,188,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,188,"Crowley","","Hilary","Green Party","Parti Vert",N,N,10
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,188,"Gidney","","Lindsay","Liberal","Libéral",N,N,32
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,188,"Hill","","Jay","Conservative","Conservateur",Y,Y,46
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Bekkering","","Betty","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Crowley","","Hilary","Green Party","Parti Vert",N,N,46
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Gidney","","Lindsay","Liberal","Libéral",N,N,47
+59022,Prince George--Peace River","Prince George--Peace River"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Hill","","Jay","Conservative","Conservateur",Y,Y,315
+

@@ -1,0 +1,781 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+47005,"Palliser","Palliser"," 1","Caron",N,N,"",0,338,"Batters","","Dave","Conservative","Conservateur",Y,Y,151
+47005,"Palliser","Palliser"," 1","Caron",N,N,"",0,338,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,34
+47005,"Palliser","Palliser"," 1","Caron",N,N,"",0,338,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 1","Caron",N,N,"",0,338,"Shasko","","Larissa","Green Party","Parti Vert",N,N,3
+47005,"Palliser","Palliser"," 1","Caron",N,N,"",0,338,"Williams","","John","Liberal","Libéral",N,N,13
+47005,"Palliser","Palliser"," 2","Caronport",N,N,"",0,272,"Batters","","Dave","Conservative","Conservateur",Y,Y,207
+47005,"Palliser","Palliser"," 2","Caronport",N,N,"",0,272,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,13
+47005,"Palliser","Palliser"," 2","Caronport",N,N,"",0,272,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 2","Caronport",N,N,"",0,272,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 2","Caronport",N,N,"",0,272,"Williams","","John","Liberal","Libéral",N,N,3
+47005,"Palliser","Palliser"," 3","Caronport",N,N,"",1,646,"Batters","","Dave","Conservative","Conservateur",Y,Y,442
+47005,"Palliser","Palliser"," 3","Caronport",N,N,"",1,646,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,8
+47005,"Palliser","Palliser"," 3","Caronport",N,N,"",1,646,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 3","Caronport",N,N,"",1,646,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 3","Caronport",N,N,"",1,646,"Williams","","John","Liberal","Libéral",N,N,8
+47005,"Palliser","Palliser"," 4","Pasqua",N,N,"",0,217,"Batters","","Dave","Conservative","Conservateur",Y,Y,101
+47005,"Palliser","Palliser"," 4","Pasqua",N,N,"",0,217,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+47005,"Palliser","Palliser"," 4","Pasqua",N,N,"",0,217,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 4","Pasqua",N,N,"",0,217,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 4","Pasqua",N,N,"",0,217,"Williams","","John","Liberal","Libéral",N,N,12
+47005,"Palliser","Palliser"," 5","Boharm",N,N,"",0,319,"Batters","","Dave","Conservative","Conservateur",Y,Y,123
+47005,"Palliser","Palliser"," 5","Boharm",N,N,"",0,319,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,32
+47005,"Palliser","Palliser"," 5","Boharm",N,N,"",0,319,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 5","Boharm",N,N,"",0,319,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 5","Boharm",N,N,"",0,319,"Williams","","John","Liberal","Libéral",N,N,16
+47005,"Palliser","Palliser"," 6","Bushell Park",N,N,"",2,203,"Batters","","Dave","Conservative","Conservateur",Y,Y,51
+47005,"Palliser","Palliser"," 6","Bushell Park",N,N,"",2,203,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+47005,"Palliser","Palliser"," 6","Bushell Park",N,N,"",2,203,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 6","Bushell Park",N,N,"",2,203,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 6","Bushell Park",N,N,"",2,203,"Williams","","John","Liberal","Libéral",N,N,13
+47005,"Palliser","Palliser"," 7","Baildon",N,N,"",1,275,"Batters","","Dave","Conservative","Conservateur",Y,Y,120
+47005,"Palliser","Palliser"," 7","Baildon",N,N,"",1,275,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,45
+47005,"Palliser","Palliser"," 7","Baildon",N,N,"",1,275,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 7","Baildon",N,N,"",1,275,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 7","Baildon",N,N,"",1,275,"Williams","","John","Liberal","Libéral",N,N,10
+47005,"Palliser","Palliser"," 8","Moose Jaw",N,N,"",0,565,"Batters","","Dave","Conservative","Conservateur",Y,Y,213
+47005,"Palliser","Palliser"," 8","Moose Jaw",N,N,"",0,565,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,66
+47005,"Palliser","Palliser"," 8","Moose Jaw",N,N,"",0,565,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 8","Moose Jaw",N,N,"",0,565,"Shasko","","Larissa","Green Party","Parti Vert",N,N,12
+47005,"Palliser","Palliser"," 8","Moose Jaw",N,N,"",0,565,"Williams","","John","Liberal","Libéral",N,N,45
+47005,"Palliser","Palliser"," 9","Moose Jaw",N,N,"",0,411,"Batters","","Dave","Conservative","Conservateur",Y,Y,134
+47005,"Palliser","Palliser"," 9","Moose Jaw",N,N,"",0,411,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,62
+47005,"Palliser","Palliser"," 9","Moose Jaw",N,N,"",0,411,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,3
+47005,"Palliser","Palliser"," 9","Moose Jaw",N,N,"",0,411,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 9","Moose Jaw",N,N,"",0,411,"Williams","","John","Liberal","Libéral",N,N,49
+47005,"Palliser","Palliser"," 10","Moose Jaw",N,N,"",0,574,"Batters","","Dave","Conservative","Conservateur",Y,Y,218
+47005,"Palliser","Palliser"," 10","Moose Jaw",N,N,"",0,574,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,87
+47005,"Palliser","Palliser"," 10","Moose Jaw",N,N,"",0,574,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 10","Moose Jaw",N,N,"",0,574,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 10","Moose Jaw",N,N,"",0,574,"Williams","","John","Liberal","Libéral",N,N,45
+47005,"Palliser","Palliser"," 11","Moose Jaw",N,N,"",1,352,"Batters","","Dave","Conservative","Conservateur",Y,Y,144
+47005,"Palliser","Palliser"," 11","Moose Jaw",N,N,"",1,352,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,70
+47005,"Palliser","Palliser"," 11","Moose Jaw",N,N,"",1,352,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 11","Moose Jaw",N,N,"",1,352,"Shasko","","Larissa","Green Party","Parti Vert",N,N,3
+47005,"Palliser","Palliser"," 11","Moose Jaw",N,N,"",1,352,"Williams","","John","Liberal","Libéral",N,N,26
+47005,"Palliser","Palliser"," 12","Moose Jaw",N,N,"",1,525,"Batters","","Dave","Conservative","Conservateur",Y,Y,195
+47005,"Palliser","Palliser"," 12","Moose Jaw",N,N,"",1,525,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,76
+47005,"Palliser","Palliser"," 12","Moose Jaw",N,N,"",1,525,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 12","Moose Jaw",N,N,"",1,525,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 12","Moose Jaw",N,N,"",1,525,"Williams","","John","Liberal","Libéral",N,N,41
+47005,"Palliser","Palliser"," 13","Moose Jaw",N,N,"",2,619,"Batters","","Dave","Conservative","Conservateur",Y,Y,182
+47005,"Palliser","Palliser"," 13","Moose Jaw",N,N,"",2,619,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,114
+47005,"Palliser","Palliser"," 13","Moose Jaw",N,N,"",2,619,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 13","Moose Jaw",N,N,"",2,619,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 13","Moose Jaw",N,N,"",2,619,"Williams","","John","Liberal","Libéral",N,N,69
+47005,"Palliser","Palliser"," 14","Moose Jaw",N,N,"",0,401,"Batters","","Dave","Conservative","Conservateur",Y,Y,115
+47005,"Palliser","Palliser"," 14","Moose Jaw",N,N,"",0,401,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,95
+47005,"Palliser","Palliser"," 14","Moose Jaw",N,N,"",0,401,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 14","Moose Jaw",N,N,"",0,401,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 14","Moose Jaw",N,N,"",0,401,"Williams","","John","Liberal","Libéral",N,N,50
+47005,"Palliser","Palliser"," 15","Moose Jaw",N,N,"",0,361,"Batters","","Dave","Conservative","Conservateur",Y,Y,138
+47005,"Palliser","Palliser"," 15","Moose Jaw",N,N,"",0,361,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,72
+47005,"Palliser","Palliser"," 15","Moose Jaw",N,N,"",0,361,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 15","Moose Jaw",N,N,"",0,361,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 15","Moose Jaw",N,N,"",0,361,"Williams","","John","Liberal","Libéral",N,N,30
+47005,"Palliser","Palliser"," 16","Moose Jaw",N,N,"",0,441,"Batters","","Dave","Conservative","Conservateur",Y,Y,157
+47005,"Palliser","Palliser"," 16","Moose Jaw",N,N,"",0,441,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,51
+47005,"Palliser","Palliser"," 16","Moose Jaw",N,N,"",0,441,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 16","Moose Jaw",N,N,"",0,441,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 16","Moose Jaw",N,N,"",0,441,"Williams","","John","Liberal","Libéral",N,N,33
+47005,"Palliser","Palliser"," 17","Moose Jaw",N,N,"",0,378,"Batters","","Dave","Conservative","Conservateur",Y,Y,111
+47005,"Palliser","Palliser"," 17","Moose Jaw",N,N,"",0,378,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,62
+47005,"Palliser","Palliser"," 17","Moose Jaw",N,N,"",0,378,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 17","Moose Jaw",N,N,"",0,378,"Shasko","","Larissa","Green Party","Parti Vert",N,N,3
+47005,"Palliser","Palliser"," 17","Moose Jaw",N,N,"",0,378,"Williams","","John","Liberal","Libéral",N,N,46
+47005,"Palliser","Palliser"," 18","Moose Jaw",N,N,"",2,621,"Batters","","Dave","Conservative","Conservateur",Y,Y,152
+47005,"Palliser","Palliser"," 18","Moose Jaw",N,N,"",2,621,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,113
+47005,"Palliser","Palliser"," 18","Moose Jaw",N,N,"",2,621,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 18","Moose Jaw",N,N,"",2,621,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 18","Moose Jaw",N,N,"",2,621,"Williams","","John","Liberal","Libéral",N,N,48
+47005,"Palliser","Palliser"," 19","Moose Jaw",N,N,"",1,405,"Batters","","Dave","Conservative","Conservateur",Y,Y,130
+47005,"Palliser","Palliser"," 19","Moose Jaw",N,N,"",1,405,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,62
+47005,"Palliser","Palliser"," 19","Moose Jaw",N,N,"",1,405,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 19","Moose Jaw",N,N,"",1,405,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 19","Moose Jaw",N,N,"",1,405,"Williams","","John","Liberal","Libéral",N,N,37
+47005,"Palliser","Palliser"," 20","Moose Jaw",N,N,"",0,336,"Batters","","Dave","Conservative","Conservateur",Y,Y,86
+47005,"Palliser","Palliser"," 20","Moose Jaw",N,N,"",0,336,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,72
+47005,"Palliser","Palliser"," 20","Moose Jaw",N,N,"",0,336,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 20","Moose Jaw",N,N,"",0,336,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 20","Moose Jaw",N,N,"",0,336,"Williams","","John","Liberal","Libéral",N,N,37
+47005,"Palliser","Palliser"," 21","Moose Jaw",N,N,"",0,289,"Batters","","Dave","Conservative","Conservateur",Y,Y,81
+47005,"Palliser","Palliser"," 21","Moose Jaw",N,N,"",0,289,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,52
+47005,"Palliser","Palliser"," 21","Moose Jaw",N,N,"",0,289,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 21","Moose Jaw",N,N,"",0,289,"Shasko","","Larissa","Green Party","Parti Vert",N,N,3
+47005,"Palliser","Palliser"," 21","Moose Jaw",N,N,"",0,289,"Williams","","John","Liberal","Libéral",N,N,32
+47005,"Palliser","Palliser"," 22","Moose Jaw",N,N,"",0,382,"Batters","","Dave","Conservative","Conservateur",Y,Y,109
+47005,"Palliser","Palliser"," 22","Moose Jaw",N,N,"",0,382,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,77
+47005,"Palliser","Palliser"," 22","Moose Jaw",N,N,"",0,382,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 22","Moose Jaw",N,N,"",0,382,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 22","Moose Jaw",N,N,"",0,382,"Williams","","John","Liberal","Libéral",N,N,37
+47005,"Palliser","Palliser"," 23","Moose Jaw",N,N,"",1,297,"Batters","","Dave","Conservative","Conservateur",Y,Y,70
+47005,"Palliser","Palliser"," 23","Moose Jaw",N,N,"",1,297,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,59
+47005,"Palliser","Palliser"," 23","Moose Jaw",N,N,"",1,297,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,3
+47005,"Palliser","Palliser"," 23","Moose Jaw",N,N,"",1,297,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 23","Moose Jaw",N,N,"",1,297,"Williams","","John","Liberal","Libéral",N,N,18
+47005,"Palliser","Palliser"," 24","Moose Jaw",N,N,"",0,417,"Batters","","Dave","Conservative","Conservateur",Y,Y,133
+47005,"Palliser","Palliser"," 24","Moose Jaw",N,N,"",0,417,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,82
+47005,"Palliser","Palliser"," 24","Moose Jaw",N,N,"",0,417,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 24","Moose Jaw",N,N,"",0,417,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 24","Moose Jaw",N,N,"",0,417,"Williams","","John","Liberal","Libéral",N,N,29
+47005,"Palliser","Palliser"," 25","Moose Jaw",N,N,"",0,183,"Batters","","Dave","Conservative","Conservateur",Y,Y,58
+47005,"Palliser","Palliser"," 25","Moose Jaw",N,N,"",0,183,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,44
+47005,"Palliser","Palliser"," 25","Moose Jaw",N,N,"",0,183,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 25","Moose Jaw",N,N,"",0,183,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 25","Moose Jaw",N,N,"",0,183,"Williams","","John","Liberal","Libéral",N,N,9
+47005,"Palliser","Palliser"," 26","Moose Jaw",N,N,"",0,298,"Batters","","Dave","Conservative","Conservateur",Y,Y,78
+47005,"Palliser","Palliser"," 26","Moose Jaw",N,N,"",0,298,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,66
+47005,"Palliser","Palliser"," 26","Moose Jaw",N,N,"",0,298,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 26","Moose Jaw",N,N,"",0,298,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 26","Moose Jaw",N,N,"",0,298,"Williams","","John","Liberal","Libéral",N,N,17
+47005,"Palliser","Palliser"," 27","Moose Jaw",N,N,"",1,351,"Batters","","Dave","Conservative","Conservateur",Y,Y,83
+47005,"Palliser","Palliser"," 27","Moose Jaw",N,N,"",1,351,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,72
+47005,"Palliser","Palliser"," 27","Moose Jaw",N,N,"",1,351,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,5
+47005,"Palliser","Palliser"," 27","Moose Jaw",N,N,"",1,351,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 27","Moose Jaw",N,N,"",1,351,"Williams","","John","Liberal","Libéral",N,N,19
+47005,"Palliser","Palliser"," 28","Moose Jaw",N,N,"",0,294,"Batters","","Dave","Conservative","Conservateur",Y,Y,64
+47005,"Palliser","Palliser"," 28","Moose Jaw",N,N,"",0,294,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,73
+47005,"Palliser","Palliser"," 28","Moose Jaw",N,N,"",0,294,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 28","Moose Jaw",N,N,"",0,294,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 28","Moose Jaw",N,N,"",0,294,"Williams","","John","Liberal","Libéral",N,N,30
+47005,"Palliser","Palliser"," 29","Moose Jaw",N,N,"",0,246,"Batters","","Dave","Conservative","Conservateur",Y,Y,60
+47005,"Palliser","Palliser"," 29","Moose Jaw",N,N,"",0,246,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,57
+47005,"Palliser","Palliser"," 29","Moose Jaw",N,N,"",0,246,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 29","Moose Jaw",N,N,"",0,246,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 29","Moose Jaw",N,N,"",0,246,"Williams","","John","Liberal","Libéral",N,N,14
+47005,"Palliser","Palliser"," 30","Moose Jaw",N,N,"",1,316,"Batters","","Dave","Conservative","Conservateur",Y,Y,76
+47005,"Palliser","Palliser"," 30","Moose Jaw",N,N,"",1,316,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,47
+47005,"Palliser","Palliser"," 30","Moose Jaw",N,N,"",1,316,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 30","Moose Jaw",N,N,"",1,316,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 30","Moose Jaw",N,N,"",1,316,"Williams","","John","Liberal","Libéral",N,N,26
+47005,"Palliser","Palliser"," 31","Moose Jaw",N,N,"",0,359,"Batters","","Dave","Conservative","Conservateur",Y,Y,88
+47005,"Palliser","Palliser"," 31","Moose Jaw",N,N,"",0,359,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,72
+47005,"Palliser","Palliser"," 31","Moose Jaw",N,N,"",0,359,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 31","Moose Jaw",N,N,"",0,359,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 31","Moose Jaw",N,N,"",0,359,"Williams","","John","Liberal","Libéral",N,N,14
+47005,"Palliser","Palliser"," 32","Moose Jaw",N,N,"",0,336,"Batters","","Dave","Conservative","Conservateur",Y,Y,78
+47005,"Palliser","Palliser"," 32","Moose Jaw",N,N,"",0,336,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,67
+47005,"Palliser","Palliser"," 32","Moose Jaw",N,N,"",0,336,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 32","Moose Jaw",N,N,"",0,336,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 32","Moose Jaw",N,N,"",0,336,"Williams","","John","Liberal","Libéral",N,N,25
+47005,"Palliser","Palliser"," 33","Moose Jaw",N,N,"",1,395,"Batters","","Dave","Conservative","Conservateur",Y,Y,97
+47005,"Palliser","Palliser"," 33","Moose Jaw",N,N,"",1,395,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,94
+47005,"Palliser","Palliser"," 33","Moose Jaw",N,N,"",1,395,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,3
+47005,"Palliser","Palliser"," 33","Moose Jaw",N,N,"",1,395,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 33","Moose Jaw",N,N,"",1,395,"Williams","","John","Liberal","Libéral",N,N,31
+47005,"Palliser","Palliser"," 34","Moose Jaw",N,N,"",0,416,"Batters","","Dave","Conservative","Conservateur",Y,Y,108
+47005,"Palliser","Palliser"," 34","Moose Jaw",N,N,"",0,416,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,76
+47005,"Palliser","Palliser"," 34","Moose Jaw",N,N,"",0,416,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 34","Moose Jaw",N,N,"",0,416,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 34","Moose Jaw",N,N,"",0,416,"Williams","","John","Liberal","Libéral",N,N,50
+47005,"Palliser","Palliser"," 35","Moose Jaw",N,N,"",0,363,"Batters","","Dave","Conservative","Conservateur",Y,Y,80
+47005,"Palliser","Palliser"," 35","Moose Jaw",N,N,"",0,363,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,88
+47005,"Palliser","Palliser"," 35","Moose Jaw",N,N,"",0,363,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 35","Moose Jaw",N,N,"",0,363,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 35","Moose Jaw",N,N,"",0,363,"Williams","","John","Liberal","Libéral",N,N,26
+47005,"Palliser","Palliser"," 36","Moose Jaw",N,N,"",0,272,"Batters","","Dave","Conservative","Conservateur",Y,Y,67
+47005,"Palliser","Palliser"," 36","Moose Jaw",N,N,"",0,272,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,58
+47005,"Palliser","Palliser"," 36","Moose Jaw",N,N,"",0,272,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 36","Moose Jaw",N,N,"",0,272,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 36","Moose Jaw",N,N,"",0,272,"Williams","","John","Liberal","Libéral",N,N,39
+47005,"Palliser","Palliser"," 37","Moose Jaw",N,N,"",1,313,"Batters","","Dave","Conservative","Conservateur",Y,Y,91
+47005,"Palliser","Palliser"," 37","Moose Jaw",N,N,"",1,313,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,54
+47005,"Palliser","Palliser"," 37","Moose Jaw",N,N,"",1,313,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 37","Moose Jaw",N,N,"",1,313,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 37","Moose Jaw",N,N,"",1,313,"Williams","","John","Liberal","Libéral",N,N,19
+47005,"Palliser","Palliser"," 38","Moose Jaw",N,N,"",0,277,"Batters","","Dave","Conservative","Conservateur",Y,Y,39
+47005,"Palliser","Palliser"," 38","Moose Jaw",N,N,"",0,277,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,66
+47005,"Palliser","Palliser"," 38","Moose Jaw",N,N,"",0,277,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 38","Moose Jaw",N,N,"",0,277,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 38","Moose Jaw",N,N,"",0,277,"Williams","","John","Liberal","Libéral",N,N,14
+47005,"Palliser","Palliser"," 39","Moose Jaw",N,N,"",1,345,"Batters","","Dave","Conservative","Conservateur",Y,Y,76
+47005,"Palliser","Palliser"," 39","Moose Jaw",N,N,"",1,345,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,65
+47005,"Palliser","Palliser"," 39","Moose Jaw",N,N,"",1,345,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,3
+47005,"Palliser","Palliser"," 39","Moose Jaw",N,N,"",1,345,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 39","Moose Jaw",N,N,"",1,345,"Williams","","John","Liberal","Libéral",N,N,26
+47005,"Palliser","Palliser"," 40","Moose Jaw",N,N,"",0,417,"Batters","","Dave","Conservative","Conservateur",Y,Y,106
+47005,"Palliser","Palliser"," 40","Moose Jaw",N,N,"",0,417,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,81
+47005,"Palliser","Palliser"," 40","Moose Jaw",N,N,"",0,417,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 40","Moose Jaw",N,N,"",0,417,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 40","Moose Jaw",N,N,"",0,417,"Williams","","John","Liberal","Libéral",N,N,38
+47005,"Palliser","Palliser"," 41A","Moose Jaw",N,N,"",0,336,"Batters","","Dave","Conservative","Conservateur",Y,Y,65
+47005,"Palliser","Palliser"," 41A","Moose Jaw",N,N,"",0,336,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,47
+47005,"Palliser","Palliser"," 41A","Moose Jaw",N,N,"",0,336,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 41A","Moose Jaw",N,N,"",0,336,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 41A","Moose Jaw",N,N,"",0,336,"Williams","","John","Liberal","Libéral",N,N,14
+47005,"Palliser","Palliser"," 41B","Mobile poll/Bureau itinérant",N,N,"400",0,108,"Batters","","Dave","Conservative","Conservateur",Y,Y,0
+47005,"Palliser","Palliser"," 41B","Mobile poll/Bureau itinérant",N,N,"400",0,108,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,0
+47005,"Palliser","Palliser"," 41B","Mobile poll/Bureau itinérant",N,N,"400",0,108,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 41B","Mobile poll/Bureau itinérant",N,N,"400",0,108,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 41B","Mobile poll/Bureau itinérant",N,N,"400",0,108,"Williams","","John","Liberal","Libéral",N,N,0
+47005,"Palliser","Palliser"," 42","Moose Jaw",N,N,"",0,312,"Batters","","Dave","Conservative","Conservateur",Y,Y,46
+47005,"Palliser","Palliser"," 42","Moose Jaw",N,N,"",0,312,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,47
+47005,"Palliser","Palliser"," 42","Moose Jaw",N,N,"",0,312,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 42","Moose Jaw",N,N,"",0,312,"Shasko","","Larissa","Green Party","Parti Vert",N,N,12
+47005,"Palliser","Palliser"," 42","Moose Jaw",N,N,"",0,312,"Williams","","John","Liberal","Libéral",N,N,18
+47005,"Palliser","Palliser"," 43","Moose Jaw",N,N,"",3,248,"Batters","","Dave","Conservative","Conservateur",Y,Y,56
+47005,"Palliser","Palliser"," 43","Moose Jaw",N,N,"",3,248,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,51
+47005,"Palliser","Palliser"," 43","Moose Jaw",N,N,"",3,248,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 43","Moose Jaw",N,N,"",3,248,"Shasko","","Larissa","Green Party","Parti Vert",N,N,3
+47005,"Palliser","Palliser"," 43","Moose Jaw",N,N,"",3,248,"Williams","","John","Liberal","Libéral",N,N,49
+47005,"Palliser","Palliser"," 44","Moose Jaw",N,N,"",1,386,"Batters","","Dave","Conservative","Conservateur",Y,Y,112
+47005,"Palliser","Palliser"," 44","Moose Jaw",N,N,"",1,386,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,75
+47005,"Palliser","Palliser"," 44","Moose Jaw",N,N,"",1,386,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 44","Moose Jaw",N,N,"",1,386,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 44","Moose Jaw",N,N,"",1,386,"Williams","","John","Liberal","Libéral",N,N,53
+47005,"Palliser","Palliser"," 45","Moose Jaw",N,N,"",3,351,"Batters","","Dave","Conservative","Conservateur",Y,Y,97
+47005,"Palliser","Palliser"," 45","Moose Jaw",N,N,"",3,351,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,99
+47005,"Palliser","Palliser"," 45","Moose Jaw",N,N,"",3,351,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,6
+47005,"Palliser","Palliser"," 45","Moose Jaw",N,N,"",3,351,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 45","Moose Jaw",N,N,"",3,351,"Williams","","John","Liberal","Libéral",N,N,50
+47005,"Palliser","Palliser"," 46","Moose Jaw",N,N,"",0,302,"Batters","","Dave","Conservative","Conservateur",Y,Y,47
+47005,"Palliser","Palliser"," 46","Moose Jaw",N,N,"",0,302,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,42
+47005,"Palliser","Palliser"," 46","Moose Jaw",N,N,"",0,302,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 46","Moose Jaw",N,N,"",0,302,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 46","Moose Jaw",N,N,"",0,302,"Williams","","John","Liberal","Libéral",N,N,24
+47005,"Palliser","Palliser"," 47","Moose Jaw",N,N,"",0,309,"Batters","","Dave","Conservative","Conservateur",Y,Y,74
+47005,"Palliser","Palliser"," 47","Moose Jaw",N,N,"",0,309,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,81
+47005,"Palliser","Palliser"," 47","Moose Jaw",N,N,"",0,309,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 47","Moose Jaw",N,N,"",0,309,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 47","Moose Jaw",N,N,"",0,309,"Williams","","John","Liberal","Libéral",N,N,52
+47005,"Palliser","Palliser"," 48","Moose Jaw",N,N,"",0,308,"Batters","","Dave","Conservative","Conservateur",Y,Y,57
+47005,"Palliser","Palliser"," 48","Moose Jaw",N,N,"",0,308,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,54
+47005,"Palliser","Palliser"," 48","Moose Jaw",N,N,"",0,308,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 48","Moose Jaw",N,N,"",0,308,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 48","Moose Jaw",N,N,"",0,308,"Williams","","John","Liberal","Libéral",N,N,27
+47005,"Palliser","Palliser"," 49","Moose Jaw",N,N,"",1,323,"Batters","","Dave","Conservative","Conservateur",Y,Y,53
+47005,"Palliser","Palliser"," 49","Moose Jaw",N,N,"",1,323,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,74
+47005,"Palliser","Palliser"," 49","Moose Jaw",N,N,"",1,323,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 49","Moose Jaw",N,N,"",1,323,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 49","Moose Jaw",N,N,"",1,323,"Williams","","John","Liberal","Libéral",N,N,20
+47005,"Palliser","Palliser"," 50","Moose Jaw",N,N,"",0,309,"Batters","","Dave","Conservative","Conservateur",Y,Y,61
+47005,"Palliser","Palliser"," 50","Moose Jaw",N,N,"",0,309,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,55
+47005,"Palliser","Palliser"," 50","Moose Jaw",N,N,"",0,309,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 50","Moose Jaw",N,N,"",0,309,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 50","Moose Jaw",N,N,"",0,309,"Williams","","John","Liberal","Libéral",N,N,25
+47005,"Palliser","Palliser"," 51","Moose Jaw",N,N,"",0,384,"Batters","","Dave","Conservative","Conservateur",Y,Y,108
+47005,"Palliser","Palliser"," 51","Moose Jaw",N,N,"",0,384,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,82
+47005,"Palliser","Palliser"," 51","Moose Jaw",N,N,"",0,384,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 51","Moose Jaw",N,N,"",0,384,"Shasko","","Larissa","Green Party","Parti Vert",N,N,14
+47005,"Palliser","Palliser"," 51","Moose Jaw",N,N,"",0,384,"Williams","","John","Liberal","Libéral",N,N,31
+47005,"Palliser","Palliser"," 52","Moose Jaw",N,N,"",0,372,"Batters","","Dave","Conservative","Conservateur",Y,Y,86
+47005,"Palliser","Palliser"," 52","Moose Jaw",N,N,"",0,372,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,77
+47005,"Palliser","Palliser"," 52","Moose Jaw",N,N,"",0,372,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 52","Moose Jaw",N,N,"",0,372,"Shasko","","Larissa","Green Party","Parti Vert",N,N,12
+47005,"Palliser","Palliser"," 52","Moose Jaw",N,N,"",0,372,"Williams","","John","Liberal","Libéral",N,N,32
+47005,"Palliser","Palliser"," 53","Moose Jaw",N,N,"",0,303,"Batters","","Dave","Conservative","Conservateur",Y,Y,61
+47005,"Palliser","Palliser"," 53","Moose Jaw",N,N,"",0,303,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,60
+47005,"Palliser","Palliser"," 53","Moose Jaw",N,N,"",0,303,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 53","Moose Jaw",N,N,"",0,303,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 53","Moose Jaw",N,N,"",0,303,"Williams","","John","Liberal","Libéral",N,N,21
+47005,"Palliser","Palliser"," 54","Moose Jaw",N,N,"",0,298,"Batters","","Dave","Conservative","Conservateur",Y,Y,43
+47005,"Palliser","Palliser"," 54","Moose Jaw",N,N,"",0,298,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,61
+47005,"Palliser","Palliser"," 54","Moose Jaw",N,N,"",0,298,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 54","Moose Jaw",N,N,"",0,298,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 54","Moose Jaw",N,N,"",0,298,"Williams","","John","Liberal","Libéral",N,N,31
+47005,"Palliser","Palliser"," 55","Moose Jaw",N,N,"",0,473,"Batters","","Dave","Conservative","Conservateur",Y,Y,119
+47005,"Palliser","Palliser"," 55","Moose Jaw",N,N,"",0,473,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,105
+47005,"Palliser","Palliser"," 55","Moose Jaw",N,N,"",0,473,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 55","Moose Jaw",N,N,"",0,473,"Shasko","","Larissa","Green Party","Parti Vert",N,N,11
+47005,"Palliser","Palliser"," 55","Moose Jaw",N,N,"",0,473,"Williams","","John","Liberal","Libéral",N,N,32
+47005,"Palliser","Palliser"," 56","Moose Jaw",N,N,"",0,337,"Batters","","Dave","Conservative","Conservateur",Y,Y,76
+47005,"Palliser","Palliser"," 56","Moose Jaw",N,N,"",0,337,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,79
+47005,"Palliser","Palliser"," 56","Moose Jaw",N,N,"",0,337,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 56","Moose Jaw",N,N,"",0,337,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 56","Moose Jaw",N,N,"",0,337,"Williams","","John","Liberal","Libéral",N,N,29
+47005,"Palliser","Palliser"," 57","Moose Jaw",N,N,"",0,394,"Batters","","Dave","Conservative","Conservateur",Y,Y,107
+47005,"Palliser","Palliser"," 57","Moose Jaw",N,N,"",0,394,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,85
+47005,"Palliser","Palliser"," 57","Moose Jaw",N,N,"",0,394,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 57","Moose Jaw",N,N,"",0,394,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 57","Moose Jaw",N,N,"",0,394,"Williams","","John","Liberal","Libéral",N,N,28
+47005,"Palliser","Palliser"," 58","Moose Jaw",N,N,"",1,386,"Batters","","Dave","Conservative","Conservateur",Y,Y,95
+47005,"Palliser","Palliser"," 58","Moose Jaw",N,N,"",1,386,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,95
+47005,"Palliser","Palliser"," 58","Moose Jaw",N,N,"",1,386,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 58","Moose Jaw",N,N,"",1,386,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 58","Moose Jaw",N,N,"",1,386,"Williams","","John","Liberal","Libéral",N,N,31
+47005,"Palliser","Palliser"," 59","Moose Jaw",N,N,"",0,254,"Batters","","Dave","Conservative","Conservateur",Y,Y,61
+47005,"Palliser","Palliser"," 59","Moose Jaw",N,N,"",0,254,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,41
+47005,"Palliser","Palliser"," 59","Moose Jaw",N,N,"",0,254,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 59","Moose Jaw",N,N,"",0,254,"Shasko","","Larissa","Green Party","Parti Vert",N,N,3
+47005,"Palliser","Palliser"," 59","Moose Jaw",N,N,"",0,254,"Williams","","John","Liberal","Libéral",N,N,14
+47005,"Palliser","Palliser"," 60","Moose Jaw",N,N,"",2,351,"Batters","","Dave","Conservative","Conservateur",Y,Y,77
+47005,"Palliser","Palliser"," 60","Moose Jaw",N,N,"",2,351,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,82
+47005,"Palliser","Palliser"," 60","Moose Jaw",N,N,"",2,351,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 60","Moose Jaw",N,N,"",2,351,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 60","Moose Jaw",N,N,"",2,351,"Williams","","John","Liberal","Libéral",N,N,22
+47005,"Palliser","Palliser"," 61","Moose Jaw",N,N,"",2,322,"Batters","","Dave","Conservative","Conservateur",Y,Y,56
+47005,"Palliser","Palliser"," 61","Moose Jaw",N,N,"",2,322,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,60
+47005,"Palliser","Palliser"," 61","Moose Jaw",N,N,"",2,322,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 61","Moose Jaw",N,N,"",2,322,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 61","Moose Jaw",N,N,"",2,322,"Williams","","John","Liberal","Libéral",N,N,17
+47005,"Palliser","Palliser"," 62","Moose Jaw",N,N,"",0,328,"Batters","","Dave","Conservative","Conservateur",Y,Y,56
+47005,"Palliser","Palliser"," 62","Moose Jaw",N,N,"",0,328,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,69
+47005,"Palliser","Palliser"," 62","Moose Jaw",N,N,"",0,328,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 62","Moose Jaw",N,N,"",0,328,"Shasko","","Larissa","Green Party","Parti Vert",N,N,11
+47005,"Palliser","Palliser"," 62","Moose Jaw",N,N,"",0,328,"Williams","","John","Liberal","Libéral",N,N,21
+47005,"Palliser","Palliser"," 63","Moose Jaw",N,N,"",0,350,"Batters","","Dave","Conservative","Conservateur",Y,Y,92
+47005,"Palliser","Palliser"," 63","Moose Jaw",N,N,"",0,350,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,85
+47005,"Palliser","Palliser"," 63","Moose Jaw",N,N,"",0,350,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 63","Moose Jaw",N,N,"",0,350,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 63","Moose Jaw",N,N,"",0,350,"Williams","","John","Liberal","Libéral",N,N,28
+47005,"Palliser","Palliser"," 64","Moose Jaw",N,N,"",1,386,"Batters","","Dave","Conservative","Conservateur",Y,Y,78
+47005,"Palliser","Palliser"," 64","Moose Jaw",N,N,"",1,386,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,99
+47005,"Palliser","Palliser"," 64","Moose Jaw",N,N,"",1,386,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 64","Moose Jaw",N,N,"",1,386,"Shasko","","Larissa","Green Party","Parti Vert",N,N,13
+47005,"Palliser","Palliser"," 64","Moose Jaw",N,N,"",1,386,"Williams","","John","Liberal","Libéral",N,N,37
+47005,"Palliser","Palliser"," 65","Moose Jaw",N,N,"",0,307,"Batters","","Dave","Conservative","Conservateur",Y,Y,56
+47005,"Palliser","Palliser"," 65","Moose Jaw",N,N,"",0,307,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,59
+47005,"Palliser","Palliser"," 65","Moose Jaw",N,N,"",0,307,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 65","Moose Jaw",N,N,"",0,307,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 65","Moose Jaw",N,N,"",0,307,"Williams","","John","Liberal","Libéral",N,N,23
+47005,"Palliser","Palliser"," 66","Moose Jaw",N,N,"",0,403,"Batters","","Dave","Conservative","Conservateur",Y,Y,82
+47005,"Palliser","Palliser"," 66","Moose Jaw",N,N,"",0,403,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,98
+47005,"Palliser","Palliser"," 66","Moose Jaw",N,N,"",0,403,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 66","Moose Jaw",N,N,"",0,403,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 66","Moose Jaw",N,N,"",0,403,"Williams","","John","Liberal","Libéral",N,N,17
+47005,"Palliser","Palliser"," 67","Moose Jaw",N,N,"",0,456,"Batters","","Dave","Conservative","Conservateur",Y,Y,110
+47005,"Palliser","Palliser"," 67","Moose Jaw",N,N,"",0,456,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,82
+47005,"Palliser","Palliser"," 67","Moose Jaw",N,N,"",0,456,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 67","Moose Jaw",N,N,"",0,456,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 67","Moose Jaw",N,N,"",0,456,"Williams","","John","Liberal","Libéral",N,N,37
+47005,"Palliser","Palliser"," 68","Moose Jaw",N,N,"",0,364,"Batters","","Dave","Conservative","Conservateur",Y,Y,81
+47005,"Palliser","Palliser"," 68","Moose Jaw",N,N,"",0,364,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,74
+47005,"Palliser","Palliser"," 68","Moose Jaw",N,N,"",0,364,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 68","Moose Jaw",N,N,"",0,364,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 68","Moose Jaw",N,N,"",0,364,"Williams","","John","Liberal","Libéral",N,N,28
+47005,"Palliser","Palliser"," 69","Moose Jaw",N,N,"",0,388,"Batters","","Dave","Conservative","Conservateur",Y,Y,118
+47005,"Palliser","Palliser"," 69","Moose Jaw",N,N,"",0,388,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,76
+47005,"Palliser","Palliser"," 69","Moose Jaw",N,N,"",0,388,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 69","Moose Jaw",N,N,"",0,388,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 69","Moose Jaw",N,N,"",0,388,"Williams","","John","Liberal","Libéral",N,N,22
+47005,"Palliser","Palliser"," 70","Moose Jaw",N,N,"",0,298,"Batters","","Dave","Conservative","Conservateur",Y,Y,96
+47005,"Palliser","Palliser"," 70","Moose Jaw",N,N,"",0,298,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,41
+47005,"Palliser","Palliser"," 70","Moose Jaw",N,N,"",0,298,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 70","Moose Jaw",N,N,"",0,298,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 70","Moose Jaw",N,N,"",0,298,"Williams","","John","Liberal","Libéral",N,N,21
+47005,"Palliser","Palliser"," 71","Moose Jaw",N,N,"",0,386,"Batters","","Dave","Conservative","Conservateur",Y,Y,94
+47005,"Palliser","Palliser"," 71","Moose Jaw",N,N,"",0,386,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,94
+47005,"Palliser","Palliser"," 71","Moose Jaw",N,N,"",0,386,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 71","Moose Jaw",N,N,"",0,386,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 71","Moose Jaw",N,N,"",0,386,"Williams","","John","Liberal","Libéral",N,N,23
+47005,"Palliser","Palliser"," 72","Drinkwater",N,N,"",0,240,"Batters","","Dave","Conservative","Conservateur",Y,Y,117
+47005,"Palliser","Palliser"," 72","Drinkwater",N,N,"",0,240,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,13
+47005,"Palliser","Palliser"," 72","Drinkwater",N,N,"",0,240,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 72","Drinkwater",N,N,"",0,240,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 72","Drinkwater",N,N,"",0,240,"Williams","","John","Liberal","Libéral",N,N,14
+47005,"Palliser","Palliser"," 73","Keystown",N,N,"",0,221,"Batters","","Dave","Conservative","Conservateur",Y,Y,93
+47005,"Palliser","Palliser"," 73","Keystown",N,N,"",0,221,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+47005,"Palliser","Palliser"," 73","Keystown",N,N,"",0,221,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 73","Keystown",N,N,"",0,221,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 73","Keystown",N,N,"",0,221,"Williams","","John","Liberal","Libéral",N,N,23
+47005,"Palliser","Palliser"," 74","Pense",N,N,"",1,382,"Batters","","Dave","Conservative","Conservateur",Y,Y,166
+47005,"Palliser","Palliser"," 74","Pense",N,N,"",1,382,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,54
+47005,"Palliser","Palliser"," 74","Pense",N,N,"",1,382,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 74","Pense",N,N,"",1,382,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 74","Pense",N,N,"",1,382,"Williams","","John","Liberal","Libéral",N,N,37
+47005,"Palliser","Palliser"," 75","Regina",N,N,"",0,421,"Batters","","Dave","Conservative","Conservateur",Y,Y,133
+47005,"Palliser","Palliser"," 75","Regina",N,N,"",0,421,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,49
+47005,"Palliser","Palliser"," 75","Regina",N,N,"",0,421,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 75","Regina",N,N,"",0,421,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 75","Regina",N,N,"",0,421,"Williams","","John","Liberal","Libéral",N,N,77
+47005,"Palliser","Palliser"," 76","Briercrest",N,N,"",0,256,"Batters","","Dave","Conservative","Conservateur",Y,Y,137
+47005,"Palliser","Palliser"," 76","Briercrest",N,N,"",0,256,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+47005,"Palliser","Palliser"," 76","Briercrest",N,N,"",0,256,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 76","Briercrest",N,N,"",0,256,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 76","Briercrest",N,N,"",0,256,"Williams","","John","Liberal","Libéral",N,N,13
+47005,"Palliser","Palliser"," 77","Rouleau",N,N,"",1,401,"Batters","","Dave","Conservative","Conservateur",Y,Y,160
+47005,"Palliser","Palliser"," 77","Rouleau",N,N,"",1,401,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,39
+47005,"Palliser","Palliser"," 77","Rouleau",N,N,"",1,401,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 77","Rouleau",N,N,"",1,401,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 77","Rouleau",N,N,"",1,401,"Williams","","John","Liberal","Libéral",N,N,19
+47005,"Palliser","Palliser"," 78","Wilcox",N,N,"",0,293,"Batters","","Dave","Conservative","Conservateur",Y,Y,124
+47005,"Palliser","Palliser"," 78","Wilcox",N,N,"",0,293,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+47005,"Palliser","Palliser"," 78","Wilcox",N,N,"",0,293,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 78","Wilcox",N,N,"",0,293,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 78","Wilcox",N,N,"",0,293,"Williams","","John","Liberal","Libéral",N,N,47
+47005,"Palliser","Palliser"," 79","Regina",N,N,"",0,345,"Batters","","Dave","Conservative","Conservateur",Y,Y,45
+47005,"Palliser","Palliser"," 79","Regina",N,N,"",0,345,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,98
+47005,"Palliser","Palliser"," 79","Regina",N,N,"",0,345,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 79","Regina",N,N,"",0,345,"Shasko","","Larissa","Green Party","Parti Vert",N,N,14
+47005,"Palliser","Palliser"," 79","Regina",N,N,"",0,345,"Williams","","John","Liberal","Libéral",N,N,44
+47005,"Palliser","Palliser"," 80","Regina",N,N,"",0,311,"Batters","","Dave","Conservative","Conservateur",Y,Y,37
+47005,"Palliser","Palliser"," 80","Regina",N,N,"",0,311,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,115
+47005,"Palliser","Palliser"," 80","Regina",N,N,"",0,311,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 80","Regina",N,N,"",0,311,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 80","Regina",N,N,"",0,311,"Williams","","John","Liberal","Libéral",N,N,30
+47005,"Palliser","Palliser"," 81","Regina",N,N,"",0,307,"Batters","","Dave","Conservative","Conservateur",Y,Y,28
+47005,"Palliser","Palliser"," 81","Regina",N,N,"",0,307,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,82
+47005,"Palliser","Palliser"," 81","Regina",N,N,"",0,307,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 81","Regina",N,N,"",0,307,"Shasko","","Larissa","Green Party","Parti Vert",N,N,17
+47005,"Palliser","Palliser"," 81","Regina",N,N,"",0,307,"Williams","","John","Liberal","Libéral",N,N,29
+47005,"Palliser","Palliser"," 82","Regina",N,N,"",0,421,"Batters","","Dave","Conservative","Conservateur",Y,Y,48
+47005,"Palliser","Palliser"," 82","Regina",N,N,"",0,421,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,127
+47005,"Palliser","Palliser"," 82","Regina",N,N,"",0,421,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 82","Regina",N,N,"",0,421,"Shasko","","Larissa","Green Party","Parti Vert",N,N,17
+47005,"Palliser","Palliser"," 82","Regina",N,N,"",0,421,"Williams","","John","Liberal","Libéral",N,N,56
+47005,"Palliser","Palliser"," 83","Regina",N,N,"",0,423,"Batters","","Dave","Conservative","Conservateur",Y,Y,56
+47005,"Palliser","Palliser"," 83","Regina",N,N,"",0,423,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,158
+47005,"Palliser","Palliser"," 83","Regina",N,N,"",0,423,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 83","Regina",N,N,"",0,423,"Shasko","","Larissa","Green Party","Parti Vert",N,N,27
+47005,"Palliser","Palliser"," 83","Regina",N,N,"",0,423,"Williams","","John","Liberal","Libéral",N,N,46
+47005,"Palliser","Palliser"," 84","Regina",N,N,"",1,412,"Batters","","Dave","Conservative","Conservateur",Y,Y,58
+47005,"Palliser","Palliser"," 84","Regina",N,N,"",1,412,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,128
+47005,"Palliser","Palliser"," 84","Regina",N,N,"",1,412,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,3
+47005,"Palliser","Palliser"," 84","Regina",N,N,"",1,412,"Shasko","","Larissa","Green Party","Parti Vert",N,N,11
+47005,"Palliser","Palliser"," 84","Regina",N,N,"",1,412,"Williams","","John","Liberal","Libéral",N,N,92
+47005,"Palliser","Palliser"," 85","Regina",N,N,"",0,417,"Batters","","Dave","Conservative","Conservateur",Y,Y,50
+47005,"Palliser","Palliser"," 85","Regina",N,N,"",0,417,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,128
+47005,"Palliser","Palliser"," 85","Regina",N,N,"",0,417,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 85","Regina",N,N,"",0,417,"Shasko","","Larissa","Green Party","Parti Vert",N,N,12
+47005,"Palliser","Palliser"," 85","Regina",N,N,"",0,417,"Williams","","John","Liberal","Libéral",N,N,54
+47005,"Palliser","Palliser"," 86","Regina",N,N,"",2,416,"Batters","","Dave","Conservative","Conservateur",Y,Y,37
+47005,"Palliser","Palliser"," 86","Regina",N,N,"",2,416,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,144
+47005,"Palliser","Palliser"," 86","Regina",N,N,"",2,416,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 86","Regina",N,N,"",2,416,"Shasko","","Larissa","Green Party","Parti Vert",N,N,22
+47005,"Palliser","Palliser"," 86","Regina",N,N,"",2,416,"Williams","","John","Liberal","Libéral",N,N,55
+47005,"Palliser","Palliser"," 87","Regina",N,N,"",1,442,"Batters","","Dave","Conservative","Conservateur",Y,Y,50
+47005,"Palliser","Palliser"," 87","Regina",N,N,"",1,442,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,124
+47005,"Palliser","Palliser"," 87","Regina",N,N,"",1,442,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 87","Regina",N,N,"",1,442,"Shasko","","Larissa","Green Party","Parti Vert",N,N,16
+47005,"Palliser","Palliser"," 87","Regina",N,N,"",1,442,"Williams","","John","Liberal","Libéral",N,N,62
+47005,"Palliser","Palliser"," 88","Regina",N,N,"",0,396,"Batters","","Dave","Conservative","Conservateur",Y,Y,43
+47005,"Palliser","Palliser"," 88","Regina",N,N,"",0,396,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,142
+47005,"Palliser","Palliser"," 88","Regina",N,N,"",0,396,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 88","Regina",N,N,"",0,396,"Shasko","","Larissa","Green Party","Parti Vert",N,N,13
+47005,"Palliser","Palliser"," 88","Regina",N,N,"",0,396,"Williams","","John","Liberal","Libéral",N,N,56
+47005,"Palliser","Palliser"," 89","Regina",N,N,"",1,439,"Batters","","Dave","Conservative","Conservateur",Y,Y,87
+47005,"Palliser","Palliser"," 89","Regina",N,N,"",1,439,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,143
+47005,"Palliser","Palliser"," 89","Regina",N,N,"",1,439,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 89","Regina",N,N,"",1,439,"Shasko","","Larissa","Green Party","Parti Vert",N,N,16
+47005,"Palliser","Palliser"," 89","Regina",N,N,"",1,439,"Williams","","John","Liberal","Libéral",N,N,72
+47005,"Palliser","Palliser"," 90","Regina",N,N,"",0,465,"Batters","","Dave","Conservative","Conservateur",Y,Y,62
+47005,"Palliser","Palliser"," 90","Regina",N,N,"",0,465,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,171
+47005,"Palliser","Palliser"," 90","Regina",N,N,"",0,465,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 90","Regina",N,N,"",0,465,"Shasko","","Larissa","Green Party","Parti Vert",N,N,18
+47005,"Palliser","Palliser"," 90","Regina",N,N,"",0,465,"Williams","","John","Liberal","Libéral",N,N,52
+47005,"Palliser","Palliser"," 91","Regina",N,N,"",0,430,"Batters","","Dave","Conservative","Conservateur",Y,Y,59
+47005,"Palliser","Palliser"," 91","Regina",N,N,"",0,430,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,152
+47005,"Palliser","Palliser"," 91","Regina",N,N,"",0,430,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 91","Regina",N,N,"",0,430,"Shasko","","Larissa","Green Party","Parti Vert",N,N,15
+47005,"Palliser","Palliser"," 91","Regina",N,N,"",0,430,"Williams","","John","Liberal","Libéral",N,N,59
+47005,"Palliser","Palliser"," 92","Regina",N,N,"",1,380,"Batters","","Dave","Conservative","Conservateur",Y,Y,89
+47005,"Palliser","Palliser"," 92","Regina",N,N,"",1,380,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,115
+47005,"Palliser","Palliser"," 92","Regina",N,N,"",1,380,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 92","Regina",N,N,"",1,380,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 92","Regina",N,N,"",1,380,"Williams","","John","Liberal","Libéral",N,N,41
+47005,"Palliser","Palliser"," 93","Regina",N,N,"",0,385,"Batters","","Dave","Conservative","Conservateur",Y,Y,61
+47005,"Palliser","Palliser"," 93","Regina",N,N,"",0,385,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,110
+47005,"Palliser","Palliser"," 93","Regina",N,N,"",0,385,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 93","Regina",N,N,"",0,385,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 93","Regina",N,N,"",0,385,"Williams","","John","Liberal","Libéral",N,N,74
+47005,"Palliser","Palliser"," 94","Regina",N,N,"",0,340,"Batters","","Dave","Conservative","Conservateur",Y,Y,65
+47005,"Palliser","Palliser"," 94","Regina",N,N,"",0,340,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,92
+47005,"Palliser","Palliser"," 94","Regina",N,N,"",0,340,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 94","Regina",N,N,"",0,340,"Shasko","","Larissa","Green Party","Parti Vert",N,N,13
+47005,"Palliser","Palliser"," 94","Regina",N,N,"",0,340,"Williams","","John","Liberal","Libéral",N,N,64
+47005,"Palliser","Palliser"," 95","Regina",N,N,"",0,394,"Batters","","Dave","Conservative","Conservateur",Y,Y,68
+47005,"Palliser","Palliser"," 95","Regina",N,N,"",0,394,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,115
+47005,"Palliser","Palliser"," 95","Regina",N,N,"",0,394,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 95","Regina",N,N,"",0,394,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 95","Regina",N,N,"",0,394,"Williams","","John","Liberal","Libéral",N,N,98
+47005,"Palliser","Palliser"," 96","Regina",N,N,"",0,312,"Batters","","Dave","Conservative","Conservateur",Y,Y,63
+47005,"Palliser","Palliser"," 96","Regina",N,N,"",0,312,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,85
+47005,"Palliser","Palliser"," 96","Regina",N,N,"",0,312,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 96","Regina",N,N,"",0,312,"Shasko","","Larissa","Green Party","Parti Vert",N,N,14
+47005,"Palliser","Palliser"," 96","Regina",N,N,"",0,312,"Williams","","John","Liberal","Libéral",N,N,63
+47005,"Palliser","Palliser"," 97","Regina",N,N,"",0,349,"Batters","","Dave","Conservative","Conservateur",Y,Y,80
+47005,"Palliser","Palliser"," 97","Regina",N,N,"",0,349,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,84
+47005,"Palliser","Palliser"," 97","Regina",N,N,"",0,349,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 97","Regina",N,N,"",0,349,"Shasko","","Larissa","Green Party","Parti Vert",N,N,18
+47005,"Palliser","Palliser"," 97","Regina",N,N,"",0,349,"Williams","","John","Liberal","Libéral",N,N,74
+47005,"Palliser","Palliser"," 98","Regina",N,N,"",0,320,"Batters","","Dave","Conservative","Conservateur",Y,Y,49
+47005,"Palliser","Palliser"," 98","Regina",N,N,"",0,320,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,85
+47005,"Palliser","Palliser"," 98","Regina",N,N,"",0,320,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 98","Regina",N,N,"",0,320,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 98","Regina",N,N,"",0,320,"Williams","","John","Liberal","Libéral",N,N,45
+47005,"Palliser","Palliser"," 99","Regina",N,N,"",0,334,"Batters","","Dave","Conservative","Conservateur",Y,Y,56
+47005,"Palliser","Palliser"," 99","Regina",N,N,"",0,334,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,93
+47005,"Palliser","Palliser"," 99","Regina",N,N,"",0,334,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 99","Regina",N,N,"",0,334,"Shasko","","Larissa","Green Party","Parti Vert",N,N,13
+47005,"Palliser","Palliser"," 99","Regina",N,N,"",0,334,"Williams","","John","Liberal","Libéral",N,N,50
+47005,"Palliser","Palliser"," 100","Regina",N,N,"",0,355,"Batters","","Dave","Conservative","Conservateur",Y,Y,61
+47005,"Palliser","Palliser"," 100","Regina",N,N,"",0,355,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,99
+47005,"Palliser","Palliser"," 100","Regina",N,N,"",0,355,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 100","Regina",N,N,"",0,355,"Shasko","","Larissa","Green Party","Parti Vert",N,N,17
+47005,"Palliser","Palliser"," 100","Regina",N,N,"",0,355,"Williams","","John","Liberal","Libéral",N,N,67
+47005,"Palliser","Palliser"," 101","Regina",N,N,"",1,428,"Batters","","Dave","Conservative","Conservateur",Y,Y,110
+47005,"Palliser","Palliser"," 101","Regina",N,N,"",1,428,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,106
+47005,"Palliser","Palliser"," 101","Regina",N,N,"",1,428,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 101","Regina",N,N,"",1,428,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 101","Regina",N,N,"",1,428,"Williams","","John","Liberal","Libéral",N,N,57
+47005,"Palliser","Palliser"," 102","Regina",N,N,"",1,324,"Batters","","Dave","Conservative","Conservateur",Y,Y,62
+47005,"Palliser","Palliser"," 102","Regina",N,N,"",1,324,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,92
+47005,"Palliser","Palliser"," 102","Regina",N,N,"",1,324,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 102","Regina",N,N,"",1,324,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 102","Regina",N,N,"",1,324,"Williams","","John","Liberal","Libéral",N,N,55
+47005,"Palliser","Palliser"," 103","Regina",N,N,"",1,378,"Batters","","Dave","Conservative","Conservateur",Y,Y,70
+47005,"Palliser","Palliser"," 103","Regina",N,N,"",1,378,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,87
+47005,"Palliser","Palliser"," 103","Regina",N,N,"",1,378,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 103","Regina",N,N,"",1,378,"Shasko","","Larissa","Green Party","Parti Vert",N,N,12
+47005,"Palliser","Palliser"," 103","Regina",N,N,"",1,378,"Williams","","John","Liberal","Libéral",N,N,82
+47005,"Palliser","Palliser"," 104","Regina",N,N,"",0,325,"Batters","","Dave","Conservative","Conservateur",Y,Y,71
+47005,"Palliser","Palliser"," 104","Regina",N,N,"",0,325,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,80
+47005,"Palliser","Palliser"," 104","Regina",N,N,"",0,325,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 104","Regina",N,N,"",0,325,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 104","Regina",N,N,"",0,325,"Williams","","John","Liberal","Libéral",N,N,78
+47005,"Palliser","Palliser"," 105","Regina",N,N,"",0,358,"Batters","","Dave","Conservative","Conservateur",Y,Y,100
+47005,"Palliser","Palliser"," 105","Regina",N,N,"",0,358,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,61
+47005,"Palliser","Palliser"," 105","Regina",N,N,"",0,358,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 105","Regina",N,N,"",0,358,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 105","Regina",N,N,"",0,358,"Williams","","John","Liberal","Libéral",N,N,78
+47005,"Palliser","Palliser"," 106","Regina",N,N,"",1,394,"Batters","","Dave","Conservative","Conservateur",Y,Y,92
+47005,"Palliser","Palliser"," 106","Regina",N,N,"",1,394,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,84
+47005,"Palliser","Palliser"," 106","Regina",N,N,"",1,394,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 106","Regina",N,N,"",1,394,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 106","Regina",N,N,"",1,394,"Williams","","John","Liberal","Libéral",N,N,89
+47005,"Palliser","Palliser"," 107","Regina",N,N,"",0,373,"Batters","","Dave","Conservative","Conservateur",Y,Y,73
+47005,"Palliser","Palliser"," 107","Regina",N,N,"",0,373,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,89
+47005,"Palliser","Palliser"," 107","Regina",N,N,"",0,373,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 107","Regina",N,N,"",0,373,"Shasko","","Larissa","Green Party","Parti Vert",N,N,14
+47005,"Palliser","Palliser"," 107","Regina",N,N,"",0,373,"Williams","","John","Liberal","Libéral",N,N,73
+47005,"Palliser","Palliser"," 108","Regina",N,N,"",1,385,"Batters","","Dave","Conservative","Conservateur",Y,Y,98
+47005,"Palliser","Palliser"," 108","Regina",N,N,"",1,385,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,77
+47005,"Palliser","Palliser"," 108","Regina",N,N,"",1,385,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 108","Regina",N,N,"",1,385,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 108","Regina",N,N,"",1,385,"Williams","","John","Liberal","Libéral",N,N,68
+47005,"Palliser","Palliser"," 109","Regina",N,N,"",1,316,"Batters","","Dave","Conservative","Conservateur",Y,Y,61
+47005,"Palliser","Palliser"," 109","Regina",N,N,"",1,316,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,67
+47005,"Palliser","Palliser"," 109","Regina",N,N,"",1,316,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 109","Regina",N,N,"",1,316,"Shasko","","Larissa","Green Party","Parti Vert",N,N,11
+47005,"Palliser","Palliser"," 109","Regina",N,N,"",1,316,"Williams","","John","Liberal","Libéral",N,N,45
+47005,"Palliser","Palliser"," 110","Regina",N,N,"",1,359,"Batters","","Dave","Conservative","Conservateur",Y,Y,50
+47005,"Palliser","Palliser"," 110","Regina",N,N,"",1,359,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,69
+47005,"Palliser","Palliser"," 110","Regina",N,N,"",1,359,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 110","Regina",N,N,"",1,359,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 110","Regina",N,N,"",1,359,"Williams","","John","Liberal","Libéral",N,N,62
+47005,"Palliser","Palliser"," 111","Regina",N,N,"",0,324,"Batters","","Dave","Conservative","Conservateur",Y,Y,83
+47005,"Palliser","Palliser"," 111","Regina",N,N,"",0,324,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,54
+47005,"Palliser","Palliser"," 111","Regina",N,N,"",0,324,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 111","Regina",N,N,"",0,324,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 111","Regina",N,N,"",0,324,"Williams","","John","Liberal","Libéral",N,N,71
+47005,"Palliser","Palliser"," 112","Regina",N,N,"",0,361,"Batters","","Dave","Conservative","Conservateur",Y,Y,74
+47005,"Palliser","Palliser"," 112","Regina",N,N,"",0,361,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,69
+47005,"Palliser","Palliser"," 112","Regina",N,N,"",0,361,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 112","Regina",N,N,"",0,361,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 112","Regina",N,N,"",0,361,"Williams","","John","Liberal","Libéral",N,N,71
+47005,"Palliser","Palliser"," 113","Regina",N,N,"",0,403,"Batters","","Dave","Conservative","Conservateur",Y,Y,88
+47005,"Palliser","Palliser"," 113","Regina",N,N,"",0,403,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,61
+47005,"Palliser","Palliser"," 113","Regina",N,N,"",0,403,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 113","Regina",N,N,"",0,403,"Shasko","","Larissa","Green Party","Parti Vert",N,N,11
+47005,"Palliser","Palliser"," 113","Regina",N,N,"",0,403,"Williams","","John","Liberal","Libéral",N,N,91
+47005,"Palliser","Palliser"," 114","Regina",N,N,"",0,314,"Batters","","Dave","Conservative","Conservateur",Y,Y,61
+47005,"Palliser","Palliser"," 114","Regina",N,N,"",0,314,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,50
+47005,"Palliser","Palliser"," 114","Regina",N,N,"",0,314,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 114","Regina",N,N,"",0,314,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 114","Regina",N,N,"",0,314,"Williams","","John","Liberal","Libéral",N,N,58
+47005,"Palliser","Palliser"," 115","Regina",N,N,"",0,329,"Batters","","Dave","Conservative","Conservateur",Y,Y,43
+47005,"Palliser","Palliser"," 115","Regina",N,N,"",0,329,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,42
+47005,"Palliser","Palliser"," 115","Regina",N,N,"",0,329,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 115","Regina",N,N,"",0,329,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 115","Regina",N,N,"",0,329,"Williams","","John","Liberal","Libéral",N,N,82
+47005,"Palliser","Palliser"," 116","Regina",N,N,"",1,435,"Batters","","Dave","Conservative","Conservateur",Y,Y,117
+47005,"Palliser","Palliser"," 116","Regina",N,N,"",1,435,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,85
+47005,"Palliser","Palliser"," 116","Regina",N,N,"",1,435,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 116","Regina",N,N,"",1,435,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 116","Regina",N,N,"",1,435,"Williams","","John","Liberal","Libéral",N,N,75
+47005,"Palliser","Palliser"," 117","Regina",N,N,"",0,377,"Batters","","Dave","Conservative","Conservateur",Y,Y,119
+47005,"Palliser","Palliser"," 117","Regina",N,N,"",0,377,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,61
+47005,"Palliser","Palliser"," 117","Regina",N,N,"",0,377,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 117","Regina",N,N,"",0,377,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 117","Regina",N,N,"",0,377,"Williams","","John","Liberal","Libéral",N,N,68
+47005,"Palliser","Palliser"," 118","Regina",N,N,"",1,354,"Batters","","Dave","Conservative","Conservateur",Y,Y,81
+47005,"Palliser","Palliser"," 118","Regina",N,N,"",1,354,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,62
+47005,"Palliser","Palliser"," 118","Regina",N,N,"",1,354,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 118","Regina",N,N,"",1,354,"Shasko","","Larissa","Green Party","Parti Vert",N,N,9
+47005,"Palliser","Palliser"," 118","Regina",N,N,"",1,354,"Williams","","John","Liberal","Libéral",N,N,80
+47005,"Palliser","Palliser"," 119","Regina",N,N,"",2,410,"Batters","","Dave","Conservative","Conservateur",Y,Y,91
+47005,"Palliser","Palliser"," 119","Regina",N,N,"",2,410,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,91
+47005,"Palliser","Palliser"," 119","Regina",N,N,"",2,410,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 119","Regina",N,N,"",2,410,"Shasko","","Larissa","Green Party","Parti Vert",N,N,19
+47005,"Palliser","Palliser"," 119","Regina",N,N,"",2,410,"Williams","","John","Liberal","Libéral",N,N,69
+47005,"Palliser","Palliser"," 120","Regina",N,N,"",0,359,"Batters","","Dave","Conservative","Conservateur",Y,Y,72
+47005,"Palliser","Palliser"," 120","Regina",N,N,"",0,359,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,72
+47005,"Palliser","Palliser"," 120","Regina",N,N,"",0,359,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 120","Regina",N,N,"",0,359,"Shasko","","Larissa","Green Party","Parti Vert",N,N,7
+47005,"Palliser","Palliser"," 120","Regina",N,N,"",0,359,"Williams","","John","Liberal","Libéral",N,N,74
+47005,"Palliser","Palliser"," 121","Regina",N,N,"",0,408,"Batters","","Dave","Conservative","Conservateur",Y,Y,94
+47005,"Palliser","Palliser"," 121","Regina",N,N,"",0,408,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,50
+47005,"Palliser","Palliser"," 121","Regina",N,N,"",0,408,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 121","Regina",N,N,"",0,408,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 121","Regina",N,N,"",0,408,"Williams","","John","Liberal","Libéral",N,N,90
+47005,"Palliser","Palliser"," 122","Regina",N,N,"",1,377,"Batters","","Dave","Conservative","Conservateur",Y,Y,62
+47005,"Palliser","Palliser"," 122","Regina",N,N,"",1,377,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,54
+47005,"Palliser","Palliser"," 122","Regina",N,N,"",1,377,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 122","Regina",N,N,"",1,377,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 122","Regina",N,N,"",1,377,"Williams","","John","Liberal","Libéral",N,N,97
+47005,"Palliser","Palliser"," 123","Regina",N,N,"",1,382,"Batters","","Dave","Conservative","Conservateur",Y,Y,82
+47005,"Palliser","Palliser"," 123","Regina",N,N,"",1,382,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,58
+47005,"Palliser","Palliser"," 123","Regina",N,N,"",1,382,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 123","Regina",N,N,"",1,382,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 123","Regina",N,N,"",1,382,"Williams","","John","Liberal","Libéral",N,N,87
+47005,"Palliser","Palliser"," 124","Regina",N,N,"",1,399,"Batters","","Dave","Conservative","Conservateur",Y,Y,100
+47005,"Palliser","Palliser"," 124","Regina",N,N,"",1,399,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,50
+47005,"Palliser","Palliser"," 124","Regina",N,N,"",1,399,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 124","Regina",N,N,"",1,399,"Shasko","","Larissa","Green Party","Parti Vert",N,N,6
+47005,"Palliser","Palliser"," 124","Regina",N,N,"",1,399,"Williams","","John","Liberal","Libéral",N,N,93
+47005,"Palliser","Palliser"," 125","Regina",N,N,"",0,369,"Batters","","Dave","Conservative","Conservateur",Y,Y,83
+47005,"Palliser","Palliser"," 125","Regina",N,N,"",0,369,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,78
+47005,"Palliser","Palliser"," 125","Regina",N,N,"",0,369,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 125","Regina",N,N,"",0,369,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 125","Regina",N,N,"",0,369,"Williams","","John","Liberal","Libéral",N,N,59
+47005,"Palliser","Palliser"," 126","Regina",N,N,"",0,365,"Batters","","Dave","Conservative","Conservateur",Y,Y,127
+47005,"Palliser","Palliser"," 126","Regina",N,N,"",0,365,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,41
+47005,"Palliser","Palliser"," 126","Regina",N,N,"",0,365,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 126","Regina",N,N,"",0,365,"Shasko","","Larissa","Green Party","Parti Vert",N,N,11
+47005,"Palliser","Palliser"," 126","Regina",N,N,"",0,365,"Williams","","John","Liberal","Libéral",N,N,72
+47005,"Palliser","Palliser"," 127","Regina",N,N,"",3,576,"Batters","","Dave","Conservative","Conservateur",Y,Y,129
+47005,"Palliser","Palliser"," 127","Regina",N,N,"",3,576,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,86
+47005,"Palliser","Palliser"," 127","Regina",N,N,"",3,576,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 127","Regina",N,N,"",3,576,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 127","Regina",N,N,"",3,576,"Williams","","John","Liberal","Libéral",N,N,107
+47005,"Palliser","Palliser"," 128","Regina",N,N,"",1,450,"Batters","","Dave","Conservative","Conservateur",Y,Y,117
+47005,"Palliser","Palliser"," 128","Regina",N,N,"",1,450,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,54
+47005,"Palliser","Palliser"," 128","Regina",N,N,"",1,450,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 128","Regina",N,N,"",1,450,"Shasko","","Larissa","Green Party","Parti Vert",N,N,11
+47005,"Palliser","Palliser"," 128","Regina",N,N,"",1,450,"Williams","","John","Liberal","Libéral",N,N,100
+47005,"Palliser","Palliser"," 129","Regina",N,N,"",0,251,"Batters","","Dave","Conservative","Conservateur",Y,Y,67
+47005,"Palliser","Palliser"," 129","Regina",N,N,"",0,251,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,35
+47005,"Palliser","Palliser"," 129","Regina",N,N,"",0,251,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 129","Regina",N,N,"",0,251,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," 129","Regina",N,N,"",0,251,"Williams","","John","Liberal","Libéral",N,N,53
+47005,"Palliser","Palliser"," 130","Regina",N,N,"",0,463,"Batters","","Dave","Conservative","Conservateur",Y,Y,92
+47005,"Palliser","Palliser"," 130","Regina",N,N,"",0,463,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,67
+47005,"Palliser","Palliser"," 130","Regina",N,N,"",0,463,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 130","Regina",N,N,"",0,463,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 130","Regina",N,N,"",0,463,"Williams","","John","Liberal","Libéral",N,N,99
+47005,"Palliser","Palliser"," 131","Old Wives",N,N,"",0,175,"Batters","","Dave","Conservative","Conservateur",Y,Y,80
+47005,"Palliser","Palliser"," 131","Old Wives",N,N,"",0,175,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,13
+47005,"Palliser","Palliser"," 131","Old Wives",N,N,"",0,175,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 131","Old Wives",N,N,"",0,175,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 131","Old Wives",N,N,"",0,175,"Williams","","John","Liberal","Libéral",N,N,5
+47005,"Palliser","Palliser"," 132","Mossbank",N,N,"",2,271,"Batters","","Dave","Conservative","Conservateur",Y,Y,131
+47005,"Palliser","Palliser"," 132","Mossbank",N,N,"",2,271,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,38
+47005,"Palliser","Palliser"," 132","Mossbank",N,N,"",2,271,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 132","Mossbank",N,N,"",2,271,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 132","Mossbank",N,N,"",2,271,"Williams","","John","Liberal","Libéral",N,N,28
+47005,"Palliser","Palliser"," 133","Ardill",N,N,"",0,155,"Batters","","Dave","Conservative","Conservateur",Y,Y,63
+47005,"Palliser","Palliser"," 133","Ardill",N,N,"",0,155,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,14
+47005,"Palliser","Palliser"," 133","Ardill",N,N,"",0,155,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 133","Ardill",N,N,"",0,155,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 133","Ardill",N,N,"",0,155,"Williams","","John","Liberal","Libéral",N,N,16
+47005,"Palliser","Palliser"," 134","Avonlea",N,N,"",0,268,"Batters","","Dave","Conservative","Conservateur",Y,Y,120
+47005,"Palliser","Palliser"," 134","Avonlea",N,N,"",0,268,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+47005,"Palliser","Palliser"," 134","Avonlea",N,N,"",0,268,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 134","Avonlea",N,N,"",0,268,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 134","Avonlea",N,N,"",0,268,"Williams","","John","Liberal","Libéral",N,N,23
+47005,"Palliser","Palliser"," 135","Avonlea",N,N,"",0,321,"Batters","","Dave","Conservative","Conservateur",Y,Y,142
+47005,"Palliser","Palliser"," 135","Avonlea",N,N,"",0,321,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,30
+47005,"Palliser","Palliser"," 135","Avonlea",N,N,"",0,321,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 135","Avonlea",N,N,"",0,321,"Shasko","","Larissa","Green Party","Parti Vert",N,N,5
+47005,"Palliser","Palliser"," 135","Avonlea",N,N,"",0,321,"Williams","","John","Liberal","Libéral",N,N,22
+47005,"Palliser","Palliser"," 400","Mobile poll/Bureau itinérant",N,N,"",2,130,"Batters","","Dave","Conservative","Conservateur",Y,Y,97
+47005,"Palliser","Palliser"," 400","Mobile poll/Bureau itinérant",N,N,"",2,130,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,54
+47005,"Palliser","Palliser"," 400","Mobile poll/Bureau itinérant",N,N,"",2,130,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 400","Mobile poll/Bureau itinérant",N,N,"",2,130,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 400","Mobile poll/Bureau itinérant",N,N,"",2,130,"Williams","","John","Liberal","Libéral",N,N,43
+47005,"Palliser","Palliser"," 401","Regina",Y,N,"",0,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,0
+47005,"Palliser","Palliser"," 401","Regina",Y,N,"",0,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,0
+47005,"Palliser","Palliser"," 401","Regina",Y,N,"",0,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 401","Regina",Y,N,"",0,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 401","Regina",Y,N,"",0,0,"Williams","","John","Liberal","Libéral",N,N,0
+47005,"Palliser","Palliser"," 500","Mobile poll/Bureau itinérant",N,N,"",2,101,"Batters","","Dave","Conservative","Conservateur",Y,Y,14
+47005,"Palliser","Palliser"," 500","Mobile poll/Bureau itinérant",N,N,"",2,101,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+47005,"Palliser","Palliser"," 500","Mobile poll/Bureau itinérant",N,N,"",2,101,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 500","Mobile poll/Bureau itinérant",N,N,"",2,101,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 500","Mobile poll/Bureau itinérant",N,N,"",2,101,"Williams","","John","Liberal","Libéral",N,N,9
+47005,"Palliser","Palliser"," 501","Mobile poll/Bureau itinérant",N,N,"",1,181,"Batters","","Dave","Conservative","Conservateur",Y,Y,38
+47005,"Palliser","Palliser"," 501","Mobile poll/Bureau itinérant",N,N,"",1,181,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,48
+47005,"Palliser","Palliser"," 501","Mobile poll/Bureau itinérant",N,N,"",1,181,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,3
+47005,"Palliser","Palliser"," 501","Mobile poll/Bureau itinérant",N,N,"",1,181,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 501","Mobile poll/Bureau itinérant",N,N,"",1,181,"Williams","","John","Liberal","Libéral",N,N,27
+47005,"Palliser","Palliser"," 502","Mobile poll/Bureau itinérant",N,N,"",0,421,"Batters","","Dave","Conservative","Conservateur",Y,Y,42
+47005,"Palliser","Palliser"," 502","Mobile poll/Bureau itinérant",N,N,"",0,421,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+47005,"Palliser","Palliser"," 502","Mobile poll/Bureau itinérant",N,N,"",0,421,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,3
+47005,"Palliser","Palliser"," 502","Mobile poll/Bureau itinérant",N,N,"",0,421,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 502","Mobile poll/Bureau itinérant",N,N,"",0,421,"Williams","","John","Liberal","Libéral",N,N,25
+47005,"Palliser","Palliser"," 503","Mobile poll/Bureau itinérant",N,N,"",2,151,"Batters","","Dave","Conservative","Conservateur",Y,Y,37
+47005,"Palliser","Palliser"," 503","Mobile poll/Bureau itinérant",N,N,"",2,151,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,32
+47005,"Palliser","Palliser"," 503","Mobile poll/Bureau itinérant",N,N,"",2,151,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,4
+47005,"Palliser","Palliser"," 503","Mobile poll/Bureau itinérant",N,N,"",2,151,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 503","Mobile poll/Bureau itinérant",N,N,"",2,151,"Williams","","John","Liberal","Libéral",N,N,20
+47005,"Palliser","Palliser"," 504","Mobile poll/Bureau itinérant",N,N,"",3,163,"Batters","","Dave","Conservative","Conservateur",Y,Y,11
+47005,"Palliser","Palliser"," 504","Mobile poll/Bureau itinérant",N,N,"",3,163,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,16
+47005,"Palliser","Palliser"," 504","Mobile poll/Bureau itinérant",N,N,"",3,163,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 504","Mobile poll/Bureau itinérant",N,N,"",3,163,"Shasko","","Larissa","Green Party","Parti Vert",N,N,1
+47005,"Palliser","Palliser"," 504","Mobile poll/Bureau itinérant",N,N,"",3,163,"Williams","","John","Liberal","Libéral",N,N,19
+47005,"Palliser","Palliser"," 505","Mobile poll/Bureau itinérant",N,N,"",1,200,"Batters","","Dave","Conservative","Conservateur",Y,Y,17
+47005,"Palliser","Palliser"," 505","Mobile poll/Bureau itinérant",N,N,"",1,200,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,23
+47005,"Palliser","Palliser"," 505","Mobile poll/Bureau itinérant",N,N,"",1,200,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 505","Mobile poll/Bureau itinérant",N,N,"",1,200,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 505","Mobile poll/Bureau itinérant",N,N,"",1,200,"Williams","","John","Liberal","Libéral",N,N,23
+47005,"Palliser","Palliser"," 506","Mobile poll/Bureau itinérant",N,N,"",1,163,"Batters","","Dave","Conservative","Conservateur",Y,Y,15
+47005,"Palliser","Palliser"," 506","Mobile poll/Bureau itinérant",N,N,"",1,163,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+47005,"Palliser","Palliser"," 506","Mobile poll/Bureau itinérant",N,N,"",1,163,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,5
+47005,"Palliser","Palliser"," 506","Mobile poll/Bureau itinérant",N,N,"",1,163,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 506","Mobile poll/Bureau itinérant",N,N,"",1,163,"Williams","","John","Liberal","Libéral",N,N,21
+47005,"Palliser","Palliser"," 600","Caronport",N,N,"",1,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,97
+47005,"Palliser","Palliser"," 600","Caronport",N,N,"",1,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,10
+47005,"Palliser","Palliser"," 600","Caronport",N,N,"",1,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 600","Caronport",N,N,"",1,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 600","Caronport",N,N,"",1,0,"Williams","","John","Liberal","Libéral",N,N,5
+47005,"Palliser","Palliser"," 601","Moose Jaw",N,N,"",0,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,393
+47005,"Palliser","Palliser"," 601","Moose Jaw",N,N,"",0,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,219
+47005,"Palliser","Palliser"," 601","Moose Jaw",N,N,"",0,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 601","Moose Jaw",N,N,"",0,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,10
+47005,"Palliser","Palliser"," 601","Moose Jaw",N,N,"",0,0,"Williams","","John","Liberal","Libéral",N,N,108
+47005,"Palliser","Palliser"," 602","Moose Jaw",N,N,"",0,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,225
+47005,"Palliser","Palliser"," 602","Moose Jaw",N,N,"",0,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,205
+47005,"Palliser","Palliser"," 602","Moose Jaw",N,N,"",0,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 602","Moose Jaw",N,N,"",0,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,3
+47005,"Palliser","Palliser"," 602","Moose Jaw",N,N,"",0,0,"Williams","","John","Liberal","Libéral",N,N,56
+47005,"Palliser","Palliser"," 603","Moose Jaw",N,N,"",1,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,177
+47005,"Palliser","Palliser"," 603","Moose Jaw",N,N,"",1,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,219
+47005,"Palliser","Palliser"," 603","Moose Jaw",N,N,"",1,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 603","Moose Jaw",N,N,"",1,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,12
+47005,"Palliser","Palliser"," 603","Moose Jaw",N,N,"",1,0,"Williams","","John","Liberal","Libéral",N,N,29
+47005,"Palliser","Palliser"," 604","Rouleau",N,N,"",0,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,80
+47005,"Palliser","Palliser"," 604","Rouleau",N,N,"",0,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,14
+47005,"Palliser","Palliser"," 604","Rouleau",N,N,"",0,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 604","Rouleau",N,N,"",0,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,2
+47005,"Palliser","Palliser"," 604","Rouleau",N,N,"",0,0,"Williams","","John","Liberal","Libéral",N,N,10
+47005,"Palliser","Palliser"," 605","Regina",N,N,"",0,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,84
+47005,"Palliser","Palliser"," 605","Regina",N,N,"",0,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,255
+47005,"Palliser","Palliser"," 605","Regina",N,N,"",0,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 605","Regina",N,N,"",0,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,18
+47005,"Palliser","Palliser"," 605","Regina",N,N,"",0,0,"Williams","","John","Liberal","Libéral",N,N,76
+47005,"Palliser","Palliser"," 606","Regina",N,N,"",0,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,131
+47005,"Palliser","Palliser"," 606","Regina",N,N,"",0,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,171
+47005,"Palliser","Palliser"," 606","Regina",N,N,"",0,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," 606","Regina",N,N,"",0,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 606","Regina",N,N,"",0,0,"Williams","","John","Liberal","Libéral",N,N,129
+47005,"Palliser","Palliser"," 607","Regina",N,N,"",3,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,221
+47005,"Palliser","Palliser"," 607","Regina",N,N,"",3,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,104
+47005,"Palliser","Palliser"," 607","Regina",N,N,"",3,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,2
+47005,"Palliser","Palliser"," 607","Regina",N,N,"",3,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,8
+47005,"Palliser","Palliser"," 607","Regina",N,N,"",3,0,"Williams","","John","Liberal","Libéral",N,N,161
+47005,"Palliser","Palliser"," 608","Crestwynd",N,N,"",0,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,42
+47005,"Palliser","Palliser"," 608","Crestwynd",N,N,"",0,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,0
+47005,"Palliser","Palliser"," 608","Crestwynd",N,N,"",0,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," 608","Crestwynd",N,N,"",0,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,0
+47005,"Palliser","Palliser"," 608","Crestwynd",N,N,"",0,0,"Williams","","John","Liberal","Libéral",N,N,13
+47005,"Palliser","Palliser"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,294,"Batters","","Dave","Conservative","Conservateur",Y,Y,72
+47005,"Palliser","Palliser"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,294,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+47005,"Palliser","Palliser"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,294,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,0
+47005,"Palliser","Palliser"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,294,"Shasko","","Larissa","Green Party","Parti Vert",N,N,4
+47005,"Palliser","Palliser"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,294,"Williams","","John","Liberal","Libéral",N,N,40
+47005,"Palliser","Palliser"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Batters","","Dave","Conservative","Conservateur",Y,Y,594
+47005,"Palliser","Palliser"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Dusel","","Jo-Anne","N.D.P.","N.P.D.",N,N,317
+47005,"Palliser","Palliser"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Fogal","","Marcia","Canadian Action","Action canadienne",N,N,1
+47005,"Palliser","Palliser"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Shasko","","Larissa","Green Party","Parti Vert",N,N,31
+47005,"Palliser","Palliser"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Williams","","John","Liberal","Libéral",N,N,281

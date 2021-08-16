@@ -1,0 +1,906 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",0,182,"Bagnell","","Larry","Liberal","Libéral",Y,Y,40
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",0,182,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",0,182,"Morris","","Lenore","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",0,182,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,5
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",0,182,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",3,565,"Bagnell","","Larry","Liberal","Libéral",Y,Y,73
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",3,565,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",3,565,"Morris","","Lenore","Green Party","Parti Vert",N,N,37
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",3,565,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,52
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",3,565,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",2,596,"Bagnell","","Larry","Liberal","Libéral",Y,Y,70
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",2,596,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",2,596,"Morris","","Lenore","Green Party","Parti Vert",N,N,33
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",2,596,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,61
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",2,596,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,7
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",1,603,"Bagnell","","Larry","Liberal","Libéral",Y,Y,70
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",1,603,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",1,603,"Morris","","Lenore","Green Party","Parti Vert",N,N,40
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",1,603,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,63
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",1,603,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,5
+60001,"Yukon","Yukon"," 3","Beaver Creek",N,N,"",0,87,"Bagnell","","Larry","Liberal","Libéral",Y,Y,12
+60001,"Yukon","Yukon"," 3","Beaver Creek",N,N,"",0,87,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+60001,"Yukon","Yukon"," 3","Beaver Creek",N,N,"",0,87,"Morris","","Lenore","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 3","Beaver Creek",N,N,"",0,87,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,4
+60001,"Yukon","Yukon"," 3","Beaver Creek",N,N,"",0,87,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 4","Mayo",N,N,"",1,437,"Bagnell","","Larry","Liberal","Libéral",Y,Y,74
+60001,"Yukon","Yukon"," 4","Mayo",N,N,"",1,437,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+60001,"Yukon","Yukon"," 4","Mayo",N,N,"",1,437,"Morris","","Lenore","Green Party","Parti Vert",N,N,15
+60001,"Yukon","Yukon"," 4","Mayo",N,N,"",1,437,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,44
+60001,"Yukon","Yukon"," 4","Mayo",N,N,"",1,437,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 5","Pelly Crossing",N,N,"",0,282,"Bagnell","","Larry","Liberal","Libéral",Y,Y,55
+60001,"Yukon","Yukon"," 5","Pelly Crossing",N,N,"",0,282,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+60001,"Yukon","Yukon"," 5","Pelly Crossing",N,N,"",0,282,"Morris","","Lenore","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 5","Pelly Crossing",N,N,"",0,282,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,19
+60001,"Yukon","Yukon"," 5","Pelly Crossing",N,N,"",0,282,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 6","Burwash Landing",N,N,"",0,132,"Bagnell","","Larry","Liberal","Libéral",Y,Y,17
+60001,"Yukon","Yukon"," 6","Burwash Landing",N,N,"",0,132,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 6","Burwash Landing",N,N,"",0,132,"Morris","","Lenore","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 6","Burwash Landing",N,N,"",0,132,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,9
+60001,"Yukon","Yukon"," 6","Burwash Landing",N,N,"",0,132,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 7","Carmacks",N,N,"",0,396,"Bagnell","","Larry","Liberal","Libéral",Y,Y,58
+60001,"Yukon","Yukon"," 7","Carmacks",N,N,"",0,396,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+60001,"Yukon","Yukon"," 7","Carmacks",N,N,"",0,396,"Morris","","Lenore","Green Party","Parti Vert",N,N,14
+60001,"Yukon","Yukon"," 7","Carmacks",N,N,"",0,396,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,59
+60001,"Yukon","Yukon"," 7","Carmacks",N,N,"",0,396,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 8","Faro",N,N,"",1,320,"Bagnell","","Larry","Liberal","Libéral",Y,Y,45
+60001,"Yukon","Yukon"," 8","Faro",N,N,"",1,320,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+60001,"Yukon","Yukon"," 8","Faro",N,N,"",1,320,"Morris","","Lenore","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 8","Faro",N,N,"",1,320,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,64
+60001,"Yukon","Yukon"," 8","Faro",N,N,"",1,320,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,7
+60001,"Yukon","Yukon"," 9A","Haines Junction",N,N,"",1,417,"Bagnell","","Larry","Liberal","Libéral",Y,Y,87
+60001,"Yukon","Yukon"," 9A","Haines Junction",N,N,"",1,417,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+60001,"Yukon","Yukon"," 9A","Haines Junction",N,N,"",1,417,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 9A","Haines Junction",N,N,"",1,417,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,43
+60001,"Yukon","Yukon"," 9A","Haines Junction",N,N,"",1,417,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 9B","Haines Junction",N,N,"",2,346,"Bagnell","","Larry","Liberal","Libéral",Y,Y,53
+60001,"Yukon","Yukon"," 9B","Haines Junction",N,N,"",2,346,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+60001,"Yukon","Yukon"," 9B","Haines Junction",N,N,"",2,346,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 9B","Haines Junction",N,N,"",2,346,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,52
+60001,"Yukon","Yukon"," 9B","Haines Junction",N,N,"",2,346,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 10A","Takhini",N,N,"",0,298,"Bagnell","","Larry","Liberal","Libéral",Y,Y,81
+60001,"Yukon","Yukon"," 10A","Takhini",N,N,"",0,298,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+60001,"Yukon","Yukon"," 10A","Takhini",N,N,"",0,298,"Morris","","Lenore","Green Party","Parti Vert",N,N,31
+60001,"Yukon","Yukon"," 10A","Takhini",N,N,"",0,298,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,113
+60001,"Yukon","Yukon"," 10A","Takhini",N,N,"",0,298,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 10B","Takhini",N,N,"",0,364,"Bagnell","","Larry","Liberal","Libéral",Y,Y,95
+60001,"Yukon","Yukon"," 10B","Takhini",N,N,"",0,364,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+60001,"Yukon","Yukon"," 10B","Takhini",N,N,"",0,364,"Morris","","Lenore","Green Party","Parti Vert",N,N,41
+60001,"Yukon","Yukon"," 10B","Takhini",N,N,"",0,364,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,121
+60001,"Yukon","Yukon"," 10B","Takhini",N,N,"",0,364,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 10C","Takhini",N,N,"",3,346,"Bagnell","","Larry","Liberal","Libéral",Y,Y,107
+60001,"Yukon","Yukon"," 10C","Takhini",N,N,"",3,346,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+60001,"Yukon","Yukon"," 10C","Takhini",N,N,"",3,346,"Morris","","Lenore","Green Party","Parti Vert",N,N,38
+60001,"Yukon","Yukon"," 10C","Takhini",N,N,"",3,346,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,125
+60001,"Yukon","Yukon"," 10C","Takhini",N,N,"",3,346,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,10
+60001,"Yukon","Yukon"," 11A","Whitehorse",N,N,"10A",0,222,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 11A","Whitehorse",N,N,"10A",0,222,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 11A","Whitehorse",N,N,"10A",0,222,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 11A","Whitehorse",N,N,"10A",0,222,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 11A","Whitehorse",N,N,"10A",0,222,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 11B","Whitehorse",N,N,"10B",0,233,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 11B","Whitehorse",N,N,"10B",0,233,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 11B","Whitehorse",N,N,"10B",0,233,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 11B","Whitehorse",N,N,"10B",0,233,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 11B","Whitehorse",N,N,"10B",0,233,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 11C","Whitehorse",N,N,"10C",0,247,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 11C","Whitehorse",N,N,"10C",0,247,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 11C","Whitehorse",N,N,"10C",0,247,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 11C","Whitehorse",N,N,"10C",0,247,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 11C","Whitehorse",N,N,"10C",0,247,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 12","Ross River",N,N,"",0,300,"Bagnell","","Larry","Liberal","Libéral",Y,Y,27
+60001,"Yukon","Yukon"," 12","Ross River",N,N,"",0,300,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+60001,"Yukon","Yukon"," 12","Ross River",N,N,"",0,300,"Morris","","Lenore","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 12","Ross River",N,N,"",0,300,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,13
+60001,"Yukon","Yukon"," 12","Ross River",N,N,"",0,300,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,9
+60001,"Yukon","Yukon"," 13A","Whitehorse",N,N,"14A",0,88,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 13A","Whitehorse",N,N,"14A",0,88,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 13A","Whitehorse",N,N,"14A",0,88,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 13A","Whitehorse",N,N,"14A",0,88,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 13A","Whitehorse",N,N,"14A",0,88,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 13B","Whitehorse",N,N,"14B",0,54,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 13B","Whitehorse",N,N,"14B",0,54,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 13B","Whitehorse",N,N,"14B",0,54,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 13B","Whitehorse",N,N,"14B",0,54,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 13B","Whitehorse",N,N,"14B",0,54,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 13C","Whitehorse",N,N,"14C",0,78,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 13C","Whitehorse",N,N,"14C",0,78,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 13C","Whitehorse",N,N,"14C",0,78,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 13C","Whitehorse",N,N,"14C",0,78,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 13C","Whitehorse",N,N,"14C",0,78,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 13D","Whitehorse",N,N,"14D",0,92,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 13D","Whitehorse",N,N,"14D",0,92,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 13D","Whitehorse",N,N,"14D",0,92,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 13D","Whitehorse",N,N,"14D",0,92,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 13D","Whitehorse",N,N,"14D",0,92,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 13E","Whitehorse",N,N,"14E",0,79,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 13E","Whitehorse",N,N,"14E",0,79,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 13E","Whitehorse",N,N,"14E",0,79,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 13E","Whitehorse",N,N,"14E",0,79,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 13E","Whitehorse",N,N,"14E",0,79,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 14A","Whitehorse",N,N,"",3,119,"Bagnell","","Larry","Liberal","Libéral",Y,Y,57
+60001,"Yukon","Yukon"," 14A","Whitehorse",N,N,"",3,119,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+60001,"Yukon","Yukon"," 14A","Whitehorse",N,N,"",3,119,"Morris","","Lenore","Green Party","Parti Vert",N,N,24
+60001,"Yukon","Yukon"," 14A","Whitehorse",N,N,"",3,119,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,76
+60001,"Yukon","Yukon"," 14A","Whitehorse",N,N,"",3,119,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 14B","Whitehorse",N,N,"",1,104,"Bagnell","","Larry","Liberal","Libéral",Y,Y,55
+60001,"Yukon","Yukon"," 14B","Whitehorse",N,N,"",1,104,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+60001,"Yukon","Yukon"," 14B","Whitehorse",N,N,"",1,104,"Morris","","Lenore","Green Party","Parti Vert",N,N,17
+60001,"Yukon","Yukon"," 14B","Whitehorse",N,N,"",1,104,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,59
+60001,"Yukon","Yukon"," 14B","Whitehorse",N,N,"",1,104,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 14C","Whitehorse",N,N,"",0,129,"Bagnell","","Larry","Liberal","Libéral",Y,Y,69
+60001,"Yukon","Yukon"," 14C","Whitehorse",N,N,"",0,129,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+60001,"Yukon","Yukon"," 14C","Whitehorse",N,N,"",0,129,"Morris","","Lenore","Green Party","Parti Vert",N,N,20
+60001,"Yukon","Yukon"," 14C","Whitehorse",N,N,"",0,129,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,88
+60001,"Yukon","Yukon"," 14C","Whitehorse",N,N,"",0,129,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,8
+60001,"Yukon","Yukon"," 14D","Whitehorse",N,N,"",2,144,"Bagnell","","Larry","Liberal","Libéral",Y,Y,77
+60001,"Yukon","Yukon"," 14D","Whitehorse",N,N,"",2,144,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+60001,"Yukon","Yukon"," 14D","Whitehorse",N,N,"",2,144,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 14D","Whitehorse",N,N,"",2,144,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,82
+60001,"Yukon","Yukon"," 14D","Whitehorse",N,N,"",2,144,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 14E","Whitehorse",N,N,"",2,132,"Bagnell","","Larry","Liberal","Libéral",Y,Y,68
+60001,"Yukon","Yukon"," 14E","Whitehorse",N,N,"",2,132,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+60001,"Yukon","Yukon"," 14E","Whitehorse",N,N,"",2,132,"Morris","","Lenore","Green Party","Parti Vert",N,N,18
+60001,"Yukon","Yukon"," 14E","Whitehorse",N,N,"",2,132,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,79
+60001,"Yukon","Yukon"," 14E","Whitehorse",N,N,"",2,132,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 15A","Whitehorse",N,N,"14A",0,114,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 15A","Whitehorse",N,N,"14A",0,114,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 15A","Whitehorse",N,N,"14A",0,114,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 15A","Whitehorse",N,N,"14A",0,114,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 15A","Whitehorse",N,N,"14A",0,114,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 15B","Whitehorse",N,N,"14B",0,94,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 15B","Whitehorse",N,N,"14B",0,94,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 15B","Whitehorse",N,N,"14B",0,94,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 15B","Whitehorse",N,N,"14B",0,94,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 15B","Whitehorse",N,N,"14B",0,94,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 15C","Whitehorse",N,N,"14C",0,117,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 15C","Whitehorse",N,N,"14C",0,117,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 15C","Whitehorse",N,N,"14C",0,117,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 15C","Whitehorse",N,N,"14C",0,117,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 15C","Whitehorse",N,N,"14C",0,117,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 15D","Whitehorse",N,N,"14D",0,127,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 15D","Whitehorse",N,N,"14D",0,127,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 15D","Whitehorse",N,N,"14D",0,127,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 15D","Whitehorse",N,N,"14D",0,127,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 15D","Whitehorse",N,N,"14D",0,127,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 15E","Whitehorse",N,N,"14E",0,116,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 15E","Whitehorse",N,N,"14E",0,116,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 15E","Whitehorse",N,N,"14E",0,116,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 15E","Whitehorse",N,N,"14E",0,116,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 15E","Whitehorse",N,N,"14E",0,116,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 16A","Whitehorse",N,N,"14A",0,103,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 16A","Whitehorse",N,N,"14A",0,103,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 16A","Whitehorse",N,N,"14A",0,103,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 16A","Whitehorse",N,N,"14A",0,103,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 16A","Whitehorse",N,N,"14A",0,103,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 16B","Whitehorse",N,N,"14B",0,78,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 16B","Whitehorse",N,N,"14B",0,78,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 16B","Whitehorse",N,N,"14B",0,78,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 16B","Whitehorse",N,N,"14B",0,78,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 16B","Whitehorse",N,N,"14B",0,78,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 16C","Whitehorse",N,N,"14C",0,110,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 16C","Whitehorse",N,N,"14C",0,110,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 16C","Whitehorse",N,N,"14C",0,110,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 16C","Whitehorse",N,N,"14C",0,110,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 16C","Whitehorse",N,N,"14C",0,110,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 16D","Whitehorse",N,N,"14D",0,113,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 16D","Whitehorse",N,N,"14D",0,113,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 16D","Whitehorse",N,N,"14D",0,113,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 16D","Whitehorse",N,N,"14D",0,113,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 16D","Whitehorse",N,N,"14D",0,113,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 16E","Whitehorse",N,N,"14E",0,105,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 16E","Whitehorse",N,N,"14E",0,105,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 16E","Whitehorse",N,N,"14E",0,105,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 16E","Whitehorse",N,N,"14E",0,105,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 16E","Whitehorse",N,N,"14E",0,105,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 17A","Whitehorse",N,N,"14A",0,59,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 17A","Whitehorse",N,N,"14A",0,59,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 17A","Whitehorse",N,N,"14A",0,59,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 17A","Whitehorse",N,N,"14A",0,59,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 17A","Whitehorse",N,N,"14A",0,59,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 17B","Whitehorse",N,N,"14B",0,37,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 17B","Whitehorse",N,N,"14B",0,37,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 17B","Whitehorse",N,N,"14B",0,37,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 17B","Whitehorse",N,N,"14B",0,37,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 17B","Whitehorse",N,N,"14B",0,37,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 17C","Whitehorse",N,N,"14C",0,73,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 17C","Whitehorse",N,N,"14C",0,73,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 17C","Whitehorse",N,N,"14C",0,73,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 17C","Whitehorse",N,N,"14C",0,73,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 17C","Whitehorse",N,N,"14C",0,73,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 17D","Whitehorse",N,N,"14D",0,61,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 17D","Whitehorse",N,N,"14D",0,61,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 17D","Whitehorse",N,N,"14D",0,61,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 17D","Whitehorse",N,N,"14D",0,61,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 17D","Whitehorse",N,N,"14D",0,61,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 17E","Whitehorse",N,N,"14E",0,62,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 17E","Whitehorse",N,N,"14E",0,62,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 17E","Whitehorse",N,N,"14E",0,62,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 17E","Whitehorse",N,N,"14E",0,62,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 17E","Whitehorse",N,N,"14E",0,62,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 18A","Whitehorse",N,N,"",4,487,"Bagnell","","Larry","Liberal","Libéral",Y,Y,74
+60001,"Yukon","Yukon"," 18A","Whitehorse",N,N,"",4,487,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+60001,"Yukon","Yukon"," 18A","Whitehorse",N,N,"",4,487,"Morris","","Lenore","Green Party","Parti Vert",N,N,34
+60001,"Yukon","Yukon"," 18A","Whitehorse",N,N,"",4,487,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,90
+60001,"Yukon","Yukon"," 18A","Whitehorse",N,N,"",4,487,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,6
+60001,"Yukon","Yukon"," 18B","Whitehorse",N,N,"",0,490,"Bagnell","","Larry","Liberal","Libéral",Y,Y,89
+60001,"Yukon","Yukon"," 18B","Whitehorse",N,N,"",0,490,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+60001,"Yukon","Yukon"," 18B","Whitehorse",N,N,"",0,490,"Morris","","Lenore","Green Party","Parti Vert",N,N,34
+60001,"Yukon","Yukon"," 18B","Whitehorse",N,N,"",0,490,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,65
+60001,"Yukon","Yukon"," 18B","Whitehorse",N,N,"",0,490,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 19","Whitehorse",N,N,"",0,376,"Bagnell","","Larry","Liberal","Libéral",Y,Y,61
+60001,"Yukon","Yukon"," 19","Whitehorse",N,N,"",0,376,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+60001,"Yukon","Yukon"," 19","Whitehorse",N,N,"",0,376,"Morris","","Lenore","Green Party","Parti Vert",N,N,11
+60001,"Yukon","Yukon"," 19","Whitehorse",N,N,"",0,376,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,85
+60001,"Yukon","Yukon"," 19","Whitehorse",N,N,"",0,376,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 20","Whitehorse",N,N,"",0,340,"Bagnell","","Larry","Liberal","Libéral",Y,Y,54
+60001,"Yukon","Yukon"," 20","Whitehorse",N,N,"",0,340,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+60001,"Yukon","Yukon"," 20","Whitehorse",N,N,"",0,340,"Morris","","Lenore","Green Party","Parti Vert",N,N,9
+60001,"Yukon","Yukon"," 20","Whitehorse",N,N,"",0,340,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,61
+60001,"Yukon","Yukon"," 20","Whitehorse",N,N,"",0,340,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 21A","Whitehorse",N,N,"22A",0,167,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 21A","Whitehorse",N,N,"22A",0,167,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 21A","Whitehorse",N,N,"22A",0,167,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 21A","Whitehorse",N,N,"22A",0,167,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 21A","Whitehorse",N,N,"22A",0,167,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 21B","Whitehorse",N,N,"22B",0,184,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 21B","Whitehorse",N,N,"22B",0,184,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 21B","Whitehorse",N,N,"22B",0,184,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 21B","Whitehorse",N,N,"22B",0,184,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 21B","Whitehorse",N,N,"22B",0,184,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 22A","Whitehorse",N,N,"",0,268,"Bagnell","","Larry","Liberal","Libéral",Y,Y,49
+60001,"Yukon","Yukon"," 22A","Whitehorse",N,N,"",0,268,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+60001,"Yukon","Yukon"," 22A","Whitehorse",N,N,"",0,268,"Morris","","Lenore","Green Party","Parti Vert",N,N,18
+60001,"Yukon","Yukon"," 22A","Whitehorse",N,N,"",0,268,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,69
+60001,"Yukon","Yukon"," 22A","Whitehorse",N,N,"",0,268,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,6
+60001,"Yukon","Yukon"," 22B","Whitehorse",N,N,"",3,279,"Bagnell","","Larry","Liberal","Libéral",Y,Y,51
+60001,"Yukon","Yukon"," 22B","Whitehorse",N,N,"",3,279,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+60001,"Yukon","Yukon"," 22B","Whitehorse",N,N,"",3,279,"Morris","","Lenore","Green Party","Parti Vert",N,N,24
+60001,"Yukon","Yukon"," 22B","Whitehorse",N,N,"",3,279,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,61
+60001,"Yukon","Yukon"," 22B","Whitehorse",N,N,"",3,279,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 23A","Whitehorse",N,N,"24A",0,99,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 23A","Whitehorse",N,N,"24A",0,99,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 23A","Whitehorse",N,N,"24A",0,99,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 23A","Whitehorse",N,N,"24A",0,99,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 23A","Whitehorse",N,N,"24A",0,99,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 23B","Whitehorse",N,N,"24B",0,78,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 23B","Whitehorse",N,N,"24B",0,78,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 23B","Whitehorse",N,N,"24B",0,78,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 23B","Whitehorse",N,N,"24B",0,78,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 23B","Whitehorse",N,N,"24B",0,78,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 23C","Whitehorse",N,N,"24C",0,56,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 23C","Whitehorse",N,N,"24C",0,56,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 23C","Whitehorse",N,N,"24C",0,56,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 23C","Whitehorse",N,N,"24C",0,56,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 23C","Whitehorse",N,N,"24C",0,56,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 24A","Whitehorse",N,N,"",1,181,"Bagnell","","Larry","Liberal","Libéral",Y,Y,46
+60001,"Yukon","Yukon"," 24A","Whitehorse",N,N,"",1,181,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+60001,"Yukon","Yukon"," 24A","Whitehorse",N,N,"",1,181,"Morris","","Lenore","Green Party","Parti Vert",N,N,15
+60001,"Yukon","Yukon"," 24A","Whitehorse",N,N,"",1,181,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,82
+60001,"Yukon","Yukon"," 24A","Whitehorse",N,N,"",1,181,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 24B","Whitehorse",N,N,"",0,202,"Bagnell","","Larry","Liberal","Libéral",Y,Y,69
+60001,"Yukon","Yukon"," 24B","Whitehorse",N,N,"",0,202,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+60001,"Yukon","Yukon"," 24B","Whitehorse",N,N,"",0,202,"Morris","","Lenore","Green Party","Parti Vert",N,N,19
+60001,"Yukon","Yukon"," 24B","Whitehorse",N,N,"",0,202,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,78
+60001,"Yukon","Yukon"," 24B","Whitehorse",N,N,"",0,202,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 24C","Whitehorse",N,N,"",0,192,"Bagnell","","Larry","Liberal","Libéral",Y,Y,52
+60001,"Yukon","Yukon"," 24C","Whitehorse",N,N,"",0,192,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+60001,"Yukon","Yukon"," 24C","Whitehorse",N,N,"",0,192,"Morris","","Lenore","Green Party","Parti Vert",N,N,20
+60001,"Yukon","Yukon"," 24C","Whitehorse",N,N,"",0,192,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,76
+60001,"Yukon","Yukon"," 24C","Whitehorse",N,N,"",0,192,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 25A","Whitehorse",N,N,"24A",0,109,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 25A","Whitehorse",N,N,"24A",0,109,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 25A","Whitehorse",N,N,"24A",0,109,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 25A","Whitehorse",N,N,"24A",0,109,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 25A","Whitehorse",N,N,"24A",0,109,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 25B","Whitehorse",N,N,"24B",0,103,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 25B","Whitehorse",N,N,"24B",0,103,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 25B","Whitehorse",N,N,"24B",0,103,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 25B","Whitehorse",N,N,"24B",0,103,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 25B","Whitehorse",N,N,"24B",0,103,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 25C","Whitehorse",N,N,"24C",0,114,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 25C","Whitehorse",N,N,"24C",0,114,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 25C","Whitehorse",N,N,"24C",0,114,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 25C","Whitehorse",N,N,"24C",0,114,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 25C","Whitehorse",N,N,"24C",0,114,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"",0,248,"Bagnell","","Larry","Liberal","Libéral",Y,Y,69
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"",0,248,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"",0,248,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"",0,248,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,46
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"",0,248,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"",0,272,"Bagnell","","Larry","Liberal","Libéral",Y,Y,75
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"",0,272,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"",0,272,"Morris","","Lenore","Green Party","Parti Vert",N,N,25
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"",0,272,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,48
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"",0,272,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 27A","Whitehorse",N,N,"26A",0,191,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 27A","Whitehorse",N,N,"26A",0,191,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 27A","Whitehorse",N,N,"26A",0,191,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 27A","Whitehorse",N,N,"26A",0,191,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 27A","Whitehorse",N,N,"26A",0,191,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 27B","Whitehorse",N,N,"26B",0,163,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 27B","Whitehorse",N,N,"26B",0,163,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 27B","Whitehorse",N,N,"26B",0,163,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 27B","Whitehorse",N,N,"26B",0,163,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 27B","Whitehorse",N,N,"26B",0,163,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",3,405,"Bagnell","","Larry","Liberal","Libéral",Y,Y,74
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",3,405,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",3,405,"Morris","","Lenore","Green Party","Parti Vert",N,N,20
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",3,405,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,39
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",3,405,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,318,"Bagnell","","Larry","Liberal","Libéral",Y,Y,62
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,318,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,318,"Morris","","Lenore","Green Party","Parti Vert",N,N,20
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,318,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,30
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,318,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",1,333,"Bagnell","","Larry","Liberal","Libéral",Y,Y,53
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",1,333,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",1,333,"Morris","","Lenore","Green Party","Parti Vert",N,N,17
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",1,333,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,24
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",1,333,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 31A","Whitehorse",N,N,"33A",0,114,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 31A","Whitehorse",N,N,"33A",0,114,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 31A","Whitehorse",N,N,"33A",0,114,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 31A","Whitehorse",N,N,"33A",0,114,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 31A","Whitehorse",N,N,"33A",0,114,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 31B","Whitehorse",N,N,"33B",0,70,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 31B","Whitehorse",N,N,"33B",0,70,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 31B","Whitehorse",N,N,"33B",0,70,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 31B","Whitehorse",N,N,"33B",0,70,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 31B","Whitehorse",N,N,"33B",0,70,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 31C","Whitehorse",N,N,"33C",0,76,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 31C","Whitehorse",N,N,"33C",0,76,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 31C","Whitehorse",N,N,"33C",0,76,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 31C","Whitehorse",N,N,"33C",0,76,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 31C","Whitehorse",N,N,"33C",0,76,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 31D","Whitehorse",N,N,"33D",0,60,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 31D","Whitehorse",N,N,"33D",0,60,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 31D","Whitehorse",N,N,"33D",0,60,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 31D","Whitehorse",N,N,"33D",0,60,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 31D","Whitehorse",N,N,"33D",0,60,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 31E","Whitehorse",N,N,"33E",0,125,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 31E","Whitehorse",N,N,"33E",0,125,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 31E","Whitehorse",N,N,"33E",0,125,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 31E","Whitehorse",N,N,"33E",0,125,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 31E","Whitehorse",N,N,"33E",0,125,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 32A","Whitehorse",N,N,"33A",0,81,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 32A","Whitehorse",N,N,"33A",0,81,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 32A","Whitehorse",N,N,"33A",0,81,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 32A","Whitehorse",N,N,"33A",0,81,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 32A","Whitehorse",N,N,"33A",0,81,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 32B","Whitehorse",N,N,"33B",0,60,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 32B","Whitehorse",N,N,"33B",0,60,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 32B","Whitehorse",N,N,"33B",0,60,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 32B","Whitehorse",N,N,"33B",0,60,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 32B","Whitehorse",N,N,"33B",0,60,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 32C","Whitehorse",N,N,"33C",0,66,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 32C","Whitehorse",N,N,"33C",0,66,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 32C","Whitehorse",N,N,"33C",0,66,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 32C","Whitehorse",N,N,"33C",0,66,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 32C","Whitehorse",N,N,"33C",0,66,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 32D","Whitehorse",N,N,"33D",0,102,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 32D","Whitehorse",N,N,"33D",0,102,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 32D","Whitehorse",N,N,"33D",0,102,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 32D","Whitehorse",N,N,"33D",0,102,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 32D","Whitehorse",N,N,"33D",0,102,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 32E","Whitehorse",N,N,"33E",0,77,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 32E","Whitehorse",N,N,"33E",0,77,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 32E","Whitehorse",N,N,"33E",0,77,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 32E","Whitehorse",N,N,"33E",0,77,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 32E","Whitehorse",N,N,"33E",0,77,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 33A","Whitehorse",N,N,"",0,142,"Bagnell","","Larry","Liberal","Libéral",Y,Y,84
+60001,"Yukon","Yukon"," 33A","Whitehorse",N,N,"",0,142,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+60001,"Yukon","Yukon"," 33A","Whitehorse",N,N,"",0,142,"Morris","","Lenore","Green Party","Parti Vert",N,N,22
+60001,"Yukon","Yukon"," 33A","Whitehorse",N,N,"",0,142,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,66
+60001,"Yukon","Yukon"," 33A","Whitehorse",N,N,"",0,142,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 33B","Whitehorse",N,N,"",0,75,"Bagnell","","Larry","Liberal","Libéral",Y,Y,53
+60001,"Yukon","Yukon"," 33B","Whitehorse",N,N,"",0,75,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+60001,"Yukon","Yukon"," 33B","Whitehorse",N,N,"",0,75,"Morris","","Lenore","Green Party","Parti Vert",N,N,17
+60001,"Yukon","Yukon"," 33B","Whitehorse",N,N,"",0,75,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,42
+60001,"Yukon","Yukon"," 33B","Whitehorse",N,N,"",0,75,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 33C","Whitehorse",N,N,"",1,137,"Bagnell","","Larry","Liberal","Libéral",Y,Y,77
+60001,"Yukon","Yukon"," 33C","Whitehorse",N,N,"",1,137,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+60001,"Yukon","Yukon"," 33C","Whitehorse",N,N,"",1,137,"Morris","","Lenore","Green Party","Parti Vert",N,N,14
+60001,"Yukon","Yukon"," 33C","Whitehorse",N,N,"",1,137,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,65
+60001,"Yukon","Yukon"," 33C","Whitehorse",N,N,"",1,137,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 33D","Whitehorse",N,N,"",0,165,"Bagnell","","Larry","Liberal","Libéral",Y,Y,95
+60001,"Yukon","Yukon"," 33D","Whitehorse",N,N,"",0,165,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+60001,"Yukon","Yukon"," 33D","Whitehorse",N,N,"",0,165,"Morris","","Lenore","Green Party","Parti Vert",N,N,22
+60001,"Yukon","Yukon"," 33D","Whitehorse",N,N,"",0,165,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,70
+60001,"Yukon","Yukon"," 33D","Whitehorse",N,N,"",0,165,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 33E","Whitehorse",N,N,"",0,138,"Bagnell","","Larry","Liberal","Libéral",Y,Y,81
+60001,"Yukon","Yukon"," 33E","Whitehorse",N,N,"",0,138,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+60001,"Yukon","Yukon"," 33E","Whitehorse",N,N,"",0,138,"Morris","","Lenore","Green Party","Parti Vert",N,N,25
+60001,"Yukon","Yukon"," 33E","Whitehorse",N,N,"",0,138,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,55
+60001,"Yukon","Yukon"," 33E","Whitehorse",N,N,"",0,138,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 34A","Whitehorse",N,N,"33A",0,77,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 34A","Whitehorse",N,N,"33A",0,77,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 34A","Whitehorse",N,N,"33A",0,77,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 34A","Whitehorse",N,N,"33A",0,77,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 34A","Whitehorse",N,N,"33A",0,77,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 34B","Whitehorse",N,N,"33B",0,57,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 34B","Whitehorse",N,N,"33B",0,57,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 34B","Whitehorse",N,N,"33B",0,57,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 34B","Whitehorse",N,N,"33B",0,57,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 34B","Whitehorse",N,N,"33B",0,57,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 34C","Whitehorse",N,N,"33C",0,92,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 34C","Whitehorse",N,N,"33C",0,92,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 34C","Whitehorse",N,N,"33C",0,92,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 34C","Whitehorse",N,N,"33C",0,92,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 34C","Whitehorse",N,N,"33C",0,92,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 34D","Whitehorse",N,N,"33D",0,98,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 34D","Whitehorse",N,N,"33D",0,98,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 34D","Whitehorse",N,N,"33D",0,98,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 34D","Whitehorse",N,N,"33D",0,98,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 34D","Whitehorse",N,N,"33D",0,98,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 34E","Whitehorse",N,N,"33E",0,64,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 34E","Whitehorse",N,N,"33E",0,64,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 34E","Whitehorse",N,N,"33E",0,64,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 34E","Whitehorse",N,N,"33E",0,64,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 34E","Whitehorse",N,N,"33E",0,64,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 35A","Whitehorse",N,N,"33A",0,72,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 35A","Whitehorse",N,N,"33A",0,72,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 35A","Whitehorse",N,N,"33A",0,72,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 35A","Whitehorse",N,N,"33A",0,72,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 35A","Whitehorse",N,N,"33A",0,72,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 35B","Whitehorse",N,N,"33B",0,50,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 35B","Whitehorse",N,N,"33B",0,50,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 35B","Whitehorse",N,N,"33B",0,50,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 35B","Whitehorse",N,N,"33B",0,50,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 35B","Whitehorse",N,N,"33B",0,50,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 35C","Whitehorse",N,N,"33C",0,65,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 35C","Whitehorse",N,N,"33C",0,65,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 35C","Whitehorse",N,N,"33C",0,65,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 35C","Whitehorse",N,N,"33C",0,65,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 35C","Whitehorse",N,N,"33C",0,65,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 35D","Whitehorse",N,N,"33D",0,93,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 35D","Whitehorse",N,N,"33D",0,93,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 35D","Whitehorse",N,N,"33D",0,93,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 35D","Whitehorse",N,N,"33D",0,93,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 35D","Whitehorse",N,N,"33D",0,93,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 35E","Whitehorse",N,N,"33E",0,71,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 35E","Whitehorse",N,N,"33E",0,71,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 35E","Whitehorse",N,N,"33E",0,71,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 35E","Whitehorse",N,N,"33E",0,71,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 35E","Whitehorse",N,N,"33E",0,71,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 36A","Whitehorse",N,N,"40A",0,106,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 36A","Whitehorse",N,N,"40A",0,106,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 36A","Whitehorse",N,N,"40A",0,106,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 36A","Whitehorse",N,N,"40A",0,106,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 36A","Whitehorse",N,N,"40A",0,106,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 36B","Whitehorse",N,N,"40B",0,89,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 36B","Whitehorse",N,N,"40B",0,89,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 36B","Whitehorse",N,N,"40B",0,89,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 36B","Whitehorse",N,N,"40B",0,89,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 36B","Whitehorse",N,N,"40B",0,89,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 36C","Whitehorse",N,N,"40C",0,84,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 36C","Whitehorse",N,N,"40C",0,84,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 36C","Whitehorse",N,N,"40C",0,84,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 36C","Whitehorse",N,N,"40C",0,84,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 36C","Whitehorse",N,N,"40C",0,84,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 36D","Whitehorse",N,N,"40D",0,56,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 36D","Whitehorse",N,N,"40D",0,56,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 36D","Whitehorse",N,N,"40D",0,56,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 36D","Whitehorse",N,N,"40D",0,56,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 36D","Whitehorse",N,N,"40D",0,56,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 36E","Whitehorse",N,N,"40E",0,94,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 36E","Whitehorse",N,N,"40E",0,94,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 36E","Whitehorse",N,N,"40E",0,94,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 36E","Whitehorse",N,N,"40E",0,94,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 36E","Whitehorse",N,N,"40E",0,94,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 37A","Whitehorse",N,N,"40A",0,65,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 37A","Whitehorse",N,N,"40A",0,65,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 37A","Whitehorse",N,N,"40A",0,65,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 37A","Whitehorse",N,N,"40A",0,65,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 37A","Whitehorse",N,N,"40A",0,65,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 37B","Whitehorse",N,N,"40B",0,72,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 37B","Whitehorse",N,N,"40B",0,72,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 37B","Whitehorse",N,N,"40B",0,72,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 37B","Whitehorse",N,N,"40B",0,72,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 37B","Whitehorse",N,N,"40B",0,72,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 37C","Whitehorse",N,N,"40C",0,87,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 37C","Whitehorse",N,N,"40C",0,87,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 37C","Whitehorse",N,N,"40C",0,87,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 37C","Whitehorse",N,N,"40C",0,87,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 37C","Whitehorse",N,N,"40C",0,87,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 37D","Whitehorse",N,N,"40D",0,55,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 37D","Whitehorse",N,N,"40D",0,55,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 37D","Whitehorse",N,N,"40D",0,55,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 37D","Whitehorse",N,N,"40D",0,55,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 37D","Whitehorse",N,N,"40D",0,55,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 37E","Whitehorse",N,N,"40E",0,91,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 37E","Whitehorse",N,N,"40E",0,91,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 37E","Whitehorse",N,N,"40E",0,91,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 37E","Whitehorse",N,N,"40E",0,91,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 37E","Whitehorse",N,N,"40E",0,91,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 38A","Whitehorse",N,N,"40A",0,67,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 38A","Whitehorse",N,N,"40A",0,67,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 38A","Whitehorse",N,N,"40A",0,67,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 38A","Whitehorse",N,N,"40A",0,67,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 38A","Whitehorse",N,N,"40A",0,67,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 38B","Whitehorse",N,N,"40B",0,64,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 38B","Whitehorse",N,N,"40B",0,64,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 38B","Whitehorse",N,N,"40B",0,64,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 38B","Whitehorse",N,N,"40B",0,64,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 38B","Whitehorse",N,N,"40B",0,64,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 38C","Whitehorse",N,N,"40C",0,95,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 38C","Whitehorse",N,N,"40C",0,95,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 38C","Whitehorse",N,N,"40C",0,95,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 38C","Whitehorse",N,N,"40C",0,95,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 38C","Whitehorse",N,N,"40C",0,95,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 38D","Whitehorse",N,N,"40D",0,52,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 38D","Whitehorse",N,N,"40D",0,52,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 38D","Whitehorse",N,N,"40D",0,52,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 38D","Whitehorse",N,N,"40D",0,52,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 38D","Whitehorse",N,N,"40D",0,52,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 38E","Whitehorse",N,N,"40E",0,89,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 38E","Whitehorse",N,N,"40E",0,89,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 38E","Whitehorse",N,N,"40E",0,89,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 38E","Whitehorse",N,N,"40E",0,89,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 38E","Whitehorse",N,N,"40E",0,89,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"40A",0,115,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"40A",0,115,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"40A",0,115,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"40A",0,115,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"40A",0,115,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"40B",0,105,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"40B",0,105,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"40B",0,105,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"40B",0,105,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"40B",0,105,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"40C",0,111,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"40C",0,111,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"40C",0,111,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"40C",0,111,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"40C",0,111,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"40D",0,81,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"40D",0,81,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"40D",0,81,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"40D",0,81,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"40D",0,81,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"40E",0,125,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"40E",0,125,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"40E",0,125,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"40E",0,125,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"40E",0,125,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"",1,130,"Bagnell","","Larry","Liberal","Libéral",Y,Y,86
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"",1,130,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"",1,130,"Morris","","Lenore","Green Party","Parti Vert",N,N,17
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"",1,130,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,101
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"",1,130,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"",1,132,"Bagnell","","Larry","Liberal","Libéral",Y,Y,79
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"",1,132,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"",1,132,"Morris","","Lenore","Green Party","Parti Vert",N,N,13
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"",1,132,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,104
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"",1,132,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"",3,142,"Bagnell","","Larry","Liberal","Libéral",Y,Y,94
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"",3,142,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"",3,142,"Morris","","Lenore","Green Party","Parti Vert",N,N,13
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"",3,142,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,100
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"",3,142,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"",4,115,"Bagnell","","Larry","Liberal","Libéral",Y,Y,74
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"",4,115,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"",4,115,"Morris","","Lenore","Green Party","Parti Vert",N,N,9
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"",4,115,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,60
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"",4,115,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"",0,145,"Bagnell","","Larry","Liberal","Libéral",Y,Y,69
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"",0,145,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"",0,145,"Morris","","Lenore","Green Party","Parti Vert",N,N,16
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"",0,145,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,116
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"",0,145,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"",1,269,"Bagnell","","Larry","Liberal","Libéral",Y,Y,76
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"",1,269,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"",1,269,"Morris","","Lenore","Green Party","Parti Vert",N,N,23
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"",1,269,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,39
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"",1,269,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"",2,243,"Bagnell","","Larry","Liberal","Libéral",Y,Y,72
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"",2,243,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"",2,243,"Morris","","Lenore","Green Party","Parti Vert",N,N,13
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"",2,243,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,44
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"",2,243,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"41A",0,170,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"41A",0,170,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"41A",0,170,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"41A",0,170,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"41A",0,170,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"41B",0,207,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"41B",0,207,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"41B",0,207,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"41B",0,207,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"41B",0,207,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 43","Whitehorse",N,N,"",2,437,"Bagnell","","Larry","Liberal","Libéral",Y,Y,94
+60001,"Yukon","Yukon"," 43","Whitehorse",N,N,"",2,437,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+60001,"Yukon","Yukon"," 43","Whitehorse",N,N,"",2,437,"Morris","","Lenore","Green Party","Parti Vert",N,N,20
+60001,"Yukon","Yukon"," 43","Whitehorse",N,N,"",2,437,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,62
+60001,"Yukon","Yukon"," 43","Whitehorse",N,N,"",2,437,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",3,458,"Bagnell","","Larry","Liberal","Libéral",Y,Y,78
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",3,458,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",3,458,"Morris","","Lenore","Green Party","Parti Vert",N,N,29
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",3,458,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,61
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",3,458,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",2,385,"Bagnell","","Larry","Liberal","Libéral",Y,Y,74
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",2,385,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",2,385,"Morris","","Lenore","Green Party","Parti Vert",N,N,25
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",2,385,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,49
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",2,385,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,5
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",1,385,"Bagnell","","Larry","Liberal","Libéral",Y,Y,75
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",1,385,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",1,385,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",1,385,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,59
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",1,385,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",0,435,"Bagnell","","Larry","Liberal","Libéral",Y,Y,93
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",0,435,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",0,435,"Morris","","Lenore","Green Party","Parti Vert",N,N,34
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",0,435,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,56
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",0,435,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",1,341,"Bagnell","","Larry","Liberal","Libéral",Y,Y,76
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",1,341,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",1,341,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",1,341,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,48
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",1,341,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 49","Whitehorse",N,N,"",0,368,"Bagnell","","Larry","Liberal","Libéral",Y,Y,56
+60001,"Yukon","Yukon"," 49","Whitehorse",N,N,"",0,368,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+60001,"Yukon","Yukon"," 49","Whitehorse",N,N,"",0,368,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 49","Whitehorse",N,N,"",0,368,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,34
+60001,"Yukon","Yukon"," 49","Whitehorse",N,N,"",0,368,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 50","Whitehorse",N,N,"",1,461,"Bagnell","","Larry","Liberal","Libéral",Y,Y,73
+60001,"Yukon","Yukon"," 50","Whitehorse",N,N,"",1,461,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+60001,"Yukon","Yukon"," 50","Whitehorse",N,N,"",1,461,"Morris","","Lenore","Green Party","Parti Vert",N,N,29
+60001,"Yukon","Yukon"," 50","Whitehorse",N,N,"",1,461,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,38
+60001,"Yukon","Yukon"," 50","Whitehorse",N,N,"",1,461,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,6
+60001,"Yukon","Yukon"," 51","Whitehorse",N,N,"",3,477,"Bagnell","","Larry","Liberal","Libéral",Y,Y,61
+60001,"Yukon","Yukon"," 51","Whitehorse",N,N,"",3,477,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+60001,"Yukon","Yukon"," 51","Whitehorse",N,N,"",3,477,"Morris","","Lenore","Green Party","Parti Vert",N,N,16
+60001,"Yukon","Yukon"," 51","Whitehorse",N,N,"",3,477,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,40
+60001,"Yukon","Yukon"," 51","Whitehorse",N,N,"",3,477,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 52","Whitehorse",N,N,"",1,413,"Bagnell","","Larry","Liberal","Libéral",Y,Y,41
+60001,"Yukon","Yukon"," 52","Whitehorse",N,N,"",1,413,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+60001,"Yukon","Yukon"," 52","Whitehorse",N,N,"",1,413,"Morris","","Lenore","Green Party","Parti Vert",N,N,21
+60001,"Yukon","Yukon"," 52","Whitehorse",N,N,"",1,413,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,21
+60001,"Yukon","Yukon"," 52","Whitehorse",N,N,"",1,413,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 53","Whitehorse",N,N,"",2,441,"Bagnell","","Larry","Liberal","Libéral",Y,Y,47
+60001,"Yukon","Yukon"," 53","Whitehorse",N,N,"",2,441,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+60001,"Yukon","Yukon"," 53","Whitehorse",N,N,"",2,441,"Morris","","Lenore","Green Party","Parti Vert",N,N,15
+60001,"Yukon","Yukon"," 53","Whitehorse",N,N,"",2,441,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,48
+60001,"Yukon","Yukon"," 53","Whitehorse",N,N,"",2,441,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"57A",0,103,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"57A",0,103,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"57A",0,103,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"57A",0,103,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"57A",0,103,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"57B",0,95,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"57B",0,95,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"57B",0,95,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"57B",0,95,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"57B",0,95,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"57C",0,115,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"57C",0,115,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"57C",0,115,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"57C",0,115,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"57C",0,115,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"57D",0,93,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"57D",0,93,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"57D",0,93,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"57D",0,93,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"57D",0,93,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"57A",0,123,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"57A",0,123,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"57A",0,123,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"57A",0,123,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"57A",0,123,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"57B",0,82,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"57B",0,82,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"57B",0,82,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"57B",0,82,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"57B",0,82,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"57C",0,120,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"57C",0,120,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"57C",0,120,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"57C",0,120,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"57C",0,120,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"57D",0,97,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"57D",0,97,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"57D",0,97,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"57D",0,97,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"57D",0,97,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"57A",0,135,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"57A",0,135,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"57A",0,135,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"57A",0,135,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"57A",0,135,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"57B",0,99,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"57B",0,99,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"57B",0,99,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"57B",0,99,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"57B",0,99,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"57C",0,127,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"57C",0,127,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"57C",0,127,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"57C",0,127,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"57C",0,127,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"57D",0,116,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"57D",0,116,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"57D",0,116,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"57D",0,116,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"57D",0,116,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"",1,133,"Bagnell","","Larry","Liberal","Libéral",Y,Y,81
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"",1,133,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"",1,133,"Morris","","Lenore","Green Party","Parti Vert",N,N,31
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"",1,133,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,87
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"",1,133,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"",0,142,"Bagnell","","Larry","Liberal","Libéral",Y,Y,81
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"",0,142,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"",0,142,"Morris","","Lenore","Green Party","Parti Vert",N,N,24
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"",0,142,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,75
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"",0,142,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"",0,160,"Bagnell","","Larry","Liberal","Libéral",Y,Y,78
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"",0,160,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"",0,160,"Morris","","Lenore","Green Party","Parti Vert",N,N,26
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"",0,160,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,103
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"",0,160,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"",2,163,"Bagnell","","Larry","Liberal","Libéral",Y,Y,65
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"",2,163,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"",2,163,"Morris","","Lenore","Green Party","Parti Vert",N,N,16
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"",2,163,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,83
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"",2,163,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 58","Mount Lorne",N,N,"",0,353,"Bagnell","","Larry","Liberal","Libéral",Y,Y,75
+60001,"Yukon","Yukon"," 58","Mount Lorne",N,N,"",0,353,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+60001,"Yukon","Yukon"," 58","Mount Lorne",N,N,"",0,353,"Morris","","Lenore","Green Party","Parti Vert",N,N,25
+60001,"Yukon","Yukon"," 58","Mount Lorne",N,N,"",0,353,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,47
+60001,"Yukon","Yukon"," 58","Mount Lorne",N,N,"",0,353,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 59","Marsh Lake",N,N,"",1,514,"Bagnell","","Larry","Liberal","Libéral",Y,Y,81
+60001,"Yukon","Yukon"," 59","Marsh Lake",N,N,"",1,514,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+60001,"Yukon","Yukon"," 59","Marsh Lake",N,N,"",1,514,"Morris","","Lenore","Green Party","Parti Vert",N,N,39
+60001,"Yukon","Yukon"," 59","Marsh Lake",N,N,"",1,514,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,130
+60001,"Yukon","Yukon"," 59","Marsh Lake",N,N,"",1,514,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 60","Carcross",N,N,"",0,374,"Bagnell","","Larry","Liberal","Libéral",Y,Y,71
+60001,"Yukon","Yukon"," 60","Carcross",N,N,"",0,374,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+60001,"Yukon","Yukon"," 60","Carcross",N,N,"",0,374,"Morris","","Lenore","Green Party","Parti Vert",N,N,24
+60001,"Yukon","Yukon"," 60","Carcross",N,N,"",0,374,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,31
+60001,"Yukon","Yukon"," 60","Carcross",N,N,"",0,374,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,9
+60001,"Yukon","Yukon"," 61","Tagish",N,N,"",1,261,"Bagnell","","Larry","Liberal","Libéral",Y,Y,39
+60001,"Yukon","Yukon"," 61","Tagish",N,N,"",1,261,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+60001,"Yukon","Yukon"," 61","Tagish",N,N,"",1,261,"Morris","","Lenore","Green Party","Parti Vert",N,N,8
+60001,"Yukon","Yukon"," 61","Tagish",N,N,"",1,261,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,34
+60001,"Yukon","Yukon"," 61","Tagish",N,N,"",1,261,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 62","Teslin",N,N,"",4,413,"Bagnell","","Larry","Liberal","Libéral",Y,Y,70
+60001,"Yukon","Yukon"," 62","Teslin",N,N,"",4,413,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+60001,"Yukon","Yukon"," 62","Teslin",N,N,"",4,413,"Morris","","Lenore","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 62","Teslin",N,N,"",4,413,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,54
+60001,"Yukon","Yukon"," 62","Teslin",N,N,"",4,413,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,6
+60001,"Yukon","Yukon"," 63A","Watson Lake",N,N,"",1,230,"Bagnell","","Larry","Liberal","Libéral",Y,Y,46
+60001,"Yukon","Yukon"," 63A","Watson Lake",N,N,"",1,230,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+60001,"Yukon","Yukon"," 63A","Watson Lake",N,N,"",1,230,"Morris","","Lenore","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 63A","Watson Lake",N,N,"",1,230,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,42
+60001,"Yukon","Yukon"," 63A","Watson Lake",N,N,"",1,230,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,5
+60001,"Yukon","Yukon"," 63B","Watson Lake",N,N,"",0,241,"Bagnell","","Larry","Liberal","Libéral",Y,Y,29
+60001,"Yukon","Yukon"," 63B","Watson Lake",N,N,"",0,241,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+60001,"Yukon","Yukon"," 63B","Watson Lake",N,N,"",0,241,"Morris","","Lenore","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 63B","Watson Lake",N,N,"",0,241,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,58
+60001,"Yukon","Yukon"," 63B","Watson Lake",N,N,"",0,241,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 63C","Watson Lake",N,N,"",2,246,"Bagnell","","Larry","Liberal","Libéral",Y,Y,32
+60001,"Yukon","Yukon"," 63C","Watson Lake",N,N,"",2,246,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+60001,"Yukon","Yukon"," 63C","Watson Lake",N,N,"",2,246,"Morris","","Lenore","Green Party","Parti Vert",N,N,8
+60001,"Yukon","Yukon"," 63C","Watson Lake",N,N,"",2,246,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,53
+60001,"Yukon","Yukon"," 63C","Watson Lake",N,N,"",2,246,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 64A","Watson Lake",N,N,"63A",0,103,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 64A","Watson Lake",N,N,"63A",0,103,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 64A","Watson Lake",N,N,"63A",0,103,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 64A","Watson Lake",N,N,"63A",0,103,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 64A","Watson Lake",N,N,"63A",0,103,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 64B","Watson Lake",N,N,"63B",0,104,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 64B","Watson Lake",N,N,"63B",0,104,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 64B","Watson Lake",N,N,"63B",0,104,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 64B","Watson Lake",N,N,"63B",0,104,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 64B","Watson Lake",N,N,"63B",0,104,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 64C","Watson Lake",N,N,"63C",0,115,"Bagnell","","Larry","Liberal","Libéral",Y,Y,0
+60001,"Yukon","Yukon"," 64C","Watson Lake",N,N,"63C",0,115,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 64C","Watson Lake",N,N,"63C",0,115,"Morris","","Lenore","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 64C","Watson Lake",N,N,"63C",0,115,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 64C","Watson Lake",N,N,"63C",0,115,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",2,78,"Bagnell","","Larry","Liberal","Libéral",Y,Y,30
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",2,78,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",2,78,"Morris","","Lenore","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",2,78,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,13
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",2,78,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,3
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",7,80,"Bagnell","","Larry","Liberal","Libéral",Y,Y,22
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",7,80,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",7,80,"Morris","","Lenore","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",7,80,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,6
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",7,80,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,8
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,2
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"",2,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,81
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"",2,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"",2,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,39
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"",2,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,90
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"",2,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 602","Mayo",N,N,"",1,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,23
+60001,"Yukon","Yukon"," 602","Mayo",N,N,"",1,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+60001,"Yukon","Yukon"," 602","Mayo",N,N,"",1,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 602","Mayo",N,N,"",1,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,24
+60001,"Yukon","Yukon"," 602","Mayo",N,N,"",1,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 603","Beaver Creek",N,N,"",1,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,1
+60001,"Yukon","Yukon"," 603","Beaver Creek",N,N,"",1,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 603","Beaver Creek",N,N,"",1,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 603","Beaver Creek",N,N,"",1,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,13
+60001,"Yukon","Yukon"," 603","Beaver Creek",N,N,"",1,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 604","Burwash Landing",N,N,"",0,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,18
+60001,"Yukon","Yukon"," 604","Burwash Landing",N,N,"",0,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 604","Burwash Landing",N,N,"",0,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 604","Burwash Landing",N,N,"",0,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,13
+60001,"Yukon","Yukon"," 604","Burwash Landing",N,N,"",0,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 605","Haines Junction",N,N,"",2,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,43
+60001,"Yukon","Yukon"," 605","Haines Junction",N,N,"",2,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+60001,"Yukon","Yukon"," 605","Haines Junction",N,N,"",2,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,11
+60001,"Yukon","Yukon"," 605","Haines Junction",N,N,"",2,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,60
+60001,"Yukon","Yukon"," 605","Haines Junction",N,N,"",2,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 606","Carmacks",N,N,"",1,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,10
+60001,"Yukon","Yukon"," 606","Carmacks",N,N,"",1,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+60001,"Yukon","Yukon"," 606","Carmacks",N,N,"",1,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 606","Carmacks",N,N,"",1,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,41
+60001,"Yukon","Yukon"," 606","Carmacks",N,N,"",1,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 607","Pelly Crossing",N,N,"",0,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,13
+60001,"Yukon","Yukon"," 607","Pelly Crossing",N,N,"",0,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 607","Pelly Crossing",N,N,"",0,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 607","Pelly Crossing",N,N,"",0,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,10
+60001,"Yukon","Yukon"," 607","Pelly Crossing",N,N,"",0,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 608","Faro",N,N,"",0,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,11
+60001,"Yukon","Yukon"," 608","Faro",N,N,"",0,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+60001,"Yukon","Yukon"," 608","Faro",N,N,"",0,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,8
+60001,"Yukon","Yukon"," 608","Faro",N,N,"",0,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,47
+60001,"Yukon","Yukon"," 608","Faro",N,N,"",0,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 609","Ross River",N,N,"",0,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,6
+60001,"Yukon","Yukon"," 609","Ross River",N,N,"",0,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+60001,"Yukon","Yukon"," 609","Ross River",N,N,"",0,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 609","Ross River",N,N,"",0,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,6
+60001,"Yukon","Yukon"," 609","Ross River",N,N,"",0,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,4
+60001,"Yukon","Yukon"," 610","Takhini Hotspring",N,N,"",3,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,342
+60001,"Yukon","Yukon"," 610","Takhini Hotspring",N,N,"",3,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,155
+60001,"Yukon","Yukon"," 610","Takhini Hotspring",N,N,"",3,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,96
+60001,"Yukon","Yukon"," 610","Takhini Hotspring",N,N,"",3,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,471
+60001,"Yukon","Yukon"," 610","Takhini Hotspring",N,N,"",3,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,12
+60001,"Yukon","Yukon"," 611","Whitehorse",N,N,"",6,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,351
+60001,"Yukon","Yukon"," 611","Whitehorse",N,N,"",6,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+60001,"Yukon","Yukon"," 611","Whitehorse",N,N,"",6,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,92
+60001,"Yukon","Yukon"," 611","Whitehorse",N,N,"",6,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,323
+60001,"Yukon","Yukon"," 611","Whitehorse",N,N,"",6,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,6
+60001,"Yukon","Yukon"," 612","Whitehorse",N,N,"",3,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,330
+60001,"Yukon","Yukon"," 612","Whitehorse",N,N,"",3,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,199
+60001,"Yukon","Yukon"," 612","Whitehorse",N,N,"",3,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,96
+60001,"Yukon","Yukon"," 612","Whitehorse",N,N,"",3,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,271
+60001,"Yukon","Yukon"," 612","Whitehorse",N,N,"",3,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,13
+60001,"Yukon","Yukon"," 613","Mount Lorne",N,N,"",1,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,85
+60001,"Yukon","Yukon"," 613","Mount Lorne",N,N,"",1,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+60001,"Yukon","Yukon"," 613","Mount Lorne",N,N,"",1,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,30
+60001,"Yukon","Yukon"," 613","Mount Lorne",N,N,"",1,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,113
+60001,"Yukon","Yukon"," 613","Mount Lorne",N,N,"",1,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,0
+60001,"Yukon","Yukon"," 614","Tagish",N,N,"",0,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,15
+60001,"Yukon","Yukon"," 614","Tagish",N,N,"",0,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 614","Tagish",N,N,"",0,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,24
+60001,"Yukon","Yukon"," 614","Tagish",N,N,"",0,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,29
+60001,"Yukon","Yukon"," 614","Tagish",N,N,"",0,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," 615","Teslin",N,N,"",1,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,15
+60001,"Yukon","Yukon"," 615","Teslin",N,N,"",1,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+60001,"Yukon","Yukon"," 615","Teslin",N,N,"",1,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 615","Teslin",N,N,"",1,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,44
+60001,"Yukon","Yukon"," 615","Teslin",N,N,"",1,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,1
+60001,"Yukon","Yukon"," 616","Watson Lake",N,N,"",1,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,46
+60001,"Yukon","Yukon"," 616","Watson Lake",N,N,"",1,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 616","Watson Lake",N,N,"",1,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,13
+60001,"Yukon","Yukon"," 616","Watson Lake",N,N,"",1,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,89
+60001,"Yukon","Yukon"," 616","Watson Lake",N,N,"",1,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,5
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,76,"Bagnell","","Larry","Liberal","Libéral",Y,Y,27
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,76,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,76,"Morris","","Lenore","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,76,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,12
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",4,76,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,2
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Bagnell","","Larry","Liberal","Libéral",Y,Y,933
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Lemphers","","Justin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,542
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Morris","","Lenore","Green Party","Parti Vert",N,N,377
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Smith","","Jonas Jacot","Conservative","Conservateur",N,N,944
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Zelezny","","Joseph","People's Party","Parti populaire",N,N,24

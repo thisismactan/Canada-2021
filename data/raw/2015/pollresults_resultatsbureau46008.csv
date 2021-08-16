@@ -1,0 +1,741 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+46008,"Provencher","Provencher"," 1","Pointe du Bois",N,N,"",3,482,"Falk","","Ted","Conservative","Conservateur",Y,Y,155
+46008,"Provencher","Provencher"," 1","Pointe du Bois",N,N,"",3,482,"Hayward","","Terry","Liberal","Libéral",N,N,91
+46008,"Provencher","Provencher"," 1","Pointe du Bois",N,N,"",3,482,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,"Provencher","Provencher"," 1","Pointe du Bois",N,N,"",3,482,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,17
+46008,"Provencher","Provencher"," 2","Seven Sisters Falls",Y,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,0
+46008,"Provencher","Provencher"," 2","Seven Sisters Falls",Y,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,0
+46008,"Provencher","Provencher"," 2","Seven Sisters Falls",Y,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"Provencher","Provencher"," 2","Seven Sisters Falls",Y,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 3","Seddons Corner",N,N,"",0,120,"Falk","","Ted","Conservative","Conservateur",Y,Y,30
+46008,"Provencher","Provencher"," 3","Seddons Corner",N,N,"",0,120,"Hayward","","Terry","Liberal","Libéral",N,N,29
+46008,"Provencher","Provencher"," 3","Seddons Corner",N,N,"",0,120,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 3","Seddons Corner",N,N,"",0,120,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 4","Ste. Rita",N,N,"",0,380,"Falk","","Ted","Conservative","Conservateur",Y,Y,126
+46008,"Provencher","Provencher"," 4","Ste. Rita",N,N,"",0,380,"Hayward","","Terry","Liberal","Libéral",N,N,48
+46008,"Provencher","Provencher"," 4","Ste. Rita",N,N,"",0,380,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 4","Ste. Rita",N,N,"",0,380,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 5","Whitemouth",N,N,"",0,167,"Falk","","Ted","Conservative","Conservateur",Y,Y,54
+46008,"Provencher","Provencher"," 5","Whitemouth",N,N,"",0,167,"Hayward","","Terry","Liberal","Libéral",N,N,38
+46008,"Provencher","Provencher"," 5","Whitemouth",N,N,"",0,167,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 5","Whitemouth",N,N,"",0,167,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 6","Whitemouth",N,N,"",0,485,"Falk","","Ted","Conservative","Conservateur",Y,Y,177
+46008,"Provencher","Provencher"," 6","Whitemouth",N,N,"",0,485,"Hayward","","Terry","Liberal","Libéral",N,N,77
+46008,"Provencher","Provencher"," 6","Whitemouth",N,N,"",0,485,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"Provencher","Provencher"," 6","Whitemouth",N,N,"",0,485,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 7","Elma",N,N,"",0,361,"Falk","","Ted","Conservative","Conservateur",Y,Y,65
+46008,"Provencher","Provencher"," 7","Elma",N,N,"",0,361,"Hayward","","Terry","Liberal","Libéral",N,N,42
+46008,"Provencher","Provencher"," 7","Elma",N,N,"",0,361,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"Provencher","Provencher"," 7","Elma",N,N,"",0,361,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 8","Ross",N,N,"",7,514,"Falk","","Ted","Conservative","Conservateur",Y,Y,103
+46008,"Provencher","Provencher"," 8","Ross",N,N,"",7,514,"Hayward","","Terry","Liberal","Libéral",N,N,116
+46008,"Provencher","Provencher"," 8","Ross",N,N,"",7,514,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,"Provencher","Provencher"," 8","Ross",N,N,"",7,514,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 9","Richer",N,N,"",0,626,"Falk","","Ted","Conservative","Conservateur",Y,Y,132
+46008,"Provencher","Provencher"," 9","Richer",N,N,"",0,626,"Hayward","","Terry","Liberal","Libéral",N,N,167
+46008,"Provencher","Provencher"," 9","Richer",N,N,"",0,626,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46008,"Provencher","Provencher"," 9","Richer",N,N,"",0,626,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 10","Vivian",N,N,"",0,432,"Falk","","Ted","Conservative","Conservateur",Y,Y,130
+46008,"Provencher","Provencher"," 10","Vivian",N,N,"",0,432,"Hayward","","Terry","Liberal","Libéral",N,N,102
+46008,"Provencher","Provencher"," 10","Vivian",N,N,"",0,432,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46008,"Provencher","Provencher"," 10","Vivian",N,N,"",0,432,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,18
+46008,"Provencher","Provencher"," 11","Anola",N,N,"",0,368,"Falk","","Ted","Conservative","Conservateur",Y,Y,102
+46008,"Provencher","Provencher"," 11","Anola",N,N,"",0,368,"Hayward","","Terry","Liberal","Libéral",N,N,102
+46008,"Provencher","Provencher"," 11","Anola",N,N,"",0,368,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46008,"Provencher","Provencher"," 11","Anola",N,N,"",0,368,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 12","Anola",N,N,"",0,294,"Falk","","Ted","Conservative","Conservateur",Y,Y,85
+46008,"Provencher","Provencher"," 12","Anola",N,N,"",0,294,"Hayward","","Terry","Liberal","Libéral",N,N,91
+46008,"Provencher","Provencher"," 12","Anola",N,N,"",0,294,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,"Provencher","Provencher"," 12","Anola",N,N,"",0,294,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 13","Anola",N,N,"",1,434,"Falk","","Ted","Conservative","Conservateur",Y,Y,108
+46008,"Provencher","Provencher"," 13","Anola",N,N,"",1,434,"Hayward","","Terry","Liberal","Libéral",N,N,126
+46008,"Provencher","Provencher"," 13","Anola",N,N,"",1,434,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"Provencher","Provencher"," 13","Anola",N,N,"",1,434,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,17
+46008,"Provencher","Provencher"," 14","Anola",N,N,"",0,254,"Falk","","Ted","Conservative","Conservateur",Y,Y,82
+46008,"Provencher","Provencher"," 14","Anola",N,N,"",0,254,"Hayward","","Terry","Liberal","Libéral",N,N,64
+46008,"Provencher","Provencher"," 14","Anola",N,N,"",0,254,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 14","Anola",N,N,"",0,254,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 15","Anola",N,N,"",0,527,"Falk","","Ted","Conservative","Conservateur",Y,Y,153
+46008,"Provencher","Provencher"," 15","Anola",N,N,"",0,527,"Hayward","","Terry","Liberal","Libéral",N,N,115
+46008,"Provencher","Provencher"," 15","Anola",N,N,"",0,527,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,"Provencher","Provencher"," 15","Anola",N,N,"",0,527,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 16","Hazelridge",N,N,"",2,458,"Falk","","Ted","Conservative","Conservateur",Y,Y,132
+46008,"Provencher","Provencher"," 16","Hazelridge",N,N,"",2,458,"Hayward","","Terry","Liberal","Libéral",N,N,95
+46008,"Provencher","Provencher"," 16","Hazelridge",N,N,"",2,458,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,"Provencher","Provencher"," 16","Hazelridge",N,N,"",2,458,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 17","Melrose",N,N,"",2,663,"Falk","","Ted","Conservative","Conservateur",Y,Y,161
+46008,"Provencher","Provencher"," 17","Melrose",N,N,"",2,663,"Hayward","","Terry","Liberal","Libéral",N,N,178
+46008,"Provencher","Provencher"," 17","Melrose",N,N,"",2,663,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+46008,"Provencher","Provencher"," 17","Melrose",N,N,"",2,663,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 18","Sapton",N,N,"",0,365,"Falk","","Ted","Conservative","Conservateur",Y,Y,105
+46008,"Provencher","Provencher"," 18","Sapton",N,N,"",0,365,"Hayward","","Terry","Liberal","Libéral",N,N,84
+46008,"Provencher","Provencher"," 18","Sapton",N,N,"",0,365,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"Provencher","Provencher"," 18","Sapton",N,N,"",0,365,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 19","Sapton",N,N,"",3,403,"Falk","","Ted","Conservative","Conservateur",Y,Y,124
+46008,"Provencher","Provencher"," 19","Sapton",N,N,"",3,403,"Hayward","","Terry","Liberal","Libéral",N,N,90
+46008,"Provencher","Provencher"," 19","Sapton",N,N,"",3,403,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46008,"Provencher","Provencher"," 19","Sapton",N,N,"",3,403,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 20","Cooks Creek",N,N,"",1,375,"Falk","","Ted","Conservative","Conservateur",Y,Y,105
+46008,"Provencher","Provencher"," 20","Cooks Creek",N,N,"",1,375,"Hayward","","Terry","Liberal","Libéral",N,N,97
+46008,"Provencher","Provencher"," 20","Cooks Creek",N,N,"",1,375,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 20","Cooks Creek",N,N,"",1,375,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 21","Cooks Creek",N,N,"",0,208,"Falk","","Ted","Conservative","Conservateur",Y,Y,65
+46008,"Provencher","Provencher"," 21","Cooks Creek",N,N,"",0,208,"Hayward","","Terry","Liberal","Libéral",N,N,58
+46008,"Provencher","Provencher"," 21","Cooks Creek",N,N,"",0,208,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 21","Cooks Creek",N,N,"",0,208,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 22","Springfield",N,N,"",0,458,"Falk","","Ted","Conservative","Conservateur",Y,Y,164
+46008,"Provencher","Provencher"," 22","Springfield",N,N,"",0,458,"Hayward","","Terry","Liberal","Libéral",N,N,92
+46008,"Provencher","Provencher"," 22","Springfield",N,N,"",0,458,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,"Provencher","Provencher"," 22","Springfield",N,N,"",0,458,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 23","Springfield",N,N,"",2,467,"Falk","","Ted","Conservative","Conservateur",Y,Y,148
+46008,"Provencher","Provencher"," 23","Springfield",N,N,"",2,467,"Hayward","","Terry","Liberal","Libéral",N,N,85
+46008,"Provencher","Provencher"," 23","Springfield",N,N,"",2,467,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"Provencher","Provencher"," 23","Springfield",N,N,"",2,467,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 24A","Oakbank",N,N,"",0,552,"Falk","","Ted","Conservative","Conservateur",Y,Y,187
+46008,"Provencher","Provencher"," 24A","Oakbank",N,N,"",0,552,"Hayward","","Terry","Liberal","Libéral",N,N,117
+46008,"Provencher","Provencher"," 24A","Oakbank",N,N,"",0,552,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,"Provencher","Provencher"," 24A","Oakbank",N,N,"",0,552,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 24B","Oakbank",N,N,"",0,516,"Falk","","Ted","Conservative","Conservateur",Y,Y,142
+46008,"Provencher","Provencher"," 24B","Oakbank",N,N,"",0,516,"Hayward","","Terry","Liberal","Libéral",N,N,127
+46008,"Provencher","Provencher"," 24B","Oakbank",N,N,"",0,516,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"Provencher","Provencher"," 24B","Oakbank",N,N,"",0,516,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 25","Oakbank",N,N,"",0,550,"Falk","","Ted","Conservative","Conservateur",Y,Y,190
+46008,"Provencher","Provencher"," 25","Oakbank",N,N,"",0,550,"Hayward","","Terry","Liberal","Libéral",N,N,113
+46008,"Provencher","Provencher"," 25","Oakbank",N,N,"",0,550,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"Provencher","Provencher"," 25","Oakbank",N,N,"",0,550,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 26","Oakbank",N,N,"",0,303,"Falk","","Ted","Conservative","Conservateur",Y,Y,79
+46008,"Provencher","Provencher"," 26","Oakbank",N,N,"",0,303,"Hayward","","Terry","Liberal","Libéral",N,N,64
+46008,"Provencher","Provencher"," 26","Oakbank",N,N,"",0,303,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"Provencher","Provencher"," 26","Oakbank",N,N,"",0,303,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,11
+46008,"Provencher","Provencher"," 27A","Oakbank",N,N,"",1,360,"Falk","","Ted","Conservative","Conservateur",Y,Y,109
+46008,"Provencher","Provencher"," 27A","Oakbank",N,N,"",1,360,"Hayward","","Terry","Liberal","Libéral",N,N,92
+46008,"Provencher","Provencher"," 27A","Oakbank",N,N,"",1,360,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"Provencher","Provencher"," 27A","Oakbank",N,N,"",1,360,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 27B","Mobile poll/Bureau itinérant",N,N,"501",0,12,"Falk","","Ted","Conservative","Conservateur",Y,Y,0
+46008,"Provencher","Provencher"," 27B","Mobile poll/Bureau itinérant",N,N,"501",0,12,"Hayward","","Terry","Liberal","Libéral",N,N,0
+46008,"Provencher","Provencher"," 27B","Mobile poll/Bureau itinérant",N,N,"501",0,12,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"Provencher","Provencher"," 27B","Mobile poll/Bureau itinérant",N,N,"501",0,12,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 27C","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Falk","","Ted","Conservative","Conservateur",Y,Y,0
+46008,"Provencher","Provencher"," 27C","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Hayward","","Terry","Liberal","Libéral",N,N,0
+46008,"Provencher","Provencher"," 27C","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"Provencher","Provencher"," 27C","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 28","Oakbank",N,N,"",1,423,"Falk","","Ted","Conservative","Conservateur",Y,Y,106
+46008,"Provencher","Provencher"," 28","Oakbank",N,N,"",1,423,"Hayward","","Terry","Liberal","Libéral",N,N,125
+46008,"Provencher","Provencher"," 28","Oakbank",N,N,"",1,423,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,"Provencher","Provencher"," 28","Oakbank",N,N,"",1,423,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 29","Oakbank",N,N,"",2,414,"Falk","","Ted","Conservative","Conservateur",Y,Y,128
+46008,"Provencher","Provencher"," 29","Oakbank",N,N,"",2,414,"Hayward","","Terry","Liberal","Libéral",N,N,101
+46008,"Provencher","Provencher"," 29","Oakbank",N,N,"",2,414,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"Provencher","Provencher"," 29","Oakbank",N,N,"",2,414,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 30","Oakbank",N,N,"",0,304,"Falk","","Ted","Conservative","Conservateur",Y,Y,80
+46008,"Provencher","Provencher"," 30","Oakbank",N,N,"",0,304,"Hayward","","Terry","Liberal","Libéral",N,N,96
+46008,"Provencher","Provencher"," 30","Oakbank",N,N,"",0,304,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 30","Oakbank",N,N,"",0,304,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 31","Oakbank",N,N,"",0,287,"Falk","","Ted","Conservative","Conservateur",Y,Y,76
+46008,"Provencher","Provencher"," 31","Oakbank",N,N,"",0,287,"Hayward","","Terry","Liberal","Libéral",N,N,64
+46008,"Provencher","Provencher"," 31","Oakbank",N,N,"",0,287,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 31","Oakbank",N,N,"",0,287,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 32","Dugald",N,N,"",0,398,"Falk","","Ted","Conservative","Conservateur",Y,Y,129
+46008,"Provencher","Provencher"," 32","Dugald",N,N,"",0,398,"Hayward","","Terry","Liberal","Libéral",N,N,59
+46008,"Provencher","Provencher"," 32","Dugald",N,N,"",0,398,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"Provencher","Provencher"," 32","Dugald",N,N,"",0,398,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 33","Dugald",N,N,"",2,374,"Falk","","Ted","Conservative","Conservateur",Y,Y,106
+46008,"Provencher","Provencher"," 33","Dugald",N,N,"",2,374,"Hayward","","Terry","Liberal","Libéral",N,N,86
+46008,"Provencher","Provencher"," 33","Dugald",N,N,"",2,374,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46008,"Provencher","Provencher"," 33","Dugald",N,N,"",2,374,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 34","Dugald",N,N,"",0,376,"Falk","","Ted","Conservative","Conservateur",Y,Y,101
+46008,"Provencher","Provencher"," 34","Dugald",N,N,"",0,376,"Hayward","","Terry","Liberal","Libéral",N,N,88
+46008,"Provencher","Provencher"," 34","Dugald",N,N,"",0,376,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"Provencher","Provencher"," 34","Dugald",N,N,"",0,376,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 35","Navin",N,N,"",0,426,"Falk","","Ted","Conservative","Conservateur",Y,Y,102
+46008,"Provencher","Provencher"," 35","Navin",N,N,"",0,426,"Hayward","","Terry","Liberal","Libéral",N,N,71
+46008,"Provencher","Provencher"," 35","Navin",N,N,"",0,426,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"Provencher","Provencher"," 35","Navin",N,N,"",0,426,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 36","Lorette",N,N,"",2,284,"Falk","","Ted","Conservative","Conservateur",Y,Y,80
+46008,"Provencher","Provencher"," 36","Lorette",N,N,"",2,284,"Hayward","","Terry","Liberal","Libéral",N,N,78
+46008,"Provencher","Provencher"," 36","Lorette",N,N,"",2,284,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 36","Lorette",N,N,"",2,284,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 37","Lorette",N,N,"",0,336,"Falk","","Ted","Conservative","Conservateur",Y,Y,67
+46008,"Provencher","Provencher"," 37","Lorette",N,N,"",0,336,"Hayward","","Terry","Liberal","Libéral",N,N,85
+46008,"Provencher","Provencher"," 37","Lorette",N,N,"",0,336,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,"Provencher","Provencher"," 37","Lorette",N,N,"",0,336,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 38","Rosewood",N,N,"",0,566,"Falk","","Ted","Conservative","Conservateur",Y,Y,124
+46008,"Provencher","Provencher"," 38","Rosewood",N,N,"",0,566,"Hayward","","Terry","Liberal","Libéral",N,N,116
+46008,"Provencher","Provencher"," 38","Rosewood",N,N,"",0,566,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"Provencher","Provencher"," 38","Rosewood",N,N,"",0,566,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 39","Lorette",N,N,"",0,616,"Falk","","Ted","Conservative","Conservateur",Y,Y,143
+46008,"Provencher","Provencher"," 39","Lorette",N,N,"",0,616,"Hayward","","Terry","Liberal","Libéral",N,N,145
+46008,"Provencher","Provencher"," 39","Lorette",N,N,"",0,616,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,"Provencher","Provencher"," 39","Lorette",N,N,"",0,616,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 40","Lorette",N,N,"",1,418,"Falk","","Ted","Conservative","Conservateur",Y,Y,60
+46008,"Provencher","Provencher"," 40","Lorette",N,N,"",1,418,"Hayward","","Terry","Liberal","Libéral",N,N,119
+46008,"Provencher","Provencher"," 40","Lorette",N,N,"",1,418,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"Provencher","Provencher"," 40","Lorette",N,N,"",1,418,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,11
+46008,"Provencher","Provencher"," 41A","Lorette",N,N,"",0,570,"Falk","","Ted","Conservative","Conservateur",Y,Y,119
+46008,"Provencher","Provencher"," 41A","Lorette",N,N,"",0,570,"Hayward","","Terry","Liberal","Libéral",N,N,159
+46008,"Provencher","Provencher"," 41A","Lorette",N,N,"",0,570,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46008,"Provencher","Provencher"," 41A","Lorette",N,N,"",0,570,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 41B","Lorette",N,N,"",1,515,"Falk","","Ted","Conservative","Conservateur",Y,Y,120
+46008,"Provencher","Provencher"," 41B","Lorette",N,N,"",1,515,"Hayward","","Terry","Liberal","Libéral",N,N,155
+46008,"Provencher","Provencher"," 41B","Lorette",N,N,"",1,515,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"Provencher","Provencher"," 41B","Lorette",N,N,"",1,515,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 42","Lorette",N,N,"",0,434,"Falk","","Ted","Conservative","Conservateur",Y,Y,84
+46008,"Provencher","Provencher"," 42","Lorette",N,N,"",0,434,"Hayward","","Terry","Liberal","Libéral",N,N,155
+46008,"Provencher","Provencher"," 42","Lorette",N,N,"",0,434,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"Provencher","Provencher"," 42","Lorette",N,N,"",0,434,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 43","Lorette",N,N,"",1,311,"Falk","","Ted","Conservative","Conservateur",Y,Y,55
+46008,"Provencher","Provencher"," 43","Lorette",N,N,"",1,311,"Hayward","","Terry","Liberal","Libéral",N,N,67
+46008,"Provencher","Provencher"," 43","Lorette",N,N,"",1,311,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 43","Lorette",N,N,"",1,311,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,1
+46008,"Provencher","Provencher"," 44","Ste-Geneviève",N,N,"",2,510,"Falk","","Ted","Conservative","Conservateur",Y,Y,111
+46008,"Provencher","Provencher"," 44","Ste-Geneviève",N,N,"",2,510,"Hayward","","Terry","Liberal","Libéral",N,N,124
+46008,"Provencher","Provencher"," 44","Ste-Geneviève",N,N,"",2,510,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"Provencher","Provencher"," 44","Ste-Geneviève",N,N,"",2,510,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,18
+46008,"Provencher","Provencher"," 45","Ste-Geneviève",N,N,"",0,301,"Falk","","Ted","Conservative","Conservateur",Y,Y,68
+46008,"Provencher","Provencher"," 45","Ste-Geneviève",N,N,"",0,301,"Hayward","","Terry","Liberal","Libéral",N,N,96
+46008,"Provencher","Provencher"," 45","Ste-Geneviève",N,N,"",0,301,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46008,"Provencher","Provencher"," 45","Ste-Geneviève",N,N,"",0,301,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 46","Ste. Anne",N,N,"",1,507,"Falk","","Ted","Conservative","Conservateur",Y,Y,73
+46008,"Provencher","Provencher"," 46","Ste. Anne",N,N,"",1,507,"Hayward","","Terry","Liberal","Libéral",N,N,152
+46008,"Provencher","Provencher"," 46","Ste. Anne",N,N,"",1,507,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"Provencher","Provencher"," 46","Ste. Anne",N,N,"",1,507,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 47","Ste. Anne",N,N,"",3,393,"Falk","","Ted","Conservative","Conservateur",Y,Y,51
+46008,"Provencher","Provencher"," 47","Ste. Anne",N,N,"",3,393,"Hayward","","Terry","Liberal","Libéral",N,N,138
+46008,"Provencher","Provencher"," 47","Ste. Anne",N,N,"",3,393,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"Provencher","Provencher"," 47","Ste. Anne",N,N,"",3,393,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 48","Ste. Anne",N,N,"",2,244,"Falk","","Ted","Conservative","Conservateur",Y,Y,47
+46008,"Provencher","Provencher"," 48","Ste. Anne",N,N,"",2,244,"Hayward","","Terry","Liberal","Libéral",N,N,68
+46008,"Provencher","Provencher"," 48","Ste. Anne",N,N,"",2,244,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"Provencher","Provencher"," 48","Ste. Anne",N,N,"",2,244,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 49","Ste. Anne",N,N,"",2,284,"Falk","","Ted","Conservative","Conservateur",Y,Y,68
+46008,"Provencher","Provencher"," 49","Ste. Anne",N,N,"",2,284,"Hayward","","Terry","Liberal","Libéral",N,N,82
+46008,"Provencher","Provencher"," 49","Ste. Anne",N,N,"",2,284,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 49","Ste. Anne",N,N,"",2,284,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 50","Ste. Anne",N,N,"",2,271,"Falk","","Ted","Conservative","Conservateur",Y,Y,73
+46008,"Provencher","Provencher"," 50","Ste. Anne",N,N,"",2,271,"Hayward","","Terry","Liberal","Libéral",N,N,25
+46008,"Provencher","Provencher"," 50","Ste. Anne",N,N,"",2,271,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 50","Ste. Anne",N,N,"",2,271,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 51","Ste. Anne",N,N,"",0,273,"Falk","","Ted","Conservative","Conservateur",Y,Y,47
+46008,"Provencher","Provencher"," 51","Ste. Anne",N,N,"",0,273,"Hayward","","Terry","Liberal","Libéral",N,N,81
+46008,"Provencher","Provencher"," 51","Ste. Anne",N,N,"",0,273,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 51","Ste. Anne",N,N,"",0,273,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 52","Ste. Anne",N,N,"",0,629,"Falk","","Ted","Conservative","Conservateur",Y,Y,132
+46008,"Provencher","Provencher"," 52","Ste. Anne",N,N,"",0,629,"Hayward","","Terry","Liberal","Libéral",N,N,167
+46008,"Provencher","Provencher"," 52","Ste. Anne",N,N,"",0,629,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46008,"Provencher","Provencher"," 52","Ste. Anne",N,N,"",0,629,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,18
+46008,"Provencher","Provencher"," 53","Taché",N,N,"",0,439,"Falk","","Ted","Conservative","Conservateur",Y,Y,174
+46008,"Provencher","Provencher"," 53","Taché",N,N,"",0,439,"Hayward","","Terry","Liberal","Libéral",N,N,82
+46008,"Provencher","Provencher"," 53","Taché",N,N,"",0,439,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 53","Taché",N,N,"",0,439,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 54","Landmark",N,N,"",1,379,"Falk","","Ted","Conservative","Conservateur",Y,Y,144
+46008,"Provencher","Provencher"," 54","Landmark",N,N,"",1,379,"Hayward","","Terry","Liberal","Libéral",N,N,66
+46008,"Provencher","Provencher"," 54","Landmark",N,N,"",1,379,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 54","Landmark",N,N,"",1,379,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 55","Taché",N,N,"",4,353,"Falk","","Ted","Conservative","Conservateur",Y,Y,119
+46008,"Provencher","Provencher"," 55","Taché",N,N,"",4,353,"Hayward","","Terry","Liberal","Libéral",N,N,74
+46008,"Provencher","Provencher"," 55","Taché",N,N,"",4,353,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"Provencher","Provencher"," 55","Taché",N,N,"",4,353,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 56","Linden",N,N,"",0,468,"Falk","","Ted","Conservative","Conservateur",Y,Y,138
+46008,"Provencher","Provencher"," 56","Linden",N,N,"",0,468,"Hayward","","Terry","Liberal","Libéral",N,N,61
+46008,"Provencher","Provencher"," 56","Linden",N,N,"",0,468,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"Provencher","Provencher"," 56","Linden",N,N,"",0,468,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 57","Ile des Chênes",N,N,"",1,370,"Falk","","Ted","Conservative","Conservateur",Y,Y,126
+46008,"Provencher","Provencher"," 57","Ile des Chênes",N,N,"",1,370,"Hayward","","Terry","Liberal","Libéral",N,N,102
+46008,"Provencher","Provencher"," 57","Ile des Chênes",N,N,"",1,370,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 57","Ile des Chênes",N,N,"",1,370,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,355,"Falk","","Ted","Conservative","Conservateur",Y,Y,99
+46008,"Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,355,"Hayward","","Terry","Liberal","Libéral",N,N,107
+46008,"Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,355,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,355,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 59","Ile des Chênes",N,N,"",1,742,"Falk","","Ted","Conservative","Conservateur",Y,Y,175
+46008,"Provencher","Provencher"," 59","Ile des Chênes",N,N,"",1,742,"Hayward","","Terry","Liberal","Libéral",N,N,205
+46008,"Provencher","Provencher"," 59","Ile des Chênes",N,N,"",1,742,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"Provencher","Provencher"," 59","Ile des Chênes",N,N,"",1,742,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 60","Ile des Chênes",N,N,"",1,633,"Falk","","Ted","Conservative","Conservateur",Y,Y,136
+46008,"Provencher","Provencher"," 60","Ile des Chênes",N,N,"",1,633,"Hayward","","Terry","Liberal","Libéral",N,N,258
+46008,"Provencher","Provencher"," 60","Ile des Chênes",N,N,"",1,633,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,"Provencher","Provencher"," 60","Ile des Chênes",N,N,"",1,633,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,17
+46008,"Provencher","Provencher"," 61","Ile des Chênes",N,N,"",0,234,"Falk","","Ted","Conservative","Conservateur",Y,Y,54
+46008,"Provencher","Provencher"," 61","Ile des Chênes",N,N,"",0,234,"Hayward","","Terry","Liberal","Libéral",N,N,88
+46008,"Provencher","Provencher"," 61","Ile des Chênes",N,N,"",0,234,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 61","Ile des Chênes",N,N,"",0,234,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 62","Ile des Chênes",N,N,"",0,494,"Falk","","Ted","Conservative","Conservateur",Y,Y,96
+46008,"Provencher","Provencher"," 62","Ile des Chênes",N,N,"",0,494,"Hayward","","Terry","Liberal","Libéral",N,N,149
+46008,"Provencher","Provencher"," 62","Ile des Chênes",N,N,"",0,494,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"Provencher","Provencher"," 62","Ile des Chênes",N,N,"",0,494,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 63","Oak Island Settlement",N,N,"",1,374,"Falk","","Ted","Conservative","Conservateur",Y,Y,145
+46008,"Provencher","Provencher"," 63","Oak Island Settlement",N,N,"",1,374,"Hayward","","Terry","Liberal","Libéral",N,N,91
+46008,"Provencher","Provencher"," 63","Oak Island Settlement",N,N,"",1,374,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"Provencher","Provencher"," 63","Oak Island Settlement",N,N,"",1,374,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 64","St. Adolphe",N,N,"",4,460,"Falk","","Ted","Conservative","Conservateur",Y,Y,144
+46008,"Provencher","Provencher"," 64","St. Adolphe",N,N,"",4,460,"Hayward","","Terry","Liberal","Libéral",N,N,154
+46008,"Provencher","Provencher"," 64","St. Adolphe",N,N,"",4,460,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"Provencher","Provencher"," 64","St. Adolphe",N,N,"",4,460,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 65","St. Adolphe",N,N,"",1,378,"Falk","","Ted","Conservative","Conservateur",Y,Y,120
+46008,"Provencher","Provencher"," 65","St. Adolphe",N,N,"",1,378,"Hayward","","Terry","Liberal","Libéral",N,N,98
+46008,"Provencher","Provencher"," 65","St. Adolphe",N,N,"",1,378,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 65","St. Adolphe",N,N,"",1,378,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 66","Glenlea",N,N,"",1,259,"Falk","","Ted","Conservative","Conservateur",Y,Y,70
+46008,"Provencher","Provencher"," 66","Glenlea",N,N,"",1,259,"Hayward","","Terry","Liberal","Libéral",N,N,47
+46008,"Provencher","Provencher"," 66","Glenlea",N,N,"",1,259,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"Provencher","Provencher"," 66","Glenlea",N,N,"",1,259,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 67","St. Adolphe",N,N,"",2,395,"Falk","","Ted","Conservative","Conservateur",Y,Y,92
+46008,"Provencher","Provencher"," 67","St. Adolphe",N,N,"",2,395,"Hayward","","Terry","Liberal","Libéral",N,N,151
+46008,"Provencher","Provencher"," 67","St. Adolphe",N,N,"",2,395,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"Provencher","Provencher"," 67","St. Adolphe",N,N,"",2,395,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 68","St. Adolphe",N,N,"",0,436,"Falk","","Ted","Conservative","Conservateur",Y,Y,99
+46008,"Provencher","Provencher"," 68","St. Adolphe",N,N,"",0,436,"Hayward","","Terry","Liberal","Libéral",N,N,160
+46008,"Provencher","Provencher"," 68","St. Adolphe",N,N,"",0,436,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"Provencher","Provencher"," 68","St. Adolphe",N,N,"",0,436,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 69","Niverville",N,N,"",2,651,"Falk","","Ted","Conservative","Conservateur",Y,Y,249
+46008,"Provencher","Provencher"," 69","Niverville",N,N,"",2,651,"Hayward","","Terry","Liberal","Libéral",N,N,111
+46008,"Provencher","Provencher"," 69","Niverville",N,N,"",2,651,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,"Provencher","Provencher"," 69","Niverville",N,N,"",2,651,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 70","Niverville",N,N,"",2,517,"Falk","","Ted","Conservative","Conservateur",Y,Y,181
+46008,"Provencher","Provencher"," 70","Niverville",N,N,"",2,517,"Hayward","","Terry","Liberal","Libéral",N,N,81
+46008,"Provencher","Provencher"," 70","Niverville",N,N,"",2,517,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 70","Niverville",N,N,"",2,517,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 71","Niverville",N,N,"",1,368,"Falk","","Ted","Conservative","Conservateur",Y,Y,118
+46008,"Provencher","Provencher"," 71","Niverville",N,N,"",1,368,"Hayward","","Terry","Liberal","Libéral",N,N,69
+46008,"Provencher","Provencher"," 71","Niverville",N,N,"",1,368,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"Provencher","Provencher"," 71","Niverville",N,N,"",1,368,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 72","Niverville",N,N,"",1,399,"Falk","","Ted","Conservative","Conservateur",Y,Y,156
+46008,"Provencher","Provencher"," 72","Niverville",N,N,"",1,399,"Hayward","","Terry","Liberal","Libéral",N,N,30
+46008,"Provencher","Provencher"," 72","Niverville",N,N,"",1,399,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"Provencher","Provencher"," 72","Niverville",N,N,"",1,399,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,16
+46008,"Provencher","Provencher"," 73","Niverville",N,N,"",2,266,"Falk","","Ted","Conservative","Conservateur",Y,Y,94
+46008,"Provencher","Provencher"," 73","Niverville",N,N,"",2,266,"Hayward","","Terry","Liberal","Libéral",N,N,56
+46008,"Provencher","Provencher"," 73","Niverville",N,N,"",2,266,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 73","Niverville",N,N,"",2,266,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 74","Niverville",N,N,"",0,556,"Falk","","Ted","Conservative","Conservateur",Y,Y,156
+46008,"Provencher","Provencher"," 74","Niverville",N,N,"",0,556,"Hayward","","Terry","Liberal","Libéral",N,N,125
+46008,"Provencher","Provencher"," 74","Niverville",N,N,"",0,556,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 74","Niverville",N,N,"",0,556,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,11
+46008,"Provencher","Provencher"," 75","Niverville",N,N,"",4,617,"Falk","","Ted","Conservative","Conservateur",Y,Y,236
+46008,"Provencher","Provencher"," 75","Niverville",N,N,"",4,617,"Hayward","","Terry","Liberal","Libéral",N,N,94
+46008,"Provencher","Provencher"," 75","Niverville",N,N,"",4,617,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 75","Niverville",N,N,"",4,617,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 76","Ste. Agathe",N,N,"",0,419,"Falk","","Ted","Conservative","Conservateur",Y,Y,112
+46008,"Provencher","Provencher"," 76","Ste. Agathe",N,N,"",0,419,"Hayward","","Terry","Liberal","Libéral",N,N,173
+46008,"Provencher","Provencher"," 76","Ste. Agathe",N,N,"",0,419,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"Provencher","Provencher"," 76","Ste. Agathe",N,N,"",0,419,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 77","Ste. Agathe",N,N,"",0,288,"Falk","","Ted","Conservative","Conservateur",Y,Y,85
+46008,"Provencher","Provencher"," 77","Ste. Agathe",N,N,"",0,288,"Hayward","","Terry","Liberal","Libéral",N,N,106
+46008,"Provencher","Provencher"," 77","Ste. Agathe",N,N,"",0,288,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 77","Ste. Agathe",N,N,"",0,288,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 78","Otterburne",N,N,"",0,371,"Falk","","Ted","Conservative","Conservateur",Y,Y,144
+46008,"Provencher","Provencher"," 78","Otterburne",N,N,"",0,371,"Hayward","","Terry","Liberal","Libéral",N,N,80
+46008,"Provencher","Provencher"," 78","Otterburne",N,N,"",0,371,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 78","Otterburne",N,N,"",0,371,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,50
+46008,"Provencher","Provencher"," 79","Rat River Settlement",N,N,"",0,498,"Falk","","Ted","Conservative","Conservateur",Y,Y,111
+46008,"Provencher","Provencher"," 79","Rat River Settlement",N,N,"",0,498,"Hayward","","Terry","Liberal","Libéral",N,N,107
+46008,"Provencher","Provencher"," 79","Rat River Settlement",N,N,"",0,498,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 79","Rat River Settlement",N,N,"",0,498,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 80","St-Pierre-Jolys",N,N,"",0,414,"Falk","","Ted","Conservative","Conservateur",Y,Y,92
+46008,"Provencher","Provencher"," 80","St-Pierre-Jolys",N,N,"",0,414,"Hayward","","Terry","Liberal","Libéral",N,N,137
+46008,"Provencher","Provencher"," 80","St-Pierre-Jolys",N,N,"",0,414,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 80","St-Pierre-Jolys",N,N,"",0,414,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 81","St-Pierre-Jolys",N,N,"",0,384,"Falk","","Ted","Conservative","Conservateur",Y,Y,97
+46008,"Provencher","Provencher"," 81","St-Pierre-Jolys",N,N,"",0,384,"Hayward","","Terry","Liberal","Libéral",N,N,135
+46008,"Provencher","Provencher"," 81","St-Pierre-Jolys",N,N,"",0,384,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"Provencher","Provencher"," 81","St-Pierre-Jolys",N,N,"",0,384,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 82","Kleefeld",N,N,"",0,549,"Falk","","Ted","Conservative","Conservateur",Y,Y,276
+46008,"Provencher","Provencher"," 82","Kleefeld",N,N,"",0,549,"Hayward","","Terry","Liberal","Libéral",N,N,42
+46008,"Provencher","Provencher"," 82","Kleefeld",N,N,"",0,549,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 82","Kleefeld",N,N,"",0,549,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 83","Hochstadt",N,N,"",0,395,"Falk","","Ted","Conservative","Conservateur",Y,Y,185
+46008,"Provencher","Provencher"," 83","Hochstadt",N,N,"",0,395,"Hayward","","Terry","Liberal","Libéral",N,N,25
+46008,"Provencher","Provencher"," 83","Hochstadt",N,N,"",0,395,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 83","Hochstadt",N,N,"",0,395,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 84","Hochstadt",N,N,"",2,464,"Falk","","Ted","Conservative","Conservateur",Y,Y,218
+46008,"Provencher","Provencher"," 84","Hochstadt",N,N,"",2,464,"Hayward","","Terry","Liberal","Libéral",N,N,68
+46008,"Provencher","Provencher"," 84","Hochstadt",N,N,"",2,464,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 84","Hochstadt",N,N,"",2,464,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,23
+46008,"Provencher","Provencher"," 85","New Bothwell",N,N,"",3,604,"Falk","","Ted","Conservative","Conservateur",Y,Y,268
+46008,"Provencher","Provencher"," 85","New Bothwell",N,N,"",3,604,"Hayward","","Terry","Liberal","Libéral",N,N,67
+46008,"Provencher","Provencher"," 85","New Bothwell",N,N,"",3,604,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"Provencher","Provencher"," 85","New Bothwell",N,N,"",3,604,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,16
+46008,"Provencher","Provencher"," 86","Randolph",N,N,"",0,357,"Falk","","Ted","Conservative","Conservateur",Y,Y,165
+46008,"Provencher","Provencher"," 86","Randolph",N,N,"",0,357,"Hayward","","Terry","Liberal","Libéral",N,N,34
+46008,"Provencher","Provencher"," 86","Randolph",N,N,"",0,357,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 86","Randolph",N,N,"",0,357,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 87","Mitchell",N,N,"",0,337,"Falk","","Ted","Conservative","Conservateur",Y,Y,152
+46008,"Provencher","Provencher"," 87","Mitchell",N,N,"",0,337,"Hayward","","Terry","Liberal","Libéral",N,N,26
+46008,"Provencher","Provencher"," 87","Mitchell",N,N,"",0,337,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 87","Mitchell",N,N,"",0,337,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 88","Mitchell",N,N,"",1,332,"Falk","","Ted","Conservative","Conservateur",Y,Y,154
+46008,"Provencher","Provencher"," 88","Mitchell",N,N,"",1,332,"Hayward","","Terry","Liberal","Libéral",N,N,29
+46008,"Provencher","Provencher"," 88","Mitchell",N,N,"",1,332,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 88","Mitchell",N,N,"",1,332,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 89","Mitchell",N,N,"",1,235,"Falk","","Ted","Conservative","Conservateur",Y,Y,95
+46008,"Provencher","Provencher"," 89","Mitchell",N,N,"",1,235,"Hayward","","Terry","Liberal","Libéral",N,N,12
+46008,"Provencher","Provencher"," 89","Mitchell",N,N,"",1,235,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 89","Mitchell",N,N,"",1,235,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 90","Mitchell",N,N,"",0,307,"Falk","","Ted","Conservative","Conservateur",Y,Y,156
+46008,"Provencher","Provencher"," 90","Mitchell",N,N,"",0,307,"Hayward","","Terry","Liberal","Libéral",N,N,24
+46008,"Provencher","Provencher"," 90","Mitchell",N,N,"",0,307,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 90","Mitchell",N,N,"",0,307,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 91","Hanover",N,N,"",1,541,"Falk","","Ted","Conservative","Conservateur",Y,Y,242
+46008,"Provencher","Provencher"," 91","Hanover",N,N,"",1,541,"Hayward","","Terry","Liberal","Libéral",N,N,33
+46008,"Provencher","Provencher"," 91","Hanover",N,N,"",1,541,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 91","Hanover",N,N,"",1,541,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 92","Blumenort",N,N,"",2,691,"Falk","","Ted","Conservative","Conservateur",Y,Y,321
+46008,"Provencher","Provencher"," 92","Blumenort",N,N,"",2,691,"Hayward","","Terry","Liberal","Libéral",N,N,44
+46008,"Provencher","Provencher"," 92","Blumenort",N,N,"",2,691,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"Provencher","Provencher"," 92","Blumenort",N,N,"",2,691,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 93","Blumenort",N,N,"",4,700,"Falk","","Ted","Conservative","Conservateur",Y,Y,325
+46008,"Provencher","Provencher"," 93","Blumenort",N,N,"",4,700,"Hayward","","Terry","Liberal","Libéral",N,N,30
+46008,"Provencher","Provencher"," 93","Blumenort",N,N,"",4,700,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 93","Blumenort",N,N,"",4,700,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 94","Giroux",N,N,"",0,400,"Falk","","Ted","Conservative","Conservateur",Y,Y,138
+46008,"Provencher","Provencher"," 94","Giroux",N,N,"",0,400,"Hayward","","Terry","Liberal","Libéral",N,N,77
+46008,"Provencher","Provencher"," 94","Giroux",N,N,"",0,400,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"Provencher","Provencher"," 94","Giroux",N,N,"",0,400,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 95","Steinbach",N,N,"",0,601,"Falk","","Ted","Conservative","Conservateur",Y,Y,245
+46008,"Provencher","Provencher"," 95","Steinbach",N,N,"",0,601,"Hayward","","Terry","Liberal","Libéral",N,N,56
+46008,"Provencher","Provencher"," 95","Steinbach",N,N,"",0,601,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 95","Steinbach",N,N,"",0,601,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 96","Steinbach",N,N,"",2,432,"Falk","","Ted","Conservative","Conservateur",Y,Y,152
+46008,"Provencher","Provencher"," 96","Steinbach",N,N,"",2,432,"Hayward","","Terry","Liberal","Libéral",N,N,54
+46008,"Provencher","Provencher"," 96","Steinbach",N,N,"",2,432,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 96","Steinbach",N,N,"",2,432,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 97","Steinbach",N,N,"",1,902,"Falk","","Ted","Conservative","Conservateur",Y,Y,308
+46008,"Provencher","Provencher"," 97","Steinbach",N,N,"",1,902,"Hayward","","Terry","Liberal","Libéral",N,N,105
+46008,"Provencher","Provencher"," 97","Steinbach",N,N,"",1,902,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 97","Steinbach",N,N,"",1,902,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 98","Steinbach",N,N,"",3,444,"Falk","","Ted","Conservative","Conservateur",Y,Y,173
+46008,"Provencher","Provencher"," 98","Steinbach",N,N,"",3,444,"Hayward","","Terry","Liberal","Libéral",N,N,28
+46008,"Provencher","Provencher"," 98","Steinbach",N,N,"",3,444,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 98","Steinbach",N,N,"",3,444,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 99","Steinbach",N,N,"",1,427,"Falk","","Ted","Conservative","Conservateur",Y,Y,150
+46008,"Provencher","Provencher"," 99","Steinbach",N,N,"",1,427,"Hayward","","Terry","Liberal","Libéral",N,N,49
+46008,"Provencher","Provencher"," 99","Steinbach",N,N,"",1,427,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 99","Steinbach",N,N,"",1,427,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,24
+46008,"Provencher","Provencher"," 100","Steinbach",N,N,"",0,404,"Falk","","Ted","Conservative","Conservateur",Y,Y,116
+46008,"Provencher","Provencher"," 100","Steinbach",N,N,"",0,404,"Hayward","","Terry","Liberal","Libéral",N,N,36
+46008,"Provencher","Provencher"," 100","Steinbach",N,N,"",0,404,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 100","Steinbach",N,N,"",0,404,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,11
+46008,"Provencher","Provencher"," 101","Steinbach",N,N,"",1,369,"Falk","","Ted","Conservative","Conservateur",Y,Y,114
+46008,"Provencher","Provencher"," 101","Steinbach",N,N,"",1,369,"Hayward","","Terry","Liberal","Libéral",N,N,27
+46008,"Provencher","Provencher"," 101","Steinbach",N,N,"",1,369,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 101","Steinbach",N,N,"",1,369,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 102","Steinbach",N,N,"",0,362,"Falk","","Ted","Conservative","Conservateur",Y,Y,136
+46008,"Provencher","Provencher"," 102","Steinbach",N,N,"",0,362,"Hayward","","Terry","Liberal","Libéral",N,N,31
+46008,"Provencher","Provencher"," 102","Steinbach",N,N,"",0,362,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"Provencher","Provencher"," 102","Steinbach",N,N,"",0,362,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 103","Steinbach",N,N,"",2,732,"Falk","","Ted","Conservative","Conservateur",Y,Y,253
+46008,"Provencher","Provencher"," 103","Steinbach",N,N,"",2,732,"Hayward","","Terry","Liberal","Libéral",N,N,65
+46008,"Provencher","Provencher"," 103","Steinbach",N,N,"",2,732,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"Provencher","Provencher"," 103","Steinbach",N,N,"",2,732,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,20
+46008,"Provencher","Provencher"," 104","Steinbach",N,N,"",0,453,"Falk","","Ted","Conservative","Conservateur",Y,Y,152
+46008,"Provencher","Provencher"," 104","Steinbach",N,N,"",0,453,"Hayward","","Terry","Liberal","Libéral",N,N,56
+46008,"Provencher","Provencher"," 104","Steinbach",N,N,"",0,453,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 104","Steinbach",N,N,"",0,453,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 105","Steinbach",N,N,"",1,413,"Falk","","Ted","Conservative","Conservateur",Y,Y,135
+46008,"Provencher","Provencher"," 105","Steinbach",N,N,"",1,413,"Hayward","","Terry","Liberal","Libéral",N,N,46
+46008,"Provencher","Provencher"," 105","Steinbach",N,N,"",1,413,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 105","Steinbach",N,N,"",1,413,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,16
+46008,"Provencher","Provencher"," 106","Steinbach",N,N,"",0,477,"Falk","","Ted","Conservative","Conservateur",Y,Y,138
+46008,"Provencher","Provencher"," 106","Steinbach",N,N,"",0,477,"Hayward","","Terry","Liberal","Libéral",N,N,63
+46008,"Provencher","Provencher"," 106","Steinbach",N,N,"",0,477,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 106","Steinbach",N,N,"",0,477,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 107","Steinbach",N,N,"",2,418,"Falk","","Ted","Conservative","Conservateur",Y,Y,145
+46008,"Provencher","Provencher"," 107","Steinbach",N,N,"",2,418,"Hayward","","Terry","Liberal","Libéral",N,N,55
+46008,"Provencher","Provencher"," 107","Steinbach",N,N,"",2,418,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 107","Steinbach",N,N,"",2,418,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,19
+46008,"Provencher","Provencher"," 108","Steinbach",N,N,"",0,498,"Falk","","Ted","Conservative","Conservateur",Y,Y,172
+46008,"Provencher","Provencher"," 108","Steinbach",N,N,"",0,498,"Hayward","","Terry","Liberal","Libéral",N,N,45
+46008,"Provencher","Provencher"," 108","Steinbach",N,N,"",0,498,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 108","Steinbach",N,N,"",0,498,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 109","Steinbach",N,N,"",1,490,"Falk","","Ted","Conservative","Conservateur",Y,Y,183
+46008,"Provencher","Provencher"," 109","Steinbach",N,N,"",1,490,"Hayward","","Terry","Liberal","Libéral",N,N,69
+46008,"Provencher","Provencher"," 109","Steinbach",N,N,"",1,490,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,"Provencher","Provencher"," 109","Steinbach",N,N,"",1,490,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 110","Steinbach",N,N,"",0,490,"Falk","","Ted","Conservative","Conservateur",Y,Y,177
+46008,"Provencher","Provencher"," 110","Steinbach",N,N,"",0,490,"Hayward","","Terry","Liberal","Libéral",N,N,57
+46008,"Provencher","Provencher"," 110","Steinbach",N,N,"",0,490,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 110","Steinbach",N,N,"",0,490,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 111","Steinbach",N,N,"",0,468,"Falk","","Ted","Conservative","Conservateur",Y,Y,152
+46008,"Provencher","Provencher"," 111","Steinbach",N,N,"",0,468,"Hayward","","Terry","Liberal","Libéral",N,N,66
+46008,"Provencher","Provencher"," 111","Steinbach",N,N,"",0,468,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 111","Steinbach",N,N,"",0,468,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 112","Steinbach",N,N,"",2,527,"Falk","","Ted","Conservative","Conservateur",Y,Y,178
+46008,"Provencher","Provencher"," 112","Steinbach",N,N,"",2,527,"Hayward","","Terry","Liberal","Libéral",N,N,65
+46008,"Provencher","Provencher"," 112","Steinbach",N,N,"",2,527,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"Provencher","Provencher"," 112","Steinbach",N,N,"",2,527,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 113","Steinbach",N,N,"",0,657,"Falk","","Ted","Conservative","Conservateur",Y,Y,263
+46008,"Provencher","Provencher"," 113","Steinbach",N,N,"",0,657,"Hayward","","Terry","Liberal","Libéral",N,N,56
+46008,"Provencher","Provencher"," 113","Steinbach",N,N,"",0,657,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"Provencher","Provencher"," 113","Steinbach",N,N,"",0,657,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 114","Steinbach",N,N,"",0,266,"Falk","","Ted","Conservative","Conservateur",Y,Y,114
+46008,"Provencher","Provencher"," 114","Steinbach",N,N,"",0,266,"Hayward","","Terry","Liberal","Libéral",N,N,39
+46008,"Provencher","Provencher"," 114","Steinbach",N,N,"",0,266,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 114","Steinbach",N,N,"",0,266,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 115","Steinbach",N,N,"",1,442,"Falk","","Ted","Conservative","Conservateur",Y,Y,175
+46008,"Provencher","Provencher"," 115","Steinbach",N,N,"",1,442,"Hayward","","Terry","Liberal","Libéral",N,N,53
+46008,"Provencher","Provencher"," 115","Steinbach",N,N,"",1,442,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 115","Steinbach",N,N,"",1,442,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 116","La Broquerie",N,N,"",5,488,"Falk","","Ted","Conservative","Conservateur",Y,Y,87
+46008,"Provencher","Provencher"," 116","La Broquerie",N,N,"",5,488,"Hayward","","Terry","Liberal","Libéral",N,N,148
+46008,"Provencher","Provencher"," 116","La Broquerie",N,N,"",5,488,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"Provencher","Provencher"," 116","La Broquerie",N,N,"",5,488,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,13
+46008,"Provencher","Provencher"," 117","La Broquerie",N,N,"",1,682,"Falk","","Ted","Conservative","Conservateur",Y,Y,190
+46008,"Provencher","Provencher"," 117","La Broquerie",N,N,"",1,682,"Hayward","","Terry","Liberal","Libéral",N,N,157
+46008,"Provencher","Provencher"," 117","La Broquerie",N,N,"",1,682,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"Provencher","Provencher"," 117","La Broquerie",N,N,"",1,682,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,19
+46008,"Provencher","Provencher"," 118","La Broquerie",N,N,"",2,601,"Falk","","Ted","Conservative","Conservateur",Y,Y,210
+46008,"Provencher","Provencher"," 118","La Broquerie",N,N,"",2,601,"Hayward","","Terry","Liberal","Libéral",N,N,109
+46008,"Provencher","Provencher"," 118","La Broquerie",N,N,"",2,601,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 118","La Broquerie",N,N,"",2,601,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 119","Bristol",N,N,"",1,425,"Falk","","Ted","Conservative","Conservateur",Y,Y,211
+46008,"Provencher","Provencher"," 119","Bristol",N,N,"",1,425,"Hayward","","Terry","Liberal","Libéral",N,N,29
+46008,"Provencher","Provencher"," 119","Bristol",N,N,"",1,425,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 119","Bristol",N,N,"",1,425,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 120","Friedensfeld",N,N,"",0,426,"Falk","","Ted","Conservative","Conservateur",Y,Y,186
+46008,"Provencher","Provencher"," 120","Friedensfeld",N,N,"",0,426,"Hayward","","Terry","Liberal","Libéral",N,N,46
+46008,"Provencher","Provencher"," 120","Friedensfeld",N,N,"",0,426,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 120","Friedensfeld",N,N,"",0,426,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,23
+46008,"Provencher","Provencher"," 121","Grunthal",N,N,"",0,431,"Falk","","Ted","Conservative","Conservateur",Y,Y,237
+46008,"Provencher","Provencher"," 121","Grunthal",N,N,"",0,431,"Hayward","","Terry","Liberal","Libéral",N,N,37
+46008,"Provencher","Provencher"," 121","Grunthal",N,N,"",0,431,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 121","Grunthal",N,N,"",0,431,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 122","Grunthal",N,N,"",1,389,"Falk","","Ted","Conservative","Conservateur",Y,Y,210
+46008,"Provencher","Provencher"," 122","Grunthal",N,N,"",1,389,"Hayward","","Terry","Liberal","Libéral",N,N,25
+46008,"Provencher","Provencher"," 122","Grunthal",N,N,"",1,389,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 122","Grunthal",N,N,"",1,389,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 123","Barkfield",N,N,"",1,331,"Falk","","Ted","Conservative","Conservateur",Y,Y,183
+46008,"Provencher","Provencher"," 123","Barkfield",N,N,"",1,331,"Hayward","","Terry","Liberal","Libéral",N,N,33
+46008,"Provencher","Provencher"," 123","Barkfield",N,N,"",1,331,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 123","Barkfield",N,N,"",1,331,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 124","Grunthal",N,N,"",1,487,"Falk","","Ted","Conservative","Conservateur",Y,Y,214
+46008,"Provencher","Provencher"," 124","Grunthal",N,N,"",1,487,"Hayward","","Terry","Liberal","Libéral",N,N,45
+46008,"Provencher","Provencher"," 124","Grunthal",N,N,"",1,487,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"Provencher","Provencher"," 124","Grunthal",N,N,"",1,487,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 125","Barkfield",N,N,"",3,354,"Falk","","Ted","Conservative","Conservateur",Y,Y,210
+46008,"Provencher","Provencher"," 125","Barkfield",N,N,"",3,354,"Hayward","","Terry","Liberal","Libéral",N,N,25
+46008,"Provencher","Provencher"," 125","Barkfield",N,N,"",3,354,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 125","Barkfield",N,N,"",3,354,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 126","Sarto",N,N,"",1,417,"Falk","","Ted","Conservative","Conservateur",Y,Y,199
+46008,"Provencher","Provencher"," 126","Sarto",N,N,"",1,417,"Hayward","","Terry","Liberal","Libéral",N,N,34
+46008,"Provencher","Provencher"," 126","Sarto",N,N,"",1,417,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 126","Sarto",N,N,"",1,417,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 127","Sarto",N,N,"",0,323,"Falk","","Ted","Conservative","Conservateur",Y,Y,147
+46008,"Provencher","Provencher"," 127","Sarto",N,N,"",0,323,"Hayward","","Terry","Liberal","Libéral",N,N,35
+46008,"Provencher","Provencher"," 127","Sarto",N,N,"",0,323,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 127","Sarto",N,N,"",0,323,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 128","Marchand",N,N,"",2,513,"Falk","","Ted","Conservative","Conservateur",Y,Y,144
+46008,"Provencher","Provencher"," 128","Marchand",N,N,"",2,513,"Hayward","","Terry","Liberal","Libéral",N,N,116
+46008,"Provencher","Provencher"," 128","Marchand",N,N,"",2,513,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 128","Marchand",N,N,"",2,513,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 129","Hadashville",N,N,"",0,289,"Falk","","Ted","Conservative","Conservateur",Y,Y,77
+46008,"Provencher","Provencher"," 129","Hadashville",N,N,"",0,289,"Hayward","","Terry","Liberal","Libéral",N,N,44
+46008,"Provencher","Provencher"," 129","Hadashville",N,N,"",0,289,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 129","Hadashville",N,N,"",0,289,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 130","Prawda",N,N,"",0,140,"Falk","","Ted","Conservative","Conservateur",Y,Y,36
+46008,"Provencher","Provencher"," 130","Prawda",N,N,"",0,140,"Hayward","","Terry","Liberal","Libéral",N,N,27
+46008,"Provencher","Provencher"," 130","Prawda",N,N,"",0,140,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 130","Prawda",N,N,"",0,140,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,11
+46008,"Provencher","Provencher"," 131","Falcon Lake",N,N,"",1,438,"Falk","","Ted","Conservative","Conservateur",Y,Y,134
+46008,"Provencher","Provencher"," 131","Falcon Lake",N,N,"",1,438,"Hayward","","Terry","Liberal","Libéral",N,N,96
+46008,"Provencher","Provencher"," 131","Falcon Lake",N,N,"",1,438,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 131","Falcon Lake",N,N,"",1,438,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,16
+46008,"Provencher","Provencher"," 132","Woodridge",N,N,"",0,468,"Falk","","Ted","Conservative","Conservateur",Y,Y,122
+46008,"Provencher","Provencher"," 132","Woodridge",N,N,"",0,468,"Hayward","","Terry","Liberal","Libéral",N,N,114
+46008,"Provencher","Provencher"," 132","Woodridge",N,N,"",0,468,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"Provencher","Provencher"," 132","Woodridge",N,N,"",0,468,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 133","Zhoda",N,N,"",0,241,"Falk","","Ted","Conservative","Conservateur",Y,Y,68
+46008,"Provencher","Provencher"," 133","Zhoda",N,N,"",0,241,"Hayward","","Terry","Liberal","Libéral",N,N,24
+46008,"Provencher","Provencher"," 133","Zhoda",N,N,"",0,241,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 133","Zhoda",N,N,"",0,241,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 134","Pansy",N,N,"",0,260,"Falk","","Ted","Conservative","Conservateur",Y,Y,159
+46008,"Provencher","Provencher"," 134","Pansy",N,N,"",0,260,"Hayward","","Terry","Liberal","Libéral",N,N,14
+46008,"Provencher","Provencher"," 134","Pansy",N,N,"",0,260,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 134","Pansy",N,N,"",0,260,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,10
+46008,"Provencher","Provencher"," 135","Saint-Malo",N,N,"",1,746,"Falk","","Ted","Conservative","Conservateur",Y,Y,149
+46008,"Provencher","Provencher"," 135","Saint-Malo",N,N,"",1,746,"Hayward","","Terry","Liberal","Libéral",N,N,211
+46008,"Provencher","Provencher"," 135","Saint-Malo",N,N,"",1,746,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"Provencher","Provencher"," 135","Saint-Malo",N,N,"",1,746,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 136","Saint-Malo",N,N,"",1,617,"Falk","","Ted","Conservative","Conservateur",Y,Y,114
+46008,"Provencher","Provencher"," 136","Saint-Malo",N,N,"",1,617,"Hayward","","Terry","Liberal","Libéral",N,N,167
+46008,"Provencher","Provencher"," 136","Saint-Malo",N,N,"",1,617,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 136","Saint-Malo",N,N,"",1,617,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 137","Dufrost",N,N,"",0,189,"Falk","","Ted","Conservative","Conservateur",Y,Y,73
+46008,"Provencher","Provencher"," 137","Dufrost",N,N,"",0,189,"Hayward","","Terry","Liberal","Libéral",N,N,28
+46008,"Provencher","Provencher"," 137","Dufrost",N,N,"",0,189,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 137","Dufrost",N,N,"",0,189,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," 138","Morris",N,N,"",0,341,"Falk","","Ted","Conservative","Conservateur",Y,Y,107
+46008,"Provencher","Provencher"," 138","Morris",N,N,"",0,341,"Hayward","","Terry","Liberal","Libéral",N,N,99
+46008,"Provencher","Provencher"," 138","Morris",N,N,"",0,341,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 138","Morris",N,N,"",0,341,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 139","St. Jean Baptiste",N,N,"",3,239,"Falk","","Ted","Conservative","Conservateur",Y,Y,66
+46008,"Provencher","Provencher"," 139","St. Jean Baptiste",N,N,"",3,239,"Hayward","","Terry","Liberal","Libéral",N,N,83
+46008,"Provencher","Provencher"," 139","St. Jean Baptiste",N,N,"",3,239,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 139","St. Jean Baptiste",N,N,"",3,239,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 140","Roseau River 2 -- Roseau Rapids 2A",N,N,"",0,370,"Falk","","Ted","Conservative","Conservateur",Y,Y,2
+46008,"Provencher","Provencher"," 140","Roseau River 2 -- Roseau Rapids 2A",N,N,"",0,370,"Hayward","","Terry","Liberal","Libéral",N,N,143
+46008,"Provencher","Provencher"," 140","Roseau River 2 -- Roseau Rapids 2A",N,N,"",0,370,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"Provencher","Provencher"," 140","Roseau River 2 -- Roseau Rapids 2A",N,N,"",0,370,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,1
+46008,"Provencher","Provencher"," 141","Dominion City",N,N,"",0,399,"Falk","","Ted","Conservative","Conservateur",Y,Y,138
+46008,"Provencher","Provencher"," 141","Dominion City",N,N,"",0,399,"Hayward","","Terry","Liberal","Libéral",N,N,79
+46008,"Provencher","Provencher"," 141","Dominion City",N,N,"",0,399,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"Provencher","Provencher"," 141","Dominion City",N,N,"",0,399,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 142","Rosa",N,N,"",0,361,"Falk","","Ted","Conservative","Conservateur",Y,Y,149
+46008,"Provencher","Provencher"," 142","Rosa",N,N,"",0,361,"Hayward","","Terry","Liberal","Libéral",N,N,49
+46008,"Provencher","Provencher"," 142","Rosa",N,N,"",0,361,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"Provencher","Provencher"," 142","Rosa",N,N,"",0,361,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,16
+46008,"Provencher","Provencher"," 143","Ridgeville",N,N,"",0,246,"Falk","","Ted","Conservative","Conservateur",Y,Y,76
+46008,"Provencher","Provencher"," 143","Ridgeville",N,N,"",0,246,"Hayward","","Terry","Liberal","Libéral",N,N,41
+46008,"Provencher","Provencher"," 143","Ridgeville",N,N,"",0,246,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 143","Ridgeville",N,N,"",0,246,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 144","Vita",N,N,"",2,272,"Falk","","Ted","Conservative","Conservateur",Y,Y,99
+46008,"Provencher","Provencher"," 144","Vita",N,N,"",2,272,"Hayward","","Terry","Liberal","Libéral",N,N,53
+46008,"Provencher","Provencher"," 144","Vita",N,N,"",2,272,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 144","Vita",N,N,"",2,272,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,1
+46008,"Provencher","Provencher"," 145","Stuartburn",N,N,"",0,269,"Falk","","Ted","Conservative","Conservateur",Y,Y,87
+46008,"Provencher","Provencher"," 145","Stuartburn",N,N,"",0,269,"Hayward","","Terry","Liberal","Libéral",N,N,42
+46008,"Provencher","Provencher"," 145","Stuartburn",N,N,"",0,269,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"Provencher","Provencher"," 145","Stuartburn",N,N,"",0,269,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 146","Sundown",N,N,"",0,227,"Falk","","Ted","Conservative","Conservateur",Y,Y,58
+46008,"Provencher","Provencher"," 146","Sundown",N,N,"",0,227,"Hayward","","Terry","Liberal","Libéral",N,N,37
+46008,"Provencher","Provencher"," 146","Sundown",N,N,"",0,227,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 146","Sundown",N,N,"",0,227,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," 147","Vassar",N,N,"",1,429,"Falk","","Ted","Conservative","Conservateur",Y,Y,94
+46008,"Provencher","Provencher"," 147","Vassar",N,N,"",1,429,"Hayward","","Terry","Liberal","Libéral",N,N,69
+46008,"Provencher","Provencher"," 147","Vassar",N,N,"",1,429,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"Provencher","Provencher"," 147","Vassar",N,N,"",1,429,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 148","Sprague",N,N,"",2,520,"Falk","","Ted","Conservative","Conservateur",Y,Y,156
+46008,"Provencher","Provencher"," 148","Sprague",N,N,"",2,520,"Hayward","","Terry","Liberal","Libéral",N,N,107
+46008,"Provencher","Provencher"," 148","Sprague",N,N,"",2,520,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46008,"Provencher","Provencher"," 148","Sprague",N,N,"",2,520,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,8
+46008,"Provencher","Provencher"," 149","Tolstoi",N,N,"",1,458,"Falk","","Ted","Conservative","Conservateur",Y,Y,164
+46008,"Provencher","Provencher"," 149","Tolstoi",N,N,"",1,458,"Hayward","","Terry","Liberal","Libéral",N,N,66
+46008,"Provencher","Provencher"," 149","Tolstoi",N,N,"",1,458,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"Provencher","Provencher"," 149","Tolstoi",N,N,"",1,458,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 150","Emerson",N,N,"",0,284,"Falk","","Ted","Conservative","Conservateur",Y,Y,81
+46008,"Provencher","Provencher"," 150","Emerson",N,N,"",0,284,"Hayward","","Terry","Liberal","Libéral",N,N,74
+46008,"Provencher","Provencher"," 150","Emerson",N,N,"",0,284,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"Provencher","Provencher"," 150","Emerson",N,N,"",0,284,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,9
+46008,"Provencher","Provencher"," 151","Emerson",N,N,"",1,299,"Falk","","Ted","Conservative","Conservateur",Y,Y,108
+46008,"Provencher","Provencher"," 151","Emerson",N,N,"",1,299,"Hayward","","Terry","Liberal","Libéral",N,N,94
+46008,"Provencher","Provencher"," 151","Emerson",N,N,"",1,299,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"Provencher","Provencher"," 151","Emerson",N,N,"",1,299,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,7
+46008,"Provencher","Provencher"," 152","Letellier",N,N,"",0,321,"Falk","","Ted","Conservative","Conservateur",Y,Y,79
+46008,"Provencher","Provencher"," 152","Letellier",N,N,"",0,321,"Hayward","","Terry","Liberal","Libéral",N,N,67
+46008,"Provencher","Provencher"," 152","Letellier",N,N,"",0,321,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"Provencher","Provencher"," 152","Letellier",N,N,"",0,321,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 153","Paradise Village",N,N,"",0,504,"Falk","","Ted","Conservative","Conservateur",Y,Y,154
+46008,"Provencher","Provencher"," 153","Paradise Village",N,N,"",0,504,"Hayward","","Terry","Liberal","Libéral",N,N,154
+46008,"Provencher","Provencher"," 153","Paradise Village",N,N,"",0,504,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46008,"Provencher","Provencher"," 153","Paradise Village",N,N,"",0,504,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",0,22,"Falk","","Ted","Conservative","Conservateur",Y,Y,10
+46008,"Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",0,22,"Hayward","","Terry","Liberal","Libéral",N,N,3
+46008,"Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",0,22,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",0,22,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,1
+46008,"Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,54,"Falk","","Ted","Conservative","Conservateur",Y,Y,25
+46008,"Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,54,"Hayward","","Terry","Liberal","Libéral",N,N,22
+46008,"Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,54,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,54,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,156,"Falk","","Ted","Conservative","Conservateur",Y,Y,16
+46008,"Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,156,"Hayward","","Terry","Liberal","Libéral",N,N,69
+46008,"Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,156,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,156,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,1
+46008,"Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,65,"Falk","","Ted","Conservative","Conservateur",Y,Y,22
+46008,"Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,65,"Hayward","","Terry","Liberal","Libéral",N,N,13
+46008,"Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,65,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,65,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",0,79,"Falk","","Ted","Conservative","Conservateur",Y,Y,22
+46008,"Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",0,79,"Hayward","","Terry","Liberal","Libéral",N,N,30
+46008,"Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",0,79,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,"Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",0,79,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",1,45,"Falk","","Ted","Conservative","Conservateur",Y,Y,116
+46008,"Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",1,45,"Hayward","","Terry","Liberal","Libéral",N,N,9
+46008,"Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",1,45,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",1,45,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Falk","","Ted","Conservative","Conservateur",Y,Y,49
+46008,"Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Hayward","","Terry","Liberal","Libéral",N,N,13
+46008,"Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 507A","Mobile poll/Bureau itinérant",N,N,"",1,163,"Falk","","Ted","Conservative","Conservateur",Y,Y,95
+46008,"Provencher","Provencher"," 507A","Mobile poll/Bureau itinérant",N,N,"",1,163,"Hayward","","Terry","Liberal","Libéral",N,N,11
+46008,"Provencher","Provencher"," 507A","Mobile poll/Bureau itinérant",N,N,"",1,163,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"Provencher","Provencher"," 507A","Mobile poll/Bureau itinérant",N,N,"",1,163,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,2
+46008,"Provencher","Provencher"," 507B","Mobile poll/Bureau itinérant",N,N,"505",0,172,"Falk","","Ted","Conservative","Conservateur",Y,Y,0
+46008,"Provencher","Provencher"," 507B","Mobile poll/Bureau itinérant",N,N,"505",0,172,"Hayward","","Terry","Liberal","Libéral",N,N,0
+46008,"Provencher","Provencher"," 507B","Mobile poll/Bureau itinérant",N,N,"505",0,172,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"Provencher","Provencher"," 507B","Mobile poll/Bureau itinérant",N,N,"505",0,172,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",1,67,"Falk","","Ted","Conservative","Conservateur",Y,Y,20
+46008,"Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",1,67,"Hayward","","Terry","Liberal","Libéral",N,N,19
+46008,"Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",1,67,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",1,67,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,1
+46008,"Provencher","Provencher"," 600","Springfield",N,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,426
+46008,"Provencher","Provencher"," 600","Springfield",N,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,352
+46008,"Provencher","Provencher"," 600","Springfield",N,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+46008,"Provencher","Provencher"," 600","Springfield",N,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,34
+46008,"Provencher","Provencher"," 601","Oakbank--Springfield",N,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,232
+46008,"Provencher","Provencher"," 601","Oakbank--Springfield",N,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,170
+46008,"Provencher","Provencher"," 601","Oakbank--Springfield",N,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+46008,"Provencher","Provencher"," 601","Oakbank--Springfield",N,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,14
+46008,"Provencher","Provencher"," 602","La Broquerie",Y,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,0
+46008,"Provencher","Provencher"," 602","La Broquerie",Y,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,0
+46008,"Provencher","Provencher"," 602","La Broquerie",Y,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"Provencher","Provencher"," 602","La Broquerie",Y,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 603","Whitemouth--Reynolds",N,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,68
+46008,"Provencher","Provencher"," 603","Whitemouth--Reynolds",N,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,30
+46008,"Provencher","Provencher"," 603","Whitemouth--Reynolds",N,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 603","Whitemouth--Reynolds",N,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,3
+46008,"Provencher","Provencher"," 604","Ste. Anne",N,N,"",3,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,193
+46008,"Provencher","Provencher"," 604","Ste. Anne",N,N,"",3,0,"Hayward","","Terry","Liberal","Libéral",N,N,302
+46008,"Provencher","Provencher"," 604","Ste. Anne",N,N,"",3,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46008,"Provencher","Provencher"," 604","Ste. Anne",N,N,"",3,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,21
+46008,"Provencher","Provencher"," 605","Taché",N,N,"",3,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,381
+46008,"Provencher","Provencher"," 605","Taché",N,N,"",3,0,"Hayward","","Terry","Liberal","Libéral",N,N,422
+46008,"Provencher","Provencher"," 605","Taché",N,N,"",3,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+46008,"Provencher","Provencher"," 605","Taché",N,N,"",3,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,12
+46008,"Provencher","Provencher"," 606","Taché--Ile des Chênes",Y,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,0
+46008,"Provencher","Provencher"," 606","Taché--Ile des Chênes",Y,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,0
+46008,"Provencher","Provencher"," 606","Taché--Ile des Chênes",Y,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"Provencher","Provencher"," 606","Taché--Ile des Chênes",Y,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,0
+46008,"Provencher","Provencher"," 607","Niverville--Ritchot",N,N,"",1,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,369
+46008,"Provencher","Provencher"," 607","Niverville--Ritchot",N,N,"",1,0,"Hayward","","Terry","Liberal","Libéral",N,N,207
+46008,"Provencher","Provencher"," 607","Niverville--Ritchot",N,N,"",1,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46008,"Provencher","Provencher"," 607","Niverville--Ritchot",N,N,"",1,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,23
+46008,"Provencher","Provencher"," 608","Hanover--La Broquerie",N,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,377
+46008,"Provencher","Provencher"," 608","Hanover--La Broquerie",N,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,116
+46008,"Provencher","Provencher"," 608","Hanover--La Broquerie",N,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"Provencher","Provencher"," 608","Hanover--La Broquerie",N,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,19
+46008,"Provencher","Provencher"," 609","La Broquerie",N,N,"",5,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,405
+46008,"Provencher","Provencher"," 609","La Broquerie",N,N,"",5,0,"Hayward","","Terry","Liberal","Libéral",N,N,117
+46008,"Provencher","Provencher"," 609","La Broquerie",N,N,"",5,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"Provencher","Provencher"," 609","La Broquerie",N,N,"",5,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,20
+46008,"Provencher","Provencher"," 610","Steinbach",N,N,"",1,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,476
+46008,"Provencher","Provencher"," 610","Steinbach",N,N,"",1,0,"Hayward","","Terry","Liberal","Libéral",N,N,147
+46008,"Provencher","Provencher"," 610","Steinbach",N,N,"",1,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"Provencher","Provencher"," 610","Steinbach",N,N,"",1,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,26
+46008,"Provencher","Provencher"," 611","La Broquerie",N,N,"",2,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,331
+46008,"Provencher","Provencher"," 611","La Broquerie",N,N,"",2,0,"Hayward","","Terry","Liberal","Libéral",N,N,91
+46008,"Provencher","Provencher"," 611","La Broquerie",N,N,"",2,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"Provencher","Provencher"," 611","La Broquerie",N,N,"",2,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,11
+46008,"Provencher","Provencher"," 612","De Salaberry--Franklin",N,N,"",1,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,145
+46008,"Provencher","Provencher"," 612","De Salaberry--Franklin",N,N,"",1,0,"Hayward","","Terry","Liberal","Libéral",N,N,160
+46008,"Provencher","Provencher"," 612","De Salaberry--Franklin",N,N,"",1,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46008,"Provencher","Provencher"," 612","De Salaberry--Franklin",N,N,"",1,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,15
+46008,"Provencher","Provencher"," 613","Piney",N,N,"",0,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,104
+46008,"Provencher","Provencher"," 613","Piney",N,N,"",0,0,"Hayward","","Terry","Liberal","Libéral",N,N,28
+46008,"Provencher","Provencher"," 613","Piney",N,N,"",0,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"Provencher","Provencher"," 613","Piney",N,N,"",0,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,2
+46008,"Provencher","Provencher"," 614","Falcon Lake",N,N,"",1,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,60
+46008,"Provencher","Provencher"," 614","Falcon Lake",N,N,"",1,0,"Hayward","","Terry","Liberal","Libéral",N,N,25
+46008,"Provencher","Provencher"," 614","Falcon Lake",N,N,"",1,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," 614","Falcon Lake",N,N,"",1,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,5
+46008,"Provencher","Provencher"," 615","Morris",N,N,"",2,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,42
+46008,"Provencher","Provencher"," 615","Morris",N,N,"",2,0,"Hayward","","Terry","Liberal","Libéral",N,N,42
+46008,"Provencher","Provencher"," 615","Morris",N,N,"",2,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,"Provencher","Provencher"," 615","Morris",N,N,"",2,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,6
+46008,"Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,48,"Falk","","Ted","Conservative","Conservateur",Y,Y,21
+46008,"Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,48,"Hayward","","Terry","Liberal","Libéral",N,N,33
+46008,"Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,48,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,48,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,4
+46008,"Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Falk","","Ted","Conservative","Conservateur",Y,Y,452
+46008,"Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Hayward","","Terry","Liberal","Libéral",N,N,226
+46008,"Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Lilley","","Les","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46008,"Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Wheeldon","","Jeff","Green Party","Parti Vert",N,N,22

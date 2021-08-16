@@ -1,0 +1,937 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 1","Jarvie",N,N,"",0,448,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 1","Jarvie",N,N,"",0,448,"Grant","","Lisa","Green Party","Parti Vert",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 1","Jarvie",N,N,"",0,448,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 1","Jarvie",N,N,"",0,448,"Storseth","","Brian","Conservative","Conservateur",Y,Y,234
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 2","Fawcett",N,N,"",0,317,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 2","Fawcett",N,N,"",0,317,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 2","Fawcett",N,N,"",0,317,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 2","Fawcett",N,N,"",0,317,"Storseth","","Brian","Conservative","Conservateur",Y,Y,158
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 3","Gladwin",N,N,"",0,445,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 3","Gladwin",N,N,"",0,445,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 3","Gladwin",N,N,"",0,445,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 3","Gladwin",N,N,"",0,445,"Storseth","","Brian","Conservative","Conservateur",Y,Y,192
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 4","Jarvie",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 4","Jarvie",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 4","Jarvie",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 4","Jarvie",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 5","Shoal Creek",N,N,"",3,127,"Fox","","Rob","Liberal","Libéral",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 5","Shoal Creek",N,N,"",3,127,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 5","Shoal Creek",N,N,"",3,127,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 5","Shoal Creek",N,N,"",3,127,"Storseth","","Brian","Conservative","Conservateur",Y,Y,71
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 6","Pembina Heights",N,N,"",0,399,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 6","Pembina Heights",N,N,"",0,399,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 6","Pembina Heights",N,N,"",0,399,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 6","Pembina Heights",N,N,"",0,399,"Storseth","","Brian","Conservative","Conservateur",Y,Y,221
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 7","Pibroch",N,N,"",1,314,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 7","Pibroch",N,N,"",1,314,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 7","Pibroch",N,N,"",1,314,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 7","Pibroch",N,N,"",1,314,"Storseth","","Brian","Conservative","Conservateur",Y,Y,164
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 8","Tawatinaw",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 8","Tawatinaw",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 8","Tawatinaw",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 8","Tawatinaw",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 9","Clyde-Tawatinaw",N,N,"",1,380,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 9","Clyde-Tawatinaw",N,N,"",1,380,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 9","Clyde-Tawatinaw",N,N,"",1,380,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 9","Clyde-Tawatinaw",N,N,"",1,380,"Storseth","","Brian","Conservative","Conservateur",Y,Y,188
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10","Westlock",N,N,"",2,445,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10","Westlock",N,N,"",2,445,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10","Westlock",N,N,"",2,445,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10","Westlock",N,N,"",2,445,"Storseth","","Brian","Conservative","Conservateur",Y,Y,227
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-1","Clyde",N,N,"",0,200,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-1","Clyde",N,N,"",0,200,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-1","Clyde",N,N,"",0,200,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-1","Clyde",N,N,"",0,200,"Storseth","","Brian","Conservative","Conservateur",Y,Y,101
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-2","Clyde",N,N,"",1,383,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-2","Clyde",N,N,"",1,383,"Grant","","Lisa","Green Party","Parti Vert",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-2","Clyde",N,N,"",1,383,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 10-2","Clyde",N,N,"",1,383,"Storseth","","Brian","Conservative","Conservateur",Y,Y,125
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 11","Westlock",N,N,"",2,388,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 11","Westlock",N,N,"",2,388,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 11","Westlock",N,N,"",2,388,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 11","Westlock",N,N,"",2,388,"Storseth","","Brian","Conservative","Conservateur",Y,Y,189
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 12","Westlock",N,N,"",0,291,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 12","Westlock",N,N,"",0,291,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 12","Westlock",N,N,"",0,291,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 12","Westlock",N,N,"",0,291,"Storseth","","Brian","Conservative","Conservateur",Y,Y,138
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 13","Westlock",N,N,"",0,371,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 13","Westlock",N,N,"",0,371,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 13","Westlock",N,N,"",0,371,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 13","Westlock",N,N,"",0,371,"Storseth","","Brian","Conservative","Conservateur",Y,Y,118
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 14","Westlock",N,N,"",0,477,"Fox","","Rob","Liberal","Libéral",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 14","Westlock",N,N,"",0,477,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 14","Westlock",N,N,"",0,477,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 14","Westlock",N,N,"",0,477,"Storseth","","Brian","Conservative","Conservateur",Y,Y,153
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15","Westlock",N,N,"",1,242,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15","Westlock",N,N,"",1,242,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15","Westlock",N,N,"",1,242,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15","Westlock",N,N,"",1,242,"Storseth","","Brian","Conservative","Conservateur",Y,Y,109
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15-1","Westlock",N,N,"",0,313,"Fox","","Rob","Liberal","Libéral",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15-1","Westlock",N,N,"",0,313,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15-1","Westlock",N,N,"",0,313,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 15-1","Westlock",N,N,"",0,313,"Storseth","","Brian","Conservative","Conservateur",Y,Y,145
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 16","Westlock",N,N,"",2,454,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 16","Westlock",N,N,"",2,454,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 16","Westlock",N,N,"",2,454,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 16","Westlock",N,N,"",2,454,"Storseth","","Brian","Conservative","Conservateur",Y,Y,125
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 17","Westlock",N,N,"",0,465,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 17","Westlock",N,N,"",0,465,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 17","Westlock",N,N,"",0,465,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 17","Westlock",N,N,"",0,465,"Storseth","","Brian","Conservative","Conservateur",Y,Y,165
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 18","Westlock",N,N,"",0,312,"Fox","","Rob","Liberal","Libéral",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 18","Westlock",N,N,"",0,312,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 18","Westlock",N,N,"",0,312,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 18","Westlock",N,N,"",0,312,"Storseth","","Brian","Conservative","Conservateur",Y,Y,114
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 19","Westlock",N,N,"",1,375,"Fox","","Rob","Liberal","Libéral",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 19","Westlock",N,N,"",1,375,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 19","Westlock",N,N,"",1,375,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 19","Westlock",N,N,"",1,375,"Storseth","","Brian","Conservative","Conservateur",Y,Y,152
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 20","Westlock",N,N,"",1,418,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 20","Westlock",N,N,"",1,418,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 20","Westlock",N,N,"",1,418,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 20","Westlock",N,N,"",1,418,"Storseth","","Brian","Conservative","Conservateur",Y,Y,238
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21","Pickardville",N,N,"",1,477,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21","Pickardville",N,N,"",1,477,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21","Pickardville",N,N,"",1,477,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21","Pickardville",N,N,"",1,477,"Storseth","","Brian","Conservative","Conservateur",Y,Y,204
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21-1","Pickardville",N,N,"",0,103,"Fox","","Rob","Liberal","Libéral",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21-1","Pickardville",N,N,"",0,103,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21-1","Pickardville",N,N,"",0,103,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 21-1","Pickardville",N,N,"",0,103,"Storseth","","Brian","Conservative","Conservateur",Y,Y,49
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 22","Vimy",N,N,"",0,445,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 22","Vimy",N,N,"",0,445,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 22","Vimy",N,N,"",0,445,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 22","Vimy",N,N,"",0,445,"Storseth","","Brian","Conservative","Conservateur",Y,Y,182
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 23","Waugh",N,N,"",0,276,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 23","Waugh",N,N,"",0,276,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 23","Waugh",N,N,"",0,276,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 23","Waugh",N,N,"",0,276,"Storseth","","Brian","Conservative","Conservateur",Y,Y,111
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 24","Busby",N,N,"",1,396,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 24","Busby",N,N,"",1,396,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 24","Busby",N,N,"",1,396,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 24","Busby",N,N,"",1,396,"Storseth","","Brian","Conservative","Conservateur",Y,Y,240
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 25","Manawan Lake",N,N,"",1,194,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 25","Manawan Lake",N,N,"",1,194,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 25","Manawan Lake",N,N,"",1,194,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 25","Manawan Lake",N,N,"",1,194,"Storseth","","Brian","Conservative","Conservateur",Y,Y,101
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 26","Legal",N,N,"",0,424,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 26","Legal",N,N,"",0,424,"Grant","","Lisa","Green Party","Parti Vert",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 26","Legal",N,N,"",0,424,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 26","Legal",N,N,"",0,424,"Storseth","","Brian","Conservative","Conservateur",Y,Y,166
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27","Legal",N,N,"",0,525,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27","Legal",N,N,"",0,525,"Grant","","Lisa","Green Party","Parti Vert",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27","Legal",N,N,"",0,525,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27","Legal",N,N,"",0,525,"Storseth","","Brian","Conservative","Conservateur",Y,Y,177
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27-1","Legal",N,N,"",0,91,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27-1","Legal",N,N,"",0,91,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27-1","Legal",N,N,"",0,91,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 27-1","Legal",N,N,"",0,91,"Storseth","","Brian","Conservative","Conservateur",Y,Y,31
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 28","Monnville",N,N,"",0,323,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 28","Monnville",N,N,"",0,323,"Grant","","Lisa","Green Party","Parti Vert",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 28","Monnville",N,N,"",0,323,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 28","Monnville",N,N,"",0,323,"Storseth","","Brian","Conservative","Conservateur",Y,Y,134
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 29","Alcomdale",N,N,"",0,442,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 29","Alcomdale",N,N,"",0,442,"Grant","","Lisa","Green Party","Parti Vert",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 29","Alcomdale",N,N,"",0,442,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 29","Alcomdale",N,N,"",0,442,"Storseth","","Brian","Conservative","Conservateur",Y,Y,205
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 30","Alexander 134",N,N,"",0,657,"Fox","","Rob","Liberal","Libéral",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 30","Alexander 134",N,N,"",0,657,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 30","Alexander 134",N,N,"",0,657,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 30","Alexander 134",N,N,"",0,657,"Storseth","","Brian","Conservative","Conservateur",Y,Y,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31A","Rivière Qui Barre",N,N,"",0,321,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31A","Rivière Qui Barre",N,N,"",0,321,"Grant","","Lisa","Green Party","Parti Vert",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31A","Rivière Qui Barre",N,N,"",0,321,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31A","Rivière Qui Barre",N,N,"",0,321,"Storseth","","Brian","Conservative","Conservateur",Y,Y,163
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31B","Rivière Qui Barre",N,N,"",1,248,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31B","Rivière Qui Barre",N,N,"",1,248,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31B","Rivière Qui Barre",N,N,"",1,248,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 31B","Rivière Qui Barre",N,N,"",1,248,"Storseth","","Brian","Conservative","Conservateur",Y,Y,121
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 32","Morinville",N,N,"",2,441,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 32","Morinville",N,N,"",2,441,"Grant","","Lisa","Green Party","Parti Vert",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 32","Morinville",N,N,"",2,441,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 32","Morinville",N,N,"",2,441,"Storseth","","Brian","Conservative","Conservateur",Y,Y,204
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 33","Morinville",N,N,"",0,546,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 33","Morinville",N,N,"",0,546,"Grant","","Lisa","Green Party","Parti Vert",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 33","Morinville",N,N,"",0,546,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 33","Morinville",N,N,"",0,546,"Storseth","","Brian","Conservative","Conservateur",Y,Y,171
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 34","Morinville",N,N,"",0,399,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 34","Morinville",N,N,"",0,399,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 34","Morinville",N,N,"",0,399,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 34","Morinville",N,N,"",0,399,"Storseth","","Brian","Conservative","Conservateur",Y,Y,112
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35","Morinville",N,N,"",1,574,"Fox","","Rob","Liberal","Libéral",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35","Morinville",N,N,"",1,574,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35","Morinville",N,N,"",1,574,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35","Morinville",N,N,"",1,574,"Storseth","","Brian","Conservative","Conservateur",Y,Y,212
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35-1","Morinville",N,N,"",0,500,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35-1","Morinville",N,N,"",0,500,"Grant","","Lisa","Green Party","Parti Vert",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35-1","Morinville",N,N,"",0,500,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 35-1","Morinville",N,N,"",0,500,"Storseth","","Brian","Conservative","Conservateur",Y,Y,188
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 36","Morinville",N,N,"",1,335,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 36","Morinville",N,N,"",1,335,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 36","Morinville",N,N,"",1,335,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 36","Morinville",N,N,"",1,335,"Storseth","","Brian","Conservative","Conservateur",Y,Y,140
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37","Morinville",N,N,"",0,464,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37","Morinville",N,N,"",0,464,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37","Morinville",N,N,"",0,464,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37","Morinville",N,N,"",0,464,"Storseth","","Brian","Conservative","Conservateur",Y,Y,180
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37-1","Morinville",N,N,"",0,363,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37-1","Morinville",N,N,"",0,363,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37-1","Morinville",N,N,"",0,363,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 37-1","Morinville",N,N,"",0,363,"Storseth","","Brian","Conservative","Conservateur",Y,Y,123
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 38","Morinville",N,N,"",1,492,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 38","Morinville",N,N,"",1,492,"Grant","","Lisa","Green Party","Parti Vert",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 38","Morinville",N,N,"",1,492,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 38","Morinville",N,N,"",1,492,"Storseth","","Brian","Conservative","Conservateur",Y,Y,171
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 39","Morinville",N,N,"",3,395,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 39","Morinville",N,N,"",3,395,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 39","Morinville",N,N,"",3,395,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 39","Morinville",N,N,"",3,395,"Storseth","","Brian","Conservative","Conservateur",Y,Y,160
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 40","Morinville",N,N,"",0,417,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 40","Morinville",N,N,"",0,417,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 40","Morinville",N,N,"",0,417,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 40","Morinville",N,N,"",0,417,"Storseth","","Brian","Conservative","Conservateur",Y,Y,145
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 41","Morinville",N,N,"",0,225,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 41","Morinville",N,N,"",0,225,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 41","Morinville",N,N,"",0,225,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 41","Morinville",N,N,"",0,225,"Storseth","","Brian","Conservative","Conservateur",Y,Y,78
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 42","Morinville",N,N,"",0,444,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 42","Morinville",N,N,"",0,444,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 42","Morinville",N,N,"",0,444,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 42","Morinville",N,N,"",0,444,"Storseth","","Brian","Conservative","Conservateur",Y,Y,143
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 43","Morinville",N,N,"",1,601,"Fox","","Rob","Liberal","Libéral",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 43","Morinville",N,N,"",1,601,"Grant","","Lisa","Green Party","Parti Vert",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 43","Morinville",N,N,"",1,601,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 43","Morinville",N,N,"",1,601,"Storseth","","Brian","Conservative","Conservateur",Y,Y,210
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44","Cardiff",N,N,"",0,436,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44","Cardiff",N,N,"",0,436,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44","Cardiff",N,N,"",0,436,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44","Cardiff",N,N,"",0,436,"Storseth","","Brian","Conservative","Conservateur",Y,Y,150
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44-1","Cardiff",N,N,"",1,102,"Fox","","Rob","Liberal","Libéral",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44-1","Cardiff",N,N,"",1,102,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44-1","Cardiff",N,N,"",1,102,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 44-1","Cardiff",N,N,"",1,102,"Storseth","","Brian","Conservative","Conservateur",Y,Y,53
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 45","Cardiff",N,N,"",1,474,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 45","Cardiff",N,N,"",1,474,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 45","Cardiff",N,N,"",1,474,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 45","Cardiff",N,N,"",1,474,"Storseth","","Brian","Conservative","Conservateur",Y,Y,201
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 46","Cardiff",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 46","Cardiff",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 46","Cardiff",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 46","Cardiff",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47","Calahoo",N,N,"",0,320,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47","Calahoo",N,N,"",0,320,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47","Calahoo",N,N,"",0,320,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47","Calahoo",N,N,"",0,320,"Storseth","","Brian","Conservative","Conservateur",Y,Y,150
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47-1","Calahoo",N,N,"",0,205,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47-1","Calahoo",N,N,"",0,205,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47-1","Calahoo",N,N,"",0,205,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 47-1","Calahoo",N,N,"",0,205,"Storseth","","Brian","Conservative","Conservateur",Y,Y,108
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 48","Calahoo",N,N,"",0,506,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 48","Calahoo",N,N,"",0,506,"Grant","","Lisa","Green Party","Parti Vert",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 48","Calahoo",N,N,"",0,506,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 48","Calahoo",N,N,"",0,506,"Storseth","","Brian","Conservative","Conservateur",Y,Y,231
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 49","Villeneuve",N,N,"",0,464,"Fox","","Rob","Liberal","Libéral",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 49","Villeneuve",N,N,"",0,464,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 49","Villeneuve",N,N,"",0,464,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 49","Villeneuve",N,N,"",0,464,"Storseth","","Brian","Conservative","Conservateur",Y,Y,215
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 50","Villeneuve",N,N,"",0,396,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 50","Villeneuve",N,N,"",0,396,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 50","Villeneuve",N,N,"",0,396,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 50","Villeneuve",N,N,"",0,396,"Storseth","","Brian","Conservative","Conservateur",Y,Y,190
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 51","Volmer",N,N,"",1,370,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 51","Volmer",N,N,"",1,370,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 51","Volmer",N,N,"",1,370,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 51","Volmer",N,N,"",1,370,"Storseth","","Brian","Conservative","Conservateur",Y,Y,174
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52","Sturgeon No. 90",N,N,"",0,333,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52","Sturgeon No. 90",N,N,"",0,333,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52","Sturgeon No. 90",N,N,"",0,333,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52","Sturgeon No. 90",N,N,"",0,333,"Storseth","","Brian","Conservative","Conservateur",Y,Y,140
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52-1","Sturgeon No. 90",N,N,"",0,364,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52-1","Sturgeon No. 90",N,N,"",0,364,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52-1","Sturgeon No. 90",N,N,"",0,364,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 52-1","Sturgeon No. 90",N,N,"",0,364,"Storseth","","Brian","Conservative","Conservateur",Y,Y,188
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 53","Carbondale",N,N,"",1,335,"Fox","","Rob","Liberal","Libéral",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 53","Carbondale",N,N,"",1,335,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 53","Carbondale",N,N,"",1,335,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 53","Carbondale",N,N,"",1,335,"Storseth","","Brian","Conservative","Conservateur",Y,Y,155
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54","Excelsior",N,N,"",0,227,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54","Excelsior",N,N,"",0,227,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54","Excelsior",N,N,"",0,227,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54","Excelsior",N,N,"",0,227,"Storseth","","Brian","Conservative","Conservateur",Y,Y,94
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54-1","Excelsior",N,N,"",0,277,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54-1","Excelsior",N,N,"",0,277,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54-1","Excelsior",N,N,"",0,277,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 54-1","Excelsior",N,N,"",0,277,"Storseth","","Brian","Conservative","Conservateur",Y,Y,119
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 55","St. Albert Settlement",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 55","St. Albert Settlement",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 55","St. Albert Settlement",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 55","St. Albert Settlement",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 56","Sturgeon No. 90",N,N,"",0,865,"Fox","","Rob","Liberal","Libéral",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 56","Sturgeon No. 90",N,N,"",0,865,"Grant","","Lisa","Green Party","Parti Vert",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 56","Sturgeon No. 90",N,N,"",0,865,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 56","Sturgeon No. 90",N,N,"",0,865,"Storseth","","Brian","Conservative","Conservateur",Y,Y,359
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 57","St. Albert Settlement",N,N,"",0,372,"Fox","","Rob","Liberal","Libéral",N,N,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 57","St. Albert Settlement",N,N,"",0,372,"Grant","","Lisa","Green Party","Parti Vert",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 57","St. Albert Settlement",N,N,"",0,372,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 57","St. Albert Settlement",N,N,"",0,372,"Storseth","","Brian","Conservative","Conservateur",Y,Y,189
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 58","Lancaster Park",N,N,"",1,353,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 58","Lancaster Park",N,N,"",1,353,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 58","Lancaster Park",N,N,"",1,353,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 58","Lancaster Park",N,N,"",1,353,"Storseth","","Brian","Conservative","Conservateur",Y,Y,102
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 59","Lancaster Park",N,N,"",0,436,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 59","Lancaster Park",N,N,"",0,436,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 59","Lancaster Park",N,N,"",0,436,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 59","Lancaster Park",N,N,"",0,436,"Storseth","","Brian","Conservative","Conservateur",Y,Y,111
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 60","Lancaster Park",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 60","Lancaster Park",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 60","Lancaster Park",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 60","Lancaster Park",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 61","Waybrook",N,N,"",0,279,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 61","Waybrook",N,N,"",0,279,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 61","Waybrook",N,N,"",0,279,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 61","Waybrook",N,N,"",0,279,"Storseth","","Brian","Conservative","Conservateur",Y,Y,113
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 62","Bon Accord",N,N,"",0,290,"Fox","","Rob","Liberal","Libéral",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 62","Bon Accord",N,N,"",0,290,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 62","Bon Accord",N,N,"",0,290,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 62","Bon Accord",N,N,"",0,290,"Storseth","","Brian","Conservative","Conservateur",Y,Y,157
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 63","Coronado",N,N,"",1,597,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 63","Coronado",N,N,"",1,597,"Grant","","Lisa","Green Party","Parti Vert",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 63","Coronado",N,N,"",1,597,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 63","Coronado",N,N,"",1,597,"Storseth","","Brian","Conservative","Conservateur",Y,Y,274
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 64","Redwater",N,N,"",1,268,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 64","Redwater",N,N,"",1,268,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 64","Redwater",N,N,"",1,268,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 64","Redwater",N,N,"",1,268,"Storseth","","Brian","Conservative","Conservateur",Y,Y,135
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 65","Redwater",N,N,"",0,469,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 65","Redwater",N,N,"",0,469,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 65","Redwater",N,N,"",0,469,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 65","Redwater",N,N,"",0,469,"Storseth","","Brian","Conservative","Conservateur",Y,Y,204
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 66","Redwater",N,N,"",1,345,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 66","Redwater",N,N,"",1,345,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 66","Redwater",N,N,"",1,345,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 66","Redwater",N,N,"",1,345,"Storseth","","Brian","Conservative","Conservateur",Y,Y,106
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 67","Redwater",N,N,"",0,345,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 67","Redwater",N,N,"",0,345,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 67","Redwater",N,N,"",0,345,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 67","Redwater",N,N,"",0,345,"Storseth","","Brian","Conservative","Conservateur",Y,Y,143
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 68","Redwater",N,N,"",0,348,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 68","Redwater",N,N,"",0,348,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 68","Redwater",N,N,"",0,348,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 68","Redwater",N,N,"",0,348,"Storseth","","Brian","Conservative","Conservateur",Y,Y,127
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 69","Amelia",N,N,"",0,203,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 69","Amelia",N,N,"",0,203,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 69","Amelia",N,N,"",0,203,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 69","Amelia",N,N,"",0,203,"Storseth","","Brian","Conservative","Conservateur",Y,Y,106
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 70","Gibbons",N,N,"",4,241,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 70","Gibbons",N,N,"",4,241,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 70","Gibbons",N,N,"",4,241,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 70","Gibbons",N,N,"",4,241,"Storseth","","Brian","Conservative","Conservateur",Y,Y,112
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 71","New Lunnon",N,N,"",0,308,"Fox","","Rob","Liberal","Libéral",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 71","New Lunnon",N,N,"",0,308,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 71","New Lunnon",N,N,"",0,308,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 71","New Lunnon",N,N,"",0,308,"Storseth","","Brian","Conservative","Conservateur",Y,Y,163
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 72","Gibbons",N,N,"",0,268,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 72","Gibbons",N,N,"",0,268,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 72","Gibbons",N,N,"",0,268,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 72","Gibbons",N,N,"",0,268,"Storseth","","Brian","Conservative","Conservateur",Y,Y,96
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 73","Gibbons",N,N,"",0,329,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 73","Gibbons",N,N,"",0,329,"Grant","","Lisa","Green Party","Parti Vert",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 73","Gibbons",N,N,"",0,329,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 73","Gibbons",N,N,"",0,329,"Storseth","","Brian","Conservative","Conservateur",Y,Y,132
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 74","Gibbons",N,N,"",1,364,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 74","Gibbons",N,N,"",1,364,"Grant","","Lisa","Green Party","Parti Vert",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 74","Gibbons",N,N,"",1,364,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 74","Gibbons",N,N,"",1,364,"Storseth","","Brian","Conservative","Conservateur",Y,Y,120
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 75","Gibbons",N,N,"",0,304,"Fox","","Rob","Liberal","Libéral",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 75","Gibbons",N,N,"",0,304,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 75","Gibbons",N,N,"",0,304,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 75","Gibbons",N,N,"",0,304,"Storseth","","Brian","Conservative","Conservateur",Y,Y,104
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76","Gibbons",N,N,"",0,512,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76","Gibbons",N,N,"",0,512,"Grant","","Lisa","Green Party","Parti Vert",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76","Gibbons",N,N,"",0,512,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76","Gibbons",N,N,"",0,512,"Storseth","","Brian","Conservative","Conservateur",Y,Y,147
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76-1","Gibbons",N,N,"",2,360,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76-1","Gibbons",N,N,"",2,360,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76-1","Gibbons",N,N,"",2,360,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 76-1","Gibbons",N,N,"",2,360,"Storseth","","Brian","Conservative","Conservateur",Y,Y,137
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 77","Bon Accord",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 77","Bon Accord",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 77","Bon Accord",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 77","Bon Accord",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 78","Bon Accord",N,N,"",1,486,"Fox","","Rob","Liberal","Libéral",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 78","Bon Accord",N,N,"",1,486,"Grant","","Lisa","Green Party","Parti Vert",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 78","Bon Accord",N,N,"",1,486,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 78","Bon Accord",N,N,"",1,486,"Storseth","","Brian","Conservative","Conservateur",Y,Y,168
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79","Bon Accord",N,N,"",1,396,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79","Bon Accord",N,N,"",1,396,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79","Bon Accord",N,N,"",1,396,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79","Bon Accord",N,N,"",1,396,"Storseth","","Brian","Conservative","Conservateur",Y,Y,125
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79-1","Bon Accord",N,N,"",0,262,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79-1","Bon Accord",N,N,"",0,262,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79-1","Bon Accord",N,N,"",0,262,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 79-1","Bon Accord",N,N,"",0,262,"Storseth","","Brian","Conservative","Conservateur",Y,Y,96
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 80","Bon Accord",N,N,"",6,370,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 80","Bon Accord",N,N,"",6,370,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 80","Bon Accord",N,N,"",6,370,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 80","Bon Accord",N,N,"",6,370,"Storseth","","Brian","Conservative","Conservateur",Y,Y,169
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 81","Duagh",N,N,"",2,204,"Fox","","Rob","Liberal","Libéral",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 81","Duagh",N,N,"",2,204,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 81","Duagh",N,N,"",2,204,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 81","Duagh",N,N,"",2,204,"Storseth","","Brian","Conservative","Conservateur",Y,Y,117
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 82","Lamoureux",N,N,"",1,581,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 82","Lamoureux",N,N,"",1,581,"Grant","","Lisa","Green Party","Parti Vert",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 82","Lamoureux",N,N,"",1,581,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 82","Lamoureux",N,N,"",1,581,"Storseth","","Brian","Conservative","Conservateur",Y,Y,200
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 83","Abee",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 83","Abee",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 83","Abee",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 83","Abee",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 84","Alpen Siding",N,N,"",1,391,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 84","Alpen Siding",N,N,"",1,391,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 84","Alpen Siding",N,N,"",1,391,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 84","Alpen Siding",N,N,"",1,391,"Storseth","","Brian","Conservative","Conservateur",Y,Y,197
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 85","Newbrook",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 85","Newbrook",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 85","Newbrook",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 85","Newbrook",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 86","Hollow Lake",N,N,"",1,252,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 86","Hollow Lake",N,N,"",1,252,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 86","Hollow Lake",N,N,"",1,252,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 86","Hollow Lake",N,N,"",1,252,"Storseth","","Brian","Conservative","Conservateur",Y,Y,99
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 87","Weasel Creek",N,N,"",0,158,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 87","Weasel Creek",N,N,"",0,158,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 87","Weasel Creek",N,N,"",0,158,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 87","Weasel Creek",N,N,"",0,158,"Storseth","","Brian","Conservative","Conservateur",Y,Y,83
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 88","Thorhild",N,N,"",0,192,"Fox","","Rob","Liberal","Libéral",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 88","Thorhild",N,N,"",0,192,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 88","Thorhild",N,N,"",0,192,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 88","Thorhild",N,N,"",0,192,"Storseth","","Brian","Conservative","Conservateur",Y,Y,106
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 89","Thorhild",N,N,"",0,474,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 89","Thorhild",N,N,"",0,474,"Grant","","Lisa","Green Party","Parti Vert",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 89","Thorhild",N,N,"",0,474,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 89","Thorhild",N,N,"",0,474,"Storseth","","Brian","Conservative","Conservateur",Y,Y,168
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 90","Thorhild",N,N,"",0,493,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 90","Thorhild",N,N,"",0,493,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 90","Thorhild",N,N,"",0,493,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 90","Thorhild",N,N,"",0,493,"Storseth","","Brian","Conservative","Conservateur",Y,Y,231
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 91","Fairydell",N,N,"",0,279,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 91","Fairydell",N,N,"",0,279,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 91","Fairydell",N,N,"",0,279,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 91","Fairydell",N,N,"",0,279,"Storseth","","Brian","Conservative","Conservateur",Y,Y,141
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 92","Egremont",N,N,"",2,422,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 92","Egremont",N,N,"",2,422,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 92","Egremont",N,N,"",2,422,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 92","Egremont",N,N,"",2,422,"Storseth","","Brian","Conservative","Conservateur",Y,Y,115
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 93","Radway",N,N,"",1,401,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 93","Radway",N,N,"",1,401,"Grant","","Lisa","Green Party","Parti Vert",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 93","Radway",N,N,"",1,401,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 93","Radway",N,N,"",1,401,"Storseth","","Brian","Conservative","Conservateur",Y,Y,187
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 94","Waskatenau",N,N,"",0,304,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 94","Waskatenau",N,N,"",0,304,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 94","Waskatenau",N,N,"",0,304,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 94","Waskatenau",N,N,"",0,304,"Storseth","","Brian","Conservative","Conservateur",Y,Y,122
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 95","Warspite",N,N,"",0,288,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 95","Warspite",N,N,"",0,288,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 95","Warspite",N,N,"",0,288,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 95","Warspite",N,N,"",0,288,"Storseth","","Brian","Conservative","Conservateur",Y,Y,113
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 96","Buffalo Lake Metis Settlement",N,N,"",1,441,"Fox","","Rob","Liberal","Libéral",N,N,31
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 96","Buffalo Lake Metis Settlement",N,N,"",1,441,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 96","Buffalo Lake Metis Settlement",N,N,"",1,441,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 96","Buffalo Lake Metis Settlement",N,N,"",1,441,"Storseth","","Brian","Conservative","Conservateur",Y,Y,52
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 97","Kikino",N,N,"",1,559,"Fox","","Rob","Liberal","Libéral",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 97","Kikino",N,N,"",1,559,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 97","Kikino",N,N,"",1,559,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 97","Kikino",N,N,"",1,559,"Storseth","","Brian","Conservative","Conservateur",Y,Y,89
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 98","Kikino",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 98","Kikino",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 98","Kikino",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 98","Kikino",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 99","Rich Lake",N,N,"",0,189,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 99","Rich Lake",N,N,"",0,189,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 99","Rich Lake",N,N,"",0,189,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 99","Rich Lake",N,N,"",0,189,"Storseth","","Brian","Conservative","Conservateur",Y,Y,104
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 100","Spedden",N,N,"",0,309,"Fox","","Rob","Liberal","Libéral",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 100","Spedden",N,N,"",0,309,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 100","Spedden",N,N,"",0,309,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 100","Spedden",N,N,"",0,309,"Storseth","","Brian","Conservative","Conservateur",Y,Y,150
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 101","Vilna",N,N,"",0,244,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 101","Vilna",N,N,"",0,244,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 101","Vilna",N,N,"",0,244,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 101","Vilna",N,N,"",0,244,"Storseth","","Brian","Conservative","Conservateur",Y,Y,114
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 102","Vilna",N,N,"",1,275,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 102","Vilna",N,N,"",1,275,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 102","Vilna",N,N,"",1,275,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 102","Vilna",N,N,"",1,275,"Storseth","","Brian","Conservative","Conservateur",Y,Y,88
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 103","Edwand",N,N,"",0,304,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 103","Edwand",N,N,"",0,304,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 103","Edwand",N,N,"",0,304,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 103","Edwand",N,N,"",0,304,"Storseth","","Brian","Conservative","Conservateur",Y,Y,141
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 104","Smoky Lake",N,N,"",0,276,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 104","Smoky Lake",N,N,"",0,276,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 104","Smoky Lake",N,N,"",0,276,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 104","Smoky Lake",N,N,"",0,276,"Storseth","","Brian","Conservative","Conservateur",Y,Y,116
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105","Smoky Lake",N,N,"",0,330,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105","Smoky Lake",N,N,"",0,330,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105","Smoky Lake",N,N,"",0,330,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105","Smoky Lake",N,N,"",0,330,"Storseth","","Brian","Conservative","Conservateur",Y,Y,107
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105-1","Smoky Lake",N,N,"",0,203,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105-1","Smoky Lake",N,N,"",0,203,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105-1","Smoky Lake",N,N,"",0,203,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 105-1","Smoky Lake",N,N,"",0,203,"Storseth","","Brian","Conservative","Conservateur",Y,Y,72
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 106","Victoria Settlement",N,N,"",0,264,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 106","Victoria Settlement",N,N,"",0,264,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 106","Victoria Settlement",N,N,"",0,264,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 106","Victoria Settlement",N,N,"",0,264,"Storseth","","Brian","Conservative","Conservateur",Y,Y,96
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 107","Bellis",N,N,"",0,216,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 107","Bellis",N,N,"",0,216,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 107","Bellis",N,N,"",0,216,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 107","Bellis",N,N,"",0,216,"Storseth","","Brian","Conservative","Conservateur",Y,Y,107
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 108","Stry",N,N,"",1,201,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 108","Stry",N,N,"",1,201,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 108","Stry",N,N,"",1,201,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 108","Stry",N,N,"",1,201,"Storseth","","Brian","Conservative","Conservateur",Y,Y,94
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 109","Saddle Lake 125",N,N,"",1,937,"Fox","","Rob","Liberal","Libéral",N,N,29
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 109","Saddle Lake 125",N,N,"",1,937,"Grant","","Lisa","Green Party","Parti Vert",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 109","Saddle Lake 125",N,N,"",1,937,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,121
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 109","Saddle Lake 125",N,N,"",1,937,"Storseth","","Brian","Conservative","Conservateur",Y,Y,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110","La Corey",N,N,"",0,448,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110","La Corey",N,N,"",0,448,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110","La Corey",N,N,"",0,448,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110","La Corey",N,N,"",0,448,"Storseth","","Brian","Conservative","Conservateur",Y,Y,213
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110-1","La Corey",N,N,"",1,320,"Fox","","Rob","Liberal","Libéral",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110-1","La Corey",N,N,"",1,320,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110-1","La Corey",N,N,"",1,320,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 110-1","La Corey",N,N,"",1,320,"Storseth","","Brian","Conservative","Conservateur",Y,Y,148
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 111","Fort Kent",N,N,"",0,408,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 111","Fort Kent",N,N,"",0,408,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 111","Fort Kent",N,N,"",0,408,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 111","Fort Kent",N,N,"",0,408,"Storseth","","Brian","Conservative","Conservateur",Y,Y,217
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 112","Bonnyville",N,N,"",0,392,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 112","Bonnyville",N,N,"",0,392,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 112","Bonnyville",N,N,"",0,392,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 112","Bonnyville",N,N,"",0,392,"Storseth","","Brian","Conservative","Conservateur",Y,Y,191
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 113","Bonnyville",N,N,"",1,313,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 113","Bonnyville",N,N,"",1,313,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 113","Bonnyville",N,N,"",1,313,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 113","Bonnyville",N,N,"",1,313,"Storseth","","Brian","Conservative","Conservateur",Y,Y,159
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 114","Glendon",N,N,"",0,427,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 114","Glendon",N,N,"",0,427,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 114","Glendon",N,N,"",0,427,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 114","Glendon",N,N,"",0,427,"Storseth","","Brian","Conservative","Conservateur",Y,Y,232
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 115","Glendon",N,N,"",0,369,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 115","Glendon",N,N,"",0,369,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 115","Glendon",N,N,"",0,369,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 115","Glendon",N,N,"",0,369,"Storseth","","Brian","Conservative","Conservateur",Y,Y,148
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 116","St. Lina",N,N,"",0,470,"Fox","","Rob","Liberal","Libéral",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 116","St. Lina",N,N,"",0,470,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 116","St. Lina",N,N,"",0,470,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 116","St. Lina",N,N,"",0,470,"Storseth","","Brian","Conservative","Conservateur",Y,Y,224
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 117","White Fish Lake 128",N,N,"",0,694,"Fox","","Rob","Liberal","Libéral",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 117","White Fish Lake 128",N,N,"",0,694,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 117","White Fish Lake 128",N,N,"",0,694,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 117","White Fish Lake 128",N,N,"",0,694,"Storseth","","Brian","Conservative","Conservateur",Y,Y,41
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 118","Mallaig",N,N,"",2,401,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 118","Mallaig",N,N,"",2,401,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 118","Mallaig",N,N,"",2,401,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 118","Mallaig",N,N,"",2,401,"Storseth","","Brian","Conservative","Conservateur",Y,Y,231
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 119","St. Vincent",N,N,"",1,356,"Fox","","Rob","Liberal","Libéral",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 119","St. Vincent",N,N,"",1,356,"Grant","","Lisa","Green Party","Parti Vert",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 119","St. Vincent",N,N,"",1,356,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 119","St. Vincent",N,N,"",1,356,"Storseth","","Brian","Conservative","Conservateur",Y,Y,139
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 120","Beacon Corner",N,N,"",1,290,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 120","Beacon Corner",N,N,"",1,290,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 120","Beacon Corner",N,N,"",1,290,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 120","Beacon Corner",N,N,"",1,290,"Storseth","","Brian","Conservative","Conservateur",Y,Y,153
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 121","Hoselaw",N,N,"",1,239,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 121","Hoselaw",N,N,"",1,239,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 121","Hoselaw",N,N,"",1,239,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 121","Hoselaw",N,N,"",1,239,"Storseth","","Brian","Conservative","Conservateur",Y,Y,136
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122","Bonnyville Beach",N,N,"",1,247,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122","Bonnyville Beach",N,N,"",1,247,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122","Bonnyville Beach",N,N,"",1,247,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122","Bonnyville Beach",N,N,"",1,247,"Storseth","","Brian","Conservative","Conservateur",Y,Y,134
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122-1","Bonnyville Beach",N,N,"",0,498,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122-1","Bonnyville Beach",N,N,"",0,498,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122-1","Bonnyville Beach",N,N,"",0,498,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 122-1","Bonnyville Beach",N,N,"",0,498,"Storseth","","Brian","Conservative","Conservateur",Y,Y,251
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 123","Bonnyville",N,N,"",0,368,"Fox","","Rob","Liberal","Libéral",N,N,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 123","Bonnyville",N,N,"",0,368,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 123","Bonnyville",N,N,"",0,368,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 123","Bonnyville",N,N,"",0,368,"Storseth","","Brian","Conservative","Conservateur",Y,Y,97
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 124","Bonnyville",N,N,"",3,562,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 124","Bonnyville",N,N,"",3,562,"Grant","","Lisa","Green Party","Parti Vert",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 124","Bonnyville",N,N,"",3,562,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 124","Bonnyville",N,N,"",3,562,"Storseth","","Brian","Conservative","Conservateur",Y,Y,128
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 125","Bonnyville",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 125","Bonnyville",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 125","Bonnyville",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 125","Bonnyville",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126","Bonnyville",N,N,"",2,527,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126","Bonnyville",N,N,"",2,527,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126","Bonnyville",N,N,"",2,527,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126","Bonnyville",N,N,"",2,527,"Storseth","","Brian","Conservative","Conservateur",Y,Y,117
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126-1","Bonnyville",N,N,"",1,267,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126-1","Bonnyville",N,N,"",1,267,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126-1","Bonnyville",N,N,"",1,267,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 126-1","Bonnyville",N,N,"",1,267,"Storseth","","Brian","Conservative","Conservateur",Y,Y,88
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127","Bonnyville",N,N,"",1,426,"Fox","","Rob","Liberal","Libéral",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127","Bonnyville",N,N,"",1,426,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127","Bonnyville",N,N,"",1,426,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127","Bonnyville",N,N,"",1,426,"Storseth","","Brian","Conservative","Conservateur",Y,Y,104
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127-1","Bonnyville",N,N,"",0,189,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127-1","Bonnyville",N,N,"",0,189,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127-1","Bonnyville",N,N,"",0,189,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 127-1","Bonnyville",N,N,"",0,189,"Storseth","","Brian","Conservative","Conservateur",Y,Y,82
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 128","Bonnyville",N,N,"",0,302,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 128","Bonnyville",N,N,"",0,302,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 128","Bonnyville",N,N,"",0,302,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 128","Bonnyville",N,N,"",0,302,"Storseth","","Brian","Conservative","Conservateur",Y,Y,85
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 129","Bonnyville",N,N,"",0,555,"Fox","","Rob","Liberal","Libéral",N,N,34
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 129","Bonnyville",N,N,"",0,555,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 129","Bonnyville",N,N,"",0,555,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 129","Bonnyville",N,N,"",0,555,"Storseth","","Brian","Conservative","Conservateur",Y,Y,187
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 130","Bonnyville",N,N,"",0,447,"Fox","","Rob","Liberal","Libéral",N,N,24
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 130","Bonnyville",N,N,"",0,447,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 130","Bonnyville",N,N,"",0,447,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 130","Bonnyville",N,N,"",0,447,"Storseth","","Brian","Conservative","Conservateur",Y,Y,150
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131","Bonnyville",N,N,"",0,392,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131","Bonnyville",N,N,"",0,392,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131","Bonnyville",N,N,"",0,392,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131","Bonnyville",N,N,"",0,392,"Storseth","","Brian","Conservative","Conservateur",Y,Y,172
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131-1","Bonnyville",N,N,"",0,366,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131-1","Bonnyville",N,N,"",0,366,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131-1","Bonnyville",N,N,"",0,366,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 131-1","Bonnyville",N,N,"",0,366,"Storseth","","Brian","Conservative","Conservateur",Y,Y,139
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 132","Kehiwin 123",N,N,"",0,521,"Fox","","Rob","Liberal","Libéral",N,N,27
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 132","Kehiwin 123",N,N,"",0,521,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 132","Kehiwin 123",N,N,"",0,521,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 132","Kehiwin 123",N,N,"",0,521,"Storseth","","Brian","Conservative","Conservateur",Y,Y,29
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133","Muriel Lake",N,N,"",1,374,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133","Muriel Lake",N,N,"",1,374,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133","Muriel Lake",N,N,"",1,374,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133","Muriel Lake",N,N,"",1,374,"Storseth","","Brian","Conservative","Conservateur",Y,Y,163
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133-1","Muriel Lake",N,N,"",0,241,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133-1","Muriel Lake",N,N,"",0,241,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133-1","Muriel Lake",N,N,"",0,241,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 133-1","Muriel Lake",N,N,"",0,241,"Storseth","","Brian","Conservative","Conservateur",Y,Y,115
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134","Happy Hollow",N,N,"",0,580,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134","Happy Hollow",N,N,"",0,580,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134","Happy Hollow",N,N,"",0,580,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134","Happy Hollow",N,N,"",0,580,"Storseth","","Brian","Conservative","Conservateur",Y,Y,241
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134-1","Happy Hollow",N,N,"",0,263,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134-1","Happy Hollow",N,N,"",0,263,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134-1","Happy Hollow",N,N,"",0,263,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 134-1","Happy Hollow",N,N,"",0,263,"Storseth","","Brian","Conservative","Conservateur",Y,Y,101
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135","Cold Lake",N,N,"",1,477,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135","Cold Lake",N,N,"",1,477,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135","Cold Lake",N,N,"",1,477,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135","Cold Lake",N,N,"",1,477,"Storseth","","Brian","Conservative","Conservateur",Y,Y,184
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135-1","Cold Lake",N,N,"",1,422,"Fox","","Rob","Liberal","Libéral",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135-1","Cold Lake",N,N,"",1,422,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135-1","Cold Lake",N,N,"",1,422,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 135-1","Cold Lake",N,N,"",1,422,"Storseth","","Brian","Conservative","Conservateur",Y,Y,189
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 136","Cold Lake",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 136","Cold Lake",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 136","Cold Lake",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 136","Cold Lake",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137","Cold Lake",N,N,"",0,529,"Fox","","Rob","Liberal","Libéral",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137","Cold Lake",N,N,"",0,529,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137","Cold Lake",N,N,"",0,529,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137","Cold Lake",N,N,"",0,529,"Storseth","","Brian","Conservative","Conservateur",Y,Y,195
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137-1","Cold Lake",N,N,"",1,440,"Fox","","Rob","Liberal","Libéral",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137-1","Cold Lake",N,N,"",1,440,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137-1","Cold Lake",N,N,"",1,440,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 137-1","Cold Lake",N,N,"",1,440,"Storseth","","Brian","Conservative","Conservateur",Y,Y,152
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 138","Cold Lake",N,N,"",0,483,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 138","Cold Lake",N,N,"",0,483,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 138","Cold Lake",N,N,"",0,483,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 138","Cold Lake",N,N,"",0,483,"Storseth","","Brian","Conservative","Conservateur",Y,Y,187
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 139","Cold Lake",N,N,"",0,708,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 139","Cold Lake",N,N,"",0,708,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 139","Cold Lake",N,N,"",0,708,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 139","Cold Lake",N,N,"",0,708,"Storseth","","Brian","Conservative","Conservateur",Y,Y,190
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 140","Cold Lake",N,N,"",2,459,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 140","Cold Lake",N,N,"",2,459,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 140","Cold Lake",N,N,"",2,459,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 140","Cold Lake",N,N,"",2,459,"Storseth","","Brian","Conservative","Conservateur",Y,Y,141
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 141","Cold Lake",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 141","Cold Lake",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 141","Cold Lake",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 141","Cold Lake",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142","Cold Lake",N,N,"",0,365,"Fox","","Rob","Liberal","Libéral",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142","Cold Lake",N,N,"",0,365,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142","Cold Lake",N,N,"",0,365,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142","Cold Lake",N,N,"",0,365,"Storseth","","Brian","Conservative","Conservateur",Y,Y,132
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142-1","Cold Lake",N,N,"",1,357,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142-1","Cold Lake",N,N,"",1,357,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142-1","Cold Lake",N,N,"",1,357,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 142-1","Cold Lake",N,N,"",1,357,"Storseth","","Brian","Conservative","Conservateur",Y,Y,141
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 143","Cold Lake",N,N,"",3,243,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 143","Cold Lake",N,N,"",3,243,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 143","Cold Lake",N,N,"",3,243,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 143","Cold Lake",N,N,"",3,243,"Storseth","","Brian","Conservative","Conservateur",Y,Y,139
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144","Cold Lake",N,N,"",0,620,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144","Cold Lake",N,N,"",0,620,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144","Cold Lake",N,N,"",0,620,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144","Cold Lake",N,N,"",0,620,"Storseth","","Brian","Conservative","Conservateur",Y,Y,147
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144-1","Cold Lake",N,N,"",2,495,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144-1","Cold Lake",N,N,"",2,495,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144-1","Cold Lake",N,N,"",2,495,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 144-1","Cold Lake",N,N,"",2,495,"Storseth","","Brian","Conservative","Conservateur",Y,Y,138
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 145","Cold Lake",N,N,"",1,487,"Fox","","Rob","Liberal","Libéral",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 145","Cold Lake",N,N,"",1,487,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 145","Cold Lake",N,N,"",1,487,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 145","Cold Lake",N,N,"",1,487,"Storseth","","Brian","Conservative","Conservateur",Y,Y,164
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 146","Cold Lake",N,N,"",0,527,"Fox","","Rob","Liberal","Libéral",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 146","Cold Lake",N,N,"",0,527,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 146","Cold Lake",N,N,"",0,527,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 146","Cold Lake",N,N,"",0,527,"Storseth","","Brian","Conservative","Conservateur",Y,Y,160
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147","Cold Lake",N,N,"",0,378,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147","Cold Lake",N,N,"",0,378,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147","Cold Lake",N,N,"",0,378,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147","Cold Lake",N,N,"",0,378,"Storseth","","Brian","Conservative","Conservateur",Y,Y,94
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147-1","Cold Lake",N,N,"",0,193,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147-1","Cold Lake",N,N,"",0,193,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147-1","Cold Lake",N,N,"",0,193,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 147-1","Cold Lake",N,N,"",0,193,"Storseth","","Brian","Conservative","Conservateur",Y,Y,50
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148","Cold Lake",N,N,"",0,414,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148","Cold Lake",N,N,"",0,414,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148","Cold Lake",N,N,"",0,414,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148","Cold Lake",N,N,"",0,414,"Storseth","","Brian","Conservative","Conservateur",Y,Y,143
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148-1","Cold Lake",N,N,"",0,243,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148-1","Cold Lake",N,N,"",0,243,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148-1","Cold Lake",N,N,"",0,243,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 148-1","Cold Lake",N,N,"",0,243,"Storseth","","Brian","Conservative","Conservateur",Y,Y,85
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 149","Cold Lake",N,N,"",0,531,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 149","Cold Lake",N,N,"",0,531,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 149","Cold Lake",N,N,"",0,531,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 149","Cold Lake",N,N,"",0,531,"Storseth","","Brian","Conservative","Conservateur",Y,Y,214
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 150","Cold Lake",N,N,"",2,488,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 150","Cold Lake",N,N,"",2,488,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 150","Cold Lake",N,N,"",2,488,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 150","Cold Lake",N,N,"",2,488,"Storseth","","Brian","Conservative","Conservateur",Y,Y,135
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 151","Cold Lake",N,N,"",1,354,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 151","Cold Lake",N,N,"",1,354,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 151","Cold Lake",N,N,"",1,354,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 151","Cold Lake",N,N,"",1,354,"Storseth","","Brian","Conservative","Conservateur",Y,Y,172
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 152","Cold Lake",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 152","Cold Lake",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 152","Cold Lake",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 152","Cold Lake",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 153","Cold Lake",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 153","Cold Lake",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 153","Cold Lake",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 153","Cold Lake",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154","Ardmore",N,N,"",0,318,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154","Ardmore",N,N,"",0,318,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154","Ardmore",N,N,"",0,318,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154","Ardmore",N,N,"",0,318,"Storseth","","Brian","Conservative","Conservateur",Y,Y,155
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154-1","Ardmore",N,N,"",1,387,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154-1","Ardmore",N,N,"",1,387,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154-1","Ardmore",N,N,"",1,387,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 154-1","Ardmore",N,N,"",1,387,"Storseth","","Brian","Conservative","Conservateur",Y,Y,157
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 155","Cold Lake 149",N,N,"",1,440,"Fox","","Rob","Liberal","Libéral",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 155","Cold Lake 149",N,N,"",1,440,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 155","Cold Lake 149",N,N,"",1,440,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 155","Cold Lake 149",N,N,"",1,440,"Storseth","","Brian","Conservative","Conservateur",Y,Y,23
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156","Cherry Grove",N,N,"",1,256,"Fox","","Rob","Liberal","Libéral",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156","Cherry Grove",N,N,"",1,256,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156","Cherry Grove",N,N,"",1,256,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156","Cherry Grove",N,N,"",1,256,"Storseth","","Brian","Conservative","Conservateur",Y,Y,131
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156-1","Cherry Grove",N,N,"",0,349,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156-1","Cherry Grove",N,N,"",0,349,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156-1","Cherry Grove",N,N,"",0,349,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 156-1","Cherry Grove",N,N,"",0,349,"Storseth","","Brian","Conservative","Conservateur",Y,Y,163
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 157","Beaverdam",N,N,"",0,363,"Fox","","Rob","Liberal","Libéral",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 157","Beaverdam",N,N,"",0,363,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 157","Beaverdam",N,N,"",0,363,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 157","Beaverdam",N,N,"",0,363,"Storseth","","Brian","Conservative","Conservateur",Y,Y,123
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 158","Ashmont",N,N,"",1,484,"Fox","","Rob","Liberal","Libéral",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 158","Ashmont",N,N,"",1,484,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 158","Ashmont",N,N,"",1,484,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 158","Ashmont",N,N,"",1,484,"Storseth","","Brian","Conservative","Conservateur",Y,Y,200
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 159","Owlseye",N,N,"",0,384,"Fox","","Rob","Liberal","Libéral",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 159","Owlseye",N,N,"",0,384,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 159","Owlseye",N,N,"",0,384,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 159","Owlseye",N,N,"",0,384,"Storseth","","Brian","Conservative","Conservateur",Y,Y,174
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 160","St. Paul",N,N,"",0,385,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 160","St. Paul",N,N,"",0,385,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 160","St. Paul",N,N,"",0,385,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 160","St. Paul",N,N,"",0,385,"Storseth","","Brian","Conservative","Conservateur",Y,Y,96
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 161","St. Paul",N,N,"",0,456,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 161","St. Paul",N,N,"",0,456,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 161","St. Paul",N,N,"",0,456,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 161","St. Paul",N,N,"",0,456,"Storseth","","Brian","Conservative","Conservateur",Y,Y,171
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 162","St. Paul",N,N,"",0,262,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 162","St. Paul",N,N,"",0,262,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 162","St. Paul",N,N,"",0,262,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 162","St. Paul",N,N,"",0,262,"Storseth","","Brian","Conservative","Conservateur",Y,Y,79
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 163","St. Paul",N,N,"",2,391,"Fox","","Rob","Liberal","Libéral",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 163","St. Paul",N,N,"",2,391,"Grant","","Lisa","Green Party","Parti Vert",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 163","St. Paul",N,N,"",2,391,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 163","St. Paul",N,N,"",2,391,"Storseth","","Brian","Conservative","Conservateur",Y,Y,114
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 164","St. Paul",N,N,"",2,491,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 164","St. Paul",N,N,"",2,491,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 164","St. Paul",N,N,"",2,491,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 164","St. Paul",N,N,"",2,491,"Storseth","","Brian","Conservative","Conservateur",Y,Y,186
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 165","St. Paul",N,N,"",1,405,"Fox","","Rob","Liberal","Libéral",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 165","St. Paul",N,N,"",1,405,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 165","St. Paul",N,N,"",1,405,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 165","St. Paul",N,N,"",1,405,"Storseth","","Brian","Conservative","Conservateur",Y,Y,160
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 166","St. Paul",N,N,"",0,375,"Fox","","Rob","Liberal","Libéral",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 166","St. Paul",N,N,"",0,375,"Grant","","Lisa","Green Party","Parti Vert",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 166","St. Paul",N,N,"",0,375,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 166","St. Paul",N,N,"",0,375,"Storseth","","Brian","Conservative","Conservateur",Y,Y,119
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167","St. Paul",N,N,"",1,347,"Fox","","Rob","Liberal","Libéral",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167","St. Paul",N,N,"",1,347,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167","St. Paul",N,N,"",1,347,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167","St. Paul",N,N,"",1,347,"Storseth","","Brian","Conservative","Conservateur",Y,Y,157
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167-1","St. Paul",N,N,"",0,414,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167-1","St. Paul",N,N,"",0,414,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167-1","St. Paul",N,N,"",0,414,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 167-1","St. Paul",N,N,"",0,414,"Storseth","","Brian","Conservative","Conservateur",Y,Y,155
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 168","Brosseau",N,N,"",0,174,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 168","Brosseau",N,N,"",0,174,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 168","Brosseau",N,N,"",0,174,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 168","Brosseau",N,N,"",0,174,"Storseth","","Brian","Conservative","Conservateur",Y,Y,82
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 169","Lafond",N,N,"",0,223,"Fox","","Rob","Liberal","Libéral",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 169","Lafond",N,N,"",0,223,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 169","Lafond",N,N,"",0,223,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 169","Lafond",N,N,"",0,223,"Storseth","","Brian","Conservative","Conservateur",Y,Y,78
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 170","St. Paul",N,N,"",0,412,"Fox","","Rob","Liberal","Libéral",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 170","St. Paul",N,N,"",0,412,"Grant","","Lisa","Green Party","Parti Vert",N,N,12
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 170","St. Paul",N,N,"",0,412,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 170","St. Paul",N,N,"",0,412,"Storseth","","Brian","Conservative","Conservateur",Y,Y,169
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 171","St. Edouard",N,N,"",0,424,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 171","St. Edouard",N,N,"",0,424,"Grant","","Lisa","Green Party","Parti Vert",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 171","St. Edouard",N,N,"",0,424,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 171","St. Edouard",N,N,"",0,424,"Storseth","","Brian","Conservative","Conservateur",Y,Y,204
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 172","Lake Eliza",N,N,"",0,291,"Fox","","Rob","Liberal","Libéral",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 172","Lake Eliza",N,N,"",0,291,"Grant","","Lisa","Green Party","Parti Vert",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 172","Lake Eliza",N,N,"",0,291,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 172","Lake Eliza",N,N,"",0,291,"Storseth","","Brian","Conservative","Conservateur",Y,Y,153
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 173","Elk Point",N,N,"",0,399,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 173","Elk Point",N,N,"",0,399,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 173","Elk Point",N,N,"",0,399,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 173","Elk Point",N,N,"",0,399,"Storseth","","Brian","Conservative","Conservateur",Y,Y,189
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 174","Lindbergh",N,N,"",0,228,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 174","Lindbergh",N,N,"",0,228,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 174","Lindbergh",N,N,"",0,228,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 174","Lindbergh",N,N,"",0,228,"Storseth","","Brian","Conservative","Conservateur",Y,Y,83
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 175","Elk Point",N,N,"",2,632,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 175","Elk Point",N,N,"",2,632,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 175","Elk Point",N,N,"",2,632,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 175","Elk Point",N,N,"",2,632,"Storseth","","Brian","Conservative","Conservateur",Y,Y,204
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 176","Elk Point",Y,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 176","Elk Point",Y,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 176","Elk Point",Y,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 176","Elk Point",Y,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 177","Elk Point East",N,N,"",0,330,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 177","Elk Point East",N,N,"",0,330,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 177","Elk Point East",N,N,"",0,330,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 177","Elk Point East",N,N,"",0,330,"Storseth","","Brian","Conservative","Conservateur",Y,Y,115
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 178","Fishing Lake Metis Settlement",N,N,"",0,285,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 178","Fishing Lake Metis Settlement",N,N,"",0,285,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 178","Fishing Lake Metis Settlement",N,N,"",0,285,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 178","Fishing Lake Metis Settlement",N,N,"",0,285,"Storseth","","Brian","Conservative","Conservateur",Y,Y,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 179","Frog Lake",N,N,"",1,480,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 179","Frog Lake",N,N,"",1,480,"Grant","","Lisa","Green Party","Parti Vert",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 179","Frog Lake",N,N,"",1,480,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 179","Frog Lake",N,N,"",1,480,"Storseth","","Brian","Conservative","Conservateur",Y,Y,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 180","Heinsburg",N,N,"",0,234,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 180","Heinsburg",N,N,"",0,234,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 180","Heinsburg",N,N,"",0,234,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 180","Heinsburg",N,N,"",0,234,"Storseth","","Brian","Conservative","Conservateur",Y,Y,76
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 181","Tulliby Lake",N,N,"",2,163,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 181","Tulliby Lake",N,N,"",2,163,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 181","Tulliby Lake",N,N,"",2,163,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 181","Tulliby Lake",N,N,"",2,163,"Storseth","","Brian","Conservative","Conservateur",Y,Y,78
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"",2,244,"Fox","","Rob","Liberal","Libéral",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"",2,244,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"",2,244,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"",2,244,"Storseth","","Brian","Conservative","Conservateur",Y,Y,118
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"",0,112,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"",0,112,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"",0,112,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"",0,112,"Storseth","","Brian","Conservative","Conservateur",Y,Y,66
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",2,172,"Fox","","Rob","Liberal","Libéral",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",2,172,"Grant","","Lisa","Green Party","Parti Vert",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",2,172,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",2,172,"Storseth","","Brian","Conservative","Conservateur",Y,Y,86
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"",0,100,"Fox","","Rob","Liberal","Libéral",N,N,10
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"",0,100,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"",0,100,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"",0,100,"Storseth","","Brian","Conservative","Conservateur",Y,Y,42
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"",2,94,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"",2,94,"Grant","","Lisa","Green Party","Parti Vert",N,N,2
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"",2,94,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"",2,94,"Storseth","","Brian","Conservative","Conservateur",Y,Y,47
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",1,169,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",1,169,"Grant","","Lisa","Green Party","Parti Vert",N,N,6
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",1,169,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",1,169,"Storseth","","Brian","Conservative","Conservateur",Y,Y,81
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"",4,236,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"",4,236,"Grant","","Lisa","Green Party","Parti Vert",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"",4,236,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"",4,236,"Storseth","","Brian","Conservative","Conservateur",Y,Y,115
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"",2,85,"Fox","","Rob","Liberal","Libéral",N,N,4
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"",2,85,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"",2,85,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"",2,85,"Storseth","","Brian","Conservative","Conservateur",Y,Y,51
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 600","Westlock County",N,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,32
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 600","Westlock County",N,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 600","Westlock County",N,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 600","Westlock County",N,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,445
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 601","Morinville",N,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 601","Morinville",N,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 601","Morinville",N,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 601","Morinville",N,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,147
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 602","Morinville",N,N,"",2,0,"Fox","","Rob","Liberal","Libéral",N,N,38
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 602","Morinville",N,N,"",2,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,29
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 602","Morinville",N,N,"",2,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 602","Morinville",N,N,"",2,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,400
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 603","Gibbons",N,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,26
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 603","Gibbons",N,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 603","Gibbons",N,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 603","Gibbons",N,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,340
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 604","Thorhild",N,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 604","Thorhild",N,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 604","Thorhild",N,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 604","Thorhild",N,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,108
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 605","Smoky Lake",N,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,14
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 605","Smoky Lake",N,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,5
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 605","Smoky Lake",N,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 605","Smoky Lake",N,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,132
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 606","Bonnyville",N,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,33
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 606","Bonnyville",N,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 606","Bonnyville",N,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 606","Bonnyville",N,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,400
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 607","Cold Lake",N,N,"",1,0,"Fox","","Rob","Liberal","Libéral",N,N,53
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 607","Cold Lake",N,N,"",1,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 607","Cold Lake",N,N,"",1,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 607","Cold Lake",N,N,"",1,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,559
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 608","St. Paul",N,N,"",1,0,"Fox","","Rob","Liberal","Libéral",N,N,47
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 608","St. Paul",N,N,"",1,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,20
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 608","St. Paul",N,N,"",1,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 608","St. Paul",N,N,"",1,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,317
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 609","Namao",N,N,"",3,0,"Fox","","Rob","Liberal","Libéral",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 609","Namao",N,N,"",3,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,8
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 609","Namao",N,N,"",3,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 609","Namao",N,N,"",3,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,230
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 610","Vilna",N,N,"",0,0,"Fox","","Rob","Liberal","Libéral",N,N,3
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 610","Vilna",N,N,"",0,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,0
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 610","Vilna",N,N,"",0,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 610","Vilna",N,N,"",0,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,81
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 611","Elk Point",N,N,"",1,0,"Fox","","Rob","Liberal","Libéral",N,N,7
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 611","Elk Point",N,N,"",1,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,1
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 611","Elk Point",N,N,"",1,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48025,"Westlock--St. Paul","Westlock--St. Paul"," 611","Elk Point",N,N,"",1,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,93
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,784,"Fox","","Rob","Liberal","Libéral",N,N,40
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,784,"Grant","","Lisa","Green Party","Parti Vert",N,N,17
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,784,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,784,"Storseth","","Brian","Conservative","Conservateur",Y,Y,279
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Fox","","Rob","Liberal","Libéral",N,N,41
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Grant","","Lisa","Green Party","Parti Vert",N,N,9
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Henderson","","Lyndsey Ellen","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48025,"Westlock--St. Paul","Westlock--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Storseth","","Brian","Conservative","Conservateur",Y,Y,357

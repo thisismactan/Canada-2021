@@ -1,0 +1,881 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+47013,"Wascana","Wascana"," 1","Regina",N,N,"",0,439,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 1","Regina",N,N,"",0,439,"Goodale","","Ralph","Liberal","Libéral",Y,Y,64
+47013,"Wascana","Wascana"," 1","Regina",N,N,"",0,439,"Shields","","Ian","Conservative","Conservateur",N,N,29
+47013,"Wascana","Wascana"," 1","Regina",N,N,"",0,439,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47013,"Wascana","Wascana"," 2","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 2","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 2","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 2","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 3","Regina",N,N,"",2,468,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 3","Regina",N,N,"",2,468,"Goodale","","Ralph","Liberal","Libéral",Y,Y,65
+47013,"Wascana","Wascana"," 3","Regina",N,N,"",2,468,"Shields","","Ian","Conservative","Conservateur",N,N,58
+47013,"Wascana","Wascana"," 3","Regina",N,N,"",2,468,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+47013,"Wascana","Wascana"," 4","Regina",N,N,"",1,317,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 4","Regina",N,N,"",1,317,"Goodale","","Ralph","Liberal","Libéral",Y,Y,19
+47013,"Wascana","Wascana"," 4","Regina",N,N,"",1,317,"Shields","","Ian","Conservative","Conservateur",N,N,22
+47013,"Wascana","Wascana"," 4","Regina",N,N,"",1,317,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47013,"Wascana","Wascana"," 5","Regina",N,N,"",0,323,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 5","Regina",N,N,"",0,323,"Goodale","","Ralph","Liberal","Libéral",Y,Y,29
+47013,"Wascana","Wascana"," 5","Regina",N,N,"",0,323,"Shields","","Ian","Conservative","Conservateur",N,N,21
+47013,"Wascana","Wascana"," 5","Regina",N,N,"",0,323,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47013,"Wascana","Wascana"," 6","Regina",N,N,"",0,347,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 6","Regina",N,N,"",0,347,"Goodale","","Ralph","Liberal","Libéral",Y,Y,66
+47013,"Wascana","Wascana"," 6","Regina",N,N,"",0,347,"Shields","","Ian","Conservative","Conservateur",N,N,38
+47013,"Wascana","Wascana"," 6","Regina",N,N,"",0,347,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47013,"Wascana","Wascana"," 7","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 7","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 7","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 7","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 8","Regina",N,N,"",2,478,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 8","Regina",N,N,"",2,478,"Goodale","","Ralph","Liberal","Libéral",Y,Y,99
+47013,"Wascana","Wascana"," 8","Regina",N,N,"",2,478,"Shields","","Ian","Conservative","Conservateur",N,N,48
+47013,"Wascana","Wascana"," 8","Regina",N,N,"",2,478,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+47013,"Wascana","Wascana"," 9","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 9","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 9","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 9","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 10","Regina",N,N,"",0,271,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 10","Regina",N,N,"",0,271,"Goodale","","Ralph","Liberal","Libéral",Y,Y,46
+47013,"Wascana","Wascana"," 10","Regina",N,N,"",0,271,"Shields","","Ian","Conservative","Conservateur",N,N,32
+47013,"Wascana","Wascana"," 10","Regina",N,N,"",0,271,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47013,"Wascana","Wascana"," 11","Regina",N,N,"",0,329,"Clary","","Bill","Green Party","Parti Vert",N,N,25
+47013,"Wascana","Wascana"," 11","Regina",N,N,"",0,329,"Goodale","","Ralph","Liberal","Libéral",Y,Y,67
+47013,"Wascana","Wascana"," 11","Regina",N,N,"",0,329,"Shields","","Ian","Conservative","Conservateur",N,N,14
+47013,"Wascana","Wascana"," 11","Regina",N,N,"",0,329,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47013,"Wascana","Wascana"," 12","Regina",N,N,"",5,412,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 12","Regina",N,N,"",5,412,"Goodale","","Ralph","Liberal","Libéral",Y,Y,104
+47013,"Wascana","Wascana"," 12","Regina",N,N,"",5,412,"Shields","","Ian","Conservative","Conservateur",N,N,73
+47013,"Wascana","Wascana"," 12","Regina",N,N,"",5,412,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+47013,"Wascana","Wascana"," 13","Regina",N,N,"",2,359,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 13","Regina",N,N,"",2,359,"Goodale","","Ralph","Liberal","Libéral",Y,Y,91
+47013,"Wascana","Wascana"," 13","Regina",N,N,"",2,359,"Shields","","Ian","Conservative","Conservateur",N,N,39
+47013,"Wascana","Wascana"," 13","Regina",N,N,"",2,359,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47013,"Wascana","Wascana"," 14","Regina",N,N,"",0,268,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 14","Regina",N,N,"",0,268,"Goodale","","Ralph","Liberal","Libéral",Y,Y,51
+47013,"Wascana","Wascana"," 14","Regina",N,N,"",0,268,"Shields","","Ian","Conservative","Conservateur",N,N,30
+47013,"Wascana","Wascana"," 14","Regina",N,N,"",0,268,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47013,"Wascana","Wascana"," 15","Regina",N,N,"",1,488,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 15","Regina",N,N,"",1,488,"Goodale","","Ralph","Liberal","Libéral",Y,Y,137
+47013,"Wascana","Wascana"," 15","Regina",N,N,"",1,488,"Shields","","Ian","Conservative","Conservateur",N,N,71
+47013,"Wascana","Wascana"," 15","Regina",N,N,"",1,488,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+47013,"Wascana","Wascana"," 16","Regina",N,N,"",2,369,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 16","Regina",N,N,"",2,369,"Goodale","","Ralph","Liberal","Libéral",Y,Y,65
+47013,"Wascana","Wascana"," 16","Regina",N,N,"",2,369,"Shields","","Ian","Conservative","Conservateur",N,N,59
+47013,"Wascana","Wascana"," 16","Regina",N,N,"",2,369,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47013,"Wascana","Wascana"," 17A","Regina",N,N,"",0,280,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 17A","Regina",N,N,"",0,280,"Goodale","","Ralph","Liberal","Libéral",Y,Y,71
+47013,"Wascana","Wascana"," 17A","Regina",N,N,"",0,280,"Shields","","Ian","Conservative","Conservateur",N,N,25
+47013,"Wascana","Wascana"," 17A","Regina",N,N,"",0,280,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47013,"Wascana","Wascana"," 17B","Mobile poll/Bureau itinérant",N,N,"506B",0,69,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 17B","Mobile poll/Bureau itinérant",N,N,"506B",0,69,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 17B","Mobile poll/Bureau itinérant",N,N,"506B",0,69,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 17B","Mobile poll/Bureau itinérant",N,N,"506B",0,69,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 18","Regina",N,N,"",1,280,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 18","Regina",N,N,"",1,280,"Goodale","","Ralph","Liberal","Libéral",Y,Y,87
+47013,"Wascana","Wascana"," 18","Regina",N,N,"",1,280,"Shields","","Ian","Conservative","Conservateur",N,N,36
+47013,"Wascana","Wascana"," 18","Regina",N,N,"",1,280,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," 18-1","Regina",N,N,"",0,339,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 18-1","Regina",N,N,"",0,339,"Goodale","","Ralph","Liberal","Libéral",Y,Y,58
+47013,"Wascana","Wascana"," 18-1","Regina",N,N,"",0,339,"Shields","","Ian","Conservative","Conservateur",N,N,52
+47013,"Wascana","Wascana"," 18-1","Regina",N,N,"",0,339,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47013,"Wascana","Wascana"," 18-2","Regina",N,N,"",0,194,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 18-2","Regina",N,N,"",0,194,"Goodale","","Ralph","Liberal","Libéral",Y,Y,45
+47013,"Wascana","Wascana"," 18-2","Regina",N,N,"",0,194,"Shields","","Ian","Conservative","Conservateur",N,N,35
+47013,"Wascana","Wascana"," 18-2","Regina",N,N,"",0,194,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47013,"Wascana","Wascana"," 19","Regina",N,N,"",0,332,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 19","Regina",N,N,"",0,332,"Goodale","","Ralph","Liberal","Libéral",Y,Y,81
+47013,"Wascana","Wascana"," 19","Regina",N,N,"",0,332,"Shields","","Ian","Conservative","Conservateur",N,N,59
+47013,"Wascana","Wascana"," 19","Regina",N,N,"",0,332,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47013,"Wascana","Wascana"," 20","Regina",N,N,"",0,320,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 20","Regina",N,N,"",0,320,"Goodale","","Ralph","Liberal","Libéral",Y,Y,80
+47013,"Wascana","Wascana"," 20","Regina",N,N,"",0,320,"Shields","","Ian","Conservative","Conservateur",N,N,69
+47013,"Wascana","Wascana"," 20","Regina",N,N,"",0,320,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47013,"Wascana","Wascana"," 21","Regina",N,N,"",0,348,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 21","Regina",N,N,"",0,348,"Goodale","","Ralph","Liberal","Libéral",Y,Y,49
+47013,"Wascana","Wascana"," 21","Regina",N,N,"",0,348,"Shields","","Ian","Conservative","Conservateur",N,N,71
+47013,"Wascana","Wascana"," 21","Regina",N,N,"",0,348,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47013,"Wascana","Wascana"," 22","Regina",N,N,"",0,366,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 22","Regina",N,N,"",0,366,"Goodale","","Ralph","Liberal","Libéral",Y,Y,64
+47013,"Wascana","Wascana"," 22","Regina",N,N,"",0,366,"Shields","","Ian","Conservative","Conservateur",N,N,64
+47013,"Wascana","Wascana"," 22","Regina",N,N,"",0,366,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47013,"Wascana","Wascana"," 23","Regina",N,N,"",0,354,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 23","Regina",N,N,"",0,354,"Goodale","","Ralph","Liberal","Libéral",Y,Y,61
+47013,"Wascana","Wascana"," 23","Regina",N,N,"",0,354,"Shields","","Ian","Conservative","Conservateur",N,N,71
+47013,"Wascana","Wascana"," 23","Regina",N,N,"",0,354,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47013,"Wascana","Wascana"," 24","Regina",N,N,"",0,343,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 24","Regina",N,N,"",0,343,"Goodale","","Ralph","Liberal","Libéral",Y,Y,56
+47013,"Wascana","Wascana"," 24","Regina",N,N,"",0,343,"Shields","","Ian","Conservative","Conservateur",N,N,81
+47013,"Wascana","Wascana"," 24","Regina",N,N,"",0,343,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47013,"Wascana","Wascana"," 25","Regina",N,N,"",0,383,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 25","Regina",N,N,"",0,383,"Goodale","","Ralph","Liberal","Libéral",Y,Y,42
+47013,"Wascana","Wascana"," 25","Regina",N,N,"",0,383,"Shields","","Ian","Conservative","Conservateur",N,N,93
+47013,"Wascana","Wascana"," 25","Regina",N,N,"",0,383,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+47013,"Wascana","Wascana"," 26","Regina",N,N,"",1,328,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 26","Regina",N,N,"",1,328,"Goodale","","Ralph","Liberal","Libéral",Y,Y,50
+47013,"Wascana","Wascana"," 26","Regina",N,N,"",1,328,"Shields","","Ian","Conservative","Conservateur",N,N,65
+47013,"Wascana","Wascana"," 26","Regina",N,N,"",1,328,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+47013,"Wascana","Wascana"," 27","Regina",N,N,"",2,383,"Clary","","Bill","Green Party","Parti Vert",N,N,16
+47013,"Wascana","Wascana"," 27","Regina",N,N,"",2,383,"Goodale","","Ralph","Liberal","Libéral",Y,Y,52
+47013,"Wascana","Wascana"," 27","Regina",N,N,"",2,383,"Shields","","Ian","Conservative","Conservateur",N,N,70
+47013,"Wascana","Wascana"," 27","Regina",N,N,"",2,383,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47013,"Wascana","Wascana"," 28","Regina",N,N,"",0,348,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 28","Regina",N,N,"",0,348,"Goodale","","Ralph","Liberal","Libéral",Y,Y,50
+47013,"Wascana","Wascana"," 28","Regina",N,N,"",0,348,"Shields","","Ian","Conservative","Conservateur",N,N,83
+47013,"Wascana","Wascana"," 28","Regina",N,N,"",0,348,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+47013,"Wascana","Wascana"," 29","Regina",N,N,"",1,366,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 29","Regina",N,N,"",1,366,"Goodale","","Ralph","Liberal","Libéral",Y,Y,57
+47013,"Wascana","Wascana"," 29","Regina",N,N,"",1,366,"Shields","","Ian","Conservative","Conservateur",N,N,84
+47013,"Wascana","Wascana"," 29","Regina",N,N,"",1,366,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+47013,"Wascana","Wascana"," 29-1","Regina",N,N,"",1,299,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 29-1","Regina",N,N,"",1,299,"Goodale","","Ralph","Liberal","Libéral",Y,Y,41
+47013,"Wascana","Wascana"," 29-1","Regina",N,N,"",1,299,"Shields","","Ian","Conservative","Conservateur",N,N,57
+47013,"Wascana","Wascana"," 29-1","Regina",N,N,"",1,299,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47013,"Wascana","Wascana"," 30A","Regina",N,N,"",1,276,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 30A","Regina",N,N,"",1,276,"Goodale","","Ralph","Liberal","Libéral",Y,Y,38
+47013,"Wascana","Wascana"," 30A","Regina",N,N,"",1,276,"Shields","","Ian","Conservative","Conservateur",N,N,54
+47013,"Wascana","Wascana"," 30A","Regina",N,N,"",1,276,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47013,"Wascana","Wascana"," 30B","Mobile poll/Bureau itinérant",N,N,"506A",0,67,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 30B","Mobile poll/Bureau itinérant",N,N,"506A",0,67,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 30B","Mobile poll/Bureau itinérant",N,N,"506A",0,67,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 30B","Mobile poll/Bureau itinérant",N,N,"506A",0,67,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 31","Regina",N,N,"",0,320,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 31","Regina",N,N,"",0,320,"Goodale","","Ralph","Liberal","Libéral",Y,Y,57
+47013,"Wascana","Wascana"," 31","Regina",N,N,"",0,320,"Shields","","Ian","Conservative","Conservateur",N,N,52
+47013,"Wascana","Wascana"," 31","Regina",N,N,"",0,320,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47013,"Wascana","Wascana"," 32","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 32","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 32","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 32","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 33","Regina",N,N,"",0,315,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 33","Regina",N,N,"",0,315,"Goodale","","Ralph","Liberal","Libéral",Y,Y,68
+47013,"Wascana","Wascana"," 33","Regina",N,N,"",0,315,"Shields","","Ian","Conservative","Conservateur",N,N,68
+47013,"Wascana","Wascana"," 33","Regina",N,N,"",0,315,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47013,"Wascana","Wascana"," 34","Regina",N,N,"",0,351,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 34","Regina",N,N,"",0,351,"Goodale","","Ralph","Liberal","Libéral",Y,Y,59
+47013,"Wascana","Wascana"," 34","Regina",N,N,"",0,351,"Shields","","Ian","Conservative","Conservateur",N,N,86
+47013,"Wascana","Wascana"," 34","Regina",N,N,"",0,351,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47013,"Wascana","Wascana"," 34-1","Regina",N,N,"",0,267,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 34-1","Regina",N,N,"",0,267,"Goodale","","Ralph","Liberal","Libéral",Y,Y,31
+47013,"Wascana","Wascana"," 34-1","Regina",N,N,"",0,267,"Shields","","Ian","Conservative","Conservateur",N,N,22
+47013,"Wascana","Wascana"," 34-1","Regina",N,N,"",0,267,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47013,"Wascana","Wascana"," 35","Regina",N,N,"",0,339,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 35","Regina",N,N,"",0,339,"Goodale","","Ralph","Liberal","Libéral",Y,Y,52
+47013,"Wascana","Wascana"," 35","Regina",N,N,"",0,339,"Shields","","Ian","Conservative","Conservateur",N,N,76
+47013,"Wascana","Wascana"," 35","Regina",N,N,"",0,339,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47013,"Wascana","Wascana"," 36","Regina",N,N,"",0,395,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 36","Regina",N,N,"",0,395,"Goodale","","Ralph","Liberal","Libéral",Y,Y,95
+47013,"Wascana","Wascana"," 36","Regina",N,N,"",0,395,"Shields","","Ian","Conservative","Conservateur",N,N,93
+47013,"Wascana","Wascana"," 36","Regina",N,N,"",0,395,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47013,"Wascana","Wascana"," 37","Regina",N,N,"",2,421,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 37","Regina",N,N,"",2,421,"Goodale","","Ralph","Liberal","Libéral",Y,Y,71
+47013,"Wascana","Wascana"," 37","Regina",N,N,"",2,421,"Shields","","Ian","Conservative","Conservateur",N,N,106
+47013,"Wascana","Wascana"," 37","Regina",N,N,"",2,421,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47013,"Wascana","Wascana"," 38","Regina",N,N,"",0,460,"Clary","","Bill","Green Party","Parti Vert",N,N,11
+47013,"Wascana","Wascana"," 38","Regina",N,N,"",0,460,"Goodale","","Ralph","Liberal","Libéral",Y,Y,100
+47013,"Wascana","Wascana"," 38","Regina",N,N,"",0,460,"Shields","","Ian","Conservative","Conservateur",N,N,129
+47013,"Wascana","Wascana"," 38","Regina",N,N,"",0,460,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47013,"Wascana","Wascana"," 39","Regina",N,N,"",0,471,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 39","Regina",N,N,"",0,471,"Goodale","","Ralph","Liberal","Libéral",Y,Y,101
+47013,"Wascana","Wascana"," 39","Regina",N,N,"",0,471,"Shields","","Ian","Conservative","Conservateur",N,N,117
+47013,"Wascana","Wascana"," 39","Regina",N,N,"",0,471,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47013,"Wascana","Wascana"," 40","Regina",N,N,"",0,308,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 40","Regina",N,N,"",0,308,"Goodale","","Ralph","Liberal","Libéral",Y,Y,44
+47013,"Wascana","Wascana"," 40","Regina",N,N,"",0,308,"Shields","","Ian","Conservative","Conservateur",N,N,75
+47013,"Wascana","Wascana"," 40","Regina",N,N,"",0,308,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47013,"Wascana","Wascana"," 40-1","Regina",N,N,"",0,311,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 40-1","Regina",N,N,"",0,311,"Goodale","","Ralph","Liberal","Libéral",Y,Y,50
+47013,"Wascana","Wascana"," 40-1","Regina",N,N,"",0,311,"Shields","","Ian","Conservative","Conservateur",N,N,91
+47013,"Wascana","Wascana"," 40-1","Regina",N,N,"",0,311,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47013,"Wascana","Wascana"," 41","Regina",N,N,"",0,371,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 41","Regina",N,N,"",0,371,"Goodale","","Ralph","Liberal","Libéral",Y,Y,70
+47013,"Wascana","Wascana"," 41","Regina",N,N,"",0,371,"Shields","","Ian","Conservative","Conservateur",N,N,57
+47013,"Wascana","Wascana"," 41","Regina",N,N,"",0,371,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+47013,"Wascana","Wascana"," 42","Regina",N,N,"",2,341,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 42","Regina",N,N,"",2,341,"Goodale","","Ralph","Liberal","Libéral",Y,Y,50
+47013,"Wascana","Wascana"," 42","Regina",N,N,"",2,341,"Shields","","Ian","Conservative","Conservateur",N,N,83
+47013,"Wascana","Wascana"," 42","Regina",N,N,"",2,341,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47013,"Wascana","Wascana"," 43","Regina",N,N,"",0,424,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 43","Regina",N,N,"",0,424,"Goodale","","Ralph","Liberal","Libéral",Y,Y,82
+47013,"Wascana","Wascana"," 43","Regina",N,N,"",0,424,"Shields","","Ian","Conservative","Conservateur",N,N,113
+47013,"Wascana","Wascana"," 43","Regina",N,N,"",0,424,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+47013,"Wascana","Wascana"," 44","Regina",N,N,"",0,295,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 44","Regina",N,N,"",0,295,"Goodale","","Ralph","Liberal","Libéral",Y,Y,69
+47013,"Wascana","Wascana"," 44","Regina",N,N,"",0,295,"Shields","","Ian","Conservative","Conservateur",N,N,84
+47013,"Wascana","Wascana"," 44","Regina",N,N,"",0,295,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47013,"Wascana","Wascana"," 44-1","Regina",N,N,"",0,403,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 44-1","Regina",N,N,"",0,403,"Goodale","","Ralph","Liberal","Libéral",Y,Y,73
+47013,"Wascana","Wascana"," 44-1","Regina",N,N,"",0,403,"Shields","","Ian","Conservative","Conservateur",N,N,113
+47013,"Wascana","Wascana"," 44-1","Regina",N,N,"",0,403,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47013,"Wascana","Wascana"," 45","Regina",N,N,"",0,289,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 45","Regina",N,N,"",0,289,"Goodale","","Ralph","Liberal","Libéral",Y,Y,53
+47013,"Wascana","Wascana"," 45","Regina",N,N,"",0,289,"Shields","","Ian","Conservative","Conservateur",N,N,54
+47013,"Wascana","Wascana"," 45","Regina",N,N,"",0,289,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47013,"Wascana","Wascana"," 46A","Regina",N,N,"",0,287,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 46A","Regina",N,N,"",0,287,"Goodale","","Ralph","Liberal","Libéral",Y,Y,34
+47013,"Wascana","Wascana"," 46A","Regina",N,N,"",0,287,"Shields","","Ian","Conservative","Conservateur",N,N,56
+47013,"Wascana","Wascana"," 46A","Regina",N,N,"",0,287,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+47013,"Wascana","Wascana"," 46B","Regina",N,N,"",0,258,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 46B","Regina",N,N,"",0,258,"Goodale","","Ralph","Liberal","Libéral",Y,Y,41
+47013,"Wascana","Wascana"," 46B","Regina",N,N,"",0,258,"Shields","","Ian","Conservative","Conservateur",N,N,48
+47013,"Wascana","Wascana"," 46B","Regina",N,N,"",0,258,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 47","Regina",N,N,"",0,282,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 47","Regina",N,N,"",0,282,"Goodale","","Ralph","Liberal","Libéral",Y,Y,60
+47013,"Wascana","Wascana"," 47","Regina",N,N,"",0,282,"Shields","","Ian","Conservative","Conservateur",N,N,87
+47013,"Wascana","Wascana"," 47","Regina",N,N,"",0,282,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 48","Regina",N,N,"",0,437,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 48","Regina",N,N,"",0,437,"Goodale","","Ralph","Liberal","Libéral",Y,Y,75
+47013,"Wascana","Wascana"," 48","Regina",N,N,"",0,437,"Shields","","Ian","Conservative","Conservateur",N,N,70
+47013,"Wascana","Wascana"," 48","Regina",N,N,"",0,437,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47013,"Wascana","Wascana"," 49","Regina",N,N,"",0,249,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 49","Regina",N,N,"",0,249,"Goodale","","Ralph","Liberal","Libéral",Y,Y,37
+47013,"Wascana","Wascana"," 49","Regina",N,N,"",0,249,"Shields","","Ian","Conservative","Conservateur",N,N,52
+47013,"Wascana","Wascana"," 49","Regina",N,N,"",0,249,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47013,"Wascana","Wascana"," 50","Regina",N,N,"",1,265,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 50","Regina",N,N,"",1,265,"Goodale","","Ralph","Liberal","Libéral",Y,Y,41
+47013,"Wascana","Wascana"," 50","Regina",N,N,"",1,265,"Shields","","Ian","Conservative","Conservateur",N,N,31
+47013,"Wascana","Wascana"," 50","Regina",N,N,"",1,265,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47013,"Wascana","Wascana"," 51","Regina",N,N,"",0,346,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 51","Regina",N,N,"",0,346,"Goodale","","Ralph","Liberal","Libéral",Y,Y,38
+47013,"Wascana","Wascana"," 51","Regina",N,N,"",0,346,"Shields","","Ian","Conservative","Conservateur",N,N,53
+47013,"Wascana","Wascana"," 51","Regina",N,N,"",0,346,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+47013,"Wascana","Wascana"," 52","Regina",N,N,"",1,361,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 52","Regina",N,N,"",1,361,"Goodale","","Ralph","Liberal","Libéral",Y,Y,59
+47013,"Wascana","Wascana"," 52","Regina",N,N,"",1,361,"Shields","","Ian","Conservative","Conservateur",N,N,49
+47013,"Wascana","Wascana"," 52","Regina",N,N,"",1,361,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+47013,"Wascana","Wascana"," 53","Regina",N,N,"",0,289,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 53","Regina",N,N,"",0,289,"Goodale","","Ralph","Liberal","Libéral",Y,Y,72
+47013,"Wascana","Wascana"," 53","Regina",N,N,"",0,289,"Shields","","Ian","Conservative","Conservateur",N,N,33
+47013,"Wascana","Wascana"," 53","Regina",N,N,"",0,289,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47013,"Wascana","Wascana"," 54","Regina",N,N,"",0,427,"Clary","","Bill","Green Party","Parti Vert",N,N,14
+47013,"Wascana","Wascana"," 54","Regina",N,N,"",0,427,"Goodale","","Ralph","Liberal","Libéral",Y,Y,85
+47013,"Wascana","Wascana"," 54","Regina",N,N,"",0,427,"Shields","","Ian","Conservative","Conservateur",N,N,41
+47013,"Wascana","Wascana"," 54","Regina",N,N,"",0,427,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+47013,"Wascana","Wascana"," 55","Regina",N,N,"",0,336,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 55","Regina",N,N,"",0,336,"Goodale","","Ralph","Liberal","Libéral",Y,Y,52
+47013,"Wascana","Wascana"," 55","Regina",N,N,"",0,336,"Shields","","Ian","Conservative","Conservateur",N,N,55
+47013,"Wascana","Wascana"," 55","Regina",N,N,"",0,336,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+47013,"Wascana","Wascana"," 56","Regina",N,N,"",1,275,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 56","Regina",N,N,"",1,275,"Goodale","","Ralph","Liberal","Libéral",Y,Y,50
+47013,"Wascana","Wascana"," 56","Regina",N,N,"",1,275,"Shields","","Ian","Conservative","Conservateur",N,N,33
+47013,"Wascana","Wascana"," 56","Regina",N,N,"",1,275,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47013,"Wascana","Wascana"," 57","Regina",N,N,"",0,280,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 57","Regina",N,N,"",0,280,"Goodale","","Ralph","Liberal","Libéral",Y,Y,62
+47013,"Wascana","Wascana"," 57","Regina",N,N,"",0,280,"Shields","","Ian","Conservative","Conservateur",N,N,39
+47013,"Wascana","Wascana"," 57","Regina",N,N,"",0,280,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47013,"Wascana","Wascana"," 58","Regina",N,N,"",0,398,"Clary","","Bill","Green Party","Parti Vert",N,N,11
+47013,"Wascana","Wascana"," 58","Regina",N,N,"",0,398,"Goodale","","Ralph","Liberal","Libéral",Y,Y,98
+47013,"Wascana","Wascana"," 58","Regina",N,N,"",0,398,"Shields","","Ian","Conservative","Conservateur",N,N,39
+47013,"Wascana","Wascana"," 58","Regina",N,N,"",0,398,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+47013,"Wascana","Wascana"," 59","Regina",N,N,"",0,402,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 59","Regina",N,N,"",0,402,"Goodale","","Ralph","Liberal","Libéral",Y,Y,72
+47013,"Wascana","Wascana"," 59","Regina",N,N,"",0,402,"Shields","","Ian","Conservative","Conservateur",N,N,71
+47013,"Wascana","Wascana"," 59","Regina",N,N,"",0,402,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47013,"Wascana","Wascana"," 60","Regina",N,N,"",0,324,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 60","Regina",N,N,"",0,324,"Goodale","","Ralph","Liberal","Libéral",Y,Y,48
+47013,"Wascana","Wascana"," 60","Regina",N,N,"",0,324,"Shields","","Ian","Conservative","Conservateur",N,N,45
+47013,"Wascana","Wascana"," 60","Regina",N,N,"",0,324,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47013,"Wascana","Wascana"," 61","Regina",N,N,"",2,299,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 61","Regina",N,N,"",2,299,"Goodale","","Ralph","Liberal","Libéral",Y,Y,38
+47013,"Wascana","Wascana"," 61","Regina",N,N,"",2,299,"Shields","","Ian","Conservative","Conservateur",N,N,53
+47013,"Wascana","Wascana"," 61","Regina",N,N,"",2,299,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47013,"Wascana","Wascana"," 62A","Regina",N,N,"",1,241,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 62A","Regina",N,N,"",1,241,"Goodale","","Ralph","Liberal","Libéral",Y,Y,33
+47013,"Wascana","Wascana"," 62A","Regina",N,N,"",1,241,"Shields","","Ian","Conservative","Conservateur",N,N,24
+47013,"Wascana","Wascana"," 62A","Regina",N,N,"",1,241,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47013,"Wascana","Wascana"," 62B","Regina",N,N,"",1,280,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 62B","Regina",N,N,"",1,280,"Goodale","","Ralph","Liberal","Libéral",Y,Y,26
+47013,"Wascana","Wascana"," 62B","Regina",N,N,"",1,280,"Shields","","Ian","Conservative","Conservateur",N,N,35
+47013,"Wascana","Wascana"," 62B","Regina",N,N,"",1,280,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47013,"Wascana","Wascana"," 63","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 63","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 63","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 63","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 64","Regina",N,N,"",0,216,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 64","Regina",N,N,"",0,216,"Goodale","","Ralph","Liberal","Libéral",Y,Y,43
+47013,"Wascana","Wascana"," 64","Regina",N,N,"",0,216,"Shields","","Ian","Conservative","Conservateur",N,N,38
+47013,"Wascana","Wascana"," 64","Regina",N,N,"",0,216,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47013,"Wascana","Wascana"," 65","Regina",N,N,"",0,291,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 65","Regina",N,N,"",0,291,"Goodale","","Ralph","Liberal","Libéral",Y,Y,53
+47013,"Wascana","Wascana"," 65","Regina",N,N,"",0,291,"Shields","","Ian","Conservative","Conservateur",N,N,60
+47013,"Wascana","Wascana"," 65","Regina",N,N,"",0,291,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47013,"Wascana","Wascana"," 66","Regina",N,N,"",3,247,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 66","Regina",N,N,"",3,247,"Goodale","","Ralph","Liberal","Libéral",Y,Y,59
+47013,"Wascana","Wascana"," 66","Regina",N,N,"",3,247,"Shields","","Ian","Conservative","Conservateur",N,N,40
+47013,"Wascana","Wascana"," 66","Regina",N,N,"",3,247,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47013,"Wascana","Wascana"," 67","Regina",N,N,"",0,289,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 67","Regina",N,N,"",0,289,"Goodale","","Ralph","Liberal","Libéral",Y,Y,66
+47013,"Wascana","Wascana"," 67","Regina",N,N,"",0,289,"Shields","","Ian","Conservative","Conservateur",N,N,64
+47013,"Wascana","Wascana"," 67","Regina",N,N,"",0,289,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47013,"Wascana","Wascana"," 68","Regina",N,N,"",0,317,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 68","Regina",N,N,"",0,317,"Goodale","","Ralph","Liberal","Libéral",Y,Y,87
+47013,"Wascana","Wascana"," 68","Regina",N,N,"",0,317,"Shields","","Ian","Conservative","Conservateur",N,N,66
+47013,"Wascana","Wascana"," 68","Regina",N,N,"",0,317,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47013,"Wascana","Wascana"," 69","Regina",N,N,"",0,313,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 69","Regina",N,N,"",0,313,"Goodale","","Ralph","Liberal","Libéral",Y,Y,73
+47013,"Wascana","Wascana"," 69","Regina",N,N,"",0,313,"Shields","","Ian","Conservative","Conservateur",N,N,67
+47013,"Wascana","Wascana"," 69","Regina",N,N,"",0,313,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47013,"Wascana","Wascana"," 70","Regina",N,N,"",0,404,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 70","Regina",N,N,"",0,404,"Goodale","","Ralph","Liberal","Libéral",Y,Y,108
+47013,"Wascana","Wascana"," 70","Regina",N,N,"",0,404,"Shields","","Ian","Conservative","Conservateur",N,N,95
+47013,"Wascana","Wascana"," 70","Regina",N,N,"",0,404,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47013,"Wascana","Wascana"," 71","Regina",N,N,"",1,251,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 71","Regina",N,N,"",1,251,"Goodale","","Ralph","Liberal","Libéral",Y,Y,67
+47013,"Wascana","Wascana"," 71","Regina",N,N,"",1,251,"Shields","","Ian","Conservative","Conservateur",N,N,55
+47013,"Wascana","Wascana"," 71","Regina",N,N,"",1,251,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47013,"Wascana","Wascana"," 72","Regina",N,N,"",0,298,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 72","Regina",N,N,"",0,298,"Goodale","","Ralph","Liberal","Libéral",Y,Y,95
+47013,"Wascana","Wascana"," 72","Regina",N,N,"",0,298,"Shields","","Ian","Conservative","Conservateur",N,N,56
+47013,"Wascana","Wascana"," 72","Regina",N,N,"",0,298,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47013,"Wascana","Wascana"," 73","Regina",N,N,"",0,367,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 73","Regina",N,N,"",0,367,"Goodale","","Ralph","Liberal","Libéral",Y,Y,128
+47013,"Wascana","Wascana"," 73","Regina",N,N,"",0,367,"Shields","","Ian","Conservative","Conservateur",N,N,83
+47013,"Wascana","Wascana"," 73","Regina",N,N,"",0,367,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," 74A","Regina",N,N,"",0,262,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 74A","Regina",N,N,"",0,262,"Goodale","","Ralph","Liberal","Libéral",Y,Y,78
+47013,"Wascana","Wascana"," 74A","Regina",N,N,"",0,262,"Shields","","Ian","Conservative","Conservateur",N,N,76
+47013,"Wascana","Wascana"," 74A","Regina",N,N,"",0,262,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47013,"Wascana","Wascana"," 74B","Regina",N,N,"",0,237,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 74B","Regina",N,N,"",0,237,"Goodale","","Ralph","Liberal","Libéral",Y,Y,54
+47013,"Wascana","Wascana"," 74B","Regina",N,N,"",0,237,"Shields","","Ian","Conservative","Conservateur",N,N,74
+47013,"Wascana","Wascana"," 74B","Regina",N,N,"",0,237,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47013,"Wascana","Wascana"," 74-1","Regina",N,N,"",0,498,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 74-1","Regina",N,N,"",0,498,"Goodale","","Ralph","Liberal","Libéral",Y,Y,118
+47013,"Wascana","Wascana"," 74-1","Regina",N,N,"",0,498,"Shields","","Ian","Conservative","Conservateur",N,N,129
+47013,"Wascana","Wascana"," 74-1","Regina",N,N,"",0,498,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47013,"Wascana","Wascana"," 75A","Regina",N,N,"",0,242,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 75A","Regina",N,N,"",0,242,"Goodale","","Ralph","Liberal","Libéral",Y,Y,57
+47013,"Wascana","Wascana"," 75A","Regina",N,N,"",0,242,"Shields","","Ian","Conservative","Conservateur",N,N,47
+47013,"Wascana","Wascana"," 75A","Regina",N,N,"",0,242,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47013,"Wascana","Wascana"," 75B","Regina",N,N,"",0,266,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 75B","Regina",N,N,"",0,266,"Goodale","","Ralph","Liberal","Libéral",Y,Y,63
+47013,"Wascana","Wascana"," 75B","Regina",N,N,"",0,266,"Shields","","Ian","Conservative","Conservateur",N,N,74
+47013,"Wascana","Wascana"," 75B","Regina",N,N,"",0,266,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47013,"Wascana","Wascana"," 75-1","Regina",N,N,"",0,395,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 75-1","Regina",N,N,"",0,395,"Goodale","","Ralph","Liberal","Libéral",Y,Y,76
+47013,"Wascana","Wascana"," 75-1","Regina",N,N,"",0,395,"Shields","","Ian","Conservative","Conservateur",N,N,102
+47013,"Wascana","Wascana"," 75-1","Regina",N,N,"",0,395,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47013,"Wascana","Wascana"," 75-2A","Regina",N,N,"",0,261,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 75-2A","Regina",N,N,"",0,261,"Goodale","","Ralph","Liberal","Libéral",Y,Y,42
+47013,"Wascana","Wascana"," 75-2A","Regina",N,N,"",0,261,"Shields","","Ian","Conservative","Conservateur",N,N,88
+47013,"Wascana","Wascana"," 75-2A","Regina",N,N,"",0,261,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47013,"Wascana","Wascana"," 75-2B","Regina",N,N,"",1,232,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 75-2B","Regina",N,N,"",1,232,"Goodale","","Ralph","Liberal","Libéral",Y,Y,52
+47013,"Wascana","Wascana"," 75-2B","Regina",N,N,"",1,232,"Shields","","Ian","Conservative","Conservateur",N,N,91
+47013,"Wascana","Wascana"," 75-2B","Regina",N,N,"",1,232,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Wascana","Wascana"," 75-3A","Regina",N,N,"",0,269,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 75-3A","Regina",N,N,"",0,269,"Goodale","","Ralph","Liberal","Libéral",Y,Y,68
+47013,"Wascana","Wascana"," 75-3A","Regina",N,N,"",0,269,"Shields","","Ian","Conservative","Conservateur",N,N,72
+47013,"Wascana","Wascana"," 75-3A","Regina",N,N,"",0,269,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Wascana","Wascana"," 75-3B","Regina",N,N,"",0,236,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 75-3B","Regina",N,N,"",0,236,"Goodale","","Ralph","Liberal","Libéral",Y,Y,58
+47013,"Wascana","Wascana"," 75-3B","Regina",N,N,"",0,236,"Shields","","Ian","Conservative","Conservateur",N,N,56
+47013,"Wascana","Wascana"," 75-3B","Regina",N,N,"",0,236,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Wascana","Wascana"," 76A","Regina",N,N,"",0,345,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 76A","Regina",N,N,"",0,345,"Goodale","","Ralph","Liberal","Libéral",Y,Y,111
+47013,"Wascana","Wascana"," 76A","Regina",N,N,"",0,345,"Shields","","Ian","Conservative","Conservateur",N,N,94
+47013,"Wascana","Wascana"," 76A","Regina",N,N,"",0,345,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Wascana","Wascana"," 76B","Regina",N,N,"",0,331,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 76B","Regina",N,N,"",0,331,"Goodale","","Ralph","Liberal","Libéral",Y,Y,90
+47013,"Wascana","Wascana"," 76B","Regina",N,N,"",0,331,"Shields","","Ian","Conservative","Conservateur",N,N,75
+47013,"Wascana","Wascana"," 76B","Regina",N,N,"",0,331,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47013,"Wascana","Wascana"," 77","Regina",N,N,"",1,497,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 77","Regina",N,N,"",1,497,"Goodale","","Ralph","Liberal","Libéral",Y,Y,118
+47013,"Wascana","Wascana"," 77","Regina",N,N,"",1,497,"Shields","","Ian","Conservative","Conservateur",N,N,136
+47013,"Wascana","Wascana"," 77","Regina",N,N,"",1,497,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47013,"Wascana","Wascana"," 78","Regina",N,N,"",0,374,"Clary","","Bill","Green Party","Parti Vert",N,N,11
+47013,"Wascana","Wascana"," 78","Regina",N,N,"",0,374,"Goodale","","Ralph","Liberal","Libéral",Y,Y,82
+47013,"Wascana","Wascana"," 78","Regina",N,N,"",0,374,"Shields","","Ian","Conservative","Conservateur",N,N,109
+47013,"Wascana","Wascana"," 78","Regina",N,N,"",0,374,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47013,"Wascana","Wascana"," 79","Regina",N,N,"",0,224,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 79","Regina",N,N,"",0,224,"Goodale","","Ralph","Liberal","Libéral",Y,Y,56
+47013,"Wascana","Wascana"," 79","Regina",N,N,"",0,224,"Shields","","Ian","Conservative","Conservateur",N,N,56
+47013,"Wascana","Wascana"," 79","Regina",N,N,"",0,224,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47013,"Wascana","Wascana"," 80","Regina",N,N,"",1,426,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 80","Regina",N,N,"",1,426,"Goodale","","Ralph","Liberal","Libéral",Y,Y,100
+47013,"Wascana","Wascana"," 80","Regina",N,N,"",1,426,"Shields","","Ian","Conservative","Conservateur",N,N,134
+47013,"Wascana","Wascana"," 80","Regina",N,N,"",1,426,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47013,"Wascana","Wascana"," 81","Regina",N,N,"",1,403,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 81","Regina",N,N,"",1,403,"Goodale","","Ralph","Liberal","Libéral",Y,Y,101
+47013,"Wascana","Wascana"," 81","Regina",N,N,"",1,403,"Shields","","Ian","Conservative","Conservateur",N,N,114
+47013,"Wascana","Wascana"," 81","Regina",N,N,"",1,403,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47013,"Wascana","Wascana"," 81-1","Regina",N,N,"",0,299,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 81-1","Regina",N,N,"",0,299,"Goodale","","Ralph","Liberal","Libéral",Y,Y,67
+47013,"Wascana","Wascana"," 81-1","Regina",N,N,"",0,299,"Shields","","Ian","Conservative","Conservateur",N,N,76
+47013,"Wascana","Wascana"," 81-1","Regina",N,N,"",0,299,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47013,"Wascana","Wascana"," 82","Regina",N,N,"",0,427,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 82","Regina",N,N,"",0,427,"Goodale","","Ralph","Liberal","Libéral",Y,Y,126
+47013,"Wascana","Wascana"," 82","Regina",N,N,"",0,427,"Shields","","Ian","Conservative","Conservateur",N,N,137
+47013,"Wascana","Wascana"," 82","Regina",N,N,"",0,427,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47013,"Wascana","Wascana"," 82-1","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 82-1","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 82-1","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 82-1","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 83A","Regina",N,N,"",1,235,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 83A","Regina",N,N,"",1,235,"Goodale","","Ralph","Liberal","Libéral",Y,Y,75
+47013,"Wascana","Wascana"," 83A","Regina",N,N,"",1,235,"Shields","","Ian","Conservative","Conservateur",N,N,48
+47013,"Wascana","Wascana"," 83A","Regina",N,N,"",1,235,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47013,"Wascana","Wascana"," 83B","Regina",N,N,"",1,243,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 83B","Regina",N,N,"",1,243,"Goodale","","Ralph","Liberal","Libéral",Y,Y,92
+47013,"Wascana","Wascana"," 83B","Regina",N,N,"",1,243,"Shields","","Ian","Conservative","Conservateur",N,N,54
+47013,"Wascana","Wascana"," 83B","Regina",N,N,"",1,243,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Wascana","Wascana"," 84","Regina",N,N,"",0,404,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 84","Regina",N,N,"",0,404,"Goodale","","Ralph","Liberal","Libéral",Y,Y,144
+47013,"Wascana","Wascana"," 84","Regina",N,N,"",0,404,"Shields","","Ian","Conservative","Conservateur",N,N,76
+47013,"Wascana","Wascana"," 84","Regina",N,N,"",0,404,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," 85","Regina",N,N,"",0,407,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 85","Regina",N,N,"",0,407,"Goodale","","Ralph","Liberal","Libéral",Y,Y,97
+47013,"Wascana","Wascana"," 85","Regina",N,N,"",0,407,"Shields","","Ian","Conservative","Conservateur",N,N,105
+47013,"Wascana","Wascana"," 85","Regina",N,N,"",0,407,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47013,"Wascana","Wascana"," 86","Regina",N,N,"",0,460,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 86","Regina",N,N,"",0,460,"Goodale","","Ralph","Liberal","Libéral",Y,Y,155
+47013,"Wascana","Wascana"," 86","Regina",N,N,"",0,460,"Shields","","Ian","Conservative","Conservateur",N,N,131
+47013,"Wascana","Wascana"," 86","Regina",N,N,"",0,460,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47013,"Wascana","Wascana"," 87","Regina",N,N,"",2,427,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 87","Regina",N,N,"",2,427,"Goodale","","Ralph","Liberal","Libéral",Y,Y,135
+47013,"Wascana","Wascana"," 87","Regina",N,N,"",2,427,"Shields","","Ian","Conservative","Conservateur",N,N,95
+47013,"Wascana","Wascana"," 87","Regina",N,N,"",2,427,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47013,"Wascana","Wascana"," 88A","Regina",N,N,"",1,270,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 88A","Regina",N,N,"",1,270,"Goodale","","Ralph","Liberal","Libéral",Y,Y,98
+47013,"Wascana","Wascana"," 88A","Regina",N,N,"",1,270,"Shields","","Ian","Conservative","Conservateur",N,N,75
+47013,"Wascana","Wascana"," 88A","Regina",N,N,"",1,270,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 88B","Regina",N,N,"",1,226,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 88B","Regina",N,N,"",1,226,"Goodale","","Ralph","Liberal","Libéral",Y,Y,63
+47013,"Wascana","Wascana"," 88B","Regina",N,N,"",1,226,"Shields","","Ian","Conservative","Conservateur",N,N,76
+47013,"Wascana","Wascana"," 88B","Regina",N,N,"",1,226,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Wascana","Wascana"," 89A","Regina",N,N,"",0,271,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 89A","Regina",N,N,"",0,271,"Goodale","","Ralph","Liberal","Libéral",Y,Y,59
+47013,"Wascana","Wascana"," 89A","Regina",N,N,"",0,271,"Shields","","Ian","Conservative","Conservateur",N,N,84
+47013,"Wascana","Wascana"," 89A","Regina",N,N,"",0,271,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47013,"Wascana","Wascana"," 89B","Regina",N,N,"",0,314,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 89B","Regina",N,N,"",0,314,"Goodale","","Ralph","Liberal","Libéral",Y,Y,92
+47013,"Wascana","Wascana"," 89B","Regina",N,N,"",0,314,"Shields","","Ian","Conservative","Conservateur",N,N,70
+47013,"Wascana","Wascana"," 89B","Regina",N,N,"",0,314,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," 90A","Regina",N,N,"",0,250,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 90A","Regina",N,N,"",0,250,"Goodale","","Ralph","Liberal","Libéral",Y,Y,78
+47013,"Wascana","Wascana"," 90A","Regina",N,N,"",0,250,"Shields","","Ian","Conservative","Conservateur",N,N,76
+47013,"Wascana","Wascana"," 90A","Regina",N,N,"",0,250,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Wascana","Wascana"," 90B","Regina",N,N,"",0,234,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 90B","Regina",N,N,"",0,234,"Goodale","","Ralph","Liberal","Libéral",Y,Y,74
+47013,"Wascana","Wascana"," 90B","Regina",N,N,"",0,234,"Shields","","Ian","Conservative","Conservateur",N,N,52
+47013,"Wascana","Wascana"," 90B","Regina",N,N,"",0,234,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47013,"Wascana","Wascana"," 91","Regina",N,N,"",0,318,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 91","Regina",N,N,"",0,318,"Goodale","","Ralph","Liberal","Libéral",Y,Y,106
+47013,"Wascana","Wascana"," 91","Regina",N,N,"",0,318,"Shields","","Ian","Conservative","Conservateur",N,N,69
+47013,"Wascana","Wascana"," 91","Regina",N,N,"",0,318,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47013,"Wascana","Wascana"," 92","Regina",N,N,"",0,348,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 92","Regina",N,N,"",0,348,"Goodale","","Ralph","Liberal","Libéral",Y,Y,148
+47013,"Wascana","Wascana"," 92","Regina",N,N,"",0,348,"Shields","","Ian","Conservative","Conservateur",N,N,59
+47013,"Wascana","Wascana"," 92","Regina",N,N,"",0,348,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 92-1","Regina",N,N,"",0,279,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 92-1","Regina",N,N,"",0,279,"Goodale","","Ralph","Liberal","Libéral",Y,Y,99
+47013,"Wascana","Wascana"," 92-1","Regina",N,N,"",0,279,"Shields","","Ian","Conservative","Conservateur",N,N,78
+47013,"Wascana","Wascana"," 92-1","Regina",N,N,"",0,279,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47013,"Wascana","Wascana"," 93","Regina",N,N,"",0,369,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 93","Regina",N,N,"",0,369,"Goodale","","Ralph","Liberal","Libéral",Y,Y,126
+47013,"Wascana","Wascana"," 93","Regina",N,N,"",0,369,"Shields","","Ian","Conservative","Conservateur",N,N,81
+47013,"Wascana","Wascana"," 93","Regina",N,N,"",0,369,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47013,"Wascana","Wascana"," 94","Regina",N,N,"",1,307,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 94","Regina",N,N,"",1,307,"Goodale","","Ralph","Liberal","Libéral",Y,Y,112
+47013,"Wascana","Wascana"," 94","Regina",N,N,"",1,307,"Shields","","Ian","Conservative","Conservateur",N,N,57
+47013,"Wascana","Wascana"," 94","Regina",N,N,"",1,307,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47013,"Wascana","Wascana"," 95","Regina",N,N,"",0,306,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 95","Regina",N,N,"",0,306,"Goodale","","Ralph","Liberal","Libéral",Y,Y,101
+47013,"Wascana","Wascana"," 95","Regina",N,N,"",0,306,"Shields","","Ian","Conservative","Conservateur",N,N,65
+47013,"Wascana","Wascana"," 95","Regina",N,N,"",0,306,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47013,"Wascana","Wascana"," 96","Regina",N,N,"",0,285,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 96","Regina",N,N,"",0,285,"Goodale","","Ralph","Liberal","Libéral",Y,Y,103
+47013,"Wascana","Wascana"," 96","Regina",N,N,"",0,285,"Shields","","Ian","Conservative","Conservateur",N,N,44
+47013,"Wascana","Wascana"," 96","Regina",N,N,"",0,285,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," 97","Regina",N,N,"",0,269,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 97","Regina",N,N,"",0,269,"Goodale","","Ralph","Liberal","Libéral",Y,Y,64
+47013,"Wascana","Wascana"," 97","Regina",N,N,"",0,269,"Shields","","Ian","Conservative","Conservateur",N,N,46
+47013,"Wascana","Wascana"," 97","Regina",N,N,"",0,269,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47013,"Wascana","Wascana"," 98","Regina",N,N,"",1,365,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 98","Regina",N,N,"",1,365,"Goodale","","Ralph","Liberal","Libéral",Y,Y,138
+47013,"Wascana","Wascana"," 98","Regina",N,N,"",1,365,"Shields","","Ian","Conservative","Conservateur",N,N,76
+47013,"Wascana","Wascana"," 98","Regina",N,N,"",1,365,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 99","Regina",N,N,"",0,263,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 99","Regina",N,N,"",0,263,"Goodale","","Ralph","Liberal","Libéral",Y,Y,77
+47013,"Wascana","Wascana"," 99","Regina",N,N,"",0,263,"Shields","","Ian","Conservative","Conservateur",N,N,44
+47013,"Wascana","Wascana"," 99","Regina",N,N,"",0,263,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47013,"Wascana","Wascana"," 100","Regina",N,N,"",1,198,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 100","Regina",N,N,"",1,198,"Goodale","","Ralph","Liberal","Libéral",Y,Y,34
+47013,"Wascana","Wascana"," 100","Regina",N,N,"",1,198,"Shields","","Ian","Conservative","Conservateur",N,N,23
+47013,"Wascana","Wascana"," 100","Regina",N,N,"",1,198,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47013,"Wascana","Wascana"," 101","Regina",N,N,"",1,268,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 101","Regina",N,N,"",1,268,"Goodale","","Ralph","Liberal","Libéral",Y,Y,27
+47013,"Wascana","Wascana"," 101","Regina",N,N,"",1,268,"Shields","","Ian","Conservative","Conservateur",N,N,32
+47013,"Wascana","Wascana"," 101","Regina",N,N,"",1,268,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47013,"Wascana","Wascana"," 101-1","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 101-1","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 101-1","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 101-1","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 102","Regina",N,N,"",0,374,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 102","Regina",N,N,"",0,374,"Goodale","","Ralph","Liberal","Libéral",Y,Y,48
+47013,"Wascana","Wascana"," 102","Regina",N,N,"",0,374,"Shields","","Ian","Conservative","Conservateur",N,N,57
+47013,"Wascana","Wascana"," 102","Regina",N,N,"",0,374,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47013,"Wascana","Wascana"," 103","Regina",N,N,"",0,386,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 103","Regina",N,N,"",0,386,"Goodale","","Ralph","Liberal","Libéral",Y,Y,92
+47013,"Wascana","Wascana"," 103","Regina",N,N,"",0,386,"Shields","","Ian","Conservative","Conservateur",N,N,77
+47013,"Wascana","Wascana"," 103","Regina",N,N,"",0,386,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47013,"Wascana","Wascana"," 104","Regina",N,N,"",0,84,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 104","Regina",N,N,"",0,84,"Goodale","","Ralph","Liberal","Libéral",Y,Y,13
+47013,"Wascana","Wascana"," 104","Regina",N,N,"",0,84,"Shields","","Ian","Conservative","Conservateur",N,N,7
+47013,"Wascana","Wascana"," 104","Regina",N,N,"",0,84,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Wascana","Wascana"," 105","Regina",N,N,"",1,286,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 105","Regina",N,N,"",1,286,"Goodale","","Ralph","Liberal","Libéral",Y,Y,115
+47013,"Wascana","Wascana"," 105","Regina",N,N,"",1,286,"Shields","","Ian","Conservative","Conservateur",N,N,62
+47013,"Wascana","Wascana"," 105","Regina",N,N,"",1,286,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47013,"Wascana","Wascana"," 106","Regina",N,N,"",0,350,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 106","Regina",N,N,"",0,350,"Goodale","","Ralph","Liberal","Libéral",Y,Y,118
+47013,"Wascana","Wascana"," 106","Regina",N,N,"",0,350,"Shields","","Ian","Conservative","Conservateur",N,N,97
+47013,"Wascana","Wascana"," 106","Regina",N,N,"",0,350,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47013,"Wascana","Wascana"," 107","Regina",N,N,"",2,364,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 107","Regina",N,N,"",2,364,"Goodale","","Ralph","Liberal","Libéral",Y,Y,90
+47013,"Wascana","Wascana"," 107","Regina",N,N,"",2,364,"Shields","","Ian","Conservative","Conservateur",N,N,97
+47013,"Wascana","Wascana"," 107","Regina",N,N,"",2,364,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47013,"Wascana","Wascana"," 108","Regina",N,N,"",0,295,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 108","Regina",N,N,"",0,295,"Goodale","","Ralph","Liberal","Libéral",Y,Y,100
+47013,"Wascana","Wascana"," 108","Regina",N,N,"",0,295,"Shields","","Ian","Conservative","Conservateur",N,N,65
+47013,"Wascana","Wascana"," 108","Regina",N,N,"",0,295,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47013,"Wascana","Wascana"," 109","Regina",N,N,"",1,353,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 109","Regina",N,N,"",1,353,"Goodale","","Ralph","Liberal","Libéral",Y,Y,130
+47013,"Wascana","Wascana"," 109","Regina",N,N,"",1,353,"Shields","","Ian","Conservative","Conservateur",N,N,88
+47013,"Wascana","Wascana"," 109","Regina",N,N,"",1,353,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Wascana","Wascana"," 110","Regina",N,N,"",0,304,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 110","Regina",N,N,"",0,304,"Goodale","","Ralph","Liberal","Libéral",Y,Y,67
+47013,"Wascana","Wascana"," 110","Regina",N,N,"",0,304,"Shields","","Ian","Conservative","Conservateur",N,N,93
+47013,"Wascana","Wascana"," 110","Regina",N,N,"",0,304,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47013,"Wascana","Wascana"," 111","Regina",N,N,"",0,301,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 111","Regina",N,N,"",0,301,"Goodale","","Ralph","Liberal","Libéral",Y,Y,88
+47013,"Wascana","Wascana"," 111","Regina",N,N,"",0,301,"Shields","","Ian","Conservative","Conservateur",N,N,70
+47013,"Wascana","Wascana"," 111","Regina",N,N,"",0,301,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47013,"Wascana","Wascana"," 112","Regina",N,N,"",0,309,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 112","Regina",N,N,"",0,309,"Goodale","","Ralph","Liberal","Libéral",Y,Y,100
+47013,"Wascana","Wascana"," 112","Regina",N,N,"",0,309,"Shields","","Ian","Conservative","Conservateur",N,N,73
+47013,"Wascana","Wascana"," 112","Regina",N,N,"",0,309,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Wascana","Wascana"," 113","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 113","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 113","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 113","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 114","Regina",N,N,"",0,366,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 114","Regina",N,N,"",0,366,"Goodale","","Ralph","Liberal","Libéral",Y,Y,139
+47013,"Wascana","Wascana"," 114","Regina",N,N,"",0,366,"Shields","","Ian","Conservative","Conservateur",N,N,75
+47013,"Wascana","Wascana"," 114","Regina",N,N,"",0,366,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47013,"Wascana","Wascana"," 115","Regina",N,N,"",0,415,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 115","Regina",N,N,"",0,415,"Goodale","","Ralph","Liberal","Libéral",Y,Y,134
+47013,"Wascana","Wascana"," 115","Regina",N,N,"",0,415,"Shields","","Ian","Conservative","Conservateur",N,N,99
+47013,"Wascana","Wascana"," 115","Regina",N,N,"",0,415,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47013,"Wascana","Wascana"," 116","Regina",N,N,"",1,267,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 116","Regina",N,N,"",1,267,"Goodale","","Ralph","Liberal","Libéral",Y,Y,66
+47013,"Wascana","Wascana"," 116","Regina",N,N,"",1,267,"Shields","","Ian","Conservative","Conservateur",N,N,67
+47013,"Wascana","Wascana"," 116","Regina",N,N,"",1,267,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47013,"Wascana","Wascana"," 117","Regina",N,N,"",0,468,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 117","Regina",N,N,"",0,468,"Goodale","","Ralph","Liberal","Libéral",Y,Y,141
+47013,"Wascana","Wascana"," 117","Regina",N,N,"",0,468,"Shields","","Ian","Conservative","Conservateur",N,N,120
+47013,"Wascana","Wascana"," 117","Regina",N,N,"",0,468,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 118","Regina",N,N,"",0,347,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 118","Regina",N,N,"",0,347,"Goodale","","Ralph","Liberal","Libéral",Y,Y,112
+47013,"Wascana","Wascana"," 118","Regina",N,N,"",0,347,"Shields","","Ian","Conservative","Conservateur",N,N,88
+47013,"Wascana","Wascana"," 118","Regina",N,N,"",0,347,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+47013,"Wascana","Wascana"," 119","Regina",N,N,"",1,426,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 119","Regina",N,N,"",1,426,"Goodale","","Ralph","Liberal","Libéral",Y,Y,128
+47013,"Wascana","Wascana"," 119","Regina",N,N,"",1,426,"Shields","","Ian","Conservative","Conservateur",N,N,96
+47013,"Wascana","Wascana"," 119","Regina",N,N,"",1,426,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47013,"Wascana","Wascana"," 119-1","Regina",N,N,"",0,465,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 119-1","Regina",N,N,"",0,465,"Goodale","","Ralph","Liberal","Libéral",Y,Y,147
+47013,"Wascana","Wascana"," 119-1","Regina",N,N,"",0,465,"Shields","","Ian","Conservative","Conservateur",N,N,118
+47013,"Wascana","Wascana"," 119-1","Regina",N,N,"",0,465,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Wascana","Wascana"," 120A","Regina",N,N,"",0,241,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 120A","Regina",N,N,"",0,241,"Goodale","","Ralph","Liberal","Libéral",Y,Y,71
+47013,"Wascana","Wascana"," 120A","Regina",N,N,"",0,241,"Shields","","Ian","Conservative","Conservateur",N,N,65
+47013,"Wascana","Wascana"," 120A","Regina",N,N,"",0,241,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Wascana","Wascana"," 120B","Regina",N,N,"",0,254,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 120B","Regina",N,N,"",0,254,"Goodale","","Ralph","Liberal","Libéral",Y,Y,94
+47013,"Wascana","Wascana"," 120B","Regina",N,N,"",0,254,"Shields","","Ian","Conservative","Conservateur",N,N,70
+47013,"Wascana","Wascana"," 120B","Regina",N,N,"",0,254,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Wascana","Wascana"," 120-1","Regina",N,N,"",0,348,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 120-1","Regina",N,N,"",0,348,"Goodale","","Ralph","Liberal","Libéral",Y,Y,69
+47013,"Wascana","Wascana"," 120-1","Regina",N,N,"",0,348,"Shields","","Ian","Conservative","Conservateur",N,N,90
+47013,"Wascana","Wascana"," 120-1","Regina",N,N,"",0,348,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 121","Regina",N,N,"",0,467,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 121","Regina",N,N,"",0,467,"Goodale","","Ralph","Liberal","Libéral",Y,Y,120
+47013,"Wascana","Wascana"," 121","Regina",N,N,"",0,467,"Shields","","Ian","Conservative","Conservateur",N,N,120
+47013,"Wascana","Wascana"," 121","Regina",N,N,"",0,467,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47013,"Wascana","Wascana"," 122","Regina",N,N,"",0,238,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 122","Regina",N,N,"",0,238,"Goodale","","Ralph","Liberal","Libéral",Y,Y,50
+47013,"Wascana","Wascana"," 122","Regina",N,N,"",0,238,"Shields","","Ian","Conservative","Conservateur",N,N,22
+47013,"Wascana","Wascana"," 122","Regina",N,N,"",0,238,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 123","Regina",N,N,"",0,269,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 123","Regina",N,N,"",0,269,"Goodale","","Ralph","Liberal","Libéral",Y,Y,83
+47013,"Wascana","Wascana"," 123","Regina",N,N,"",0,269,"Shields","","Ian","Conservative","Conservateur",N,N,68
+47013,"Wascana","Wascana"," 123","Regina",N,N,"",0,269,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Wascana","Wascana"," 124","Regina",N,N,"",2,260,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 124","Regina",N,N,"",2,260,"Goodale","","Ralph","Liberal","Libéral",Y,Y,99
+47013,"Wascana","Wascana"," 124","Regina",N,N,"",2,260,"Shields","","Ian","Conservative","Conservateur",N,N,45
+47013,"Wascana","Wascana"," 124","Regina",N,N,"",2,260,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 125","Regina",N,N,"",0,325,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 125","Regina",N,N,"",0,325,"Goodale","","Ralph","Liberal","Libéral",Y,Y,117
+47013,"Wascana","Wascana"," 125","Regina",N,N,"",0,325,"Shields","","Ian","Conservative","Conservateur",N,N,61
+47013,"Wascana","Wascana"," 125","Regina",N,N,"",0,325,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47013,"Wascana","Wascana"," 126","Regina",N,N,"",0,317,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 126","Regina",N,N,"",0,317,"Goodale","","Ralph","Liberal","Libéral",Y,Y,115
+47013,"Wascana","Wascana"," 126","Regina",N,N,"",0,317,"Shields","","Ian","Conservative","Conservateur",N,N,38
+47013,"Wascana","Wascana"," 126","Regina",N,N,"",0,317,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47013,"Wascana","Wascana"," 127","Regina",N,N,"",0,320,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 127","Regina",N,N,"",0,320,"Goodale","","Ralph","Liberal","Libéral",Y,Y,102
+47013,"Wascana","Wascana"," 127","Regina",N,N,"",0,320,"Shields","","Ian","Conservative","Conservateur",N,N,59
+47013,"Wascana","Wascana"," 127","Regina",N,N,"",0,320,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47013,"Wascana","Wascana"," 128","Regina",N,N,"",0,298,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 128","Regina",N,N,"",0,298,"Goodale","","Ralph","Liberal","Libéral",Y,Y,74
+47013,"Wascana","Wascana"," 128","Regina",N,N,"",0,298,"Shields","","Ian","Conservative","Conservateur",N,N,84
+47013,"Wascana","Wascana"," 128","Regina",N,N,"",0,298,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47013,"Wascana","Wascana"," 129","Regina",N,N,"",0,271,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 129","Regina",N,N,"",0,271,"Goodale","","Ralph","Liberal","Libéral",Y,Y,88
+47013,"Wascana","Wascana"," 129","Regina",N,N,"",0,271,"Shields","","Ian","Conservative","Conservateur",N,N,62
+47013,"Wascana","Wascana"," 129","Regina",N,N,"",0,271,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47013,"Wascana","Wascana"," 130","Regina",N,N,"",0,345,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 130","Regina",N,N,"",0,345,"Goodale","","Ralph","Liberal","Libéral",Y,Y,116
+47013,"Wascana","Wascana"," 130","Regina",N,N,"",0,345,"Shields","","Ian","Conservative","Conservateur",N,N,53
+47013,"Wascana","Wascana"," 130","Regina",N,N,"",0,345,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47013,"Wascana","Wascana"," 131","Regina",N,N,"",1,323,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 131","Regina",N,N,"",1,323,"Goodale","","Ralph","Liberal","Libéral",Y,Y,91
+47013,"Wascana","Wascana"," 131","Regina",N,N,"",1,323,"Shields","","Ian","Conservative","Conservateur",N,N,78
+47013,"Wascana","Wascana"," 131","Regina",N,N,"",1,323,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47013,"Wascana","Wascana"," 132","Regina",N,N,"",1,342,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 132","Regina",N,N,"",1,342,"Goodale","","Ralph","Liberal","Libéral",Y,Y,102
+47013,"Wascana","Wascana"," 132","Regina",N,N,"",1,342,"Shields","","Ian","Conservative","Conservateur",N,N,93
+47013,"Wascana","Wascana"," 132","Regina",N,N,"",1,342,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47013,"Wascana","Wascana"," 133","Regina",N,N,"",0,407,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 133","Regina",N,N,"",0,407,"Goodale","","Ralph","Liberal","Libéral",Y,Y,104
+47013,"Wascana","Wascana"," 133","Regina",N,N,"",0,407,"Shields","","Ian","Conservative","Conservateur",N,N,101
+47013,"Wascana","Wascana"," 133","Regina",N,N,"",0,407,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47013,"Wascana","Wascana"," 134","Regina",N,N,"",0,313,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 134","Regina",N,N,"",0,313,"Goodale","","Ralph","Liberal","Libéral",Y,Y,124
+47013,"Wascana","Wascana"," 134","Regina",N,N,"",0,313,"Shields","","Ian","Conservative","Conservateur",N,N,60
+47013,"Wascana","Wascana"," 134","Regina",N,N,"",0,313,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47013,"Wascana","Wascana"," 135","Regina",N,N,"",0,342,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 135","Regina",N,N,"",0,342,"Goodale","","Ralph","Liberal","Libéral",Y,Y,129
+47013,"Wascana","Wascana"," 135","Regina",N,N,"",0,342,"Shields","","Ian","Conservative","Conservateur",N,N,71
+47013,"Wascana","Wascana"," 135","Regina",N,N,"",0,342,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47013,"Wascana","Wascana"," 136","Regina",N,N,"",0,327,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 136","Regina",N,N,"",0,327,"Goodale","","Ralph","Liberal","Libéral",Y,Y,111
+47013,"Wascana","Wascana"," 136","Regina",N,N,"",0,327,"Shields","","Ian","Conservative","Conservateur",N,N,64
+47013,"Wascana","Wascana"," 136","Regina",N,N,"",0,327,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47013,"Wascana","Wascana"," 137","Estlin--Richardson",N,N,"",0,185,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 137","Estlin--Richardson",N,N,"",0,185,"Goodale","","Ralph","Liberal","Libéral",Y,Y,33
+47013,"Wascana","Wascana"," 137","Estlin--Richardson",N,N,"",0,185,"Shields","","Ian","Conservative","Conservateur",N,N,86
+47013,"Wascana","Wascana"," 137","Estlin--Richardson",N,N,"",0,185,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Wascana","Wascana"," 138","Kronau--Lajord",N,N,"",0,578,"Clary","","Bill","Green Party","Parti Vert",N,N,11
+47013,"Wascana","Wascana"," 138","Kronau--Lajord",N,N,"",0,578,"Goodale","","Ralph","Liberal","Libéral",Y,Y,83
+47013,"Wascana","Wascana"," 138","Kronau--Lajord",N,N,"",0,578,"Shields","","Ian","Conservative","Conservateur",N,N,195
+47013,"Wascana","Wascana"," 138","Kronau--Lajord",N,N,"",0,578,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47013,"Wascana","Wascana"," 139","Riceton--Gray",N,N,"",0,273,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 139","Riceton--Gray",N,N,"",0,273,"Goodale","","Ralph","Liberal","Libéral",Y,Y,53
+47013,"Wascana","Wascana"," 139","Riceton--Gray",N,N,"",0,273,"Shields","","Ian","Conservative","Conservateur",N,N,106
+47013,"Wascana","Wascana"," 139","Riceton--Gray",N,N,"",0,273,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," 140","Vibank",N,N,"",4,308,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 140","Vibank",N,N,"",4,308,"Goodale","","Ralph","Liberal","Libéral",Y,Y,50
+47013,"Wascana","Wascana"," 140","Vibank",N,N,"",4,308,"Shields","","Ian","Conservative","Conservateur",N,N,101
+47013,"Wascana","Wascana"," 140","Vibank",N,N,"",4,308,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+47013,"Wascana","Wascana"," 141","Vibank--Odessa",N,N,"",0,417,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 141","Vibank--Odessa",N,N,"",0,417,"Goodale","","Ralph","Liberal","Libéral",Y,Y,78
+47013,"Wascana","Wascana"," 141","Vibank--Odessa",N,N,"",0,417,"Shields","","Ian","Conservative","Conservateur",N,N,168
+47013,"Wascana","Wascana"," 141","Vibank--Odessa",N,N,"",0,417,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," 142","Sedley",N,N,"",1,354,"Clary","","Bill","Green Party","Parti Vert",N,N,6
+47013,"Wascana","Wascana"," 142","Sedley",N,N,"",1,354,"Goodale","","Ralph","Liberal","Libéral",Y,Y,42
+47013,"Wascana","Wascana"," 142","Sedley",N,N,"",1,354,"Shields","","Ian","Conservative","Conservateur",N,N,106
+47013,"Wascana","Wascana"," 142","Sedley",N,N,"",1,354,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47013,"Wascana","Wascana"," 143","Francis",N,N,"",0,235,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 143","Francis",N,N,"",0,235,"Goodale","","Ralph","Liberal","Libéral",Y,Y,22
+47013,"Wascana","Wascana"," 143","Francis",N,N,"",0,235,"Shields","","Ian","Conservative","Conservateur",N,N,93
+47013,"Wascana","Wascana"," 143","Francis",N,N,"",0,235,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47013,"Wascana","Wascana"," 144","Kendal--Montmartre",N,N,"",1,190,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 144","Kendal--Montmartre",N,N,"",1,190,"Goodale","","Ralph","Liberal","Libéral",Y,Y,26
+47013,"Wascana","Wascana"," 144","Kendal--Montmartre",N,N,"",1,190,"Shields","","Ian","Conservative","Conservateur",N,N,50
+47013,"Wascana","Wascana"," 144","Kendal--Montmartre",N,N,"",1,190,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Wascana","Wascana"," 145","Candiac--Montmartre",N,N,"",0,192,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 145","Candiac--Montmartre",N,N,"",0,192,"Goodale","","Ralph","Liberal","Libéral",Y,Y,11
+47013,"Wascana","Wascana"," 145","Candiac--Montmartre",N,N,"",0,192,"Shields","","Ian","Conservative","Conservateur",N,N,101
+47013,"Wascana","Wascana"," 145","Candiac--Montmartre",N,N,"",0,192,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Wascana","Wascana"," 146","Montmartre",N,N,"",0,428,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 146","Montmartre",N,N,"",0,428,"Goodale","","Ralph","Liberal","Libéral",Y,Y,57
+47013,"Wascana","Wascana"," 146","Montmartre",N,N,"",0,428,"Shields","","Ian","Conservative","Conservateur",N,N,122
+47013,"Wascana","Wascana"," 146","Montmartre",N,N,"",0,428,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47013,"Wascana","Wascana"," 147","Carry the Kettle Nakoda First Nation 76-15",N,N,"611",0,270,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 147","Carry the Kettle Nakoda First Nation 76-15",N,N,"611",0,270,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 147","Carry the Kettle Nakoda First Nation 76-15",N,N,"611",0,270,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 147","Carry the Kettle Nakoda First Nation 76-15",N,N,"611",0,270,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 400","Regina",N,N,"",3,174,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 400","Regina",N,N,"",3,174,"Goodale","","Ralph","Liberal","Libéral",Y,Y,44
+47013,"Wascana","Wascana"," 400","Regina",N,N,"",3,174,"Shields","","Ian","Conservative","Conservateur",N,N,49
+47013,"Wascana","Wascana"," 400","Regina",N,N,"",3,174,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47013,"Wascana","Wascana"," 401","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 401","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 401","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 401","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 402","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 402","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 402","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 402","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 403","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 403","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 403","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 403","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 404","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 404","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 404","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 404","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 405","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 405","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 405","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 405","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 406","Regina",N,N,"",2,152,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 406","Regina",N,N,"",2,152,"Goodale","","Ralph","Liberal","Libéral",Y,Y,38
+47013,"Wascana","Wascana"," 406","Regina",N,N,"",2,152,"Shields","","Ian","Conservative","Conservateur",N,N,32
+47013,"Wascana","Wascana"," 406","Regina",N,N,"",2,152,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 407","Regina",N,N,"",0,155,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 407","Regina",N,N,"",0,155,"Goodale","","Ralph","Liberal","Libéral",Y,Y,49
+47013,"Wascana","Wascana"," 407","Regina",N,N,"",0,155,"Shields","","Ian","Conservative","Conservateur",N,N,52
+47013,"Wascana","Wascana"," 407","Regina",N,N,"",0,155,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47013,"Wascana","Wascana"," 408","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 408","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 408","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 408","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 409","Regina",N,N,"",1,142,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 409","Regina",N,N,"",1,142,"Goodale","","Ralph","Liberal","Libéral",Y,Y,37
+47013,"Wascana","Wascana"," 409","Regina",N,N,"",1,142,"Shields","","Ian","Conservative","Conservateur",N,N,36
+47013,"Wascana","Wascana"," 409","Regina",N,N,"",1,142,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 410","Regina",N,N,"",1,129,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 410","Regina",N,N,"",1,129,"Goodale","","Ralph","Liberal","Libéral",Y,Y,55
+47013,"Wascana","Wascana"," 410","Regina",N,N,"",1,129,"Shields","","Ian","Conservative","Conservateur",N,N,34
+47013,"Wascana","Wascana"," 410","Regina",N,N,"",1,129,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Wascana","Wascana"," 411","Regina",N,N,"",1,154,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 411","Regina",N,N,"",1,154,"Goodale","","Ralph","Liberal","Libéral",Y,Y,61
+47013,"Wascana","Wascana"," 411","Regina",N,N,"",1,154,"Shields","","Ian","Conservative","Conservateur",N,N,37
+47013,"Wascana","Wascana"," 411","Regina",N,N,"",1,154,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47013,"Wascana","Wascana"," 412","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 412","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 412","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 412","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 413","Regina",N,N,"",0,160,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 413","Regina",N,N,"",0,160,"Goodale","","Ralph","Liberal","Libéral",Y,Y,74
+47013,"Wascana","Wascana"," 413","Regina",N,N,"",0,160,"Shields","","Ian","Conservative","Conservateur",N,N,50
+47013,"Wascana","Wascana"," 413","Regina",N,N,"",0,160,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 414","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 414","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 414","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 414","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 415","Regina",N,N,"",2,152,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 415","Regina",N,N,"",2,152,"Goodale","","Ralph","Liberal","Libéral",Y,Y,54
+47013,"Wascana","Wascana"," 415","Regina",N,N,"",2,152,"Shields","","Ian","Conservative","Conservateur",N,N,41
+47013,"Wascana","Wascana"," 415","Regina",N,N,"",2,152,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47013,"Wascana","Wascana"," 416","Regina",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 416","Regina",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 416","Regina",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 416","Regina",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 417","Regina",N,N,"",1,236,"Clary","","Bill","Green Party","Parti Vert",N,N,9
+47013,"Wascana","Wascana"," 417","Regina",N,N,"",1,236,"Goodale","","Ralph","Liberal","Libéral",Y,Y,44
+47013,"Wascana","Wascana"," 417","Regina",N,N,"",1,236,"Shields","","Ian","Conservative","Conservateur",N,N,23
+47013,"Wascana","Wascana"," 417","Regina",N,N,"",1,236,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47013,"Wascana","Wascana"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,0
+47013,"Wascana","Wascana"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,0
+47013,"Wascana","Wascana"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Wascana","Wascana"," 501","Mobile poll/Bureau itinérant",N,N,"",0,204,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 501","Mobile poll/Bureau itinérant",N,N,"",0,204,"Goodale","","Ralph","Liberal","Libéral",Y,Y,58
+47013,"Wascana","Wascana"," 501","Mobile poll/Bureau itinérant",N,N,"",0,204,"Shields","","Ian","Conservative","Conservateur",N,N,68
+47013,"Wascana","Wascana"," 501","Mobile poll/Bureau itinérant",N,N,"",0,204,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47013,"Wascana","Wascana"," 502","Mobile poll/Bureau itinérant",N,N,"",2,178,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 502","Mobile poll/Bureau itinérant",N,N,"",2,178,"Goodale","","Ralph","Liberal","Libéral",Y,Y,45
+47013,"Wascana","Wascana"," 502","Mobile poll/Bureau itinérant",N,N,"",2,178,"Shields","","Ian","Conservative","Conservateur",N,N,31
+47013,"Wascana","Wascana"," 502","Mobile poll/Bureau itinérant",N,N,"",2,178,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 503","Mobile poll/Bureau itinérant",N,N,"",1,174,"Clary","","Bill","Green Party","Parti Vert",N,N,5
+47013,"Wascana","Wascana"," 503","Mobile poll/Bureau itinérant",N,N,"",1,174,"Goodale","","Ralph","Liberal","Libéral",Y,Y,43
+47013,"Wascana","Wascana"," 503","Mobile poll/Bureau itinérant",N,N,"",1,174,"Shields","","Ian","Conservative","Conservateur",N,N,27
+47013,"Wascana","Wascana"," 503","Mobile poll/Bureau itinérant",N,N,"",1,174,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47013,"Wascana","Wascana"," 504","Mobile poll/Bureau itinérant",N,N,"",0,160,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 504","Mobile poll/Bureau itinérant",N,N,"",0,160,"Goodale","","Ralph","Liberal","Libéral",Y,Y,38
+47013,"Wascana","Wascana"," 504","Mobile poll/Bureau itinérant",N,N,"",0,160,"Shields","","Ian","Conservative","Conservateur",N,N,67
+47013,"Wascana","Wascana"," 504","Mobile poll/Bureau itinérant",N,N,"",0,160,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 505","Mobile poll/Bureau itinérant",N,N,"",2,196,"Clary","","Bill","Green Party","Parti Vert",N,N,3
+47013,"Wascana","Wascana"," 505","Mobile poll/Bureau itinérant",N,N,"",2,196,"Goodale","","Ralph","Liberal","Libéral",Y,Y,45
+47013,"Wascana","Wascana"," 505","Mobile poll/Bureau itinérant",N,N,"",2,196,"Shields","","Ian","Conservative","Conservateur",N,N,63
+47013,"Wascana","Wascana"," 505","Mobile poll/Bureau itinérant",N,N,"",2,196,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47013,"Wascana","Wascana"," 506A","Mobile poll/Bureau itinérant",N,N,"",0,54,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 506A","Mobile poll/Bureau itinérant",N,N,"",0,54,"Goodale","","Ralph","Liberal","Libéral",Y,Y,31
+47013,"Wascana","Wascana"," 506A","Mobile poll/Bureau itinérant",N,N,"",0,54,"Shields","","Ian","Conservative","Conservateur",N,N,41
+47013,"Wascana","Wascana"," 506A","Mobile poll/Bureau itinérant",N,N,"",0,54,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47013,"Wascana","Wascana"," 506B","Mobile poll/Bureau itinérant",N,N,"",2,91,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 506B","Mobile poll/Bureau itinérant",N,N,"",2,91,"Goodale","","Ralph","Liberal","Libéral",Y,Y,70
+47013,"Wascana","Wascana"," 506B","Mobile poll/Bureau itinérant",N,N,"",2,91,"Shields","","Ian","Conservative","Conservateur",N,N,37
+47013,"Wascana","Wascana"," 506B","Mobile poll/Bureau itinérant",N,N,"",2,91,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47013,"Wascana","Wascana"," 507","Mobile poll/Bureau itinérant",N,N,"",1,186,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 507","Mobile poll/Bureau itinérant",N,N,"",1,186,"Goodale","","Ralph","Liberal","Libéral",Y,Y,81
+47013,"Wascana","Wascana"," 507","Mobile poll/Bureau itinérant",N,N,"",1,186,"Shields","","Ian","Conservative","Conservateur",N,N,44
+47013,"Wascana","Wascana"," 507","Mobile poll/Bureau itinérant",N,N,"",1,186,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47013,"Wascana","Wascana"," 508","Mobile poll/Bureau itinérant",N,N,"",0,143,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," 508","Mobile poll/Bureau itinérant",N,N,"",0,143,"Goodale","","Ralph","Liberal","Libéral",Y,Y,31
+47013,"Wascana","Wascana"," 508","Mobile poll/Bureau itinérant",N,N,"",0,143,"Shields","","Ian","Conservative","Conservateur",N,N,56
+47013,"Wascana","Wascana"," 508","Mobile poll/Bureau itinérant",N,N,"",0,143,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47013,"Wascana","Wascana"," 600","Regina",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,16
+47013,"Wascana","Wascana"," 600","Regina",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,197
+47013,"Wascana","Wascana"," 600","Regina",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,122
+47013,"Wascana","Wascana"," 600","Regina",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,125
+47013,"Wascana","Wascana"," 601","Regina",N,N,"",1,0,"Clary","","Bill","Green Party","Parti Vert",N,N,7
+47013,"Wascana","Wascana"," 601","Regina",N,N,"",1,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,100
+47013,"Wascana","Wascana"," 601","Regina",N,N,"",1,0,"Shields","","Ian","Conservative","Conservateur",N,N,98
+47013,"Wascana","Wascana"," 601","Regina",N,N,"",1,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47013,"Wascana","Wascana"," 602","Regina",N,N,"",1,0,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 602","Regina",N,N,"",1,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,125
+47013,"Wascana","Wascana"," 602","Regina",N,N,"",1,0,"Shields","","Ian","Conservative","Conservateur",N,N,135
+47013,"Wascana","Wascana"," 602","Regina",N,N,"",1,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+47013,"Wascana","Wascana"," 603","Regina",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,13
+47013,"Wascana","Wascana"," 603","Regina",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,155
+47013,"Wascana","Wascana"," 603","Regina",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,128
+47013,"Wascana","Wascana"," 603","Regina",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+47013,"Wascana","Wascana"," 604","Regina",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,8
+47013,"Wascana","Wascana"," 604","Regina",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,229
+47013,"Wascana","Wascana"," 604","Regina",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,189
+47013,"Wascana","Wascana"," 604","Regina",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47013,"Wascana","Wascana"," 605","Regina",N,N,"",1,0,"Clary","","Bill","Green Party","Parti Vert",N,N,10
+47013,"Wascana","Wascana"," 605","Regina",N,N,"",1,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,212
+47013,"Wascana","Wascana"," 605","Regina",N,N,"",1,0,"Shields","","Ian","Conservative","Conservateur",N,N,138
+47013,"Wascana","Wascana"," 605","Regina",N,N,"",1,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47013,"Wascana","Wascana"," 606","Regina",N,N,"",3,0,"Clary","","Bill","Green Party","Parti Vert",N,N,10
+47013,"Wascana","Wascana"," 606","Regina",N,N,"",3,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,361
+47013,"Wascana","Wascana"," 606","Regina",N,N,"",3,0,"Shields","","Ian","Conservative","Conservateur",N,N,294
+47013,"Wascana","Wascana"," 606","Regina",N,N,"",3,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47013,"Wascana","Wascana"," 607","Regina",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,10
+47013,"Wascana","Wascana"," 607","Regina",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,188
+47013,"Wascana","Wascana"," 607","Regina",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,121
+47013,"Wascana","Wascana"," 607","Regina",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+47013,"Wascana","Wascana"," 608","Riceton--Kronau--Lajord",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 608","Riceton--Kronau--Lajord",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,23
+47013,"Wascana","Wascana"," 608","Riceton--Kronau--Lajord",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,47
+47013,"Wascana","Wascana"," 608","Riceton--Kronau--Lajord",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Wascana","Wascana"," 609","Vibank--Odessa--Sedley--Francis",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 609","Vibank--Odessa--Sedley--Francis",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,21
+47013,"Wascana","Wascana"," 609","Vibank--Odessa--Sedley--Francis",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,35
+47013,"Wascana","Wascana"," 609","Vibank--Odessa--Sedley--Francis",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," 610","Kendal--Montmartre",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,1
+47013,"Wascana","Wascana"," 610","Kendal--Montmartre",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,16
+47013,"Wascana","Wascana"," 610","Kendal--Montmartre",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,41
+47013,"Wascana","Wascana"," 610","Kendal--Montmartre",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Wascana","Wascana"," 611","Carry the Kettle Nakoda First Nation 76-15",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,0
+47013,"Wascana","Wascana"," 611","Carry the Kettle Nakoda First Nation 76-15",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,30
+47013,"Wascana","Wascana"," 611","Carry the Kettle Nakoda First Nation 76-15",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,2
+47013,"Wascana","Wascana"," 611","Carry the Kettle Nakoda First Nation 76-15",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Wascana","Wascana"," 612","Regina",N,N,"",0,0,"Clary","","Bill","Green Party","Parti Vert",N,N,4
+47013,"Wascana","Wascana"," 612","Regina",N,N,"",0,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,182
+47013,"Wascana","Wascana"," 612","Regina",N,N,"",0,0,"Shields","","Ian","Conservative","Conservateur",N,N,164
+47013,"Wascana","Wascana"," 612","Regina",N,N,"",0,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47013,"Wascana","Wascana"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,185,"Clary","","Bill","Green Party","Parti Vert",N,N,2
+47013,"Wascana","Wascana"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,185,"Goodale","","Ralph","Liberal","Libéral",Y,Y,56
+47013,"Wascana","Wascana"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,185,"Shields","","Ian","Conservative","Conservateur",N,N,30
+47013,"Wascana","Wascana"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,185,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Wascana","Wascana"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Clary","","Bill","Green Party","Parti Vert",N,N,15
+47013,"Wascana","Wascana"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Goodale","","Ralph","Liberal","Libéral",Y,Y,264
+47013,"Wascana","Wascana"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Shields","","Ian","Conservative","Conservateur",N,N,162
+47013,"Wascana","Wascana"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Spooner","","Marc","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70

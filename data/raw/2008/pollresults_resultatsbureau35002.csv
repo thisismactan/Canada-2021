@@ -1,0 +1,914 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 1","Manitouwadge--Hillsport",N,N,"",0,50,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 1","Manitouwadge--Hillsport",N,N,"",0,50,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 1","Manitouwadge--Hillsport",N,N,"",0,50,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 1","Manitouwadge--Hillsport",N,N,"",0,50,"St. Denis","","Brent","Liberal","Libéral",Y,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 2","Manitouwadge",N,N,"",0,426,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,88
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 2","Manitouwadge",N,N,"",0,426,"Musgrove","","Dianne","Conservative","Conservateur",N,N,40
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 2","Manitouwadge",N,N,"",0,426,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 2","Manitouwadge",N,N,"",0,426,"St. Denis","","Brent","Liberal","Libéral",Y,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 3","Manitouwadge",N,N,"",0,167,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 3","Manitouwadge",N,N,"",0,167,"Musgrove","","Dianne","Conservative","Conservateur",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 3","Manitouwadge",N,N,"",0,167,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 3","Manitouwadge",N,N,"",0,167,"St. Denis","","Brent","Liberal","Libéral",Y,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 4","Manitouwadge",N,N,"",0,434,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,85
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 4","Manitouwadge",N,N,"",0,434,"Musgrove","","Dianne","Conservative","Conservateur",N,N,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 4","Manitouwadge",N,N,"",0,434,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 4","Manitouwadge",N,N,"",0,434,"St. Denis","","Brent","Liberal","Libéral",Y,N,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 5","Manitouwadge",N,N,"",0,147,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 5","Manitouwadge",N,N,"",0,147,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 5","Manitouwadge",N,N,"",0,147,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 5","Manitouwadge",N,N,"",0,147,"St. Denis","","Brent","Liberal","Libéral",Y,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 6","Manitouwadge",N,N,"",0,164,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 6","Manitouwadge",N,N,"",0,164,"Musgrove","","Dianne","Conservative","Conservateur",N,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 6","Manitouwadge",N,N,"",0,164,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 6","Manitouwadge",N,N,"",0,164,"St. Denis","","Brent","Liberal","Libéral",Y,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 7","Manitouwadge",N,N,"",1,185,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 7","Manitouwadge",N,N,"",1,185,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 7","Manitouwadge",N,N,"",1,185,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 7","Manitouwadge",N,N,"",1,185,"St. Denis","","Brent","Liberal","Libéral",Y,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 8","Manitouwadge",N,N,"",0,134,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 8","Manitouwadge",N,N,"",0,134,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 8","Manitouwadge",N,N,"",0,134,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 8","Manitouwadge",N,N,"",0,134,"St. Denis","","Brent","Liberal","Libéral",Y,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 9","Manitouwadge",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 9","Manitouwadge",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 9","Manitouwadge",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 9","Manitouwadge",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 10","Pic Mobert North",N,N,"",1,131,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 10","Pic Mobert North",N,N,"",1,131,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 10","Pic Mobert North",N,N,"",1,131,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 10","Pic Mobert North",N,N,"",1,131,"St. Denis","","Brent","Liberal","Libéral",Y,N,20
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 11","Hornepayne",N,N,"",1,152,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 11","Hornepayne",N,N,"",1,152,"Musgrove","","Dianne","Conservative","Conservateur",N,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 11","Hornepayne",N,N,"",1,152,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 11","Hornepayne",N,N,"",1,152,"St. Denis","","Brent","Liberal","Libéral",Y,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 12","Hornepayne",N,N,"",0,259,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,69
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 12","Hornepayne",N,N,"",0,259,"Musgrove","","Dianne","Conservative","Conservateur",N,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 12","Hornepayne",N,N,"",0,259,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 12","Hornepayne",N,N,"",0,259,"St. Denis","","Brent","Liberal","Libéral",Y,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 13","Hornepayne",N,N,"",0,209,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 13","Hornepayne",N,N,"",0,209,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 13","Hornepayne",N,N,"",0,209,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 13","Hornepayne",N,N,"",0,209,"St. Denis","","Brent","Liberal","Libéral",Y,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 14","Hornepayne",N,N,"",0,275,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 14","Hornepayne",N,N,"",0,275,"Musgrove","","Dianne","Conservative","Conservateur",N,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 14","Hornepayne",N,N,"",0,275,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 14","Hornepayne",N,N,"",0,275,"St. Denis","","Brent","Liberal","Libéral",Y,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 15","White River",N,N,"",0,144,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,42
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 15","White River",N,N,"",0,144,"Musgrove","","Dianne","Conservative","Conservateur",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 15","White River",N,N,"",0,144,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 15","White River",N,N,"",0,144,"St. Denis","","Brent","Liberal","Libéral",Y,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 16","White River",N,N,"",0,268,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,63
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 16","White River",N,N,"",0,268,"Musgrove","","Dianne","Conservative","Conservateur",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 16","White River",N,N,"",0,268,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 16","White River",N,N,"",0,268,"St. Denis","","Brent","Liberal","Libéral",Y,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 17","White River",N,N,"",0,130,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,29
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 17","White River",N,N,"",0,130,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 17","White River",N,N,"",0,130,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 17","White River",N,N,"",0,130,"St. Denis","","Brent","Liberal","Libéral",Y,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 18","Oba",N,N,"",0,7,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 18","Oba",N,N,"",0,7,"Musgrove","","Dianne","Conservative","Conservateur",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 18","Oba",N,N,"",0,7,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 18","Oba",N,N,"",0,7,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19","Calstock",N,N,"",0,173,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19","Calstock",N,N,"",0,173,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19","Calstock",N,N,"",0,173,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19","Calstock",N,N,"",0,173,"St. Denis","","Brent","Liberal","Libéral",Y,N,27
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19-1","Constance Lake 92",N,N,"",0,414,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19-1","Constance Lake 92",N,N,"",0,414,"Musgrove","","Dianne","Conservative","Conservateur",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19-1","Constance Lake 92",N,N,"",0,414,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 19-1","Constance Lake 92",N,N,"",0,414,"St. Denis","","Brent","Liberal","Libéral",Y,N,33
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 20","Hearst",N,N,"",0,461,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,99
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 20","Hearst",N,N,"",0,461,"Musgrove","","Dianne","Conservative","Conservateur",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 20","Hearst",N,N,"",0,461,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 20","Hearst",N,N,"",0,461,"St. Denis","","Brent","Liberal","Libéral",Y,N,88
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 21","Hearst",N,N,"",1,317,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,64
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 21","Hearst",N,N,"",1,317,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 21","Hearst",N,N,"",1,317,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 21","Hearst",N,N,"",1,317,"St. Denis","","Brent","Liberal","Libéral",Y,N,74
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 22","Hearst",N,N,"",0,375,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 22","Hearst",N,N,"",0,375,"Musgrove","","Dianne","Conservative","Conservateur",N,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 22","Hearst",N,N,"",0,375,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 22","Hearst",N,N,"",0,375,"St. Denis","","Brent","Liberal","Libéral",Y,N,63
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 23","Hearst",N,N,"",4,376,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,82
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 23","Hearst",N,N,"",4,376,"Musgrove","","Dianne","Conservative","Conservateur",N,N,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 23","Hearst",N,N,"",4,376,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 23","Hearst",N,N,"",4,376,"St. Denis","","Brent","Liberal","Libéral",Y,N,83
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 24","Hearst",N,N,"",2,383,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,83
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 24","Hearst",N,N,"",2,383,"Musgrove","","Dianne","Conservative","Conservateur",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 24","Hearst",N,N,"",2,383,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 24","Hearst",N,N,"",2,383,"St. Denis","","Brent","Liberal","Libéral",Y,N,93
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 25","Hearst",N,N,"",0,320,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 25","Hearst",N,N,"",0,320,"Musgrove","","Dianne","Conservative","Conservateur",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 25","Hearst",N,N,"",0,320,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 25","Hearst",N,N,"",0,320,"St. Denis","","Brent","Liberal","Libéral",Y,N,85
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 26","Hearst",N,N,"",3,390,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,63
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 26","Hearst",N,N,"",3,390,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 26","Hearst",N,N,"",3,390,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 26","Hearst",N,N,"",3,390,"St. Denis","","Brent","Liberal","Libéral",Y,N,72
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 27","Hearst",N,N,"",1,439,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,97
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 27","Hearst",N,N,"",1,439,"Musgrove","","Dianne","Conservative","Conservateur",N,N,27
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 27","Hearst",N,N,"",1,439,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 27","Hearst",N,N,"",1,439,"St. Denis","","Brent","Liberal","Libéral",Y,N,92
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 28","Hearst",N,N,"",3,355,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,65
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 28","Hearst",N,N,"",3,355,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 28","Hearst",N,N,"",3,355,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 28","Hearst",N,N,"",3,355,"St. Denis","","Brent","Liberal","Libéral",Y,N,75
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29A","Hearst",N,N,"",1,293,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,60
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29A","Hearst",N,N,"",1,293,"Musgrove","","Dianne","Conservative","Conservateur",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29A","Hearst",N,N,"",1,293,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29A","Hearst",N,N,"",1,293,"St. Denis","","Brent","Liberal","Libéral",Y,N,70
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29B","Hearst",N,N,"",0,299,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,62
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29B","Hearst",N,N,"",0,299,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29B","Hearst",N,N,"",0,299,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 29B","Hearst",N,N,"",0,299,"St. Denis","","Brent","Liberal","Libéral",Y,N,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 30","Lac-Ste-Thérèse",N,N,"",0,270,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,60
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 30","Lac-Ste-Thérèse",N,N,"",0,270,"Musgrove","","Dianne","Conservative","Conservateur",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 30","Lac-Ste-Thérèse",N,N,"",0,270,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 30","Lac-Ste-Thérèse",N,N,"",0,270,"St. Denis","","Brent","Liberal","Libéral",Y,N,54
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 31","Mattice",N,N,"",0,251,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,75
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 31","Mattice",N,N,"",0,251,"Musgrove","","Dianne","Conservative","Conservateur",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 31","Mattice",N,N,"",0,251,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 31","Mattice",N,N,"",0,251,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32","Jogues",N,N,"",0,310,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,72
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32","Jogues",N,N,"",0,310,"Musgrove","","Dianne","Conservative","Conservateur",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32","Jogues",N,N,"",0,310,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32","Jogues",N,N,"",0,310,"St. Denis","","Brent","Liberal","Libéral",Y,N,53
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32-1","Hearst",N,N,"",1,223,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32-1","Hearst",N,N,"",1,223,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32-1","Hearst",N,N,"",1,223,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 32-1","Hearst",N,N,"",1,223,"St. Denis","","Brent","Liberal","Libéral",Y,N,71
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 33","Mattice",N,N,"",1,303,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,95
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 33","Mattice",N,N,"",1,303,"Musgrove","","Dianne","Conservative","Conservateur",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 33","Mattice",N,N,"",1,303,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 33","Mattice",N,N,"",1,303,"St. Denis","","Brent","Liberal","Libéral",Y,N,65
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 34","Opasatika",N,N,"",2,210,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,63
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 34","Opasatika",N,N,"",2,210,"Musgrove","","Dianne","Conservative","Conservateur",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 34","Opasatika",N,N,"",2,210,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 34","Opasatika",N,N,"",2,210,"St. Denis","","Brent","Liberal","Libéral",Y,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 35","Harty",N,N,"",0,109,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 35","Harty",N,N,"",0,109,"Musgrove","","Dianne","Conservative","Conservateur",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 35","Harty",N,N,"",0,109,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 35","Harty",N,N,"",0,109,"St. Denis","","Brent","Liberal","Libéral",Y,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 36","Val Rita",N,N,"",2,376,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,119
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 36","Val Rita",N,N,"",2,376,"Musgrove","","Dianne","Conservative","Conservateur",N,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 36","Val Rita",N,N,"",2,376,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 36","Val Rita",N,N,"",2,376,"St. Denis","","Brent","Liberal","Libéral",Y,N,53
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 37","Kapuskasing",N,N,"",0,229,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 37","Kapuskasing",N,N,"",0,229,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 37","Kapuskasing",N,N,"",0,229,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 37","Kapuskasing",N,N,"",0,229,"St. Denis","","Brent","Liberal","Libéral",Y,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 38","Kapuskasing",N,N,"",2,269,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 38","Kapuskasing",N,N,"",2,269,"Musgrove","","Dianne","Conservative","Conservateur",N,N,33
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 38","Kapuskasing",N,N,"",2,269,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 38","Kapuskasing",N,N,"",2,269,"St. Denis","","Brent","Liberal","Libéral",Y,N,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 39","Kapuskasing",N,N,"",0,277,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,87
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 39","Kapuskasing",N,N,"",0,277,"Musgrove","","Dianne","Conservative","Conservateur",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 39","Kapuskasing",N,N,"",0,277,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 39","Kapuskasing",N,N,"",0,277,"St. Denis","","Brent","Liberal","Libéral",Y,N,37
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 40","Kapuskasing",N,N,"",0,343,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,66
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 40","Kapuskasing",N,N,"",0,343,"Musgrove","","Dianne","Conservative","Conservateur",N,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 40","Kapuskasing",N,N,"",0,343,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 40","Kapuskasing",N,N,"",0,343,"St. Denis","","Brent","Liberal","Libéral",Y,N,64
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 41","Kapuskasing",N,N,"",2,268,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,76
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 41","Kapuskasing",N,N,"",2,268,"Musgrove","","Dianne","Conservative","Conservateur",N,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 41","Kapuskasing",N,N,"",2,268,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 41","Kapuskasing",N,N,"",2,268,"St. Denis","","Brent","Liberal","Libéral",Y,N,54
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 42","Kapuskasing",N,N,"",0,260,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,42
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 42","Kapuskasing",N,N,"",0,260,"Musgrove","","Dianne","Conservative","Conservateur",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 42","Kapuskasing",N,N,"",0,260,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 42","Kapuskasing",N,N,"",0,260,"St. Denis","","Brent","Liberal","Libéral",Y,N,37
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 43","Kapuskasing",N,N,"",1,312,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,78
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 43","Kapuskasing",N,N,"",1,312,"Musgrove","","Dianne","Conservative","Conservateur",N,N,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 43","Kapuskasing",N,N,"",1,312,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 43","Kapuskasing",N,N,"",1,312,"St. Denis","","Brent","Liberal","Libéral",Y,N,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 44","Kapuskasing",N,N,"",1,285,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 44","Kapuskasing",N,N,"",1,285,"Musgrove","","Dianne","Conservative","Conservateur",N,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 44","Kapuskasing",N,N,"",1,285,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 44","Kapuskasing",N,N,"",1,285,"St. Denis","","Brent","Liberal","Libéral",Y,N,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 45","Kapuskasing",N,N,"",3,285,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,88
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 45","Kapuskasing",N,N,"",3,285,"Musgrove","","Dianne","Conservative","Conservateur",N,N,27
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 45","Kapuskasing",N,N,"",3,285,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 45","Kapuskasing",N,N,"",3,285,"St. Denis","","Brent","Liberal","Libéral",Y,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 46","Kapuskasing",N,N,"",1,344,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,86
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 46","Kapuskasing",N,N,"",1,344,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 46","Kapuskasing",N,N,"",1,344,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 46","Kapuskasing",N,N,"",1,344,"St. Denis","","Brent","Liberal","Libéral",Y,N,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 47","Kapuskasing",N,N,"",2,211,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 47","Kapuskasing",N,N,"",2,211,"Musgrove","","Dianne","Conservative","Conservateur",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 47","Kapuskasing",N,N,"",2,211,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 47","Kapuskasing",N,N,"",2,211,"St. Denis","","Brent","Liberal","Libéral",Y,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 48","Kapuskasing",N,N,"",0,297,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 48","Kapuskasing",N,N,"",0,297,"Musgrove","","Dianne","Conservative","Conservateur",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 48","Kapuskasing",N,N,"",0,297,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 48","Kapuskasing",N,N,"",0,297,"St. Denis","","Brent","Liberal","Libéral",Y,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 49","Kapuskasing",N,N,"",1,225,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 49","Kapuskasing",N,N,"",1,225,"Musgrove","","Dianne","Conservative","Conservateur",N,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 49","Kapuskasing",N,N,"",1,225,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 49","Kapuskasing",N,N,"",1,225,"St. Denis","","Brent","Liberal","Libéral",Y,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 50","Kapuskasing",N,N,"",0,291,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,77
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 50","Kapuskasing",N,N,"",0,291,"Musgrove","","Dianne","Conservative","Conservateur",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 50","Kapuskasing",N,N,"",0,291,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 50","Kapuskasing",N,N,"",0,291,"St. Denis","","Brent","Liberal","Libéral",Y,N,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 51","Kapuskasing",N,N,"",0,357,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,96
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 51","Kapuskasing",N,N,"",0,357,"Musgrove","","Dianne","Conservative","Conservateur",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 51","Kapuskasing",N,N,"",0,357,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 51","Kapuskasing",N,N,"",0,357,"St. Denis","","Brent","Liberal","Libéral",Y,N,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 52","Kapuskasing",N,N,"",1,329,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,78
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 52","Kapuskasing",N,N,"",1,329,"Musgrove","","Dianne","Conservative","Conservateur",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 52","Kapuskasing",N,N,"",1,329,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 52","Kapuskasing",N,N,"",1,329,"St. Denis","","Brent","Liberal","Libéral",Y,N,50
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 53","Kapuskasing",N,N,"",1,320,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,66
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 53","Kapuskasing",N,N,"",1,320,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 53","Kapuskasing",N,N,"",1,320,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 53","Kapuskasing",N,N,"",1,320,"St. Denis","","Brent","Liberal","Libéral",Y,N,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 54","Kapuskasing",N,N,"",0,305,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,80
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 54","Kapuskasing",N,N,"",0,305,"Musgrove","","Dianne","Conservative","Conservateur",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 54","Kapuskasing",N,N,"",0,305,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 54","Kapuskasing",N,N,"",0,305,"St. Denis","","Brent","Liberal","Libéral",Y,N,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 55","Kapuskasing",N,N,"",0,325,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,83
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 55","Kapuskasing",N,N,"",0,325,"Musgrove","","Dianne","Conservative","Conservateur",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 55","Kapuskasing",N,N,"",0,325,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 55","Kapuskasing",N,N,"",0,325,"St. Denis","","Brent","Liberal","Libéral",Y,N,60
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 56","Kitigan--Kapuskasing",N,N,"",0,331,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,91
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 56","Kitigan--Kapuskasing",N,N,"",0,331,"Musgrove","","Dianne","Conservative","Conservateur",N,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 56","Kitigan--Kapuskasing",N,N,"",0,331,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 56","Kitigan--Kapuskasing",N,N,"",0,331,"St. Denis","","Brent","Liberal","Libéral",Y,N,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 57","Kapuskasing",N,N,"",0,466,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,130
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 57","Kapuskasing",N,N,"",0,466,"Musgrove","","Dianne","Conservative","Conservateur",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 57","Kapuskasing",N,N,"",0,466,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 57","Kapuskasing",N,N,"",0,466,"St. Denis","","Brent","Liberal","Libéral",Y,N,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 58","Kapuskasing",N,N,"",1,344,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,83
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 58","Kapuskasing",N,N,"",1,344,"Musgrove","","Dianne","Conservative","Conservateur",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 58","Kapuskasing",N,N,"",1,344,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 58","Kapuskasing",N,N,"",1,344,"St. Denis","","Brent","Liberal","Libéral",Y,N,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 59","Moonbeam",N,N,"",0,266,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,65
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 59","Moonbeam",N,N,"",0,266,"Musgrove","","Dianne","Conservative","Conservateur",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 59","Moonbeam",N,N,"",0,266,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 59","Moonbeam",N,N,"",0,266,"St. Denis","","Brent","Liberal","Libéral",Y,N,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60A","Moonbeam",N,N,"",1,307,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,73
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60A","Moonbeam",N,N,"",1,307,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60A","Moonbeam",N,N,"",1,307,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60A","Moonbeam",N,N,"",1,307,"St. Denis","","Brent","Liberal","Libéral",Y,N,77
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60B","Moonbeam",N,N,"",1,291,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,97
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60B","Moonbeam",N,N,"",1,291,"Musgrove","","Dianne","Conservative","Conservateur",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60B","Moonbeam",N,N,"",1,291,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 60B","Moonbeam",N,N,"",1,291,"St. Denis","","Brent","Liberal","Libéral",Y,N,48
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 61","Val Rita",N,N,"",0,140,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 61","Val Rita",N,N,"",0,140,"Musgrove","","Dianne","Conservative","Conservateur",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 61","Val Rita",N,N,"",0,140,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 61","Val Rita",N,N,"",0,140,"St. Denis","","Brent","Liberal","Libéral",Y,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 62","Smooth Rock Falls",N,N,"",2,283,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 62","Smooth Rock Falls",N,N,"",2,283,"Musgrove","","Dianne","Conservative","Conservateur",N,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 62","Smooth Rock Falls",N,N,"",2,283,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 62","Smooth Rock Falls",N,N,"",2,283,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 63","Smooth Rock Falls",N,N,"",0,359,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,71
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 63","Smooth Rock Falls",N,N,"",0,359,"Musgrove","","Dianne","Conservative","Conservateur",N,N,20
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 63","Smooth Rock Falls",N,N,"",0,359,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 63","Smooth Rock Falls",N,N,"",0,359,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 64","Smooth Rock Falls",N,N,"",0,284,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,68
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 64","Smooth Rock Falls",N,N,"",0,284,"Musgrove","","Dianne","Conservative","Conservateur",N,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 64","Smooth Rock Falls",N,N,"",0,284,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 64","Smooth Rock Falls",N,N,"",0,284,"St. Denis","","Brent","Liberal","Libéral",Y,N,27
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 65","Fauquier",N,N,"",2,390,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,125
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 65","Fauquier",N,N,"",2,390,"Musgrove","","Dianne","Conservative","Conservateur",N,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 65","Fauquier",N,N,"",2,390,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 65","Fauquier",N,N,"",2,390,"St. Denis","","Brent","Liberal","Libéral",Y,N,51
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 66","Strickland",N,N,"",1,109,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 66","Strickland",N,N,"",1,109,"Musgrove","","Dianne","Conservative","Conservateur",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 66","Strickland",N,N,"",1,109,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 66","Strickland",N,N,"",1,109,"St. Denis","","Brent","Liberal","Libéral",Y,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67A","Smooth Rock Falls",N,N,"",1,221,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67A","Smooth Rock Falls",N,N,"",1,221,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67A","Smooth Rock Falls",N,N,"",1,221,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67A","Smooth Rock Falls",N,N,"",1,221,"St. Denis","","Brent","Liberal","Libéral",Y,N,40
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67B","Smooth Rock Falls",N,N,"",0,93,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67B","Smooth Rock Falls",N,N,"",0,93,"Musgrove","","Dianne","Conservative","Conservateur",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67B","Smooth Rock Falls",N,N,"",0,93,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 67B","Smooth Rock Falls",N,N,"",0,93,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 68","Dubreuilville",N,N,"",0,200,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,69
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 68","Dubreuilville",N,N,"",0,200,"Musgrove","","Dianne","Conservative","Conservateur",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 68","Dubreuilville",N,N,"",0,200,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 68","Dubreuilville",N,N,"",0,200,"St. Denis","","Brent","Liberal","Libéral",Y,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 69","Dubreuilville",N,N,"",2,323,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,97
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 69","Dubreuilville",N,N,"",2,323,"Musgrove","","Dianne","Conservative","Conservateur",N,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 69","Dubreuilville",N,N,"",2,323,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 69","Dubreuilville",N,N,"",2,323,"St. Denis","","Brent","Liberal","Libéral",Y,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 70","Wawa",N,N,"",1,335,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,57
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 70","Wawa",N,N,"",1,335,"Musgrove","","Dianne","Conservative","Conservateur",N,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 70","Wawa",N,N,"",1,335,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 70","Wawa",N,N,"",1,335,"St. Denis","","Brent","Liberal","Libéral",Y,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 71","Michipicoten",N,N,"",1,39,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 71","Michipicoten",N,N,"",1,39,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 71","Michipicoten",N,N,"",1,39,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 71","Michipicoten",N,N,"",1,39,"St. Denis","","Brent","Liberal","Libéral",Y,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 72","Wawa",N,N,"",1,321,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,51
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 72","Wawa",N,N,"",1,321,"Musgrove","","Dianne","Conservative","Conservateur",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 72","Wawa",N,N,"",1,321,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 72","Wawa",N,N,"",1,321,"St. Denis","","Brent","Liberal","Libéral",Y,N,20
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 73","Wawa",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 73","Wawa",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 73","Wawa",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 73","Wawa",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 74","Wawa",N,N,"",1,388,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,74
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 74","Wawa",N,N,"",1,388,"Musgrove","","Dianne","Conservative","Conservateur",N,N,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 74","Wawa",N,N,"",1,388,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 74","Wawa",N,N,"",1,388,"St. Denis","","Brent","Liberal","Libéral",Y,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 75","Wawa",N,N,"",1,402,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,91
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 75","Wawa",N,N,"",1,402,"Musgrove","","Dianne","Conservative","Conservateur",N,N,37
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 75","Wawa",N,N,"",1,402,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 75","Wawa",N,N,"",1,402,"St. Denis","","Brent","Liberal","Libéral",Y,N,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 76","Wawa",N,N,"",0,308,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 76","Wawa",N,N,"",0,308,"Musgrove","","Dianne","Conservative","Conservateur",N,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 76","Wawa",N,N,"",0,308,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 76","Wawa",N,N,"",0,308,"St. Denis","","Brent","Liberal","Libéral",Y,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 77","Wawa",N,N,"",0,307,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,83
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 77","Wawa",N,N,"",0,307,"Musgrove","","Dianne","Conservative","Conservateur",N,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 77","Wawa",N,N,"",0,307,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 77","Wawa",N,N,"",0,307,"St. Denis","","Brent","Liberal","Libéral",Y,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 78","Wawa",N,N,"",0,380,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,57
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 78","Wawa",N,N,"",0,380,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 78","Wawa",N,N,"",0,380,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 78","Wawa",N,N,"",0,380,"St. Denis","","Brent","Liberal","Libéral",Y,N,39
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 79","Hawk Junction",N,N,"",0,194,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 79","Hawk Junction",N,N,"",0,194,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 79","Hawk Junction",N,N,"",0,194,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 79","Hawk Junction",N,N,"",0,194,"St. Denis","","Brent","Liberal","Libéral",Y,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 80","Missanabie",N,N,"",0,35,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 80","Missanabie",N,N,"",0,35,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 80","Missanabie",N,N,"",0,35,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 80","Missanabie",N,N,"",0,35,"St. Denis","","Brent","Liberal","Libéral",Y,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 81","Montreal River Harbour",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 81","Montreal River Harbour",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 81","Montreal River Harbour",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 81","Montreal River Harbour",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 82","Chapleau",N,N,"",0,223,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 82","Chapleau",N,N,"",0,223,"Musgrove","","Dianne","Conservative","Conservateur",N,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 82","Chapleau",N,N,"",0,223,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 82","Chapleau",N,N,"",0,223,"St. Denis","","Brent","Liberal","Libéral",Y,N,31
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 83","Chapleau",N,N,"",0,325,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 83","Chapleau",N,N,"",0,325,"Musgrove","","Dianne","Conservative","Conservateur",N,N,20
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 83","Chapleau",N,N,"",0,325,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 83","Chapleau",N,N,"",0,325,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 84","Chapleau",N,N,"",0,243,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,57
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 84","Chapleau",N,N,"",0,243,"Musgrove","","Dianne","Conservative","Conservateur",N,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 84","Chapleau",N,N,"",0,243,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 84","Chapleau",N,N,"",0,243,"St. Denis","","Brent","Liberal","Libéral",Y,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 85","Chapleau",N,N,"",2,485,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,60
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 85","Chapleau",N,N,"",2,485,"Musgrove","","Dianne","Conservative","Conservateur",N,N,27
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 85","Chapleau",N,N,"",2,485,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 85","Chapleau",N,N,"",2,485,"St. Denis","","Brent","Liberal","Libéral",Y,N,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 86","Chapleau",N,N,"",1,421,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,57
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 86","Chapleau",N,N,"",1,421,"Musgrove","","Dianne","Conservative","Conservateur",N,N,27
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 86","Chapleau",N,N,"",1,421,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 86","Chapleau",N,N,"",1,421,"St. Denis","","Brent","Liberal","Libéral",Y,N,39
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 87","Chapleau",N,N,"",0,107,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 87","Chapleau",N,N,"",0,107,"Musgrove","","Dianne","Conservative","Conservateur",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 87","Chapleau",N,N,"",0,107,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 87","Chapleau",N,N,"",0,107,"St. Denis","","Brent","Liberal","Libéral",Y,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 88","Chapleau",N,N,"",1,341,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 88","Chapleau",N,N,"",1,341,"Musgrove","","Dianne","Conservative","Conservateur",N,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 88","Chapleau",N,N,"",1,341,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 88","Chapleau",N,N,"",1,341,"St. Denis","","Brent","Liberal","Libéral",Y,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 89","Chapleau--Island Lake",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 89","Chapleau--Island Lake",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 89","Chapleau--Island Lake",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 89","Chapleau--Island Lake",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 90","Wharncliffe",N,N,"",0,69,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 90","Wharncliffe",N,N,"",0,69,"Musgrove","","Dianne","Conservative","Conservateur",N,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 90","Wharncliffe",N,N,"",0,69,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 90","Wharncliffe",N,N,"",0,69,"St. Denis","","Brent","Liberal","Libéral",Y,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 91","Nestorville--Little Rapids",N,N,"",1,543,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,77
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 91","Nestorville--Little Rapids",N,N,"",1,543,"Musgrove","","Dianne","Conservative","Conservateur",N,N,85
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 91","Nestorville--Little Rapids",N,N,"",1,543,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 91","Nestorville--Little Rapids",N,N,"",1,543,"St. Denis","","Brent","Liberal","Libéral",Y,N,66
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 92","Wharncliffe",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 92","Wharncliffe",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 92","Wharncliffe",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 92","Wharncliffe",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 93","Nestorville--Little Rapids",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 93","Nestorville--Little Rapids",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 93","Nestorville--Little Rapids",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 93","Nestorville--Little Rapids",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 94","Bruce Station",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 94","Bruce Station",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 94","Bruce Station",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 94","Bruce Station",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 95","Nestorville--Little Rapids",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 95","Nestorville--Little Rapids",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 95","Nestorville--Little Rapids",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 95","Nestorville--Little Rapids",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 96","Thessalon",N,N,"",0,379,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 96","Thessalon",N,N,"",0,379,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 96","Thessalon",N,N,"",0,379,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 96","Thessalon",N,N,"",0,379,"St. Denis","","Brent","Liberal","Libéral",Y,N,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 97","Thessalon",N,N,"",2,362,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 97","Thessalon",N,N,"",2,362,"Musgrove","","Dianne","Conservative","Conservateur",N,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 97","Thessalon",N,N,"",2,362,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 97","Thessalon",N,N,"",2,362,"St. Denis","","Brent","Liberal","Libéral",Y,N,43
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 98","Thessalon",N,N,"",2,307,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 98","Thessalon",N,N,"",2,307,"Musgrove","","Dianne","Conservative","Conservateur",N,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 98","Thessalon",N,N,"",2,307,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 98","Thessalon",N,N,"",2,307,"St. Denis","","Brent","Liberal","Libéral",Y,N,43
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 99","Sowerby",N,N,"",0,243,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 99","Sowerby",N,N,"",0,243,"Musgrove","","Dianne","Conservative","Conservateur",N,N,33
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 99","Sowerby",N,N,"",0,243,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 99","Sowerby",N,N,"",0,243,"St. Denis","","Brent","Liberal","Libéral",Y,N,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 100","Iron Bridge",N,N,"",1,442,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 100","Iron Bridge",N,N,"",1,442,"Musgrove","","Dianne","Conservative","Conservateur",N,N,86
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 100","Iron Bridge",N,N,"",1,442,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 100","Iron Bridge",N,N,"",1,442,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 101","Iron Bridge (North)",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 101","Iron Bridge (North)",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 101","Iron Bridge (North)",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 101","Iron Bridge (North)",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 102","Dean Lake--Iron Bridge",N,N,"",2,361,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,57
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 102","Dean Lake--Iron Bridge",N,N,"",2,361,"Musgrove","","Dianne","Conservative","Conservateur",N,N,73
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 102","Dean Lake--Iron Bridge",N,N,"",2,361,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 102","Dean Lake--Iron Bridge",N,N,"",2,361,"St. Denis","","Brent","Liberal","Libéral",Y,N,53
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 103","Blind River",N,N,"",0,382,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,57
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 103","Blind River",N,N,"",0,382,"Musgrove","","Dianne","Conservative","Conservateur",N,N,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 103","Blind River",N,N,"",0,382,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 103","Blind River",N,N,"",0,382,"St. Denis","","Brent","Liberal","Libéral",Y,N,64
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 104","Blind River",N,N,"",3,308,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 104","Blind River",N,N,"",3,308,"Musgrove","","Dianne","Conservative","Conservateur",N,N,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 104","Blind River",N,N,"",3,308,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 104","Blind River",N,N,"",3,308,"St. Denis","","Brent","Liberal","Libéral",Y,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 105","Mississagi River 8",N,N,"",1,207,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,60
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 105","Mississagi River 8",N,N,"",1,207,"Musgrove","","Dianne","Conservative","Conservateur",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 105","Mississagi River 8",N,N,"",1,207,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 105","Mississagi River 8",N,N,"",1,207,"St. Denis","","Brent","Liberal","Libéral",Y,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 106","Blind River",N,N,"",0,194,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,31
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 106","Blind River",N,N,"",0,194,"Musgrove","","Dianne","Conservative","Conservateur",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 106","Blind River",N,N,"",0,194,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 106","Blind River",N,N,"",0,194,"St. Denis","","Brent","Liberal","Libéral",Y,N,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 107","Blind River",N,N,"",0,328,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,53
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 107","Blind River",N,N,"",0,328,"Musgrove","","Dianne","Conservative","Conservateur",N,N,20
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 107","Blind River",N,N,"",0,328,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 107","Blind River",N,N,"",0,328,"St. Denis","","Brent","Liberal","Libéral",Y,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 108","Blind River",N,N,"",0,228,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 108","Blind River",N,N,"",0,228,"Musgrove","","Dianne","Conservative","Conservateur",N,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 108","Blind River",N,N,"",0,228,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 108","Blind River",N,N,"",0,228,"St. Denis","","Brent","Liberal","Libéral",Y,N,50
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 109","Blind River",N,N,"",1,365,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 109","Blind River",N,N,"",1,365,"Musgrove","","Dianne","Conservative","Conservateur",N,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 109","Blind River",N,N,"",1,365,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 109","Blind River",N,N,"",1,365,"St. Denis","","Brent","Liberal","Libéral",Y,N,54
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 110","Blind River",N,N,"",0,242,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,34
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 110","Blind River",N,N,"",0,242,"Musgrove","","Dianne","Conservative","Conservateur",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 110","Blind River",N,N,"",0,242,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 110","Blind River",N,N,"",0,242,"St. Denis","","Brent","Liberal","Libéral",Y,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 111","Blind River",N,N,"",2,378,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 111","Blind River",N,N,"",2,378,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 111","Blind River",N,N,"",2,378,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 111","Blind River",N,N,"",2,378,"St. Denis","","Brent","Liberal","Libéral",Y,N,51
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 112","Blind River",N,N,"",2,243,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,43
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 112","Blind River",N,N,"",2,243,"Musgrove","","Dianne","Conservative","Conservateur",N,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 112","Blind River",N,N,"",2,243,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 112","Blind River",N,N,"",2,243,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 113","Blind River",N,N,"",1,294,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,40
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 113","Blind River",N,N,"",1,294,"Musgrove","","Dianne","Conservative","Conservateur",N,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 113","Blind River",N,N,"",1,294,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 113","Blind River",N,N,"",1,294,"St. Denis","","Brent","Liberal","Libéral",Y,N,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 114","Algoma Mills",N,N,"",1,239,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 114","Algoma Mills",N,N,"",1,239,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 114","Algoma Mills",N,N,"",1,239,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 114","Algoma Mills",N,N,"",1,239,"St. Denis","","Brent","Liberal","Libéral",Y,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 115","Spragge",N,N,"",0,100,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 115","Spragge",N,N,"",0,100,"Musgrove","","Dianne","Conservative","Conservateur",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 115","Spragge",N,N,"",0,100,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 115","Spragge",N,N,"",0,100,"St. Denis","","Brent","Liberal","Libéral",Y,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 116","Elliot Lake",N,N,"",0,395,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,61
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 116","Elliot Lake",N,N,"",0,395,"Musgrove","","Dianne","Conservative","Conservateur",N,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 116","Elliot Lake",N,N,"",0,395,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 116","Elliot Lake",N,N,"",0,395,"St. Denis","","Brent","Liberal","Libéral",Y,N,68
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 117","Elliot Lake",N,N,"",1,483,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,105
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 117","Elliot Lake",N,N,"",1,483,"Musgrove","","Dianne","Conservative","Conservateur",N,N,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 117","Elliot Lake",N,N,"",1,483,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 117","Elliot Lake",N,N,"",1,483,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 118","Elliot Lake",N,N,"",0,278,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,62
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 118","Elliot Lake",N,N,"",0,278,"Musgrove","","Dianne","Conservative","Conservateur",N,N,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 118","Elliot Lake",N,N,"",0,278,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 118","Elliot Lake",N,N,"",0,278,"St. Denis","","Brent","Liberal","Libéral",Y,N,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 119","Elliot Lake",N,N,"",0,239,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 119","Elliot Lake",N,N,"",0,239,"Musgrove","","Dianne","Conservative","Conservateur",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 119","Elliot Lake",N,N,"",0,239,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 119","Elliot Lake",N,N,"",0,239,"St. Denis","","Brent","Liberal","Libéral",Y,N,33
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 120","Elliot Lake",N,N,"",1,300,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,68
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 120","Elliot Lake",N,N,"",1,300,"Musgrove","","Dianne","Conservative","Conservateur",N,N,18
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 120","Elliot Lake",N,N,"",1,300,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 120","Elliot Lake",N,N,"",1,300,"St. Denis","","Brent","Liberal","Libéral",Y,N,51
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 121","Elliot Lake",N,N,"",0,336,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,61
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 121","Elliot Lake",N,N,"",0,336,"Musgrove","","Dianne","Conservative","Conservateur",N,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 121","Elliot Lake",N,N,"",0,336,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 121","Elliot Lake",N,N,"",0,336,"St. Denis","","Brent","Liberal","Libéral",Y,N,34
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 122","Elliot Lake",N,N,"",1,282,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,65
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 122","Elliot Lake",N,N,"",1,282,"Musgrove","","Dianne","Conservative","Conservateur",N,N,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 122","Elliot Lake",N,N,"",1,282,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 122","Elliot Lake",N,N,"",1,282,"St. Denis","","Brent","Liberal","Libéral",Y,N,39
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 123","Elliot Lake",N,N,"",0,319,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,89
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 123","Elliot Lake",N,N,"",0,319,"Musgrove","","Dianne","Conservative","Conservateur",N,N,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 123","Elliot Lake",N,N,"",0,319,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 123","Elliot Lake",N,N,"",0,319,"St. Denis","","Brent","Liberal","Libéral",Y,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 124","Elliot Lake",N,N,"",0,330,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,73
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 124","Elliot Lake",N,N,"",0,330,"Musgrove","","Dianne","Conservative","Conservateur",N,N,29
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 124","Elliot Lake",N,N,"",0,330,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 124","Elliot Lake",N,N,"",0,330,"St. Denis","","Brent","Liberal","Libéral",Y,N,37
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 125","Elliot Lake",N,N,"",2,499,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,119
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 125","Elliot Lake",N,N,"",2,499,"Musgrove","","Dianne","Conservative","Conservateur",N,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 125","Elliot Lake",N,N,"",2,499,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 125","Elliot Lake",N,N,"",2,499,"St. Denis","","Brent","Liberal","Libéral",Y,N,93
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 126","Elliot Lake",N,N,"",2,371,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,106
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 126","Elliot Lake",N,N,"",2,371,"Musgrove","","Dianne","Conservative","Conservateur",N,N,42
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 126","Elliot Lake",N,N,"",2,371,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 126","Elliot Lake",N,N,"",2,371,"St. Denis","","Brent","Liberal","Libéral",Y,N,73
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 127","Elliot Lake",N,N,"",0,332,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,81
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 127","Elliot Lake",N,N,"",0,332,"Musgrove","","Dianne","Conservative","Conservateur",N,N,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 127","Elliot Lake",N,N,"",0,332,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 127","Elliot Lake",N,N,"",0,332,"St. Denis","","Brent","Liberal","Libéral",Y,N,48
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 128","Elliot Lake",N,N,"",4,422,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,90
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 128","Elliot Lake",N,N,"",4,422,"Musgrove","","Dianne","Conservative","Conservateur",N,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 128","Elliot Lake",N,N,"",4,422,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 128","Elliot Lake",N,N,"",4,422,"St. Denis","","Brent","Liberal","Libéral",Y,N,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 129","Elliot Lake",N,N,"",1,359,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,66
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 129","Elliot Lake",N,N,"",1,359,"Musgrove","","Dianne","Conservative","Conservateur",N,N,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 129","Elliot Lake",N,N,"",1,359,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 129","Elliot Lake",N,N,"",1,359,"St. Denis","","Brent","Liberal","Libéral",Y,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 130","Elliot Lake",N,N,"",1,309,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 130","Elliot Lake",N,N,"",1,309,"Musgrove","","Dianne","Conservative","Conservateur",N,N,37
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 130","Elliot Lake",N,N,"",1,309,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 130","Elliot Lake",N,N,"",1,309,"St. Denis","","Brent","Liberal","Libéral",Y,N,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 131","Elliot Lake",N,N,"",0,329,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,63
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 131","Elliot Lake",N,N,"",0,329,"Musgrove","","Dianne","Conservative","Conservateur",N,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 131","Elliot Lake",N,N,"",0,329,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 131","Elliot Lake",N,N,"",0,329,"St. Denis","","Brent","Liberal","Libéral",Y,N,37
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 132","Elliot Lake",N,N,"",0,402,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,76
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 132","Elliot Lake",N,N,"",0,402,"Musgrove","","Dianne","Conservative","Conservateur",N,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 132","Elliot Lake",N,N,"",0,402,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 132","Elliot Lake",N,N,"",0,402,"St. Denis","","Brent","Liberal","Libéral",Y,N,48
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 133","Elliot Lake",N,N,"",2,322,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 133","Elliot Lake",N,N,"",2,322,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 133","Elliot Lake",N,N,"",2,322,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 133","Elliot Lake",N,N,"",2,322,"St. Denis","","Brent","Liberal","Libéral",Y,N,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 134","Elliot Lake",N,N,"",0,325,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 134","Elliot Lake",N,N,"",0,325,"Musgrove","","Dianne","Conservative","Conservateur",N,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 134","Elliot Lake",N,N,"",0,325,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 134","Elliot Lake",N,N,"",0,325,"St. Denis","","Brent","Liberal","Libéral",Y,N,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 135","Elliot Lake",N,N,"",0,293,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 135","Elliot Lake",N,N,"",0,293,"Musgrove","","Dianne","Conservative","Conservateur",N,N,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 135","Elliot Lake",N,N,"",0,293,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 135","Elliot Lake",N,N,"",0,293,"St. Denis","","Brent","Liberal","Libéral",Y,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 136","Elliot Lake",N,N,"",0,324,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,56
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 136","Elliot Lake",N,N,"",0,324,"Musgrove","","Dianne","Conservative","Conservateur",N,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 136","Elliot Lake",N,N,"",0,324,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 136","Elliot Lake",N,N,"",0,324,"St. Denis","","Brent","Liberal","Libéral",Y,N,24
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 137","Elliot Lake",N,N,"",0,268,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,63
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 137","Elliot Lake",N,N,"",0,268,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 137","Elliot Lake",N,N,"",0,268,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 137","Elliot Lake",N,N,"",0,268,"St. Denis","","Brent","Liberal","Libéral",Y,N,37
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 138","Elliot Lake",N,N,"",0,533,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,126
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 138","Elliot Lake",N,N,"",0,533,"Musgrove","","Dianne","Conservative","Conservateur",N,N,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 138","Elliot Lake",N,N,"",0,533,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 138","Elliot Lake",N,N,"",0,533,"St. Denis","","Brent","Liberal","Libéral",Y,N,76
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 139","Elliot Lake",N,N,"",1,477,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,83
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 139","Elliot Lake",N,N,"",1,477,"Musgrove","","Dianne","Conservative","Conservateur",N,N,84
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 139","Elliot Lake",N,N,"",1,477,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 139","Elliot Lake",N,N,"",1,477,"St. Denis","","Brent","Liberal","Libéral",Y,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 140","Elliot Lake",N,N,"",2,476,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,81
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 140","Elliot Lake",N,N,"",2,476,"Musgrove","","Dianne","Conservative","Conservateur",N,N,62
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 140","Elliot Lake",N,N,"",2,476,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 140","Elliot Lake",N,N,"",2,476,"St. Denis","","Brent","Liberal","Libéral",Y,N,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 141","Elliot Lake",N,N,"",1,429,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,70
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 141","Elliot Lake",N,N,"",1,429,"Musgrove","","Dianne","Conservative","Conservateur",N,N,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 141","Elliot Lake",N,N,"",1,429,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 141","Elliot Lake",N,N,"",1,429,"St. Denis","","Brent","Liberal","Libéral",Y,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 142","Massey",N,N,"",0,192,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,69
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 142","Massey",N,N,"",0,192,"Musgrove","","Dianne","Conservative","Conservateur",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 142","Massey",N,N,"",0,192,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 142","Massey",N,N,"",0,192,"St. Denis","","Brent","Liberal","Libéral",Y,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 143","Spanish",N,N,"",0,374,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,79
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 143","Spanish",N,N,"",0,374,"Musgrove","","Dianne","Conservative","Conservateur",N,N,31
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 143","Spanish",N,N,"",0,374,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 143","Spanish",N,N,"",0,374,"St. Denis","","Brent","Liberal","Libéral",Y,N,84
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 144","Serpent River 7",N,N,"",2,256,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,51
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 144","Serpent River 7",N,N,"",2,256,"Musgrove","","Dianne","Conservative","Conservateur",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 144","Serpent River 7",N,N,"",2,256,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 144","Serpent River 7",N,N,"",2,256,"St. Denis","","Brent","Liberal","Libéral",Y,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 145","Serpent River",N,N,"",0,118,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 145","Serpent River",N,N,"",0,118,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 145","Serpent River",N,N,"",0,118,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 145","Serpent River",N,N,"",0,118,"St. Denis","","Brent","Liberal","Libéral",Y,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 146","Spanish",N,N,"",0,219,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 146","Spanish",N,N,"",0,219,"Musgrove","","Dianne","Conservative","Conservateur",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 146","Spanish",N,N,"",0,219,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 146","Spanish",N,N,"",0,219,"St. Denis","","Brent","Liberal","Libéral",Y,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 147","Walford",N,N,"",0,299,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,64
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 147","Walford",N,N,"",0,299,"Musgrove","","Dianne","Conservative","Conservateur",N,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 147","Walford",N,N,"",0,299,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 147","Walford",N,N,"",0,299,"St. Denis","","Brent","Liberal","Libéral",Y,N,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 148","Sagamok",N,N,"",0,392,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,91
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 148","Sagamok",N,N,"",0,392,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 148","Sagamok",N,N,"",0,392,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 148","Sagamok",N,N,"",0,392,"St. Denis","","Brent","Liberal","Libéral",Y,N,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 149","May--Harrow",N,N,"",1,527,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,70
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 149","May--Harrow",N,N,"",1,527,"Musgrove","","Dianne","Conservative","Conservateur",N,N,50
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 149","May--Harrow",N,N,"",1,527,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 149","May--Harrow",N,N,"",1,527,"St. Denis","","Brent","Liberal","Libéral",Y,N,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 150","Massey",N,N,"",1,265,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,70
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 150","Massey",N,N,"",1,265,"Musgrove","","Dianne","Conservative","Conservateur",N,N,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 150","Massey",N,N,"",1,265,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 150","Massey",N,N,"",1,265,"St. Denis","","Brent","Liberal","Libéral",Y,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 151","Massey",N,N,"",0,198,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,42
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 151","Massey",N,N,"",0,198,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 151","Massey",N,N,"",0,198,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 151","Massey",N,N,"",0,198,"St. Denis","","Brent","Liberal","Libéral",Y,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 152","Massey",N,N,"",0,270,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 152","Massey",N,N,"",0,270,"Musgrove","","Dianne","Conservative","Conservateur",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 152","Massey",N,N,"",0,270,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 152","Massey",N,N,"",0,270,"St. Denis","","Brent","Liberal","Libéral",Y,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 153","Webbwood",N,N,"",0,399,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,98
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 153","Webbwood",N,N,"",0,399,"Musgrove","","Dianne","Conservative","Conservateur",N,N,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 153","Webbwood",N,N,"",0,399,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 153","Webbwood",N,N,"",0,399,"St. Denis","","Brent","Liberal","Libéral",Y,N,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 154","Webbwood",N,N,"",0,199,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 154","Webbwood",N,N,"",0,199,"Musgrove","","Dianne","Conservative","Conservateur",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 154","Webbwood",N,N,"",0,199,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 154","Webbwood",N,N,"",0,199,"St. Denis","","Brent","Liberal","Libéral",Y,N,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 155","Hallam--Lee Valley",N,N,"",0,161,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,50
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 155","Hallam--Lee Valley",N,N,"",0,161,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 155","Hallam--Lee Valley",N,N,"",0,161,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 155","Hallam--Lee Valley",N,N,"",0,161,"St. Denis","","Brent","Liberal","Libéral",Y,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 156","Nairn Centre",N,N,"",0,339,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,79
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 156","Nairn Centre",N,N,"",0,339,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 156","Nairn Centre",N,N,"",0,339,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 156","Nairn Centre",N,N,"",0,339,"St. Denis","","Brent","Liberal","Libéral",Y,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 157","McKerrow",N,N,"",0,456,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,112
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 157","McKerrow",N,N,"",0,456,"Musgrove","","Dianne","Conservative","Conservateur",N,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 157","McKerrow",N,N,"",0,456,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 157","McKerrow",N,N,"",0,456,"St. Denis","","Brent","Liberal","Libéral",Y,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 158","Espanola",N,N,"",1,434,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,99
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 158","Espanola",N,N,"",1,434,"Musgrove","","Dianne","Conservative","Conservateur",N,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 158","Espanola",N,N,"",1,434,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 158","Espanola",N,N,"",1,434,"St. Denis","","Brent","Liberal","Libéral",Y,N,75
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 159","Espanola",N,N,"",1,398,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,90
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 159","Espanola",N,N,"",1,398,"Musgrove","","Dianne","Conservative","Conservateur",N,N,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 159","Espanola",N,N,"",1,398,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 159","Espanola",N,N,"",1,398,"St. Denis","","Brent","Liberal","Libéral",Y,N,72
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 160","Espanola",N,N,"",0,430,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,105
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 160","Espanola",N,N,"",0,430,"Musgrove","","Dianne","Conservative","Conservateur",N,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 160","Espanola",N,N,"",0,430,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 160","Espanola",N,N,"",0,430,"St. Denis","","Brent","Liberal","Libéral",Y,N,61
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 161","Espanola",N,N,"",1,378,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,97
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 161","Espanola",N,N,"",1,378,"Musgrove","","Dianne","Conservative","Conservateur",N,N,31
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 161","Espanola",N,N,"",1,378,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 161","Espanola",N,N,"",1,378,"St. Denis","","Brent","Liberal","Libéral",Y,N,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 162","Espanola",N,N,"",1,379,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,80
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 162","Espanola",N,N,"",1,379,"Musgrove","","Dianne","Conservative","Conservateur",N,N,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 162","Espanola",N,N,"",1,379,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 162","Espanola",N,N,"",1,379,"St. Denis","","Brent","Liberal","Libéral",Y,N,46
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 163","Espanola",N,N,"",0,380,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,110
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 163","Espanola",N,N,"",0,380,"Musgrove","","Dianne","Conservative","Conservateur",N,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 163","Espanola",N,N,"",0,380,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 163","Espanola",N,N,"",0,380,"St. Denis","","Brent","Liberal","Libéral",Y,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 164","Espanola",N,N,"",1,316,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,97
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 164","Espanola",N,N,"",1,316,"Musgrove","","Dianne","Conservative","Conservateur",N,N,29
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 164","Espanola",N,N,"",1,316,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 164","Espanola",N,N,"",1,316,"St. Denis","","Brent","Liberal","Libéral",Y,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 165","Espanola",N,N,"",0,390,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,86
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 165","Espanola",N,N,"",0,390,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 165","Espanola",N,N,"",0,390,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 165","Espanola",N,N,"",0,390,"St. Denis","","Brent","Liberal","Libéral",Y,N,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 166","Espanola",N,N,"",0,351,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,80
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 166","Espanola",N,N,"",0,351,"Musgrove","","Dianne","Conservative","Conservateur",N,N,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 166","Espanola",N,N,"",0,351,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 166","Espanola",N,N,"",0,351,"St. Denis","","Brent","Liberal","Libéral",Y,N,40
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 167","Espanola",N,N,"",0,454,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,74
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 167","Espanola",N,N,"",0,454,"Musgrove","","Dianne","Conservative","Conservateur",N,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 167","Espanola",N,N,"",0,454,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 167","Espanola",N,N,"",0,454,"St. Denis","","Brent","Liberal","Libéral",Y,N,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 168","Anderson Lake",N,N,"",1,369,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,97
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 168","Anderson Lake",N,N,"",1,369,"Musgrove","","Dianne","Conservative","Conservateur",N,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 168","Anderson Lake",N,N,"",1,369,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 168","Anderson Lake",N,N,"",1,369,"St. Denis","","Brent","Liberal","Libéral",Y,N,40
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 169","Killarney TWP",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 169","Killarney TWP",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 169","Killarney TWP",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 169","Killarney TWP",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 170","Whitefish Falls",N,N,"",0,248,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,41
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 170","Whitefish Falls",N,N,"",0,248,"Musgrove","","Dianne","Conservative","Conservateur",N,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 170","Whitefish Falls",N,N,"",0,248,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 170","Whitefish Falls",N,N,"",0,248,"St. Denis","","Brent","Liberal","Libéral",Y,N,42
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 171","Birch Island--Whitefish River 4",N,N,"",1,259,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,76
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 171","Birch Island--Whitefish River 4",N,N,"",1,259,"Musgrove","","Dianne","Conservative","Conservateur",N,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 171","Birch Island--Whitefish River 4",N,N,"",1,259,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 171","Birch Island--Whitefish River 4",N,N,"",1,259,"St. Denis","","Brent","Liberal","Libéral",Y,N,43
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 172","Little Current",N,N,"",0,284,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 172","Little Current",N,N,"",0,284,"Musgrove","","Dianne","Conservative","Conservateur",N,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 172","Little Current",N,N,"",0,284,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 172","Little Current",N,N,"",0,284,"St. Denis","","Brent","Liberal","Libéral",Y,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 173","Honora--Rockville",N,N,"",1,216,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 173","Honora--Rockville",N,N,"",1,216,"Musgrove","","Dianne","Conservative","Conservateur",N,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 173","Honora--Rockville",N,N,"",1,216,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 173","Honora--Rockville",N,N,"",1,216,"St. Denis","","Brent","Liberal","Libéral",Y,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 174","Sucker Creek 23",N,N,"",0,175,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,33
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 174","Sucker Creek 23",N,N,"",0,175,"Musgrove","","Dianne","Conservative","Conservateur",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 174","Sucker Creek 23",N,N,"",0,175,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 174","Sucker Creek 23",N,N,"",0,175,"St. Denis","","Brent","Liberal","Libéral",Y,N,33
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 175","Howland",N,N,"",1,295,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,31
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 175","Howland",N,N,"",1,295,"Musgrove","","Dianne","Conservative","Conservateur",N,N,26
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 175","Howland",N,N,"",1,295,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 175","Howland",N,N,"",1,295,"St. Denis","","Brent","Liberal","Libéral",Y,N,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 176","Little Current",N,N,"",0,235,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 176","Little Current",N,N,"",0,235,"Musgrove","","Dianne","Conservative","Conservateur",N,N,25
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 176","Little Current",N,N,"",0,235,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 176","Little Current",N,N,"",0,235,"St. Denis","","Brent","Liberal","Libéral",Y,N,36
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 177","Little Current",N,N,"",1,623,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,123
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 177","Little Current",N,N,"",1,623,"Musgrove","","Dianne","Conservative","Conservateur",N,N,57
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 177","Little Current",N,N,"",1,623,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 177","Little Current",N,N,"",1,623,"St. Denis","","Brent","Liberal","Libéral",Y,N,78
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 178","Little Current",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 178","Little Current",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 178","Little Current",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 178","Little Current",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 179","Sheguiandah",N,N,"",0,472,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,101
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 179","Sheguiandah",N,N,"",0,472,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 179","Sheguiandah",N,N,"",0,472,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 179","Sheguiandah",N,N,"",0,472,"St. Denis","","Brent","Liberal","Libéral",Y,N,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 180","Wikwemikong Unceded 26",N,N,"",0,499,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,81
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 180","Wikwemikong Unceded 26",N,N,"",0,499,"Musgrove","","Dianne","Conservative","Conservateur",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 180","Wikwemikong Unceded 26",N,N,"",0,499,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 180","Wikwemikong Unceded 26",N,N,"",0,499,"St. Denis","","Brent","Liberal","Libéral",Y,N,103
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 181","Wikwemikong",N,N,"",6,692,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,71
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 181","Wikwemikong",N,N,"",6,692,"Musgrove","","Dianne","Conservative","Conservateur",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 181","Wikwemikong",N,N,"",6,692,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 181","Wikwemikong",N,N,"",6,692,"St. Denis","","Brent","Liberal","Libéral",Y,N,134
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 182","Assiginack",N,N,"",0,205,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,42
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 182","Assiginack",N,N,"",0,205,"Musgrove","","Dianne","Conservative","Conservateur",N,N,27
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 182","Assiginack",N,N,"",0,205,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 182","Assiginack",N,N,"",0,205,"St. Denis","","Brent","Liberal","Libéral",Y,N,39
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 183","Manitouwaning",N,N,"",1,499,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,104
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 183","Manitouwaning",N,N,"",1,499,"Musgrove","","Dianne","Conservative","Conservateur",N,N,79
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 183","Manitouwaning",N,N,"",1,499,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 183","Manitouwaning",N,N,"",1,499,"St. Denis","","Brent","Liberal","Libéral",Y,N,64
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 184","Kaboni--South Bay",N,N,"",0,234,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 184","Kaboni--South Bay",N,N,"",0,234,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 184","Kaboni--South Bay",N,N,"",0,234,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 184","Kaboni--South Bay",N,N,"",0,234,"St. Denis","","Brent","Liberal","Libéral",Y,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 185","Spring Bay",N,N,"",0,379,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,104
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 185","Spring Bay",N,N,"",0,379,"Musgrove","","Dianne","Conservative","Conservateur",N,N,81
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 185","Spring Bay",N,N,"",0,379,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 185","Spring Bay",N,N,"",0,379,"St. Denis","","Brent","Liberal","Libéral",Y,N,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 186","Providence Bay",N,N,"",0,342,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,78
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 186","Providence Bay",N,N,"",0,342,"Musgrove","","Dianne","Conservative","Conservateur",N,N,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 186","Providence Bay",N,N,"",0,342,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 186","Providence Bay",N,N,"",0,342,"St. Denis","","Brent","Liberal","Libéral",Y,N,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 187","Mindemoya",N,N,"",1,309,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,74
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 187","Mindemoya",N,N,"",1,309,"Musgrove","","Dianne","Conservative","Conservateur",N,N,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 187","Mindemoya",N,N,"",1,309,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 187","Mindemoya",N,N,"",1,309,"St. Denis","","Brent","Liberal","Libéral",Y,N,38
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 188","Mindemoya (South)",Y,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 188","Mindemoya (South)",Y,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 188","Mindemoya (South)",Y,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 188","Mindemoya (South)",Y,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 189","Mindemoya",N,N,"",0,367,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,69
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 189","Mindemoya",N,N,"",0,367,"Musgrove","","Dianne","Conservative","Conservateur",N,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 189","Mindemoya",N,N,"",0,367,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 189","Mindemoya",N,N,"",0,367,"St. Denis","","Brent","Liberal","Libéral",Y,N,50
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 190","M'Chigeeng 22",N,N,"",2,620,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,119
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 190","M'Chigeeng 22",N,N,"",2,620,"Musgrove","","Dianne","Conservative","Conservateur",N,N,17
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 190","M'Chigeeng 22",N,N,"",2,620,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 190","M'Chigeeng 22",N,N,"",2,620,"St. Denis","","Brent","Liberal","Libéral",Y,N,72
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 191","Big Lake--Sandfield",N,N,"",0,215,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 191","Big Lake--Sandfield",N,N,"",0,215,"Musgrove","","Dianne","Conservative","Conservateur",N,N,40
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 191","Big Lake--Sandfield",N,N,"",0,215,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 191","Big Lake--Sandfield",N,N,"",0,215,"St. Denis","","Brent","Liberal","Libéral",Y,N,30
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 192","Tehkummah",N,N,"",1,396,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,86
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 192","Tehkummah",N,N,"",1,396,"Musgrove","","Dianne","Conservative","Conservateur",N,N,64
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 192","Tehkummah",N,N,"",1,396,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 192","Tehkummah",N,N,"",1,396,"St. Denis","","Brent","Liberal","Libéral",Y,N,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 193","Meldrum Bay",N,N,"",0,56,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 193","Meldrum Bay",N,N,"",0,56,"Musgrove","","Dianne","Conservative","Conservateur",N,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 193","Meldrum Bay",N,N,"",0,56,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 193","Meldrum Bay",N,N,"",0,56,"St. Denis","","Brent","Liberal","Libéral",Y,N,7
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 194","Silver Water",N,N,"",0,114,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,29
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 194","Silver Water",N,N,"",0,114,"Musgrove","","Dianne","Conservative","Conservateur",N,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 194","Silver Water",N,N,"",0,114,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 194","Silver Water",N,N,"",0,114,"St. Denis","","Brent","Liberal","Libéral",Y,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 195","Zhiibaahaasing 19A",N,N,"",0,26,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,22
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 195","Zhiibaahaasing 19A",N,N,"",0,26,"Musgrove","","Dianne","Conservative","Conservateur",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 195","Zhiibaahaasing 19A",N,N,"",0,26,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,0
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 195","Zhiibaahaasing 19A",N,N,"",0,26,"St. Denis","","Brent","Liberal","Libéral",Y,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 196","Sheshegwaning",N,N,"",0,61,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 196","Sheshegwaning",N,N,"",0,61,"Musgrove","","Dianne","Conservative","Conservateur",N,N,2
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 196","Sheshegwaning",N,N,"",0,61,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 196","Sheshegwaning",N,N,"",0,61,"St. Denis","","Brent","Liberal","Libéral",Y,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 197","Burpee and Mills",N,N,"",0,254,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,88
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 197","Burpee and Mills",N,N,"",0,254,"Musgrove","","Dianne","Conservative","Conservateur",N,N,40
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 197","Burpee and Mills",N,N,"",0,254,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 197","Burpee and Mills",N,N,"",0,254,"St. Denis","","Brent","Liberal","Libéral",Y,N,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 198","Gordon--Barrie Island",N,N,"",0,273,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 198","Gordon--Barrie Island",N,N,"",0,273,"Musgrove","","Dianne","Conservative","Conservateur",N,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 198","Gordon--Barrie Island",N,N,"",0,273,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 198","Gordon--Barrie Island",N,N,"",0,273,"St. Denis","","Brent","Liberal","Libéral",Y,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 199","Gore Bay",N,N,"",2,405,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,73
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 199","Gore Bay",N,N,"",2,405,"Musgrove","","Dianne","Conservative","Conservateur",N,N,35
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 199","Gore Bay",N,N,"",2,405,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 199","Gore Bay",N,N,"",2,405,"St. Denis","","Brent","Liberal","Libéral",Y,N,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 200","Gore Bay",N,N,"",3,447,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,118
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 200","Gore Bay",N,N,"",3,447,"Musgrove","","Dianne","Conservative","Conservateur",N,N,54
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 200","Gore Bay",N,N,"",3,447,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 200","Gore Bay",N,N,"",3,447,"St. Denis","","Brent","Liberal","Libéral",Y,N,61
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 201","Kagawong",N,N,"",1,412,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,103
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 201","Kagawong",N,N,"",1,412,"Musgrove","","Dianne","Conservative","Conservateur",N,N,55
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 201","Kagawong",N,N,"",1,412,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 201","Kagawong",N,N,"",1,412,"St. Denis","","Brent","Liberal","Libéral",Y,N,90
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 500","Mobile poll/Bureau itinérant",N,N,"",4,153,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,20
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 500","Mobile poll/Bureau itinérant",N,N,"",4,153,"Musgrove","","Dianne","Conservative","Conservateur",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 500","Mobile poll/Bureau itinérant",N,N,"",4,153,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 500","Mobile poll/Bureau itinérant",N,N,"",4,153,"St. Denis","","Brent","Liberal","Libéral",Y,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 501","Mobile poll/Bureau itinérant",N,N,"",3,118,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 501","Mobile poll/Bureau itinérant",N,N,"",3,118,"Musgrove","","Dianne","Conservative","Conservateur",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 501","Mobile poll/Bureau itinérant",N,N,"",3,118,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,3
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 501","Mobile poll/Bureau itinérant",N,N,"",3,118,"St. Denis","","Brent","Liberal","Libéral",Y,N,21
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 502","Mobile poll/Bureau itinérant",N,N,"",3,121,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,6
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 502","Mobile poll/Bureau itinérant",N,N,"",3,121,"Musgrove","","Dianne","Conservative","Conservateur",N,N,20
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 502","Mobile poll/Bureau itinérant",N,N,"",3,121,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,1
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 502","Mobile poll/Bureau itinérant",N,N,"",3,121,"St. Denis","","Brent","Liberal","Libéral",Y,N,15
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 600","Manitouwadge",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,101
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 600","Manitouwadge",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,48
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 600","Manitouwadge",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 600","Manitouwadge",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,71
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 601","Hornepayne",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,47
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 601","Hornepayne",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 601","Hornepayne",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,5
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 601","Hornepayne",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 602","White River",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,54
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 602","White River",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 602","White River",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,4
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 602","White River",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,32
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 603","Hearst",N,N,"",1,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,167
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 603","Hearst",N,N,"",1,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 603","Hearst",N,N,"",1,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,11
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 603","Hearst",N,N,"",1,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,183
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 604","Kapuskasing",N,N,"",3,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,411
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 604","Kapuskasing",N,N,"",3,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,68
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 604","Kapuskasing",N,N,"",3,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 604","Kapuskasing",N,N,"",3,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,292
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 605","Smooth Rock Falls",N,N,"",1,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,97
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 605","Smooth Rock Falls",N,N,"",1,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 605","Smooth Rock Falls",N,N,"",1,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 605","Smooth Rock Falls",N,N,"",1,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,91
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 606","Michipicoten",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,123
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 606","Michipicoten",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 606","Michipicoten",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,16
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 606","Michipicoten",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,71
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 607","Chapleau",N,N,"",3,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,130
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 607","Chapleau",N,N,"",3,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,64
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 607","Chapleau",N,N,"",3,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,9
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 607","Chapleau",N,N,"",3,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,144
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 608","Thessalon",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,51
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 608","Thessalon",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,62
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 608","Thessalon",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 608","Thessalon",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,49
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 609","Blind River",N,N,"",5,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,245
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 609","Blind River",N,N,"",5,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,109
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 609","Blind River",N,N,"",5,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,23
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 609","Blind River",N,N,"",5,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,302
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 610","Elliot Lake",N,N,"",2,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,221
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 610","Elliot Lake",N,N,"",2,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,120
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 610","Elliot Lake",N,N,"",2,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,28
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 610","Elliot Lake",N,N,"",2,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,202
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 611","Elliot Lake",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,302
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 611","Elliot Lake",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,195
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 611","Elliot Lake",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,43
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 611","Elliot Lake",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,265
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 612","Massey",N,N,"",1,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,85
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 612","Massey",N,N,"",1,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,33
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 612","Massey",N,N,"",1,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,12
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 612","Massey",N,N,"",1,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,59
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 613","Espanola",N,N,"",3,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,187
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 613","Espanola",N,N,"",3,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,102
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 613","Espanola",N,N,"",3,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,19
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 613","Espanola",N,N,"",3,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,206
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 614","Little Current",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,87
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 614","Little Current",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,81
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 614","Little Current",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,13
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 614","Little Current",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,105
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 615","Central Manitoulin",N,N,"",0,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,62
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 615","Central Manitoulin",N,N,"",0,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,67
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 615","Central Manitoulin",N,N,"",0,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 615","Central Manitoulin",N,N,"",0,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 616","Gore Bay",N,N,"",1,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,79
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 616","Gore Bay",N,N,"",1,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 616","Gore Bay",N,N,"",1,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,8
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," 616","Gore Bay",N,N,"",1,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,58
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,280,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,14
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,280,"Musgrove","","Dianne","Conservative","Conservateur",N,N,52
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,280,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,10
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,280,"St. Denis","","Brent","Liberal","Libéral",Y,N,44
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Hughes","","Carol","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,Y,346
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Musgrove","","Dianne","Conservative","Conservateur",N,N,133
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Rekmans","","Lorraine","Green Party","Parti Vert",N,N,45
+35002,Algoma--Manitoulin--Kapuskasing","Algoma--Manitoulin--Kapuskasing"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"St. Denis","","Brent","Liberal","Libéral",Y,N,269
+

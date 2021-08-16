@@ -1,0 +1,831 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+46011,"Winnipeg Centre","Winnipeg-Centre"," 1","Winnipeg",N,N,"",2,333,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 1","Winnipeg",N,N,"",2,333,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 1","Winnipeg",N,N,"",2,333,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,75
+46011,"Winnipeg Centre","Winnipeg-Centre"," 1","Winnipeg",N,N,"",2,333,"Sterzer","","Helen","Conservative","Conservateur",N,N,45
+46011,"Winnipeg Centre","Winnipeg-Centre"," 1","Winnipeg",N,N,"",2,333,"St. Germain","","Ray","Liberal","Libéral",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 2","Winnipeg",N,N,"",1,260,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 2","Winnipeg",N,N,"",1,260,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 2","Winnipeg",N,N,"",1,260,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,45
+46011,"Winnipeg Centre","Winnipeg-Centre"," 2","Winnipeg",N,N,"",1,260,"Sterzer","","Helen","Conservative","Conservateur",N,N,23
+46011,"Winnipeg Centre","Winnipeg-Centre"," 2","Winnipeg",N,N,"",1,260,"St. Germain","","Ray","Liberal","Libéral",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 3","Winnipeg",N,N,"",1,416,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 3","Winnipeg",N,N,"",1,416,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 3","Winnipeg",N,N,"",1,416,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,89
+46011,"Winnipeg Centre","Winnipeg-Centre"," 3","Winnipeg",N,N,"",1,416,"Sterzer","","Helen","Conservative","Conservateur",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 3","Winnipeg",N,N,"",1,416,"St. Germain","","Ray","Liberal","Libéral",N,N,41
+46011,"Winnipeg Centre","Winnipeg-Centre"," 4","Winnipeg",N,N,"",1,352,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 4","Winnipeg",N,N,"",1,352,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 4","Winnipeg",N,N,"",1,352,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,91
+46011,"Winnipeg Centre","Winnipeg-Centre"," 4","Winnipeg",N,N,"",1,352,"Sterzer","","Helen","Conservative","Conservateur",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 4","Winnipeg",N,N,"",1,352,"St. Germain","","Ray","Liberal","Libéral",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 5","Winnipeg",N,N,"",0,316,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 5","Winnipeg",N,N,"",0,316,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 5","Winnipeg",N,N,"",0,316,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 5","Winnipeg",N,N,"",0,316,"Sterzer","","Helen","Conservative","Conservateur",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 5","Winnipeg",N,N,"",0,316,"St. Germain","","Ray","Liberal","Libéral",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 6","Winnipeg",N,N,"",2,355,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 6","Winnipeg",N,N,"",2,355,"Gervais","","Gary","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 6","Winnipeg",N,N,"",2,355,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,66
+46011,"Winnipeg Centre","Winnipeg-Centre"," 6","Winnipeg",N,N,"",2,355,"Sterzer","","Helen","Conservative","Conservateur",N,N,11
+46011,"Winnipeg Centre","Winnipeg-Centre"," 6","Winnipeg",N,N,"",2,355,"St. Germain","","Ray","Liberal","Libéral",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 7","Winnipeg",N,N,"",0,414,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 7","Winnipeg",N,N,"",0,414,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 7","Winnipeg",N,N,"",0,414,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,82
+46011,"Winnipeg Centre","Winnipeg-Centre"," 7","Winnipeg",N,N,"",0,414,"Sterzer","","Helen","Conservative","Conservateur",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 7","Winnipeg",N,N,"",0,414,"St. Germain","","Ray","Liberal","Libéral",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 8","Winnipeg",N,N,"",2,273,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 8","Winnipeg",N,N,"",2,273,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 8","Winnipeg",N,N,"",2,273,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,49
+46011,"Winnipeg Centre","Winnipeg-Centre"," 8","Winnipeg",N,N,"",2,273,"Sterzer","","Helen","Conservative","Conservateur",N,N,24
+46011,"Winnipeg Centre","Winnipeg-Centre"," 8","Winnipeg",N,N,"",2,273,"St. Germain","","Ray","Liberal","Libéral",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 9","Winnipeg",N,N,"",1,391,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 9","Winnipeg",N,N,"",1,391,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 9","Winnipeg",N,N,"",1,391,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,86
+46011,"Winnipeg Centre","Winnipeg-Centre"," 9","Winnipeg",N,N,"",1,391,"Sterzer","","Helen","Conservative","Conservateur",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 9","Winnipeg",N,N,"",1,391,"St. Germain","","Ray","Liberal","Libéral",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 10","Winnipeg",N,N,"",1,407,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 10","Winnipeg",N,N,"",1,407,"Gervais","","Gary","Green Party","Parti Vert",N,N,11
+46011,"Winnipeg Centre","Winnipeg-Centre"," 10","Winnipeg",N,N,"",1,407,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,86
+46011,"Winnipeg Centre","Winnipeg-Centre"," 10","Winnipeg",N,N,"",1,407,"Sterzer","","Helen","Conservative","Conservateur",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 10","Winnipeg",N,N,"",1,407,"St. Germain","","Ray","Liberal","Libéral",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 11","Winnipeg",N,N,"",2,340,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 11","Winnipeg",N,N,"",2,340,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 11","Winnipeg",N,N,"",2,340,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,86
+46011,"Winnipeg Centre","Winnipeg-Centre"," 11","Winnipeg",N,N,"",2,340,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 11","Winnipeg",N,N,"",2,340,"St. Germain","","Ray","Liberal","Libéral",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 12","Winnipeg",N,N,"",0,364,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 12","Winnipeg",N,N,"",0,364,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 12","Winnipeg",N,N,"",0,364,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,95
+46011,"Winnipeg Centre","Winnipeg-Centre"," 12","Winnipeg",N,N,"",0,364,"Sterzer","","Helen","Conservative","Conservateur",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 12","Winnipeg",N,N,"",0,364,"St. Germain","","Ray","Liberal","Libéral",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 13","Winnipeg",N,N,"",0,405,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 13","Winnipeg",N,N,"",0,405,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 13","Winnipeg",N,N,"",0,405,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,97
+46011,"Winnipeg Centre","Winnipeg-Centre"," 13","Winnipeg",N,N,"",0,405,"Sterzer","","Helen","Conservative","Conservateur",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 13","Winnipeg",N,N,"",0,405,"St. Germain","","Ray","Liberal","Libéral",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 14","Winnipeg",N,N,"",1,418,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 14","Winnipeg",N,N,"",1,418,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 14","Winnipeg",N,N,"",1,418,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,73
+46011,"Winnipeg Centre","Winnipeg-Centre"," 14","Winnipeg",N,N,"",1,418,"Sterzer","","Helen","Conservative","Conservateur",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 14","Winnipeg",N,N,"",1,418,"St. Germain","","Ray","Liberal","Libéral",N,N,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 15","Winnipeg",N,N,"",1,395,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 15","Winnipeg",N,N,"",1,395,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 15","Winnipeg",N,N,"",1,395,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,82
+46011,"Winnipeg Centre","Winnipeg-Centre"," 15","Winnipeg",N,N,"",1,395,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 15","Winnipeg",N,N,"",1,395,"St. Germain","","Ray","Liberal","Libéral",N,N,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 16","Winnipeg",N,N,"",1,423,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 16","Winnipeg",N,N,"",1,423,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 16","Winnipeg",N,N,"",1,423,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,82
+46011,"Winnipeg Centre","Winnipeg-Centre"," 16","Winnipeg",N,N,"",1,423,"Sterzer","","Helen","Conservative","Conservateur",N,N,65
+46011,"Winnipeg Centre","Winnipeg-Centre"," 16","Winnipeg",N,N,"",1,423,"St. Germain","","Ray","Liberal","Libéral",N,N,47
+46011,"Winnipeg Centre","Winnipeg-Centre"," 17","Winnipeg",N,N,"",0,233,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 17","Winnipeg",N,N,"",0,233,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 17","Winnipeg",N,N,"",0,233,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 17","Winnipeg",N,N,"",0,233,"Sterzer","","Helen","Conservative","Conservateur",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 17","Winnipeg",N,N,"",0,233,"St. Germain","","Ray","Liberal","Libéral",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 18","Winnipeg",N,N,"",4,415,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 18","Winnipeg",N,N,"",4,415,"Gervais","","Gary","Green Party","Parti Vert",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 18","Winnipeg",N,N,"",4,415,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,79
+46011,"Winnipeg Centre","Winnipeg-Centre"," 18","Winnipeg",N,N,"",4,415,"Sterzer","","Helen","Conservative","Conservateur",N,N,73
+46011,"Winnipeg Centre","Winnipeg-Centre"," 18","Winnipeg",N,N,"",4,415,"St. Germain","","Ray","Liberal","Libéral",N,N,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 19","Winnipeg",N,N,"",0,388,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 19","Winnipeg",N,N,"",0,388,"Gervais","","Gary","Green Party","Parti Vert",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 19","Winnipeg",N,N,"",0,388,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,79
+46011,"Winnipeg Centre","Winnipeg-Centre"," 19","Winnipeg",N,N,"",0,388,"Sterzer","","Helen","Conservative","Conservateur",N,N,68
+46011,"Winnipeg Centre","Winnipeg-Centre"," 19","Winnipeg",N,N,"",0,388,"St. Germain","","Ray","Liberal","Libéral",N,N,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 20","Winnipeg",N,N,"",1,422,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 20","Winnipeg",N,N,"",1,422,"Gervais","","Gary","Green Party","Parti Vert",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 20","Winnipeg",N,N,"",1,422,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,92
+46011,"Winnipeg Centre","Winnipeg-Centre"," 20","Winnipeg",N,N,"",1,422,"Sterzer","","Helen","Conservative","Conservateur",N,N,72
+46011,"Winnipeg Centre","Winnipeg-Centre"," 20","Winnipeg",N,N,"",1,422,"St. Germain","","Ray","Liberal","Libéral",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 21","Winnipeg",N,N,"",0,458,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 21","Winnipeg",N,N,"",0,458,"Gervais","","Gary","Green Party","Parti Vert",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 21","Winnipeg",N,N,"",0,458,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,68
+46011,"Winnipeg Centre","Winnipeg-Centre"," 21","Winnipeg",N,N,"",0,458,"Sterzer","","Helen","Conservative","Conservateur",N,N,63
+46011,"Winnipeg Centre","Winnipeg-Centre"," 21","Winnipeg",N,N,"",0,458,"St. Germain","","Ray","Liberal","Libéral",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 22","Winnipeg",N,N,"",0,421,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 22","Winnipeg",N,N,"",0,421,"Gervais","","Gary","Green Party","Parti Vert",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 22","Winnipeg",N,N,"",0,421,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,75
+46011,"Winnipeg Centre","Winnipeg-Centre"," 22","Winnipeg",N,N,"",0,421,"Sterzer","","Helen","Conservative","Conservateur",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 22","Winnipeg",N,N,"",0,421,"St. Germain","","Ray","Liberal","Libéral",N,N,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 23","Winnipeg",N,N,"",0,372,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 23","Winnipeg",N,N,"",0,372,"Gervais","","Gary","Green Party","Parti Vert",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 23","Winnipeg",N,N,"",0,372,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,75
+46011,"Winnipeg Centre","Winnipeg-Centre"," 23","Winnipeg",N,N,"",0,372,"Sterzer","","Helen","Conservative","Conservateur",N,N,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 23","Winnipeg",N,N,"",0,372,"St. Germain","","Ray","Liberal","Libéral",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 24","Winnipeg",N,N,"",0,412,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 24","Winnipeg",N,N,"",0,412,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 24","Winnipeg",N,N,"",0,412,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,51
+46011,"Winnipeg Centre","Winnipeg-Centre"," 24","Winnipeg",N,N,"",0,412,"Sterzer","","Helen","Conservative","Conservateur",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 24","Winnipeg",N,N,"",0,412,"St. Germain","","Ray","Liberal","Libéral",N,N,56
+46011,"Winnipeg Centre","Winnipeg-Centre"," 25","Winnipeg",N,N,"",0,346,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 25","Winnipeg",N,N,"",0,346,"Gervais","","Gary","Green Party","Parti Vert",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 25","Winnipeg",N,N,"",0,346,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,90
+46011,"Winnipeg Centre","Winnipeg-Centre"," 25","Winnipeg",N,N,"",0,346,"Sterzer","","Helen","Conservative","Conservateur",N,N,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 25","Winnipeg",N,N,"",0,346,"St. Germain","","Ray","Liberal","Libéral",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 26","Winnipeg",N,N,"",0,367,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 26","Winnipeg",N,N,"",0,367,"Gervais","","Gary","Green Party","Parti Vert",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 26","Winnipeg",N,N,"",0,367,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,111
+46011,"Winnipeg Centre","Winnipeg-Centre"," 26","Winnipeg",N,N,"",0,367,"Sterzer","","Helen","Conservative","Conservateur",N,N,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 26","Winnipeg",N,N,"",0,367,"St. Germain","","Ray","Liberal","Libéral",N,N,51
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27A","Winnipeg",N,N,"",0,363,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27A","Winnipeg",N,N,"",0,363,"Gervais","","Gary","Green Party","Parti Vert",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27A","Winnipeg",N,N,"",0,363,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,105
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27A","Winnipeg",N,N,"",0,363,"Sterzer","","Helen","Conservative","Conservateur",N,N,60
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27A","Winnipeg",N,N,"",0,363,"St. Germain","","Ray","Liberal","Libéral",N,N,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27B","Winnipeg",N,N,"",0,286,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27B","Winnipeg",N,N,"",0,286,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27B","Winnipeg",N,N,"",0,286,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,63
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27B","Winnipeg",N,N,"",0,286,"Sterzer","","Helen","Conservative","Conservateur",N,N,65
+46011,"Winnipeg Centre","Winnipeg-Centre"," 27B","Winnipeg",N,N,"",0,286,"St. Germain","","Ray","Liberal","Libéral",N,N,66
+46011,"Winnipeg Centre","Winnipeg-Centre"," 28","Winnipeg",N,N,"",3,466,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 28","Winnipeg",N,N,"",3,466,"Gervais","","Gary","Green Party","Parti Vert",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 28","Winnipeg",N,N,"",3,466,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,129
+46011,"Winnipeg Centre","Winnipeg-Centre"," 28","Winnipeg",N,N,"",3,466,"Sterzer","","Helen","Conservative","Conservateur",N,N,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 28","Winnipeg",N,N,"",3,466,"St. Germain","","Ray","Liberal","Libéral",N,N,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 29","Winnipeg",N,N,"",0,422,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 29","Winnipeg",N,N,"",0,422,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 29","Winnipeg",N,N,"",0,422,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,130
+46011,"Winnipeg Centre","Winnipeg-Centre"," 29","Winnipeg",N,N,"",0,422,"Sterzer","","Helen","Conservative","Conservateur",N,N,24
+46011,"Winnipeg Centre","Winnipeg-Centre"," 29","Winnipeg",N,N,"",0,422,"St. Germain","","Ray","Liberal","Libéral",N,N,46
+46011,"Winnipeg Centre","Winnipeg-Centre"," 30","Winnipeg",N,N,"",1,399,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 30","Winnipeg",N,N,"",1,399,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 30","Winnipeg",N,N,"",1,399,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,108
+46011,"Winnipeg Centre","Winnipeg-Centre"," 30","Winnipeg",N,N,"",1,399,"Sterzer","","Helen","Conservative","Conservateur",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 30","Winnipeg",N,N,"",1,399,"St. Germain","","Ray","Liberal","Libéral",N,N,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 31","Winnipeg",N,N,"",1,392,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 31","Winnipeg",N,N,"",1,392,"Gervais","","Gary","Green Party","Parti Vert",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 31","Winnipeg",N,N,"",1,392,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,115
+46011,"Winnipeg Centre","Winnipeg-Centre"," 31","Winnipeg",N,N,"",1,392,"Sterzer","","Helen","Conservative","Conservateur",N,N,47
+46011,"Winnipeg Centre","Winnipeg-Centre"," 31","Winnipeg",N,N,"",1,392,"St. Germain","","Ray","Liberal","Libéral",N,N,71
+46011,"Winnipeg Centre","Winnipeg-Centre"," 32","Winnipeg",N,N,"",1,350,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 32","Winnipeg",N,N,"",1,350,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 32","Winnipeg",N,N,"",1,350,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,80
+46011,"Winnipeg Centre","Winnipeg-Centre"," 32","Winnipeg",N,N,"",1,350,"Sterzer","","Helen","Conservative","Conservateur",N,N,44
+46011,"Winnipeg Centre","Winnipeg-Centre"," 32","Winnipeg",N,N,"",1,350,"St. Germain","","Ray","Liberal","Libéral",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33A","Winnipeg",N,N,"",1,286,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33A","Winnipeg",N,N,"",1,286,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33A","Winnipeg",N,N,"",1,286,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,63
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33A","Winnipeg",N,N,"",1,286,"Sterzer","","Helen","Conservative","Conservateur",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33A","Winnipeg",N,N,"",1,286,"St. Germain","","Ray","Liberal","Libéral",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33B","Mobile poll/Bureau itinérant",N,N,"502A",0,89,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33B","Mobile poll/Bureau itinérant",N,N,"502A",0,89,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33B","Mobile poll/Bureau itinérant",N,N,"502A",0,89,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33B","Mobile poll/Bureau itinérant",N,N,"502A",0,89,"Sterzer","","Helen","Conservative","Conservateur",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 33B","Mobile poll/Bureau itinérant",N,N,"502A",0,89,"St. Germain","","Ray","Liberal","Libéral",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 34","Winnipeg",N,N,"",0,420,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 34","Winnipeg",N,N,"",0,420,"Gervais","","Gary","Green Party","Parti Vert",N,N,9
+46011,"Winnipeg Centre","Winnipeg-Centre"," 34","Winnipeg",N,N,"",0,420,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,128
+46011,"Winnipeg Centre","Winnipeg-Centre"," 34","Winnipeg",N,N,"",0,420,"Sterzer","","Helen","Conservative","Conservateur",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 34","Winnipeg",N,N,"",0,420,"St. Germain","","Ray","Liberal","Libéral",N,N,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 35","Winnipeg",N,N,"",2,413,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 35","Winnipeg",N,N,"",2,413,"Gervais","","Gary","Green Party","Parti Vert",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 35","Winnipeg",N,N,"",2,413,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,105
+46011,"Winnipeg Centre","Winnipeg-Centre"," 35","Winnipeg",N,N,"",2,413,"Sterzer","","Helen","Conservative","Conservateur",N,N,47
+46011,"Winnipeg Centre","Winnipeg-Centre"," 35","Winnipeg",N,N,"",2,413,"St. Germain","","Ray","Liberal","Libéral",N,N,54
+46011,"Winnipeg Centre","Winnipeg-Centre"," 36","Winnipeg",N,N,"",2,427,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 36","Winnipeg",N,N,"",2,427,"Gervais","","Gary","Green Party","Parti Vert",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 36","Winnipeg",N,N,"",2,427,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,114
+46011,"Winnipeg Centre","Winnipeg-Centre"," 36","Winnipeg",N,N,"",2,427,"Sterzer","","Helen","Conservative","Conservateur",N,N,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 36","Winnipeg",N,N,"",2,427,"St. Germain","","Ray","Liberal","Libéral",N,N,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 37","Winnipeg",N,N,"",0,382,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 37","Winnipeg",N,N,"",0,382,"Gervais","","Gary","Green Party","Parti Vert",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 37","Winnipeg",N,N,"",0,382,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,111
+46011,"Winnipeg Centre","Winnipeg-Centre"," 37","Winnipeg",N,N,"",0,382,"Sterzer","","Helen","Conservative","Conservateur",N,N,58
+46011,"Winnipeg Centre","Winnipeg-Centre"," 37","Winnipeg",N,N,"",0,382,"St. Germain","","Ray","Liberal","Libéral",N,N,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 38","Winnipeg",N,N,"",2,373,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 38","Winnipeg",N,N,"",2,373,"Gervais","","Gary","Green Party","Parti Vert",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 38","Winnipeg",N,N,"",2,373,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,96
+46011,"Winnipeg Centre","Winnipeg-Centre"," 38","Winnipeg",N,N,"",2,373,"Sterzer","","Helen","Conservative","Conservateur",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 38","Winnipeg",N,N,"",2,373,"St. Germain","","Ray","Liberal","Libéral",N,N,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 39","Winnipeg",N,N,"",1,426,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 39","Winnipeg",N,N,"",1,426,"Gervais","","Gary","Green Party","Parti Vert",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 39","Winnipeg",N,N,"",1,426,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,114
+46011,"Winnipeg Centre","Winnipeg-Centre"," 39","Winnipeg",N,N,"",1,426,"Sterzer","","Helen","Conservative","Conservateur",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 39","Winnipeg",N,N,"",1,426,"St. Germain","","Ray","Liberal","Libéral",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 40","Winnipeg",N,N,"",0,465,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 40","Winnipeg",N,N,"",0,465,"Gervais","","Gary","Green Party","Parti Vert",N,N,9
+46011,"Winnipeg Centre","Winnipeg-Centre"," 40","Winnipeg",N,N,"",0,465,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,121
+46011,"Winnipeg Centre","Winnipeg-Centre"," 40","Winnipeg",N,N,"",0,465,"Sterzer","","Helen","Conservative","Conservateur",N,N,61
+46011,"Winnipeg Centre","Winnipeg-Centre"," 40","Winnipeg",N,N,"",0,465,"St. Germain","","Ray","Liberal","Libéral",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 41","Winnipeg",N,N,"",1,404,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 41","Winnipeg",N,N,"",1,404,"Gervais","","Gary","Green Party","Parti Vert",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 41","Winnipeg",N,N,"",1,404,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,122
+46011,"Winnipeg Centre","Winnipeg-Centre"," 41","Winnipeg",N,N,"",1,404,"Sterzer","","Helen","Conservative","Conservateur",N,N,51
+46011,"Winnipeg Centre","Winnipeg-Centre"," 41","Winnipeg",N,N,"",1,404,"St. Germain","","Ray","Liberal","Libéral",N,N,28
+46011,"Winnipeg Centre","Winnipeg-Centre"," 42","Winnipeg",N,N,"",0,384,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 42","Winnipeg",N,N,"",0,384,"Gervais","","Gary","Green Party","Parti Vert",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 42","Winnipeg",N,N,"",0,384,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,102
+46011,"Winnipeg Centre","Winnipeg-Centre"," 42","Winnipeg",N,N,"",0,384,"Sterzer","","Helen","Conservative","Conservateur",N,N,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 42","Winnipeg",N,N,"",0,384,"St. Germain","","Ray","Liberal","Libéral",N,N,44
+46011,"Winnipeg Centre","Winnipeg-Centre"," 43","Winnipeg",N,N,"",2,392,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 43","Winnipeg",N,N,"",2,392,"Gervais","","Gary","Green Party","Parti Vert",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 43","Winnipeg",N,N,"",2,392,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,159
+46011,"Winnipeg Centre","Winnipeg-Centre"," 43","Winnipeg",N,N,"",2,392,"Sterzer","","Helen","Conservative","Conservateur",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 43","Winnipeg",N,N,"",2,392,"St. Germain","","Ray","Liberal","Libéral",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 44","Winnipeg",N,N,"",1,314,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 44","Winnipeg",N,N,"",1,314,"Gervais","","Gary","Green Party","Parti Vert",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 44","Winnipeg",N,N,"",1,314,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,97
+46011,"Winnipeg Centre","Winnipeg-Centre"," 44","Winnipeg",N,N,"",1,314,"Sterzer","","Helen","Conservative","Conservateur",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 44","Winnipeg",N,N,"",1,314,"St. Germain","","Ray","Liberal","Libéral",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 45","Winnipeg",N,N,"",1,377,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 45","Winnipeg",N,N,"",1,377,"Gervais","","Gary","Green Party","Parti Vert",N,N,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 45","Winnipeg",N,N,"",1,377,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,132
+46011,"Winnipeg Centre","Winnipeg-Centre"," 45","Winnipeg",N,N,"",1,377,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 45","Winnipeg",N,N,"",1,377,"St. Germain","","Ray","Liberal","Libéral",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46A","Winnipeg",N,N,"",0,163,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46A","Winnipeg",N,N,"",0,163,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46A","Winnipeg",N,N,"",0,163,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46A","Winnipeg",N,N,"",0,163,"Sterzer","","Helen","Conservative","Conservateur",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46A","Winnipeg",N,N,"",0,163,"St. Germain","","Ray","Liberal","Libéral",N,N,18
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46B","Winnipeg",N,N,"",0,76,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46B","Winnipeg",N,N,"",0,76,"Gervais","","Gary","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46B","Winnipeg",N,N,"",0,76,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,9
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46B","Winnipeg",N,N,"",0,76,"Sterzer","","Helen","Conservative","Conservateur",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 46B","Winnipeg",N,N,"",0,76,"St. Germain","","Ray","Liberal","Libéral",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 47","Winnipeg",N,N,"",1,391,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 47","Winnipeg",N,N,"",1,391,"Gervais","","Gary","Green Party","Parti Vert",N,N,18
+46011,"Winnipeg Centre","Winnipeg-Centre"," 47","Winnipeg",N,N,"",1,391,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,94
+46011,"Winnipeg Centre","Winnipeg-Centre"," 47","Winnipeg",N,N,"",1,391,"Sterzer","","Helen","Conservative","Conservateur",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 47","Winnipeg",N,N,"",1,391,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 48","Winnipeg",N,N,"",2,489,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 48","Winnipeg",N,N,"",2,489,"Gervais","","Gary","Green Party","Parti Vert",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 48","Winnipeg",N,N,"",2,489,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,123
+46011,"Winnipeg Centre","Winnipeg-Centre"," 48","Winnipeg",N,N,"",2,489,"Sterzer","","Helen","Conservative","Conservateur",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 48","Winnipeg",N,N,"",2,489,"St. Germain","","Ray","Liberal","Libéral",N,N,45
+46011,"Winnipeg Centre","Winnipeg-Centre"," 49","Winnipeg",N,N,"",0,457,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 49","Winnipeg",N,N,"",0,457,"Gervais","","Gary","Green Party","Parti Vert",N,N,11
+46011,"Winnipeg Centre","Winnipeg-Centre"," 49","Winnipeg",N,N,"",0,457,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,107
+46011,"Winnipeg Centre","Winnipeg-Centre"," 49","Winnipeg",N,N,"",0,457,"Sterzer","","Helen","Conservative","Conservateur",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 49","Winnipeg",N,N,"",0,457,"St. Germain","","Ray","Liberal","Libéral",N,N,52
+46011,"Winnipeg Centre","Winnipeg-Centre"," 50","Winnipeg",N,N,"",3,268,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 50","Winnipeg",N,N,"",3,268,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 50","Winnipeg",N,N,"",3,268,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,66
+46011,"Winnipeg Centre","Winnipeg-Centre"," 50","Winnipeg",N,N,"",3,268,"Sterzer","","Helen","Conservative","Conservateur",N,N,16
+46011,"Winnipeg Centre","Winnipeg-Centre"," 50","Winnipeg",N,N,"",3,268,"St. Germain","","Ray","Liberal","Libéral",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 51","Winnipeg",N,N,"",5,429,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 51","Winnipeg",N,N,"",5,429,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 51","Winnipeg",N,N,"",5,429,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,86
+46011,"Winnipeg Centre","Winnipeg-Centre"," 51","Winnipeg",N,N,"",5,429,"Sterzer","","Helen","Conservative","Conservateur",N,N,28
+46011,"Winnipeg Centre","Winnipeg-Centre"," 51","Winnipeg",N,N,"",5,429,"St. Germain","","Ray","Liberal","Libéral",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 52","Winnipeg",N,N,"",4,359,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 52","Winnipeg",N,N,"",4,359,"Gervais","","Gary","Green Party","Parti Vert",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 52","Winnipeg",N,N,"",4,359,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,69
+46011,"Winnipeg Centre","Winnipeg-Centre"," 52","Winnipeg",N,N,"",4,359,"Sterzer","","Helen","Conservative","Conservateur",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 52","Winnipeg",N,N,"",4,359,"St. Germain","","Ray","Liberal","Libéral",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 53","Winnipeg",N,N,"",1,384,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 53","Winnipeg",N,N,"",1,384,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 53","Winnipeg",N,N,"",1,384,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,44
+46011,"Winnipeg Centre","Winnipeg-Centre"," 53","Winnipeg",N,N,"",1,384,"Sterzer","","Helen","Conservative","Conservateur",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 53","Winnipeg",N,N,"",1,384,"St. Germain","","Ray","Liberal","Libéral",N,N,45
+46011,"Winnipeg Centre","Winnipeg-Centre"," 54","Winnipeg",N,N,"",3,540,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 54","Winnipeg",N,N,"",3,540,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 54","Winnipeg",N,N,"",3,540,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,103
+46011,"Winnipeg Centre","Winnipeg-Centre"," 54","Winnipeg",N,N,"",3,540,"Sterzer","","Helen","Conservative","Conservateur",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 54","Winnipeg",N,N,"",3,540,"St. Germain","","Ray","Liberal","Libéral",N,N,60
+46011,"Winnipeg Centre","Winnipeg-Centre"," 55","Winnipeg",N,N,"",3,396,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 55","Winnipeg",N,N,"",3,396,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 55","Winnipeg",N,N,"",3,396,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,75
+46011,"Winnipeg Centre","Winnipeg-Centre"," 55","Winnipeg",N,N,"",3,396,"Sterzer","","Helen","Conservative","Conservateur",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 55","Winnipeg",N,N,"",3,396,"St. Germain","","Ray","Liberal","Libéral",N,N,49
+46011,"Winnipeg Centre","Winnipeg-Centre"," 56","Winnipeg",N,N,"",1,311,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 56","Winnipeg",N,N,"",1,311,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 56","Winnipeg",N,N,"",1,311,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,77
+46011,"Winnipeg Centre","Winnipeg-Centre"," 56","Winnipeg",N,N,"",1,311,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 56","Winnipeg",N,N,"",1,311,"St. Germain","","Ray","Liberal","Libéral",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 57","Winnipeg",N,N,"",1,430,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 57","Winnipeg",N,N,"",1,430,"Gervais","","Gary","Green Party","Parti Vert",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 57","Winnipeg",N,N,"",1,430,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,97
+46011,"Winnipeg Centre","Winnipeg-Centre"," 57","Winnipeg",N,N,"",1,430,"Sterzer","","Helen","Conservative","Conservateur",N,N,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 57","Winnipeg",N,N,"",1,430,"St. Germain","","Ray","Liberal","Libéral",N,N,48
+46011,"Winnipeg Centre","Winnipeg-Centre"," 58","Winnipeg",N,N,"",0,439,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 58","Winnipeg",N,N,"",0,439,"Gervais","","Gary","Green Party","Parti Vert",N,N,11
+46011,"Winnipeg Centre","Winnipeg-Centre"," 58","Winnipeg",N,N,"",0,439,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,115
+46011,"Winnipeg Centre","Winnipeg-Centre"," 58","Winnipeg",N,N,"",0,439,"Sterzer","","Helen","Conservative","Conservateur",N,N,51
+46011,"Winnipeg Centre","Winnipeg-Centre"," 58","Winnipeg",N,N,"",0,439,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 59","Winnipeg",N,N,"",0,351,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 59","Winnipeg",N,N,"",0,351,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 59","Winnipeg",N,N,"",0,351,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,126
+46011,"Winnipeg Centre","Winnipeg-Centre"," 59","Winnipeg",N,N,"",0,351,"Sterzer","","Helen","Conservative","Conservateur",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 59","Winnipeg",N,N,"",0,351,"St. Germain","","Ray","Liberal","Libéral",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 60","Winnipeg",N,N,"",3,635,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 60","Winnipeg",N,N,"",3,635,"Gervais","","Gary","Green Party","Parti Vert",N,N,16
+46011,"Winnipeg Centre","Winnipeg-Centre"," 60","Winnipeg",N,N,"",3,635,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,153
+46011,"Winnipeg Centre","Winnipeg-Centre"," 60","Winnipeg",N,N,"",3,635,"Sterzer","","Helen","Conservative","Conservateur",N,N,52
+46011,"Winnipeg Centre","Winnipeg-Centre"," 60","Winnipeg",N,N,"",3,635,"St. Germain","","Ray","Liberal","Libéral",N,N,60
+46011,"Winnipeg Centre","Winnipeg-Centre"," 61","Winnipeg",N,N,"",0,406,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 61","Winnipeg",N,N,"",0,406,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 61","Winnipeg",N,N,"",0,406,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,93
+46011,"Winnipeg Centre","Winnipeg-Centre"," 61","Winnipeg",N,N,"",0,406,"Sterzer","","Helen","Conservative","Conservateur",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 61","Winnipeg",N,N,"",0,406,"St. Germain","","Ray","Liberal","Libéral",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 62","Winnipeg",N,N,"",4,409,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 62","Winnipeg",N,N,"",4,409,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 62","Winnipeg",N,N,"",4,409,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,83
+46011,"Winnipeg Centre","Winnipeg-Centre"," 62","Winnipeg",N,N,"",4,409,"Sterzer","","Helen","Conservative","Conservateur",N,N,19
+46011,"Winnipeg Centre","Winnipeg-Centre"," 62","Winnipeg",N,N,"",4,409,"St. Germain","","Ray","Liberal","Libéral",N,N,41
+46011,"Winnipeg Centre","Winnipeg-Centre"," 63","Winnipeg",N,N,"",1,323,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 63","Winnipeg",N,N,"",1,323,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 63","Winnipeg",N,N,"",1,323,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,58
+46011,"Winnipeg Centre","Winnipeg-Centre"," 63","Winnipeg",N,N,"",1,323,"Sterzer","","Helen","Conservative","Conservateur",N,N,16
+46011,"Winnipeg Centre","Winnipeg-Centre"," 63","Winnipeg",N,N,"",1,323,"St. Germain","","Ray","Liberal","Libéral",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 64","Winnipeg",N,N,"",1,408,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 64","Winnipeg",N,N,"",1,408,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 64","Winnipeg",N,N,"",1,408,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,60
+46011,"Winnipeg Centre","Winnipeg-Centre"," 64","Winnipeg",N,N,"",1,408,"Sterzer","","Helen","Conservative","Conservateur",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 64","Winnipeg",N,N,"",1,408,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 65","Winnipeg",N,N,"",4,471,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 65","Winnipeg",N,N,"",4,471,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 65","Winnipeg",N,N,"",4,471,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,90
+46011,"Winnipeg Centre","Winnipeg-Centre"," 65","Winnipeg",N,N,"",4,471,"Sterzer","","Helen","Conservative","Conservateur",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 65","Winnipeg",N,N,"",4,471,"St. Germain","","Ray","Liberal","Libéral",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 66","Winnipeg",N,N,"",1,404,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 66","Winnipeg",N,N,"",1,404,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 66","Winnipeg",N,N,"",1,404,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,96
+46011,"Winnipeg Centre","Winnipeg-Centre"," 66","Winnipeg",N,N,"",1,404,"Sterzer","","Helen","Conservative","Conservateur",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 66","Winnipeg",N,N,"",1,404,"St. Germain","","Ray","Liberal","Libéral",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 67","Winnipeg",N,N,"",1,487,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 67","Winnipeg",N,N,"",1,487,"Gervais","","Gary","Green Party","Parti Vert",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 67","Winnipeg",N,N,"",1,487,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,85
+46011,"Winnipeg Centre","Winnipeg-Centre"," 67","Winnipeg",N,N,"",1,487,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 67","Winnipeg",N,N,"",1,487,"St. Germain","","Ray","Liberal","Libéral",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 68","Winnipeg",N,N,"",1,250,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 68","Winnipeg",N,N,"",1,250,"Gervais","","Gary","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 68","Winnipeg",N,N,"",1,250,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,44
+46011,"Winnipeg Centre","Winnipeg-Centre"," 68","Winnipeg",N,N,"",1,250,"Sterzer","","Helen","Conservative","Conservateur",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 68","Winnipeg",N,N,"",1,250,"St. Germain","","Ray","Liberal","Libéral",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 69","Winnipeg",N,N,"",0,372,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 69","Winnipeg",N,N,"",0,372,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 69","Winnipeg",N,N,"",0,372,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,82
+46011,"Winnipeg Centre","Winnipeg-Centre"," 69","Winnipeg",N,N,"",0,372,"Sterzer","","Helen","Conservative","Conservateur",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 69","Winnipeg",N,N,"",0,372,"St. Germain","","Ray","Liberal","Libéral",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 70","Winnipeg",N,N,"",2,312,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 70","Winnipeg",N,N,"",2,312,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 70","Winnipeg",N,N,"",2,312,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,49
+46011,"Winnipeg Centre","Winnipeg-Centre"," 70","Winnipeg",N,N,"",2,312,"Sterzer","","Helen","Conservative","Conservateur",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 70","Winnipeg",N,N,"",2,312,"St. Germain","","Ray","Liberal","Libéral",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 71","Winnipeg",N,N,"",7,700,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 71","Winnipeg",N,N,"",7,700,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 71","Winnipeg",N,N,"",7,700,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,110
+46011,"Winnipeg Centre","Winnipeg-Centre"," 71","Winnipeg",N,N,"",7,700,"Sterzer","","Helen","Conservative","Conservateur",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 71","Winnipeg",N,N,"",7,700,"St. Germain","","Ray","Liberal","Libéral",N,N,68
+46011,"Winnipeg Centre","Winnipeg-Centre"," 72","Winnipeg",N,N,"",1,587,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 72","Winnipeg",N,N,"",1,587,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 72","Winnipeg",N,N,"",1,587,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,97
+46011,"Winnipeg Centre","Winnipeg-Centre"," 72","Winnipeg",N,N,"",1,587,"Sterzer","","Helen","Conservative","Conservateur",N,N,23
+46011,"Winnipeg Centre","Winnipeg-Centre"," 72","Winnipeg",N,N,"",1,587,"St. Germain","","Ray","Liberal","Libéral",N,N,61
+46011,"Winnipeg Centre","Winnipeg-Centre"," 73","Winnipeg",N,N,"",1,428,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 73","Winnipeg",N,N,"",1,428,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 73","Winnipeg",N,N,"",1,428,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 73","Winnipeg",N,N,"",1,428,"Sterzer","","Helen","Conservative","Conservateur",N,N,19
+46011,"Winnipeg Centre","Winnipeg-Centre"," 73","Winnipeg",N,N,"",1,428,"St. Germain","","Ray","Liberal","Libéral",N,N,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 74","Winnipeg",N,N,"",2,363,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 74","Winnipeg",N,N,"",2,363,"Gervais","","Gary","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 74","Winnipeg",N,N,"",2,363,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 74","Winnipeg",N,N,"",2,363,"Sterzer","","Helen","Conservative","Conservateur",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 74","Winnipeg",N,N,"",2,363,"St. Germain","","Ray","Liberal","Libéral",N,N,48
+46011,"Winnipeg Centre","Winnipeg-Centre"," 75","Winnipeg",N,N,"",2,571,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 75","Winnipeg",N,N,"",2,571,"Gervais","","Gary","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 75","Winnipeg",N,N,"",2,571,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,58
+46011,"Winnipeg Centre","Winnipeg-Centre"," 75","Winnipeg",N,N,"",2,571,"Sterzer","","Helen","Conservative","Conservateur",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 75","Winnipeg",N,N,"",2,571,"St. Germain","","Ray","Liberal","Libéral",N,N,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 76","Winnipeg",N,N,"",0,497,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 76","Winnipeg",N,N,"",0,497,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 76","Winnipeg",N,N,"",0,497,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,96
+46011,"Winnipeg Centre","Winnipeg-Centre"," 76","Winnipeg",N,N,"",0,497,"Sterzer","","Helen","Conservative","Conservateur",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 76","Winnipeg",N,N,"",0,497,"St. Germain","","Ray","Liberal","Libéral",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 77","Winnipeg",N,N,"",7,539,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 77","Winnipeg",N,N,"",7,539,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 77","Winnipeg",N,N,"",7,539,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,47
+46011,"Winnipeg Centre","Winnipeg-Centre"," 77","Winnipeg",N,N,"",7,539,"Sterzer","","Helen","Conservative","Conservateur",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 77","Winnipeg",N,N,"",7,539,"St. Germain","","Ray","Liberal","Libéral",N,N,94
+46011,"Winnipeg Centre","Winnipeg-Centre"," 78","Winnipeg",N,N,"",1,216,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 78","Winnipeg",N,N,"",1,216,"Gervais","","Gary","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 78","Winnipeg",N,N,"",1,216,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 78","Winnipeg",N,N,"",1,216,"Sterzer","","Helen","Conservative","Conservateur",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 78","Winnipeg",N,N,"",1,216,"St. Germain","","Ray","Liberal","Libéral",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 79","Winnipeg",N,N,"",1,308,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 79","Winnipeg",N,N,"",1,308,"Gervais","","Gary","Green Party","Parti Vert",N,N,11
+46011,"Winnipeg Centre","Winnipeg-Centre"," 79","Winnipeg",N,N,"",1,308,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 79","Winnipeg",N,N,"",1,308,"Sterzer","","Helen","Conservative","Conservateur",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 79","Winnipeg",N,N,"",1,308,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 80","Winnipeg",N,N,"",3,546,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 80","Winnipeg",N,N,"",3,546,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 80","Winnipeg",N,N,"",3,546,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,82
+46011,"Winnipeg Centre","Winnipeg-Centre"," 80","Winnipeg",N,N,"",3,546,"Sterzer","","Helen","Conservative","Conservateur",N,N,23
+46011,"Winnipeg Centre","Winnipeg-Centre"," 80","Winnipeg",N,N,"",3,546,"St. Germain","","Ray","Liberal","Libéral",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 81","Winnipeg",N,N,"",7,369,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 81","Winnipeg",N,N,"",7,369,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 81","Winnipeg",N,N,"",7,369,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,53
+46011,"Winnipeg Centre","Winnipeg-Centre"," 81","Winnipeg",N,N,"",7,369,"Sterzer","","Helen","Conservative","Conservateur",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 81","Winnipeg",N,N,"",7,369,"St. Germain","","Ray","Liberal","Libéral",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 82","Winnipeg",N,N,"",5,622,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 82","Winnipeg",N,N,"",5,622,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 82","Winnipeg",N,N,"",5,622,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,104
+46011,"Winnipeg Centre","Winnipeg-Centre"," 82","Winnipeg",N,N,"",5,622,"Sterzer","","Helen","Conservative","Conservateur",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 82","Winnipeg",N,N,"",5,622,"St. Germain","","Ray","Liberal","Libéral",N,N,87
+46011,"Winnipeg Centre","Winnipeg-Centre"," 83","Winnipeg",N,N,"",6,608,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 83","Winnipeg",N,N,"",6,608,"Gervais","","Gary","Green Party","Parti Vert",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 83","Winnipeg",N,N,"",6,608,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,113
+46011,"Winnipeg Centre","Winnipeg-Centre"," 83","Winnipeg",N,N,"",6,608,"Sterzer","","Helen","Conservative","Conservateur",N,N,41
+46011,"Winnipeg Centre","Winnipeg-Centre"," 83","Winnipeg",N,N,"",6,608,"St. Germain","","Ray","Liberal","Libéral",N,N,75
+46011,"Winnipeg Centre","Winnipeg-Centre"," 84","Winnipeg",Y,N,"",0,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 84","Winnipeg",Y,N,"",0,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 84","Winnipeg",Y,N,"",0,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 84","Winnipeg",Y,N,"",0,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 84","Winnipeg",Y,N,"",0,0,"St. Germain","","Ray","Liberal","Libéral",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 85","Winnipeg",N,N,"",0,544,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 85","Winnipeg",N,N,"",0,544,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 85","Winnipeg",N,N,"",0,544,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,96
+46011,"Winnipeg Centre","Winnipeg-Centre"," 85","Winnipeg",N,N,"",0,544,"Sterzer","","Helen","Conservative","Conservateur",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 85","Winnipeg",N,N,"",0,544,"St. Germain","","Ray","Liberal","Libéral",N,N,62
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86A","Winnipeg",N,N,"",1,745,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86A","Winnipeg",N,N,"",1,745,"Gervais","","Gary","Green Party","Parti Vert",N,N,24
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86A","Winnipeg",N,N,"",1,745,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,137
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86A","Winnipeg",N,N,"",1,745,"Sterzer","","Helen","Conservative","Conservateur",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86A","Winnipeg",N,N,"",1,745,"St. Germain","","Ray","Liberal","Libéral",N,N,99
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86B","Mobile poll/Bureau itinérant",N,N,"502A",0,54,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86B","Mobile poll/Bureau itinérant",N,N,"502A",0,54,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86B","Mobile poll/Bureau itinérant",N,N,"502A",0,54,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86B","Mobile poll/Bureau itinérant",N,N,"502A",0,54,"Sterzer","","Helen","Conservative","Conservateur",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 86B","Mobile poll/Bureau itinérant",N,N,"502A",0,54,"St. Germain","","Ray","Liberal","Libéral",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 87","Winnipeg",N,N,"",0,479,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 87","Winnipeg",N,N,"",0,479,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 87","Winnipeg",N,N,"",0,479,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,86
+46011,"Winnipeg Centre","Winnipeg-Centre"," 87","Winnipeg",N,N,"",0,479,"Sterzer","","Helen","Conservative","Conservateur",N,N,51
+46011,"Winnipeg Centre","Winnipeg-Centre"," 87","Winnipeg",N,N,"",0,479,"St. Germain","","Ray","Liberal","Libéral",N,N,56
+46011,"Winnipeg Centre","Winnipeg-Centre"," 88","Winnipeg",N,N,"",0,414,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 88","Winnipeg",N,N,"",0,414,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 88","Winnipeg",N,N,"",0,414,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,46
+46011,"Winnipeg Centre","Winnipeg-Centre"," 88","Winnipeg",N,N,"",0,414,"Sterzer","","Helen","Conservative","Conservateur",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 88","Winnipeg",N,N,"",0,414,"St. Germain","","Ray","Liberal","Libéral",N,N,41
+46011,"Winnipeg Centre","Winnipeg-Centre"," 89","Winnipeg",N,N,"",2,297,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 89","Winnipeg",N,N,"",2,297,"Gervais","","Gary","Green Party","Parti Vert",N,N,11
+46011,"Winnipeg Centre","Winnipeg-Centre"," 89","Winnipeg",N,N,"",2,297,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 89","Winnipeg",N,N,"",2,297,"Sterzer","","Helen","Conservative","Conservateur",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 89","Winnipeg",N,N,"",2,297,"St. Germain","","Ray","Liberal","Libéral",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 90","Winnipeg",N,N,"",0,428,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 90","Winnipeg",N,N,"",0,428,"Gervais","","Gary","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg Centre","Winnipeg-Centre"," 90","Winnipeg",N,N,"",0,428,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,58
+46011,"Winnipeg Centre","Winnipeg-Centre"," 90","Winnipeg",N,N,"",0,428,"Sterzer","","Helen","Conservative","Conservateur",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 90","Winnipeg",N,N,"",0,428,"St. Germain","","Ray","Liberal","Libéral",N,N,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 91","Winnipeg",N,N,"",1,493,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 91","Winnipeg",N,N,"",1,493,"Gervais","","Gary","Green Party","Parti Vert",N,N,9
+46011,"Winnipeg Centre","Winnipeg-Centre"," 91","Winnipeg",N,N,"",1,493,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,45
+46011,"Winnipeg Centre","Winnipeg-Centre"," 91","Winnipeg",N,N,"",1,493,"Sterzer","","Helen","Conservative","Conservateur",N,N,24
+46011,"Winnipeg Centre","Winnipeg-Centre"," 91","Winnipeg",N,N,"",1,493,"St. Germain","","Ray","Liberal","Libéral",N,N,52
+46011,"Winnipeg Centre","Winnipeg-Centre"," 92","Winnipeg",N,N,"",1,563,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 92","Winnipeg",N,N,"",1,563,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 92","Winnipeg",N,N,"",1,563,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 92","Winnipeg",N,N,"",1,563,"Sterzer","","Helen","Conservative","Conservateur",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 92","Winnipeg",N,N,"",1,563,"St. Germain","","Ray","Liberal","Libéral",N,N,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 93","Winnipeg",N,N,"",0,463,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 93","Winnipeg",N,N,"",0,463,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 93","Winnipeg",N,N,"",0,463,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,64
+46011,"Winnipeg Centre","Winnipeg-Centre"," 93","Winnipeg",N,N,"",0,463,"Sterzer","","Helen","Conservative","Conservateur",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 93","Winnipeg",N,N,"",0,463,"St. Germain","","Ray","Liberal","Libéral",N,N,51
+46011,"Winnipeg Centre","Winnipeg-Centre"," 94","Winnipeg",N,N,"",1,274,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 94","Winnipeg",N,N,"",1,274,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 94","Winnipeg",N,N,"",1,274,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 94","Winnipeg",N,N,"",1,274,"Sterzer","","Helen","Conservative","Conservateur",N,N,8
+46011,"Winnipeg Centre","Winnipeg-Centre"," 94","Winnipeg",N,N,"",1,274,"St. Germain","","Ray","Liberal","Libéral",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 95","Winnipeg",N,N,"",1,476,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 95","Winnipeg",N,N,"",1,476,"Gervais","","Gary","Green Party","Parti Vert",N,N,19
+46011,"Winnipeg Centre","Winnipeg-Centre"," 95","Winnipeg",N,N,"",1,476,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 95","Winnipeg",N,N,"",1,476,"Sterzer","","Helen","Conservative","Conservateur",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 95","Winnipeg",N,N,"",1,476,"St. Germain","","Ray","Liberal","Libéral",N,N,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 96","Winnipeg",N,N,"",0,375,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 96","Winnipeg",N,N,"",0,375,"Gervais","","Gary","Green Party","Parti Vert",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 96","Winnipeg",N,N,"",0,375,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 96","Winnipeg",N,N,"",0,375,"Sterzer","","Helen","Conservative","Conservateur",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 96","Winnipeg",N,N,"",0,375,"St. Germain","","Ray","Liberal","Libéral",N,N,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 97","Winnipeg",N,N,"",0,451,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 97","Winnipeg",N,N,"",0,451,"Gervais","","Gary","Green Party","Parti Vert",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 97","Winnipeg",N,N,"",0,451,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,75
+46011,"Winnipeg Centre","Winnipeg-Centre"," 97","Winnipeg",N,N,"",0,451,"Sterzer","","Helen","Conservative","Conservateur",N,N,46
+46011,"Winnipeg Centre","Winnipeg-Centre"," 97","Winnipeg",N,N,"",0,451,"St. Germain","","Ray","Liberal","Libéral",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 98","Winnipeg",N,N,"",2,515,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 98","Winnipeg",N,N,"",2,515,"Gervais","","Gary","Green Party","Parti Vert",N,N,11
+46011,"Winnipeg Centre","Winnipeg-Centre"," 98","Winnipeg",N,N,"",2,515,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 98","Winnipeg",N,N,"",2,515,"Sterzer","","Helen","Conservative","Conservateur",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 98","Winnipeg",N,N,"",2,515,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 99","Winnipeg",N,N,"",0,223,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 99","Winnipeg",N,N,"",0,223,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 99","Winnipeg",N,N,"",0,223,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 99","Winnipeg",N,N,"",0,223,"Sterzer","","Helen","Conservative","Conservateur",N,N,9
+46011,"Winnipeg Centre","Winnipeg-Centre"," 99","Winnipeg",N,N,"",0,223,"St. Germain","","Ray","Liberal","Libéral",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 100","Winnipeg",N,N,"",1,546,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 100","Winnipeg",N,N,"",1,546,"Gervais","","Gary","Green Party","Parti Vert",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 100","Winnipeg",N,N,"",1,546,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,66
+46011,"Winnipeg Centre","Winnipeg-Centre"," 100","Winnipeg",N,N,"",1,546,"Sterzer","","Helen","Conservative","Conservateur",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 100","Winnipeg",N,N,"",1,546,"St. Germain","","Ray","Liberal","Libéral",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 101","Winnipeg",N,N,"",0,429,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 101","Winnipeg",N,N,"",0,429,"Gervais","","Gary","Green Party","Parti Vert",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 101","Winnipeg",N,N,"",0,429,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,106
+46011,"Winnipeg Centre","Winnipeg-Centre"," 101","Winnipeg",N,N,"",0,429,"Sterzer","","Helen","Conservative","Conservateur",N,N,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 101","Winnipeg",N,N,"",0,429,"St. Germain","","Ray","Liberal","Libéral",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 102","Winnipeg",N,N,"",0,418,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 102","Winnipeg",N,N,"",0,418,"Gervais","","Gary","Green Party","Parti Vert",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 102","Winnipeg",N,N,"",0,418,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,125
+46011,"Winnipeg Centre","Winnipeg-Centre"," 102","Winnipeg",N,N,"",0,418,"Sterzer","","Helen","Conservative","Conservateur",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 102","Winnipeg",N,N,"",0,418,"St. Germain","","Ray","Liberal","Libéral",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 103","Winnipeg",N,N,"",3,424,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 103","Winnipeg",N,N,"",3,424,"Gervais","","Gary","Green Party","Parti Vert",N,N,16
+46011,"Winnipeg Centre","Winnipeg-Centre"," 103","Winnipeg",N,N,"",3,424,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,110
+46011,"Winnipeg Centre","Winnipeg-Centre"," 103","Winnipeg",N,N,"",3,424,"Sterzer","","Helen","Conservative","Conservateur",N,N,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 103","Winnipeg",N,N,"",3,424,"St. Germain","","Ray","Liberal","Libéral",N,N,54
+46011,"Winnipeg Centre","Winnipeg-Centre"," 104","Winnipeg",N,N,"",0,371,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 104","Winnipeg",N,N,"",0,371,"Gervais","","Gary","Green Party","Parti Vert",N,N,9
+46011,"Winnipeg Centre","Winnipeg-Centre"," 104","Winnipeg",N,N,"",0,371,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,99
+46011,"Winnipeg Centre","Winnipeg-Centre"," 104","Winnipeg",N,N,"",0,371,"Sterzer","","Helen","Conservative","Conservateur",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 104","Winnipeg",N,N,"",0,371,"St. Germain","","Ray","Liberal","Libéral",N,N,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 105","Winnipeg",N,N,"",1,480,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 105","Winnipeg",N,N,"",1,480,"Gervais","","Gary","Green Party","Parti Vert",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 105","Winnipeg",N,N,"",1,480,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,109
+46011,"Winnipeg Centre","Winnipeg-Centre"," 105","Winnipeg",N,N,"",1,480,"Sterzer","","Helen","Conservative","Conservateur",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 105","Winnipeg",N,N,"",1,480,"St. Germain","","Ray","Liberal","Libéral",N,N,54
+46011,"Winnipeg Centre","Winnipeg-Centre"," 106","Winnipeg",N,N,"",1,429,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 106","Winnipeg",N,N,"",1,429,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 106","Winnipeg",N,N,"",1,429,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,66
+46011,"Winnipeg Centre","Winnipeg-Centre"," 106","Winnipeg",N,N,"",1,429,"Sterzer","","Helen","Conservative","Conservateur",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 106","Winnipeg",N,N,"",1,429,"St. Germain","","Ray","Liberal","Libéral",N,N,47
+46011,"Winnipeg Centre","Winnipeg-Centre"," 107","Winnipeg",N,N,"",1,474,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 107","Winnipeg",N,N,"",1,474,"Gervais","","Gary","Green Party","Parti Vert",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 107","Winnipeg",N,N,"",1,474,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,120
+46011,"Winnipeg Centre","Winnipeg-Centre"," 107","Winnipeg",N,N,"",1,474,"Sterzer","","Helen","Conservative","Conservateur",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 107","Winnipeg",N,N,"",1,474,"St. Germain","","Ray","Liberal","Libéral",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 108","Winnipeg",N,N,"",1,275,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 108","Winnipeg",N,N,"",1,275,"Gervais","","Gary","Green Party","Parti Vert",N,N,24
+46011,"Winnipeg Centre","Winnipeg-Centre"," 108","Winnipeg",N,N,"",1,275,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,93
+46011,"Winnipeg Centre","Winnipeg-Centre"," 108","Winnipeg",N,N,"",1,275,"Sterzer","","Helen","Conservative","Conservateur",N,N,19
+46011,"Winnipeg Centre","Winnipeg-Centre"," 108","Winnipeg",N,N,"",1,275,"St. Germain","","Ray","Liberal","Libéral",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 109","Winnipeg",N,N,"",1,231,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 109","Winnipeg",N,N,"",1,231,"Gervais","","Gary","Green Party","Parti Vert",N,N,23
+46011,"Winnipeg Centre","Winnipeg-Centre"," 109","Winnipeg",N,N,"",1,231,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,82
+46011,"Winnipeg Centre","Winnipeg-Centre"," 109","Winnipeg",N,N,"",1,231,"Sterzer","","Helen","Conservative","Conservateur",N,N,19
+46011,"Winnipeg Centre","Winnipeg-Centre"," 109","Winnipeg",N,N,"",1,231,"St. Germain","","Ray","Liberal","Libéral",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 110","Winnipeg",N,N,"",1,342,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 110","Winnipeg",N,N,"",1,342,"Gervais","","Gary","Green Party","Parti Vert",N,N,46
+46011,"Winnipeg Centre","Winnipeg-Centre"," 110","Winnipeg",N,N,"",1,342,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,104
+46011,"Winnipeg Centre","Winnipeg-Centre"," 110","Winnipeg",N,N,"",1,342,"Sterzer","","Helen","Conservative","Conservateur",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 110","Winnipeg",N,N,"",1,342,"St. Germain","","Ray","Liberal","Libéral",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 111","Winnipeg",N,N,"",0,212,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 111","Winnipeg",N,N,"",0,212,"Gervais","","Gary","Green Party","Parti Vert",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 111","Winnipeg",N,N,"",0,212,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 111","Winnipeg",N,N,"",0,212,"Sterzer","","Helen","Conservative","Conservateur",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 111","Winnipeg",N,N,"",0,212,"St. Germain","","Ray","Liberal","Libéral",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 112","Winnipeg",N,N,"",1,404,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 112","Winnipeg",N,N,"",1,404,"Gervais","","Gary","Green Party","Parti Vert",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 112","Winnipeg",N,N,"",1,404,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,113
+46011,"Winnipeg Centre","Winnipeg-Centre"," 112","Winnipeg",N,N,"",1,404,"Sterzer","","Helen","Conservative","Conservateur",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 112","Winnipeg",N,N,"",1,404,"St. Germain","","Ray","Liberal","Libéral",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 113","Winnipeg",N,N,"",1,463,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 113","Winnipeg",N,N,"",1,463,"Gervais","","Gary","Green Party","Parti Vert",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 113","Winnipeg",N,N,"",1,463,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,195
+46011,"Winnipeg Centre","Winnipeg-Centre"," 113","Winnipeg",N,N,"",1,463,"Sterzer","","Helen","Conservative","Conservateur",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 113","Winnipeg",N,N,"",1,463,"St. Germain","","Ray","Liberal","Libéral",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 114","Winnipeg",N,N,"",1,431,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 114","Winnipeg",N,N,"",1,431,"Gervais","","Gary","Green Party","Parti Vert",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 114","Winnipeg",N,N,"",1,431,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,165
+46011,"Winnipeg Centre","Winnipeg-Centre"," 114","Winnipeg",N,N,"",1,431,"Sterzer","","Helen","Conservative","Conservateur",N,N,53
+46011,"Winnipeg Centre","Winnipeg-Centre"," 114","Winnipeg",N,N,"",1,431,"St. Germain","","Ray","Liberal","Libéral",N,N,58
+46011,"Winnipeg Centre","Winnipeg-Centre"," 115","Winnipeg",N,N,"",1,338,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 115","Winnipeg",N,N,"",1,338,"Gervais","","Gary","Green Party","Parti Vert",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 115","Winnipeg",N,N,"",1,338,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,129
+46011,"Winnipeg Centre","Winnipeg-Centre"," 115","Winnipeg",N,N,"",1,338,"Sterzer","","Helen","Conservative","Conservateur",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 115","Winnipeg",N,N,"",1,338,"St. Germain","","Ray","Liberal","Libéral",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 116","Winnipeg",N,N,"",1,307,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 116","Winnipeg",N,N,"",1,307,"Gervais","","Gary","Green Party","Parti Vert",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 116","Winnipeg",N,N,"",1,307,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,147
+46011,"Winnipeg Centre","Winnipeg-Centre"," 116","Winnipeg",N,N,"",1,307,"Sterzer","","Helen","Conservative","Conservateur",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 116","Winnipeg",N,N,"",1,307,"St. Germain","","Ray","Liberal","Libéral",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 117","Winnipeg",N,N,"",1,321,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 117","Winnipeg",N,N,"",1,321,"Gervais","","Gary","Green Party","Parti Vert",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 117","Winnipeg",N,N,"",1,321,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,125
+46011,"Winnipeg Centre","Winnipeg-Centre"," 117","Winnipeg",N,N,"",1,321,"Sterzer","","Helen","Conservative","Conservateur",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 117","Winnipeg",N,N,"",1,321,"St. Germain","","Ray","Liberal","Libéral",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 118","Winnipeg",N,N,"",2,386,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 118","Winnipeg",N,N,"",2,386,"Gervais","","Gary","Green Party","Parti Vert",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 118","Winnipeg",N,N,"",2,386,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,170
+46011,"Winnipeg Centre","Winnipeg-Centre"," 118","Winnipeg",N,N,"",2,386,"Sterzer","","Helen","Conservative","Conservateur",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 118","Winnipeg",N,N,"",2,386,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 119","Winnipeg",N,N,"",1,412,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 119","Winnipeg",N,N,"",1,412,"Gervais","","Gary","Green Party","Parti Vert",N,N,54
+46011,"Winnipeg Centre","Winnipeg-Centre"," 119","Winnipeg",N,N,"",1,412,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,136
+46011,"Winnipeg Centre","Winnipeg-Centre"," 119","Winnipeg",N,N,"",1,412,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 119","Winnipeg",N,N,"",1,412,"St. Germain","","Ray","Liberal","Libéral",N,N,44
+46011,"Winnipeg Centre","Winnipeg-Centre"," 120","Winnipeg",N,N,"",1,519,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 120","Winnipeg",N,N,"",1,519,"Gervais","","Gary","Green Party","Parti Vert",N,N,44
+46011,"Winnipeg Centre","Winnipeg-Centre"," 120","Winnipeg",N,N,"",1,519,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,167
+46011,"Winnipeg Centre","Winnipeg-Centre"," 120","Winnipeg",N,N,"",1,519,"Sterzer","","Helen","Conservative","Conservateur",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 120","Winnipeg",N,N,"",1,519,"St. Germain","","Ray","Liberal","Libéral",N,N,48
+46011,"Winnipeg Centre","Winnipeg-Centre"," 121","Winnipeg",N,N,"",2,515,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 121","Winnipeg",N,N,"",2,515,"Gervais","","Gary","Green Party","Parti Vert",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 121","Winnipeg",N,N,"",2,515,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,100
+46011,"Winnipeg Centre","Winnipeg-Centre"," 121","Winnipeg",N,N,"",2,515,"Sterzer","","Helen","Conservative","Conservateur",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 121","Winnipeg",N,N,"",2,515,"St. Germain","","Ray","Liberal","Libéral",N,N,47
+46011,"Winnipeg Centre","Winnipeg-Centre"," 122","Winnipeg",N,N,"",3,498,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 122","Winnipeg",N,N,"",3,498,"Gervais","","Gary","Green Party","Parti Vert",N,N,28
+46011,"Winnipeg Centre","Winnipeg-Centre"," 122","Winnipeg",N,N,"",3,498,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,126
+46011,"Winnipeg Centre","Winnipeg-Centre"," 122","Winnipeg",N,N,"",3,498,"Sterzer","","Helen","Conservative","Conservateur",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 122","Winnipeg",N,N,"",3,498,"St. Germain","","Ray","Liberal","Libéral",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 123","Winnipeg",N,N,"",2,370,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 123","Winnipeg",N,N,"",2,370,"Gervais","","Gary","Green Party","Parti Vert",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 123","Winnipeg",N,N,"",2,370,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,112
+46011,"Winnipeg Centre","Winnipeg-Centre"," 123","Winnipeg",N,N,"",2,370,"Sterzer","","Helen","Conservative","Conservateur",N,N,19
+46011,"Winnipeg Centre","Winnipeg-Centre"," 123","Winnipeg",N,N,"",2,370,"St. Germain","","Ray","Liberal","Libéral",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 124","Winnipeg",N,N,"",2,411,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 124","Winnipeg",N,N,"",2,411,"Gervais","","Gary","Green Party","Parti Vert",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 124","Winnipeg",N,N,"",2,411,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,95
+46011,"Winnipeg Centre","Winnipeg-Centre"," 124","Winnipeg",N,N,"",2,411,"Sterzer","","Helen","Conservative","Conservateur",N,N,18
+46011,"Winnipeg Centre","Winnipeg-Centre"," 124","Winnipeg",N,N,"",2,411,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 125","Winnipeg",N,N,"",0,311,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 125","Winnipeg",N,N,"",0,311,"Gervais","","Gary","Green Party","Parti Vert",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 125","Winnipeg",N,N,"",0,311,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,65
+46011,"Winnipeg Centre","Winnipeg-Centre"," 125","Winnipeg",N,N,"",0,311,"Sterzer","","Helen","Conservative","Conservateur",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 125","Winnipeg",N,N,"",0,311,"St. Germain","","Ray","Liberal","Libéral",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 126","Winnipeg",N,N,"",2,430,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 126","Winnipeg",N,N,"",2,430,"Gervais","","Gary","Green Party","Parti Vert",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 126","Winnipeg",N,N,"",2,430,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,94
+46011,"Winnipeg Centre","Winnipeg-Centre"," 126","Winnipeg",N,N,"",2,430,"Sterzer","","Helen","Conservative","Conservateur",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 126","Winnipeg",N,N,"",2,430,"St. Germain","","Ray","Liberal","Libéral",N,N,33
+46011,"Winnipeg Centre","Winnipeg-Centre"," 127","Winnipeg",N,N,"",0,394,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 127","Winnipeg",N,N,"",0,394,"Gervais","","Gary","Green Party","Parti Vert",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 127","Winnipeg",N,N,"",0,394,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,54
+46011,"Winnipeg Centre","Winnipeg-Centre"," 127","Winnipeg",N,N,"",0,394,"Sterzer","","Helen","Conservative","Conservateur",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 127","Winnipeg",N,N,"",0,394,"St. Germain","","Ray","Liberal","Libéral",N,N,49
+46011,"Winnipeg Centre","Winnipeg-Centre"," 128","Winnipeg",N,N,"",0,357,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 128","Winnipeg",N,N,"",0,357,"Gervais","","Gary","Green Party","Parti Vert",N,N,19
+46011,"Winnipeg Centre","Winnipeg-Centre"," 128","Winnipeg",N,N,"",0,357,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,93
+46011,"Winnipeg Centre","Winnipeg-Centre"," 128","Winnipeg",N,N,"",0,357,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 128","Winnipeg",N,N,"",0,357,"St. Germain","","Ray","Liberal","Libéral",N,N,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 129","Winnipeg",N,N,"",0,271,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 129","Winnipeg",N,N,"",0,271,"Gervais","","Gary","Green Party","Parti Vert",N,N,13
+46011,"Winnipeg Centre","Winnipeg-Centre"," 129","Winnipeg",N,N,"",0,271,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,73
+46011,"Winnipeg Centre","Winnipeg-Centre"," 129","Winnipeg",N,N,"",0,271,"Sterzer","","Helen","Conservative","Conservateur",N,N,12
+46011,"Winnipeg Centre","Winnipeg-Centre"," 129","Winnipeg",N,N,"",0,271,"St. Germain","","Ray","Liberal","Libéral",N,N,45
+46011,"Winnipeg Centre","Winnipeg-Centre"," 130","Winnipeg",N,N,"",1,540,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 130","Winnipeg",N,N,"",1,540,"Gervais","","Gary","Green Party","Parti Vert",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 130","Winnipeg",N,N,"",1,540,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,104
+46011,"Winnipeg Centre","Winnipeg-Centre"," 130","Winnipeg",N,N,"",1,540,"Sterzer","","Helen","Conservative","Conservateur",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 130","Winnipeg",N,N,"",1,540,"St. Germain","","Ray","Liberal","Libéral",N,N,76
+46011,"Winnipeg Centre","Winnipeg-Centre"," 131","Winnipeg",N,N,"",0,445,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 131","Winnipeg",N,N,"",0,445,"Gervais","","Gary","Green Party","Parti Vert",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 131","Winnipeg",N,N,"",0,445,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,116
+46011,"Winnipeg Centre","Winnipeg-Centre"," 131","Winnipeg",N,N,"",0,445,"Sterzer","","Helen","Conservative","Conservateur",N,N,34
+46011,"Winnipeg Centre","Winnipeg-Centre"," 131","Winnipeg",N,N,"",0,445,"St. Germain","","Ray","Liberal","Libéral",N,N,61
+46011,"Winnipeg Centre","Winnipeg-Centre"," 132","Winnipeg",N,N,"",1,325,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 132","Winnipeg",N,N,"",1,325,"Gervais","","Gary","Green Party","Parti Vert",N,N,9
+46011,"Winnipeg Centre","Winnipeg-Centre"," 132","Winnipeg",N,N,"",1,325,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,59
+46011,"Winnipeg Centre","Winnipeg-Centre"," 132","Winnipeg",N,N,"",1,325,"Sterzer","","Helen","Conservative","Conservateur",N,N,27
+46011,"Winnipeg Centre","Winnipeg-Centre"," 132","Winnipeg",N,N,"",1,325,"St. Germain","","Ray","Liberal","Libéral",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 133","Winnipeg",N,N,"",2,262,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 133","Winnipeg",N,N,"",2,262,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 133","Winnipeg",N,N,"",2,262,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 133","Winnipeg",N,N,"",2,262,"Sterzer","","Helen","Conservative","Conservateur",N,N,15
+46011,"Winnipeg Centre","Winnipeg-Centre"," 133","Winnipeg",N,N,"",2,262,"St. Germain","","Ray","Liberal","Libéral",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 134","Winnipeg",N,N,"",0,337,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 134","Winnipeg",N,N,"",0,337,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 134","Winnipeg",N,N,"",0,337,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,48
+46011,"Winnipeg Centre","Winnipeg-Centre"," 134","Winnipeg",N,N,"",0,337,"Sterzer","","Helen","Conservative","Conservateur",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 134","Winnipeg",N,N,"",0,337,"St. Germain","","Ray","Liberal","Libéral",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 135","Winnipeg",N,N,"",3,611,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 135","Winnipeg",N,N,"",3,611,"Gervais","","Gary","Green Party","Parti Vert",N,N,36
+46011,"Winnipeg Centre","Winnipeg-Centre"," 135","Winnipeg",N,N,"",3,611,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,119
+46011,"Winnipeg Centre","Winnipeg-Centre"," 135","Winnipeg",N,N,"",3,611,"Sterzer","","Helen","Conservative","Conservateur",N,N,66
+46011,"Winnipeg Centre","Winnipeg-Centre"," 135","Winnipeg",N,N,"",3,611,"St. Germain","","Ray","Liberal","Libéral",N,N,90
+46011,"Winnipeg Centre","Winnipeg-Centre"," 136","Winnipeg",Y,N,"",0,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 136","Winnipeg",Y,N,"",0,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 136","Winnipeg",Y,N,"",0,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 136","Winnipeg",Y,N,"",0,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 136","Winnipeg",Y,N,"",0,0,"St. Germain","","Ray","Liberal","Libéral",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 137","Winnipeg",N,N,"",3,390,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 137","Winnipeg",N,N,"",3,390,"Gervais","","Gary","Green Party","Parti Vert",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 137","Winnipeg",N,N,"",3,390,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,78
+46011,"Winnipeg Centre","Winnipeg-Centre"," 137","Winnipeg",N,N,"",3,390,"Sterzer","","Helen","Conservative","Conservateur",N,N,61
+46011,"Winnipeg Centre","Winnipeg-Centre"," 137","Winnipeg",N,N,"",3,390,"St. Germain","","Ray","Liberal","Libéral",N,N,66
+46011,"Winnipeg Centre","Winnipeg-Centre"," 138","Winnipeg",N,N,"139A",0,38,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 138","Winnipeg",N,N,"139A",0,38,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 138","Winnipeg",N,N,"139A",0,38,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 138","Winnipeg",N,N,"139A",0,38,"Sterzer","","Helen","Conservative","Conservateur",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 138","Winnipeg",N,N,"139A",0,38,"St. Germain","","Ray","Liberal","Libéral",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139A","Winnipeg",N,N,"",3,343,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139A","Winnipeg",N,N,"",3,343,"Gervais","","Gary","Green Party","Parti Vert",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139A","Winnipeg",N,N,"",3,343,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,74
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139A","Winnipeg",N,N,"",3,343,"Sterzer","","Helen","Conservative","Conservateur",N,N,99
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139A","Winnipeg",N,N,"",3,343,"St. Germain","","Ray","Liberal","Libéral",N,N,118
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139B","Winnipeg",N,N,"",0,276,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139B","Winnipeg",N,N,"",0,276,"Gervais","","Gary","Green Party","Parti Vert",N,N,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139B","Winnipeg",N,N,"",0,276,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,47
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139B","Winnipeg",N,N,"",0,276,"Sterzer","","Helen","Conservative","Conservateur",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 139B","Winnipeg",N,N,"",0,276,"St. Germain","","Ray","Liberal","Libéral",N,N,50
+46011,"Winnipeg Centre","Winnipeg-Centre"," 400","Winnipeg",N,N,"",1,266,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 400","Winnipeg",N,N,"",1,266,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 400","Winnipeg",N,N,"",1,266,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 400","Winnipeg",N,N,"",1,266,"Sterzer","","Helen","Conservative","Conservateur",N,N,45
+46011,"Winnipeg Centre","Winnipeg-Centre"," 400","Winnipeg",N,N,"",1,266,"St. Germain","","Ray","Liberal","Libéral",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 401","Winnipeg",N,N,"",3,304,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 401","Winnipeg",N,N,"",3,304,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 401","Winnipeg",N,N,"",3,304,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,69
+46011,"Winnipeg Centre","Winnipeg-Centre"," 401","Winnipeg",N,N,"",3,304,"Sterzer","","Helen","Conservative","Conservateur",N,N,48
+46011,"Winnipeg Centre","Winnipeg-Centre"," 401","Winnipeg",N,N,"",3,304,"St. Germain","","Ray","Liberal","Libéral",N,N,64
+46011,"Winnipeg Centre","Winnipeg-Centre"," 402","Winnipeg",N,N,"",4,323,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 402","Winnipeg",N,N,"",4,323,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 402","Winnipeg",N,N,"",4,323,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,52
+46011,"Winnipeg Centre","Winnipeg-Centre"," 402","Winnipeg",N,N,"",4,323,"Sterzer","","Helen","Conservative","Conservateur",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," 402","Winnipeg",N,N,"",4,323,"St. Germain","","Ray","Liberal","Libéral",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," 403","Winnipeg",N,N,"",3,295,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 403","Winnipeg",N,N,"",3,295,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 403","Winnipeg",N,N,"",3,295,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,17
+46011,"Winnipeg Centre","Winnipeg-Centre"," 403","Winnipeg",N,N,"",3,295,"Sterzer","","Helen","Conservative","Conservateur",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 403","Winnipeg",N,N,"",3,295,"St. Germain","","Ray","Liberal","Libéral",N,N,25
+46011,"Winnipeg Centre","Winnipeg-Centre"," 404","Winnipeg",N,N,"",1,162,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 404","Winnipeg",N,N,"",1,162,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 404","Winnipeg",N,N,"",1,162,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 404","Winnipeg",N,N,"",1,162,"Sterzer","","Helen","Conservative","Conservateur",N,N,18
+46011,"Winnipeg Centre","Winnipeg-Centre"," 404","Winnipeg",N,N,"",1,162,"St. Germain","","Ray","Liberal","Libéral",N,N,46
+46011,"Winnipeg Centre","Winnipeg-Centre"," 405","Winnipeg",N,N,"",0,153,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 405","Winnipeg",N,N,"",0,153,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 405","Winnipeg",N,N,"",0,153,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 405","Winnipeg",N,N,"",0,153,"Sterzer","","Helen","Conservative","Conservateur",N,N,29
+46011,"Winnipeg Centre","Winnipeg-Centre"," 405","Winnipeg",N,N,"",0,153,"St. Germain","","Ray","Liberal","Libéral",N,N,42
+46011,"Winnipeg Centre","Winnipeg-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",3,170,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",3,170,"Gervais","","Gary","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",3,170,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,55
+46011,"Winnipeg Centre","Winnipeg-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",3,170,"Sterzer","","Helen","Conservative","Conservateur",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",3,170,"St. Germain","","Ray","Liberal","Libéral",N,N,24
+46011,"Winnipeg Centre","Winnipeg-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",1,177,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",1,177,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",1,177,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,40
+46011,"Winnipeg Centre","Winnipeg-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",1,177,"Sterzer","","Helen","Conservative","Conservateur",N,N,24
+46011,"Winnipeg Centre","Winnipeg-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",1,177,"St. Germain","","Ray","Liberal","Libéral",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502A","Mobile poll/Bureau itinérant",N,N,"",0,103,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502A","Mobile poll/Bureau itinérant",N,N,"",0,103,"Gervais","","Gary","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502A","Mobile poll/Bureau itinérant",N,N,"",0,103,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,53
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502A","Mobile poll/Bureau itinérant",N,N,"",0,103,"Sterzer","","Helen","Conservative","Conservateur",N,N,26
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502A","Mobile poll/Bureau itinérant",N,N,"",0,103,"St. Germain","","Ray","Liberal","Libéral",N,N,46
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502B","Mobile poll/Bureau itinérant",N,N,"501",0,2,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502B","Mobile poll/Bureau itinérant",N,N,"501",0,2,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502B","Mobile poll/Bureau itinérant",N,N,"501",0,2,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502B","Mobile poll/Bureau itinérant",N,N,"501",0,2,"Sterzer","","Helen","Conservative","Conservateur",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 502B","Mobile poll/Bureau itinérant",N,N,"501",0,2,"St. Germain","","Ray","Liberal","Libéral",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,292,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,292,"Gervais","","Gary","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg Centre","Winnipeg-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,292,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,61
+46011,"Winnipeg Centre","Winnipeg-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,292,"Sterzer","","Helen","Conservative","Conservateur",N,N,32
+46011,"Winnipeg Centre","Winnipeg-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,292,"St. Germain","","Ray","Liberal","Libéral",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,19,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,19,"Gervais","","Gary","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,19,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,19,"Sterzer","","Helen","Conservative","Conservateur",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,19,"St. Germain","","Ray","Liberal","Libéral",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 600","Winnipeg",N,N,"",0,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 600","Winnipeg",N,N,"",0,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 600","Winnipeg",N,N,"",0,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,51
+46011,"Winnipeg Centre","Winnipeg-Centre"," 600","Winnipeg",N,N,"",0,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,20
+46011,"Winnipeg Centre","Winnipeg-Centre"," 600","Winnipeg",N,N,"",0,0,"St. Germain","","Ray","Liberal","Libéral",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 601","Winnipeg",N,N,"",0,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 601","Winnipeg",N,N,"",0,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 601","Winnipeg",N,N,"",0,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,61
+46011,"Winnipeg Centre","Winnipeg-Centre"," 601","Winnipeg",N,N,"",0,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,77
+46011,"Winnipeg Centre","Winnipeg-Centre"," 601","Winnipeg",N,N,"",0,0,"St. Germain","","Ray","Liberal","Libéral",N,N,39
+46011,"Winnipeg Centre","Winnipeg-Centre"," 602","Winnipeg",N,N,"",2,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," 602","Winnipeg",N,N,"",2,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,10
+46011,"Winnipeg Centre","Winnipeg-Centre"," 602","Winnipeg",N,N,"",2,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,99
+46011,"Winnipeg Centre","Winnipeg-Centre"," 602","Winnipeg",N,N,"",2,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,54
+46011,"Winnipeg Centre","Winnipeg-Centre"," 602","Winnipeg",N,N,"",2,0,"St. Germain","","Ray","Liberal","Libéral",N,N,43
+46011,"Winnipeg Centre","Winnipeg-Centre"," 603","Winnipeg",N,N,"",0,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 603","Winnipeg",N,N,"",0,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 603","Winnipeg",N,N,"",0,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,131
+46011,"Winnipeg Centre","Winnipeg-Centre"," 603","Winnipeg",N,N,"",0,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 603","Winnipeg",N,N,"",0,0,"St. Germain","","Ray","Liberal","Libéral",N,N,57
+46011,"Winnipeg Centre","Winnipeg-Centre"," 604","Winnipeg",N,N,"",0,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 604","Winnipeg",N,N,"",0,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg Centre","Winnipeg-Centre"," 604","Winnipeg",N,N,"",0,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,38
+46011,"Winnipeg Centre","Winnipeg-Centre"," 604","Winnipeg",N,N,"",0,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,14
+46011,"Winnipeg Centre","Winnipeg-Centre"," 604","Winnipeg",N,N,"",0,0,"St. Germain","","Ray","Liberal","Libéral",N,N,22
+46011,"Winnipeg Centre","Winnipeg-Centre"," 605","Winnipeg",N,N,"",2,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,5
+46011,"Winnipeg Centre","Winnipeg-Centre"," 605","Winnipeg",N,N,"",2,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,21
+46011,"Winnipeg Centre","Winnipeg-Centre"," 605","Winnipeg",N,N,"",2,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,155
+46011,"Winnipeg Centre","Winnipeg-Centre"," 605","Winnipeg",N,N,"",2,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,80
+46011,"Winnipeg Centre","Winnipeg-Centre"," 605","Winnipeg",N,N,"",2,0,"St. Germain","","Ray","Liberal","Libéral",N,N,114
+46011,"Winnipeg Centre","Winnipeg-Centre"," 606","Winnipeg",N,N,"",1,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," 606","Winnipeg",N,N,"",1,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,31
+46011,"Winnipeg Centre","Winnipeg-Centre"," 606","Winnipeg",N,N,"",1,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,163
+46011,"Winnipeg Centre","Winnipeg-Centre"," 606","Winnipeg",N,N,"",1,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,52
+46011,"Winnipeg Centre","Winnipeg-Centre"," 606","Winnipeg",N,N,"",1,0,"St. Germain","","Ray","Liberal","Libéral",N,N,30
+46011,"Winnipeg Centre","Winnipeg-Centre"," 607","Winnipeg",N,N,"",3,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,0
+46011,"Winnipeg Centre","Winnipeg-Centre"," 607","Winnipeg",N,N,"",3,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,16
+46011,"Winnipeg Centre","Winnipeg-Centre"," 607","Winnipeg",N,N,"",3,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,103
+46011,"Winnipeg Centre","Winnipeg-Centre"," 607","Winnipeg",N,N,"",3,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,72
+46011,"Winnipeg Centre","Winnipeg-Centre"," 607","Winnipeg",N,N,"",3,0,"St. Germain","","Ray","Liberal","Libéral",N,N,82
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,376,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,3
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,376,"Gervais","","Gary","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,376,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,54
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,376,"Sterzer","","Helen","Conservative","Conservateur",N,N,35
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,376,"St. Germain","","Ray","Liberal","Libéral",N,N,146
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Carr","","Anna-Celestrya","Communist","Communiste",N,N,2
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Gervais","","Gary","Green Party","Parti Vert",N,N,37
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Martin","","Pat","N.D.P.","N.P.D.",Y,Y,300
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Sterzer","","Helen","Conservative","Conservateur",N,N,116
+46011,"Winnipeg Centre","Winnipeg-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"St. Germain","","Ray","Liberal","Libéral",N,N,129

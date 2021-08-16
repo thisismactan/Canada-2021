@@ -1,0 +1,833 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,298,"Antle","","Paul","Liberal","Libéral",N,N,69
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,298,"Doyle","","Norman","Conservative","Conservateur",Y,Y,69
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,298,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,298,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,20
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",1,281,"Antle","","Paul","Liberal","Libéral",N,N,65
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",1,281,"Doyle","","Norman","Conservative","Conservateur",Y,Y,63
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",1,281,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",1,281,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",1,407,"Antle","","Paul","Liberal","Libéral",N,N,75
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",1,407,"Doyle","","Norman","Conservative","Conservateur",Y,Y,123
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",1,407,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",1,407,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,27
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,366,"Antle","","Paul","Liberal","Libéral",N,N,51
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,366,"Doyle","","Norman","Conservative","Conservateur",Y,Y,101
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,366,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,366,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,40
+10006,"St. John's East","St. John's-Est"," 5","Bauline",N,N,"",0,242,"Antle","","Paul","Liberal","Libéral",N,N,50
+10006,"St. John's East","St. John's-Est"," 5","Bauline",N,N,"",0,242,"Doyle","","Norman","Conservative","Conservateur",Y,Y,57
+10006,"St. John's East","St. John's-Est"," 5","Bauline",N,N,"",0,242,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 5","Bauline",N,N,"",0,242,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,21
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",1,387,"Antle","","Paul","Liberal","Libéral",N,N,71
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",1,387,"Doyle","","Norman","Conservative","Conservateur",Y,Y,117
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",1,387,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",1,387,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,24
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,543,"Antle","","Paul","Liberal","Libéral",N,N,84
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,543,"Doyle","","Norman","Conservative","Conservateur",Y,Y,199
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,543,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,543,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,47
+10006,"St. John's East","St. John's-Est"," 8","Torbay",N,N,"",1,232,"Antle","","Paul","Liberal","Libéral",N,N,49
+10006,"St. John's East","St. John's-Est"," 8","Torbay",N,N,"",1,232,"Doyle","","Norman","Conservative","Conservateur",Y,Y,68
+10006,"St. John's East","St. John's-Est"," 8","Torbay",N,N,"",1,232,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 8","Torbay",N,N,"",1,232,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,18
+10006,"St. John's East","St. John's-Est"," 9","Torbay",N,N,"",1,545,"Antle","","Paul","Liberal","Libéral",N,N,83
+10006,"St. John's East","St. John's-Est"," 9","Torbay",N,N,"",1,545,"Doyle","","Norman","Conservative","Conservateur",Y,Y,188
+10006,"St. John's East","St. John's-Est"," 9","Torbay",N,N,"",1,545,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 9","Torbay",N,N,"",1,545,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,44
+10006,"St. John's East","St. John's-Est"," 10","Torbay",N,N,"",1,397,"Antle","","Paul","Liberal","Libéral",N,N,64
+10006,"St. John's East","St. John's-Est"," 10","Torbay",N,N,"",1,397,"Doyle","","Norman","Conservative","Conservateur",Y,Y,121
+10006,"St. John's East","St. John's-Est"," 10","Torbay",N,N,"",1,397,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 10","Torbay",N,N,"",1,397,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 11","Torbay",N,N,"",0,354,"Antle","","Paul","Liberal","Libéral",N,N,53
+10006,"St. John's East","St. John's-Est"," 11","Torbay",N,N,"",0,354,"Doyle","","Norman","Conservative","Conservateur",Y,Y,114
+10006,"St. John's East","St. John's-Est"," 11","Torbay",N,N,"",0,354,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 11","Torbay",N,N,"",0,354,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,20
+10006,"St. John's East","St. John's-Est"," 12","Torbay",N,N,"",0,302,"Antle","","Paul","Liberal","Libéral",N,N,55
+10006,"St. John's East","St. John's-Est"," 12","Torbay",N,N,"",0,302,"Doyle","","Norman","Conservative","Conservateur",Y,Y,77
+10006,"St. John's East","St. John's-Est"," 12","Torbay",N,N,"",0,302,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 12","Torbay",N,N,"",0,302,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,26
+10006,"St. John's East","St. John's-Est"," 13A","Torbay",N,N,"",0,314,"Antle","","Paul","Liberal","Libéral",N,N,59
+10006,"St. John's East","St. John's-Est"," 13A","Torbay",N,N,"",0,314,"Doyle","","Norman","Conservative","Conservateur",Y,Y,64
+10006,"St. John's East","St. John's-Est"," 13A","Torbay",N,N,"",0,314,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 13A","Torbay",N,N,"",0,314,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,28
+10006,"St. John's East","St. John's-Est"," 13B","Torbay",N,N,"",0,313,"Antle","","Paul","Liberal","Libéral",N,N,64
+10006,"St. John's East","St. John's-Est"," 13B","Torbay",N,N,"",0,313,"Doyle","","Norman","Conservative","Conservateur",Y,Y,81
+10006,"St. John's East","St. John's-Est"," 13B","Torbay",N,N,"",0,313,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 13B","Torbay",N,N,"",0,313,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,24
+10006,"St. John's East","St. John's-Est"," 14A","Torbay",N,N,"",0,521,"Antle","","Paul","Liberal","Libéral",N,N,84
+10006,"St. John's East","St. John's-Est"," 14A","Torbay",N,N,"",0,521,"Doyle","","Norman","Conservative","Conservateur",Y,Y,116
+10006,"St. John's East","St. John's-Est"," 14A","Torbay",N,N,"",0,521,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 14A","Torbay",N,N,"",0,521,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,66
+10006,"St. John's East","St. John's-Est"," 14B","Mobile poll/Bureau itinérant",N,N,"",0,35,"Antle","","Paul","Liberal","Libéral",N,N,16
+10006,"St. John's East","St. John's-Est"," 14B","Mobile poll/Bureau itinérant",N,N,"",0,35,"Doyle","","Norman","Conservative","Conservateur",Y,Y,19
+10006,"St. John's East","St. John's-Est"," 14B","Mobile poll/Bureau itinérant",N,N,"",0,35,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 14B","Mobile poll/Bureau itinérant",N,N,"",0,35,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,4
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,368,"Antle","","Paul","Liberal","Libéral",N,N,84
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,368,"Doyle","","Norman","Conservative","Conservateur",Y,Y,105
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,368,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,368,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,26
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,445,"Antle","","Paul","Liberal","Libéral",N,N,84
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,445,"Doyle","","Norman","Conservative","Conservateur",Y,Y,119
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,445,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,445,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,39
+10006,"St. John's East","St. John's-Est"," 17A","Torbay",N,N,"",0,398,"Antle","","Paul","Liberal","Libéral",N,N,57
+10006,"St. John's East","St. John's-Est"," 17A","Torbay",N,N,"",0,398,"Doyle","","Norman","Conservative","Conservateur",Y,Y,108
+10006,"St. John's East","St. John's-Est"," 17A","Torbay",N,N,"",0,398,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 17A","Torbay",N,N,"",0,398,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 17B","Torbay",N,N,"",0,388,"Antle","","Paul","Liberal","Libéral",N,N,63
+10006,"St. John's East","St. John's-Est"," 17B","Torbay",N,N,"",0,388,"Doyle","","Norman","Conservative","Conservateur",Y,Y,116
+10006,"St. John's East","St. John's-Est"," 17B","Torbay",N,N,"",0,388,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 17B","Torbay",N,N,"",0,388,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,27
+10006,"St. John's East","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,479,"Antle","","Paul","Liberal","Libéral",N,N,80
+10006,"St. John's East","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,479,"Doyle","","Norman","Conservative","Conservateur",Y,Y,170
+10006,"St. John's East","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,479,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,479,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,58
+10006,"St. John's East","St. John's-Est"," 19","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,316,"Antle","","Paul","Liberal","Libéral",N,N,47
+10006,"St. John's East","St. John's-Est"," 19","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,316,"Doyle","","Norman","Conservative","Conservateur",Y,Y,113
+10006,"St. John's East","St. John's-Est"," 19","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,316,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 19","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,316,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,37
+10006,"St. John's East","St. John's-Est"," 20A","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,289,"Antle","","Paul","Liberal","Libéral",N,N,51
+10006,"St. John's East","St. John's-Est"," 20A","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,289,"Doyle","","Norman","Conservative","Conservateur",Y,Y,114
+10006,"St. John's East","St. John's-Est"," 20A","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,289,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 20A","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,289,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,19
+10006,"St. John's East","St. John's-Est"," 20B","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,289,"Antle","","Paul","Liberal","Libéral",N,N,52
+10006,"St. John's East","St. John's-Est"," 20B","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,289,"Doyle","","Norman","Conservative","Conservateur",Y,Y,119
+10006,"St. John's East","St. John's-Est"," 20B","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,289,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 20B","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,289,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,13
+10006,"St. John's East","St. John's-Est"," 21","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,293,"Antle","","Paul","Liberal","Libéral",N,N,55
+10006,"St. John's East","St. John's-Est"," 21","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,293,"Doyle","","Norman","Conservative","Conservateur",Y,Y,93
+10006,"St. John's East","St. John's-Est"," 21","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,293,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 21","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,293,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,39
+10006,"St. John's East","St. John's-Est"," 22","Wabana",N,N,"",1,371,"Antle","","Paul","Liberal","Libéral",N,N,44
+10006,"St. John's East","St. John's-Est"," 22","Wabana",N,N,"",1,371,"Doyle","","Norman","Conservative","Conservateur",Y,Y,101
+10006,"St. John's East","St. John's-Est"," 22","Wabana",N,N,"",1,371,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 22","Wabana",N,N,"",1,371,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,13
+10006,"St. John's East","St. John's-Est"," 23","Wabana",N,N,"",0,342,"Antle","","Paul","Liberal","Libéral",N,N,46
+10006,"St. John's East","St. John's-Est"," 23","Wabana",N,N,"",0,342,"Doyle","","Norman","Conservative","Conservateur",Y,Y,84
+10006,"St. John's East","St. John's-Est"," 23","Wabana",N,N,"",0,342,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 23","Wabana",N,N,"",0,342,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,7
+10006,"St. John's East","St. John's-Est"," 24","Wabana",N,N,"",0,368,"Antle","","Paul","Liberal","Libéral",N,N,51
+10006,"St. John's East","St. John's-Est"," 24","Wabana",N,N,"",0,368,"Doyle","","Norman","Conservative","Conservateur",Y,Y,101
+10006,"St. John's East","St. John's-Est"," 24","Wabana",N,N,"",0,368,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 24","Wabana",N,N,"",0,368,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,11
+10006,"St. John's East","St. John's-Est"," 25","Wabana",N,N,"",0,325,"Antle","","Paul","Liberal","Libéral",N,N,37
+10006,"St. John's East","St. John's-Est"," 25","Wabana",N,N,"",0,325,"Doyle","","Norman","Conservative","Conservateur",Y,Y,113
+10006,"St. John's East","St. John's-Est"," 25","Wabana",N,N,"",0,325,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 25","Wabana",N,N,"",0,325,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,10
+10006,"St. John's East","St. John's-Est"," 26","Wabana",N,N,"",0,317,"Antle","","Paul","Liberal","Libéral",N,N,38
+10006,"St. John's East","St. John's-Est"," 26","Wabana",N,N,"",0,317,"Doyle","","Norman","Conservative","Conservateur",Y,Y,88
+10006,"St. John's East","St. John's-Est"," 26","Wabana",N,N,"",0,317,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 26","Wabana",N,N,"",0,317,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,6
+10006,"St. John's East","St. John's-Est"," 27","Wabana",N,N,"",0,359,"Antle","","Paul","Liberal","Libéral",N,N,46
+10006,"St. John's East","St. John's-Est"," 27","Wabana",N,N,"",0,359,"Doyle","","Norman","Conservative","Conservateur",Y,Y,105
+10006,"St. John's East","St. John's-Est"," 27","Wabana",N,N,"",0,359,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 27","Wabana",N,N,"",0,359,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,10
+10006,"St. John's East","St. John's-Est"," 28","Freshwater",N,N,"",0,251,"Antle","","Paul","Liberal","Libéral",N,N,41
+10006,"St. John's East","St. John's-Est"," 28","Freshwater",N,N,"",0,251,"Doyle","","Norman","Conservative","Conservateur",Y,Y,77
+10006,"St. John's East","St. John's-Est"," 28","Freshwater",N,N,"",0,251,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 28","Freshwater",N,N,"",0,251,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,9
+10006,"St. John's East","St. John's-Est"," 29","Portugal Cove-St. Philips",N,N,"",0,399,"Antle","","Paul","Liberal","Libéral",N,N,85
+10006,"St. John's East","St. John's-Est"," 29","Portugal Cove-St. Philips",N,N,"",0,399,"Doyle","","Norman","Conservative","Conservateur",Y,Y,86
+10006,"St. John's East","St. John's-Est"," 29","Portugal Cove-St. Philips",N,N,"",0,399,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 29","Portugal Cove-St. Philips",N,N,"",0,399,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,59
+10006,"St. John's East","St. John's-Est"," 30","Portugal Cove-St. Philips",N,N,"",0,338,"Antle","","Paul","Liberal","Libéral",N,N,76
+10006,"St. John's East","St. John's-Est"," 30","Portugal Cove-St. Philips",N,N,"",0,338,"Doyle","","Norman","Conservative","Conservateur",Y,Y,62
+10006,"St. John's East","St. John's-Est"," 30","Portugal Cove-St. Philips",N,N,"",0,338,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 30","Portugal Cove-St. Philips",N,N,"",0,338,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 31","Portugal Cove-St. Philips",N,N,"",0,432,"Antle","","Paul","Liberal","Libéral",N,N,92
+10006,"St. John's East","St. John's-Est"," 31","Portugal Cove-St. Philips",N,N,"",0,432,"Doyle","","Norman","Conservative","Conservateur",Y,Y,119
+10006,"St. John's East","St. John's-Est"," 31","Portugal Cove-St. Philips",N,N,"",0,432,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 31","Portugal Cove-St. Philips",N,N,"",0,432,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,53
+10006,"St. John's East","St. John's-Est"," 32","Portugal Cove-St. Philips",N,N,"",0,347,"Antle","","Paul","Liberal","Libéral",N,N,69
+10006,"St. John's East","St. John's-Est"," 32","Portugal Cove-St. Philips",N,N,"",0,347,"Doyle","","Norman","Conservative","Conservateur",Y,Y,78
+10006,"St. John's East","St. John's-Est"," 32","Portugal Cove-St. Philips",N,N,"",0,347,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 32","Portugal Cove-St. Philips",N,N,"",0,347,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,41
+10006,"St. John's East","St. John's-Est"," 33","Portugal Cove-St. Philips",N,N,"",0,532,"Antle","","Paul","Liberal","Libéral",N,N,91
+10006,"St. John's East","St. John's-Est"," 33","Portugal Cove-St. Philips",N,N,"",0,532,"Doyle","","Norman","Conservative","Conservateur",Y,Y,145
+10006,"St. John's East","St. John's-Est"," 33","Portugal Cove-St. Philips",N,N,"",0,532,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 33","Portugal Cove-St. Philips",N,N,"",0,532,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,65
+10006,"St. John's East","St. John's-Est"," 34","Portugal Cove-St. Philips",N,N,"",0,458,"Antle","","Paul","Liberal","Libéral",N,N,87
+10006,"St. John's East","St. John's-Est"," 34","Portugal Cove-St. Philips",N,N,"",0,458,"Doyle","","Norman","Conservative","Conservateur",Y,Y,114
+10006,"St. John's East","St. John's-Est"," 34","Portugal Cove-St. Philips",N,N,"",0,458,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 34","Portugal Cove-St. Philips",N,N,"",0,458,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,45
+10006,"St. John's East","St. John's-Est"," 35","Portugal Cove-St. Philips",N,N,"",0,281,"Antle","","Paul","Liberal","Libéral",N,N,66
+10006,"St. John's East","St. John's-Est"," 35","Portugal Cove-St. Philips",N,N,"",0,281,"Doyle","","Norman","Conservative","Conservateur",Y,Y,77
+10006,"St. John's East","St. John's-Est"," 35","Portugal Cove-St. Philips",N,N,"",0,281,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 35","Portugal Cove-St. Philips",N,N,"",0,281,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,24
+10006,"St. John's East","St. John's-Est"," 36A","Portugal Cove-St. Philips",N,N,"",0,335,"Antle","","Paul","Liberal","Libéral",N,N,75
+10006,"St. John's East","St. John's-Est"," 36A","Portugal Cove-St. Philips",N,N,"",0,335,"Doyle","","Norman","Conservative","Conservateur",Y,Y,84
+10006,"St. John's East","St. John's-Est"," 36A","Portugal Cove-St. Philips",N,N,"",0,335,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 36A","Portugal Cove-St. Philips",N,N,"",0,335,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,49
+10006,"St. John's East","St. John's-Est"," 36B","Portugal Cove-St. Philips",N,N,"",0,328,"Antle","","Paul","Liberal","Libéral",N,N,83
+10006,"St. John's East","St. John's-Est"," 36B","Portugal Cove-St. Philips",N,N,"",0,328,"Doyle","","Norman","Conservative","Conservateur",Y,Y,82
+10006,"St. John's East","St. John's-Est"," 36B","Portugal Cove-St. Philips",N,N,"",0,328,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 36B","Portugal Cove-St. Philips",N,N,"",0,328,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,23
+10006,"St. John's East","St. John's-Est"," 37A","Portugal Cove-St. Philips",N,N,"",0,313,"Antle","","Paul","Liberal","Libéral",N,N,62
+10006,"St. John's East","St. John's-Est"," 37A","Portugal Cove-St. Philips",N,N,"",0,313,"Doyle","","Norman","Conservative","Conservateur",Y,Y,88
+10006,"St. John's East","St. John's-Est"," 37A","Portugal Cove-St. Philips",N,N,"",0,313,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 37A","Portugal Cove-St. Philips",N,N,"",0,313,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 37B","Portugal Cove-St. Philips",N,N,"",1,320,"Antle","","Paul","Liberal","Libéral",N,N,69
+10006,"St. John's East","St. John's-Est"," 37B","Portugal Cove-St. Philips",N,N,"",1,320,"Doyle","","Norman","Conservative","Conservateur",Y,Y,79
+10006,"St. John's East","St. John's-Est"," 37B","Portugal Cove-St. Philips",N,N,"",1,320,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 37B","Portugal Cove-St. Philips",N,N,"",1,320,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,35
+10006,"St. John's East","St. John's-Est"," 38A","Portugal Cove-St. Philips",N,N,"",1,444,"Antle","","Paul","Liberal","Libéral",N,N,74
+10006,"St. John's East","St. John's-Est"," 38A","Portugal Cove-St. Philips",N,N,"",1,444,"Doyle","","Norman","Conservative","Conservateur",Y,Y,136
+10006,"St. John's East","St. John's-Est"," 38A","Portugal Cove-St. Philips",N,N,"",1,444,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 38A","Portugal Cove-St. Philips",N,N,"",1,444,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,47
+10006,"St. John's East","St. John's-Est"," 38B","Portugal Cove-St. Philips",N,N,"",1,382,"Antle","","Paul","Liberal","Libéral",N,N,96
+10006,"St. John's East","St. John's-Est"," 38B","Portugal Cove-St. Philips",N,N,"",1,382,"Doyle","","Norman","Conservative","Conservateur",Y,Y,88
+10006,"St. John's East","St. John's-Est"," 38B","Portugal Cove-St. Philips",N,N,"",1,382,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 38B","Portugal Cove-St. Philips",N,N,"",1,382,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,33
+10006,"St. John's East","St. John's-Est"," 38C","Mobile poll/Bureau itinérant",N,N,"14B",0,21,"Antle","","Paul","Liberal","Libéral",N,N,0
+10006,"St. John's East","St. John's-Est"," 38C","Mobile poll/Bureau itinérant",N,N,"14B",0,21,"Doyle","","Norman","Conservative","Conservateur",Y,Y,0
+10006,"St. John's East","St. John's-Est"," 38C","Mobile poll/Bureau itinérant",N,N,"14B",0,21,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 38C","Mobile poll/Bureau itinérant",N,N,"14B",0,21,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,0
+10006,"St. John's East","St. John's-Est"," 39A","Paradise",N,N,"",0,306,"Antle","","Paul","Liberal","Libéral",N,N,29
+10006,"St. John's East","St. John's-Est"," 39A","Paradise",N,N,"",0,306,"Doyle","","Norman","Conservative","Conservateur",Y,Y,60
+10006,"St. John's East","St. John's-Est"," 39A","Paradise",N,N,"",0,306,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 39A","Paradise",N,N,"",0,306,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,34
+10006,"St. John's East","St. John's-Est"," 39B","Paradise",N,N,"",1,281,"Antle","","Paul","Liberal","Libéral",N,N,37
+10006,"St. John's East","St. John's-Est"," 39B","Paradise",N,N,"",1,281,"Doyle","","Norman","Conservative","Conservateur",Y,Y,66
+10006,"St. John's East","St. John's-Est"," 39B","Paradise",N,N,"",1,281,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 39B","Paradise",N,N,"",1,281,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,23
+10006,"St. John's East","St. John's-Est"," 40","Paradise",N,N,"",0,131,"Antle","","Paul","Liberal","Libéral",N,N,27
+10006,"St. John's East","St. John's-Est"," 40","Paradise",N,N,"",0,131,"Doyle","","Norman","Conservative","Conservateur",Y,Y,39
+10006,"St. John's East","St. John's-Est"," 40","Paradise",N,N,"",0,131,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 40","Paradise",N,N,"",0,131,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,11
+10006,"St. John's East","St. John's-Est"," 41A","Paradise",N,N,"",0,376,"Antle","","Paul","Liberal","Libéral",N,N,48
+10006,"St. John's East","St. John's-Est"," 41A","Paradise",N,N,"",0,376,"Doyle","","Norman","Conservative","Conservateur",Y,Y,90
+10006,"St. John's East","St. John's-Est"," 41A","Paradise",N,N,"",0,376,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,6
+10006,"St. John's East","St. John's-Est"," 41A","Paradise",N,N,"",0,376,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,27
+10006,"St. John's East","St. John's-Est"," 41B","Paradise",N,N,"",2,347,"Antle","","Paul","Liberal","Libéral",N,N,47
+10006,"St. John's East","St. John's-Est"," 41B","Paradise",N,N,"",2,347,"Doyle","","Norman","Conservative","Conservateur",Y,Y,84
+10006,"St. John's East","St. John's-Est"," 41B","Paradise",N,N,"",2,347,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 41B","Paradise",N,N,"",2,347,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,16
+10006,"St. John's East","St. John's-Est"," 42A","Paradise",N,N,"",0,352,"Antle","","Paul","Liberal","Libéral",N,N,69
+10006,"St. John's East","St. John's-Est"," 42A","Paradise",N,N,"",0,352,"Doyle","","Norman","Conservative","Conservateur",Y,Y,85
+10006,"St. John's East","St. John's-Est"," 42A","Paradise",N,N,"",0,352,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 42A","Paradise",N,N,"",0,352,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,37
+10006,"St. John's East","St. John's-Est"," 42B","Paradise",N,N,"",0,351,"Antle","","Paul","Liberal","Libéral",N,N,78
+10006,"St. John's East","St. John's-Est"," 42B","Paradise",N,N,"",0,351,"Doyle","","Norman","Conservative","Conservateur",Y,Y,104
+10006,"St. John's East","St. John's-Est"," 42B","Paradise",N,N,"",0,351,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 42B","Paradise",N,N,"",0,351,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 43A","Paradise",N,N,"",1,268,"Antle","","Paul","Liberal","Libéral",N,N,52
+10006,"St. John's East","St. John's-Est"," 43A","Paradise",N,N,"",1,268,"Doyle","","Norman","Conservative","Conservateur",Y,Y,52
+10006,"St. John's East","St. John's-Est"," 43A","Paradise",N,N,"",1,268,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 43A","Paradise",N,N,"",1,268,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,17
+10006,"St. John's East","St. John's-Est"," 43B","Paradise",N,N,"",0,261,"Antle","","Paul","Liberal","Libéral",N,N,38
+10006,"St. John's East","St. John's-Est"," 43B","Paradise",N,N,"",0,261,"Doyle","","Norman","Conservative","Conservateur",Y,Y,55
+10006,"St. John's East","St. John's-Est"," 43B","Paradise",N,N,"",0,261,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 43B","Paradise",N,N,"",0,261,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,20
+10006,"St. John's East","St. John's-Est"," 44A","Paradise",N,N,"",1,354,"Antle","","Paul","Liberal","Libéral",N,N,73
+10006,"St. John's East","St. John's-Est"," 44A","Paradise",N,N,"",1,354,"Doyle","","Norman","Conservative","Conservateur",Y,Y,88
+10006,"St. John's East","St. John's-Est"," 44A","Paradise",N,N,"",1,354,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 44A","Paradise",N,N,"",1,354,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 44B","Paradise",N,N,"",1,324,"Antle","","Paul","Liberal","Libéral",N,N,53
+10006,"St. John's East","St. John's-Est"," 44B","Paradise",N,N,"",1,324,"Doyle","","Norman","Conservative","Conservateur",Y,Y,88
+10006,"St. John's East","St. John's-Est"," 44B","Paradise",N,N,"",1,324,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 44B","Paradise",N,N,"",1,324,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,30
+10006,"St. John's East","St. John's-Est"," 45A","Paradise",N,N,"",0,509,"Antle","","Paul","Liberal","Libéral",N,N,90
+10006,"St. John's East","St. John's-Est"," 45A","Paradise",N,N,"",0,509,"Doyle","","Norman","Conservative","Conservateur",Y,Y,115
+10006,"St. John's East","St. John's-Est"," 45A","Paradise",N,N,"",0,509,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 45A","Paradise",N,N,"",0,509,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,53
+10006,"St. John's East","St. John's-Est"," 45B","Paradise",N,N,"",1,536,"Antle","","Paul","Liberal","Libéral",N,N,102
+10006,"St. John's East","St. John's-Est"," 45B","Paradise",N,N,"",1,536,"Doyle","","Norman","Conservative","Conservateur",Y,Y,123
+10006,"St. John's East","St. John's-Est"," 45B","Paradise",N,N,"",1,536,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 45B","Paradise",N,N,"",1,536,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,50
+10006,"St. John's East","St. John's-Est"," 46A","Paradise",N,N,"",0,348,"Antle","","Paul","Liberal","Libéral",N,N,64
+10006,"St. John's East","St. John's-Est"," 46A","Paradise",N,N,"",0,348,"Doyle","","Norman","Conservative","Conservateur",Y,Y,83
+10006,"St. John's East","St. John's-Est"," 46A","Paradise",N,N,"",0,348,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 46A","Paradise",N,N,"",0,348,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 46B","Paradise",N,N,"",0,366,"Antle","","Paul","Liberal","Libéral",N,N,71
+10006,"St. John's East","St. John's-Est"," 46B","Paradise",N,N,"",0,366,"Doyle","","Norman","Conservative","Conservateur",Y,Y,93
+10006,"St. John's East","St. John's-Est"," 46B","Paradise",N,N,"",0,366,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 46B","Paradise",N,N,"",0,366,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 47","Paradise",N,N,"",0,420,"Antle","","Paul","Liberal","Libéral",N,N,91
+10006,"St. John's East","St. John's-Est"," 47","Paradise",N,N,"",0,420,"Doyle","","Norman","Conservative","Conservateur",Y,Y,92
+10006,"St. John's East","St. John's-Est"," 47","Paradise",N,N,"",0,420,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 47","Paradise",N,N,"",0,420,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,38
+10006,"St. John's East","St. John's-Est"," 48","Paradise",N,N,"",0,509,"Antle","","Paul","Liberal","Libéral",N,N,69
+10006,"St. John's East","St. John's-Est"," 48","Paradise",N,N,"",0,509,"Doyle","","Norman","Conservative","Conservateur",Y,Y,104
+10006,"St. John's East","St. John's-Est"," 48","Paradise",N,N,"",0,509,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 48","Paradise",N,N,"",0,509,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,35
+10006,"St. John's East","St. John's-Est"," 49A","Paradise",N,N,"",0,406,"Antle","","Paul","Liberal","Libéral",N,N,64
+10006,"St. John's East","St. John's-Est"," 49A","Paradise",N,N,"",0,406,"Doyle","","Norman","Conservative","Conservateur",Y,Y,118
+10006,"St. John's East","St. John's-Est"," 49A","Paradise",N,N,"",0,406,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 49A","Paradise",N,N,"",0,406,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,26
+10006,"St. John's East","St. John's-Est"," 49B","Paradise",N,N,"",0,431,"Antle","","Paul","Liberal","Libéral",N,N,68
+10006,"St. John's East","St. John's-Est"," 49B","Paradise",N,N,"",0,431,"Doyle","","Norman","Conservative","Conservateur",Y,Y,96
+10006,"St. John's East","St. John's-Est"," 49B","Paradise",N,N,"",0,431,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 49B","Paradise",N,N,"",0,431,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,41
+10006,"St. John's East","St. John's-Est"," 49C","Paradise",N,N,"",0,439,"Antle","","Paul","Liberal","Libéral",N,N,91
+10006,"St. John's East","St. John's-Est"," 49C","Paradise",N,N,"",0,439,"Doyle","","Norman","Conservative","Conservateur",Y,Y,111
+10006,"St. John's East","St. John's-Est"," 49C","Paradise",N,N,"",0,439,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 49C","Paradise",N,N,"",0,439,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,32
+10006,"St. John's East","St. John's-Est"," 50A","Paradise",N,N,"",0,482,"Antle","","Paul","Liberal","Libéral",N,N,98
+10006,"St. John's East","St. John's-Est"," 50A","Paradise",N,N,"",0,482,"Doyle","","Norman","Conservative","Conservateur",Y,Y,137
+10006,"St. John's East","St. John's-Est"," 50A","Paradise",N,N,"",0,482,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 50A","Paradise",N,N,"",0,482,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,65
+10006,"St. John's East","St. John's-Est"," 50B","Paradise",N,N,"",0,548,"Antle","","Paul","Liberal","Libéral",N,N,76
+10006,"St. John's East","St. John's-Est"," 50B","Paradise",N,N,"",0,548,"Doyle","","Norman","Conservative","Conservateur",Y,Y,137
+10006,"St. John's East","St. John's-Est"," 50B","Paradise",N,N,"",0,548,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 50B","Paradise",N,N,"",0,548,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,57
+10006,"St. John's East","St. John's-Est"," 50C","Mobile poll/Bureau itinérant",N,N,"155B",0,30,"Antle","","Paul","Liberal","Libéral",N,N,0
+10006,"St. John's East","St. John's-Est"," 50C","Mobile poll/Bureau itinérant",N,N,"155B",0,30,"Doyle","","Norman","Conservative","Conservateur",Y,Y,0
+10006,"St. John's East","St. John's-Est"," 50C","Mobile poll/Bureau itinérant",N,N,"155B",0,30,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 50C","Mobile poll/Bureau itinérant",N,N,"155B",0,30,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,0
+10006,"St. John's East","St. John's-Est"," 51A","Paradise",N,N,"",1,386,"Antle","","Paul","Liberal","Libéral",N,N,80
+10006,"St. John's East","St. John's-Est"," 51A","Paradise",N,N,"",1,386,"Doyle","","Norman","Conservative","Conservateur",Y,Y,114
+10006,"St. John's East","St. John's-Est"," 51A","Paradise",N,N,"",1,386,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 51A","Paradise",N,N,"",1,386,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 51B","Paradise",N,N,"",1,305,"Antle","","Paul","Liberal","Libéral",N,N,64
+10006,"St. John's East","St. John's-Est"," 51B","Paradise",N,N,"",1,305,"Doyle","","Norman","Conservative","Conservateur",Y,Y,101
+10006,"St. John's East","St. John's-Est"," 51B","Paradise",N,N,"",1,305,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 51B","Paradise",N,N,"",1,305,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,33
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",0,268,"Antle","","Paul","Liberal","Libéral",N,N,42
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",0,268,"Doyle","","Norman","Conservative","Conservateur",Y,Y,67
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",0,268,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",0,268,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,22
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",0,443,"Antle","","Paul","Liberal","Libéral",N,N,69
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",0,443,"Doyle","","Norman","Conservative","Conservateur",Y,Y,57
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",0,443,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",0,443,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,44
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Antle","","Paul","Liberal","Libéral",N,N,39
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Doyle","","Norman","Conservative","Conservateur",Y,Y,50
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,18
+10006,"St. John's East","St. John's-Est"," 55A","St. John's",N,N,"",1,286,"Antle","","Paul","Liberal","Libéral",N,N,71
+10006,"St. John's East","St. John's-Est"," 55A","St. John's",N,N,"",1,286,"Doyle","","Norman","Conservative","Conservateur",Y,Y,64
+10006,"St. John's East","St. John's-Est"," 55A","St. John's",N,N,"",1,286,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 55A","St. John's",N,N,"",1,286,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,34
+10006,"St. John's East","St. John's-Est"," 55B","St. John's",N,N,"",0,273,"Antle","","Paul","Liberal","Libéral",N,N,53
+10006,"St. John's East","St. John's-Est"," 55B","St. John's",N,N,"",0,273,"Doyle","","Norman","Conservative","Conservateur",Y,Y,60
+10006,"St. John's East","St. John's-Est"," 55B","St. John's",N,N,"",0,273,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 55B","St. John's",N,N,"",0,273,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,22
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,427,"Antle","","Paul","Liberal","Libéral",N,N,92
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,427,"Doyle","","Norman","Conservative","Conservateur",Y,Y,106
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,427,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,427,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,55
+10006,"St. John's East","St. John's-Est"," 57A","St. John's",N,N,"",0,351,"Antle","","Paul","Liberal","Libéral",N,N,101
+10006,"St. John's East","St. John's-Est"," 57A","St. John's",N,N,"",0,351,"Doyle","","Norman","Conservative","Conservateur",Y,Y,85
+10006,"St. John's East","St. John's-Est"," 57A","St. John's",N,N,"",0,351,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 57A","St. John's",N,N,"",0,351,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,26
+10006,"St. John's East","St. John's-Est"," 57B","St. John's",N,N,"",1,337,"Antle","","Paul","Liberal","Libéral",N,N,77
+10006,"St. John's East","St. John's-Est"," 57B","St. John's",N,N,"",1,337,"Doyle","","Norman","Conservative","Conservateur",Y,Y,87
+10006,"St. John's East","St. John's-Est"," 57B","St. John's",N,N,"",1,337,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 57B","St. John's",N,N,"",1,337,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,21
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,361,"Antle","","Paul","Liberal","Libéral",N,N,74
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,361,"Doyle","","Norman","Conservative","Conservateur",Y,Y,114
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,361,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,361,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,37
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,346,"Antle","","Paul","Liberal","Libéral",N,N,76
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,346,"Doyle","","Norman","Conservative","Conservateur",Y,Y,112
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,346,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,346,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,454,"Antle","","Paul","Liberal","Libéral",N,N,92
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,454,"Doyle","","Norman","Conservative","Conservateur",Y,Y,99
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,454,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,454,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,60
+10006,"St. John's East","St. John's-Est"," 61A","St. John's",N,N,"",0,379,"Antle","","Paul","Liberal","Libéral",N,N,32
+10006,"St. John's East","St. John's-Est"," 61A","St. John's",N,N,"",0,379,"Doyle","","Norman","Conservative","Conservateur",Y,Y,52
+10006,"St. John's East","St. John's-Est"," 61A","St. John's",N,N,"",0,379,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 61A","St. John's",N,N,"",0,379,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,14
+10006,"St. John's East","St. John's-Est"," 61B","St. John's",N,N,"",0,282,"Antle","","Paul","Liberal","Libéral",N,N,63
+10006,"St. John's East","St. John's-Est"," 61B","St. John's",N,N,"",0,282,"Doyle","","Norman","Conservative","Conservateur",Y,Y,64
+10006,"St. John's East","St. John's-Est"," 61B","St. John's",N,N,"",0,282,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 61B","St. John's",N,N,"",0,282,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,19
+10006,"St. John's East","St. John's-Est"," 61C","Mobile poll/Bureau itinérant",N,N,"",0,110,"Antle","","Paul","Liberal","Libéral",N,N,18
+10006,"St. John's East","St. John's-Est"," 61C","Mobile poll/Bureau itinérant",N,N,"",0,110,"Doyle","","Norman","Conservative","Conservateur",Y,Y,32
+10006,"St. John's East","St. John's-Est"," 61C","Mobile poll/Bureau itinérant",N,N,"",0,110,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 61C","Mobile poll/Bureau itinérant",N,N,"",0,110,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,3
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",7,291,"Antle","","Paul","Liberal","Libéral",N,N,67
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",7,291,"Doyle","","Norman","Conservative","Conservateur",Y,Y,90
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",7,291,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",7,291,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,11
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,394,"Antle","","Paul","Liberal","Libéral",N,N,85
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,394,"Doyle","","Norman","Conservative","Conservateur",Y,Y,136
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,394,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,394,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,48
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",1,591,"Antle","","Paul","Liberal","Libéral",N,N,120
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",1,591,"Doyle","","Norman","Conservative","Conservateur",Y,Y,137
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",1,591,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",1,591,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,52
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,399,"Antle","","Paul","Liberal","Libéral",N,N,72
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,399,"Doyle","","Norman","Conservative","Conservateur",Y,Y,132
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,399,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,399,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",2,392,"Antle","","Paul","Liberal","Libéral",N,N,61
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",2,392,"Doyle","","Norman","Conservative","Conservateur",Y,Y,153
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",2,392,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",2,392,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,28
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",0,253,"Antle","","Paul","Liberal","Libéral",N,N,78
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",0,253,"Doyle","","Norman","Conservative","Conservateur",Y,Y,51
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",0,253,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",0,253,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 68A","St. John's",N,N,"",0,368,"Antle","","Paul","Liberal","Libéral",N,N,65
+10006,"St. John's East","St. John's-Est"," 68A","St. John's",N,N,"",0,368,"Doyle","","Norman","Conservative","Conservateur",Y,Y,117
+10006,"St. John's East","St. John's-Est"," 68A","St. John's",N,N,"",0,368,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 68A","St. John's",N,N,"",0,368,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,41
+10006,"St. John's East","St. John's-Est"," 68B","St. John's",N,N,"",0,347,"Antle","","Paul","Liberal","Libéral",N,N,67
+10006,"St. John's East","St. John's-Est"," 68B","St. John's",N,N,"",0,347,"Doyle","","Norman","Conservative","Conservateur",Y,Y,96
+10006,"St. John's East","St. John's-Est"," 68B","St. John's",N,N,"",0,347,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 68B","St. John's",N,N,"",0,347,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,43
+10006,"St. John's East","St. John's-Est"," 69A","St. John's",N,N,"",1,479,"Antle","","Paul","Liberal","Libéral",N,N,95
+10006,"St. John's East","St. John's-Est"," 69A","St. John's",N,N,"",1,479,"Doyle","","Norman","Conservative","Conservateur",Y,Y,126
+10006,"St. John's East","St. John's-Est"," 69A","St. John's",N,N,"",1,479,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 69A","St. John's",N,N,"",1,479,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,52
+10006,"St. John's East","St. John's-Est"," 69B","St. John's",N,N,"",1,512,"Antle","","Paul","Liberal","Libéral",N,N,102
+10006,"St. John's East","St. John's-Est"," 69B","St. John's",N,N,"",1,512,"Doyle","","Norman","Conservative","Conservateur",Y,Y,129
+10006,"St. John's East","St. John's-Est"," 69B","St. John's",N,N,"",1,512,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 69B","St. John's",N,N,"",1,512,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,72
+10006,"St. John's East","St. John's-Est"," 70","St. John's",N,N,"",0,315,"Antle","","Paul","Liberal","Libéral",N,N,72
+10006,"St. John's East","St. John's-Est"," 70","St. John's",N,N,"",0,315,"Doyle","","Norman","Conservative","Conservateur",Y,Y,84
+10006,"St. John's East","St. John's-Est"," 70","St. John's",N,N,"",0,315,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 70","St. John's",N,N,"",0,315,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,21
+10006,"St. John's East","St. John's-Est"," 71A","St. John's",N,N,"",0,336,"Antle","","Paul","Liberal","Libéral",N,N,49
+10006,"St. John's East","St. John's-Est"," 71A","St. John's",N,N,"",0,336,"Doyle","","Norman","Conservative","Conservateur",Y,Y,66
+10006,"St. John's East","St. John's-Est"," 71A","St. John's",N,N,"",0,336,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 71A","St. John's",N,N,"",0,336,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,19
+10006,"St. John's East","St. John's-Est"," 71B","St. John's",N,N,"",0,320,"Antle","","Paul","Liberal","Libéral",N,N,46
+10006,"St. John's East","St. John's-Est"," 71B","St. John's",N,N,"",0,320,"Doyle","","Norman","Conservative","Conservateur",Y,Y,48
+10006,"St. John's East","St. John's-Est"," 71B","St. John's",N,N,"",0,320,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 71B","St. John's",N,N,"",0,320,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,27
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",1,242,"Antle","","Paul","Liberal","Libéral",N,N,54
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",1,242,"Doyle","","Norman","Conservative","Conservateur",Y,Y,52
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",1,242,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",1,242,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,25
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",2,251,"Antle","","Paul","Liberal","Libéral",N,N,75
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",2,251,"Doyle","","Norman","Conservative","Conservateur",Y,Y,70
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",2,251,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",2,251,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,31
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,511,"Antle","","Paul","Liberal","Libéral",N,N,65
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,511,"Doyle","","Norman","Conservative","Conservateur",Y,Y,89
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,511,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,511,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,60
+10006,"St. John's East","St. John's-Est"," 75A","St. John's",N,N,"",0,338,"Antle","","Paul","Liberal","Libéral",N,N,74
+10006,"St. John's East","St. John's-Est"," 75A","St. John's",N,N,"",0,338,"Doyle","","Norman","Conservative","Conservateur",Y,Y,81
+10006,"St. John's East","St. John's-Est"," 75A","St. John's",N,N,"",0,338,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 75A","St. John's",N,N,"",0,338,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,30
+10006,"St. John's East","St. John's-Est"," 75B","St. John's",N,N,"",0,364,"Antle","","Paul","Liberal","Libéral",N,N,65
+10006,"St. John's East","St. John's-Est"," 75B","St. John's",N,N,"",0,364,"Doyle","","Norman","Conservative","Conservateur",Y,Y,78
+10006,"St. John's East","St. John's-Est"," 75B","St. John's",N,N,"",0,364,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 75B","St. John's",N,N,"",0,364,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,32
+10006,"St. John's East","St. John's-Est"," 76A","St. John's",N,N,"",1,422,"Antle","","Paul","Liberal","Libéral",N,N,80
+10006,"St. John's East","St. John's-Est"," 76A","St. John's",N,N,"",1,422,"Doyle","","Norman","Conservative","Conservateur",Y,Y,128
+10006,"St. John's East","St. John's-Est"," 76A","St. John's",N,N,"",1,422,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 76A","St. John's",N,N,"",1,422,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,43
+10006,"St. John's East","St. John's-Est"," 76B","St. John's",N,N,"",2,449,"Antle","","Paul","Liberal","Libéral",N,N,99
+10006,"St. John's East","St. John's-Est"," 76B","St. John's",N,N,"",2,449,"Doyle","","Norman","Conservative","Conservateur",Y,Y,111
+10006,"St. John's East","St. John's-Est"," 76B","St. John's",N,N,"",2,449,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 76B","St. John's",N,N,"",2,449,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,47
+10006,"St. John's East","St. John's-Est"," 77A","St. John's",N,N,"",0,294,"Antle","","Paul","Liberal","Libéral",N,N,74
+10006,"St. John's East","St. John's-Est"," 77A","St. John's",N,N,"",0,294,"Doyle","","Norman","Conservative","Conservateur",Y,Y,99
+10006,"St. John's East","St. John's-Est"," 77A","St. John's",N,N,"",0,294,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 77A","St. John's",N,N,"",0,294,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,20
+10006,"St. John's East","St. John's-Est"," 77B","St. John's",N,N,"",0,311,"Antle","","Paul","Liberal","Libéral",N,N,92
+10006,"St. John's East","St. John's-Est"," 77B","St. John's",N,N,"",0,311,"Doyle","","Norman","Conservative","Conservateur",Y,Y,107
+10006,"St. John's East","St. John's-Est"," 77B","St. John's",N,N,"",0,311,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 77B","St. John's",N,N,"",0,311,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,26
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",1,477,"Antle","","Paul","Liberal","Libéral",N,N,140
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",1,477,"Doyle","","Norman","Conservative","Conservateur",Y,Y,165
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",1,477,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",1,477,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,25
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,470,"Antle","","Paul","Liberal","Libéral",N,N,130
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,470,"Doyle","","Norman","Conservative","Conservateur",Y,Y,140
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,470,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,470,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,46
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,328,"Antle","","Paul","Liberal","Libéral",N,N,82
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,328,"Doyle","","Norman","Conservative","Conservateur",Y,Y,78
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,328,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,328,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,35
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,392,"Antle","","Paul","Liberal","Libéral",N,N,61
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,392,"Doyle","","Norman","Conservative","Conservateur",Y,Y,77
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,392,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,392,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,40
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",3,378,"Antle","","Paul","Liberal","Libéral",N,N,98
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",3,378,"Doyle","","Norman","Conservative","Conservateur",Y,Y,95
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",3,378,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",3,378,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,34
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",0,390,"Antle","","Paul","Liberal","Libéral",N,N,114
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",0,390,"Doyle","","Norman","Conservative","Conservateur",Y,Y,138
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",0,390,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",0,390,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,66
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",0,388,"Antle","","Paul","Liberal","Libéral",N,N,97
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",0,388,"Doyle","","Norman","Conservative","Conservateur",Y,Y,133
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",0,388,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",0,388,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",0,442,"Antle","","Paul","Liberal","Libéral",N,N,61
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",0,442,"Doyle","","Norman","Conservative","Conservateur",Y,Y,77
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",0,442,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",0,442,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,18
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",2,377,"Antle","","Paul","Liberal","Libéral",N,N,111
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",2,377,"Doyle","","Norman","Conservative","Conservateur",Y,Y,149
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",2,377,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,6
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",2,377,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,58
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,179,"Antle","","Paul","Liberal","Libéral",N,N,35
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,179,"Doyle","","Norman","Conservative","Conservateur",Y,Y,50
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,179,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,179,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,24
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",0,423,"Antle","","Paul","Liberal","Libéral",N,N,100
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",0,423,"Doyle","","Norman","Conservative","Conservateur",Y,Y,84
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",0,423,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",0,423,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,51
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",0,373,"Antle","","Paul","Liberal","Libéral",N,N,56
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",0,373,"Doyle","","Norman","Conservative","Conservateur",Y,Y,65
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",0,373,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",0,373,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,38
+10006,"St. John's East","St. John's-Est"," 90","St. John's",N,N,"",0,372,"Antle","","Paul","Liberal","Libéral",N,N,46
+10006,"St. John's East","St. John's-Est"," 90","St. John's",N,N,"",0,372,"Doyle","","Norman","Conservative","Conservateur",Y,Y,58
+10006,"St. John's East","St. John's-Est"," 90","St. John's",N,N,"",0,372,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 90","St. John's",N,N,"",0,372,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,44
+10006,"St. John's East","St. John's-Est"," 91","St. John's",N,N,"",1,506,"Antle","","Paul","Liberal","Libéral",N,N,110
+10006,"St. John's East","St. John's-Est"," 91","St. John's",N,N,"",1,506,"Doyle","","Norman","Conservative","Conservateur",Y,Y,116
+10006,"St. John's East","St. John's-Est"," 91","St. John's",N,N,"",1,506,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 91","St. John's",N,N,"",1,506,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,56
+10006,"St. John's East","St. John's-Est"," 92","St. John's",N,N,"",1,429,"Antle","","Paul","Liberal","Libéral",N,N,100
+10006,"St. John's East","St. John's-Est"," 92","St. John's",N,N,"",1,429,"Doyle","","Norman","Conservative","Conservateur",Y,Y,128
+10006,"St. John's East","St. John's-Est"," 92","St. John's",N,N,"",1,429,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 92","St. John's",N,N,"",1,429,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,49
+10006,"St. John's East","St. John's-Est"," 93","St. John's",N,N,"",1,284,"Antle","","Paul","Liberal","Libéral",N,N,76
+10006,"St. John's East","St. John's-Est"," 93","St. John's",N,N,"",1,284,"Doyle","","Norman","Conservative","Conservateur",Y,Y,80
+10006,"St. John's East","St. John's-Est"," 93","St. John's",N,N,"",1,284,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 93","St. John's",N,N,"",1,284,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,49
+10006,"St. John's East","St. John's-Est"," 94","St. John's",N,N,"",0,320,"Antle","","Paul","Liberal","Libéral",N,N,75
+10006,"St. John's East","St. John's-Est"," 94","St. John's",N,N,"",0,320,"Doyle","","Norman","Conservative","Conservateur",Y,Y,54
+10006,"St. John's East","St. John's-Est"," 94","St. John's",N,N,"",0,320,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 94","St. John's",N,N,"",0,320,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,50
+10006,"St. John's East","St. John's-Est"," 95","St. John's",N,N,"",3,460,"Antle","","Paul","Liberal","Libéral",N,N,119
+10006,"St. John's East","St. John's-Est"," 95","St. John's",N,N,"",3,460,"Doyle","","Norman","Conservative","Conservateur",Y,Y,133
+10006,"St. John's East","St. John's-Est"," 95","St. John's",N,N,"",3,460,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 95","St. John's",N,N,"",3,460,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,258,"Antle","","Paul","Liberal","Libéral",N,N,47
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,258,"Doyle","","Norman","Conservative","Conservateur",Y,Y,59
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,258,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,258,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,32
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,307,"Antle","","Paul","Liberal","Libéral",N,N,59
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,307,"Doyle","","Norman","Conservative","Conservateur",Y,Y,92
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,307,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,307,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,306,"Antle","","Paul","Liberal","Libéral",N,N,91
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,306,"Doyle","","Norman","Conservative","Conservateur",Y,Y,80
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,306,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,306,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,391,"Antle","","Paul","Liberal","Libéral",N,N,85
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,391,"Doyle","","Norman","Conservative","Conservateur",Y,Y,95
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,391,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,391,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,33
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,356,"Antle","","Paul","Liberal","Libéral",N,N,67
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,356,"Doyle","","Norman","Conservative","Conservateur",Y,Y,67
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,356,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,356,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,39
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,332,"Antle","","Paul","Liberal","Libéral",N,N,73
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,332,"Doyle","","Norman","Conservative","Conservateur",Y,Y,93
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,332,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,332,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",2,470,"Antle","","Paul","Liberal","Libéral",N,N,90
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",2,470,"Doyle","","Norman","Conservative","Conservateur",Y,Y,125
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",2,470,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",2,470,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,44
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,313,"Antle","","Paul","Liberal","Libéral",N,N,55
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,313,"Doyle","","Norman","Conservative","Conservateur",Y,Y,51
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,313,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,313,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,21
+10006,"St. John's East","St. John's-Est"," 104A","St. John's",N,N,"",0,510,"Antle","","Paul","Liberal","Libéral",N,N,126
+10006,"St. John's East","St. John's-Est"," 104A","St. John's",N,N,"",0,510,"Doyle","","Norman","Conservative","Conservateur",Y,Y,135
+10006,"St. John's East","St. John's-Est"," 104A","St. John's",N,N,"",0,510,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 104A","St. John's",N,N,"",0,510,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,49
+10006,"St. John's East","St. John's-Est"," 104B","Mobile poll/Bureau itinérant",N,N,"61C",0,45,"Antle","","Paul","Liberal","Libéral",N,N,0
+10006,"St. John's East","St. John's-Est"," 104B","Mobile poll/Bureau itinérant",N,N,"61C",0,45,"Doyle","","Norman","Conservative","Conservateur",Y,Y,0
+10006,"St. John's East","St. John's-Est"," 104B","Mobile poll/Bureau itinérant",N,N,"61C",0,45,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 104B","Mobile poll/Bureau itinérant",N,N,"61C",0,45,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,0
+10006,"St. John's East","St. John's-Est"," 105A","St. John's",N,N,"",2,283,"Antle","","Paul","Liberal","Libéral",N,N,73
+10006,"St. John's East","St. John's-Est"," 105A","St. John's",N,N,"",2,283,"Doyle","","Norman","Conservative","Conservateur",Y,Y,74
+10006,"St. John's East","St. John's-Est"," 105A","St. John's",N,N,"",2,283,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 105A","St. John's",N,N,"",2,283,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,43
+10006,"St. John's East","St. John's-Est"," 105B","Mobile poll/Bureau itinérant",N,N,"",3,231,"Antle","","Paul","Liberal","Libéral",N,N,28
+10006,"St. John's East","St. John's-Est"," 105B","Mobile poll/Bureau itinérant",N,N,"",3,231,"Doyle","","Norman","Conservative","Conservateur",Y,Y,42
+10006,"St. John's East","St. John's-Est"," 105B","Mobile poll/Bureau itinérant",N,N,"",3,231,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 105B","Mobile poll/Bureau itinérant",N,N,"",3,231,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,6
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,451,"Antle","","Paul","Liberal","Libéral",N,N,125
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,451,"Doyle","","Norman","Conservative","Conservateur",Y,Y,122
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,451,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,7
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,451,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,60
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",1,277,"Antle","","Paul","Liberal","Libéral",N,N,75
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",1,277,"Doyle","","Norman","Conservative","Conservateur",Y,Y,96
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",1,277,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",1,277,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",0,423,"Antle","","Paul","Liberal","Libéral",N,N,129
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",0,423,"Doyle","","Norman","Conservative","Conservateur",Y,Y,113
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",0,423,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",0,423,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,38
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,232,"Antle","","Paul","Liberal","Libéral",N,N,43
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,232,"Doyle","","Norman","Conservative","Conservateur",Y,Y,68
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,232,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,6
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,232,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,34
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",2,382,"Antle","","Paul","Liberal","Libéral",N,N,98
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",2,382,"Doyle","","Norman","Conservative","Conservateur",Y,Y,119
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",2,382,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",2,382,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",2,285,"Antle","","Paul","Liberal","Libéral",N,N,72
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",2,285,"Doyle","","Norman","Conservative","Conservateur",Y,Y,73
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",2,285,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,6
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",2,285,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,35
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,239,"Antle","","Paul","Liberal","Libéral",N,N,44
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,239,"Doyle","","Norman","Conservative","Conservateur",Y,Y,60
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,239,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,239,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,21
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,577,"Antle","","Paul","Liberal","Libéral",N,N,152
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,577,"Doyle","","Norman","Conservative","Conservateur",Y,Y,95
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,577,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,577,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,88
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,357,"Antle","","Paul","Liberal","Libéral",N,N,65
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,357,"Doyle","","Norman","Conservative","Conservateur",Y,Y,63
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,357,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,357,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,41
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,257,"Antle","","Paul","Liberal","Libéral",N,N,83
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,257,"Doyle","","Norman","Conservative","Conservateur",Y,Y,67
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,257,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,257,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,58
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,360,"Antle","","Paul","Liberal","Libéral",N,N,56
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,360,"Doyle","","Norman","Conservative","Conservateur",Y,Y,68
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,360,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,360,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,269,"Antle","","Paul","Liberal","Libéral",N,N,28
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,269,"Doyle","","Norman","Conservative","Conservateur",Y,Y,42
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,269,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,269,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,15
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",1,229,"Antle","","Paul","Liberal","Libéral",N,N,55
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",1,229,"Doyle","","Norman","Conservative","Conservateur",Y,Y,60
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",1,229,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",1,229,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",0,261,"Antle","","Paul","Liberal","Libéral",N,N,68
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",0,261,"Doyle","","Norman","Conservative","Conservateur",Y,Y,70
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",0,261,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",0,261,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,23
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,232,"Antle","","Paul","Liberal","Libéral",N,N,52
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,232,"Doyle","","Norman","Conservative","Conservateur",Y,Y,52
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,232,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,232,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,27
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,246,"Antle","","Paul","Liberal","Libéral",N,N,51
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,246,"Doyle","","Norman","Conservative","Conservateur",Y,Y,79
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,246,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,246,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,26
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",0,256,"Antle","","Paul","Liberal","Libéral",N,N,54
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",0,256,"Doyle","","Norman","Conservative","Conservateur",Y,Y,84
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",0,256,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",0,256,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,25
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",0,332,"Antle","","Paul","Liberal","Libéral",N,N,61
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",0,332,"Doyle","","Norman","Conservative","Conservateur",Y,Y,66
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",0,332,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",0,332,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,39
+10006,"St. John's East","St. John's-Est"," 124A","St. John's",N,N,"",0,412,"Antle","","Paul","Liberal","Libéral",N,N,80
+10006,"St. John's East","St. John's-Est"," 124A","St. John's",N,N,"",0,412,"Doyle","","Norman","Conservative","Conservateur",Y,Y,73
+10006,"St. John's East","St. John's-Est"," 124A","St. John's",N,N,"",0,412,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 124A","St. John's",N,N,"",0,412,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,46
+10006,"St. John's East","St. John's-Est"," 124B","St. John's",N,N,"",0,425,"Antle","","Paul","Liberal","Libéral",N,N,74
+10006,"St. John's East","St. John's-Est"," 124B","St. John's",N,N,"",0,425,"Doyle","","Norman","Conservative","Conservateur",Y,Y,74
+10006,"St. John's East","St. John's-Est"," 124B","St. John's",N,N,"",0,425,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 124B","St. John's",N,N,"",0,425,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,34
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",0,287,"Antle","","Paul","Liberal","Libéral",N,N,73
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",0,287,"Doyle","","Norman","Conservative","Conservateur",Y,Y,58
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",0,287,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",0,287,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 126A","St. John's",N,N,"",0,291,"Antle","","Paul","Liberal","Libéral",N,N,43
+10006,"St. John's East","St. John's-Est"," 126A","St. John's",N,N,"",0,291,"Doyle","","Norman","Conservative","Conservateur",Y,Y,38
+10006,"St. John's East","St. John's-Est"," 126A","St. John's",N,N,"",0,291,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 126A","St. John's",N,N,"",0,291,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,59
+10006,"St. John's East","St. John's-Est"," 126B","St. John's",N,N,"",0,301,"Antle","","Paul","Liberal","Libéral",N,N,46
+10006,"St. John's East","St. John's-Est"," 126B","St. John's",N,N,"",0,301,"Doyle","","Norman","Conservative","Conservateur",Y,Y,40
+10006,"St. John's East","St. John's-Est"," 126B","St. John's",N,N,"",0,301,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 126B","St. John's",N,N,"",0,301,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,62
+10006,"St. John's East","St. John's-Est"," 127","St. John's",N,N,"",0,309,"Antle","","Paul","Liberal","Libéral",N,N,31
+10006,"St. John's East","St. John's-Est"," 127","St. John's",N,N,"",0,309,"Doyle","","Norman","Conservative","Conservateur",Y,Y,47
+10006,"St. John's East","St. John's-Est"," 127","St. John's",N,N,"",0,309,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 127","St. John's",N,N,"",0,309,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,70
+10006,"St. John's East","St. John's-Est"," 128","St. John's",N,N,"",0,337,"Antle","","Paul","Liberal","Libéral",N,N,76
+10006,"St. John's East","St. John's-Est"," 128","St. John's",N,N,"",0,337,"Doyle","","Norman","Conservative","Conservateur",Y,Y,56
+10006,"St. John's East","St. John's-Est"," 128","St. John's",N,N,"",0,337,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 128","St. John's",N,N,"",0,337,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,79
+10006,"St. John's East","St. John's-Est"," 129","St. John's",N,N,"",1,284,"Antle","","Paul","Liberal","Libéral",N,N,38
+10006,"St. John's East","St. John's-Est"," 129","St. John's",N,N,"",1,284,"Doyle","","Norman","Conservative","Conservateur",Y,Y,49
+10006,"St. John's East","St. John's-Est"," 129","St. John's",N,N,"",1,284,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 129","St. John's",N,N,"",1,284,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,54
+10006,"St. John's East","St. John's-Est"," 130","St. John's",N,N,"",0,346,"Antle","","Paul","Liberal","Libéral",N,N,50
+10006,"St. John's East","St. John's-Est"," 130","St. John's",N,N,"",0,346,"Doyle","","Norman","Conservative","Conservateur",Y,Y,47
+10006,"St. John's East","St. John's-Est"," 130","St. John's",N,N,"",0,346,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,5
+10006,"St. John's East","St. John's-Est"," 130","St. John's",N,N,"",0,346,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,85
+10006,"St. John's East","St. John's-Est"," 131A","St. John's",N,N,"",1,273,"Antle","","Paul","Liberal","Libéral",N,N,61
+10006,"St. John's East","St. John's-Est"," 131A","St. John's",N,N,"",1,273,"Doyle","","Norman","Conservative","Conservateur",Y,Y,52
+10006,"St. John's East","St. John's-Est"," 131A","St. John's",N,N,"",1,273,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 131A","St. John's",N,N,"",1,273,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 131B","Mobile poll/Bureau itinérant",N,N,"105B",0,18,"Antle","","Paul","Liberal","Libéral",N,N,0
+10006,"St. John's East","St. John's-Est"," 131B","Mobile poll/Bureau itinérant",N,N,"105B",0,18,"Doyle","","Norman","Conservative","Conservateur",Y,Y,0
+10006,"St. John's East","St. John's-Est"," 131B","Mobile poll/Bureau itinérant",N,N,"105B",0,18,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 131B","Mobile poll/Bureau itinérant",N,N,"105B",0,18,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,0
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,369,"Antle","","Paul","Liberal","Libéral",N,N,46
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,369,"Doyle","","Norman","Conservative","Conservateur",Y,Y,47
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,369,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,369,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,38
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,350,"Antle","","Paul","Liberal","Libéral",N,N,68
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,350,"Doyle","","Norman","Conservative","Conservateur",Y,Y,82
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,350,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,350,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,57
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",1,319,"Antle","","Paul","Liberal","Libéral",N,N,54
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",1,319,"Doyle","","Norman","Conservative","Conservateur",Y,Y,61
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",1,319,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",1,319,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,39
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,273,"Antle","","Paul","Liberal","Libéral",N,N,43
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,273,"Doyle","","Norman","Conservative","Conservateur",Y,Y,57
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,273,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,273,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,41
+10006,"St. John's East","St. John's-Est"," 136","St. John's",N,N,"",1,297,"Antle","","Paul","Liberal","Libéral",N,N,37
+10006,"St. John's East","St. John's-Est"," 136","St. John's",N,N,"",1,297,"Doyle","","Norman","Conservative","Conservateur",Y,Y,62
+10006,"St. John's East","St. John's-Est"," 136","St. John's",N,N,"",1,297,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 136","St. John's",N,N,"",1,297,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,51
+10006,"St. John's East","St. John's-Est"," 137","St. John's",N,N,"",0,269,"Antle","","Paul","Liberal","Libéral",N,N,55
+10006,"St. John's East","St. John's-Est"," 137","St. John's",N,N,"",0,269,"Doyle","","Norman","Conservative","Conservateur",Y,Y,65
+10006,"St. John's East","St. John's-Est"," 137","St. John's",N,N,"",0,269,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 137","St. John's",N,N,"",0,269,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,22
+10006,"St. John's East","St. John's-Est"," 138","St. John's",N,N,"",0,267,"Antle","","Paul","Liberal","Libéral",N,N,51
+10006,"St. John's East","St. John's-Est"," 138","St. John's",N,N,"",0,267,"Doyle","","Norman","Conservative","Conservateur",Y,Y,43
+10006,"St. John's East","St. John's-Est"," 138","St. John's",N,N,"",0,267,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 138","St. John's",N,N,"",0,267,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,32
+10006,"St. John's East","St. John's-Est"," 139A","Conception Bay South",N,N,"",1,336,"Antle","","Paul","Liberal","Libéral",N,N,87
+10006,"St. John's East","St. John's-Est"," 139A","Conception Bay South",N,N,"",1,336,"Doyle","","Norman","Conservative","Conservateur",Y,Y,98
+10006,"St. John's East","St. John's-Est"," 139A","Conception Bay South",N,N,"",1,336,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 139A","Conception Bay South",N,N,"",1,336,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,26
+10006,"St. John's East","St. John's-Est"," 139B","Conception Bay South",N,N,"",0,347,"Antle","","Paul","Liberal","Libéral",N,N,74
+10006,"St. John's East","St. John's-Est"," 139B","Conception Bay South",N,N,"",0,347,"Doyle","","Norman","Conservative","Conservateur",Y,Y,89
+10006,"St. John's East","St. John's-Est"," 139B","Conception Bay South",N,N,"",0,347,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 139B","Conception Bay South",N,N,"",0,347,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,34
+10006,"St. John's East","St. John's-Est"," 140","Conception Bay South",N,N,"",0,483,"Antle","","Paul","Liberal","Libéral",N,N,85
+10006,"St. John's East","St. John's-Est"," 140","Conception Bay South",N,N,"",0,483,"Doyle","","Norman","Conservative","Conservateur",Y,Y,114
+10006,"St. John's East","St. John's-Est"," 140","Conception Bay South",N,N,"",0,483,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 140","Conception Bay South",N,N,"",0,483,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,39
+10006,"St. John's East","St. John's-Est"," 141","Conception Bay South",N,N,"",0,494,"Antle","","Paul","Liberal","Libéral",N,N,100
+10006,"St. John's East","St. John's-Est"," 141","Conception Bay South",N,N,"",0,494,"Doyle","","Norman","Conservative","Conservateur",Y,Y,144
+10006,"St. John's East","St. John's-Est"," 141","Conception Bay South",N,N,"",0,494,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 141","Conception Bay South",N,N,"",0,494,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,45
+10006,"St. John's East","St. John's-Est"," 142","Conception Bay South",N,N,"",3,415,"Antle","","Paul","Liberal","Libéral",N,N,105
+10006,"St. John's East","St. John's-Est"," 142","Conception Bay South",N,N,"",3,415,"Doyle","","Norman","Conservative","Conservateur",Y,Y,98
+10006,"St. John's East","St. John's-Est"," 142","Conception Bay South",N,N,"",3,415,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 142","Conception Bay South",N,N,"",3,415,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,43
+10006,"St. John's East","St. John's-Est"," 143","Conception Bay South",N,N,"",0,297,"Antle","","Paul","Liberal","Libéral",N,N,48
+10006,"St. John's East","St. John's-Est"," 143","Conception Bay South",N,N,"",0,297,"Doyle","","Norman","Conservative","Conservateur",Y,Y,68
+10006,"St. John's East","St. John's-Est"," 143","Conception Bay South",N,N,"",0,297,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 143","Conception Bay South",N,N,"",0,297,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 144","Conception Bay South",N,N,"",1,440,"Antle","","Paul","Liberal","Libéral",N,N,86
+10006,"St. John's East","St. John's-Est"," 144","Conception Bay South",N,N,"",1,440,"Doyle","","Norman","Conservative","Conservateur",Y,Y,107
+10006,"St. John's East","St. John's-Est"," 144","Conception Bay South",N,N,"",1,440,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 144","Conception Bay South",N,N,"",1,440,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,39
+10006,"St. John's East","St. John's-Est"," 145A","Conception Bay South",N,N,"",1,269,"Antle","","Paul","Liberal","Libéral",N,N,55
+10006,"St. John's East","St. John's-Est"," 145A","Conception Bay South",N,N,"",1,269,"Doyle","","Norman","Conservative","Conservateur",Y,Y,54
+10006,"St. John's East","St. John's-Est"," 145A","Conception Bay South",N,N,"",1,269,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 145A","Conception Bay South",N,N,"",1,269,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,24
+10006,"St. John's East","St. John's-Est"," 145B","Conception Bay South",N,N,"",0,294,"Antle","","Paul","Liberal","Libéral",N,N,47
+10006,"St. John's East","St. John's-Est"," 145B","Conception Bay South",N,N,"",0,294,"Doyle","","Norman","Conservative","Conservateur",Y,Y,67
+10006,"St. John's East","St. John's-Est"," 145B","Conception Bay South",N,N,"",0,294,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 145B","Conception Bay South",N,N,"",0,294,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,28
+10006,"St. John's East","St. John's-Est"," 146","Conception Bay South",N,N,"",2,407,"Antle","","Paul","Liberal","Libéral",N,N,74
+10006,"St. John's East","St. John's-Est"," 146","Conception Bay South",N,N,"",2,407,"Doyle","","Norman","Conservative","Conservateur",Y,Y,93
+10006,"St. John's East","St. John's-Est"," 146","Conception Bay South",N,N,"",2,407,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 146","Conception Bay South",N,N,"",2,407,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,53
+10006,"St. John's East","St. John's-Est"," 147A","Conception Bay South",N,N,"",0,321,"Antle","","Paul","Liberal","Libéral",N,N,34
+10006,"St. John's East","St. John's-Est"," 147A","Conception Bay South",N,N,"",0,321,"Doyle","","Norman","Conservative","Conservateur",Y,Y,88
+10006,"St. John's East","St. John's-Est"," 147A","Conception Bay South",N,N,"",0,321,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 147A","Conception Bay South",N,N,"",0,321,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,23
+10006,"St. John's East","St. John's-Est"," 147B","Conception Bay South",N,N,"",0,344,"Antle","","Paul","Liberal","Libéral",N,N,62
+10006,"St. John's East","St. John's-Est"," 147B","Conception Bay South",N,N,"",0,344,"Doyle","","Norman","Conservative","Conservateur",Y,Y,98
+10006,"St. John's East","St. John's-Est"," 147B","Conception Bay South",N,N,"",0,344,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 147B","Conception Bay South",N,N,"",0,344,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,37
+10006,"St. John's East","St. John's-Est"," 148A","Conception Bay South",N,N,"",0,280,"Antle","","Paul","Liberal","Libéral",N,N,56
+10006,"St. John's East","St. John's-Est"," 148A","Conception Bay South",N,N,"",0,280,"Doyle","","Norman","Conservative","Conservateur",Y,Y,62
+10006,"St. John's East","St. John's-Est"," 148A","Conception Bay South",N,N,"",0,280,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 148A","Conception Bay South",N,N,"",0,280,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,25
+10006,"St. John's East","St. John's-Est"," 148B","Conception Bay South",N,N,"",0,270,"Antle","","Paul","Liberal","Libéral",N,N,42
+10006,"St. John's East","St. John's-Est"," 148B","Conception Bay South",N,N,"",0,270,"Doyle","","Norman","Conservative","Conservateur",Y,Y,62
+10006,"St. John's East","St. John's-Est"," 148B","Conception Bay South",N,N,"",0,270,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 148B","Conception Bay South",N,N,"",0,270,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,18
+10006,"St. John's East","St. John's-Est"," 149","Conception Bay South",N,N,"",2,394,"Antle","","Paul","Liberal","Libéral",N,N,46
+10006,"St. John's East","St. John's-Est"," 149","Conception Bay South",N,N,"",2,394,"Doyle","","Norman","Conservative","Conservateur",Y,Y,81
+10006,"St. John's East","St. John's-Est"," 149","Conception Bay South",N,N,"",2,394,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 149","Conception Bay South",N,N,"",2,394,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,41
+10006,"St. John's East","St. John's-Est"," 150A","Conception Bay South",N,N,"",1,351,"Antle","","Paul","Liberal","Libéral",N,N,52
+10006,"St. John's East","St. John's-Est"," 150A","Conception Bay South",N,N,"",1,351,"Doyle","","Norman","Conservative","Conservateur",Y,Y,106
+10006,"St. John's East","St. John's-Est"," 150A","Conception Bay South",N,N,"",1,351,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 150A","Conception Bay South",N,N,"",1,351,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,41
+10006,"St. John's East","St. John's-Est"," 150B","Mobile poll/Bureau itinérant",N,N,"155B",0,25,"Antle","","Paul","Liberal","Libéral",N,N,0
+10006,"St. John's East","St. John's-Est"," 150B","Mobile poll/Bureau itinérant",N,N,"155B",0,25,"Doyle","","Norman","Conservative","Conservateur",Y,Y,0
+10006,"St. John's East","St. John's-Est"," 150B","Mobile poll/Bureau itinérant",N,N,"155B",0,25,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 150B","Mobile poll/Bureau itinérant",N,N,"155B",0,25,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,0
+10006,"St. John's East","St. John's-Est"," 151","Conception Bay South",Y,N,"",0,0,"Antle","","Paul","Liberal","Libéral",N,N,0
+10006,"St. John's East","St. John's-Est"," 151","Conception Bay South",Y,N,"",0,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,0
+10006,"St. John's East","St. John's-Est"," 151","Conception Bay South",Y,N,"",0,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 151","Conception Bay South",Y,N,"",0,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,0
+10006,"St. John's East","St. John's-Est"," 152A","Conception Bay South",N,N,"",1,385,"Antle","","Paul","Liberal","Libéral",N,N,51
+10006,"St. John's East","St. John's-Est"," 152A","Conception Bay South",N,N,"",1,385,"Doyle","","Norman","Conservative","Conservateur",Y,Y,104
+10006,"St. John's East","St. John's-Est"," 152A","Conception Bay South",N,N,"",1,385,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 152A","Conception Bay South",N,N,"",1,385,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,31
+10006,"St. John's East","St. John's-Est"," 152B","Mobile poll/Bureau itinérant",N,N,"155B",0,21,"Antle","","Paul","Liberal","Libéral",N,N,0
+10006,"St. John's East","St. John's-Est"," 152B","Mobile poll/Bureau itinérant",N,N,"155B",0,21,"Doyle","","Norman","Conservative","Conservateur",Y,Y,0
+10006,"St. John's East","St. John's-Est"," 152B","Mobile poll/Bureau itinérant",N,N,"155B",0,21,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 152B","Mobile poll/Bureau itinérant",N,N,"155B",0,21,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,0
+10006,"St. John's East","St. John's-Est"," 153A","Conception Bay South",N,N,"",2,388,"Antle","","Paul","Liberal","Libéral",N,N,72
+10006,"St. John's East","St. John's-Est"," 153A","Conception Bay South",N,N,"",2,388,"Doyle","","Norman","Conservative","Conservateur",Y,Y,69
+10006,"St. John's East","St. John's-Est"," 153A","Conception Bay South",N,N,"",2,388,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 153A","Conception Bay South",N,N,"",2,388,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,40
+10006,"St. John's East","St. John's-Est"," 153B","Conception Bay South",N,N,"",0,410,"Antle","","Paul","Liberal","Libéral",N,N,77
+10006,"St. John's East","St. John's-Est"," 153B","Conception Bay South",N,N,"",0,410,"Doyle","","Norman","Conservative","Conservateur",Y,Y,76
+10006,"St. John's East","St. John's-Est"," 153B","Conception Bay South",N,N,"",0,410,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 153B","Conception Bay South",N,N,"",0,410,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 154","Conception Bay South",N,N,"",0,505,"Antle","","Paul","Liberal","Libéral",N,N,70
+10006,"St. John's East","St. John's-Est"," 154","Conception Bay South",N,N,"",0,505,"Doyle","","Norman","Conservative","Conservateur",Y,Y,104
+10006,"St. John's East","St. John's-Est"," 154","Conception Bay South",N,N,"",0,505,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 154","Conception Bay South",N,N,"",0,505,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,54
+10006,"St. John's East","St. John's-Est"," 155A","Conception Bay South",N,N,"",0,195,"Antle","","Paul","Liberal","Libéral",N,N,30
+10006,"St. John's East","St. John's-Est"," 155A","Conception Bay South",N,N,"",0,195,"Doyle","","Norman","Conservative","Conservateur",Y,Y,39
+10006,"St. John's East","St. John's-Est"," 155A","Conception Bay South",N,N,"",0,195,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 155A","Conception Bay South",N,N,"",0,195,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,17
+10006,"St. John's East","St. John's-Est"," 155B","Mobile poll/Bureau itinérant",N,N,"",3,34,"Antle","","Paul","Liberal","Libéral",N,N,35
+10006,"St. John's East","St. John's-Est"," 155B","Mobile poll/Bureau itinérant",N,N,"",3,34,"Doyle","","Norman","Conservative","Conservateur",Y,Y,37
+10006,"St. John's East","St. John's-Est"," 155B","Mobile poll/Bureau itinérant",N,N,"",3,34,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 155B","Mobile poll/Bureau itinérant",N,N,"",3,34,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,6
+10006,"St. John's East","St. John's-Est"," 600","Torbay",N,N,"",0,0,"Antle","","Paul","Liberal","Libéral",N,N,83
+10006,"St. John's East","St. John's-Est"," 600","Torbay",N,N,"",0,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,181
+10006,"St. John's East","St. John's-Est"," 600","Torbay",N,N,"",0,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,0
+10006,"St. John's East","St. John's-Est"," 600","Torbay",N,N,"",0,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,29
+10006,"St. John's East","St. John's-Est"," 601","Wabana",N,N,"",1,0,"Antle","","Paul","Liberal","Libéral",N,N,55
+10006,"St. John's East","St. John's-Est"," 601","Wabana",N,N,"",1,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,129
+10006,"St. John's East","St. John's-Est"," 601","Wabana",N,N,"",1,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 601","Wabana",N,N,"",1,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,9
+10006,"St. John's East","St. John's-Est"," 602","St. Phillips",N,N,"",0,0,"Antle","","Paul","Liberal","Libéral",N,N,131
+10006,"St. John's East","St. John's-Est"," 602","St. Phillips",N,N,"",0,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,222
+10006,"St. John's East","St. John's-Est"," 602","St. Phillips",N,N,"",0,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 602","St. Phillips",N,N,"",0,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 603","St. John's",N,N,"",3,0,"Antle","","Paul","Liberal","Libéral",N,N,182
+10006,"St. John's East","St. John's-Est"," 603","St. John's",N,N,"",3,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,301
+10006,"St. John's East","St. John's-Est"," 603","St. John's",N,N,"",3,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,2
+10006,"St. John's East","St. John's-Est"," 603","St. John's",N,N,"",3,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,55
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Antle","","Paul","Liberal","Libéral",N,N,181
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,273
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,38
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",0,0,"Antle","","Paul","Liberal","Libéral",N,N,130
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",0,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,212
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",0,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,3
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",0,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,36
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",0,0,"Antle","","Paul","Liberal","Libéral",N,N,51
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",0,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,89
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",0,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,4
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",0,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,42
+10006,"St. John's East","St. John's-Est"," 607","Conception Bay South",N,N,"",0,0,"Antle","","Paul","Liberal","Libéral",N,N,110
+10006,"St. John's East","St. John's-Est"," 607","Conception Bay South",N,N,"",0,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,207
+10006,"St. John's East","St. John's-Est"," 607","Conception Bay South",N,N,"",0,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,1
+10006,"St. John's East","St. John's-Est"," 607","Conception Bay South",N,N,"",0,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,31
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,524,"Antle","","Paul","Liberal","Libéral",N,N,69
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,524,"Doyle","","Norman","Conservative","Conservateur",Y,Y,123
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,524,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,8
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,524,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,18
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Antle","","Paul","Liberal","Libéral",N,N,295
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Doyle","","Norman","Conservative","Conservateur",Y,Y,429
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Harris","","Stephen Eli","Green Party","Parti Vert",N,N,11
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Kehoe","","Mike","N.D.P.","N.P.D.",N,N,88

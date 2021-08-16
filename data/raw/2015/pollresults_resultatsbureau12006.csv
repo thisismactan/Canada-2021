@@ -1,0 +1,973 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12006,"Halifax West","Halifax-Ouest"," 1","Lucasville",N,N,"",0,366,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 1","Lucasville",N,N,"",0,366,"McGinnis","","Michael","Conservative","Conservateur",N,N,43
+12006,"Halifax West","Halifax-Ouest"," 1","Lucasville",N,N,"",0,366,"Regan","","Geoff","Liberal","Libéral",Y,Y,149
+12006,"Halifax West","Halifax-Ouest"," 1","Lucasville",N,N,"",0,366,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 1-1","Lucasville",N,N,"",0,366,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 1-1","Lucasville",N,N,"",0,366,"McGinnis","","Michael","Conservative","Conservateur",N,N,40
+12006,"Halifax West","Halifax-Ouest"," 1-1","Lucasville",N,N,"",0,366,"Regan","","Geoff","Liberal","Libéral",Y,Y,144
+12006,"Halifax West","Halifax-Ouest"," 1-1","Lucasville",N,N,"",0,366,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 2","Lucasville",N,N,"",0,409,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 2","Lucasville",N,N,"",0,409,"McGinnis","","Michael","Conservative","Conservateur",N,N,34
+12006,"Halifax West","Halifax-Ouest"," 2","Lucasville",N,N,"",0,409,"Regan","","Geoff","Liberal","Libéral",Y,Y,121
+12006,"Halifax West","Halifax-Ouest"," 2","Lucasville",N,N,"",0,409,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 3","White Hills",N,N,"",0,372,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 3","White Hills",N,N,"",0,372,"McGinnis","","Michael","Conservative","Conservateur",N,N,51
+12006,"Halifax West","Halifax-Ouest"," 3","White Hills",N,N,"",0,372,"Regan","","Geoff","Liberal","Libéral",Y,Y,104
+12006,"Halifax West","Halifax-Ouest"," 3","White Hills",N,N,"",0,372,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 4","Glen Arbour",N,N,"",1,335,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 4","Glen Arbour",N,N,"",1,335,"McGinnis","","Michael","Conservative","Conservateur",N,N,38
+12006,"Halifax West","Halifax-Ouest"," 4","Glen Arbour",N,N,"",1,335,"Regan","","Geoff","Liberal","Libéral",Y,Y,112
+12006,"Halifax West","Halifax-Ouest"," 4","Glen Arbour",N,N,"",1,335,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 5","Pockwock",N,N,"",1,341,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 5","Pockwock",N,N,"",1,341,"McGinnis","","Michael","Conservative","Conservateur",N,N,41
+12006,"Halifax West","Halifax-Ouest"," 5","Pockwock",N,N,"",1,341,"Regan","","Geoff","Liberal","Libéral",Y,Y,100
+12006,"Halifax West","Halifax-Ouest"," 5","Pockwock",N,N,"",1,341,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 5-1","Pockwock",N,N,"",0,323,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 5-1","Pockwock",N,N,"",0,323,"McGinnis","","Michael","Conservative","Conservateur",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 5-1","Pockwock",N,N,"",0,323,"Regan","","Geoff","Liberal","Libéral",Y,Y,94
+12006,"Halifax West","Halifax-Ouest"," 5-1","Pockwock",N,N,"",0,323,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 6A","English Corner",N,N,"",0,299,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 6A","English Corner",N,N,"",0,299,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 6A","English Corner",N,N,"",0,299,"Regan","","Geoff","Liberal","Libéral",Y,Y,80
+12006,"Halifax West","Halifax-Ouest"," 6A","English Corner",N,N,"",0,299,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 6B","Mobile poll/Bureau itinérant",N,N,"502",0,57,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 6B","Mobile poll/Bureau itinérant",N,N,"502",0,57,"McGinnis","","Michael","Conservative","Conservateur",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 6B","Mobile poll/Bureau itinérant",N,N,"502",0,57,"Regan","","Geoff","Liberal","Libéral",Y,Y,0
+12006,"Halifax West","Halifax-Ouest"," 6B","Mobile poll/Bureau itinérant",N,N,"502",0,57,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 7","English Corner",N,N,"",0,412,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 7","English Corner",N,N,"",0,412,"McGinnis","","Michael","Conservative","Conservateur",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 7","English Corner",N,N,"",0,412,"Regan","","Geoff","Liberal","Libéral",Y,Y,137
+12006,"Halifax West","Halifax-Ouest"," 7","English Corner",N,N,"",0,412,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 8","Glen Arbour",N,N,"",0,258,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 8","Glen Arbour",N,N,"",0,258,"McGinnis","","Michael","Conservative","Conservateur",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 8","Glen Arbour",N,N,"",0,258,"Regan","","Geoff","Liberal","Libéral",Y,Y,62
+12006,"Halifax West","Halifax-Ouest"," 8","Glen Arbour",N,N,"",0,258,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 9","English Corner",N,N,"",0,316,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 9","English Corner",N,N,"",0,316,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 9","English Corner",N,N,"",0,316,"Regan","","Geoff","Liberal","Libéral",Y,Y,110
+12006,"Halifax West","Halifax-Ouest"," 9","English Corner",N,N,"",0,316,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 10","Hammond Plains",N,N,"",0,340,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 10","Hammond Plains",N,N,"",0,340,"McGinnis","","Michael","Conservative","Conservateur",N,N,37
+12006,"Halifax West","Halifax-Ouest"," 10","Hammond Plains",N,N,"",0,340,"Regan","","Geoff","Liberal","Libéral",Y,Y,95
+12006,"Halifax West","Halifax-Ouest"," 10","Hammond Plains",N,N,"",0,340,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 10-1","Hammond Plains",N,N,"",0,248,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 10-1","Hammond Plains",N,N,"",0,248,"McGinnis","","Michael","Conservative","Conservateur",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 10-1","Hammond Plains",N,N,"",0,248,"Regan","","Geoff","Liberal","Libéral",Y,Y,58
+12006,"Halifax West","Halifax-Ouest"," 10-1","Hammond Plains",N,N,"",0,248,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 11","Kingswood",N,N,"",0,400,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 11","Kingswood",N,N,"",0,400,"McGinnis","","Michael","Conservative","Conservateur",N,N,40
+12006,"Halifax West","Halifax-Ouest"," 11","Kingswood",N,N,"",0,400,"Regan","","Geoff","Liberal","Libéral",Y,Y,153
+12006,"Halifax West","Halifax-Ouest"," 11","Kingswood",N,N,"",0,400,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 12","Hammond Plains",N,N,"",2,372,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 12","Hammond Plains",N,N,"",2,372,"McGinnis","","Michael","Conservative","Conservateur",N,N,41
+12006,"Halifax West","Halifax-Ouest"," 12","Hammond Plains",N,N,"",2,372,"Regan","","Geoff","Liberal","Libéral",Y,Y,104
+12006,"Halifax West","Halifax-Ouest"," 12","Hammond Plains",N,N,"",2,372,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 13","Kingswood",N,N,"",0,350,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 13","Kingswood",N,N,"",0,350,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 13","Kingswood",N,N,"",0,350,"Regan","","Geoff","Liberal","Libéral",Y,Y,118
+12006,"Halifax West","Halifax-Ouest"," 13","Kingswood",N,N,"",0,350,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 14A","Kingswood",N,N,"",0,234,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 14A","Kingswood",N,N,"",0,234,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 14A","Kingswood",N,N,"",0,234,"Regan","","Geoff","Liberal","Libéral",Y,Y,82
+12006,"Halifax West","Halifax-Ouest"," 14A","Kingswood",N,N,"",0,234,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 14B","Kingswood",N,N,"",0,217,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 14B","Kingswood",N,N,"",0,217,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 14B","Kingswood",N,N,"",0,217,"Regan","","Geoff","Liberal","Libéral",Y,Y,66
+12006,"Halifax West","Halifax-Ouest"," 14B","Kingswood",N,N,"",0,217,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 15","Kingswood",N,N,"",0,180,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 15","Kingswood",N,N,"",0,180,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 15","Kingswood",N,N,"",0,180,"Regan","","Geoff","Liberal","Libéral",Y,Y,57
+12006,"Halifax West","Halifax-Ouest"," 15","Kingswood",N,N,"",0,180,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 16A","Sandy Lake",N,N,"",1,256,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 16A","Sandy Lake",N,N,"",1,256,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 16A","Sandy Lake",N,N,"",1,256,"Regan","","Geoff","Liberal","Libéral",Y,Y,86
+12006,"Halifax West","Halifax-Ouest"," 16A","Sandy Lake",N,N,"",1,256,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 16B","Sandy Lake",N,N,"",0,201,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 16B","Sandy Lake",N,N,"",0,201,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 16B","Sandy Lake",N,N,"",0,201,"Regan","","Geoff","Liberal","Libéral",Y,Y,74
+12006,"Halifax West","Halifax-Ouest"," 16B","Sandy Lake",N,N,"",0,201,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 17A","Kingswood",N,N,"",0,219,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 17A","Kingswood",N,N,"",0,219,"McGinnis","","Michael","Conservative","Conservateur",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 17A","Kingswood",N,N,"",0,219,"Regan","","Geoff","Liberal","Libéral",Y,Y,85
+12006,"Halifax West","Halifax-Ouest"," 17A","Kingswood",N,N,"",0,219,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 17B","Kingswood",N,N,"",0,193,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 17B","Kingswood",N,N,"",0,193,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 17B","Kingswood",N,N,"",0,193,"Regan","","Geoff","Liberal","Libéral",Y,Y,62
+12006,"Halifax West","Halifax-Ouest"," 17B","Kingswood",N,N,"",0,193,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 18A","Sandy Lake",N,N,"",0,246,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 18A","Sandy Lake",N,N,"",0,246,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 18A","Sandy Lake",N,N,"",0,246,"Regan","","Geoff","Liberal","Libéral",Y,Y,86
+12006,"Halifax West","Halifax-Ouest"," 18A","Sandy Lake",N,N,"",0,246,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 18B","Sandy Lake",N,N,"",0,224,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 18B","Sandy Lake",N,N,"",0,224,"McGinnis","","Michael","Conservative","Conservateur",N,N,39
+12006,"Halifax West","Halifax-Ouest"," 18B","Sandy Lake",N,N,"",0,224,"Regan","","Geoff","Liberal","Libéral",Y,Y,70
+12006,"Halifax West","Halifax-Ouest"," 18B","Sandy Lake",N,N,"",0,224,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 19A","Sandy Lake",N,N,"",0,301,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 19A","Sandy Lake",N,N,"",0,301,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 19A","Sandy Lake",N,N,"",0,301,"Regan","","Geoff","Liberal","Libéral",Y,Y,113
+12006,"Halifax West","Halifax-Ouest"," 19A","Sandy Lake",N,N,"",0,301,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 19B","Sandy Lake",N,N,"",0,321,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 19B","Sandy Lake",N,N,"",0,321,"McGinnis","","Michael","Conservative","Conservateur",N,N,42
+12006,"Halifax West","Halifax-Ouest"," 19B","Sandy Lake",N,N,"",0,321,"Regan","","Geoff","Liberal","Libéral",Y,Y,134
+12006,"Halifax West","Halifax-Ouest"," 19B","Sandy Lake",N,N,"",0,321,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 19-1A","Halifax",N,N,"",0,230,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 19-1A","Halifax",N,N,"",0,230,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 19-1A","Halifax",N,N,"",0,230,"Regan","","Geoff","Liberal","Libéral",Y,Y,94
+12006,"Halifax West","Halifax-Ouest"," 19-1A","Halifax",N,N,"",0,230,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 19-1B","Halifax",N,N,"",0,240,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 19-1B","Halifax",N,N,"",0,240,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 19-1B","Halifax",N,N,"",0,240,"Regan","","Geoff","Liberal","Libéral",Y,Y,107
+12006,"Halifax West","Halifax-Ouest"," 19-1B","Halifax",N,N,"",0,240,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 20A","Bedford",N,N,"",0,241,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 20A","Bedford",N,N,"",0,241,"McGinnis","","Michael","Conservative","Conservateur",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 20A","Bedford",N,N,"",0,241,"Regan","","Geoff","Liberal","Libéral",Y,Y,69
+12006,"Halifax West","Halifax-Ouest"," 20A","Bedford",N,N,"",0,241,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 20B","Bedford",N,N,"",0,215,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 20B","Bedford",N,N,"",0,215,"McGinnis","","Michael","Conservative","Conservateur",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 20B","Bedford",N,N,"",0,215,"Regan","","Geoff","Liberal","Libéral",Y,Y,68
+12006,"Halifax West","Halifax-Ouest"," 20B","Bedford",N,N,"",0,215,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 21","Bedford",N,N,"",0,368,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 21","Bedford",N,N,"",0,368,"McGinnis","","Michael","Conservative","Conservateur",N,N,43
+12006,"Halifax West","Halifax-Ouest"," 21","Bedford",N,N,"",0,368,"Regan","","Geoff","Liberal","Libéral",Y,Y,133
+12006,"Halifax West","Halifax-Ouest"," 21","Bedford",N,N,"",0,368,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 22","Bedford",N,N,"",1,433,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 22","Bedford",N,N,"",1,433,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 22","Bedford",N,N,"",1,433,"Regan","","Geoff","Liberal","Libéral",Y,Y,137
+12006,"Halifax West","Halifax-Ouest"," 22","Bedford",N,N,"",1,433,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 23","Bedford",N,N,"",2,378,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 23","Bedford",N,N,"",2,378,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 23","Bedford",N,N,"",2,378,"Regan","","Geoff","Liberal","Libéral",Y,Y,124
+12006,"Halifax West","Halifax-Ouest"," 23","Bedford",N,N,"",2,378,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 24","Bedford",N,N,"",2,318,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 24","Bedford",N,N,"",2,318,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 24","Bedford",N,N,"",2,318,"Regan","","Geoff","Liberal","Libéral",Y,Y,115
+12006,"Halifax West","Halifax-Ouest"," 24","Bedford",N,N,"",2,318,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 25","Bedford",N,N,"",0,299,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 25","Bedford",N,N,"",0,299,"McGinnis","","Michael","Conservative","Conservateur",N,N,35
+12006,"Halifax West","Halifax-Ouest"," 25","Bedford",N,N,"",0,299,"Regan","","Geoff","Liberal","Libéral",Y,Y,104
+12006,"Halifax West","Halifax-Ouest"," 25","Bedford",N,N,"",0,299,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 26","Bedford",N,N,"",0,325,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 26","Bedford",N,N,"",0,325,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 26","Bedford",N,N,"",0,325,"Regan","","Geoff","Liberal","Libéral",Y,Y,113
+12006,"Halifax West","Halifax-Ouest"," 26","Bedford",N,N,"",0,325,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 27","Bedford",N,N,"",1,358,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 27","Bedford",N,N,"",1,358,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 27","Bedford",N,N,"",1,358,"Regan","","Geoff","Liberal","Libéral",Y,Y,143
+12006,"Halifax West","Halifax-Ouest"," 27","Bedford",N,N,"",1,358,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 28A","Bedford",N,N,"",0,274,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 28A","Bedford",N,N,"",0,274,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 28A","Bedford",N,N,"",0,274,"Regan","","Geoff","Liberal","Libéral",Y,Y,86
+12006,"Halifax West","Halifax-Ouest"," 28A","Bedford",N,N,"",0,274,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 28B","Bedford",N,N,"",1,246,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 28B","Bedford",N,N,"",1,246,"McGinnis","","Michael","Conservative","Conservateur",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 28B","Bedford",N,N,"",1,246,"Regan","","Geoff","Liberal","Libéral",Y,Y,90
+12006,"Halifax West","Halifax-Ouest"," 28B","Bedford",N,N,"",1,246,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 29A","Bedford",N,N,"",0,258,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 29A","Bedford",N,N,"",0,258,"McGinnis","","Michael","Conservative","Conservateur",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 29A","Bedford",N,N,"",0,258,"Regan","","Geoff","Liberal","Libéral",Y,Y,96
+12006,"Halifax West","Halifax-Ouest"," 29A","Bedford",N,N,"",0,258,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 29B","Bedford",N,N,"",0,243,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 29B","Bedford",N,N,"",0,243,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 29B","Bedford",N,N,"",0,243,"Regan","","Geoff","Liberal","Libéral",Y,Y,80
+12006,"Halifax West","Halifax-Ouest"," 29B","Bedford",N,N,"",0,243,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 30","Bedford",N,N,"",0,289,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 30","Bedford",N,N,"",0,289,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 30","Bedford",N,N,"",0,289,"Regan","","Geoff","Liberal","Libéral",Y,Y,91
+12006,"Halifax West","Halifax-Ouest"," 30","Bedford",N,N,"",0,289,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 31","Bedford",N,N,"",0,388,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 31","Bedford",N,N,"",0,388,"McGinnis","","Michael","Conservative","Conservateur",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 31","Bedford",N,N,"",0,388,"Regan","","Geoff","Liberal","Libéral",Y,Y,155
+12006,"Halifax West","Halifax-Ouest"," 31","Bedford",N,N,"",0,388,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 32A","Bedford",N,N,"",0,200,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 32A","Bedford",N,N,"",0,200,"McGinnis","","Michael","Conservative","Conservateur",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 32A","Bedford",N,N,"",0,200,"Regan","","Geoff","Liberal","Libéral",Y,Y,79
+12006,"Halifax West","Halifax-Ouest"," 32A","Bedford",N,N,"",0,200,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 32B","Bedford",N,N,"",2,209,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 32B","Bedford",N,N,"",2,209,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 32B","Bedford",N,N,"",2,209,"Regan","","Geoff","Liberal","Libéral",Y,Y,74
+12006,"Halifax West","Halifax-Ouest"," 32B","Bedford",N,N,"",2,209,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 33","Bedford",N,N,"",1,309,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 33","Bedford",N,N,"",1,309,"McGinnis","","Michael","Conservative","Conservateur",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 33","Bedford",N,N,"",1,309,"Regan","","Geoff","Liberal","Libéral",Y,Y,106
+12006,"Halifax West","Halifax-Ouest"," 33","Bedford",N,N,"",1,309,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 33-1","Halifax",N,N,"",0,347,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 33-1","Halifax",N,N,"",0,347,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 33-1","Halifax",N,N,"",0,347,"Regan","","Geoff","Liberal","Libéral",Y,Y,121
+12006,"Halifax West","Halifax-Ouest"," 33-1","Halifax",N,N,"",0,347,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 34","Bedford",N,N,"",0,358,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 34","Bedford",N,N,"",0,358,"McGinnis","","Michael","Conservative","Conservateur",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 34","Bedford",N,N,"",0,358,"Regan","","Geoff","Liberal","Libéral",Y,Y,119
+12006,"Halifax West","Halifax-Ouest"," 34","Bedford",N,N,"",0,358,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 35","Bedford",N,N,"",0,396,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 35","Bedford",N,N,"",0,396,"McGinnis","","Michael","Conservative","Conservateur",N,N,36
+12006,"Halifax West","Halifax-Ouest"," 35","Bedford",N,N,"",0,396,"Regan","","Geoff","Liberal","Libéral",Y,Y,130
+12006,"Halifax West","Halifax-Ouest"," 35","Bedford",N,N,"",0,396,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 36","Bedford",N,N,"",0,270,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 36","Bedford",N,N,"",0,270,"McGinnis","","Michael","Conservative","Conservateur",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 36","Bedford",N,N,"",0,270,"Regan","","Geoff","Liberal","Libéral",Y,Y,71
+12006,"Halifax West","Halifax-Ouest"," 36","Bedford",N,N,"",0,270,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 37","Bedford",N,N,"",0,430,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 37","Bedford",N,N,"",0,430,"McGinnis","","Michael","Conservative","Conservateur",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 37","Bedford",N,N,"",0,430,"Regan","","Geoff","Liberal","Libéral",Y,Y,104
+12006,"Halifax West","Halifax-Ouest"," 37","Bedford",N,N,"",0,430,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 38","Bedford",N,N,"",1,442,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 38","Bedford",N,N,"",1,442,"McGinnis","","Michael","Conservative","Conservateur",N,N,32
+12006,"Halifax West","Halifax-Ouest"," 38","Bedford",N,N,"",1,442,"Regan","","Geoff","Liberal","Libéral",Y,Y,139
+12006,"Halifax West","Halifax-Ouest"," 38","Bedford",N,N,"",1,442,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 39","Bedford",N,N,"",0,414,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 39","Bedford",N,N,"",0,414,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 39","Bedford",N,N,"",0,414,"Regan","","Geoff","Liberal","Libéral",Y,Y,109
+12006,"Halifax West","Halifax-Ouest"," 39","Bedford",N,N,"",0,414,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 40","Bedford",N,N,"",1,364,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 40","Bedford",N,N,"",1,364,"McGinnis","","Michael","Conservative","Conservateur",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 40","Bedford",N,N,"",1,364,"Regan","","Geoff","Liberal","Libéral",Y,Y,106
+12006,"Halifax West","Halifax-Ouest"," 40","Bedford",N,N,"",1,364,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 41","Bedford",N,N,"",1,447,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 41","Bedford",N,N,"",1,447,"McGinnis","","Michael","Conservative","Conservateur",N,N,32
+12006,"Halifax West","Halifax-Ouest"," 41","Bedford",N,N,"",1,447,"Regan","","Geoff","Liberal","Libéral",Y,Y,177
+12006,"Halifax West","Halifax-Ouest"," 41","Bedford",N,N,"",1,447,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 42","Bedford",N,N,"",0,363,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 42","Bedford",N,N,"",0,363,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 42","Bedford",N,N,"",0,363,"Regan","","Geoff","Liberal","Libéral",Y,Y,104
+12006,"Halifax West","Halifax-Ouest"," 42","Bedford",N,N,"",0,363,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 43","Bedford",N,N,"",0,354,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 43","Bedford",N,N,"",0,354,"McGinnis","","Michael","Conservative","Conservateur",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 43","Bedford",N,N,"",0,354,"Regan","","Geoff","Liberal","Libéral",Y,Y,105
+12006,"Halifax West","Halifax-Ouest"," 43","Bedford",N,N,"",0,354,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 44","Bedford",N,N,"",1,466,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 44","Bedford",N,N,"",1,466,"McGinnis","","Michael","Conservative","Conservateur",N,N,57
+12006,"Halifax West","Halifax-Ouest"," 44","Bedford",N,N,"",1,466,"Regan","","Geoff","Liberal","Libéral",Y,Y,138
+12006,"Halifax West","Halifax-Ouest"," 44","Bedford",N,N,"",1,466,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 45","Bedford",N,N,"",1,267,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 45","Bedford",N,N,"",1,267,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 45","Bedford",N,N,"",1,267,"Regan","","Geoff","Liberal","Libéral",Y,Y,77
+12006,"Halifax West","Halifax-Ouest"," 45","Bedford",N,N,"",1,267,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 45-1","Halifax",N,N,"",0,284,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 45-1","Halifax",N,N,"",0,284,"McGinnis","","Michael","Conservative","Conservateur",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 45-1","Halifax",N,N,"",0,284,"Regan","","Geoff","Liberal","Libéral",Y,Y,89
+12006,"Halifax West","Halifax-Ouest"," 45-1","Halifax",N,N,"",0,284,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 46","Bedford",N,N,"",0,366,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 46","Bedford",N,N,"",0,366,"McGinnis","","Michael","Conservative","Conservateur",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 46","Bedford",N,N,"",0,366,"Regan","","Geoff","Liberal","Libéral",Y,Y,120
+12006,"Halifax West","Halifax-Ouest"," 46","Bedford",N,N,"",0,366,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 46-1","Halifax",N,N,"",1,459,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 46-1","Halifax",N,N,"",1,459,"McGinnis","","Michael","Conservative","Conservateur",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 46-1","Halifax",N,N,"",1,459,"Regan","","Geoff","Liberal","Libéral",Y,Y,118
+12006,"Halifax West","Halifax-Ouest"," 46-1","Halifax",N,N,"",1,459,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 47","Bedford",N,N,"",0,419,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 47","Bedford",N,N,"",0,419,"McGinnis","","Michael","Conservative","Conservateur",N,N,44
+12006,"Halifax West","Halifax-Ouest"," 47","Bedford",N,N,"",0,419,"Regan","","Geoff","Liberal","Libéral",Y,Y,149
+12006,"Halifax West","Halifax-Ouest"," 47","Bedford",N,N,"",0,419,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 48A","Bedford",N,N,"",0,257,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 48A","Bedford",N,N,"",0,257,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 48A","Bedford",N,N,"",0,257,"Regan","","Geoff","Liberal","Libéral",Y,Y,67
+12006,"Halifax West","Halifax-Ouest"," 48A","Bedford",N,N,"",0,257,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 48B","Bedford",N,N,"",1,220,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 48B","Bedford",N,N,"",1,220,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 48B","Bedford",N,N,"",1,220,"Regan","","Geoff","Liberal","Libéral",Y,Y,54
+12006,"Halifax West","Halifax-Ouest"," 48B","Bedford",N,N,"",1,220,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 49","Bedford",N,N,"",0,449,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 49","Bedford",N,N,"",0,449,"McGinnis","","Michael","Conservative","Conservateur",N,N,45
+12006,"Halifax West","Halifax-Ouest"," 49","Bedford",N,N,"",0,449,"Regan","","Geoff","Liberal","Libéral",Y,Y,153
+12006,"Halifax West","Halifax-Ouest"," 49","Bedford",N,N,"",0,449,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 50","Bedford",N,N,"",1,316,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 50","Bedford",N,N,"",1,316,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 50","Bedford",N,N,"",1,316,"Regan","","Geoff","Liberal","Libéral",Y,Y,122
+12006,"Halifax West","Halifax-Ouest"," 50","Bedford",N,N,"",1,316,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 50-1","Halifax",N,N,"",0,422,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 50-1","Halifax",N,N,"",0,422,"McGinnis","","Michael","Conservative","Conservateur",N,N,39
+12006,"Halifax West","Halifax-Ouest"," 50-1","Halifax",N,N,"",0,422,"Regan","","Geoff","Liberal","Libéral",Y,Y,110
+12006,"Halifax West","Halifax-Ouest"," 50-1","Halifax",N,N,"",0,422,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 51","Bedford",N,N,"",0,369,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 51","Bedford",N,N,"",0,369,"McGinnis","","Michael","Conservative","Conservateur",N,N,37
+12006,"Halifax West","Halifax-Ouest"," 51","Bedford",N,N,"",0,369,"Regan","","Geoff","Liberal","Libéral",Y,Y,139
+12006,"Halifax West","Halifax-Ouest"," 51","Bedford",N,N,"",0,369,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 51-1","Halifax",N,N,"",2,389,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 51-1","Halifax",N,N,"",2,389,"McGinnis","","Michael","Conservative","Conservateur",N,N,34
+12006,"Halifax West","Halifax-Ouest"," 51-1","Halifax",N,N,"",2,389,"Regan","","Geoff","Liberal","Libéral",Y,Y,107
+12006,"Halifax West","Halifax-Ouest"," 51-1","Halifax",N,N,"",2,389,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 51-2","Halifax",N,N,"",1,330,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 51-2","Halifax",N,N,"",1,330,"McGinnis","","Michael","Conservative","Conservateur",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 51-2","Halifax",N,N,"",1,330,"Regan","","Geoff","Liberal","Libéral",Y,Y,107
+12006,"Halifax West","Halifax-Ouest"," 51-2","Halifax",N,N,"",1,330,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 52A","Bedford",N,N,"",0,265,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 52A","Bedford",N,N,"",0,265,"McGinnis","","Michael","Conservative","Conservateur",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 52A","Bedford",N,N,"",0,265,"Regan","","Geoff","Liberal","Libéral",Y,Y,97
+12006,"Halifax West","Halifax-Ouest"," 52A","Bedford",N,N,"",0,265,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 52B","Bedford",N,N,"",1,281,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 52B","Bedford",N,N,"",1,281,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 52B","Bedford",N,N,"",1,281,"Regan","","Geoff","Liberal","Libéral",Y,Y,119
+12006,"Halifax West","Halifax-Ouest"," 52B","Bedford",N,N,"",1,281,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 53A","Halifax",N,N,"",0,275,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 53A","Halifax",N,N,"",0,275,"McGinnis","","Michael","Conservative","Conservateur",N,N,29
+12006,"Halifax West","Halifax-Ouest"," 53A","Halifax",N,N,"",0,275,"Regan","","Geoff","Liberal","Libéral",Y,Y,87
+12006,"Halifax West","Halifax-Ouest"," 53A","Halifax",N,N,"",0,275,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 53B","Halifax",N,N,"",0,250,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 53B","Halifax",N,N,"",0,250,"McGinnis","","Michael","Conservative","Conservateur",N,N,32
+12006,"Halifax West","Halifax-Ouest"," 53B","Halifax",N,N,"",0,250,"Regan","","Geoff","Liberal","Libéral",Y,Y,66
+12006,"Halifax West","Halifax-Ouest"," 53B","Halifax",N,N,"",0,250,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 54A","Halifax",N,N,"",0,362,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 54A","Halifax",N,N,"",0,362,"McGinnis","","Michael","Conservative","Conservateur",N,N,32
+12006,"Halifax West","Halifax-Ouest"," 54A","Halifax",N,N,"",0,362,"Regan","","Geoff","Liberal","Libéral",Y,Y,127
+12006,"Halifax West","Halifax-Ouest"," 54A","Halifax",N,N,"",0,362,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 54B","Halifax",N,N,"",1,349,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12006,"Halifax West","Halifax-Ouest"," 54B","Halifax",N,N,"",1,349,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 54B","Halifax",N,N,"",1,349,"Regan","","Geoff","Liberal","Libéral",Y,Y,90
+12006,"Halifax West","Halifax-Ouest"," 54B","Halifax",N,N,"",1,349,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 55","Halifax",N,N,"",0,203,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 55","Halifax",N,N,"",0,203,"McGinnis","","Michael","Conservative","Conservateur",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 55","Halifax",N,N,"",0,203,"Regan","","Geoff","Liberal","Libéral",Y,Y,72
+12006,"Halifax West","Halifax-Ouest"," 55","Halifax",N,N,"",0,203,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 56","Halifax",N,N,"",0,437,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 56","Halifax",N,N,"",0,437,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 56","Halifax",N,N,"",0,437,"Regan","","Geoff","Liberal","Libéral",Y,Y,156
+12006,"Halifax West","Halifax-Ouest"," 56","Halifax",N,N,"",0,437,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 57A","Halifax",N,N,"",0,270,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 57A","Halifax",N,N,"",0,270,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 57A","Halifax",N,N,"",0,270,"Regan","","Geoff","Liberal","Libéral",Y,Y,97
+12006,"Halifax West","Halifax-Ouest"," 57A","Halifax",N,N,"",0,270,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 57B","Halifax",N,N,"",0,231,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 57B","Halifax",N,N,"",0,231,"McGinnis","","Michael","Conservative","Conservateur",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 57B","Halifax",N,N,"",0,231,"Regan","","Geoff","Liberal","Libéral",Y,Y,79
+12006,"Halifax West","Halifax-Ouest"," 57B","Halifax",N,N,"",0,231,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 58","Halifax",N,N,"",1,415,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 58","Halifax",N,N,"",1,415,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 58","Halifax",N,N,"",1,415,"Regan","","Geoff","Liberal","Libéral",Y,Y,144
+12006,"Halifax West","Halifax-Ouest"," 58","Halifax",N,N,"",1,415,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 59","Halifax",N,N,"",0,361,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 59","Halifax",N,N,"",0,361,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 59","Halifax",N,N,"",0,361,"Regan","","Geoff","Liberal","Libéral",Y,Y,133
+12006,"Halifax West","Halifax-Ouest"," 59","Halifax",N,N,"",0,361,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 60A","Halifax",N,N,"",0,267,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 60A","Halifax",N,N,"",0,267,"McGinnis","","Michael","Conservative","Conservateur",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 60A","Halifax",N,N,"",0,267,"Regan","","Geoff","Liberal","Libéral",Y,Y,74
+12006,"Halifax West","Halifax-Ouest"," 60A","Halifax",N,N,"",0,267,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 60B","Halifax",N,N,"",2,255,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 60B","Halifax",N,N,"",2,255,"McGinnis","","Michael","Conservative","Conservateur",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 60B","Halifax",N,N,"",2,255,"Regan","","Geoff","Liberal","Libéral",Y,Y,75
+12006,"Halifax West","Halifax-Ouest"," 60B","Halifax",N,N,"",2,255,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 61A","Halifax",N,N,"",0,227,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 61A","Halifax",N,N,"",0,227,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 61A","Halifax",N,N,"",0,227,"Regan","","Geoff","Liberal","Libéral",Y,Y,76
+12006,"Halifax West","Halifax-Ouest"," 61A","Halifax",N,N,"",0,227,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 61B","Halifax",N,N,"",0,226,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 61B","Halifax",N,N,"",0,226,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 61B","Halifax",N,N,"",0,226,"Regan","","Geoff","Liberal","Libéral",Y,Y,83
+12006,"Halifax West","Halifax-Ouest"," 61B","Halifax",N,N,"",0,226,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 62A","Halifax",N,N,"",1,266,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 62A","Halifax",N,N,"",1,266,"McGinnis","","Michael","Conservative","Conservateur",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 62A","Halifax",N,N,"",1,266,"Regan","","Geoff","Liberal","Libéral",Y,Y,71
+12006,"Halifax West","Halifax-Ouest"," 62A","Halifax",N,N,"",1,266,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 62B","Halifax",N,N,"",0,275,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 62B","Halifax",N,N,"",0,275,"McGinnis","","Michael","Conservative","Conservateur",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 62B","Halifax",N,N,"",0,275,"Regan","","Geoff","Liberal","Libéral",Y,Y,88
+12006,"Halifax West","Halifax-Ouest"," 62B","Halifax",N,N,"",0,275,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 63","Halifax",N,N,"",0,343,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 63","Halifax",N,N,"",0,343,"McGinnis","","Michael","Conservative","Conservateur",N,N,36
+12006,"Halifax West","Halifax-Ouest"," 63","Halifax",N,N,"",0,343,"Regan","","Geoff","Liberal","Libéral",Y,Y,104
+12006,"Halifax West","Halifax-Ouest"," 63","Halifax",N,N,"",0,343,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 64A","Halifax",N,N,"",1,219,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 64A","Halifax",N,N,"",1,219,"McGinnis","","Michael","Conservative","Conservateur",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 64A","Halifax",N,N,"",1,219,"Regan","","Geoff","Liberal","Libéral",Y,Y,70
+12006,"Halifax West","Halifax-Ouest"," 64A","Halifax",N,N,"",1,219,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 64B","Halifax",N,N,"",1,228,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 64B","Halifax",N,N,"",1,228,"McGinnis","","Michael","Conservative","Conservateur",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 64B","Halifax",N,N,"",1,228,"Regan","","Geoff","Liberal","Libéral",Y,Y,74
+12006,"Halifax West","Halifax-Ouest"," 64B","Halifax",N,N,"",1,228,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 65","Halifax",N,N,"",1,360,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12006,"Halifax West","Halifax-Ouest"," 65","Halifax",N,N,"",1,360,"McGinnis","","Michael","Conservative","Conservateur",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 65","Halifax",N,N,"",1,360,"Regan","","Geoff","Liberal","Libéral",Y,Y,140
+12006,"Halifax West","Halifax-Ouest"," 65","Halifax",N,N,"",1,360,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 66A","Halifax",N,N,"",0,205,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 66A","Halifax",N,N,"",0,205,"McGinnis","","Michael","Conservative","Conservateur",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 66A","Halifax",N,N,"",0,205,"Regan","","Geoff","Liberal","Libéral",Y,Y,57
+12006,"Halifax West","Halifax-Ouest"," 66A","Halifax",N,N,"",0,205,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 66B","Halifax",N,N,"",0,211,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 66B","Halifax",N,N,"",0,211,"McGinnis","","Michael","Conservative","Conservateur",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 66B","Halifax",N,N,"",0,211,"Regan","","Geoff","Liberal","Libéral",Y,Y,64
+12006,"Halifax West","Halifax-Ouest"," 66B","Halifax",N,N,"",0,211,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 67A","Halifax",N,N,"",0,223,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 67A","Halifax",N,N,"",0,223,"McGinnis","","Michael","Conservative","Conservateur",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 67A","Halifax",N,N,"",0,223,"Regan","","Geoff","Liberal","Libéral",Y,Y,61
+12006,"Halifax West","Halifax-Ouest"," 67A","Halifax",N,N,"",0,223,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 67B","Halifax",N,N,"",0,219,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 67B","Halifax",N,N,"",0,219,"McGinnis","","Michael","Conservative","Conservateur",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 67B","Halifax",N,N,"",0,219,"Regan","","Geoff","Liberal","Libéral",Y,Y,65
+12006,"Halifax West","Halifax-Ouest"," 67B","Halifax",N,N,"",0,219,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 68","Halifax",N,N,"",0,337,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 68","Halifax",N,N,"",0,337,"McGinnis","","Michael","Conservative","Conservateur",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 68","Halifax",N,N,"",0,337,"Regan","","Geoff","Liberal","Libéral",Y,Y,136
+12006,"Halifax West","Halifax-Ouest"," 68","Halifax",N,N,"",0,337,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 69","Halifax",N,N,"",2,370,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12006,"Halifax West","Halifax-Ouest"," 69","Halifax",N,N,"",2,370,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 69","Halifax",N,N,"",2,370,"Regan","","Geoff","Liberal","Libéral",Y,Y,186
+12006,"Halifax West","Halifax-Ouest"," 69","Halifax",N,N,"",2,370,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 70A","Halifax",N,N,"",1,255,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 70A","Halifax",N,N,"",1,255,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 70A","Halifax",N,N,"",1,255,"Regan","","Geoff","Liberal","Libéral",Y,Y,116
+12006,"Halifax West","Halifax-Ouest"," 70A","Halifax",N,N,"",1,255,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 70B","Mobile poll/Bureau itinérant",N,N,"501",0,83,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 70B","Mobile poll/Bureau itinérant",N,N,"501",0,83,"McGinnis","","Michael","Conservative","Conservateur",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 70B","Mobile poll/Bureau itinérant",N,N,"501",0,83,"Regan","","Geoff","Liberal","Libéral",Y,Y,0
+12006,"Halifax West","Halifax-Ouest"," 70B","Mobile poll/Bureau itinérant",N,N,"501",0,83,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 71A","Halifax",N,N,"",0,248,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 71A","Halifax",N,N,"",0,248,"McGinnis","","Michael","Conservative","Conservateur",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 71A","Halifax",N,N,"",0,248,"Regan","","Geoff","Liberal","Libéral",Y,Y,90
+12006,"Halifax West","Halifax-Ouest"," 71A","Halifax",N,N,"",0,248,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 71B","Halifax",N,N,"",0,227,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 71B","Halifax",N,N,"",0,227,"McGinnis","","Michael","Conservative","Conservateur",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 71B","Halifax",N,N,"",0,227,"Regan","","Geoff","Liberal","Libéral",Y,Y,64
+12006,"Halifax West","Halifax-Ouest"," 71B","Halifax",N,N,"",0,227,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 72","Halifax",N,N,"",0,406,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 72","Halifax",N,N,"",0,406,"McGinnis","","Michael","Conservative","Conservateur",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 72","Halifax",N,N,"",0,406,"Regan","","Geoff","Liberal","Libéral",Y,Y,145
+12006,"Halifax West","Halifax-Ouest"," 72","Halifax",N,N,"",0,406,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 73A","Halifax",N,N,"",1,228,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 73A","Halifax",N,N,"",1,228,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 73A","Halifax",N,N,"",1,228,"Regan","","Geoff","Liberal","Libéral",Y,Y,69
+12006,"Halifax West","Halifax-Ouest"," 73A","Halifax",N,N,"",1,228,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 73B","Halifax",N,N,"",0,225,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 73B","Halifax",N,N,"",0,225,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 73B","Halifax",N,N,"",0,225,"Regan","","Geoff","Liberal","Libéral",Y,Y,78
+12006,"Halifax West","Halifax-Ouest"," 73B","Halifax",N,N,"",0,225,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 74","Halifax",N,N,"",1,354,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 74","Halifax",N,N,"",1,354,"McGinnis","","Michael","Conservative","Conservateur",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 74","Halifax",N,N,"",1,354,"Regan","","Geoff","Liberal","Libéral",Y,Y,93
+12006,"Halifax West","Halifax-Ouest"," 74","Halifax",N,N,"",1,354,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 75","Halifax",N,N,"",1,342,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 75","Halifax",N,N,"",1,342,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 75","Halifax",N,N,"",1,342,"Regan","","Geoff","Liberal","Libéral",Y,Y,119
+12006,"Halifax West","Halifax-Ouest"," 75","Halifax",N,N,"",1,342,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 76","Halifax",N,N,"",0,408,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12006,"Halifax West","Halifax-Ouest"," 76","Halifax",N,N,"",0,408,"McGinnis","","Michael","Conservative","Conservateur",N,N,42
+12006,"Halifax West","Halifax-Ouest"," 76","Halifax",N,N,"",0,408,"Regan","","Geoff","Liberal","Libéral",Y,Y,123
+12006,"Halifax West","Halifax-Ouest"," 76","Halifax",N,N,"",0,408,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 77A","Halifax",N,N,"",0,242,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 77A","Halifax",N,N,"",0,242,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 77A","Halifax",N,N,"",0,242,"Regan","","Geoff","Liberal","Libéral",Y,Y,97
+12006,"Halifax West","Halifax-Ouest"," 77A","Halifax",N,N,"",0,242,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 77B","Halifax",N,N,"",0,232,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 77B","Halifax",N,N,"",0,232,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 77B","Halifax",N,N,"",0,232,"Regan","","Geoff","Liberal","Libéral",Y,Y,80
+12006,"Halifax West","Halifax-Ouest"," 77B","Halifax",N,N,"",0,232,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 78A","Halifax",N,N,"",1,207,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 78A","Halifax",N,N,"",1,207,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 78A","Halifax",N,N,"",1,207,"Regan","","Geoff","Liberal","Libéral",Y,Y,66
+12006,"Halifax West","Halifax-Ouest"," 78A","Halifax",N,N,"",1,207,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 78B","Halifax",N,N,"",0,218,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 78B","Halifax",N,N,"",0,218,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 78B","Halifax",N,N,"",0,218,"Regan","","Geoff","Liberal","Libéral",Y,Y,90
+12006,"Halifax West","Halifax-Ouest"," 78B","Halifax",N,N,"",0,218,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 79A","Halifax",N,N,"",0,213,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 79A","Halifax",N,N,"",0,213,"McGinnis","","Michael","Conservative","Conservateur",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 79A","Halifax",N,N,"",0,213,"Regan","","Geoff","Liberal","Libéral",Y,Y,65
+12006,"Halifax West","Halifax-Ouest"," 79A","Halifax",N,N,"",0,213,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 79B","Halifax",N,N,"",0,232,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 79B","Halifax",N,N,"",0,232,"McGinnis","","Michael","Conservative","Conservateur",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 79B","Halifax",N,N,"",0,232,"Regan","","Geoff","Liberal","Libéral",Y,Y,82
+12006,"Halifax West","Halifax-Ouest"," 79B","Halifax",N,N,"",0,232,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 80","Halifax",N,N,"",2,360,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12006,"Halifax West","Halifax-Ouest"," 80","Halifax",N,N,"",2,360,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 80","Halifax",N,N,"",2,360,"Regan","","Geoff","Liberal","Libéral",Y,Y,107
+12006,"Halifax West","Halifax-Ouest"," 80","Halifax",N,N,"",2,360,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 81","Halifax",N,N,"",0,300,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 81","Halifax",N,N,"",0,300,"McGinnis","","Michael","Conservative","Conservateur",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 81","Halifax",N,N,"",0,300,"Regan","","Geoff","Liberal","Libéral",Y,Y,77
+12006,"Halifax West","Halifax-Ouest"," 81","Halifax",N,N,"",0,300,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 82","Halifax",N,N,"",0,393,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 82","Halifax",N,N,"",0,393,"McGinnis","","Michael","Conservative","Conservateur",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 82","Halifax",N,N,"",0,393,"Regan","","Geoff","Liberal","Libéral",Y,Y,93
+12006,"Halifax West","Halifax-Ouest"," 82","Halifax",N,N,"",0,393,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 83","Halifax",N,N,"",2,347,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12006,"Halifax West","Halifax-Ouest"," 83","Halifax",N,N,"",2,347,"McGinnis","","Michael","Conservative","Conservateur",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 83","Halifax",N,N,"",2,347,"Regan","","Geoff","Liberal","Libéral",Y,Y,103
+12006,"Halifax West","Halifax-Ouest"," 83","Halifax",N,N,"",2,347,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 84","Halifax",N,N,"",0,425,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12006,"Halifax West","Halifax-Ouest"," 84","Halifax",N,N,"",0,425,"McGinnis","","Michael","Conservative","Conservateur",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 84","Halifax",N,N,"",0,425,"Regan","","Geoff","Liberal","Libéral",Y,Y,108
+12006,"Halifax West","Halifax-Ouest"," 84","Halifax",N,N,"",0,425,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 85","Halifax",N,N,"",0,363,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 85","Halifax",N,N,"",0,363,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 85","Halifax",N,N,"",0,363,"Regan","","Geoff","Liberal","Libéral",Y,Y,143
+12006,"Halifax West","Halifax-Ouest"," 85","Halifax",N,N,"",0,363,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 86","Halifax",N,N,"",0,364,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 86","Halifax",N,N,"",0,364,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 86","Halifax",N,N,"",0,364,"Regan","","Geoff","Liberal","Libéral",Y,Y,112
+12006,"Halifax West","Halifax-Ouest"," 86","Halifax",N,N,"",0,364,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 87","Halifax",N,N,"",0,388,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 87","Halifax",N,N,"",0,388,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 87","Halifax",N,N,"",0,388,"Regan","","Geoff","Liberal","Libéral",Y,Y,131
+12006,"Halifax West","Halifax-Ouest"," 87","Halifax",N,N,"",0,388,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 88","Halifax",N,N,"",0,348,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 88","Halifax",N,N,"",0,348,"McGinnis","","Michael","Conservative","Conservateur",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 88","Halifax",N,N,"",0,348,"Regan","","Geoff","Liberal","Libéral",Y,Y,112
+12006,"Halifax West","Halifax-Ouest"," 88","Halifax",N,N,"",0,348,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 89","Halifax",N,N,"",1,378,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12006,"Halifax West","Halifax-Ouest"," 89","Halifax",N,N,"",1,378,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 89","Halifax",N,N,"",1,378,"Regan","","Geoff","Liberal","Libéral",Y,Y,77
+12006,"Halifax West","Halifax-Ouest"," 89","Halifax",N,N,"",1,378,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 90","Halifax",N,N,"",2,400,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12006,"Halifax West","Halifax-Ouest"," 90","Halifax",N,N,"",2,400,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 90","Halifax",N,N,"",2,400,"Regan","","Geoff","Liberal","Libéral",Y,Y,103
+12006,"Halifax West","Halifax-Ouest"," 90","Halifax",N,N,"",2,400,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 91","Halifax",N,N,"",1,481,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+12006,"Halifax West","Halifax-Ouest"," 91","Halifax",N,N,"",1,481,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 91","Halifax",N,N,"",1,481,"Regan","","Geoff","Liberal","Libéral",Y,Y,146
+12006,"Halifax West","Halifax-Ouest"," 91","Halifax",N,N,"",1,481,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 92","Halifax",N,N,"",0,369,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 92","Halifax",N,N,"",0,369,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 92","Halifax",N,N,"",0,369,"Regan","","Geoff","Liberal","Libéral",Y,Y,138
+12006,"Halifax West","Halifax-Ouest"," 92","Halifax",N,N,"",0,369,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 93","Halifax",N,N,"",2,351,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 93","Halifax",N,N,"",2,351,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 93","Halifax",N,N,"",2,351,"Regan","","Geoff","Liberal","Libéral",Y,Y,117
+12006,"Halifax West","Halifax-Ouest"," 93","Halifax",N,N,"",2,351,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 94","Halifax",N,N,"",0,442,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 94","Halifax",N,N,"",0,442,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 94","Halifax",N,N,"",0,442,"Regan","","Geoff","Liberal","Libéral",Y,Y,115
+12006,"Halifax West","Halifax-Ouest"," 94","Halifax",N,N,"",0,442,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 95","Halifax",N,N,"",0,467,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 95","Halifax",N,N,"",0,467,"McGinnis","","Michael","Conservative","Conservateur",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 95","Halifax",N,N,"",0,467,"Regan","","Geoff","Liberal","Libéral",Y,Y,140
+12006,"Halifax West","Halifax-Ouest"," 95","Halifax",N,N,"",0,467,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 96A","Halifax",N,N,"",0,225,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 96A","Halifax",N,N,"",0,225,"McGinnis","","Michael","Conservative","Conservateur",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 96A","Halifax",N,N,"",0,225,"Regan","","Geoff","Liberal","Libéral",Y,Y,63
+12006,"Halifax West","Halifax-Ouest"," 96A","Halifax",N,N,"",0,225,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 96B","Halifax",N,N,"",0,190,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 96B","Halifax",N,N,"",0,190,"McGinnis","","Michael","Conservative","Conservateur",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 96B","Halifax",N,N,"",0,190,"Regan","","Geoff","Liberal","Libéral",Y,Y,46
+12006,"Halifax West","Halifax-Ouest"," 96B","Halifax",N,N,"",0,190,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 97","Halifax",N,N,"",0,527,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12006,"Halifax West","Halifax-Ouest"," 97","Halifax",N,N,"",0,527,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 97","Halifax",N,N,"",0,527,"Regan","","Geoff","Liberal","Libéral",Y,Y,170
+12006,"Halifax West","Halifax-Ouest"," 97","Halifax",N,N,"",0,527,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 98","Halifax",N,N,"",2,521,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12006,"Halifax West","Halifax-Ouest"," 98","Halifax",N,N,"",2,521,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 98","Halifax",N,N,"",2,521,"Regan","","Geoff","Liberal","Libéral",Y,Y,187
+12006,"Halifax West","Halifax-Ouest"," 98","Halifax",N,N,"",2,521,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 99","Halifax",N,N,"",0,393,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 99","Halifax",N,N,"",0,393,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 99","Halifax",N,N,"",0,393,"Regan","","Geoff","Liberal","Libéral",Y,Y,135
+12006,"Halifax West","Halifax-Ouest"," 99","Halifax",N,N,"",0,393,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 100","Halifax",N,N,"",1,333,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 100","Halifax",N,N,"",1,333,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 100","Halifax",N,N,"",1,333,"Regan","","Geoff","Liberal","Libéral",Y,Y,122
+12006,"Halifax West","Halifax-Ouest"," 100","Halifax",N,N,"",1,333,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 101","Halifax",N,N,"",1,387,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 101","Halifax",N,N,"",1,387,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 101","Halifax",N,N,"",1,387,"Regan","","Geoff","Liberal","Libéral",Y,Y,142
+12006,"Halifax West","Halifax-Ouest"," 101","Halifax",N,N,"",1,387,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 102","Halifax",N,N,"",1,289,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 102","Halifax",N,N,"",1,289,"McGinnis","","Michael","Conservative","Conservateur",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 102","Halifax",N,N,"",1,289,"Regan","","Geoff","Liberal","Libéral",Y,Y,100
+12006,"Halifax West","Halifax-Ouest"," 102","Halifax",N,N,"",1,289,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 102-1","Halifax",N,N,"",0,327,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 102-1","Halifax",N,N,"",0,327,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 102-1","Halifax",N,N,"",0,327,"Regan","","Geoff","Liberal","Libéral",Y,Y,126
+12006,"Halifax West","Halifax-Ouest"," 102-1","Halifax",N,N,"",0,327,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 103A","Halifax",N,N,"",0,364,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 103A","Halifax",N,N,"",0,364,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 103A","Halifax",N,N,"",0,364,"Regan","","Geoff","Liberal","Libéral",Y,Y,147
+12006,"Halifax West","Halifax-Ouest"," 103A","Halifax",N,N,"",0,364,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 103B","Halifax",N,N,"",0,332,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 103B","Halifax",N,N,"",0,332,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 103B","Halifax",N,N,"",0,332,"Regan","","Geoff","Liberal","Libéral",Y,Y,108
+12006,"Halifax West","Halifax-Ouest"," 103B","Halifax",N,N,"",0,332,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 104A","Halifax",N,N,"",0,268,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 104A","Halifax",N,N,"",0,268,"McGinnis","","Michael","Conservative","Conservateur",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 104A","Halifax",N,N,"",0,268,"Regan","","Geoff","Liberal","Libéral",Y,Y,102
+12006,"Halifax West","Halifax-Ouest"," 104A","Halifax",N,N,"",0,268,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 104B","Halifax",N,N,"",2,273,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 104B","Halifax",N,N,"",2,273,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 104B","Halifax",N,N,"",2,273,"Regan","","Geoff","Liberal","Libéral",Y,Y,89
+12006,"Halifax West","Halifax-Ouest"," 104B","Halifax",N,N,"",2,273,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 104-1A","Halifax",N,N,"",1,224,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 104-1A","Halifax",N,N,"",1,224,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 104-1A","Halifax",N,N,"",1,224,"Regan","","Geoff","Liberal","Libéral",Y,Y,69
+12006,"Halifax West","Halifax-Ouest"," 104-1A","Halifax",N,N,"",1,224,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 104-1B","Halifax",N,N,"",0,244,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 104-1B","Halifax",N,N,"",0,244,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 104-1B","Halifax",N,N,"",0,244,"Regan","","Geoff","Liberal","Libéral",Y,Y,67
+12006,"Halifax West","Halifax-Ouest"," 104-1B","Halifax",N,N,"",0,244,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 105","Kearney Lake",N,N,"",2,433,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 105","Kearney Lake",N,N,"",2,433,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 105","Kearney Lake",N,N,"",2,433,"Regan","","Geoff","Liberal","Libéral",Y,Y,114
+12006,"Halifax West","Halifax-Ouest"," 105","Kearney Lake",N,N,"",2,433,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 106A","Halifax",N,N,"",1,245,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 106A","Halifax",N,N,"",1,245,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 106A","Halifax",N,N,"",1,245,"Regan","","Geoff","Liberal","Libéral",Y,Y,97
+12006,"Halifax West","Halifax-Ouest"," 106A","Halifax",N,N,"",1,245,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 106B","Halifax",N,N,"",0,208,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 106B","Halifax",N,N,"",0,208,"McGinnis","","Michael","Conservative","Conservateur",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 106B","Halifax",N,N,"",0,208,"Regan","","Geoff","Liberal","Libéral",Y,Y,84
+12006,"Halifax West","Halifax-Ouest"," 106B","Halifax",N,N,"",0,208,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 107","Halifax",N,N,"",0,443,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 107","Halifax",N,N,"",0,443,"McGinnis","","Michael","Conservative","Conservateur",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 107","Halifax",N,N,"",0,443,"Regan","","Geoff","Liberal","Libéral",Y,Y,165
+12006,"Halifax West","Halifax-Ouest"," 107","Halifax",N,N,"",0,443,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 108","Halifax",N,N,"",1,369,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12006,"Halifax West","Halifax-Ouest"," 108","Halifax",N,N,"",1,369,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 108","Halifax",N,N,"",1,369,"Regan","","Geoff","Liberal","Libéral",Y,Y,160
+12006,"Halifax West","Halifax-Ouest"," 108","Halifax",N,N,"",1,369,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 109","Halifax",N,N,"",1,241,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 109","Halifax",N,N,"",1,241,"McGinnis","","Michael","Conservative","Conservateur",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 109","Halifax",N,N,"",1,241,"Regan","","Geoff","Liberal","Libéral",Y,Y,88
+12006,"Halifax West","Halifax-Ouest"," 109","Halifax",N,N,"",1,241,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 109-1","Halifax",N,N,"",1,330,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 109-1","Halifax",N,N,"",1,330,"McGinnis","","Michael","Conservative","Conservateur",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 109-1","Halifax",N,N,"",1,330,"Regan","","Geoff","Liberal","Libéral",Y,Y,120
+12006,"Halifax West","Halifax-Ouest"," 109-1","Halifax",N,N,"",1,330,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 110","Halifax",N,N,"",1,390,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 110","Halifax",N,N,"",1,390,"McGinnis","","Michael","Conservative","Conservateur",N,N,34
+12006,"Halifax West","Halifax-Ouest"," 110","Halifax",N,N,"",1,390,"Regan","","Geoff","Liberal","Libéral",Y,Y,142
+12006,"Halifax West","Halifax-Ouest"," 110","Halifax",N,N,"",1,390,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 111","Halifax",N,N,"",0,349,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 111","Halifax",N,N,"",0,349,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 111","Halifax",N,N,"",0,349,"Regan","","Geoff","Liberal","Libéral",Y,Y,112
+12006,"Halifax West","Halifax-Ouest"," 111","Halifax",N,N,"",0,349,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 112A","Halifax",N,N,"",0,246,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 112A","Halifax",N,N,"",0,246,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 112A","Halifax",N,N,"",0,246,"Regan","","Geoff","Liberal","Libéral",Y,Y,115
+12006,"Halifax West","Halifax-Ouest"," 112A","Halifax",N,N,"",0,246,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 112B","Halifax",N,N,"",0,250,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 112B","Halifax",N,N,"",0,250,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 112B","Halifax",N,N,"",0,250,"Regan","","Geoff","Liberal","Libéral",Y,Y,101
+12006,"Halifax West","Halifax-Ouest"," 112B","Halifax",N,N,"",0,250,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 113A","Halifax",N,N,"",0,232,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 113A","Halifax",N,N,"",0,232,"McGinnis","","Michael","Conservative","Conservateur",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 113A","Halifax",N,N,"",0,232,"Regan","","Geoff","Liberal","Libéral",Y,Y,82
+12006,"Halifax West","Halifax-Ouest"," 113A","Halifax",N,N,"",0,232,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 113B","Halifax",N,N,"",0,205,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 113B","Halifax",N,N,"",0,205,"McGinnis","","Michael","Conservative","Conservateur",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 113B","Halifax",N,N,"",0,205,"Regan","","Geoff","Liberal","Libéral",Y,Y,74
+12006,"Halifax West","Halifax-Ouest"," 113B","Halifax",N,N,"",0,205,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 114","Halifax",N,N,"",0,398,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 114","Halifax",N,N,"",0,398,"McGinnis","","Michael","Conservative","Conservateur",N,N,34
+12006,"Halifax West","Halifax-Ouest"," 114","Halifax",N,N,"",0,398,"Regan","","Geoff","Liberal","Libéral",Y,Y,127
+12006,"Halifax West","Halifax-Ouest"," 114","Halifax",N,N,"",0,398,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 115","Halifax",N,N,"",0,380,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 115","Halifax",N,N,"",0,380,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 115","Halifax",N,N,"",0,380,"Regan","","Geoff","Liberal","Libéral",Y,Y,110
+12006,"Halifax West","Halifax-Ouest"," 115","Halifax",N,N,"",0,380,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 116","Halifax",N,N,"",0,414,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 116","Halifax",N,N,"",0,414,"McGinnis","","Michael","Conservative","Conservateur",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 116","Halifax",N,N,"",0,414,"Regan","","Geoff","Liberal","Libéral",Y,Y,127
+12006,"Halifax West","Halifax-Ouest"," 116","Halifax",N,N,"",0,414,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 117A","Halifax",N,N,"",0,244,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 117A","Halifax",N,N,"",0,244,"McGinnis","","Michael","Conservative","Conservateur",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 117A","Halifax",N,N,"",0,244,"Regan","","Geoff","Liberal","Libéral",Y,Y,72
+12006,"Halifax West","Halifax-Ouest"," 117A","Halifax",N,N,"",0,244,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 117B","Halifax",N,N,"",0,233,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 117B","Halifax",N,N,"",0,233,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 117B","Halifax",N,N,"",0,233,"Regan","","Geoff","Liberal","Libéral",Y,Y,81
+12006,"Halifax West","Halifax-Ouest"," 117B","Halifax",N,N,"",0,233,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 118","Halifax",N,N,"",0,347,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 118","Halifax",N,N,"",0,347,"McGinnis","","Michael","Conservative","Conservateur",N,N,36
+12006,"Halifax West","Halifax-Ouest"," 118","Halifax",N,N,"",0,347,"Regan","","Geoff","Liberal","Libéral",Y,Y,109
+12006,"Halifax West","Halifax-Ouest"," 118","Halifax",N,N,"",0,347,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 118-1","Halifax",N,N,"",0,137,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 118-1","Halifax",N,N,"",0,137,"McGinnis","","Michael","Conservative","Conservateur",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 118-1","Halifax",N,N,"",0,137,"Regan","","Geoff","Liberal","Libéral",Y,Y,31
+12006,"Halifax West","Halifax-Ouest"," 118-1","Halifax",N,N,"",0,137,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 119","Halifax",N,N,"",0,380,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 119","Halifax",N,N,"",0,380,"McGinnis","","Michael","Conservative","Conservateur",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 119","Halifax",N,N,"",0,380,"Regan","","Geoff","Liberal","Libéral",Y,Y,110
+12006,"Halifax West","Halifax-Ouest"," 119","Halifax",N,N,"",0,380,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 120","Halifax",N,N,"",0,397,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 120","Halifax",N,N,"",0,397,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 120","Halifax",N,N,"",0,397,"Regan","","Geoff","Liberal","Libéral",Y,Y,102
+12006,"Halifax West","Halifax-Ouest"," 120","Halifax",N,N,"",0,397,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 121A","Halifax",N,N,"",0,337,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 121A","Halifax",N,N,"",0,337,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 121A","Halifax",N,N,"",0,337,"Regan","","Geoff","Liberal","Libéral",Y,Y,78
+12006,"Halifax West","Halifax-Ouest"," 121A","Halifax",N,N,"",0,337,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 121B","Halifax",N,N,"400",0,95,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 121B","Halifax",N,N,"400",0,95,"McGinnis","","Michael","Conservative","Conservateur",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 121B","Halifax",N,N,"400",0,95,"Regan","","Geoff","Liberal","Libéral",Y,Y,0
+12006,"Halifax West","Halifax-Ouest"," 121B","Halifax",N,N,"400",0,95,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 122","Halifax",N,N,"",0,441,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 122","Halifax",N,N,"",0,441,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 122","Halifax",N,N,"",0,441,"Regan","","Geoff","Liberal","Libéral",Y,Y,130
+12006,"Halifax West","Halifax-Ouest"," 122","Halifax",N,N,"",0,441,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 123","Halifax",N,N,"",0,362,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 123","Halifax",N,N,"",0,362,"McGinnis","","Michael","Conservative","Conservateur",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 123","Halifax",N,N,"",0,362,"Regan","","Geoff","Liberal","Libéral",Y,Y,108
+12006,"Halifax West","Halifax-Ouest"," 123","Halifax",N,N,"",0,362,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 124A","Halifax",N,N,"",3,263,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 124A","Halifax",N,N,"",3,263,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 124A","Halifax",N,N,"",3,263,"Regan","","Geoff","Liberal","Libéral",Y,Y,71
+12006,"Halifax West","Halifax-Ouest"," 124A","Halifax",N,N,"",3,263,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 124B","Halifax",N,N,"",1,279,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 124B","Halifax",N,N,"",1,279,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 124B","Halifax",N,N,"",1,279,"Regan","","Geoff","Liberal","Libéral",Y,Y,80
+12006,"Halifax West","Halifax-Ouest"," 124B","Halifax",N,N,"",1,279,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 125","Halifax",N,N,"",0,316,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 125","Halifax",N,N,"",0,316,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 125","Halifax",N,N,"",0,316,"Regan","","Geoff","Liberal","Libéral",Y,Y,87
+12006,"Halifax West","Halifax-Ouest"," 125","Halifax",N,N,"",0,316,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 126A","Halifax",N,N,"",1,264,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 126A","Halifax",N,N,"",1,264,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 126A","Halifax",N,N,"",1,264,"Regan","","Geoff","Liberal","Libéral",Y,Y,63
+12006,"Halifax West","Halifax-Ouest"," 126A","Halifax",N,N,"",1,264,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 126B","Halifax",N,N,"",0,254,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 126B","Halifax",N,N,"",0,254,"McGinnis","","Michael","Conservative","Conservateur",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 126B","Halifax",N,N,"",0,254,"Regan","","Geoff","Liberal","Libéral",Y,Y,68
+12006,"Halifax West","Halifax-Ouest"," 126B","Halifax",N,N,"",0,254,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 127A","Halifax",N,N,"",1,228,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 127A","Halifax",N,N,"",1,228,"McGinnis","","Michael","Conservative","Conservateur",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 127A","Halifax",N,N,"",1,228,"Regan","","Geoff","Liberal","Libéral",Y,Y,55
+12006,"Halifax West","Halifax-Ouest"," 127A","Halifax",N,N,"",1,228,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 127B","Halifax",N,N,"",0,227,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 127B","Halifax",N,N,"",0,227,"McGinnis","","Michael","Conservative","Conservateur",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 127B","Halifax",N,N,"",0,227,"Regan","","Geoff","Liberal","Libéral",Y,Y,51
+12006,"Halifax West","Halifax-Ouest"," 127B","Halifax",N,N,"",0,227,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 128A","Halifax",N,N,"",0,248,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 128A","Halifax",N,N,"",0,248,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 128A","Halifax",N,N,"",0,248,"Regan","","Geoff","Liberal","Libéral",Y,Y,54
+12006,"Halifax West","Halifax-Ouest"," 128A","Halifax",N,N,"",0,248,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 128B","Halifax",N,N,"",0,225,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 128B","Halifax",N,N,"",0,225,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 128B","Halifax",N,N,"",0,225,"Regan","","Geoff","Liberal","Libéral",Y,Y,62
+12006,"Halifax West","Halifax-Ouest"," 128B","Halifax",N,N,"",0,225,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 129A","Halifax",N,N,"",0,299,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 129A","Halifax",N,N,"",0,299,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 129A","Halifax",N,N,"",0,299,"Regan","","Geoff","Liberal","Libéral",Y,Y,76
+12006,"Halifax West","Halifax-Ouest"," 129A","Halifax",N,N,"",0,299,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 129B","Halifax",N,N,"",0,276,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 129B","Halifax",N,N,"",0,276,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 129B","Halifax",N,N,"",0,276,"Regan","","Geoff","Liberal","Libéral",Y,Y,91
+12006,"Halifax West","Halifax-Ouest"," 129B","Halifax",N,N,"",0,276,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 130","Halifax",N,N,"",0,326,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 130","Halifax",N,N,"",0,326,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 130","Halifax",N,N,"",0,326,"Regan","","Geoff","Liberal","Libéral",Y,Y,117
+12006,"Halifax West","Halifax-Ouest"," 130","Halifax",N,N,"",0,326,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 131A","Halifax",N,N,"",0,243,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 131A","Halifax",N,N,"",0,243,"McGinnis","","Michael","Conservative","Conservateur",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 131A","Halifax",N,N,"",0,243,"Regan","","Geoff","Liberal","Libéral",Y,Y,82
+12006,"Halifax West","Halifax-Ouest"," 131A","Halifax",N,N,"",0,243,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 131B","Halifax",N,N,"",1,227,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 131B","Halifax",N,N,"",1,227,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 131B","Halifax",N,N,"",1,227,"Regan","","Geoff","Liberal","Libéral",Y,Y,71
+12006,"Halifax West","Halifax-Ouest"," 131B","Halifax",N,N,"",1,227,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 132A","Halifax",N,N,"",0,238,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 132A","Halifax",N,N,"",0,238,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 132A","Halifax",N,N,"",0,238,"Regan","","Geoff","Liberal","Libéral",Y,Y,54
+12006,"Halifax West","Halifax-Ouest"," 132A","Halifax",N,N,"",0,238,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 132B","Halifax",N,N,"",0,221,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 132B","Halifax",N,N,"",0,221,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 132B","Halifax",N,N,"",0,221,"Regan","","Geoff","Liberal","Libéral",Y,Y,80
+12006,"Halifax West","Halifax-Ouest"," 132B","Halifax",N,N,"",0,221,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 133","Halifax",N,N,"",0,399,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 133","Halifax",N,N,"",0,399,"McGinnis","","Michael","Conservative","Conservateur",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 133","Halifax",N,N,"",0,399,"Regan","","Geoff","Liberal","Libéral",Y,Y,132
+12006,"Halifax West","Halifax-Ouest"," 133","Halifax",N,N,"",0,399,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 134","Timberlea",N,N,"",1,371,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 134","Timberlea",N,N,"",1,371,"McGinnis","","Michael","Conservative","Conservateur",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 134","Timberlea",N,N,"",1,371,"Regan","","Geoff","Liberal","Libéral",Y,Y,133
+12006,"Halifax West","Halifax-Ouest"," 134","Timberlea",N,N,"",1,371,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 135","Lakeside",N,N,"",2,352,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 135","Lakeside",N,N,"",2,352,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 135","Lakeside",N,N,"",2,352,"Regan","","Geoff","Liberal","Libéral",Y,Y,124
+12006,"Halifax West","Halifax-Ouest"," 135","Lakeside",N,N,"",2,352,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 136","Timberlea",N,N,"",2,423,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 136","Timberlea",N,N,"",2,423,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 136","Timberlea",N,N,"",2,423,"Regan","","Geoff","Liberal","Libéral",Y,Y,147
+12006,"Halifax West","Halifax-Ouest"," 136","Timberlea",N,N,"",2,423,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 137","Timberlea",N,N,"",1,523,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 137","Timberlea",N,N,"",1,523,"McGinnis","","Michael","Conservative","Conservateur",N,N,56
+12006,"Halifax West","Halifax-Ouest"," 137","Timberlea",N,N,"",1,523,"Regan","","Geoff","Liberal","Libéral",Y,Y,220
+12006,"Halifax West","Halifax-Ouest"," 137","Timberlea",N,N,"",1,523,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 138","Timberlea",N,N,"",0,405,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 138","Timberlea",N,N,"",0,405,"McGinnis","","Michael","Conservative","Conservateur",N,N,28
+12006,"Halifax West","Halifax-Ouest"," 138","Timberlea",N,N,"",0,405,"Regan","","Geoff","Liberal","Libéral",Y,Y,169
+12006,"Halifax West","Halifax-Ouest"," 138","Timberlea",N,N,"",0,405,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 139","Highland Park",N,N,"",0,334,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 139","Highland Park",N,N,"",0,334,"McGinnis","","Michael","Conservative","Conservateur",N,N,29
+12006,"Halifax West","Halifax-Ouest"," 139","Highland Park",N,N,"",0,334,"Regan","","Geoff","Liberal","Libéral",Y,Y,105
+12006,"Halifax West","Halifax-Ouest"," 139","Highland Park",N,N,"",0,334,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 139-1","Highland Park",N,N,"",1,335,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 139-1","Highland Park",N,N,"",1,335,"McGinnis","","Michael","Conservative","Conservateur",N,N,34
+12006,"Halifax West","Halifax-Ouest"," 139-1","Highland Park",N,N,"",1,335,"Regan","","Geoff","Liberal","Libéral",Y,Y,123
+12006,"Halifax West","Halifax-Ouest"," 139-1","Highland Park",N,N,"",1,335,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 140A","Highland Park",N,N,"",0,241,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 140A","Highland Park",N,N,"",0,241,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 140A","Highland Park",N,N,"",0,241,"Regan","","Geoff","Liberal","Libéral",Y,Y,78
+12006,"Halifax West","Halifax-Ouest"," 140A","Highland Park",N,N,"",0,241,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 140B","Highland Park",N,N,"",0,229,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 140B","Highland Park",N,N,"",0,229,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 140B","Highland Park",N,N,"",0,229,"Regan","","Geoff","Liberal","Libéral",Y,Y,60
+12006,"Halifax West","Halifax-Ouest"," 140B","Highland Park",N,N,"",0,229,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 141","Highland Park",N,N,"",1,255,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 141","Highland Park",N,N,"",1,255,"McGinnis","","Michael","Conservative","Conservateur",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 141","Highland Park",N,N,"",1,255,"Regan","","Geoff","Liberal","Libéral",Y,Y,100
+12006,"Halifax West","Halifax-Ouest"," 141","Highland Park",N,N,"",1,255,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 142","Highland Park",N,N,"",0,410,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 142","Highland Park",N,N,"",0,410,"McGinnis","","Michael","Conservative","Conservateur",N,N,33
+12006,"Halifax West","Halifax-Ouest"," 142","Highland Park",N,N,"",0,410,"Regan","","Geoff","Liberal","Libéral",Y,Y,139
+12006,"Halifax West","Halifax-Ouest"," 142","Highland Park",N,N,"",0,410,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 143","Stillwater Lake",N,N,"",0,416,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 143","Stillwater Lake",N,N,"",0,416,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 143","Stillwater Lake",N,N,"",0,416,"Regan","","Geoff","Liberal","Libéral",Y,Y,172
+12006,"Halifax West","Halifax-Ouest"," 143","Stillwater Lake",N,N,"",0,416,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 144","Stillwater Lake",N,N,"",1,450,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 144","Stillwater Lake",N,N,"",1,450,"McGinnis","","Michael","Conservative","Conservateur",N,N,62
+12006,"Halifax West","Halifax-Ouest"," 144","Stillwater Lake",N,N,"",1,450,"Regan","","Geoff","Liberal","Libéral",Y,Y,138
+12006,"Halifax West","Halifax-Ouest"," 144","Stillwater Lake",N,N,"",1,450,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 145","Upper Tantalon",N,N,"",0,441,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 145","Upper Tantalon",N,N,"",0,441,"McGinnis","","Michael","Conservative","Conservateur",N,N,48
+12006,"Halifax West","Halifax-Ouest"," 145","Upper Tantalon",N,N,"",0,441,"Regan","","Geoff","Liberal","Libéral",Y,Y,159
+12006,"Halifax West","Halifax-Ouest"," 145","Upper Tantalon",N,N,"",0,441,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 146","Stillwater Lake",N,N,"",0,387,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12006,"Halifax West","Halifax-Ouest"," 146","Stillwater Lake",N,N,"",0,387,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 146","Stillwater Lake",N,N,"",0,387,"Regan","","Geoff","Liberal","Libéral",Y,Y,139
+12006,"Halifax West","Halifax-Ouest"," 146","Stillwater Lake",N,N,"",0,387,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 147","Lakeside",N,N,"",1,322,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 147","Lakeside",N,N,"",1,322,"McGinnis","","Michael","Conservative","Conservateur",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 147","Lakeside",N,N,"",1,322,"Regan","","Geoff","Liberal","Libéral",Y,Y,91
+12006,"Halifax West","Halifax-Ouest"," 147","Lakeside",N,N,"",1,322,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 148A","Lakeside",N,N,"",1,233,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 148A","Lakeside",N,N,"",1,233,"McGinnis","","Michael","Conservative","Conservateur",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 148A","Lakeside",N,N,"",1,233,"Regan","","Geoff","Liberal","Libéral",Y,Y,94
+12006,"Halifax West","Halifax-Ouest"," 148A","Lakeside",N,N,"",1,233,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 148B","Lakeside",N,N,"",0,246,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 148B","Lakeside",N,N,"",0,246,"McGinnis","","Michael","Conservative","Conservateur",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 148B","Lakeside",N,N,"",0,246,"Regan","","Geoff","Liberal","Libéral",Y,Y,77
+12006,"Halifax West","Halifax-Ouest"," 148B","Lakeside",N,N,"",0,246,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 149","Lakeside",N,N,"",0,388,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 149","Lakeside",N,N,"",0,388,"McGinnis","","Michael","Conservative","Conservateur",N,N,23
+12006,"Halifax West","Halifax-Ouest"," 149","Lakeside",N,N,"",0,388,"Regan","","Geoff","Liberal","Libéral",Y,Y,141
+12006,"Halifax West","Halifax-Ouest"," 149","Lakeside",N,N,"",0,388,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 150","Beechville",N,N,"",0,432,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12006,"Halifax West","Halifax-Ouest"," 150","Beechville",N,N,"",0,432,"McGinnis","","Michael","Conservative","Conservateur",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 150","Beechville",N,N,"",0,432,"Regan","","Geoff","Liberal","Libéral",Y,Y,178
+12006,"Halifax West","Halifax-Ouest"," 150","Beechville",N,N,"",0,432,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 151A","Beechville",N,N,"",0,240,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 151A","Beechville",N,N,"",0,240,"McGinnis","","Michael","Conservative","Conservateur",N,N,9
+12006,"Halifax West","Halifax-Ouest"," 151A","Beechville",N,N,"",0,240,"Regan","","Geoff","Liberal","Libéral",Y,Y,78
+12006,"Halifax West","Halifax-Ouest"," 151A","Beechville",N,N,"",0,240,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 151B","Beechville",N,N,"",0,218,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 151B","Beechville",N,N,"",0,218,"McGinnis","","Michael","Conservative","Conservateur",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 151B","Beechville",N,N,"",0,218,"Regan","","Geoff","Liberal","Libéral",Y,Y,97
+12006,"Halifax West","Halifax-Ouest"," 151B","Beechville",N,N,"",0,218,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 152A","Timberlea",N,N,"",0,286,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12006,"Halifax West","Halifax-Ouest"," 152A","Timberlea",N,N,"",0,286,"McGinnis","","Michael","Conservative","Conservateur",N,N,18
+12006,"Halifax West","Halifax-Ouest"," 152A","Timberlea",N,N,"",0,286,"Regan","","Geoff","Liberal","Libéral",Y,Y,94
+12006,"Halifax West","Halifax-Ouest"," 152A","Timberlea",N,N,"",0,286,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 152B","Timberlea",N,N,"",0,243,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 152B","Timberlea",N,N,"",0,243,"McGinnis","","Michael","Conservative","Conservateur",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 152B","Timberlea",N,N,"",0,243,"Regan","","Geoff","Liberal","Libéral",Y,Y,94
+12006,"Halifax West","Halifax-Ouest"," 152B","Timberlea",N,N,"",0,243,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 153A","Timberlea",N,N,"",0,222,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 153A","Timberlea",N,N,"",0,222,"McGinnis","","Michael","Conservative","Conservateur",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 153A","Timberlea",N,N,"",0,222,"Regan","","Geoff","Liberal","Libéral",Y,Y,88
+12006,"Halifax West","Halifax-Ouest"," 153A","Timberlea",N,N,"",0,222,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,3
+12006,"Halifax West","Halifax-Ouest"," 153B","Timberlea",N,N,"",0,222,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 153B","Timberlea",N,N,"",0,222,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 153B","Timberlea",N,N,"",0,222,"Regan","","Geoff","Liberal","Libéral",Y,Y,90
+12006,"Halifax West","Halifax-Ouest"," 153B","Timberlea",N,N,"",0,222,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 154","Timberlea",N,N,"",0,480,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12006,"Halifax West","Halifax-Ouest"," 154","Timberlea",N,N,"",0,480,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 154","Timberlea",N,N,"",0,480,"Regan","","Geoff","Liberal","Libéral",Y,Y,172
+12006,"Halifax West","Halifax-Ouest"," 154","Timberlea",N,N,"",0,480,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 155A","Timberlea",N,N,"",0,214,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 155A","Timberlea",N,N,"",0,214,"McGinnis","","Michael","Conservative","Conservateur",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 155A","Timberlea",N,N,"",0,214,"Regan","","Geoff","Liberal","Libéral",Y,Y,81
+12006,"Halifax West","Halifax-Ouest"," 155A","Timberlea",N,N,"",0,214,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,4
+12006,"Halifax West","Halifax-Ouest"," 155B","Timberlea",N,N,"",0,212,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 155B","Timberlea",N,N,"",0,212,"McGinnis","","Michael","Conservative","Conservateur",N,N,16
+12006,"Halifax West","Halifax-Ouest"," 155B","Timberlea",N,N,"",0,212,"Regan","","Geoff","Liberal","Libéral",Y,Y,67
+12006,"Halifax West","Halifax-Ouest"," 155B","Timberlea",N,N,"",0,212,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 156","Timberlea",N,N,"",0,407,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12006,"Halifax West","Halifax-Ouest"," 156","Timberlea",N,N,"",0,407,"McGinnis","","Michael","Conservative","Conservateur",N,N,22
+12006,"Halifax West","Halifax-Ouest"," 156","Timberlea",N,N,"",0,407,"Regan","","Geoff","Liberal","Libéral",Y,Y,148
+12006,"Halifax West","Halifax-Ouest"," 156","Timberlea",N,N,"",0,407,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,10
+12006,"Halifax West","Halifax-Ouest"," 157","Lakeside",N,N,"",0,397,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 157","Lakeside",N,N,"",0,397,"McGinnis","","Michael","Conservative","Conservateur",N,N,21
+12006,"Halifax West","Halifax-Ouest"," 157","Lakeside",N,N,"",0,397,"Regan","","Geoff","Liberal","Libéral",Y,Y,156
+12006,"Halifax West","Halifax-Ouest"," 157","Lakeside",N,N,"",0,397,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 158","Lakeside",N,N,"",1,415,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12006,"Halifax West","Halifax-Ouest"," 158","Lakeside",N,N,"",1,415,"McGinnis","","Michael","Conservative","Conservateur",N,N,40
+12006,"Halifax West","Halifax-Ouest"," 158","Lakeside",N,N,"",1,415,"Regan","","Geoff","Liberal","Libéral",Y,Y,169
+12006,"Halifax West","Halifax-Ouest"," 158","Lakeside",N,N,"",1,415,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 400","Halifax",N,N,"",2,41,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 400","Halifax",N,N,"",2,41,"McGinnis","","Michael","Conservative","Conservateur",N,N,40
+12006,"Halifax West","Halifax-Ouest"," 400","Halifax",N,N,"",2,41,"Regan","","Geoff","Liberal","Libéral",Y,Y,110
+12006,"Halifax West","Halifax-Ouest"," 400","Halifax",N,N,"",2,41,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,5
+12006,"Halifax West","Halifax-Ouest"," 401","Halifax",N,N,"",0,192,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12006,"Halifax West","Halifax-Ouest"," 401","Halifax",N,N,"",0,192,"McGinnis","","Michael","Conservative","Conservateur",N,N,15
+12006,"Halifax West","Halifax-Ouest"," 401","Halifax",N,N,"",0,192,"Regan","","Geoff","Liberal","Libéral",Y,Y,45
+12006,"Halifax West","Halifax-Ouest"," 401","Halifax",N,N,"",0,192,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,1
+12006,"Halifax West","Halifax-Ouest"," 402","Sandy Lake ",N,N,"",2,164,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12006,"Halifax West","Halifax-Ouest"," 402","Sandy Lake ",N,N,"",2,164,"McGinnis","","Michael","Conservative","Conservateur",N,N,20
+12006,"Halifax West","Halifax-Ouest"," 402","Sandy Lake ",N,N,"",2,164,"Regan","","Geoff","Liberal","Libéral",Y,Y,46
+12006,"Halifax West","Halifax-Ouest"," 402","Sandy Lake ",N,N,"",2,164,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,0
+12006,"Halifax West","Halifax-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",1,100,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",1,100,"McGinnis","","Michael","Conservative","Conservateur",N,N,12
+12006,"Halifax West","Halifax-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",1,100,"Regan","","Geoff","Liberal","Libéral",Y,Y,36
+12006,"Halifax West","Halifax-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",1,100,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",2,99,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12006,"Halifax West","Halifax-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",2,99,"McGinnis","","Michael","Conservative","Conservateur",N,N,17
+12006,"Halifax West","Halifax-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",2,99,"Regan","","Geoff","Liberal","Libéral",Y,Y,96
+12006,"Halifax West","Halifax-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",2,99,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,7
+12006,"Halifax West","Halifax-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,111,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12006,"Halifax West","Halifax-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,111,"McGinnis","","Michael","Conservative","Conservateur",N,N,6
+12006,"Halifax West","Halifax-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,111,"Regan","","Geoff","Liberal","Libéral",Y,Y,29
+12006,"Halifax West","Halifax-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,111,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,2
+12006,"Halifax West","Halifax-Ouest"," 600","Pockwock",N,N,"",2,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+12006,"Halifax West","Halifax-Ouest"," 600","Pockwock",N,N,"",2,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,183
+12006,"Halifax West","Halifax-Ouest"," 600","Pockwock",N,N,"",2,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,559
+12006,"Halifax West","Halifax-Ouest"," 600","Pockwock",N,N,"",2,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,27
+12006,"Halifax West","Halifax-Ouest"," 601","Halifax",N,N,"",0,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+12006,"Halifax West","Halifax-Ouest"," 601","Halifax",N,N,"",0,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,139
+12006,"Halifax West","Halifax-Ouest"," 601","Halifax",N,N,"",0,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,513
+12006,"Halifax West","Halifax-Ouest"," 601","Halifax",N,N,"",0,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,24
+12006,"Halifax West","Halifax-Ouest"," 602","Halifax",N,N,"",7,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+12006,"Halifax West","Halifax-Ouest"," 602","Halifax",N,N,"",7,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,228
+12006,"Halifax West","Halifax-Ouest"," 602","Halifax",N,N,"",7,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,743
+12006,"Halifax West","Halifax-Ouest"," 602","Halifax",N,N,"",7,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,45
+12006,"Halifax West","Halifax-Ouest"," 603","Halifax",N,N,"",3,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+12006,"Halifax West","Halifax-Ouest"," 603","Halifax",N,N,"",3,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,240
+12006,"Halifax West","Halifax-Ouest"," 603","Halifax",N,N,"",3,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,986
+12006,"Halifax West","Halifax-Ouest"," 603","Halifax",N,N,"",3,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,55
+12006,"Halifax West","Halifax-Ouest"," 604","Halifax",N,N,"",4,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+12006,"Halifax West","Halifax-Ouest"," 604","Halifax",N,N,"",4,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,253
+12006,"Halifax West","Halifax-Ouest"," 604","Halifax",N,N,"",4,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,1033
+12006,"Halifax West","Halifax-Ouest"," 604","Halifax",N,N,"",4,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,61
+12006,"Halifax West","Halifax-Ouest"," 605","Halifax",N,N,"",6,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,153
+12006,"Halifax West","Halifax-Ouest"," 605","Halifax",N,N,"",6,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,317
+12006,"Halifax West","Halifax-Ouest"," 605","Halifax",N,N,"",6,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,1108
+12006,"Halifax West","Halifax-Ouest"," 605","Halifax",N,N,"",6,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,35
+12006,"Halifax West","Halifax-Ouest"," 606","Halifax",N,N,"",6,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,152
+12006,"Halifax West","Halifax-Ouest"," 606","Halifax",N,N,"",6,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,173
+12006,"Halifax West","Halifax-Ouest"," 606","Halifax",N,N,"",6,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,786
+12006,"Halifax West","Halifax-Ouest"," 606","Halifax",N,N,"",6,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,36
+12006,"Halifax West","Halifax-Ouest"," 607","Halifax",N,N,"",2,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,159
+12006,"Halifax West","Halifax-Ouest"," 607","Halifax",N,N,"",2,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,129
+12006,"Halifax West","Halifax-Ouest"," 607","Halifax",N,N,"",2,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,775
+12006,"Halifax West","Halifax-Ouest"," 607","Halifax",N,N,"",2,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,35
+12006,"Halifax West","Halifax-Ouest"," 608","Halifax",N,N,"",3,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,211
+12006,"Halifax West","Halifax-Ouest"," 608","Halifax",N,N,"",3,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,167
+12006,"Halifax West","Halifax-Ouest"," 608","Halifax",N,N,"",3,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,640
+12006,"Halifax West","Halifax-Ouest"," 608","Halifax",N,N,"",3,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,53
+12006,"Halifax West","Halifax-Ouest"," 609","Halifax",N,N,"",3,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,177
+12006,"Halifax West","Halifax-Ouest"," 609","Halifax",N,N,"",3,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,112
+12006,"Halifax West","Halifax-Ouest"," 609","Halifax",N,N,"",3,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,603
+12006,"Halifax West","Halifax-Ouest"," 609","Halifax",N,N,"",3,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,56
+12006,"Halifax West","Halifax-Ouest"," 610","Halifax",N,N,"",10,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,166
+12006,"Halifax West","Halifax-Ouest"," 610","Halifax",N,N,"",10,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,215
+12006,"Halifax West","Halifax-Ouest"," 610","Halifax",N,N,"",10,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,864
+12006,"Halifax West","Halifax-Ouest"," 610","Halifax",N,N,"",10,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,41
+12006,"Halifax West","Halifax-Ouest"," 611","Halifax",N,N,"",3,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,167
+12006,"Halifax West","Halifax-Ouest"," 611","Halifax",N,N,"",3,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,158
+12006,"Halifax West","Halifax-Ouest"," 611","Halifax",N,N,"",3,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,904
+12006,"Halifax West","Halifax-Ouest"," 611","Halifax",N,N,"",3,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,49
+12006,"Halifax West","Halifax-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,122,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12006,"Halifax West","Halifax-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,122,"McGinnis","","Michael","Conservative","Conservateur",N,N,110
+12006,"Halifax West","Halifax-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,122,"Regan","","Geoff","Liberal","Libéral",Y,Y,263
+12006,"Halifax West","Halifax-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,122,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,17
+12006,"Halifax West","Halifax-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Hussey","","Joanne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,337
+12006,"Halifax West","Halifax-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"McGinnis","","Michael","Conservative","Conservateur",N,N,252
+12006,"Halifax West","Halifax-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Regan","","Geoff","Liberal","Libéral",Y,Y,1266
+12006,"Halifax West","Halifax-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Zurawski","","Richard Henryk","Green Party","Parti Vert",N,N,74

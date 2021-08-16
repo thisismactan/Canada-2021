@@ -1,0 +1,991 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59030,"Vancouver East","Vancouver-Est"," 1","Vancouver",N,N,"",1,613,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 1","Vancouver",N,N,"",1,613,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,104
+59030,"Vancouver East","Vancouver-Est"," 1","Vancouver",N,N,"",1,613,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 1","Vancouver",N,N,"",1,613,"Haggard","","David Carl","Liberal","Libéral",N,N,49
+59030,"Vancouver East","Vancouver-Est"," 1","Vancouver",N,N,"",1,613,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 2A","Vancouver",N,N,"",0,487,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 2A","Vancouver",N,N,"",0,487,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,138
+59030,"Vancouver East","Vancouver-Est"," 2A","Vancouver",N,N,"",0,487,"Ellis","","Christine","Green Party","Parti Vert",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 2A","Vancouver",N,N,"",0,487,"Haggard","","David Carl","Liberal","Libéral",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 2A","Vancouver",N,N,"",0,487,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 2B","Mobile poll/Bureau itinérant",N,N,"30B",0,66,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 2B","Mobile poll/Bureau itinérant",N,N,"30B",0,66,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,0
+59030,"Vancouver East","Vancouver-Est"," 2B","Mobile poll/Bureau itinérant",N,N,"30B",0,66,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 2B","Mobile poll/Bureau itinérant",N,N,"30B",0,66,"Haggard","","David Carl","Liberal","Libéral",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 2B","Mobile poll/Bureau itinérant",N,N,"30B",0,66,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 3","Vancouver",N,N,"",0,566,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 3","Vancouver",N,N,"",0,566,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,99
+59030,"Vancouver East","Vancouver-Est"," 3","Vancouver",N,N,"",0,566,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 3","Vancouver",N,N,"",0,566,"Haggard","","David Carl","Liberal","Libéral",N,N,81
+59030,"Vancouver East","Vancouver-Est"," 3","Vancouver",N,N,"",0,566,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 4","Vancouver",N,N,"",1,414,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 4","Vancouver",N,N,"",1,414,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,129
+59030,"Vancouver East","Vancouver-Est"," 4","Vancouver",N,N,"",1,414,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 4","Vancouver",N,N,"",1,414,"Haggard","","David Carl","Liberal","Libéral",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 4","Vancouver",N,N,"",1,414,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 5","Vancouver",N,N,"",0,267,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 5","Vancouver",N,N,"",0,267,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,44
+59030,"Vancouver East","Vancouver-Est"," 5","Vancouver",N,N,"",0,267,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 5","Vancouver",N,N,"",0,267,"Haggard","","David Carl","Liberal","Libéral",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 5","Vancouver",N,N,"",0,267,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 6A","Vancouver",N,N,"",0,461,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 6A","Vancouver",N,N,"",0,461,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,74
+59030,"Vancouver East","Vancouver-Est"," 6A","Vancouver",N,N,"",0,461,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 6A","Vancouver",N,N,"",0,461,"Haggard","","David Carl","Liberal","Libéral",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 6A","Vancouver",N,N,"",0,461,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 6B","Mobile poll/Bureau itinérant",N,N,"27B",0,41,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 6B","Mobile poll/Bureau itinérant",N,N,"27B",0,41,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,0
+59030,"Vancouver East","Vancouver-Est"," 6B","Mobile poll/Bureau itinérant",N,N,"27B",0,41,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 6B","Mobile poll/Bureau itinérant",N,N,"27B",0,41,"Haggard","","David Carl","Liberal","Libéral",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 6B","Mobile poll/Bureau itinérant",N,N,"27B",0,41,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 7","Vancouver",N,N,"",1,471,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 7","Vancouver",N,N,"",1,471,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,94
+59030,"Vancouver East","Vancouver-Est"," 7","Vancouver",N,N,"",1,471,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 7","Vancouver",N,N,"",1,471,"Haggard","","David Carl","Liberal","Libéral",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 7","Vancouver",N,N,"",1,471,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 8","Vancouver",N,N,"",0,286,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 8","Vancouver",N,N,"",0,286,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,48
+59030,"Vancouver East","Vancouver-Est"," 8","Vancouver",N,N,"",0,286,"Ellis","","Christine","Green Party","Parti Vert",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 8","Vancouver",N,N,"",0,286,"Haggard","","David Carl","Liberal","Libéral",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 8","Vancouver",N,N,"",0,286,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 9A","Vancouver",N,N,"",1,525,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 9A","Vancouver",N,N,"",1,525,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,106
+59030,"Vancouver East","Vancouver-Est"," 9A","Vancouver",N,N,"",1,525,"Ellis","","Christine","Green Party","Parti Vert",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 9A","Vancouver",N,N,"",1,525,"Haggard","","David Carl","Liberal","Libéral",N,N,103
+59030,"Vancouver East","Vancouver-Est"," 9A","Vancouver",N,N,"",1,525,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,53
+59030,"Vancouver East","Vancouver-Est"," 9B","Mobile poll/Bureau itinérant",N,N,"30B",0,52,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 9B","Mobile poll/Bureau itinérant",N,N,"30B",0,52,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,0
+59030,"Vancouver East","Vancouver-Est"," 9B","Mobile poll/Bureau itinérant",N,N,"30B",0,52,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 9B","Mobile poll/Bureau itinérant",N,N,"30B",0,52,"Haggard","","David Carl","Liberal","Libéral",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 9B","Mobile poll/Bureau itinérant",N,N,"30B",0,52,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 10","Vancouver",Y,N,"",0,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 10","Vancouver",Y,N,"",0,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,0
+59030,"Vancouver East","Vancouver-Est"," 10","Vancouver",Y,N,"",0,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 10","Vancouver",Y,N,"",0,0,"Haggard","","David Carl","Liberal","Libéral",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 10","Vancouver",Y,N,"",0,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 11","Vancouver",N,N,"",2,307,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 11","Vancouver",N,N,"",2,307,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,56
+59030,"Vancouver East","Vancouver-Est"," 11","Vancouver",N,N,"",2,307,"Ellis","","Christine","Green Party","Parti Vert",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 11","Vancouver",N,N,"",2,307,"Haggard","","David Carl","Liberal","Libéral",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 11","Vancouver",N,N,"",2,307,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 12","Vancouver",N,N,"",1,427,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 12","Vancouver",N,N,"",1,427,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,74
+59030,"Vancouver East","Vancouver-Est"," 12","Vancouver",N,N,"",1,427,"Ellis","","Christine","Green Party","Parti Vert",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 12","Vancouver",N,N,"",1,427,"Haggard","","David Carl","Liberal","Libéral",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 12","Vancouver",N,N,"",1,427,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 13","Vancouver",N,N,"",0,320,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 13","Vancouver",N,N,"",0,320,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,38
+59030,"Vancouver East","Vancouver-Est"," 13","Vancouver",N,N,"",0,320,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 13","Vancouver",N,N,"",0,320,"Haggard","","David Carl","Liberal","Libéral",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 13","Vancouver",N,N,"",0,320,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 14","Vancouver",N,N,"",1,358,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 14","Vancouver",N,N,"",1,358,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,57
+59030,"Vancouver East","Vancouver-Est"," 14","Vancouver",N,N,"",1,358,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 14","Vancouver",N,N,"",1,358,"Haggard","","David Carl","Liberal","Libéral",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 14","Vancouver",N,N,"",1,358,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 15","Vancouver",N,N,"",0,393,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 15","Vancouver",N,N,"",0,393,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,33
+59030,"Vancouver East","Vancouver-Est"," 15","Vancouver",N,N,"",0,393,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 15","Vancouver",N,N,"",0,393,"Haggard","","David Carl","Liberal","Libéral",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 15","Vancouver",N,N,"",0,393,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 16","Vancouver",N,N,"",3,327,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 16","Vancouver",N,N,"",3,327,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,57
+59030,"Vancouver East","Vancouver-Est"," 16","Vancouver",N,N,"",3,327,"Ellis","","Christine","Green Party","Parti Vert",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 16","Vancouver",N,N,"",3,327,"Haggard","","David Carl","Liberal","Libéral",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 16","Vancouver",N,N,"",3,327,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 17A","Vancouver",N,N,"",1,227,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17A","Vancouver",N,N,"",1,227,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,31
+59030,"Vancouver East","Vancouver-Est"," 17A","Vancouver",N,N,"",1,227,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 17A","Vancouver",N,N,"",1,227,"Haggard","","David Carl","Liberal","Libéral",N,N,51
+59030,"Vancouver East","Vancouver-Est"," 17A","Vancouver",N,N,"",1,227,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,17
+59030,"Vancouver East","Vancouver-Est"," 17B","Mobile poll/Bureau itinérant",N,N,"17C",0,23,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17B","Mobile poll/Bureau itinérant",N,N,"17C",0,23,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,0
+59030,"Vancouver East","Vancouver-Est"," 17B","Mobile poll/Bureau itinérant",N,N,"17C",0,23,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17B","Mobile poll/Bureau itinérant",N,N,"17C",0,23,"Haggard","","David Carl","Liberal","Libéral",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17B","Mobile poll/Bureau itinérant",N,N,"17C",0,23,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17C","Mobile poll/Bureau itinérant",N,N,"",2,119,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 17C","Mobile poll/Bureau itinérant",N,N,"",2,119,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,48
+59030,"Vancouver East","Vancouver-Est"," 17C","Mobile poll/Bureau itinérant",N,N,"",2,119,"Ellis","","Christine","Green Party","Parti Vert",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 17C","Mobile poll/Bureau itinérant",N,N,"",2,119,"Haggard","","David Carl","Liberal","Libéral",N,N,59
+59030,"Vancouver East","Vancouver-Est"," 17C","Mobile poll/Bureau itinérant",N,N,"",2,119,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 17D","Mobile poll/Bureau itinérant",N,N,"17C",0,57,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17D","Mobile poll/Bureau itinérant",N,N,"17C",0,57,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,0
+59030,"Vancouver East","Vancouver-Est"," 17D","Mobile poll/Bureau itinérant",N,N,"17C",0,57,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17D","Mobile poll/Bureau itinérant",N,N,"17C",0,57,"Haggard","","David Carl","Liberal","Libéral",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 17D","Mobile poll/Bureau itinérant",N,N,"17C",0,57,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 18","Vancouver",N,N,"",1,202,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 18","Vancouver",N,N,"",1,202,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,45
+59030,"Vancouver East","Vancouver-Est"," 18","Vancouver",N,N,"",1,202,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 18","Vancouver",N,N,"",1,202,"Haggard","","David Carl","Liberal","Libéral",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 18","Vancouver",N,N,"",1,202,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 19","Vancouver",N,N,"",3,578,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 19","Vancouver",N,N,"",3,578,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,112
+59030,"Vancouver East","Vancouver-Est"," 19","Vancouver",N,N,"",3,578,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 19","Vancouver",N,N,"",3,578,"Haggard","","David Carl","Liberal","Libéral",N,N,50
+59030,"Vancouver East","Vancouver-Est"," 19","Vancouver",N,N,"",3,578,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 20","Vancouver",N,N,"",0,369,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 20","Vancouver",N,N,"",0,369,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,65
+59030,"Vancouver East","Vancouver-Est"," 20","Vancouver",N,N,"",0,369,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 20","Vancouver",N,N,"",0,369,"Haggard","","David Carl","Liberal","Libéral",N,N,61
+59030,"Vancouver East","Vancouver-Est"," 20","Vancouver",N,N,"",0,369,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 21","Vancouver",N,N,"",0,514,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 21","Vancouver",N,N,"",0,514,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,98
+59030,"Vancouver East","Vancouver-Est"," 21","Vancouver",N,N,"",0,514,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 21","Vancouver",N,N,"",0,514,"Haggard","","David Carl","Liberal","Libéral",N,N,63
+59030,"Vancouver East","Vancouver-Est"," 21","Vancouver",N,N,"",0,514,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 22","Vancouver",N,N,"",0,485,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 22","Vancouver",N,N,"",0,485,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,71
+59030,"Vancouver East","Vancouver-Est"," 22","Vancouver",N,N,"",0,485,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 22","Vancouver",N,N,"",0,485,"Haggard","","David Carl","Liberal","Libéral",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 22","Vancouver",N,N,"",0,485,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 23","Vancouver",N,N,"",5,408,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 23","Vancouver",N,N,"",5,408,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,66
+59030,"Vancouver East","Vancouver-Est"," 23","Vancouver",N,N,"",5,408,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 23","Vancouver",N,N,"",5,408,"Haggard","","David Carl","Liberal","Libéral",N,N,37
+59030,"Vancouver East","Vancouver-Est"," 23","Vancouver",N,N,"",5,408,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 24","Vancouver",N,N,"",0,452,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 24","Vancouver",N,N,"",0,452,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,79
+59030,"Vancouver East","Vancouver-Est"," 24","Vancouver",N,N,"",0,452,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 24","Vancouver",N,N,"",0,452,"Haggard","","David Carl","Liberal","Libéral",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 24","Vancouver",N,N,"",0,452,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 25","Vancouver",N,N,"",0,438,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 25","Vancouver",N,N,"",0,438,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,136
+59030,"Vancouver East","Vancouver-Est"," 25","Vancouver",N,N,"",0,438,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 25","Vancouver",N,N,"",0,438,"Haggard","","David Carl","Liberal","Libéral",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 25","Vancouver",N,N,"",0,438,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 26","Vancouver",N,N,"",3,595,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 26","Vancouver",N,N,"",3,595,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,196
+59030,"Vancouver East","Vancouver-Est"," 26","Vancouver",N,N,"",3,595,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 26","Vancouver",N,N,"",3,595,"Haggard","","David Carl","Liberal","Libéral",N,N,71
+59030,"Vancouver East","Vancouver-Est"," 26","Vancouver",N,N,"",3,595,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 27A","Vancouver",N,N,"",0,346,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 27A","Vancouver",N,N,"",0,346,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,84
+59030,"Vancouver East","Vancouver-Est"," 27A","Vancouver",N,N,"",0,346,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 27A","Vancouver",N,N,"",0,346,"Haggard","","David Carl","Liberal","Libéral",N,N,48
+59030,"Vancouver East","Vancouver-Est"," 27A","Vancouver",N,N,"",0,346,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 27B","Mobile poll/Bureau itinérant",N,N,"",1,53,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 27B","Mobile poll/Bureau itinérant",N,N,"",1,53,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,15
+59030,"Vancouver East","Vancouver-Est"," 27B","Mobile poll/Bureau itinérant",N,N,"",1,53,"Ellis","","Christine","Green Party","Parti Vert",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 27B","Mobile poll/Bureau itinérant",N,N,"",1,53,"Haggard","","David Carl","Liberal","Libéral",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 27B","Mobile poll/Bureau itinérant",N,N,"",1,53,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 28","Vancouver",N,N,"",1,539,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 28","Vancouver",N,N,"",1,539,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,164
+59030,"Vancouver East","Vancouver-Est"," 28","Vancouver",N,N,"",1,539,"Ellis","","Christine","Green Party","Parti Vert",N,N,32
+59030,"Vancouver East","Vancouver-Est"," 28","Vancouver",N,N,"",1,539,"Haggard","","David Carl","Liberal","Libéral",N,N,78
+59030,"Vancouver East","Vancouver-Est"," 28","Vancouver",N,N,"",1,539,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 29","Vancouver",N,N,"",0,402,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 29","Vancouver",N,N,"",0,402,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,145
+59030,"Vancouver East","Vancouver-Est"," 29","Vancouver",N,N,"",0,402,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 29","Vancouver",N,N,"",0,402,"Haggard","","David Carl","Liberal","Libéral",N,N,55
+59030,"Vancouver East","Vancouver-Est"," 29","Vancouver",N,N,"",0,402,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 30A","Vancouver",N,N,"",1,421,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 30A","Vancouver",N,N,"",1,421,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,132
+59030,"Vancouver East","Vancouver-Est"," 30A","Vancouver",N,N,"",1,421,"Ellis","","Christine","Green Party","Parti Vert",N,N,17
+59030,"Vancouver East","Vancouver-Est"," 30A","Vancouver",N,N,"",1,421,"Haggard","","David Carl","Liberal","Libéral",N,N,65
+59030,"Vancouver East","Vancouver-Est"," 30A","Vancouver",N,N,"",1,421,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 30B","Mobile poll/Bureau itinérant",N,N,"",0,109,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 30B","Mobile poll/Bureau itinérant",N,N,"",0,109,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,14
+59030,"Vancouver East","Vancouver-Est"," 30B","Mobile poll/Bureau itinérant",N,N,"",0,109,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 30B","Mobile poll/Bureau itinérant",N,N,"",0,109,"Haggard","","David Carl","Liberal","Libéral",N,N,108
+59030,"Vancouver East","Vancouver-Est"," 30B","Mobile poll/Bureau itinérant",N,N,"",0,109,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 31","Vancouver",N,N,"",0,432,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 31","Vancouver",N,N,"",0,432,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,116
+59030,"Vancouver East","Vancouver-Est"," 31","Vancouver",N,N,"",0,432,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 31","Vancouver",N,N,"",0,432,"Haggard","","David Carl","Liberal","Libéral",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 31","Vancouver",N,N,"",0,432,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 32","Vancouver",N,N,"",3,559,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 32","Vancouver",N,N,"",3,559,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,178
+59030,"Vancouver East","Vancouver-Est"," 32","Vancouver",N,N,"",3,559,"Ellis","","Christine","Green Party","Parti Vert",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 32","Vancouver",N,N,"",3,559,"Haggard","","David Carl","Liberal","Libéral",N,N,35
+59030,"Vancouver East","Vancouver-Est"," 32","Vancouver",N,N,"",3,559,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 33","Vancouver",N,N,"",1,557,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 33","Vancouver",N,N,"",1,557,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,132
+59030,"Vancouver East","Vancouver-Est"," 33","Vancouver",N,N,"",1,557,"Ellis","","Christine","Green Party","Parti Vert",N,N,17
+59030,"Vancouver East","Vancouver-Est"," 33","Vancouver",N,N,"",1,557,"Haggard","","David Carl","Liberal","Libéral",N,N,56
+59030,"Vancouver East","Vancouver-Est"," 33","Vancouver",N,N,"",1,557,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 34","Vancouver",N,N,"",0,332,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 34","Vancouver",N,N,"",0,332,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,143
+59030,"Vancouver East","Vancouver-Est"," 34","Vancouver",N,N,"",0,332,"Ellis","","Christine","Green Party","Parti Vert",N,N,17
+59030,"Vancouver East","Vancouver-Est"," 34","Vancouver",N,N,"",0,332,"Haggard","","David Carl","Liberal","Libéral",N,N,40
+59030,"Vancouver East","Vancouver-Est"," 34","Vancouver",N,N,"",0,332,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 35","Vancouver",N,N,"",3,524,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 35","Vancouver",N,N,"",3,524,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,172
+59030,"Vancouver East","Vancouver-Est"," 35","Vancouver",N,N,"",3,524,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 35","Vancouver",N,N,"",3,524,"Haggard","","David Carl","Liberal","Libéral",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 35","Vancouver",N,N,"",3,524,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,50
+59030,"Vancouver East","Vancouver-Est"," 36","Vancouver",N,N,"",0,467,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 36","Vancouver",N,N,"",0,467,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,136
+59030,"Vancouver East","Vancouver-Est"," 36","Vancouver",N,N,"",0,467,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 36","Vancouver",N,N,"",0,467,"Haggard","","David Carl","Liberal","Libéral",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 36","Vancouver",N,N,"",0,467,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,49
+59030,"Vancouver East","Vancouver-Est"," 37","Vancouver",N,N,"",0,452,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 37","Vancouver",N,N,"",0,452,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,134
+59030,"Vancouver East","Vancouver-Est"," 37","Vancouver",N,N,"",0,452,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 37","Vancouver",N,N,"",0,452,"Haggard","","David Carl","Liberal","Libéral",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 37","Vancouver",N,N,"",0,452,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 38","Vancouver",N,N,"",0,433,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 38","Vancouver",N,N,"",0,433,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,172
+59030,"Vancouver East","Vancouver-Est"," 38","Vancouver",N,N,"",0,433,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 38","Vancouver",N,N,"",0,433,"Haggard","","David Carl","Liberal","Libéral",N,N,47
+59030,"Vancouver East","Vancouver-Est"," 38","Vancouver",N,N,"",0,433,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,34
+59030,"Vancouver East","Vancouver-Est"," 39","Vancouver",N,N,"",3,510,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 39","Vancouver",N,N,"",3,510,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,174
+59030,"Vancouver East","Vancouver-Est"," 39","Vancouver",N,N,"",3,510,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 39","Vancouver",N,N,"",3,510,"Haggard","","David Carl","Liberal","Libéral",N,N,43
+59030,"Vancouver East","Vancouver-Est"," 39","Vancouver",N,N,"",3,510,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,37
+59030,"Vancouver East","Vancouver-Est"," 40","Vancouver",N,N,"",0,469,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 40","Vancouver",N,N,"",0,469,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,106
+59030,"Vancouver East","Vancouver-Est"," 40","Vancouver",N,N,"",0,469,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 40","Vancouver",N,N,"",0,469,"Haggard","","David Carl","Liberal","Libéral",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 40","Vancouver",N,N,"",0,469,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 41","Vancouver",N,N,"",0,444,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 41","Vancouver",N,N,"",0,444,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,119
+59030,"Vancouver East","Vancouver-Est"," 41","Vancouver",N,N,"",0,444,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 41","Vancouver",N,N,"",0,444,"Haggard","","David Carl","Liberal","Libéral",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 41","Vancouver",N,N,"",0,444,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 42","Vancouver",N,N,"",0,489,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 42","Vancouver",N,N,"",0,489,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,137
+59030,"Vancouver East","Vancouver-Est"," 42","Vancouver",N,N,"",0,489,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 42","Vancouver",N,N,"",0,489,"Haggard","","David Carl","Liberal","Libéral",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 42","Vancouver",N,N,"",0,489,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 43A","Vancouver",N,N,"",4,430,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 43A","Vancouver",N,N,"",4,430,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,111
+59030,"Vancouver East","Vancouver-Est"," 43A","Vancouver",N,N,"",4,430,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 43A","Vancouver",N,N,"",4,430,"Haggard","","David Carl","Liberal","Libéral",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 43A","Vancouver",N,N,"",4,430,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 43B","Vancouver",N,N,"",0,239,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 43B","Vancouver",N,N,"",0,239,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,59
+59030,"Vancouver East","Vancouver-Est"," 43B","Vancouver",N,N,"",0,239,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 43B","Vancouver",N,N,"",0,239,"Haggard","","David Carl","Liberal","Libéral",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 43B","Vancouver",N,N,"",0,239,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 44","Vancouver",N,N,"",1,425,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 44","Vancouver",N,N,"",1,425,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,138
+59030,"Vancouver East","Vancouver-Est"," 44","Vancouver",N,N,"",1,425,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 44","Vancouver",N,N,"",1,425,"Haggard","","David Carl","Liberal","Libéral",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 44","Vancouver",N,N,"",1,425,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 45","Vancouver",N,N,"",1,387,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 45","Vancouver",N,N,"",1,387,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,105
+59030,"Vancouver East","Vancouver-Est"," 45","Vancouver",N,N,"",1,387,"Ellis","","Christine","Green Party","Parti Vert",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 45","Vancouver",N,N,"",1,387,"Haggard","","David Carl","Liberal","Libéral",N,N,59
+59030,"Vancouver East","Vancouver-Est"," 45","Vancouver",N,N,"",1,387,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,35
+59030,"Vancouver East","Vancouver-Est"," 46","Vancouver",N,N,"",2,361,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 46","Vancouver",N,N,"",2,361,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,120
+59030,"Vancouver East","Vancouver-Est"," 46","Vancouver",N,N,"",2,361,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 46","Vancouver",N,N,"",2,361,"Haggard","","David Carl","Liberal","Libéral",N,N,53
+59030,"Vancouver East","Vancouver-Est"," 46","Vancouver",N,N,"",2,361,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 47","Vancouver",N,N,"",2,542,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 47","Vancouver",N,N,"",2,542,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,143
+59030,"Vancouver East","Vancouver-Est"," 47","Vancouver",N,N,"",2,542,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 47","Vancouver",N,N,"",2,542,"Haggard","","David Carl","Liberal","Libéral",N,N,68
+59030,"Vancouver East","Vancouver-Est"," 47","Vancouver",N,N,"",2,542,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,59
+59030,"Vancouver East","Vancouver-Est"," 48","Vancouver",N,N,"",2,453,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 48","Vancouver",N,N,"",2,453,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,128
+59030,"Vancouver East","Vancouver-Est"," 48","Vancouver",N,N,"",2,453,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 48","Vancouver",N,N,"",2,453,"Haggard","","David Carl","Liberal","Libéral",N,N,77
+59030,"Vancouver East","Vancouver-Est"," 48","Vancouver",N,N,"",2,453,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 49","Vancouver",N,N,"",2,476,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 49","Vancouver",N,N,"",2,476,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,116
+59030,"Vancouver East","Vancouver-Est"," 49","Vancouver",N,N,"",2,476,"Ellis","","Christine","Green Party","Parti Vert",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 49","Vancouver",N,N,"",2,476,"Haggard","","David Carl","Liberal","Libéral",N,N,104
+59030,"Vancouver East","Vancouver-Est"," 49","Vancouver",N,N,"",2,476,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 50","Vancouver",N,N,"",3,496,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 50","Vancouver",N,N,"",3,496,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,192
+59030,"Vancouver East","Vancouver-Est"," 50","Vancouver",N,N,"",3,496,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 50","Vancouver",N,N,"",3,496,"Haggard","","David Carl","Liberal","Libéral",N,N,47
+59030,"Vancouver East","Vancouver-Est"," 50","Vancouver",N,N,"",3,496,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 51","Vancouver",N,N,"",1,303,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 51","Vancouver",N,N,"",1,303,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,78
+59030,"Vancouver East","Vancouver-Est"," 51","Vancouver",N,N,"",1,303,"Ellis","","Christine","Green Party","Parti Vert",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 51","Vancouver",N,N,"",1,303,"Haggard","","David Carl","Liberal","Libéral",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 51","Vancouver",N,N,"",1,303,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 52A","Vancouver",N,N,"",2,494,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 52A","Vancouver",N,N,"",2,494,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,199
+59030,"Vancouver East","Vancouver-Est"," 52A","Vancouver",N,N,"",2,494,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 52A","Vancouver",N,N,"",2,494,"Haggard","","David Carl","Liberal","Libéral",N,N,43
+59030,"Vancouver East","Vancouver-Est"," 52A","Vancouver",N,N,"",2,494,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"",1,119,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"",1,119,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,77
+59030,"Vancouver East","Vancouver-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"",1,119,"Ellis","","Christine","Green Party","Parti Vert",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"",1,119,"Haggard","","David Carl","Liberal","Libéral",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"",1,119,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 53","Vancouver",N,N,"",0,217,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 53","Vancouver",N,N,"",0,217,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,62
+59030,"Vancouver East","Vancouver-Est"," 53","Vancouver",N,N,"",0,217,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 53","Vancouver",N,N,"",0,217,"Haggard","","David Carl","Liberal","Libéral",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 53","Vancouver",N,N,"",0,217,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 54","Vancouver",N,N,"",0,463,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 54","Vancouver",N,N,"",0,463,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,152
+59030,"Vancouver East","Vancouver-Est"," 54","Vancouver",N,N,"",0,463,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 54","Vancouver",N,N,"",0,463,"Haggard","","David Carl","Liberal","Libéral",N,N,42
+59030,"Vancouver East","Vancouver-Est"," 54","Vancouver",N,N,"",0,463,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 55","Vancouver",N,N,"",2,418,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 55","Vancouver",N,N,"",2,418,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,157
+59030,"Vancouver East","Vancouver-Est"," 55","Vancouver",N,N,"",2,418,"Ellis","","Christine","Green Party","Parti Vert",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 55","Vancouver",N,N,"",2,418,"Haggard","","David Carl","Liberal","Libéral",N,N,25
+59030,"Vancouver East","Vancouver-Est"," 55","Vancouver",N,N,"",2,418,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 56","Vancouver",N,N,"",0,459,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 56","Vancouver",N,N,"",0,459,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,170
+59030,"Vancouver East","Vancouver-Est"," 56","Vancouver",N,N,"",0,459,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 56","Vancouver",N,N,"",0,459,"Haggard","","David Carl","Liberal","Libéral",N,N,58
+59030,"Vancouver East","Vancouver-Est"," 56","Vancouver",N,N,"",0,459,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 57","Vancouver",N,N,"",0,442,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 57","Vancouver",N,N,"",0,442,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,180
+59030,"Vancouver East","Vancouver-Est"," 57","Vancouver",N,N,"",0,442,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 57","Vancouver",N,N,"",0,442,"Haggard","","David Carl","Liberal","Libéral",N,N,52
+59030,"Vancouver East","Vancouver-Est"," 57","Vancouver",N,N,"",0,442,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 58","Vancouver",N,N,"",2,583,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 58","Vancouver",N,N,"",2,583,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,242
+59030,"Vancouver East","Vancouver-Est"," 58","Vancouver",N,N,"",2,583,"Ellis","","Christine","Green Party","Parti Vert",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 58","Vancouver",N,N,"",2,583,"Haggard","","David Carl","Liberal","Libéral",N,N,44
+59030,"Vancouver East","Vancouver-Est"," 58","Vancouver",N,N,"",2,583,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 59","Vancouver",N,N,"",1,440,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 59","Vancouver",N,N,"",1,440,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,173
+59030,"Vancouver East","Vancouver-Est"," 59","Vancouver",N,N,"",1,440,"Ellis","","Christine","Green Party","Parti Vert",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 59","Vancouver",N,N,"",1,440,"Haggard","","David Carl","Liberal","Libéral",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 59","Vancouver",N,N,"",1,440,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 60","Vancouver",N,N,"",0,388,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 60","Vancouver",N,N,"",0,388,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,185
+59030,"Vancouver East","Vancouver-Est"," 60","Vancouver",N,N,"",0,388,"Ellis","","Christine","Green Party","Parti Vert",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 60","Vancouver",N,N,"",0,388,"Haggard","","David Carl","Liberal","Libéral",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 60","Vancouver",N,N,"",0,388,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 61","Vancouver",N,N,"",0,421,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 61","Vancouver",N,N,"",0,421,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,163
+59030,"Vancouver East","Vancouver-Est"," 61","Vancouver",N,N,"",0,421,"Ellis","","Christine","Green Party","Parti Vert",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 61","Vancouver",N,N,"",0,421,"Haggard","","David Carl","Liberal","Libéral",N,N,34
+59030,"Vancouver East","Vancouver-Est"," 61","Vancouver",N,N,"",0,421,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 62","Vancouver",N,N,"",0,320,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 62","Vancouver",N,N,"",0,320,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,128
+59030,"Vancouver East","Vancouver-Est"," 62","Vancouver",N,N,"",0,320,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 62","Vancouver",N,N,"",0,320,"Haggard","","David Carl","Liberal","Libéral",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 62","Vancouver",N,N,"",0,320,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 63","Vancouver",N,N,"",0,549,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 63","Vancouver",N,N,"",0,549,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,211
+59030,"Vancouver East","Vancouver-Est"," 63","Vancouver",N,N,"",0,549,"Ellis","","Christine","Green Party","Parti Vert",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 63","Vancouver",N,N,"",0,549,"Haggard","","David Carl","Liberal","Libéral",N,N,47
+59030,"Vancouver East","Vancouver-Est"," 63","Vancouver",N,N,"",0,549,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 64","Vancouver",N,N,"",2,530,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 64","Vancouver",N,N,"",2,530,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,170
+59030,"Vancouver East","Vancouver-Est"," 64","Vancouver",N,N,"",2,530,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 64","Vancouver",N,N,"",2,530,"Haggard","","David Carl","Liberal","Libéral",N,N,88
+59030,"Vancouver East","Vancouver-Est"," 64","Vancouver",N,N,"",2,530,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 65","Vancouver",N,N,"",1,562,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 65","Vancouver",N,N,"",1,562,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,213
+59030,"Vancouver East","Vancouver-Est"," 65","Vancouver",N,N,"",1,562,"Ellis","","Christine","Green Party","Parti Vert",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 65","Vancouver",N,N,"",1,562,"Haggard","","David Carl","Liberal","Libéral",N,N,32
+59030,"Vancouver East","Vancouver-Est"," 65","Vancouver",N,N,"",1,562,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 66","Vancouver",N,N,"",1,488,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 66","Vancouver",N,N,"",1,488,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,176
+59030,"Vancouver East","Vancouver-Est"," 66","Vancouver",N,N,"",1,488,"Ellis","","Christine","Green Party","Parti Vert",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 66","Vancouver",N,N,"",1,488,"Haggard","","David Carl","Liberal","Libéral",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 66","Vancouver",N,N,"",1,488,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 67","Vancouver",N,N,"",0,431,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 67","Vancouver",N,N,"",0,431,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,158
+59030,"Vancouver East","Vancouver-Est"," 67","Vancouver",N,N,"",0,431,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 67","Vancouver",N,N,"",0,431,"Haggard","","David Carl","Liberal","Libéral",N,N,45
+59030,"Vancouver East","Vancouver-Est"," 67","Vancouver",N,N,"",0,431,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 68","Vancouver",N,N,"",0,452,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 68","Vancouver",N,N,"",0,452,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,193
+59030,"Vancouver East","Vancouver-Est"," 68","Vancouver",N,N,"",0,452,"Ellis","","Christine","Green Party","Parti Vert",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 68","Vancouver",N,N,"",0,452,"Haggard","","David Carl","Liberal","Libéral",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 68","Vancouver",N,N,"",0,452,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 69","Vancouver",N,N,"",2,442,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 69","Vancouver",N,N,"",2,442,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,127
+59030,"Vancouver East","Vancouver-Est"," 69","Vancouver",N,N,"",2,442,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 69","Vancouver",N,N,"",2,442,"Haggard","","David Carl","Liberal","Libéral",N,N,50
+59030,"Vancouver East","Vancouver-Est"," 69","Vancouver",N,N,"",2,442,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,40
+59030,"Vancouver East","Vancouver-Est"," 70","Vancouver",N,N,"",1,451,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 70","Vancouver",N,N,"",1,451,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,168
+59030,"Vancouver East","Vancouver-Est"," 70","Vancouver",N,N,"",1,451,"Ellis","","Christine","Green Party","Parti Vert",N,N,25
+59030,"Vancouver East","Vancouver-Est"," 70","Vancouver",N,N,"",1,451,"Haggard","","David Carl","Liberal","Libéral",N,N,37
+59030,"Vancouver East","Vancouver-Est"," 70","Vancouver",N,N,"",1,451,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 71","Vancouver",N,N,"",0,390,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 71","Vancouver",N,N,"",0,390,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,135
+59030,"Vancouver East","Vancouver-Est"," 71","Vancouver",N,N,"",0,390,"Ellis","","Christine","Green Party","Parti Vert",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 71","Vancouver",N,N,"",0,390,"Haggard","","David Carl","Liberal","Libéral",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 71","Vancouver",N,N,"",0,390,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 72","Vancouver",N,N,"",1,348,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 72","Vancouver",N,N,"",1,348,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,128
+59030,"Vancouver East","Vancouver-Est"," 72","Vancouver",N,N,"",1,348,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 72","Vancouver",N,N,"",1,348,"Haggard","","David Carl","Liberal","Libéral",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 72","Vancouver",N,N,"",1,348,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 73","Vancouver",N,N,"",0,397,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 73","Vancouver",N,N,"",0,397,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,180
+59030,"Vancouver East","Vancouver-Est"," 73","Vancouver",N,N,"",0,397,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 73","Vancouver",N,N,"",0,397,"Haggard","","David Carl","Liberal","Libéral",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 73","Vancouver",N,N,"",0,397,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 74","Vancouver",N,N,"",0,333,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 74","Vancouver",N,N,"",0,333,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,145
+59030,"Vancouver East","Vancouver-Est"," 74","Vancouver",N,N,"",0,333,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 74","Vancouver",N,N,"",0,333,"Haggard","","David Carl","Liberal","Libéral",N,N,37
+59030,"Vancouver East","Vancouver-Est"," 74","Vancouver",N,N,"",0,333,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 75","Vancouver",N,N,"",0,427,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 75","Vancouver",N,N,"",0,427,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,107
+59030,"Vancouver East","Vancouver-Est"," 75","Vancouver",N,N,"",0,427,"Ellis","","Christine","Green Party","Parti Vert",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 75","Vancouver",N,N,"",0,427,"Haggard","","David Carl","Liberal","Libéral",N,N,70
+59030,"Vancouver East","Vancouver-Est"," 75","Vancouver",N,N,"",0,427,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,60
+59030,"Vancouver East","Vancouver-Est"," 76","Vancouver",N,N,"",2,437,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 76","Vancouver",N,N,"",2,437,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,128
+59030,"Vancouver East","Vancouver-Est"," 76","Vancouver",N,N,"",2,437,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 76","Vancouver",N,N,"",2,437,"Haggard","","David Carl","Liberal","Libéral",N,N,62
+59030,"Vancouver East","Vancouver-Est"," 76","Vancouver",N,N,"",2,437,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,61
+59030,"Vancouver East","Vancouver-Est"," 77","Vancouver",N,N,"",0,474,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 77","Vancouver",N,N,"",0,474,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,117
+59030,"Vancouver East","Vancouver-Est"," 77","Vancouver",N,N,"",0,474,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 77","Vancouver",N,N,"",0,474,"Haggard","","David Carl","Liberal","Libéral",N,N,72
+59030,"Vancouver East","Vancouver-Est"," 77","Vancouver",N,N,"",0,474,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,43
+59030,"Vancouver East","Vancouver-Est"," 78","Vancouver",N,N,"",0,462,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 78","Vancouver",N,N,"",0,462,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,117
+59030,"Vancouver East","Vancouver-Est"," 78","Vancouver",N,N,"",0,462,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 78","Vancouver",N,N,"",0,462,"Haggard","","David Carl","Liberal","Libéral",N,N,66
+59030,"Vancouver East","Vancouver-Est"," 78","Vancouver",N,N,"",0,462,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 79","Vancouver",N,N,"",0,387,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 79","Vancouver",N,N,"",0,387,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,122
+59030,"Vancouver East","Vancouver-Est"," 79","Vancouver",N,N,"",0,387,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 79","Vancouver",N,N,"",0,387,"Haggard","","David Carl","Liberal","Libéral",N,N,49
+59030,"Vancouver East","Vancouver-Est"," 79","Vancouver",N,N,"",0,387,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 80","Vancouver",N,N,"",0,554,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 80","Vancouver",N,N,"",0,554,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,159
+59030,"Vancouver East","Vancouver-Est"," 80","Vancouver",N,N,"",0,554,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 80","Vancouver",N,N,"",0,554,"Haggard","","David Carl","Liberal","Libéral",N,N,69
+59030,"Vancouver East","Vancouver-Est"," 80","Vancouver",N,N,"",0,554,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,43
+59030,"Vancouver East","Vancouver-Est"," 81","Vancouver",N,N,"",1,553,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 81","Vancouver",N,N,"",1,553,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,145
+59030,"Vancouver East","Vancouver-Est"," 81","Vancouver",N,N,"",1,553,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 81","Vancouver",N,N,"",1,553,"Haggard","","David Carl","Liberal","Libéral",N,N,102
+59030,"Vancouver East","Vancouver-Est"," 81","Vancouver",N,N,"",1,553,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 82","Vancouver",N,N,"",4,501,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 82","Vancouver",N,N,"",4,501,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,119
+59030,"Vancouver East","Vancouver-Est"," 82","Vancouver",N,N,"",4,501,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 82","Vancouver",N,N,"",4,501,"Haggard","","David Carl","Liberal","Libéral",N,N,81
+59030,"Vancouver East","Vancouver-Est"," 82","Vancouver",N,N,"",4,501,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,40
+59030,"Vancouver East","Vancouver-Est"," 83","Vancouver",N,N,"",2,447,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 83","Vancouver",N,N,"",2,447,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,97
+59030,"Vancouver East","Vancouver-Est"," 83","Vancouver",N,N,"",2,447,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 83","Vancouver",N,N,"",2,447,"Haggard","","David Carl","Liberal","Libéral",N,N,78
+59030,"Vancouver East","Vancouver-Est"," 83","Vancouver",N,N,"",2,447,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,49
+59030,"Vancouver East","Vancouver-Est"," 84","Vancouver",N,N,"",1,276,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 84","Vancouver",N,N,"",1,276,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,62
+59030,"Vancouver East","Vancouver-Est"," 84","Vancouver",N,N,"",1,276,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 84","Vancouver",N,N,"",1,276,"Haggard","","David Carl","Liberal","Libéral",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 84","Vancouver",N,N,"",1,276,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 85","Vancouver",N,N,"",0,530,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 85","Vancouver",N,N,"",0,530,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,168
+59030,"Vancouver East","Vancouver-Est"," 85","Vancouver",N,N,"",0,530,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 85","Vancouver",N,N,"",0,530,"Haggard","","David Carl","Liberal","Libéral",N,N,77
+59030,"Vancouver East","Vancouver-Est"," 85","Vancouver",N,N,"",0,530,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,44
+59030,"Vancouver East","Vancouver-Est"," 86","Vancouver",N,N,"",1,473,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 86","Vancouver",N,N,"",1,473,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,97
+59030,"Vancouver East","Vancouver-Est"," 86","Vancouver",N,N,"",1,473,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 86","Vancouver",N,N,"",1,473,"Haggard","","David Carl","Liberal","Libéral",N,N,83
+59030,"Vancouver East","Vancouver-Est"," 86","Vancouver",N,N,"",1,473,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,47
+59030,"Vancouver East","Vancouver-Est"," 87","Vancouver",N,N,"",0,480,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 87","Vancouver",N,N,"",0,480,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,92
+59030,"Vancouver East","Vancouver-Est"," 87","Vancouver",N,N,"",0,480,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 87","Vancouver",N,N,"",0,480,"Haggard","","David Carl","Liberal","Libéral",N,N,75
+59030,"Vancouver East","Vancouver-Est"," 87","Vancouver",N,N,"",0,480,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 88","Vancouver",N,N,"",1,425,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 88","Vancouver",N,N,"",1,425,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,98
+59030,"Vancouver East","Vancouver-Est"," 88","Vancouver",N,N,"",1,425,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 88","Vancouver",N,N,"",1,425,"Haggard","","David Carl","Liberal","Libéral",N,N,73
+59030,"Vancouver East","Vancouver-Est"," 88","Vancouver",N,N,"",1,425,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 89","Vancouver",N,N,"",1,446,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 89","Vancouver",N,N,"",1,446,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,88
+59030,"Vancouver East","Vancouver-Est"," 89","Vancouver",N,N,"",1,446,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 89","Vancouver",N,N,"",1,446,"Haggard","","David Carl","Liberal","Libéral",N,N,69
+59030,"Vancouver East","Vancouver-Est"," 89","Vancouver",N,N,"",1,446,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,55
+59030,"Vancouver East","Vancouver-Est"," 90","Vancouver",N,N,"",1,282,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 90","Vancouver",N,N,"",1,282,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,101
+59030,"Vancouver East","Vancouver-Est"," 90","Vancouver",N,N,"",1,282,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 90","Vancouver",N,N,"",1,282,"Haggard","","David Carl","Liberal","Libéral",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 90","Vancouver",N,N,"",1,282,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 91","Vancouver",N,N,"",0,342,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 91","Vancouver",N,N,"",0,342,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,138
+59030,"Vancouver East","Vancouver-Est"," 91","Vancouver",N,N,"",0,342,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 91","Vancouver",N,N,"",0,342,"Haggard","","David Carl","Liberal","Libéral",N,N,55
+59030,"Vancouver East","Vancouver-Est"," 91","Vancouver",N,N,"",0,342,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 92","Vancouver",N,N,"",1,472,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 92","Vancouver",N,N,"",1,472,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,156
+59030,"Vancouver East","Vancouver-Est"," 92","Vancouver",N,N,"",1,472,"Ellis","","Christine","Green Party","Parti Vert",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 92","Vancouver",N,N,"",1,472,"Haggard","","David Carl","Liberal","Libéral",N,N,66
+59030,"Vancouver East","Vancouver-Est"," 92","Vancouver",N,N,"",1,472,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 93","Vancouver",N,N,"",1,374,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 93","Vancouver",N,N,"",1,374,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,146
+59030,"Vancouver East","Vancouver-Est"," 93","Vancouver",N,N,"",1,374,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 93","Vancouver",N,N,"",1,374,"Haggard","","David Carl","Liberal","Libéral",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 93","Vancouver",N,N,"",1,374,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,40
+59030,"Vancouver East","Vancouver-Est"," 94","Vancouver",N,N,"",1,407,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 94","Vancouver",N,N,"",1,407,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,138
+59030,"Vancouver East","Vancouver-Est"," 94","Vancouver",N,N,"",1,407,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 94","Vancouver",N,N,"",1,407,"Haggard","","David Carl","Liberal","Libéral",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 94","Vancouver",N,N,"",1,407,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 95","Vancouver",N,N,"",2,368,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 95","Vancouver",N,N,"",2,368,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,131
+59030,"Vancouver East","Vancouver-Est"," 95","Vancouver",N,N,"",2,368,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 95","Vancouver",N,N,"",2,368,"Haggard","","David Carl","Liberal","Libéral",N,N,40
+59030,"Vancouver East","Vancouver-Est"," 95","Vancouver",N,N,"",2,368,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 96","Vancouver",N,N,"",0,305,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 96","Vancouver",N,N,"",0,305,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,117
+59030,"Vancouver East","Vancouver-Est"," 96","Vancouver",N,N,"",0,305,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 96","Vancouver",N,N,"",0,305,"Haggard","","David Carl","Liberal","Libéral",N,N,47
+59030,"Vancouver East","Vancouver-Est"," 96","Vancouver",N,N,"",0,305,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 97","Vancouver",N,N,"",0,395,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 97","Vancouver",N,N,"",0,395,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,124
+59030,"Vancouver East","Vancouver-Est"," 97","Vancouver",N,N,"",0,395,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 97","Vancouver",N,N,"",0,395,"Haggard","","David Carl","Liberal","Libéral",N,N,50
+59030,"Vancouver East","Vancouver-Est"," 97","Vancouver",N,N,"",0,395,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 98","Vancouver",N,N,"",2,298,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 98","Vancouver",N,N,"",2,298,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,96
+59030,"Vancouver East","Vancouver-Est"," 98","Vancouver",N,N,"",2,298,"Ellis","","Christine","Green Party","Parti Vert",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 98","Vancouver",N,N,"",2,298,"Haggard","","David Carl","Liberal","Libéral",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 98","Vancouver",N,N,"",2,298,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 99","Vancouver",N,N,"",0,381,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 99","Vancouver",N,N,"",0,381,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,126
+59030,"Vancouver East","Vancouver-Est"," 99","Vancouver",N,N,"",0,381,"Ellis","","Christine","Green Party","Parti Vert",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 99","Vancouver",N,N,"",0,381,"Haggard","","David Carl","Liberal","Libéral",N,N,46
+59030,"Vancouver East","Vancouver-Est"," 99","Vancouver",N,N,"",0,381,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,17
+59030,"Vancouver East","Vancouver-Est"," 100","Vancouver",N,N,"",0,449,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 100","Vancouver",N,N,"",0,449,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,154
+59030,"Vancouver East","Vancouver-Est"," 100","Vancouver",N,N,"",0,449,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 100","Vancouver",N,N,"",0,449,"Haggard","","David Carl","Liberal","Libéral",N,N,56
+59030,"Vancouver East","Vancouver-Est"," 100","Vancouver",N,N,"",0,449,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 101","Vancouver",N,N,"",4,378,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 101","Vancouver",N,N,"",4,378,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,135
+59030,"Vancouver East","Vancouver-Est"," 101","Vancouver",N,N,"",4,378,"Ellis","","Christine","Green Party","Parti Vert",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 101","Vancouver",N,N,"",4,378,"Haggard","","David Carl","Liberal","Libéral",N,N,46
+59030,"Vancouver East","Vancouver-Est"," 101","Vancouver",N,N,"",4,378,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 102","Vancouver",N,N,"",1,355,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 102","Vancouver",N,N,"",1,355,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,115
+59030,"Vancouver East","Vancouver-Est"," 102","Vancouver",N,N,"",1,355,"Ellis","","Christine","Green Party","Parti Vert",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 102","Vancouver",N,N,"",1,355,"Haggard","","David Carl","Liberal","Libéral",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 102","Vancouver",N,N,"",1,355,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 103","Vancouver",N,N,"",1,365,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 103","Vancouver",N,N,"",1,365,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,136
+59030,"Vancouver East","Vancouver-Est"," 103","Vancouver",N,N,"",1,365,"Ellis","","Christine","Green Party","Parti Vert",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 103","Vancouver",N,N,"",1,365,"Haggard","","David Carl","Liberal","Libéral",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 103","Vancouver",N,N,"",1,365,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,25
+59030,"Vancouver East","Vancouver-Est"," 104A","Vancouver",N,N,"",1,415,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 104A","Vancouver",N,N,"",1,415,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,136
+59030,"Vancouver East","Vancouver-Est"," 104A","Vancouver",N,N,"",1,415,"Ellis","","Christine","Green Party","Parti Vert",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 104A","Vancouver",N,N,"",1,415,"Haggard","","David Carl","Liberal","Libéral",N,N,43
+59030,"Vancouver East","Vancouver-Est"," 104A","Vancouver",N,N,"",1,415,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 104B","Vancouver",N,N,"",0,286,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 104B","Vancouver",N,N,"",0,286,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,79
+59030,"Vancouver East","Vancouver-Est"," 104B","Vancouver",N,N,"",0,286,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 104B","Vancouver",N,N,"",0,286,"Haggard","","David Carl","Liberal","Libéral",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 104B","Vancouver",N,N,"",0,286,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 104C","Mobile poll/Bureau itinérant",N,N,"52B",0,74,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 104C","Mobile poll/Bureau itinérant",N,N,"52B",0,74,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,0
+59030,"Vancouver East","Vancouver-Est"," 104C","Mobile poll/Bureau itinérant",N,N,"52B",0,74,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 104C","Mobile poll/Bureau itinérant",N,N,"52B",0,74,"Haggard","","David Carl","Liberal","Libéral",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 104C","Mobile poll/Bureau itinérant",N,N,"52B",0,74,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 105","Vancouver",N,N,"",1,391,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 105","Vancouver",N,N,"",1,391,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,110
+59030,"Vancouver East","Vancouver-Est"," 105","Vancouver",N,N,"",1,391,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 105","Vancouver",N,N,"",1,391,"Haggard","","David Carl","Liberal","Libéral",N,N,42
+59030,"Vancouver East","Vancouver-Est"," 105","Vancouver",N,N,"",1,391,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 106","Vancouver",N,N,"",1,490,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 106","Vancouver",N,N,"",1,490,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,132
+59030,"Vancouver East","Vancouver-Est"," 106","Vancouver",N,N,"",1,490,"Ellis","","Christine","Green Party","Parti Vert",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 106","Vancouver",N,N,"",1,490,"Haggard","","David Carl","Liberal","Libéral",N,N,61
+59030,"Vancouver East","Vancouver-Est"," 106","Vancouver",N,N,"",1,490,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,37
+59030,"Vancouver East","Vancouver-Est"," 107","Vancouver",N,N,"",1,570,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 107","Vancouver",N,N,"",1,570,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,195
+59030,"Vancouver East","Vancouver-Est"," 107","Vancouver",N,N,"",1,570,"Ellis","","Christine","Green Party","Parti Vert",N,N,25
+59030,"Vancouver East","Vancouver-Est"," 107","Vancouver",N,N,"",1,570,"Haggard","","David Carl","Liberal","Libéral",N,N,52
+59030,"Vancouver East","Vancouver-Est"," 107","Vancouver",N,N,"",1,570,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 108","Vancouver",N,N,"",1,383,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 108","Vancouver",N,N,"",1,383,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,131
+59030,"Vancouver East","Vancouver-Est"," 108","Vancouver",N,N,"",1,383,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 108","Vancouver",N,N,"",1,383,"Haggard","","David Carl","Liberal","Libéral",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 108","Vancouver",N,N,"",1,383,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 109A","Vancouver",N,N,"",1,449,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 109A","Vancouver",N,N,"",1,449,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,180
+59030,"Vancouver East","Vancouver-Est"," 109A","Vancouver",N,N,"",1,449,"Ellis","","Christine","Green Party","Parti Vert",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 109A","Vancouver",N,N,"",1,449,"Haggard","","David Carl","Liberal","Libéral",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 109A","Vancouver",N,N,"",1,449,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,25
+59030,"Vancouver East","Vancouver-Est"," 109B","Vancouver",N,N,"",1,239,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 109B","Vancouver",N,N,"",1,239,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,85
+59030,"Vancouver East","Vancouver-Est"," 109B","Vancouver",N,N,"",1,239,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 109B","Vancouver",N,N,"",1,239,"Haggard","","David Carl","Liberal","Libéral",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 109B","Vancouver",N,N,"",1,239,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 110","Vancouver",N,N,"",0,427,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 110","Vancouver",N,N,"",0,427,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,126
+59030,"Vancouver East","Vancouver-Est"," 110","Vancouver",N,N,"",0,427,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 110","Vancouver",N,N,"",0,427,"Haggard","","David Carl","Liberal","Libéral",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 110","Vancouver",N,N,"",0,427,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,25
+59030,"Vancouver East","Vancouver-Est"," 111A","Vancouver",N,N,"",0,408,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 111A","Vancouver",N,N,"",0,408,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,104
+59030,"Vancouver East","Vancouver-Est"," 111A","Vancouver",N,N,"",0,408,"Ellis","","Christine","Green Party","Parti Vert",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 111A","Vancouver",N,N,"",0,408,"Haggard","","David Carl","Liberal","Libéral",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 111A","Vancouver",N,N,"",0,408,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 111B","Vancouver",N,N,"",0,242,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 111B","Vancouver",N,N,"",0,242,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,75
+59030,"Vancouver East","Vancouver-Est"," 111B","Vancouver",N,N,"",0,242,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 111B","Vancouver",N,N,"",0,242,"Haggard","","David Carl","Liberal","Libéral",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 111B","Vancouver",N,N,"",0,242,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 112","Vancouver",N,N,"",0,410,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 112","Vancouver",N,N,"",0,410,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,112
+59030,"Vancouver East","Vancouver-Est"," 112","Vancouver",N,N,"",0,410,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 112","Vancouver",N,N,"",0,410,"Haggard","","David Carl","Liberal","Libéral",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 112","Vancouver",N,N,"",0,410,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 113","Vancouver",N,N,"",0,514,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 113","Vancouver",N,N,"",0,514,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,106
+59030,"Vancouver East","Vancouver-Est"," 113","Vancouver",N,N,"",0,514,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 113","Vancouver",N,N,"",0,514,"Haggard","","David Carl","Liberal","Libéral",N,N,36
+59030,"Vancouver East","Vancouver-Est"," 113","Vancouver",N,N,"",0,514,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 114","Vancouver",N,N,"",0,507,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 114","Vancouver",N,N,"",0,507,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,111
+59030,"Vancouver East","Vancouver-Est"," 114","Vancouver",N,N,"",0,507,"Ellis","","Christine","Green Party","Parti Vert",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 114","Vancouver",N,N,"",0,507,"Haggard","","David Carl","Liberal","Libéral",N,N,35
+59030,"Vancouver East","Vancouver-Est"," 114","Vancouver",N,N,"",0,507,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 115","Vancouver",N,N,"",1,283,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 115","Vancouver",N,N,"",1,283,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,98
+59030,"Vancouver East","Vancouver-Est"," 115","Vancouver",N,N,"",1,283,"Ellis","","Christine","Green Party","Parti Vert",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 115","Vancouver",N,N,"",1,283,"Haggard","","David Carl","Liberal","Libéral",N,N,31
+59030,"Vancouver East","Vancouver-Est"," 115","Vancouver",N,N,"",1,283,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 116","Vancouver",N,N,"",4,496,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 116","Vancouver",N,N,"",4,496,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,151
+59030,"Vancouver East","Vancouver-Est"," 116","Vancouver",N,N,"",4,496,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 116","Vancouver",N,N,"",4,496,"Haggard","","David Carl","Liberal","Libéral",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 116","Vancouver",N,N,"",4,496,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,32
+59030,"Vancouver East","Vancouver-Est"," 117","Vancouver",N,N,"",1,507,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 117","Vancouver",N,N,"",1,507,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,156
+59030,"Vancouver East","Vancouver-Est"," 117","Vancouver",N,N,"",1,507,"Ellis","","Christine","Green Party","Parti Vert",N,N,20
+59030,"Vancouver East","Vancouver-Est"," 117","Vancouver",N,N,"",1,507,"Haggard","","David Carl","Liberal","Libéral",N,N,40
+59030,"Vancouver East","Vancouver-Est"," 117","Vancouver",N,N,"",1,507,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 118","Vancouver",N,N,"",1,569,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 118","Vancouver",N,N,"",1,569,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,162
+59030,"Vancouver East","Vancouver-Est"," 118","Vancouver",N,N,"",1,569,"Ellis","","Christine","Green Party","Parti Vert",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 118","Vancouver",N,N,"",1,569,"Haggard","","David Carl","Liberal","Libéral",N,N,35
+59030,"Vancouver East","Vancouver-Est"," 118","Vancouver",N,N,"",1,569,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 119","Vancouver",N,N,"",1,452,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 119","Vancouver",N,N,"",1,452,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,118
+59030,"Vancouver East","Vancouver-Est"," 119","Vancouver",N,N,"",1,452,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 119","Vancouver",N,N,"",1,452,"Haggard","","David Carl","Liberal","Libéral",N,N,45
+59030,"Vancouver East","Vancouver-Est"," 119","Vancouver",N,N,"",1,452,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 120","Vancouver",N,N,"",0,387,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 120","Vancouver",N,N,"",0,387,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,123
+59030,"Vancouver East","Vancouver-Est"," 120","Vancouver",N,N,"",0,387,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 120","Vancouver",N,N,"",0,387,"Haggard","","David Carl","Liberal","Libéral",N,N,46
+59030,"Vancouver East","Vancouver-Est"," 120","Vancouver",N,N,"",0,387,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 121","Vancouver",N,N,"",2,536,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 121","Vancouver",N,N,"",2,536,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,184
+59030,"Vancouver East","Vancouver-Est"," 121","Vancouver",N,N,"",2,536,"Ellis","","Christine","Green Party","Parti Vert",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 121","Vancouver",N,N,"",2,536,"Haggard","","David Carl","Liberal","Libéral",N,N,69
+59030,"Vancouver East","Vancouver-Est"," 121","Vancouver",N,N,"",2,536,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 122","Vancouver",N,N,"",0,314,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 122","Vancouver",N,N,"",0,314,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,99
+59030,"Vancouver East","Vancouver-Est"," 122","Vancouver",N,N,"",0,314,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 122","Vancouver",N,N,"",0,314,"Haggard","","David Carl","Liberal","Libéral",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 122","Vancouver",N,N,"",0,314,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 123","Vancouver",N,N,"",1,417,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 123","Vancouver",N,N,"",1,417,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,172
+59030,"Vancouver East","Vancouver-Est"," 123","Vancouver",N,N,"",1,417,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 123","Vancouver",N,N,"",1,417,"Haggard","","David Carl","Liberal","Libéral",N,N,44
+59030,"Vancouver East","Vancouver-Est"," 123","Vancouver",N,N,"",1,417,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 124A","Vancouver",N,N,"",0,354,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 124A","Vancouver",N,N,"",0,354,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,105
+59030,"Vancouver East","Vancouver-Est"," 124A","Vancouver",N,N,"",0,354,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 124A","Vancouver",N,N,"",0,354,"Haggard","","David Carl","Liberal","Libéral",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 124A","Vancouver",N,N,"",0,354,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 124B","Vancouver",N,N,"",0,262,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 124B","Vancouver",N,N,"",0,262,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,68
+59030,"Vancouver East","Vancouver-Est"," 124B","Vancouver",N,N,"",0,262,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 124B","Vancouver",N,N,"",0,262,"Haggard","","David Carl","Liberal","Libéral",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 124B","Vancouver",N,N,"",0,262,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 125","Vancouver",N,N,"",3,534,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 125","Vancouver",N,N,"",3,534,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,165
+59030,"Vancouver East","Vancouver-Est"," 125","Vancouver",N,N,"",3,534,"Ellis","","Christine","Green Party","Parti Vert",N,N,32
+59030,"Vancouver East","Vancouver-Est"," 125","Vancouver",N,N,"",3,534,"Haggard","","David Carl","Liberal","Libéral",N,N,67
+59030,"Vancouver East","Vancouver-Est"," 125","Vancouver",N,N,"",3,534,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 126","Vancouver",N,N,"",2,523,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 126","Vancouver",N,N,"",2,523,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,153
+59030,"Vancouver East","Vancouver-Est"," 126","Vancouver",N,N,"",2,523,"Ellis","","Christine","Green Party","Parti Vert",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 126","Vancouver",N,N,"",2,523,"Haggard","","David Carl","Liberal","Libéral",N,N,51
+59030,"Vancouver East","Vancouver-Est"," 126","Vancouver",N,N,"",2,523,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,17
+59030,"Vancouver East","Vancouver-Est"," 127","Vancouver",N,N,"",1,484,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 127","Vancouver",N,N,"",1,484,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,149
+59030,"Vancouver East","Vancouver-Est"," 127","Vancouver",N,N,"",1,484,"Ellis","","Christine","Green Party","Parti Vert",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 127","Vancouver",N,N,"",1,484,"Haggard","","David Carl","Liberal","Libéral",N,N,47
+59030,"Vancouver East","Vancouver-Est"," 127","Vancouver",N,N,"",1,484,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 128","Vancouver",N,N,"",1,447,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 128","Vancouver",N,N,"",1,447,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,165
+59030,"Vancouver East","Vancouver-Est"," 128","Vancouver",N,N,"",1,447,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 128","Vancouver",N,N,"",1,447,"Haggard","","David Carl","Liberal","Libéral",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 128","Vancouver",N,N,"",1,447,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,11
+59030,"Vancouver East","Vancouver-Est"," 129","Vancouver",N,N,"",1,466,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 129","Vancouver",N,N,"",1,466,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,192
+59030,"Vancouver East","Vancouver-Est"," 129","Vancouver",N,N,"",1,466,"Ellis","","Christine","Green Party","Parti Vert",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 129","Vancouver",N,N,"",1,466,"Haggard","","David Carl","Liberal","Libéral",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 129","Vancouver",N,N,"",1,466,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 130","Vancouver",N,N,"",3,583,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 130","Vancouver",N,N,"",3,583,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,217
+59030,"Vancouver East","Vancouver-Est"," 130","Vancouver",N,N,"",3,583,"Ellis","","Christine","Green Party","Parti Vert",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 130","Vancouver",N,N,"",3,583,"Haggard","","David Carl","Liberal","Libéral",N,N,80
+59030,"Vancouver East","Vancouver-Est"," 130","Vancouver",N,N,"",3,583,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 131","Vancouver",N,N,"",1,591,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 131","Vancouver",N,N,"",1,591,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,178
+59030,"Vancouver East","Vancouver-Est"," 131","Vancouver",N,N,"",1,591,"Ellis","","Christine","Green Party","Parti Vert",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 131","Vancouver",N,N,"",1,591,"Haggard","","David Carl","Liberal","Libéral",N,N,112
+59030,"Vancouver East","Vancouver-Est"," 131","Vancouver",N,N,"",1,591,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 132","Vancouver",N,N,"",3,484,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 132","Vancouver",N,N,"",3,484,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,116
+59030,"Vancouver East","Vancouver-Est"," 132","Vancouver",N,N,"",3,484,"Ellis","","Christine","Green Party","Parti Vert",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 132","Vancouver",N,N,"",3,484,"Haggard","","David Carl","Liberal","Libéral",N,N,85
+59030,"Vancouver East","Vancouver-Est"," 132","Vancouver",N,N,"",3,484,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,50
+59030,"Vancouver East","Vancouver-Est"," 133","Vancouver",N,N,"",0,446,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 133","Vancouver",N,N,"",0,446,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,178
+59030,"Vancouver East","Vancouver-Est"," 133","Vancouver",N,N,"",0,446,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 133","Vancouver",N,N,"",0,446,"Haggard","","David Carl","Liberal","Libéral",N,N,42
+59030,"Vancouver East","Vancouver-Est"," 133","Vancouver",N,N,"",0,446,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,32
+59030,"Vancouver East","Vancouver-Est"," 134","Vancouver",N,N,"",0,593,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 134","Vancouver",N,N,"",0,593,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,185
+59030,"Vancouver East","Vancouver-Est"," 134","Vancouver",N,N,"",0,593,"Ellis","","Christine","Green Party","Parti Vert",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 134","Vancouver",N,N,"",0,593,"Haggard","","David Carl","Liberal","Libéral",N,N,80
+59030,"Vancouver East","Vancouver-Est"," 134","Vancouver",N,N,"",0,593,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,35
+59030,"Vancouver East","Vancouver-Est"," 135","Vancouver",N,N,"",0,521,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 135","Vancouver",N,N,"",0,521,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,116
+59030,"Vancouver East","Vancouver-Est"," 135","Vancouver",N,N,"",0,521,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 135","Vancouver",N,N,"",0,521,"Haggard","","David Carl","Liberal","Libéral",N,N,91
+59030,"Vancouver East","Vancouver-Est"," 135","Vancouver",N,N,"",0,521,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,67
+59030,"Vancouver East","Vancouver-Est"," 136","Vancouver",N,N,"",3,504,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 136","Vancouver",N,N,"",3,504,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,198
+59030,"Vancouver East","Vancouver-Est"," 136","Vancouver",N,N,"",3,504,"Ellis","","Christine","Green Party","Parti Vert",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 136","Vancouver",N,N,"",3,504,"Haggard","","David Carl","Liberal","Libéral",N,N,49
+59030,"Vancouver East","Vancouver-Est"," 136","Vancouver",N,N,"",3,504,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,38
+59030,"Vancouver East","Vancouver-Est"," 137","Vancouver",N,N,"",1,498,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 137","Vancouver",N,N,"",1,498,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,112
+59030,"Vancouver East","Vancouver-Est"," 137","Vancouver",N,N,"",1,498,"Ellis","","Christine","Green Party","Parti Vert",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 137","Vancouver",N,N,"",1,498,"Haggard","","David Carl","Liberal","Libéral",N,N,73
+59030,"Vancouver East","Vancouver-Est"," 137","Vancouver",N,N,"",1,498,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 138","Vancouver",N,N,"",0,458,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 138","Vancouver",N,N,"",0,458,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,125
+59030,"Vancouver East","Vancouver-Est"," 138","Vancouver",N,N,"",0,458,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 138","Vancouver",N,N,"",0,458,"Haggard","","David Carl","Liberal","Libéral",N,N,76
+59030,"Vancouver East","Vancouver-Est"," 138","Vancouver",N,N,"",0,458,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,33
+59030,"Vancouver East","Vancouver-Est"," 139","Vancouver",N,N,"",0,448,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 139","Vancouver",N,N,"",0,448,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,191
+59030,"Vancouver East","Vancouver-Est"," 139","Vancouver",N,N,"",0,448,"Ellis","","Christine","Green Party","Parti Vert",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 139","Vancouver",N,N,"",0,448,"Haggard","","David Carl","Liberal","Libéral",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 139","Vancouver",N,N,"",0,448,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 140","Vancouver",N,N,"",0,510,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 140","Vancouver",N,N,"",0,510,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,149
+59030,"Vancouver East","Vancouver-Est"," 140","Vancouver",N,N,"",0,510,"Ellis","","Christine","Green Party","Parti Vert",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 140","Vancouver",N,N,"",0,510,"Haggard","","David Carl","Liberal","Libéral",N,N,72
+59030,"Vancouver East","Vancouver-Est"," 140","Vancouver",N,N,"",0,510,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,46
+59030,"Vancouver East","Vancouver-Est"," 141","Vancouver",N,N,"",2,597,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 141","Vancouver",N,N,"",2,597,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,147
+59030,"Vancouver East","Vancouver-Est"," 141","Vancouver",N,N,"",2,597,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 141","Vancouver",N,N,"",2,597,"Haggard","","David Carl","Liberal","Libéral",N,N,107
+59030,"Vancouver East","Vancouver-Est"," 141","Vancouver",N,N,"",2,597,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,62
+59030,"Vancouver East","Vancouver-Est"," 142","Vancouver",N,N,"",1,272,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 142","Vancouver",N,N,"",1,272,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,79
+59030,"Vancouver East","Vancouver-Est"," 142","Vancouver",N,N,"",1,272,"Ellis","","Christine","Green Party","Parti Vert",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 142","Vancouver",N,N,"",1,272,"Haggard","","David Carl","Liberal","Libéral",N,N,22
+59030,"Vancouver East","Vancouver-Est"," 142","Vancouver",N,N,"",1,272,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 143","Vancouver",N,N,"",0,487,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 143","Vancouver",N,N,"",0,487,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,172
+59030,"Vancouver East","Vancouver-Est"," 143","Vancouver",N,N,"",0,487,"Ellis","","Christine","Green Party","Parti Vert",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 143","Vancouver",N,N,"",0,487,"Haggard","","David Carl","Liberal","Libéral",N,N,57
+59030,"Vancouver East","Vancouver-Est"," 143","Vancouver",N,N,"",0,487,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,26
+59030,"Vancouver East","Vancouver-Est"," 144","Vancouver",N,N,"",2,470,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 144","Vancouver",N,N,"",2,470,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,147
+59030,"Vancouver East","Vancouver-Est"," 144","Vancouver",N,N,"",2,470,"Ellis","","Christine","Green Party","Parti Vert",N,N,17
+59030,"Vancouver East","Vancouver-Est"," 144","Vancouver",N,N,"",2,470,"Haggard","","David Carl","Liberal","Libéral",N,N,60
+59030,"Vancouver East","Vancouver-Est"," 144","Vancouver",N,N,"",2,470,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,30
+59030,"Vancouver East","Vancouver-Est"," 145A","Vancouver",N,N,"",1,433,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 145A","Vancouver",N,N,"",1,433,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,79
+59030,"Vancouver East","Vancouver-Est"," 145A","Vancouver",N,N,"",1,433,"Ellis","","Christine","Green Party","Parti Vert",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 145A","Vancouver",N,N,"",1,433,"Haggard","","David Carl","Liberal","Libéral",N,N,45
+59030,"Vancouver East","Vancouver-Est"," 145A","Vancouver",N,N,"",1,433,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,66
+59030,"Vancouver East","Vancouver-Est"," 145B","Vancouver",N,N,"",1,271,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 145B","Vancouver",N,N,"",1,271,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,48
+59030,"Vancouver East","Vancouver-Est"," 145B","Vancouver",N,N,"",1,271,"Ellis","","Christine","Green Party","Parti Vert",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 145B","Vancouver",N,N,"",1,271,"Haggard","","David Carl","Liberal","Libéral",N,N,49
+59030,"Vancouver East","Vancouver-Est"," 145B","Vancouver",N,N,"",1,271,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 146","Vancouver",N,N,"",3,392,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 146","Vancouver",N,N,"",3,392,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,77
+59030,"Vancouver East","Vancouver-Est"," 146","Vancouver",N,N,"",3,392,"Ellis","","Christine","Green Party","Parti Vert",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 146","Vancouver",N,N,"",3,392,"Haggard","","David Carl","Liberal","Libéral",N,N,69
+59030,"Vancouver East","Vancouver-Est"," 146","Vancouver",N,N,"",3,392,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,41
+59030,"Vancouver East","Vancouver-Est"," 147","Vancouver",N,N,"",2,419,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 147","Vancouver",N,N,"",2,419,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,127
+59030,"Vancouver East","Vancouver-Est"," 147","Vancouver",N,N,"",2,419,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 147","Vancouver",N,N,"",2,419,"Haggard","","David Carl","Liberal","Libéral",N,N,44
+59030,"Vancouver East","Vancouver-Est"," 147","Vancouver",N,N,"",2,419,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 148","Vancouver",N,N,"",1,514,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 148","Vancouver",N,N,"",1,514,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,143
+59030,"Vancouver East","Vancouver-Est"," 148","Vancouver",N,N,"",1,514,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 148","Vancouver",N,N,"",1,514,"Haggard","","David Carl","Liberal","Libéral",N,N,73
+59030,"Vancouver East","Vancouver-Est"," 148","Vancouver",N,N,"",1,514,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,24
+59030,"Vancouver East","Vancouver-Est"," 149","Vancouver",N,N,"",1,525,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 149","Vancouver",N,N,"",1,525,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,126
+59030,"Vancouver East","Vancouver-Est"," 149","Vancouver",N,N,"",1,525,"Ellis","","Christine","Green Party","Parti Vert",N,N,9
+59030,"Vancouver East","Vancouver-Est"," 149","Vancouver",N,N,"",1,525,"Haggard","","David Carl","Liberal","Libéral",N,N,96
+59030,"Vancouver East","Vancouver-Est"," 149","Vancouver",N,N,"",1,525,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,67
+59030,"Vancouver East","Vancouver-Est"," 150","Vancouver",N,N,"",2,554,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 150","Vancouver",N,N,"",2,554,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,132
+59030,"Vancouver East","Vancouver-Est"," 150","Vancouver",N,N,"",2,554,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 150","Vancouver",N,N,"",2,554,"Haggard","","David Carl","Liberal","Libéral",N,N,118
+59030,"Vancouver East","Vancouver-Est"," 150","Vancouver",N,N,"",2,554,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,46
+59030,"Vancouver East","Vancouver-Est"," 151A","Vancouver",N,N,"",0,397,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 151A","Vancouver",N,N,"",0,397,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,72
+59030,"Vancouver East","Vancouver-Est"," 151A","Vancouver",N,N,"",0,397,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 151A","Vancouver",N,N,"",0,397,"Haggard","","David Carl","Liberal","Libéral",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 151A","Vancouver",N,N,"",0,397,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,32
+59030,"Vancouver East","Vancouver-Est"," 151B","Vancouver",N,N,"",0,226,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 151B","Vancouver",N,N,"",0,226,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,31
+59030,"Vancouver East","Vancouver-Est"," 151B","Vancouver",N,N,"",0,226,"Ellis","","Christine","Green Party","Parti Vert",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 151B","Vancouver",N,N,"",0,226,"Haggard","","David Carl","Liberal","Libéral",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 151B","Vancouver",N,N,"",0,226,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 152","Vancouver",N,N,"",1,603,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 152","Vancouver",N,N,"",1,603,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,201
+59030,"Vancouver East","Vancouver-Est"," 152","Vancouver",N,N,"",1,603,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 152","Vancouver",N,N,"",1,603,"Haggard","","David Carl","Liberal","Libéral",N,N,71
+59030,"Vancouver East","Vancouver-Est"," 152","Vancouver",N,N,"",1,603,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,52
+59030,"Vancouver East","Vancouver-Est"," 153","Vancouver",N,N,"",1,503,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 153","Vancouver",N,N,"",1,503,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,143
+59030,"Vancouver East","Vancouver-Est"," 153","Vancouver",N,N,"",1,503,"Ellis","","Christine","Green Party","Parti Vert",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 153","Vancouver",N,N,"",1,503,"Haggard","","David Carl","Liberal","Libéral",N,N,90
+59030,"Vancouver East","Vancouver-Est"," 153","Vancouver",N,N,"",1,503,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,35
+59030,"Vancouver East","Vancouver-Est"," 154","Vancouver",N,N,"",3,494,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 154","Vancouver",N,N,"",3,494,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,121
+59030,"Vancouver East","Vancouver-Est"," 154","Vancouver",N,N,"",3,494,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 154","Vancouver",N,N,"",3,494,"Haggard","","David Carl","Liberal","Libéral",N,N,91
+59030,"Vancouver East","Vancouver-Est"," 154","Vancouver",N,N,"",3,494,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,44
+59030,"Vancouver East","Vancouver-Est"," 155","Vancouver",N,N,"",0,519,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 155","Vancouver",N,N,"",0,519,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,107
+59030,"Vancouver East","Vancouver-Est"," 155","Vancouver",N,N,"",0,519,"Ellis","","Christine","Green Party","Parti Vert",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 155","Vancouver",N,N,"",0,519,"Haggard","","David Carl","Liberal","Libéral",N,N,112
+59030,"Vancouver East","Vancouver-Est"," 155","Vancouver",N,N,"",0,519,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,64
+59030,"Vancouver East","Vancouver-Est"," 156","Vancouver",N,N,"",0,451,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 156","Vancouver",N,N,"",0,451,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,113
+59030,"Vancouver East","Vancouver-Est"," 156","Vancouver",N,N,"",0,451,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 156","Vancouver",N,N,"",0,451,"Haggard","","David Carl","Liberal","Libéral",N,N,85
+59030,"Vancouver East","Vancouver-Est"," 156","Vancouver",N,N,"",0,451,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,52
+59030,"Vancouver East","Vancouver-Est"," 157","Vancouver",N,N,"",1,587,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 157","Vancouver",N,N,"",1,587,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,128
+59030,"Vancouver East","Vancouver-Est"," 157","Vancouver",N,N,"",1,587,"Ellis","","Christine","Green Party","Parti Vert",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 157","Vancouver",N,N,"",1,587,"Haggard","","David Carl","Liberal","Libéral",N,N,90
+59030,"Vancouver East","Vancouver-Est"," 157","Vancouver",N,N,"",1,587,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,52
+59030,"Vancouver East","Vancouver-Est"," 158","Vancouver",N,N,"",1,530,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 158","Vancouver",N,N,"",1,530,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,93
+59030,"Vancouver East","Vancouver-Est"," 158","Vancouver",N,N,"",1,530,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 158","Vancouver",N,N,"",1,530,"Haggard","","David Carl","Liberal","Libéral",N,N,96
+59030,"Vancouver East","Vancouver-Est"," 158","Vancouver",N,N,"",1,530,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,71
+59030,"Vancouver East","Vancouver-Est"," 159","Vancouver",N,N,"",0,531,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 159","Vancouver",N,N,"",0,531,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,116
+59030,"Vancouver East","Vancouver-Est"," 159","Vancouver",N,N,"",0,531,"Ellis","","Christine","Green Party","Parti Vert",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 159","Vancouver",N,N,"",0,531,"Haggard","","David Carl","Liberal","Libéral",N,N,84
+59030,"Vancouver East","Vancouver-Est"," 159","Vancouver",N,N,"",0,531,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,56
+59030,"Vancouver East","Vancouver-Est"," 160","Vancouver",N,N,"",1,481,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 160","Vancouver",N,N,"",1,481,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,108
+59030,"Vancouver East","Vancouver-Est"," 160","Vancouver",N,N,"",1,481,"Ellis","","Christine","Green Party","Parti Vert",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 160","Vancouver",N,N,"",1,481,"Haggard","","David Carl","Liberal","Libéral",N,N,86
+59030,"Vancouver East","Vancouver-Est"," 160","Vancouver",N,N,"",1,481,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,51
+59030,"Vancouver East","Vancouver-Est"," 161","Vancouver",N,N,"",1,414,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 161","Vancouver",N,N,"",1,414,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,72
+59030,"Vancouver East","Vancouver-Est"," 161","Vancouver",N,N,"",1,414,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 161","Vancouver",N,N,"",1,414,"Haggard","","David Carl","Liberal","Libéral",N,N,57
+59030,"Vancouver East","Vancouver-Est"," 161","Vancouver",N,N,"",1,414,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,34
+59030,"Vancouver East","Vancouver-Est"," 162","Vancouver",N,N,"",0,440,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 162","Vancouver",N,N,"",0,440,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,98
+59030,"Vancouver East","Vancouver-Est"," 162","Vancouver",N,N,"",0,440,"Ellis","","Christine","Green Party","Parti Vert",N,N,7
+59030,"Vancouver East","Vancouver-Est"," 162","Vancouver",N,N,"",0,440,"Haggard","","David Carl","Liberal","Libéral",N,N,82
+59030,"Vancouver East","Vancouver-Est"," 162","Vancouver",N,N,"",0,440,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,43
+59030,"Vancouver East","Vancouver-Est"," 163","Vancouver",N,N,"",0,429,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 163","Vancouver",N,N,"",0,429,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,69
+59030,"Vancouver East","Vancouver-Est"," 163","Vancouver",N,N,"",0,429,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 163","Vancouver",N,N,"",0,429,"Haggard","","David Carl","Liberal","Libéral",N,N,86
+59030,"Vancouver East","Vancouver-Est"," 163","Vancouver",N,N,"",0,429,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,50
+59030,"Vancouver East","Vancouver-Est"," 164","Vancouver",N,N,"",3,514,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 164","Vancouver",N,N,"",3,514,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,86
+59030,"Vancouver East","Vancouver-Est"," 164","Vancouver",N,N,"",3,514,"Ellis","","Christine","Green Party","Parti Vert",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 164","Vancouver",N,N,"",3,514,"Haggard","","David Carl","Liberal","Libéral",N,N,52
+59030,"Vancouver East","Vancouver-Est"," 164","Vancouver",N,N,"",3,514,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,58
+59030,"Vancouver East","Vancouver-Est"," 165","Vancouver",N,N,"",4,560,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 165","Vancouver",N,N,"",4,560,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,152
+59030,"Vancouver East","Vancouver-Est"," 165","Vancouver",N,N,"",4,560,"Ellis","","Christine","Green Party","Parti Vert",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 165","Vancouver",N,N,"",4,560,"Haggard","","David Carl","Liberal","Libéral",N,N,48
+59030,"Vancouver East","Vancouver-Est"," 165","Vancouver",N,N,"",4,560,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,39
+59030,"Vancouver East","Vancouver-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,85,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,85,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,19
+59030,"Vancouver East","Vancouver-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,85,"Ellis","","Christine","Green Party","Parti Vert",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,85,"Haggard","","David Carl","Liberal","Libéral",N,N,13
+59030,"Vancouver East","Vancouver-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,85,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,242,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,242,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,11
+59030,"Vancouver East","Vancouver-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,242,"Ellis","","Christine","Green Party","Parti Vert",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,242,"Haggard","","David Carl","Liberal","Libéral",N,N,90
+59030,"Vancouver East","Vancouver-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,242,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,213,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,213,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,31
+59030,"Vancouver East","Vancouver-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,213,"Ellis","","Christine","Green Party","Parti Vert",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,213,"Haggard","","David Carl","Liberal","Libéral",N,N,25
+59030,"Vancouver East","Vancouver-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,213,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,6
+59030,"Vancouver East","Vancouver-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",0,81,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,3
+59030,"Vancouver East","Vancouver-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",0,81,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,27
+59030,"Vancouver East","Vancouver-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",0,81,"Ellis","","Christine","Green Party","Parti Vert",N,N,5
+59030,"Vancouver East","Vancouver-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",0,81,"Haggard","","David Carl","Liberal","Libéral",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",0,81,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,12
+59030,"Vancouver East","Vancouver-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",0,71,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",0,71,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,17
+59030,"Vancouver East","Vancouver-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",0,71,"Ellis","","Christine","Green Party","Parti Vert",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",0,71,"Haggard","","David Carl","Liberal","Libéral",N,N,29
+59030,"Vancouver East","Vancouver-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",0,71,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 600","Vancouver",N,N,"",2,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 600","Vancouver",N,N,"",2,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,198
+59030,"Vancouver East","Vancouver-Est"," 600","Vancouver",N,N,"",2,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,19
+59030,"Vancouver East","Vancouver-Est"," 600","Vancouver",N,N,"",2,0,"Haggard","","David Carl","Liberal","Libéral",N,N,90
+59030,"Vancouver East","Vancouver-Est"," 600","Vancouver",N,N,"",2,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,49
+59030,"Vancouver East","Vancouver-Est"," 601","Vancouver",N,N,"",0,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 601","Vancouver",N,N,"",0,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,54
+59030,"Vancouver East","Vancouver-Est"," 601","Vancouver",N,N,"",0,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,10
+59030,"Vancouver East","Vancouver-Est"," 601","Vancouver",N,N,"",0,0,"Haggard","","David Carl","Liberal","Libéral",N,N,18
+59030,"Vancouver East","Vancouver-Est"," 601","Vancouver",N,N,"",0,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," 602","Vancouver",N,N,"",1,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 602","Vancouver",N,N,"",1,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,361
+59030,"Vancouver East","Vancouver-Est"," 602","Vancouver",N,N,"",1,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,32
+59030,"Vancouver East","Vancouver-Est"," 602","Vancouver",N,N,"",1,0,"Haggard","","David Carl","Liberal","Libéral",N,N,55
+59030,"Vancouver East","Vancouver-Est"," 602","Vancouver",N,N,"",1,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,27
+59030,"Vancouver East","Vancouver-Est"," 603","Vancouver",N,N,"",1,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,2
+59030,"Vancouver East","Vancouver-Est"," 603","Vancouver",N,N,"",1,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,238
+59030,"Vancouver East","Vancouver-Est"," 603","Vancouver",N,N,"",1,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,28
+59030,"Vancouver East","Vancouver-Est"," 603","Vancouver",N,N,"",1,0,"Haggard","","David Carl","Liberal","Libéral",N,N,51
+59030,"Vancouver East","Vancouver-Est"," 603","Vancouver",N,N,"",1,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,54
+59030,"Vancouver East","Vancouver-Est"," 604","Vancouver",N,N,"",1,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,4
+59030,"Vancouver East","Vancouver-Est"," 604","Vancouver",N,N,"",1,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,171
+59030,"Vancouver East","Vancouver-Est"," 604","Vancouver",N,N,"",1,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," 604","Vancouver",N,N,"",1,0,"Haggard","","David Carl","Liberal","Libéral",N,N,73
+59030,"Vancouver East","Vancouver-Est"," 604","Vancouver",N,N,"",1,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,62
+59030,"Vancouver East","Vancouver-Est"," 605","Vancouver",N,N,"",1,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 605","Vancouver",N,N,"",1,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,111
+59030,"Vancouver East","Vancouver-Est"," 605","Vancouver",N,N,"",1,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,8
+59030,"Vancouver East","Vancouver-Est"," 605","Vancouver",N,N,"",1,0,"Haggard","","David Carl","Liberal","Libéral",N,N,71
+59030,"Vancouver East","Vancouver-Est"," 605","Vancouver",N,N,"",1,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,75
+59030,"Vancouver East","Vancouver-Est"," 606","Vancouver",N,N,"",1,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," 606","Vancouver",N,N,"",1,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,225
+59030,"Vancouver East","Vancouver-Est"," 606","Vancouver",N,N,"",1,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,16
+59030,"Vancouver East","Vancouver-Est"," 606","Vancouver",N,N,"",1,0,"Haggard","","David Carl","Liberal","Libéral",N,N,66
+59030,"Vancouver East","Vancouver-Est"," 606","Vancouver",N,N,"",1,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,81
+59030,"Vancouver East","Vancouver-Est"," 607","Vancouver",N,N,"",2,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 607","Vancouver",N,N,"",2,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,196
+59030,"Vancouver East","Vancouver-Est"," 607","Vancouver",N,N,"",2,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,23
+59030,"Vancouver East","Vancouver-Est"," 607","Vancouver",N,N,"",2,0,"Haggard","","David Carl","Liberal","Libéral",N,N,62
+59030,"Vancouver East","Vancouver-Est"," 607","Vancouver",N,N,"",2,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,70
+59030,"Vancouver East","Vancouver-Est"," 608","Vancouver",N,N,"",5,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," 608","Vancouver",N,N,"",5,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,231
+59030,"Vancouver East","Vancouver-Est"," 608","Vancouver",N,N,"",5,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,21
+59030,"Vancouver East","Vancouver-Est"," 608","Vancouver",N,N,"",5,0,"Haggard","","David Carl","Liberal","Libéral",N,N,103
+59030,"Vancouver East","Vancouver-Est"," 608","Vancouver",N,N,"",5,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,77
+59030,"Vancouver East","Vancouver-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,223,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,0
+59030,"Vancouver East","Vancouver-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,223,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,80
+59030,"Vancouver East","Vancouver-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,223,"Ellis","","Christine","Green Party","Parti Vert",N,N,14
+59030,"Vancouver East","Vancouver-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,223,"Haggard","","David Carl","Liberal","Libéral",N,N,45
+59030,"Vancouver East","Vancouver-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,223,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,15
+59030,"Vancouver East","Vancouver-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Bartholomew","","Bryce","Canadian Action","Action canadienne",N,N,1
+59030,"Vancouver East","Vancouver-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Davies","","Libby","N.D.P.","N.P.D.",Y,Y,281
+59030,"Vancouver East","Vancouver-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Ellis","","Christine","Green Party","Parti Vert",N,N,23
+59030,"Vancouver East","Vancouver-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Haggard","","David Carl","Liberal","Libéral",N,N,70
+59030,"Vancouver East","Vancouver-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Pagtakhan","","Elizabeth M.","Conservative","Conservateur",N,N,40

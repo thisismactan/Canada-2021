@@ -1,0 +1,945 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 1","Miscou Plains",N,N,"",2,291,"Cormier","","Serge","Liberal","Libéral",Y,Y,50
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 1","Miscou Plains",N,N,"",2,291,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 1","Miscou Plains",N,N,"",2,291,"Savoie","","Martine","Conservative","Conservateur",N,N,70
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 1","Miscou Plains",N,N,"",2,291,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 2","Miscou Centre",N,N,"",2,204,"Cormier","","Serge","Liberal","Libéral",Y,Y,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 2","Miscou Centre",N,N,"",2,204,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 2","Miscou Centre",N,N,"",2,204,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 2","Miscou Centre",N,N,"",2,204,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 3","Pigeon Hill",N,N,"",12,362,"Cormier","","Serge","Liberal","Libéral",Y,Y,103
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 3","Pigeon Hill",N,N,"",12,362,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 3","Pigeon Hill",N,N,"",12,362,"Savoie","","Martine","Conservative","Conservateur",N,N,94
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 3","Pigeon Hill",N,N,"",12,362,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 4","Coteau Road",N,N,"",4,392,"Cormier","","Serge","Liberal","Libéral",Y,Y,80
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 4","Coteau Road",N,N,"",4,392,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 4","Coteau Road",N,N,"",4,392,"Savoie","","Martine","Conservative","Conservateur",N,N,76
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 4","Coteau Road",N,N,"",4,392,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 5","Petite-Rivière-de-l'Ile",N,N,"",11,263,"Cormier","","Serge","Liberal","Libéral",Y,Y,64
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 5","Petite-Rivière-de-l'Ile",N,N,"",11,263,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 5","Petite-Rivière-de-l'Ile",N,N,"",11,263,"Savoie","","Martine","Conservative","Conservateur",N,N,49
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 5","Petite-Rivière-de-l'Ile",N,N,"",11,263,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 6","Petite-Rivière-de-l'Ile",N,N,"",7,369,"Cormier","","Serge","Liberal","Libéral",Y,Y,102
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 6","Petite-Rivière-de-l'Ile",N,N,"",7,369,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 6","Petite-Rivière-de-l'Ile",N,N,"",7,369,"Savoie","","Martine","Conservative","Conservateur",N,N,65
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 6","Petite-Rivière-de-l'Ile",N,N,"",7,369,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 7","Sainte-Cécile",N,N,"",5,281,"Cormier","","Serge","Liberal","Libéral",Y,Y,75
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 7","Sainte-Cécile",N,N,"",5,281,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 7","Sainte-Cécile",N,N,"",5,281,"Savoie","","Martine","Conservative","Conservateur",N,N,47
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 7","Sainte-Cécile",N,N,"",5,281,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 8","Petite-Lamèque",N,N,"",5,268,"Cormier","","Serge","Liberal","Libéral",Y,Y,53
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 8","Petite-Lamèque",N,N,"",5,268,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 8","Petite-Lamèque",N,N,"",5,268,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 8","Petite-Lamèque",N,N,"",5,268,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 9","Cap-Bateau",N,N,"",9,327,"Cormier","","Serge","Liberal","Libéral",Y,Y,99
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 9","Cap-Bateau",N,N,"",9,327,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 9","Cap-Bateau",N,N,"",9,327,"Savoie","","Martine","Conservative","Conservateur",N,N,50
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 9","Cap-Bateau",N,N,"",9,327,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 10","Cap-Bateau",N,N,"",6,384,"Cormier","","Serge","Liberal","Libéral",Y,Y,77
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 10","Cap-Bateau",N,N,"",6,384,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 10","Cap-Bateau",N,N,"",6,384,"Savoie","","Martine","Conservative","Conservateur",N,N,81
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 10","Cap-Bateau",N,N,"",6,384,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 11","Sainte-Marie-Saint-Raphaël",N,N,"",9,285,"Cormier","","Serge","Liberal","Libéral",Y,Y,77
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 11","Sainte-Marie-Saint-Raphaël",N,N,"",9,285,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 11","Sainte-Marie-Saint-Raphaël",N,N,"",9,285,"Savoie","","Martine","Conservative","Conservateur",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 11","Sainte-Marie-Saint-Raphaël",N,N,"",9,285,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 12","Lamèque",N,N,"",5,435,"Cormier","","Serge","Liberal","Libéral",Y,Y,101
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 12","Lamèque",N,N,"",5,435,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 12","Lamèque",N,N,"",5,435,"Savoie","","Martine","Conservative","Conservateur",N,N,87
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 12","Lamèque",N,N,"",5,435,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 13","Lamèque",N,N,"",5,342,"Cormier","","Serge","Liberal","Libéral",Y,Y,64
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 13","Lamèque",N,N,"",5,342,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 13","Lamèque",N,N,"",5,342,"Savoie","","Martine","Conservative","Conservateur",N,N,62
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 13","Lamèque",N,N,"",5,342,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 14","Pointe-Alexandre",N,N,"",5,272,"Cormier","","Serge","Liberal","Libéral",Y,Y,75
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 14","Pointe-Alexandre",N,N,"",5,272,"Kryszko","","Robert","Green Party","Parti Vert",N,N,2
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 14","Pointe-Alexandre",N,N,"",5,272,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 14","Pointe-Alexandre",N,N,"",5,272,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 15","Lamèque",N,N,"",7,278,"Cormier","","Serge","Liberal","Libéral",Y,Y,60
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 15","Lamèque",N,N,"",7,278,"Kryszko","","Robert","Green Party","Parti Vert",N,N,5
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 15","Lamèque",N,N,"",7,278,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 15","Lamèque",N,N,"",7,278,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 16","Sainte-Marie-Saint-Raphaël",N,N,"",3,247,"Cormier","","Serge","Liberal","Libéral",Y,Y,77
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 16","Sainte-Marie-Saint-Raphaël",N,N,"",3,247,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 16","Sainte-Marie-Saint-Raphaël",N,N,"",3,247,"Savoie","","Martine","Conservative","Conservateur",N,N,42
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 16","Sainte-Marie-Saint-Raphaël",N,N,"",3,247,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 17","Pokesudie",N,N,"",12,311,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 17","Pokesudie",N,N,"",12,311,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 17","Pokesudie",N,N,"",12,311,"Savoie","","Martine","Conservative","Conservateur",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 17","Pokesudie",N,N,"",12,311,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 18","Bas-Caraquet",N,N,"",2,406,"Cormier","","Serge","Liberal","Libéral",Y,Y,107
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 18","Bas-Caraquet",N,N,"",2,406,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 18","Bas-Caraquet",N,N,"",2,406,"Savoie","","Martine","Conservative","Conservateur",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 18","Bas-Caraquet",N,N,"",2,406,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 19","Bas-Caraquet",N,N,"",1,368,"Cormier","","Serge","Liberal","Libéral",Y,Y,93
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 19","Bas-Caraquet",N,N,"",1,368,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 19","Bas-Caraquet",N,N,"",1,368,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 19","Bas-Caraquet",N,N,"",1,368,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 20","Bas-Caraquet",N,N,"",0,313,"Cormier","","Serge","Liberal","Libéral",Y,Y,75
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 20","Bas-Caraquet",N,N,"",0,313,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 20","Bas-Caraquet",N,N,"",0,313,"Savoie","","Martine","Conservative","Conservateur",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 20","Bas-Caraquet",N,N,"",0,313,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 21","Chiasson",N,N,"",7,396,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 21","Chiasson",N,N,"",7,396,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 21","Chiasson",N,N,"",7,396,"Savoie","","Martine","Conservative","Conservateur",N,N,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 21","Chiasson",N,N,"",7,396,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 22","Haut-Shippegan",N,N,"",0,346,"Cormier","","Serge","Liberal","Libéral",Y,Y,75
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 22","Haut-Shippegan",N,N,"",0,346,"Kryszko","","Robert","Green Party","Parti Vert",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 22","Haut-Shippegan",N,N,"",0,346,"Savoie","","Martine","Conservative","Conservateur",N,N,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 22","Haut-Shippegan",N,N,"",0,346,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 23","Shippegan",N,N,"",1,250,"Cormier","","Serge","Liberal","Libéral",Y,Y,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 23","Shippegan",N,N,"",1,250,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 23","Shippegan",N,N,"",1,250,"Savoie","","Martine","Conservative","Conservateur",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 23","Shippegan",N,N,"",1,250,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 24","Shippagan",N,N,"",4,343,"Cormier","","Serge","Liberal","Libéral",Y,Y,76
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 24","Shippagan",N,N,"",4,343,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 24","Shippagan",N,N,"",4,343,"Savoie","","Martine","Conservative","Conservateur",N,N,41
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 24","Shippagan",N,N,"",4,343,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 25","Shippagan",N,N,"",3,402,"Cormier","","Serge","Liberal","Libéral",Y,Y,100
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 25","Shippagan",N,N,"",3,402,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 25","Shippagan",N,N,"",3,402,"Savoie","","Martine","Conservative","Conservateur",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 25","Shippagan",N,N,"",3,402,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 26","Shippagan",N,N,"",10,342,"Cormier","","Serge","Liberal","Libéral",Y,Y,77
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 26","Shippagan",N,N,"",10,342,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 26","Shippagan",N,N,"",10,342,"Savoie","","Martine","Conservative","Conservateur",N,N,48
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 26","Shippagan",N,N,"",10,342,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 27","Haut-Shippegan",N,N,"",4,364,"Cormier","","Serge","Liberal","Libéral",Y,Y,95
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 27","Haut-Shippegan",N,N,"",4,364,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 27","Haut-Shippegan",N,N,"",4,364,"Savoie","","Martine","Conservative","Conservateur",N,N,43
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 27","Haut-Shippegan",N,N,"",4,364,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 28","Shippagan",N,N,"",0,341,"Cormier","","Serge","Liberal","Libéral",Y,Y,80
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 28","Shippagan",N,N,"",0,341,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 28","Shippagan",N,N,"",0,341,"Savoie","","Martine","Conservative","Conservateur",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 28","Shippagan",N,N,"",0,341,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 29","Caraquet",N,N,"",0,234,"Cormier","","Serge","Liberal","Libéral",Y,Y,81
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 29","Caraquet",N,N,"",0,234,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 29","Caraquet",N,N,"",0,234,"Savoie","","Martine","Conservative","Conservateur",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 29","Caraquet",N,N,"",0,234,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 30","Caraquet",N,N,"",1,387,"Cormier","","Serge","Liberal","Libéral",Y,Y,111
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 30","Caraquet",N,N,"",1,387,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 30","Caraquet",N,N,"",1,387,"Savoie","","Martine","Conservative","Conservateur",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 30","Caraquet",N,N,"",1,387,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 31","Caraquet",N,N,"",7,385,"Cormier","","Serge","Liberal","Libéral",Y,Y,134
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 31","Caraquet",N,N,"",7,385,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 31","Caraquet",N,N,"",7,385,"Savoie","","Martine","Conservative","Conservateur",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 31","Caraquet",N,N,"",7,385,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 32","Caraquet",N,N,"",3,367,"Cormier","","Serge","Liberal","Libéral",Y,Y,114
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 32","Caraquet",N,N,"",3,367,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 32","Caraquet",N,N,"",3,367,"Savoie","","Martine","Conservative","Conservateur",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 32","Caraquet",N,N,"",3,367,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 33","Caraquet",N,N,"",3,415,"Cormier","","Serge","Liberal","Libéral",Y,Y,155
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 33","Caraquet",N,N,"",3,415,"Kryszko","","Robert","Green Party","Parti Vert",N,N,5
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 33","Caraquet",N,N,"",3,415,"Savoie","","Martine","Conservative","Conservateur",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 33","Caraquet",N,N,"",3,415,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 34","Maisonnette",N,N,"",7,239,"Cormier","","Serge","Liberal","Libéral",Y,Y,112
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 34","Maisonnette",N,N,"",7,239,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 34","Maisonnette",N,N,"",7,239,"Savoie","","Martine","Conservative","Conservateur",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 34","Maisonnette",N,N,"",7,239,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 35","Maisonnette",N,N,"",2,228,"Cormier","","Serge","Liberal","Libéral",Y,Y,70
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 35","Maisonnette",N,N,"",2,228,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 35","Maisonnette",N,N,"",2,228,"Savoie","","Martine","Conservative","Conservateur",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 35","Maisonnette",N,N,"",2,228,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 36","Le Goulet",N,N,"",4,364,"Cormier","","Serge","Liberal","Libéral",Y,Y,102
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 36","Le Goulet",N,N,"",4,364,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 36","Le Goulet",N,N,"",4,364,"Savoie","","Martine","Conservative","Conservateur",N,N,74
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 36","Le Goulet",N,N,"",4,364,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 37","Shippagan--Pointe-Sauvage",N,N,"",6,272,"Cormier","","Serge","Liberal","Libéral",Y,Y,66
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 37","Shippagan--Pointe-Sauvage",N,N,"",6,272,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 37","Shippagan--Pointe-Sauvage",N,N,"",6,272,"Savoie","","Martine","Conservative","Conservateur",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 37","Shippagan--Pointe-Sauvage",N,N,"",6,272,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 38","Le Goulet",N,N,"",7,339,"Cormier","","Serge","Liberal","Libéral",Y,Y,101
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 38","Le Goulet",N,N,"",7,339,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 38","Le Goulet",N,N,"",7,339,"Savoie","","Martine","Conservative","Conservateur",N,N,60
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 38","Le Goulet",N,N,"",7,339,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 39","Grande Anse",N,N,"",2,209,"Cormier","","Serge","Liberal","Libéral",Y,Y,65
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 39","Grande Anse",N,N,"",2,209,"Kryszko","","Robert","Green Party","Parti Vert",N,N,3
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 39","Grande Anse",N,N,"",2,209,"Savoie","","Martine","Conservative","Conservateur",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 39","Grande Anse",N,N,"",2,209,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 40","Dugas--Anse-Bleu",N,N,"",0,211,"Cormier","","Serge","Liberal","Libéral",Y,Y,66
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 40","Dugas--Anse-Bleu",N,N,"",0,211,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 40","Dugas--Anse-Bleu",N,N,"",0,211,"Savoie","","Martine","Conservative","Conservateur",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 40","Dugas--Anse-Bleu",N,N,"",0,211,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 41","Grande Anse",N,N,"",4,350,"Cormier","","Serge","Liberal","Libéral",Y,Y,104
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 41","Grande Anse",N,N,"",4,350,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 41","Grande Anse",N,N,"",4,350,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 41","Grande Anse",N,N,"",4,350,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 42","Grande Anse",N,N,"",1,265,"Cormier","","Serge","Liberal","Libéral",Y,Y,69
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 42","Grande Anse",N,N,"",1,265,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 42","Grande Anse",N,N,"",1,265,"Savoie","","Martine","Conservative","Conservateur",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 42","Grande Anse",N,N,"",1,265,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 43","Centre-Saint-Simon",N,N,"",5,324,"Cormier","","Serge","Liberal","Libéral",Y,Y,119
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 43","Centre-Saint-Simon",N,N,"",5,324,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 43","Centre-Saint-Simon",N,N,"",5,324,"Savoie","","Martine","Conservative","Conservateur",N,N,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 43","Centre-Saint-Simon",N,N,"",5,324,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 44","Haut-Saint-Simon",N,N,"",12,268,"Cormier","","Serge","Liberal","Libéral",Y,Y,98
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 44","Haut-Saint-Simon",N,N,"",12,268,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 44","Haut-Saint-Simon",N,N,"",12,268,"Savoie","","Martine","Conservative","Conservateur",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 44","Haut-Saint-Simon",N,N,"",12,268,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 45","Caraquet",N,N,"",2,479,"Cormier","","Serge","Liberal","Libéral",Y,Y,125
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 45","Caraquet",N,N,"",2,479,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 45","Caraquet",N,N,"",2,479,"Savoie","","Martine","Conservative","Conservateur",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 45","Caraquet",N,N,"",2,479,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 46","Pointe-Rocheuse",N,N,"",1,430,"Cormier","","Serge","Liberal","Libéral",Y,Y,130
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 46","Pointe-Rocheuse",N,N,"",1,430,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 46","Pointe-Rocheuse",N,N,"",1,430,"Savoie","","Martine","Conservative","Conservateur",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 46","Pointe-Rocheuse",N,N,"",1,430,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 47","Caraquet",N,N,"",1,254,"Cormier","","Serge","Liberal","Libéral",Y,Y,72
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 47","Caraquet",N,N,"",1,254,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 47","Caraquet",N,N,"",1,254,"Savoie","","Martine","Conservative","Conservateur",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 47","Caraquet",N,N,"",1,254,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 48","Sainte-Anne-du-Bocage",N,N,"",0,322,"Cormier","","Serge","Liberal","Libéral",Y,Y,71
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 48","Sainte-Anne-du-Bocage",N,N,"",0,322,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 48","Sainte-Anne-du-Bocage",N,N,"",0,322,"Savoie","","Martine","Conservative","Conservateur",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 48","Sainte-Anne-du-Bocage",N,N,"",0,322,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 49","Caraquet",N,N,"",2,257,"Cormier","","Serge","Liberal","Libéral",Y,Y,71
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 49","Caraquet",N,N,"",2,257,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 49","Caraquet",N,N,"",2,257,"Savoie","","Martine","Conservative","Conservateur",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 49","Caraquet",N,N,"",2,257,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 50","Evangeline",N,N,"",6,351,"Cormier","","Serge","Liberal","Libéral",Y,Y,120
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 50","Evangeline",N,N,"",6,351,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 50","Evangeline",N,N,"",6,351,"Savoie","","Martine","Conservative","Conservateur",N,N,42
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 50","Evangeline",N,N,"",6,351,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 51","Blanchard Settlement",N,N,"",2,366,"Cormier","","Serge","Liberal","Libéral",Y,Y,140
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 51","Blanchard Settlement",N,N,"",2,366,"Kryszko","","Robert","Green Party","Parti Vert",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 51","Blanchard Settlement",N,N,"",2,366,"Savoie","","Martine","Conservative","Conservateur",N,N,41
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 51","Blanchard Settlement",N,N,"",2,366,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 52","Pointe-Verte",N,N,"",3,219,"Cormier","","Serge","Liberal","Libéral",Y,Y,61
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 52","Pointe-Verte",N,N,"",3,219,"Kryszko","","Robert","Green Party","Parti Vert",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 52","Pointe-Verte",N,N,"",3,219,"Savoie","","Martine","Conservative","Conservateur",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 52","Pointe-Verte",N,N,"",3,219,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 53","Pointe-Verte",N,N,"",1,282,"Cormier","","Serge","Liberal","Libéral",Y,Y,86
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 53","Pointe-Verte",N,N,"",1,282,"Kryszko","","Robert","Green Party","Parti Vert",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 53","Pointe-Verte",N,N,"",1,282,"Savoie","","Martine","Conservative","Conservateur",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 53","Pointe-Verte",N,N,"",1,282,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 54","Pointe-Verte",N,N,"",5,255,"Cormier","","Serge","Liberal","Libéral",Y,Y,71
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 54","Pointe-Verte",N,N,"",5,255,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 54","Pointe-Verte",N,N,"",5,255,"Savoie","","Martine","Conservative","Conservateur",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 54","Pointe-Verte",N,N,"",5,255,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 55","Bertrand",N,N,"",3,292,"Cormier","","Serge","Liberal","Libéral",Y,Y,100
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 55","Bertrand",N,N,"",3,292,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 55","Bertrand",N,N,"",3,292,"Savoie","","Martine","Conservative","Conservateur",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 55","Bertrand",N,N,"",3,292,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 56","Bertrand",N,N,"",3,398,"Cormier","","Serge","Liberal","Libéral",Y,Y,155
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 56","Bertrand",N,N,"",3,398,"Kryszko","","Robert","Green Party","Parti Vert",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 56","Bertrand",N,N,"",3,398,"Savoie","","Martine","Conservative","Conservateur",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 56","Bertrand",N,N,"",3,398,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 57","Bertrand",N,N,"",2,287,"Cormier","","Serge","Liberal","Libéral",Y,Y,84
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 57","Bertrand",N,N,"",2,287,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 57","Bertrand",N,N,"",2,287,"Savoie","","Martine","Conservative","Conservateur",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 57","Bertrand",N,N,"",2,287,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 58","Saint-Léolin",N,N,"",1,295,"Cormier","","Serge","Liberal","Libéral",Y,Y,88
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 58","Saint-Léolin",N,N,"",1,295,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 58","Saint-Léolin",N,N,"",1,295,"Savoie","","Martine","Conservative","Conservateur",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 58","Saint-Léolin",N,N,"",1,295,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 59","Saint-Léolin",N,N,"",2,276,"Cormier","","Serge","Liberal","Libéral",Y,Y,84
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 59","Saint-Léolin",N,N,"",2,276,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 59","Saint-Léolin",N,N,"",2,276,"Savoie","","Martine","Conservative","Conservateur",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 59","Saint-Léolin",N,N,"",2,276,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 60","Maltampec",N,N,"",3,402,"Cormier","","Serge","Liberal","Libéral",Y,Y,128
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 60","Maltampec",N,N,"",3,402,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 60","Maltampec",N,N,"",3,402,"Savoie","","Martine","Conservative","Conservateur",N,N,52
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 60","Maltampec",N,N,"",3,402,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 61","Landry",N,N,"",9,306,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 61","Landry",N,N,"",9,306,"Kryszko","","Robert","Green Party","Parti Vert",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 61","Landry",N,N,"",9,306,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 61","Landry",N,N,"",9,306,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 62","Inkerman",N,N,"",3,315,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 62","Inkerman",N,N,"",3,315,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 62","Inkerman",N,N,"",3,315,"Savoie","","Martine","Conservative","Conservateur",N,N,46
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 62","Inkerman",N,N,"",3,315,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 63","Four Roads",N,N,"",6,340,"Cormier","","Serge","Liberal","Libéral",Y,Y,62
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 63","Four Roads",N,N,"",6,340,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 63","Four Roads",N,N,"",6,340,"Savoie","","Martine","Conservative","Conservateur",N,N,48
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 63","Four Roads",N,N,"",6,340,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 64","Six Roads",N,N,"",3,420,"Cormier","","Serge","Liberal","Libéral",Y,Y,120
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 64","Six Roads",N,N,"",3,420,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 64","Six Roads",N,N,"",3,420,"Savoie","","Martine","Conservative","Conservateur",N,N,52
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 64","Six Roads",N,N,"",3,420,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 65","Maltampec",N,N,"",6,290,"Cormier","","Serge","Liberal","Libéral",Y,Y,91
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 65","Maltampec",N,N,"",6,290,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 65","Maltampec",N,N,"",6,290,"Savoie","","Martine","Conservative","Conservateur",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 65","Maltampec",N,N,"",6,290,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 66","Petit-Paquetville",N,N,"",2,360,"Cormier","","Serge","Liberal","Libéral",Y,Y,99
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 66","Petit-Paquetville",N,N,"",2,360,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 66","Petit-Paquetville",N,N,"",2,360,"Savoie","","Martine","Conservative","Conservateur",N,N,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 66","Petit-Paquetville",N,N,"",2,360,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 67","Burnsville",N,N,"",7,397,"Cormier","","Serge","Liberal","Libéral",Y,Y,86
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 67","Burnsville",N,N,"",7,397,"Kryszko","","Robert","Green Party","Parti Vert",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 67","Burnsville",N,N,"",7,397,"Savoie","","Martine","Conservative","Conservateur",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 67","Burnsville",N,N,"",7,397,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 68","Rang-Saint-Georges",N,N,"",4,330,"Cormier","","Serge","Liberal","Libéral",Y,Y,70
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 68","Rang-Saint-Georges",N,N,"",4,330,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 68","Rang-Saint-Georges",N,N,"",4,330,"Savoie","","Martine","Conservative","Conservateur",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 68","Rang-Saint-Georges",N,N,"",4,330,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 69","Paquetville",N,N,"",4,282,"Cormier","","Serge","Liberal","Libéral",Y,Y,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 69","Paquetville",N,N,"",4,282,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 69","Paquetville",N,N,"",4,282,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 69","Paquetville",N,N,"",4,282,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 70","Rang-Saint-Georges",N,N,"",6,399,"Cormier","","Serge","Liberal","Libéral",Y,Y,76
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 70","Rang-Saint-Georges",N,N,"",6,399,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 70","Rang-Saint-Georges",N,N,"",6,399,"Savoie","","Martine","Conservative","Conservateur",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 70","Rang-Saint-Georges",N,N,"",6,399,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 71","Pokeshaw",N,N,"",5,222,"Cormier","","Serge","Liberal","Libéral",Y,Y,46
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 71","Pokeshaw",N,N,"",5,222,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 71","Pokeshaw",N,N,"",5,222,"Savoie","","Martine","Conservative","Conservateur",N,N,56
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 71","Pokeshaw",N,N,"",5,222,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 72","Sainte-Rose",N,N,"",1,333,"Cormier","","Serge","Liberal","Libéral",Y,Y,76
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 72","Sainte-Rose",N,N,"",1,333,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 72","Sainte-Rose",N,N,"",1,333,"Savoie","","Martine","Conservative","Conservateur",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 72","Sainte-Rose",N,N,"",1,333,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 73","Sainte-Rose",N,N,"",1,294,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 73","Sainte-Rose",N,N,"",1,294,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 73","Sainte-Rose",N,N,"",1,294,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 73","Sainte-Rose",N,N,"",1,294,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 74","Gaspereau",N,N,"",8,463,"Cormier","","Serge","Liberal","Libéral",Y,Y,119
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 74","Gaspereau",N,N,"",8,463,"Kryszko","","Robert","Green Party","Parti Vert",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 74","Gaspereau",N,N,"",8,463,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 74","Gaspereau",N,N,"",8,463,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 75","Saumarez",N,N,"",6,500,"Cormier","","Serge","Liberal","Libéral",Y,Y,137
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 75","Saumarez",N,N,"",6,500,"Kryszko","","Robert","Green Party","Parti Vert",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 75","Saumarez",N,N,"",6,500,"Savoie","","Martine","Conservative","Conservateur",N,N,53
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 75","Saumarez",N,N,"",6,500,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 76","Pont-Landry",N,N,"",3,258,"Cormier","","Serge","Liberal","Libéral",Y,Y,74
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 76","Pont-Landry",N,N,"",3,258,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 76","Pont-Landry",N,N,"",3,258,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 76","Pont-Landry",N,N,"",3,258,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 77","Belledune",N,N,"",3,307,"Cormier","","Serge","Liberal","Libéral",Y,Y,69
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 77","Belledune",N,N,"",3,307,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 77","Belledune",N,N,"",3,307,"Savoie","","Martine","Conservative","Conservateur",N,N,56
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 77","Belledune",N,N,"",3,307,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 78","Belledune",N,N,"",0,250,"Cormier","","Serge","Liberal","Libéral",Y,Y,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 78","Belledune",N,N,"",0,250,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 78","Belledune",N,N,"",0,250,"Savoie","","Martine","Conservative","Conservateur",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 78","Belledune",N,N,"",0,250,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 79","Notre-Dame-des-Érables",N,N,"",5,388,"Cormier","","Serge","Liberal","Libéral",Y,Y,115
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 79","Notre-Dame-des-Érables",N,N,"",5,388,"Kryszko","","Robert","Green Party","Parti Vert",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 79","Notre-Dame-des-Érables",N,N,"",5,388,"Savoie","","Martine","Conservative","Conservateur",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 79","Notre-Dame-des-Érables",N,N,"",5,388,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 80","Tracadie-Sheila",N,N,"",2,364,"Cormier","","Serge","Liberal","Libéral",Y,Y,77
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 80","Tracadie-Sheila",N,N,"",2,364,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 80","Tracadie-Sheila",N,N,"",2,364,"Savoie","","Martine","Conservative","Conservateur",N,N,42
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 80","Tracadie-Sheila",N,N,"",2,364,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 81","Tracadie-Sheila",N,N,"",1,364,"Cormier","","Serge","Liberal","Libéral",Y,Y,77
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 81","Tracadie-Sheila",N,N,"",1,364,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 81","Tracadie-Sheila",N,N,"",1,364,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 81","Tracadie-Sheila",N,N,"",1,364,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 82","Gauvreau",N,N,"",6,423,"Cormier","","Serge","Liberal","Libéral",Y,Y,97
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 82","Gauvreau",N,N,"",6,423,"Kryszko","","Robert","Green Party","Parti Vert",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 82","Gauvreau",N,N,"",6,423,"Savoie","","Martine","Conservative","Conservateur",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 82","Gauvreau",N,N,"",6,423,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 83","Tracadie-Sheila",N,N,"",4,410,"Cormier","","Serge","Liberal","Libéral",Y,Y,100
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 83","Tracadie-Sheila",N,N,"",4,410,"Kryszko","","Robert","Green Party","Parti Vert",N,N,5
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 83","Tracadie-Sheila",N,N,"",4,410,"Savoie","","Martine","Conservative","Conservateur",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 83","Tracadie-Sheila",N,N,"",4,410,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 84","Tracadie-Sheila",N,N,"",2,357,"Cormier","","Serge","Liberal","Libéral",Y,Y,103
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 84","Tracadie-Sheila",N,N,"",2,357,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 84","Tracadie-Sheila",N,N,"",2,357,"Savoie","","Martine","Conservative","Conservateur",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 84","Tracadie-Sheila",N,N,"",2,357,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 85","Rivière-à-la-Truite",N,N,"",5,384,"Cormier","","Serge","Liberal","Libéral",Y,Y,114
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 85","Rivière-à-la-Truite",N,N,"",5,384,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 85","Rivière-à-la-Truite",N,N,"",5,384,"Savoie","","Martine","Conservative","Conservateur",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 85","Rivière-à-la-Truite",N,N,"",5,384,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 86","Madran",N,N,"",4,391,"Cormier","","Serge","Liberal","Libéral",Y,Y,107
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 86","Madran",N,N,"",4,391,"Kryszko","","Robert","Green Party","Parti Vert",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 86","Madran",N,N,"",4,391,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 86","Madran",N,N,"",4,391,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 87","Tracadie-Sheila",N,N,"",2,367,"Cormier","","Serge","Liberal","Libéral",Y,Y,61
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 87","Tracadie-Sheila",N,N,"",2,367,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 87","Tracadie-Sheila",N,N,"",2,367,"Savoie","","Martine","Conservative","Conservateur",N,N,42
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 87","Tracadie-Sheila",N,N,"",2,367,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 88","Tracadie-Sheila",N,N,"",4,320,"Cormier","","Serge","Liberal","Libéral",Y,Y,65
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 88","Tracadie-Sheila",N,N,"",4,320,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 88","Tracadie-Sheila",N,N,"",4,320,"Savoie","","Martine","Conservative","Conservateur",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 88","Tracadie-Sheila",N,N,"",4,320,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 89","Tracadie-Sheila",N,N,"",7,368,"Cormier","","Serge","Liberal","Libéral",Y,Y,79
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 89","Tracadie-Sheila",N,N,"",7,368,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 89","Tracadie-Sheila",N,N,"",7,368,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 89","Tracadie-Sheila",N,N,"",7,368,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 90","Tracadie-Sheila",N,N,"",3,410,"Cormier","","Serge","Liberal","Libéral",Y,Y,95
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 90","Tracadie-Sheila",N,N,"",3,410,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 90","Tracadie-Sheila",N,N,"",3,410,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 90","Tracadie-Sheila",N,N,"",3,410,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 91","Petit-Rocher",N,N,"",0,277,"Cormier","","Serge","Liberal","Libéral",Y,Y,79
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 91","Petit-Rocher",N,N,"",0,277,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 91","Petit-Rocher",N,N,"",0,277,"Savoie","","Martine","Conservative","Conservateur",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 91","Petit-Rocher",N,N,"",0,277,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 92","Petit-Rocher-Sud",N,N,"",1,334,"Cormier","","Serge","Liberal","Libéral",Y,Y,109
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 92","Petit-Rocher-Sud",N,N,"",1,334,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 92","Petit-Rocher-Sud",N,N,"",1,334,"Savoie","","Martine","Conservative","Conservateur",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 92","Petit-Rocher-Sud",N,N,"",1,334,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 93","Tremblay",N,N,"",2,279,"Cormier","","Serge","Liberal","Libéral",Y,Y,68
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 93","Tremblay",N,N,"",2,279,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 93","Tremblay",N,N,"",2,279,"Savoie","","Martine","Conservative","Conservateur",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 93","Tremblay",N,N,"",2,279,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 94","Val-Doucet",N,N,"",2,289,"Cormier","","Serge","Liberal","Libéral",Y,Y,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 94","Val-Doucet",N,N,"",2,289,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 94","Val-Doucet",N,N,"",2,289,"Savoie","","Martine","Conservative","Conservateur",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 94","Val-Doucet",N,N,"",2,289,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 95","Val-Doucet",N,N,"",5,248,"Cormier","","Serge","Liberal","Libéral",Y,Y,54
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 95","Val-Doucet",N,N,"",5,248,"Kryszko","","Robert","Green Party","Parti Vert",N,N,5
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 95","Val-Doucet",N,N,"",5,248,"Savoie","","Martine","Conservative","Conservateur",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 95","Val-Doucet",N,N,"",5,248,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 96","Nigadoo",N,N,"",4,411,"Cormier","","Serge","Liberal","Libéral",Y,Y,125
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 96","Nigadoo",N,N,"",4,411,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 96","Nigadoo",N,N,"",4,411,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 96","Nigadoo",N,N,"",4,411,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 97","Nigadoo",N,N,"",3,419,"Cormier","","Serge","Liberal","Libéral",Y,Y,131
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 97","Nigadoo",N,N,"",3,419,"Kryszko","","Robert","Green Party","Parti Vert",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 97","Nigadoo",N,N,"",3,419,"Savoie","","Martine","Conservative","Conservateur",N,N,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 97","Nigadoo",N,N,"",3,419,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 98","Duguayville",N,N,"",3,289,"Cormier","","Serge","Liberal","Libéral",Y,Y,67
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 98","Duguayville",N,N,"",3,289,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 98","Duguayville",N,N,"",3,289,"Savoie","","Martine","Conservative","Conservateur",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 98","Duguayville",N,N,"",3,289,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 99","Hacheyville",N,N,"",6,300,"Cormier","","Serge","Liberal","Libéral",Y,Y,68
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 99","Hacheyville",N,N,"",6,300,"Kryszko","","Robert","Green Party","Parti Vert",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 99","Hacheyville",N,N,"",6,300,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 99","Hacheyville",N,N,"",6,300,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 100","Saint-Isidore",N,N,"",0,296,"Cormier","","Serge","Liberal","Libéral",Y,Y,65
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 100","Saint-Isidore",N,N,"",0,296,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 100","Saint-Isidore",N,N,"",0,296,"Savoie","","Martine","Conservative","Conservateur",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 100","Saint-Isidore",N,N,"",0,296,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 101","Hacheyville",N,N,"",4,374,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 101","Hacheyville",N,N,"",4,374,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 101","Hacheyville",N,N,"",4,374,"Savoie","","Martine","Conservative","Conservateur",N,N,41
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 101","Hacheyville",N,N,"",4,374,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 102","Tilley Road--Bois Gagnon",N,N,"",6,302,"Cormier","","Serge","Liberal","Libéral",Y,Y,73
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 102","Tilley Road--Bois Gagnon",N,N,"",6,302,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 102","Tilley Road--Bois Gagnon",N,N,"",6,302,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 102","Tilley Road--Bois Gagnon",N,N,"",6,302,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 103","Tilley Road",N,N,"",6,332,"Cormier","","Serge","Liberal","Libéral",Y,Y,86
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 103","Tilley Road",N,N,"",6,332,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 103","Tilley Road",N,N,"",6,332,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 103","Tilley Road",N,N,"",6,332,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 104","Saumarez",N,N,"",3,375,"Cormier","","Serge","Liberal","Libéral",Y,Y,87
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 104","Saumarez",N,N,"",3,375,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 104","Saumarez",N,N,"",3,375,"Savoie","","Martine","Conservative","Conservateur",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 104","Saumarez",N,N,"",3,375,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 105","Saumarez",N,N,"",9,391,"Cormier","","Serge","Liberal","Libéral",Y,Y,135
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 105","Saumarez",N,N,"",9,391,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 105","Saumarez",N,N,"",9,391,"Savoie","","Martine","Conservative","Conservateur",N,N,54
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 105","Saumarez",N,N,"",9,391,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 106","Petit-Rocher-Nord",N,N,"",0,336,"Cormier","","Serge","Liberal","Libéral",Y,Y,79
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 106","Petit-Rocher-Nord",N,N,"",0,336,"Kryszko","","Robert","Green Party","Parti Vert",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 106","Petit-Rocher-Nord",N,N,"",0,336,"Savoie","","Martine","Conservative","Conservateur",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 106","Petit-Rocher-Nord",N,N,"",0,336,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 107","Petit-Rocher",N,N,"",2,307,"Cormier","","Serge","Liberal","Libéral",Y,Y,83
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 107","Petit-Rocher",N,N,"",2,307,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 107","Petit-Rocher",N,N,"",2,307,"Savoie","","Martine","Conservative","Conservateur",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 107","Petit-Rocher",N,N,"",2,307,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 108","Petit-Rocher",N,N,"",1,303,"Cormier","","Serge","Liberal","Libéral",Y,Y,82
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 108","Petit-Rocher",N,N,"",1,303,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 108","Petit-Rocher",N,N,"",1,303,"Savoie","","Martine","Conservative","Conservateur",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 108","Petit-Rocher",N,N,"",1,303,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 109","Petit-Rocher",N,N,"",2,371,"Cormier","","Serge","Liberal","Libéral",Y,Y,106
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 109","Petit-Rocher",N,N,"",2,371,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 109","Petit-Rocher",N,N,"",2,371,"Savoie","","Martine","Conservative","Conservateur",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 109","Petit-Rocher",N,N,"",2,371,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 110","Petit-Rocher",N,N,"",2,310,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 110","Petit-Rocher",N,N,"",2,310,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 110","Petit-Rocher",N,N,"",2,310,"Savoie","","Martine","Conservative","Conservateur",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 110","Petit-Rocher",N,N,"",2,310,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 111","Petit-Rocher",N,N,"",6,405,"Cormier","","Serge","Liberal","Libéral",Y,Y,123
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 111","Petit-Rocher",N,N,"",6,405,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 111","Petit-Rocher",N,N,"",6,405,"Savoie","","Martine","Conservative","Conservateur",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 111","Petit-Rocher",N,N,"",6,405,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 112","Laplante",N,N,"",2,267,"Cormier","","Serge","Liberal","Libéral",Y,Y,77
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 112","Laplante",N,N,"",2,267,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 112","Laplante",N,N,"",2,267,"Savoie","","Martine","Conservative","Conservateur",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 112","Laplante",N,N,"",2,267,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 113","Alcida",N,N,"",4,262,"Cormier","","Serge","Liberal","Libéral",Y,Y,59
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 113","Alcida",N,N,"",4,262,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 113","Alcida",N,N,"",4,262,"Savoie","","Martine","Conservative","Conservateur",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 113","Alcida",N,N,"",4,262,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 114","Pointe-à-Boileau",N,N,"",3,422,"Cormier","","Serge","Liberal","Libéral",Y,Y,118
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 114","Pointe-à-Boileau",N,N,"",3,422,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 114","Pointe-à-Boileau",N,N,"",3,422,"Savoie","","Martine","Conservative","Conservateur",N,N,51
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 114","Pointe-à-Boileau",N,N,"",3,422,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 115","Tracadie-Sheila",N,N,"",1,392,"Cormier","","Serge","Liberal","Libéral",Y,Y,84
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 115","Tracadie-Sheila",N,N,"",1,392,"Kryszko","","Robert","Green Party","Parti Vert",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 115","Tracadie-Sheila",N,N,"",1,392,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 115","Tracadie-Sheila",N,N,"",1,392,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 116","Tracadie-Sheila",N,N,"",5,478,"Cormier","","Serge","Liberal","Libéral",Y,Y,160
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 116","Tracadie-Sheila",N,N,"",5,478,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 116","Tracadie-Sheila",N,N,"",5,478,"Savoie","","Martine","Conservative","Conservateur",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 116","Tracadie-Sheila",N,N,"",5,478,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 117","Salmon Beach",N,N,"",2,284,"Cormier","","Serge","Liberal","Libéral",Y,Y,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 117","Salmon Beach",N,N,"",2,284,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 117","Salmon Beach",N,N,"",2,284,"Savoie","","Martine","Conservative","Conservateur",N,N,58
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 117","Salmon Beach",N,N,"",2,284,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 118","Janesville",N,N,"",1,328,"Cormier","","Serge","Liberal","Libéral",Y,Y,48
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 118","Janesville",N,N,"",1,328,"Kryszko","","Robert","Green Party","Parti Vert",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 118","Janesville",N,N,"",1,328,"Savoie","","Martine","Conservative","Conservateur",N,N,66
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 118","Janesville",N,N,"",1,328,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 119","Beresford",N,N,"",1,410,"Cormier","","Serge","Liberal","Libéral",Y,Y,101
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 119","Beresford",N,N,"",1,410,"Kryszko","","Robert","Green Party","Parti Vert",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 119","Beresford",N,N,"",1,410,"Savoie","","Martine","Conservative","Conservateur",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 119","Beresford",N,N,"",1,410,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 120","Beresford",N,N,"",0,297,"Cormier","","Serge","Liberal","Libéral",Y,Y,74
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 120","Beresford",N,N,"",0,297,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 120","Beresford",N,N,"",0,297,"Savoie","","Martine","Conservative","Conservateur",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 120","Beresford",N,N,"",0,297,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 121","Beresford",N,N,"",0,405,"Cormier","","Serge","Liberal","Libéral",Y,Y,101
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 121","Beresford",N,N,"",0,405,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 121","Beresford",N,N,"",0,405,"Savoie","","Martine","Conservative","Conservateur",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 121","Beresford",N,N,"",0,405,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 122","Beresford",N,N,"",1,378,"Cormier","","Serge","Liberal","Libéral",Y,Y,87
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 122","Beresford",N,N,"",1,378,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 122","Beresford",N,N,"",1,378,"Savoie","","Martine","Conservative","Conservateur",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 122","Beresford",N,N,"",1,378,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 123","Beresford",N,N,"",0,304,"Cormier","","Serge","Liberal","Libéral",Y,Y,96
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 123","Beresford",N,N,"",0,304,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 123","Beresford",N,N,"",0,304,"Savoie","","Martine","Conservative","Conservateur",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 123","Beresford",N,N,"",0,304,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 124","Beresford",N,N,"",2,327,"Cormier","","Serge","Liberal","Libéral",Y,Y,60
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 124","Beresford",N,N,"",2,327,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 124","Beresford",N,N,"",2,327,"Savoie","","Martine","Conservative","Conservateur",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 124","Beresford",N,N,"",2,327,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 125","Beresford",N,N,"",1,349,"Cormier","","Serge","Liberal","Libéral",Y,Y,94
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 125","Beresford",N,N,"",1,349,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 125","Beresford",N,N,"",1,349,"Savoie","","Martine","Conservative","Conservateur",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 125","Beresford",N,N,"",1,349,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 126","Beresford",N,N,"",0,351,"Cormier","","Serge","Liberal","Libéral",Y,Y,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 126","Beresford",N,N,"",0,351,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 126","Beresford",N,N,"",0,351,"Savoie","","Martine","Conservative","Conservateur",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 126","Beresford",N,N,"",0,351,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 127","Beresford",N,N,"",1,285,"Cormier","","Serge","Liberal","Libéral",Y,Y,70
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 127","Beresford",N,N,"",1,285,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 127","Beresford",N,N,"",1,285,"Savoie","","Martine","Conservative","Conservateur",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 127","Beresford",N,N,"",1,285,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 128","Beresford",N,N,"",4,427,"Cormier","","Serge","Liberal","Libéral",Y,Y,95
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 128","Beresford",N,N,"",4,427,"Kryszko","","Robert","Green Party","Parti Vert",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 128","Beresford",N,N,"",4,427,"Savoie","","Martine","Conservative","Conservateur",N,N,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 128","Beresford",N,N,"",4,427,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 129","Haut Sheila",N,N,"",9,363,"Cormier","","Serge","Liberal","Libéral",Y,Y,96
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 129","Haut Sheila",N,N,"",9,363,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 129","Haut Sheila",N,N,"",9,363,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 129","Haut Sheila",N,N,"",9,363,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 130","Saint-Pons",N,N,"",10,360,"Cormier","","Serge","Liberal","Libéral",Y,Y,87
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 130","Saint-Pons",N,N,"",10,360,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 130","Saint-Pons",N,N,"",10,360,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 130","Saint-Pons",N,N,"",10,360,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 131","Val-Comeau",N,N,"",1,376,"Cormier","","Serge","Liberal","Libéral",Y,Y,134
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 131","Val-Comeau",N,N,"",1,376,"Kryszko","","Robert","Green Party","Parti Vert",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 131","Val-Comeau",N,N,"",1,376,"Savoie","","Martine","Conservative","Conservateur",N,N,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 131","Val-Comeau",N,N,"",1,376,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 132","Tracadie Beach",N,N,"",5,394,"Cormier","","Serge","Liberal","Libéral",Y,Y,131
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 132","Tracadie Beach",N,N,"",5,394,"Kryszko","","Robert","Green Party","Parti Vert",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 132","Tracadie Beach",N,N,"",5,394,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 132","Tracadie Beach",N,N,"",5,394,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 133","Haut Sheila",N,N,"",6,379,"Cormier","","Serge","Liberal","Libéral",Y,Y,90
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 133","Haut Sheila",N,N,"",6,379,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 133","Haut Sheila",N,N,"",6,379,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 133","Haut Sheila",N,N,"",6,379,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 134","Leech",N,N,"",1,311,"Cormier","","Serge","Liberal","Libéral",Y,Y,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 134","Leech",N,N,"",1,311,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 134","Leech",N,N,"",1,311,"Savoie","","Martine","Conservative","Conservateur",N,N,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 134","Leech",N,N,"",1,311,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 135","Leech",N,N,"",2,199,"Cormier","","Serge","Liberal","Libéral",Y,Y,51
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 135","Leech",N,N,"",2,199,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 135","Leech",N,N,"",2,199,"Savoie","","Martine","Conservative","Conservateur",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 135","Leech",N,N,"",2,199,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 136","Jacquet River",N,N,"",0,238,"Cormier","","Serge","Liberal","Libéral",Y,Y,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 136","Jacquet River",N,N,"",0,238,"Kryszko","","Robert","Green Party","Parti Vert",N,N,5
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 136","Jacquet River",N,N,"",0,238,"Savoie","","Martine","Conservative","Conservateur",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 136","Jacquet River",N,N,"",0,238,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 137","Belledune",N,N,"",0,214,"Cormier","","Serge","Liberal","Libéral",Y,Y,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 137","Belledune",N,N,"",0,214,"Kryszko","","Robert","Green Party","Parti Vert",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 137","Belledune",N,N,"",0,214,"Savoie","","Martine","Conservative","Conservateur",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 137","Belledune",N,N,"",0,214,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 138","Lorne",N,N,"",0,208,"Cormier","","Serge","Liberal","Libéral",Y,Y,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 138","Lorne",N,N,"",0,208,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 138","Lorne",N,N,"",0,208,"Savoie","","Martine","Conservative","Conservateur",N,N,45
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 138","Lorne",N,N,"",0,208,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 139","Bathurst",N,N,"",0,595,"Cormier","","Serge","Liberal","Libéral",Y,Y,158
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 139","Bathurst",N,N,"",0,595,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 139","Bathurst",N,N,"",0,595,"Savoie","","Martine","Conservative","Conservateur",N,N,53
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 139","Bathurst",N,N,"",0,595,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 140","Bathurst",N,N,"",4,473,"Cormier","","Serge","Liberal","Libéral",Y,Y,107
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 140","Bathurst",N,N,"",4,473,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 140","Bathurst",N,N,"",4,473,"Savoie","","Martine","Conservative","Conservateur",N,N,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 140","Bathurst",N,N,"",4,473,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 141","Bathurst",N,N,"",3,467,"Cormier","","Serge","Liberal","Libéral",Y,Y,101
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 141","Bathurst",N,N,"",3,467,"Kryszko","","Robert","Green Party","Parti Vert",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 141","Bathurst",N,N,"",3,467,"Savoie","","Martine","Conservative","Conservateur",N,N,49
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 141","Bathurst",N,N,"",3,467,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142A","Bathurst",N,N,"",3,409,"Cormier","","Serge","Liberal","Libéral",Y,Y,84
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142A","Bathurst",N,N,"",3,409,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142A","Bathurst",N,N,"",3,409,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142A","Bathurst",N,N,"",3,409,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142B","Mobile poll/Bureau itinérant",N,N,"",2,24,"Cormier","","Serge","Liberal","Libéral",Y,Y,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142B","Mobile poll/Bureau itinérant",N,N,"",2,24,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142B","Mobile poll/Bureau itinérant",N,N,"",2,24,"Savoie","","Martine","Conservative","Conservateur",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 142B","Mobile poll/Bureau itinérant",N,N,"",2,24,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 143","Bathurst",N,N,"",1,461,"Cormier","","Serge","Liberal","Libéral",Y,Y,97
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 143","Bathurst",N,N,"",1,461,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 143","Bathurst",N,N,"",1,461,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 143","Bathurst",N,N,"",1,461,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 144","Bathurst",N,N,"",0,427,"Cormier","","Serge","Liberal","Libéral",Y,Y,79
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 144","Bathurst",N,N,"",0,427,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 144","Bathurst",N,N,"",0,427,"Savoie","","Martine","Conservative","Conservateur",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 144","Bathurst",N,N,"",0,427,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 145","Bathurst",N,N,"",0,422,"Cormier","","Serge","Liberal","Libéral",Y,Y,53
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 145","Bathurst",N,N,"",0,422,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 145","Bathurst",N,N,"",0,422,"Savoie","","Martine","Conservative","Conservateur",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 145","Bathurst",N,N,"",0,422,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 146","Bathurst",N,N,"",0,364,"Cormier","","Serge","Liberal","Libéral",Y,Y,74
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 146","Bathurst",N,N,"",0,364,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 146","Bathurst",N,N,"",0,364,"Savoie","","Martine","Conservative","Conservateur",N,N,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 146","Bathurst",N,N,"",0,364,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 147","Bathurst",N,N,"",2,365,"Cormier","","Serge","Liberal","Libéral",Y,Y,81
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 147","Bathurst",N,N,"",2,365,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 147","Bathurst",N,N,"",2,365,"Savoie","","Martine","Conservative","Conservateur",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 147","Bathurst",N,N,"",2,365,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 148","Bathurst",N,N,"",8,411,"Cormier","","Serge","Liberal","Libéral",Y,Y,56
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 148","Bathurst",N,N,"",8,411,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 148","Bathurst",N,N,"",8,411,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 148","Bathurst",N,N,"",8,411,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 149","Bathurst",N,N,"",4,453,"Cormier","","Serge","Liberal","Libéral",Y,Y,81
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 149","Bathurst",N,N,"",4,453,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 149","Bathurst",N,N,"",4,453,"Savoie","","Martine","Conservative","Conservateur",N,N,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 149","Bathurst",N,N,"",4,453,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 150","Bathurst",N,N,"",1,408,"Cormier","","Serge","Liberal","Libéral",Y,Y,71
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 150","Bathurst",N,N,"",1,408,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 150","Bathurst",N,N,"",1,408,"Savoie","","Martine","Conservative","Conservateur",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 150","Bathurst",N,N,"",1,408,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 151","Pont-Lafrance",N,N,"",5,340,"Cormier","","Serge","Liberal","Libéral",Y,Y,104
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 151","Pont-Lafrance",N,N,"",5,340,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 151","Pont-Lafrance",N,N,"",5,340,"Savoie","","Martine","Conservative","Conservateur",N,N,47
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 151","Pont-Lafrance",N,N,"",5,340,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 152","Pont-Lafrance",N,N,"",3,277,"Cormier","","Serge","Liberal","Libéral",Y,Y,63
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 152","Pont-Lafrance",N,N,"",3,277,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 152","Pont-Lafrance",N,N,"",3,277,"Savoie","","Martine","Conservative","Conservateur",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 152","Pont-Lafrance",N,N,"",3,277,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 153","Saint-Sauveur",N,N,"",5,268,"Cormier","","Serge","Liberal","Libéral",Y,Y,63
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 153","Saint-Sauveur",N,N,"",5,268,"Kryszko","","Robert","Green Party","Parti Vert",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 153","Saint-Sauveur",N,N,"",5,268,"Savoie","","Martine","Conservative","Conservateur",N,N,47
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 153","Saint-Sauveur",N,N,"",5,268,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 154","Saint-Sauveur",N,N,"",7,250,"Cormier","","Serge","Liberal","Libéral",Y,Y,69
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 154","Saint-Sauveur",N,N,"",7,250,"Kryszko","","Robert","Green Party","Parti Vert",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 154","Saint-Sauveur",N,N,"",7,250,"Savoie","","Martine","Conservative","Conservateur",N,N,46
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 154","Saint-Sauveur",N,N,"",7,250,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 155","Bathurst",N,N,"",1,323,"Cormier","","Serge","Liberal","Libéral",Y,Y,59
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 155","Bathurst",N,N,"",1,323,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 155","Bathurst",N,N,"",1,323,"Savoie","","Martine","Conservative","Conservateur",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 155","Bathurst",N,N,"",1,323,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 156","Bathurst",N,N,"",2,364,"Cormier","","Serge","Liberal","Libéral",Y,Y,65
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 156","Bathurst",N,N,"",2,364,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 156","Bathurst",N,N,"",2,364,"Savoie","","Martine","Conservative","Conservateur",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 156","Bathurst",N,N,"",2,364,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 157","Bathurst",N,N,"",2,312,"Cormier","","Serge","Liberal","Libéral",Y,Y,68
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 157","Bathurst",N,N,"",2,312,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 157","Bathurst",N,N,"",2,312,"Savoie","","Martine","Conservative","Conservateur",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 157","Bathurst",N,N,"",2,312,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 158","North Tetagouche",N,N,"",0,245,"Cormier","","Serge","Liberal","Libéral",Y,Y,54
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 158","North Tetagouche",N,N,"",0,245,"Kryszko","","Robert","Green Party","Parti Vert",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 158","North Tetagouche",N,N,"",0,245,"Savoie","","Martine","Conservative","Conservateur",N,N,45
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 158","North Tetagouche",N,N,"",0,245,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 159","North Tetagouche",N,N,"",1,246,"Cormier","","Serge","Liberal","Libéral",Y,Y,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 159","North Tetagouche",N,N,"",1,246,"Kryszko","","Robert","Green Party","Parti Vert",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 159","North Tetagouche",N,N,"",1,246,"Savoie","","Martine","Conservative","Conservateur",N,N,41
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 159","North Tetagouche",N,N,"",1,246,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 160","North Tetagouche",N,N,"",2,248,"Cormier","","Serge","Liberal","Libéral",Y,Y,69
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 160","North Tetagouche",N,N,"",2,248,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 160","North Tetagouche",N,N,"",2,248,"Savoie","","Martine","Conservative","Conservateur",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 160","North Tetagouche",N,N,"",2,248,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 161","Bathurst",N,N,"",3,313,"Cormier","","Serge","Liberal","Libéral",Y,Y,41
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 161","Bathurst",N,N,"",3,313,"Kryszko","","Robert","Green Party","Parti Vert",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 161","Bathurst",N,N,"",3,313,"Savoie","","Martine","Conservative","Conservateur",N,N,45
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 161","Bathurst",N,N,"",3,313,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 162","Bathurst",N,N,"",2,347,"Cormier","","Serge","Liberal","Libéral",Y,Y,52
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 162","Bathurst",N,N,"",2,347,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 162","Bathurst",N,N,"",2,347,"Savoie","","Martine","Conservative","Conservateur",N,N,51
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 162","Bathurst",N,N,"",2,347,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 163","Bathurst",N,N,"",2,367,"Cormier","","Serge","Liberal","Libéral",Y,Y,60
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 163","Bathurst",N,N,"",2,367,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 163","Bathurst",N,N,"",2,367,"Savoie","","Martine","Conservative","Conservateur",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 163","Bathurst",N,N,"",2,367,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 164","Bathurst",N,N,"",0,461,"Cormier","","Serge","Liberal","Libéral",Y,Y,74
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 164","Bathurst",N,N,"",0,461,"Kryszko","","Robert","Green Party","Parti Vert",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 164","Bathurst",N,N,"",0,461,"Savoie","","Martine","Conservative","Conservateur",N,N,47
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 164","Bathurst",N,N,"",0,461,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 165","Bathurst",N,N,"",6,418,"Cormier","","Serge","Liberal","Libéral",Y,Y,85
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 165","Bathurst",N,N,"",6,418,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 165","Bathurst",N,N,"",6,418,"Savoie","","Martine","Conservative","Conservateur",N,N,45
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 165","Bathurst",N,N,"",6,418,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 166","Bathurst",N,N,"",2,295,"Cormier","","Serge","Liberal","Libéral",Y,Y,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 166","Bathurst",N,N,"",2,295,"Kryszko","","Robert","Green Party","Parti Vert",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 166","Bathurst",N,N,"",2,295,"Savoie","","Martine","Conservative","Conservateur",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 166","Bathurst",N,N,"",2,295,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 167","Robertville",N,N,"",1,431,"Cormier","","Serge","Liberal","Libéral",Y,Y,102
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 167","Robertville",N,N,"",1,431,"Kryszko","","Robert","Green Party","Parti Vert",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 167","Robertville",N,N,"",1,431,"Savoie","","Martine","Conservative","Conservateur",N,N,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 167","Robertville",N,N,"",1,431,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 168","Free Grant",N,N,"",2,349,"Cormier","","Serge","Liberal","Libéral",Y,Y,91
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 168","Free Grant",N,N,"",2,349,"Kryszko","","Robert","Green Party","Parti Vert",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 168","Free Grant",N,N,"",2,349,"Savoie","","Martine","Conservative","Conservateur",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 168","Free Grant",N,N,"",2,349,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 169","Robertville",N,N,"",1,435,"Cormier","","Serge","Liberal","Libéral",Y,Y,102
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 169","Robertville",N,N,"",1,435,"Kryszko","","Robert","Green Party","Parti Vert",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 169","Robertville",N,N,"",1,435,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 169","Robertville",N,N,"",1,435,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 170","Robertville",N,N,"",0,403,"Cormier","","Serge","Liberal","Libéral",Y,Y,95
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 170","Robertville",N,N,"",0,403,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 170","Robertville",N,N,"",0,403,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 170","Robertville",N,N,"",0,403,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 171","Robertville",N,N,"",3,358,"Cormier","","Serge","Liberal","Libéral",Y,Y,70
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 171","Robertville",N,N,"",3,358,"Kryszko","","Robert","Green Party","Parti Vert",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 171","Robertville",N,N,"",3,358,"Savoie","","Martine","Conservative","Conservateur",N,N,46
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 171","Robertville",N,N,"",3,358,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 172","Sainte-Louise",N,N,"",3,275,"Cormier","","Serge","Liberal","Libéral",Y,Y,64
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 172","Sainte-Louise",N,N,"",3,275,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 172","Sainte-Louise",N,N,"",3,275,"Savoie","","Martine","Conservative","Conservateur",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 172","Sainte-Louise",N,N,"",3,275,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 173","Sainte-Louise",N,N,"",0,262,"Cormier","","Serge","Liberal","Libéral",Y,Y,63
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 173","Sainte-Louise",N,N,"",0,262,"Kryszko","","Robert","Green Party","Parti Vert",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 173","Sainte-Louise",N,N,"",0,262,"Savoie","","Martine","Conservative","Conservateur",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 173","Sainte-Louise",N,N,"",0,262,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 174","Nicholas Denys",N,N,"",2,353,"Cormier","","Serge","Liberal","Libéral",Y,Y,81
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 174","Nicholas Denys",N,N,"",2,353,"Kryszko","","Robert","Green Party","Parti Vert",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 174","Nicholas Denys",N,N,"",2,353,"Savoie","","Martine","Conservative","Conservateur",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 174","Nicholas Denys",N,N,"",2,353,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 175","Saint-Irénée",N,N,"",7,336,"Cormier","","Serge","Liberal","Libéral",Y,Y,113
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 175","Saint-Irénée",N,N,"",7,336,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 175","Saint-Irénée",N,N,"",7,336,"Savoie","","Martine","Conservative","Conservateur",N,N,45
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 175","Saint-Irénée",N,N,"",7,336,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 176","Saint-Irénée",N,N,"",11,293,"Cormier","","Serge","Liberal","Libéral",Y,Y,94
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 176","Saint-Irénée",N,N,"",11,293,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 176","Saint-Irénée",N,N,"",11,293,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 176","Saint-Irénée",N,N,"",11,293,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 177","Bathurst",N,N,"",3,342,"Cormier","","Serge","Liberal","Libéral",Y,Y,68
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 177","Bathurst",N,N,"",3,342,"Kryszko","","Robert","Green Party","Parti Vert",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 177","Bathurst",N,N,"",3,342,"Savoie","","Martine","Conservative","Conservateur",N,N,46
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 177","Bathurst",N,N,"",3,342,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 178","Bathurst",N,N,"",2,346,"Cormier","","Serge","Liberal","Libéral",Y,Y,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 178","Bathurst",N,N,"",2,346,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 178","Bathurst",N,N,"",2,346,"Savoie","","Martine","Conservative","Conservateur",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 178","Bathurst",N,N,"",2,346,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 179","Bathurst",N,N,"",1,402,"Cormier","","Serge","Liberal","Libéral",Y,Y,64
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 179","Bathurst",N,N,"",1,402,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 179","Bathurst",N,N,"",1,402,"Savoie","","Martine","Conservative","Conservateur",N,N,41
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 179","Bathurst",N,N,"",1,402,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 180","Middle River",N,N,"",2,316,"Cormier","","Serge","Liberal","Libéral",Y,Y,47
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 180","Middle River",N,N,"",2,316,"Kryszko","","Robert","Green Party","Parti Vert",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 180","Middle River",N,N,"",2,316,"Savoie","","Martine","Conservative","Conservateur",N,N,60
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 180","Middle River",N,N,"",2,316,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 181","Middle River",N,N,"",0,268,"Cormier","","Serge","Liberal","Libéral",Y,Y,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 181","Middle River",N,N,"",0,268,"Kryszko","","Robert","Green Party","Parti Vert",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 181","Middle River",N,N,"",0,268,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 181","Middle River",N,N,"",0,268,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 182","Allardville",N,N,"",7,441,"Cormier","","Serge","Liberal","Libéral",Y,Y,91
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 182","Allardville",N,N,"",7,441,"Kryszko","","Robert","Green Party","Parti Vert",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 182","Allardville",N,N,"",7,441,"Savoie","","Martine","Conservative","Conservateur",N,N,67
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 182","Allardville",N,N,"",7,441,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 183","Allardville East",N,N,"",0,402,"Cormier","","Serge","Liberal","Libéral",Y,Y,102
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 183","Allardville East",N,N,"",0,402,"Kryszko","","Robert","Green Party","Parti Vert",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 183","Allardville East",N,N,"",0,402,"Savoie","","Martine","Conservative","Conservateur",N,N,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 183","Allardville East",N,N,"",0,402,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 184","Jeanne-Mance",N,N,"",7,396,"Cormier","","Serge","Liberal","Libéral",Y,Y,74
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 184","Jeanne-Mance",N,N,"",7,396,"Kryszko","","Robert","Green Party","Parti Vert",N,N,29
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 184","Jeanne-Mance",N,N,"",7,396,"Savoie","","Martine","Conservative","Conservateur",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 184","Jeanne-Mance",N,N,"",7,396,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 185","South Tetagouche",N,N,"",2,379,"Cormier","","Serge","Liberal","Libéral",Y,Y,102
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 185","South Tetagouche",N,N,"",2,379,"Kryszko","","Robert","Green Party","Parti Vert",N,N,21
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 185","South Tetagouche",N,N,"",2,379,"Savoie","","Martine","Conservative","Conservateur",N,N,42
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 185","South Tetagouche",N,N,"",2,379,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 186","Sainte-Anne",N,N,"",1,270,"Cormier","","Serge","Liberal","Libéral",Y,Y,67
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 186","Sainte-Anne",N,N,"",1,270,"Kryszko","","Robert","Green Party","Parti Vert",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 186","Sainte-Anne",N,N,"",1,270,"Savoie","","Martine","Conservative","Conservateur",N,N,30
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 186","Sainte-Anne",N,N,"",1,270,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 187","Sainte-Anne",N,N,"",0,359,"Cormier","","Serge","Liberal","Libéral",Y,Y,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 187","Sainte-Anne",N,N,"",0,359,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 187","Sainte-Anne",N,N,"",0,359,"Savoie","","Martine","Conservative","Conservateur",N,N,51
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 187","Sainte-Anne",N,N,"",0,359,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 188","South Tetagouche",N,N,"",2,296,"Cormier","","Serge","Liberal","Libéral",Y,Y,64
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 188","South Tetagouche",N,N,"",2,296,"Kryszko","","Robert","Green Party","Parti Vert",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 188","South Tetagouche",N,N,"",2,296,"Savoie","","Martine","Conservative","Conservateur",N,N,45
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 188","South Tetagouche",N,N,"",2,296,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 189","South Tetagouche",N,N,"",1,323,"Cormier","","Serge","Liberal","Libéral",Y,Y,54
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 189","South Tetagouche",N,N,"",1,323,"Kryszko","","Robert","Green Party","Parti Vert",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 189","South Tetagouche",N,N,"",1,323,"Savoie","","Martine","Conservative","Conservateur",N,N,34
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 189","South Tetagouche",N,N,"",1,323,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 190","Middle River",N,N,"",1,303,"Cormier","","Serge","Liberal","Libéral",Y,Y,47
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 190","Middle River",N,N,"",1,303,"Kryszko","","Robert","Green Party","Parti Vert",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 190","Middle River",N,N,"",1,303,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 190","Middle River",N,N,"",1,303,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 191","Papineau",N,N,"",7,434,"Cormier","","Serge","Liberal","Libéral",Y,Y,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 191","Papineau",N,N,"",7,434,"Kryszko","","Robert","Green Party","Parti Vert",N,N,35
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 191","Papineau",N,N,"",7,434,"Savoie","","Martine","Conservative","Conservateur",N,N,50
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 191","Papineau",N,N,"",7,434,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 500","Mobile poll/Bureau itinérant",N,N,"",5,99,"Cormier","","Serge","Liberal","Libéral",Y,Y,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 500","Mobile poll/Bureau itinérant",N,N,"",5,99,"Kryszko","","Robert","Green Party","Parti Vert",N,N,1
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 500","Mobile poll/Bureau itinérant",N,N,"",5,99,"Savoie","","Martine","Conservative","Conservateur",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 500","Mobile poll/Bureau itinérant",N,N,"",5,99,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 501","Mobile poll/Bureau itinérant",N,N,"",3,79,"Cormier","","Serge","Liberal","Libéral",Y,Y,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 501","Mobile poll/Bureau itinérant",N,N,"",3,79,"Kryszko","","Robert","Green Party","Parti Vert",N,N,1
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 501","Mobile poll/Bureau itinérant",N,N,"",3,79,"Savoie","","Martine","Conservative","Conservateur",N,N,23
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 501","Mobile poll/Bureau itinérant",N,N,"",3,79,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 502","Mobile poll/Bureau itinérant",N,N,"",2,115,"Cormier","","Serge","Liberal","Libéral",Y,Y,55
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 502","Mobile poll/Bureau itinérant",N,N,"",2,115,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 502","Mobile poll/Bureau itinérant",N,N,"",2,115,"Savoie","","Martine","Conservative","Conservateur",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 502","Mobile poll/Bureau itinérant",N,N,"",2,115,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 503","Mobile poll/Bureau itinérant",N,N,"",3,48,"Cormier","","Serge","Liberal","Libéral",Y,Y,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 503","Mobile poll/Bureau itinérant",N,N,"",3,48,"Kryszko","","Robert","Green Party","Parti Vert",N,N,0
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 503","Mobile poll/Bureau itinérant",N,N,"",3,48,"Savoie","","Martine","Conservative","Conservateur",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 503","Mobile poll/Bureau itinérant",N,N,"",3,48,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 504","Mobile poll/Bureau itinérant",N,N,"",7,165,"Cormier","","Serge","Liberal","Libéral",Y,Y,93
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 504","Mobile poll/Bureau itinérant",N,N,"",7,165,"Kryszko","","Robert","Green Party","Parti Vert",N,N,5
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 504","Mobile poll/Bureau itinérant",N,N,"",7,165,"Savoie","","Martine","Conservative","Conservateur",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 504","Mobile poll/Bureau itinérant",N,N,"",7,165,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 505","Mobile poll/Bureau itinérant",N,N,"",6,83,"Cormier","","Serge","Liberal","Libéral",Y,Y,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 505","Mobile poll/Bureau itinérant",N,N,"",6,83,"Kryszko","","Robert","Green Party","Parti Vert",N,N,3
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 505","Mobile poll/Bureau itinérant",N,N,"",6,83,"Savoie","","Martine","Conservative","Conservateur",N,N,16
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 505","Mobile poll/Bureau itinérant",N,N,"",6,83,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 506","Mobile poll/Bureau itinérant",N,N,"",1,98,"Cormier","","Serge","Liberal","Libéral",Y,Y,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 506","Mobile poll/Bureau itinérant",N,N,"",1,98,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 506","Mobile poll/Bureau itinérant",N,N,"",1,98,"Savoie","","Martine","Conservative","Conservateur",N,N,15
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 506","Mobile poll/Bureau itinérant",N,N,"",1,98,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 507","Mobile poll/Bureau itinérant",N,N,"",0,79,"Cormier","","Serge","Liberal","Libéral",Y,Y,49
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 507","Mobile poll/Bureau itinérant",N,N,"",0,79,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 507","Mobile poll/Bureau itinérant",N,N,"",0,79,"Savoie","","Martine","Conservative","Conservateur",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 507","Mobile poll/Bureau itinérant",N,N,"",0,79,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 508","Mobile poll/Bureau itinérant",N,N,"",2,90,"Cormier","","Serge","Liberal","Libéral",Y,Y,42
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 508","Mobile poll/Bureau itinérant",N,N,"",2,90,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 508","Mobile poll/Bureau itinérant",N,N,"",2,90,"Savoie","","Martine","Conservative","Conservateur",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 508","Mobile poll/Bureau itinérant",N,N,"",2,90,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 509","Mobile poll/Bureau itinérant",N,N,"142B",0,53,"Cormier","","Serge","Liberal","Libéral",Y,Y,0
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 509","Mobile poll/Bureau itinérant",N,N,"142B",0,53,"Kryszko","","Robert","Green Party","Parti Vert",N,N,0
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 509","Mobile poll/Bureau itinérant",N,N,"142B",0,53,"Savoie","","Martine","Conservative","Conservateur",N,N,0
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 509","Mobile poll/Bureau itinérant",N,N,"142B",0,53,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 510","Mobile poll/Bureau itinérant",N,N,"",4,121,"Cormier","","Serge","Liberal","Libéral",Y,Y,47
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 510","Mobile poll/Bureau itinérant",N,N,"",4,121,"Kryszko","","Robert","Green Party","Parti Vert",N,N,3
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 510","Mobile poll/Bureau itinérant",N,N,"",4,121,"Savoie","","Martine","Conservative","Conservateur",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 510","Mobile poll/Bureau itinérant",N,N,"",4,121,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 511","Mobile poll/Bureau itinérant",N,N,"",4,61,"Cormier","","Serge","Liberal","Libéral",Y,Y,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 511","Mobile poll/Bureau itinérant",N,N,"",4,61,"Kryszko","","Robert","Green Party","Parti Vert",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 511","Mobile poll/Bureau itinérant",N,N,"",4,61,"Savoie","","Martine","Conservative","Conservateur",N,N,5
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 511","Mobile poll/Bureau itinérant",N,N,"",4,61,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 512","Mobile poll/Bureau itinérant",N,N,"",9,124,"Cormier","","Serge","Liberal","Libéral",Y,Y,46
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 512","Mobile poll/Bureau itinérant",N,N,"",9,124,"Kryszko","","Robert","Green Party","Parti Vert",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 512","Mobile poll/Bureau itinérant",N,N,"",9,124,"Savoie","","Martine","Conservative","Conservateur",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 512","Mobile poll/Bureau itinérant",N,N,"",9,124,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 513","Mobile poll/Bureau itinérant",N,N,"",0,121,"Cormier","","Serge","Liberal","Libéral",Y,Y,49
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 513","Mobile poll/Bureau itinérant",N,N,"",0,121,"Kryszko","","Robert","Green Party","Parti Vert",N,N,4
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 513","Mobile poll/Bureau itinérant",N,N,"",0,121,"Savoie","","Martine","Conservative","Conservateur",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 513","Mobile poll/Bureau itinérant",N,N,"",0,121,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 514","Mobile poll/Bureau itinérant",N,N,"",5,115,"Cormier","","Serge","Liberal","Libéral",Y,Y,55
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 514","Mobile poll/Bureau itinérant",N,N,"",5,115,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 514","Mobile poll/Bureau itinérant",N,N,"",5,115,"Savoie","","Martine","Conservative","Conservateur",N,N,19
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 514","Mobile poll/Bureau itinérant",N,N,"",5,115,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 515","Mobile poll/Bureau itinérant",N,N,"",2,77,"Cormier","","Serge","Liberal","Libéral",Y,Y,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 515","Mobile poll/Bureau itinérant",N,N,"",2,77,"Kryszko","","Robert","Green Party","Parti Vert",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 515","Mobile poll/Bureau itinérant",N,N,"",2,77,"Savoie","","Martine","Conservative","Conservateur",N,N,10
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 515","Mobile poll/Bureau itinérant",N,N,"",2,77,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 516","Mobile poll/Bureau itinérant",N,N,"",3,91,"Cormier","","Serge","Liberal","Libéral",Y,Y,44
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 516","Mobile poll/Bureau itinérant",N,N,"",3,91,"Kryszko","","Robert","Green Party","Parti Vert",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 516","Mobile poll/Bureau itinérant",N,N,"",3,91,"Savoie","","Martine","Conservative","Conservateur",N,N,7
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 516","Mobile poll/Bureau itinérant",N,N,"",3,91,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 517","Mobile poll/Bureau itinérant",N,N,"",5,202,"Cormier","","Serge","Liberal","Libéral",Y,Y,103
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 517","Mobile poll/Bureau itinérant",N,N,"",5,202,"Kryszko","","Robert","Green Party","Parti Vert",N,N,13
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 517","Mobile poll/Bureau itinérant",N,N,"",5,202,"Savoie","","Martine","Conservative","Conservateur",N,N,26
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 517","Mobile poll/Bureau itinérant",N,N,"",5,202,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 518","Mobile poll/Bureau itinérant",N,N,"",3,163,"Cormier","","Serge","Liberal","Libéral",Y,Y,58
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 518","Mobile poll/Bureau itinérant",N,N,"",3,163,"Kryszko","","Robert","Green Party","Parti Vert",N,N,14
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 518","Mobile poll/Bureau itinérant",N,N,"",3,163,"Savoie","","Martine","Conservative","Conservateur",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 518","Mobile poll/Bureau itinérant",N,N,"",3,163,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 600","Belledune",N,N,"",5,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,118
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 600","Belledune",N,N,"",5,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,52
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 600","Belledune",N,N,"",5,0,"Savoie","","Martine","Conservative","Conservateur",N,N,96
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 600","Belledune",N,N,"",5,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 601","Petit-Rocher",N,N,"",2,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,180
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 601","Petit-Rocher",N,N,"",2,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,43
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 601","Petit-Rocher",N,N,"",2,0,"Savoie","","Martine","Conservative","Conservateur",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 601","Petit-Rocher",N,N,"",2,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 602","Petit-Rocher",N,N,"",11,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,512
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 602","Petit-Rocher",N,N,"",11,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,74
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 602","Petit-Rocher",N,N,"",11,0,"Savoie","","Martine","Conservative","Conservateur",N,N,81
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 602","Petit-Rocher",N,N,"",11,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 603","Robertville",N,N,"",2,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,403
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 603","Robertville",N,N,"",2,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,75
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 603","Robertville",N,N,"",2,0,"Savoie","","Martine","Conservative","Conservateur",N,N,100
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 603","Robertville",N,N,"",2,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 604","Beresford",N,N,"",3,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,322
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 604","Beresford",N,N,"",3,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,58
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 604","Beresford",N,N,"",3,0,"Savoie","","Martine","Conservative","Conservateur",N,N,84
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 604","Beresford",N,N,"",3,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 605","Beresford",N,N,"",0,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,361
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 605","Beresford",N,N,"",0,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,52
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 605","Beresford",N,N,"",0,0,"Savoie","","Martine","Conservative","Conservateur",N,N,83
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 605","Beresford",N,N,"",0,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 606","Nipisiguit",N,N,"",3,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,231
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 606","Nipisiguit",N,N,"",3,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 606","Nipisiguit",N,N,"",3,0,"Savoie","","Martine","Conservative","Conservateur",N,N,147
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 606","Nipisiguit",N,N,"",3,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 607","Bathurst",N,N,"",8,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,535
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 607","Bathurst",N,N,"",8,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,156
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 607","Bathurst",N,N,"",8,0,"Savoie","","Martine","Conservative","Conservateur",N,N,305
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 607","Bathurst",N,N,"",8,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,143
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 608","Bathurst",N,N,"",13,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,683
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 608","Bathurst",N,N,"",13,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,110
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 608","Bathurst",N,N,"",13,0,"Savoie","","Martine","Conservative","Conservateur",N,N,288
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 608","Bathurst",N,N,"",13,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,166
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 609","Bathurst",N,N,"",1,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,53
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 609","Bathurst",N,N,"",1,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,18
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 609","Bathurst",N,N,"",1,0,"Savoie","","Martine","Conservative","Conservateur",N,N,53
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 609","Bathurst",N,N,"",1,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 610","Allardville",N,N,"",3,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,211
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 610","Allardville",N,N,"",3,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 610","Allardville",N,N,"",3,0,"Savoie","","Martine","Conservative","Conservateur",N,N,51
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 610","Allardville",N,N,"",3,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 611","Tracadie-Sheila",N,N,"",6,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,327
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 611","Tracadie-Sheila",N,N,"",6,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,39
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 611","Tracadie-Sheila",N,N,"",6,0,"Savoie","","Martine","Conservative","Conservateur",N,N,73
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 611","Tracadie-Sheila",N,N,"",6,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 612","Tracadie-Sheila",N,N,"",7,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,280
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 612","Tracadie-Sheila",N,N,"",7,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,43
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 612","Tracadie-Sheila",N,N,"",7,0,"Savoie","","Martine","Conservative","Conservateur",N,N,112
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 612","Tracadie-Sheila",N,N,"",7,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 613","Tracadie-Sheila",N,N,"",21,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,656
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 613","Tracadie-Sheila",N,N,"",21,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,58
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 613","Tracadie-Sheila",N,N,"",21,0,"Savoie","","Martine","Conservative","Conservateur",N,N,219
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 613","Tracadie-Sheila",N,N,"",21,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 614","Paquetville",N,N,"",3,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,175
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 614","Paquetville",N,N,"",3,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,27
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 614","Paquetville",N,N,"",3,0,"Savoie","","Martine","Conservative","Conservateur",N,N,65
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 614","Paquetville",N,N,"",3,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 615","St. Isidore",N,N,"",6,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,349
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 615","St. Isidore",N,N,"",6,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,33
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 615","St. Isidore",N,N,"",6,0,"Savoie","","Martine","Conservative","Conservateur",N,N,75
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 615","St. Isidore",N,N,"",6,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 616","Paquetville",N,N,"",20,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,481
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 616","Paquetville",N,N,"",20,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,56
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 616","Paquetville",N,N,"",20,0,"Savoie","","Martine","Conservative","Conservateur",N,N,117
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 616","Paquetville",N,N,"",20,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,157
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 617","Grande Anse",N,N,"",8,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,333
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 617","Grande Anse",N,N,"",8,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,40
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 617","Grande Anse",N,N,"",8,0,"Savoie","","Martine","Conservative","Conservateur",N,N,63
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 617","Grande Anse",N,N,"",8,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 618","Caraquet",N,N,"",4,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,787
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 618","Caraquet",N,N,"",4,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,67
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 618","Caraquet",N,N,"",4,0,"Savoie","","Martine","Conservative","Conservateur",N,N,83
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 618","Caraquet",N,N,"",4,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 619","Caraquet",N,N,"",12,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,416
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 619","Caraquet",N,N,"",12,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,38
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 619","Caraquet",N,N,"",12,0,"Savoie","","Martine","Conservative","Conservateur",N,N,96
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 619","Caraquet",N,N,"",12,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 620","Shippagan",N,N,"",28,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,593
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 620","Shippagan",N,N,"",28,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,32
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 620","Shippagan",N,N,"",28,0,"Savoie","","Martine","Conservative","Conservateur",N,N,348
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 620","Shippagan",N,N,"",28,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 621","Lamèque",N,N,"",10,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,394
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 621","Lamèque",N,N,"",10,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 621","Lamèque",N,N,"",10,0,"Savoie","","Martine","Conservative","Conservateur",N,N,173
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 621","Lamèque",N,N,"",10,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 622","Lamèque",N,N,"",18,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,237
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 622","Lamèque",N,N,"",18,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,17
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 622","Lamèque",N,N,"",18,0,"Savoie","","Martine","Conservative","Conservateur",N,N,134
+13001,"Acadie--Bathurst","Acadie--Bathurst"," 622","Lamèque",N,N,"",18,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,56,"Cormier","","Serge","Liberal","Libéral",Y,Y,28
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,56,"Kryszko","","Robert","Green Party","Parti Vert",N,N,6
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,56,"Savoie","","Martine","Conservative","Conservateur",N,N,8
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",1,56,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",35,0,"Cormier","","Serge","Liberal","Libéral",Y,Y,1108
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",35,0,"Kryszko","","Robert","Green Party","Parti Vert",N,N,242
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",35,0,"Savoie","","Martine","Conservative","Conservateur",N,N,373
+13001,"Acadie--Bathurst","Acadie--Bathurst"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",35,0,"Thériault","","Daniel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,197

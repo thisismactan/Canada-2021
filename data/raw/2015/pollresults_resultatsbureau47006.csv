@@ -1,0 +1,733 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+47006,"Prince Albert ","Prince Albert "," 1","Paddockwood",N,N,"",1,392,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47006,"Prince Albert ","Prince Albert "," 1","Paddockwood",N,N,"",1,392,"Hoback","","Randy","Conservative","Conservateur",Y,Y,135
+47006,"Prince Albert ","Prince Albert "," 1","Paddockwood",N,N,"",1,392,"Kirkby","","Gordon","Liberal","Libéral",N,N,46
+47006,"Prince Albert ","Prince Albert "," 1","Paddockwood",N,N,"",1,392,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 2","Albertville",N,N,"",2,252,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47006,"Prince Albert ","Prince Albert "," 2","Albertville",N,N,"",2,252,"Hoback","","Randy","Conservative","Conservateur",Y,Y,89
+47006,"Prince Albert ","Prince Albert "," 2","Albertville",N,N,"",2,252,"Kirkby","","Gordon","Liberal","Libéral",N,N,40
+47006,"Prince Albert ","Prince Albert "," 2","Albertville",N,N,"",2,252,"Tenkink","","Byron","Green Party","Parti Vert",N,N,8
+47006,"Prince Albert ","Prince Albert "," 3","Spruce Home",N,N,"",1,355,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47006,"Prince Albert ","Prince Albert "," 3","Spruce Home",N,N,"",1,355,"Hoback","","Randy","Conservative","Conservateur",Y,Y,106
+47006,"Prince Albert ","Prince Albert "," 3","Spruce Home",N,N,"",1,355,"Kirkby","","Gordon","Liberal","Libéral",N,N,35
+47006,"Prince Albert ","Prince Albert "," 3","Spruce Home",N,N,"",1,355,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 4","Henribourg",N,N,"",1,114,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Prince Albert ","Prince Albert "," 4","Henribourg",N,N,"",1,114,"Hoback","","Randy","Conservative","Conservateur",Y,Y,45
+47006,"Prince Albert ","Prince Albert "," 4","Henribourg",N,N,"",1,114,"Kirkby","","Gordon","Liberal","Libéral",N,N,10
+47006,"Prince Albert ","Prince Albert "," 4","Henribourg",N,N,"",1,114,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 5A","Wahpeton 94A",N,N,"",0,172,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47006,"Prince Albert ","Prince Albert "," 5A","Wahpeton 94A",N,N,"",0,172,"Hoback","","Randy","Conservative","Conservateur",Y,Y,46
+47006,"Prince Albert ","Prince Albert "," 5A","Wahpeton 94A",N,N,"",0,172,"Kirkby","","Gordon","Liberal","Libéral",N,N,24
+47006,"Prince Albert ","Prince Albert "," 5A","Wahpeton 94A",N,N,"",0,172,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 5B","Wahpeton 94A",N,N,"",2,145,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+47006,"Prince Albert ","Prince Albert "," 5B","Wahpeton 94A",N,N,"",2,145,"Hoback","","Randy","Conservative","Conservateur",Y,Y,1
+47006,"Prince Albert ","Prince Albert "," 5B","Wahpeton 94A",N,N,"",2,145,"Kirkby","","Gordon","Liberal","Libéral",N,N,38
+47006,"Prince Albert ","Prince Albert "," 5B","Wahpeton 94A",N,N,"",2,145,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 6","Holbein",N,N,"",0,409,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+47006,"Prince Albert ","Prince Albert "," 6","Holbein",N,N,"",0,409,"Hoback","","Randy","Conservative","Conservateur",Y,Y,148
+47006,"Prince Albert ","Prince Albert "," 6","Holbein",N,N,"",0,409,"Kirkby","","Gordon","Liberal","Libéral",N,N,39
+47006,"Prince Albert ","Prince Albert "," 6","Holbein",N,N,"",0,409,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 7A","Shellbrook",N,N,"",0,391,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Prince Albert ","Prince Albert "," 7A","Shellbrook",N,N,"",0,391,"Hoback","","Randy","Conservative","Conservateur",Y,Y,129
+47006,"Prince Albert ","Prince Albert "," 7A","Shellbrook",N,N,"",0,391,"Kirkby","","Gordon","Liberal","Libéral",N,N,31
+47006,"Prince Albert ","Prince Albert "," 7A","Shellbrook",N,N,"",0,391,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 7B","Shellbrook",N,N,"",0,338,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47006,"Prince Albert ","Prince Albert "," 7B","Shellbrook",N,N,"",0,338,"Hoback","","Randy","Conservative","Conservateur",Y,Y,127
+47006,"Prince Albert ","Prince Albert "," 7B","Shellbrook",N,N,"",0,338,"Kirkby","","Gordon","Liberal","Libéral",N,N,26
+47006,"Prince Albert ","Prince Albert "," 7B","Shellbrook",N,N,"",0,338,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 8","Shellbrook",N,N,"",1,297,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47006,"Prince Albert ","Prince Albert "," 8","Shellbrook",N,N,"",1,297,"Hoback","","Randy","Conservative","Conservateur",Y,Y,116
+47006,"Prince Albert ","Prince Albert "," 8","Shellbrook",N,N,"",1,297,"Kirkby","","Gordon","Liberal","Libéral",N,N,28
+47006,"Prince Albert ","Prince Albert "," 8","Shellbrook",N,N,"",1,297,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 9","Shellbrook",N,N,"",1,227,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47006,"Prince Albert ","Prince Albert "," 9","Shellbrook",N,N,"",1,227,"Hoback","","Randy","Conservative","Conservateur",Y,Y,82
+47006,"Prince Albert ","Prince Albert "," 9","Shellbrook",N,N,"",1,227,"Kirkby","","Gordon","Liberal","Libéral",N,N,23
+47006,"Prince Albert ","Prince Albert "," 9","Shellbrook",N,N,"",1,227,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 10","Shellbrook",N,N,"",0,426,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47006,"Prince Albert ","Prince Albert "," 10","Shellbrook",N,N,"",0,426,"Hoback","","Randy","Conservative","Conservateur",Y,Y,151
+47006,"Prince Albert ","Prince Albert "," 10","Shellbrook",N,N,"",0,426,"Kirkby","","Gordon","Liberal","Libéral",N,N,30
+47006,"Prince Albert ","Prince Albert "," 10","Shellbrook",N,N,"",0,426,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 11","Macdowall",N,N,"",0,401,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+47006,"Prince Albert ","Prince Albert "," 11","Macdowall",N,N,"",0,401,"Hoback","","Randy","Conservative","Conservateur",Y,Y,132
+47006,"Prince Albert ","Prince Albert "," 11","Macdowall",N,N,"",0,401,"Kirkby","","Gordon","Liberal","Libéral",N,N,63
+47006,"Prince Albert ","Prince Albert "," 11","Macdowall",N,N,"",0,401,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 12","Clouston",N,N,"",0,357,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47006,"Prince Albert ","Prince Albert "," 12","Clouston",N,N,"",0,357,"Hoback","","Randy","Conservative","Conservateur",Y,Y,112
+47006,"Prince Albert ","Prince Albert "," 12","Clouston",N,N,"",0,357,"Kirkby","","Gordon","Liberal","Libéral",N,N,26
+47006,"Prince Albert ","Prince Albert "," 12","Clouston",N,N,"",0,357,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 13","Red Deer Hill",N,N,"",1,558,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+47006,"Prince Albert ","Prince Albert "," 13","Red Deer Hill",N,N,"",1,558,"Hoback","","Randy","Conservative","Conservateur",Y,Y,174
+47006,"Prince Albert ","Prince Albert "," 13","Red Deer Hill",N,N,"",1,558,"Kirkby","","Gordon","Liberal","Libéral",N,N,51
+47006,"Prince Albert ","Prince Albert "," 13","Red Deer Hill",N,N,"",1,558,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 14","Prince Albert",N,N,"",2,586,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+47006,"Prince Albert ","Prince Albert "," 14","Prince Albert",N,N,"",2,586,"Hoback","","Randy","Conservative","Conservateur",Y,Y,192
+47006,"Prince Albert ","Prince Albert "," 14","Prince Albert",N,N,"",2,586,"Kirkby","","Gordon","Liberal","Libéral",N,N,91
+47006,"Prince Albert ","Prince Albert "," 14","Prince Albert",N,N,"",2,586,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 15","Buckland",N,N,"",0,761,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+47006,"Prince Albert ","Prince Albert "," 15","Buckland",N,N,"",0,761,"Hoback","","Randy","Conservative","Conservateur",Y,Y,252
+47006,"Prince Albert ","Prince Albert "," 15","Buckland",N,N,"",0,761,"Kirkby","","Gordon","Liberal","Libéral",N,N,72
+47006,"Prince Albert ","Prince Albert "," 15","Buckland",N,N,"",0,761,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 16","White Star",N,N,"",0,436,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47006,"Prince Albert ","Prince Albert "," 16","White Star",N,N,"",0,436,"Hoback","","Randy","Conservative","Conservateur",Y,Y,163
+47006,"Prince Albert ","Prince Albert "," 16","White Star",N,N,"",0,436,"Kirkby","","Gordon","Liberal","Libéral",N,N,48
+47006,"Prince Albert ","Prince Albert "," 16","White Star",N,N,"",0,436,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 17","Red Wing",N,N,"",1,428,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+47006,"Prince Albert ","Prince Albert "," 17","Red Wing",N,N,"",1,428,"Hoback","","Randy","Conservative","Conservateur",Y,Y,216
+47006,"Prince Albert ","Prince Albert "," 17","Red Wing",N,N,"",1,428,"Kirkby","","Gordon","Liberal","Libéral",N,N,75
+47006,"Prince Albert ","Prince Albert "," 17","Red Wing",N,N,"",1,428,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 18","Meath Park",N,N,"",0,472,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+47006,"Prince Albert ","Prince Albert "," 18","Meath Park",N,N,"",0,472,"Hoback","","Randy","Conservative","Conservateur",Y,Y,179
+47006,"Prince Albert ","Prince Albert "," 18","Meath Park",N,N,"",0,472,"Kirkby","","Gordon","Liberal","Libéral",N,N,56
+47006,"Prince Albert ","Prince Albert "," 18","Meath Park",N,N,"",0,472,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 19","Kalyna",N,N,"",0,269,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47006,"Prince Albert ","Prince Albert "," 19","Kalyna",N,N,"",0,269,"Hoback","","Randy","Conservative","Conservateur",Y,Y,104
+47006,"Prince Albert ","Prince Albert "," 19","Kalyna",N,N,"",0,269,"Kirkby","","Gordon","Liberal","Libéral",N,N,33
+47006,"Prince Albert ","Prince Albert "," 19","Kalyna",N,N,"",0,269,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 20","Shipman",N,N,"",1,351,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47006,"Prince Albert ","Prince Albert "," 20","Shipman",N,N,"",1,351,"Hoback","","Randy","Conservative","Conservateur",Y,Y,105
+47006,"Prince Albert ","Prince Albert "," 20","Shipman",N,N,"",1,351,"Kirkby","","Gordon","Liberal","Libéral",N,N,22
+47006,"Prince Albert ","Prince Albert "," 20","Shipman",N,N,"",1,351,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 21","Choiceland",N,N,"",0,465,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47006,"Prince Albert ","Prince Albert "," 21","Choiceland",N,N,"",0,465,"Hoback","","Randy","Conservative","Conservateur",Y,Y,140
+47006,"Prince Albert ","Prince Albert "," 21","Choiceland",N,N,"",0,465,"Kirkby","","Gordon","Liberal","Libéral",N,N,30
+47006,"Prince Albert ","Prince Albert "," 21","Choiceland",N,N,"",0,465,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 22","Garrick",N,N,"",0,84,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Prince Albert ","Prince Albert "," 22","Garrick",N,N,"",0,84,"Hoback","","Randy","Conservative","Conservateur",Y,Y,28
+47006,"Prince Albert ","Prince Albert "," 22","Garrick",N,N,"",0,84,"Kirkby","","Gordon","Liberal","Libéral",N,N,2
+47006,"Prince Albert ","Prince Albert "," 22","Garrick",N,N,"",0,84,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 23","White Fox",N,N,"",0,316,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47006,"Prince Albert ","Prince Albert "," 23","White Fox",N,N,"",0,316,"Hoback","","Randy","Conservative","Conservateur",Y,Y,95
+47006,"Prince Albert ","Prince Albert "," 23","White Fox",N,N,"",0,316,"Kirkby","","Gordon","Liberal","Libéral",N,N,24
+47006,"Prince Albert ","Prince Albert "," 23","White Fox",N,N,"",0,316,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 24","Cherry Ridge",N,N,"",0,263,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47006,"Prince Albert ","Prince Albert "," 24","Cherry Ridge",N,N,"",0,263,"Hoback","","Randy","Conservative","Conservateur",Y,Y,126
+47006,"Prince Albert ","Prince Albert "," 24","Cherry Ridge",N,N,"",0,263,"Kirkby","","Gordon","Liberal","Libéral",N,N,8
+47006,"Prince Albert ","Prince Albert "," 24","Cherry Ridge",N,N,"",0,263,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 25A","Nipawin",N,N,"",0,387,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47006,"Prince Albert ","Prince Albert "," 25A","Nipawin",N,N,"",0,387,"Hoback","","Randy","Conservative","Conservateur",Y,Y,117
+47006,"Prince Albert ","Prince Albert "," 25A","Nipawin",N,N,"",0,387,"Kirkby","","Gordon","Liberal","Libéral",N,N,23
+47006,"Prince Albert ","Prince Albert "," 25A","Nipawin",N,N,"",0,387,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 25B","Nipawin",N,N,"",1,427,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47006,"Prince Albert ","Prince Albert "," 25B","Nipawin",N,N,"",1,427,"Hoback","","Randy","Conservative","Conservateur",Y,Y,136
+47006,"Prince Albert ","Prince Albert "," 25B","Nipawin",N,N,"",1,427,"Kirkby","","Gordon","Liberal","Libéral",N,N,28
+47006,"Prince Albert ","Prince Albert "," 25B","Nipawin",N,N,"",1,427,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 26","Nipawin",N,N,"",0,332,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47006,"Prince Albert ","Prince Albert "," 26","Nipawin",N,N,"",0,332,"Hoback","","Randy","Conservative","Conservateur",Y,Y,97
+47006,"Prince Albert ","Prince Albert "," 26","Nipawin",N,N,"",0,332,"Kirkby","","Gordon","Liberal","Libéral",N,N,33
+47006,"Prince Albert ","Prince Albert "," 26","Nipawin",N,N,"",0,332,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 27","Nipawin",N,N,"",0,379,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47006,"Prince Albert ","Prince Albert "," 27","Nipawin",N,N,"",0,379,"Hoback","","Randy","Conservative","Conservateur",Y,Y,99
+47006,"Prince Albert ","Prince Albert "," 27","Nipawin",N,N,"",0,379,"Kirkby","","Gordon","Liberal","Libéral",N,N,21
+47006,"Prince Albert ","Prince Albert "," 27","Nipawin",N,N,"",0,379,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 28","Nipawin",N,N,"",0,173,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47006,"Prince Albert ","Prince Albert "," 28","Nipawin",N,N,"",0,173,"Hoback","","Randy","Conservative","Conservateur",Y,Y,51
+47006,"Prince Albert ","Prince Albert "," 28","Nipawin",N,N,"",0,173,"Kirkby","","Gordon","Liberal","Libéral",N,N,13
+47006,"Prince Albert ","Prince Albert "," 28","Nipawin",N,N,"",0,173,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 29","Nipawin",N,N,"",1,402,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47006,"Prince Albert ","Prince Albert "," 29","Nipawin",N,N,"",1,402,"Hoback","","Randy","Conservative","Conservateur",Y,Y,181
+47006,"Prince Albert ","Prince Albert "," 29","Nipawin",N,N,"",1,402,"Kirkby","","Gordon","Liberal","Libéral",N,N,20
+47006,"Prince Albert ","Prince Albert "," 29","Nipawin",N,N,"",1,402,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 30","Nipawin",N,N,"",1,286,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+47006,"Prince Albert ","Prince Albert "," 30","Nipawin",N,N,"",1,286,"Hoback","","Randy","Conservative","Conservateur",Y,Y,98
+47006,"Prince Albert ","Prince Albert "," 30","Nipawin",N,N,"",1,286,"Kirkby","","Gordon","Liberal","Libéral",N,N,26
+47006,"Prince Albert ","Prince Albert "," 30","Nipawin",N,N,"",1,286,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 31","Nipawin",N,N,"",0,195,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47006,"Prince Albert ","Prince Albert "," 31","Nipawin",N,N,"",0,195,"Hoback","","Randy","Conservative","Conservateur",Y,Y,63
+47006,"Prince Albert ","Prince Albert "," 31","Nipawin",N,N,"",0,195,"Kirkby","","Gordon","Liberal","Libéral",N,N,9
+47006,"Prince Albert ","Prince Albert "," 31","Nipawin",N,N,"",0,195,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 32","Nipawin",N,N,"",0,401,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47006,"Prince Albert ","Prince Albert "," 32","Nipawin",N,N,"",0,401,"Hoback","","Randy","Conservative","Conservateur",Y,Y,106
+47006,"Prince Albert ","Prince Albert "," 32","Nipawin",N,N,"",0,401,"Kirkby","","Gordon","Liberal","Libéral",N,N,37
+47006,"Prince Albert ","Prince Albert "," 32","Nipawin",N,N,"",0,401,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 33","Nipawin",N,N,"",0,221,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47006,"Prince Albert ","Prince Albert "," 33","Nipawin",N,N,"",0,221,"Hoback","","Randy","Conservative","Conservateur",Y,Y,55
+47006,"Prince Albert ","Prince Albert "," 33","Nipawin",N,N,"",0,221,"Kirkby","","Gordon","Liberal","Libéral",N,N,13
+47006,"Prince Albert ","Prince Albert "," 33","Nipawin",N,N,"",0,221,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 34","Nipawin",N,N,"",0,329,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47006,"Prince Albert ","Prince Albert "," 34","Nipawin",N,N,"",0,329,"Hoback","","Randy","Conservative","Conservateur",Y,Y,147
+47006,"Prince Albert ","Prince Albert "," 34","Nipawin",N,N,"",0,329,"Kirkby","","Gordon","Liberal","Libéral",N,N,24
+47006,"Prince Albert ","Prince Albert "," 34","Nipawin",N,N,"",0,329,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 35","Petaigan",N,N,"",0,279,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47006,"Prince Albert ","Prince Albert "," 35","Petaigan",N,N,"",0,279,"Hoback","","Randy","Conservative","Conservateur",Y,Y,90
+47006,"Prince Albert ","Prince Albert "," 35","Petaigan",N,N,"",0,279,"Kirkby","","Gordon","Liberal","Libéral",N,N,10
+47006,"Prince Albert ","Prince Albert "," 35","Petaigan",N,N,"",0,279,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 36","Moose Range",N,N,"",0,228,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Prince Albert ","Prince Albert "," 36","Moose Range",N,N,"",0,228,"Hoback","","Randy","Conservative","Conservateur",Y,Y,67
+47006,"Prince Albert ","Prince Albert "," 36","Moose Range",N,N,"",0,228,"Kirkby","","Gordon","Liberal","Libéral",N,N,7
+47006,"Prince Albert ","Prince Albert "," 36","Moose Range",N,N,"",0,228,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 37","Carrot River",N,N,"",0,272,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47006,"Prince Albert ","Prince Albert "," 37","Carrot River",N,N,"",0,272,"Hoback","","Randy","Conservative","Conservateur",Y,Y,80
+47006,"Prince Albert ","Prince Albert "," 37","Carrot River",N,N,"",0,272,"Kirkby","","Gordon","Liberal","Libéral",N,N,21
+47006,"Prince Albert ","Prince Albert "," 37","Carrot River",N,N,"",0,272,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 38","Carrot River",N,N,"",0,490,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47006,"Prince Albert ","Prince Albert "," 38","Carrot River",N,N,"",0,490,"Hoback","","Randy","Conservative","Conservateur",Y,Y,178
+47006,"Prince Albert ","Prince Albert "," 38","Carrot River",N,N,"",0,490,"Kirkby","","Gordon","Liberal","Libéral",N,N,37
+47006,"Prince Albert ","Prince Albert "," 38","Carrot River",N,N,"",0,490,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 39","Moose Range",N,N,"",0,257,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47006,"Prince Albert ","Prince Albert "," 39","Moose Range",N,N,"",0,257,"Hoback","","Randy","Conservative","Conservateur",Y,Y,96
+47006,"Prince Albert ","Prince Albert "," 39","Moose Range",N,N,"",0,257,"Kirkby","","Gordon","Liberal","Libéral",N,N,21
+47006,"Prince Albert ","Prince Albert "," 39","Moose Range",N,N,"",0,257,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 40","Codette",N,N,"",0,207,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47006,"Prince Albert ","Prince Albert "," 40","Codette",N,N,"",0,207,"Hoback","","Randy","Conservative","Conservateur",Y,Y,63
+47006,"Prince Albert ","Prince Albert "," 40","Codette",N,N,"",0,207,"Kirkby","","Gordon","Liberal","Libéral",N,N,12
+47006,"Prince Albert ","Prince Albert "," 40","Codette",N,N,"",0,207,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 41","Codette",N,N,"",0,349,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47006,"Prince Albert ","Prince Albert "," 41","Codette",N,N,"",0,349,"Hoback","","Randy","Conservative","Conservateur",Y,Y,150
+47006,"Prince Albert ","Prince Albert "," 41","Codette",N,N,"",0,349,"Kirkby","","Gordon","Liberal","Libéral",N,N,12
+47006,"Prince Albert ","Prince Albert "," 41","Codette",N,N,"",0,349,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 42","Gronlid",N,N,"",1,332,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47006,"Prince Albert ","Prince Albert "," 42","Gronlid",N,N,"",1,332,"Hoback","","Randy","Conservative","Conservateur",Y,Y,153
+47006,"Prince Albert ","Prince Albert "," 42","Gronlid",N,N,"",1,332,"Kirkby","","Gordon","Liberal","Libéral",N,N,22
+47006,"Prince Albert ","Prince Albert "," 42","Gronlid",N,N,"",1,332,"Tenkink","","Byron","Green Party","Parti Vert",N,N,10
+47006,"Prince Albert ","Prince Albert "," 43","Aylsham",N,N,"",1,181,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Prince Albert ","Prince Albert "," 43","Aylsham",N,N,"",1,181,"Hoback","","Randy","Conservative","Conservateur",Y,Y,77
+47006,"Prince Albert ","Prince Albert "," 43","Aylsham",N,N,"",1,181,"Kirkby","","Gordon","Liberal","Libéral",N,N,17
+47006,"Prince Albert ","Prince Albert "," 43","Aylsham",N,N,"",1,181,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 44","Ridgedale",N,N,"",0,275,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Prince Albert ","Prince Albert "," 44","Ridgedale",N,N,"",0,275,"Hoback","","Randy","Conservative","Conservateur",Y,Y,157
+47006,"Prince Albert ","Prince Albert "," 44","Ridgedale",N,N,"",0,275,"Kirkby","","Gordon","Liberal","Libéral",N,N,21
+47006,"Prince Albert ","Prince Albert "," 44","Ridgedale",N,N,"",0,275,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 45","Brooksby",N,N,"",0,162,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Prince Albert ","Prince Albert "," 45","Brooksby",N,N,"",0,162,"Hoback","","Randy","Conservative","Conservateur",Y,Y,60
+47006,"Prince Albert ","Prince Albert "," 45","Brooksby",N,N,"",0,162,"Kirkby","","Gordon","Liberal","Libéral",N,N,9
+47006,"Prince Albert ","Prince Albert "," 45","Brooksby",N,N,"",0,162,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 46","Beatty",N,N,"",1,275,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47006,"Prince Albert ","Prince Albert "," 46","Beatty",N,N,"",1,275,"Hoback","","Randy","Conservative","Conservateur",Y,Y,115
+47006,"Prince Albert ","Prince Albert "," 46","Beatty",N,N,"",1,275,"Kirkby","","Gordon","Liberal","Libéral",N,N,29
+47006,"Prince Albert ","Prince Albert "," 46","Beatty",N,N,"",1,275,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 47","James Smith 100",N,N,"",0,353,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,135
+47006,"Prince Albert ","Prince Albert "," 47","James Smith 100",N,N,"",0,353,"Hoback","","Randy","Conservative","Conservateur",Y,Y,7
+47006,"Prince Albert ","Prince Albert "," 47","James Smith 100",N,N,"",0,353,"Kirkby","","Gordon","Liberal","Libéral",N,N,131
+47006,"Prince Albert ","Prince Albert "," 47","James Smith 100",N,N,"",0,353,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 48","Weldon",N,N,"",1,362,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47006,"Prince Albert ","Prince Albert "," 48","Weldon",N,N,"",1,362,"Hoback","","Randy","Conservative","Conservateur",Y,Y,138
+47006,"Prince Albert ","Prince Albert "," 48","Weldon",N,N,"",1,362,"Kirkby","","Gordon","Liberal","Libéral",N,N,37
+47006,"Prince Albert ","Prince Albert "," 48","Weldon",N,N,"",1,362,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 49","Birson",N,N,"",0,366,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47006,"Prince Albert ","Prince Albert "," 49","Birson",N,N,"",0,366,"Hoback","","Randy","Conservative","Conservateur",Y,Y,155
+47006,"Prince Albert ","Prince Albert "," 49","Birson",N,N,"",0,366,"Kirkby","","Gordon","Liberal","Libéral",N,N,41
+47006,"Prince Albert ","Prince Albert "," 49","Birson",N,N,"",0,366,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 50","Prince Albert",N,N,"",1,421,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+47006,"Prince Albert ","Prince Albert "," 50","Prince Albert",N,N,"",1,421,"Hoback","","Randy","Conservative","Conservateur",Y,Y,69
+47006,"Prince Albert ","Prince Albert "," 50","Prince Albert",N,N,"",1,421,"Kirkby","","Gordon","Liberal","Libéral",N,N,64
+47006,"Prince Albert ","Prince Albert "," 50","Prince Albert",N,N,"",1,421,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 51","Prince Albert",N,N,"",1,476,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+47006,"Prince Albert ","Prince Albert "," 51","Prince Albert",N,N,"",1,476,"Hoback","","Randy","Conservative","Conservateur",Y,Y,84
+47006,"Prince Albert ","Prince Albert "," 51","Prince Albert",N,N,"",1,476,"Kirkby","","Gordon","Liberal","Libéral",N,N,88
+47006,"Prince Albert ","Prince Albert "," 51","Prince Albert",N,N,"",1,476,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 52","Prince Albert",N,N,"",1,452,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,131
+47006,"Prince Albert ","Prince Albert "," 52","Prince Albert",N,N,"",1,452,"Hoback","","Randy","Conservative","Conservateur",Y,Y,76
+47006,"Prince Albert ","Prince Albert "," 52","Prince Albert",N,N,"",1,452,"Kirkby","","Gordon","Liberal","Libéral",N,N,63
+47006,"Prince Albert ","Prince Albert "," 52","Prince Albert",N,N,"",1,452,"Tenkink","","Byron","Green Party","Parti Vert",N,N,8
+47006,"Prince Albert ","Prince Albert "," 53","Prince Albert",N,N,"",0,435,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+47006,"Prince Albert ","Prince Albert "," 53","Prince Albert",N,N,"",0,435,"Hoback","","Randy","Conservative","Conservateur",Y,Y,79
+47006,"Prince Albert ","Prince Albert "," 53","Prince Albert",N,N,"",0,435,"Kirkby","","Gordon","Liberal","Libéral",N,N,66
+47006,"Prince Albert ","Prince Albert "," 53","Prince Albert",N,N,"",0,435,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 54","Prince Albert",N,N,"",1,412,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+47006,"Prince Albert ","Prince Albert "," 54","Prince Albert",N,N,"",1,412,"Hoback","","Randy","Conservative","Conservateur",Y,Y,113
+47006,"Prince Albert ","Prince Albert "," 54","Prince Albert",N,N,"",1,412,"Kirkby","","Gordon","Liberal","Libéral",N,N,55
+47006,"Prince Albert ","Prince Albert "," 54","Prince Albert",N,N,"",1,412,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 55","Prince Albert",N,N,"",0,465,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+47006,"Prince Albert ","Prince Albert "," 55","Prince Albert",N,N,"",0,465,"Hoback","","Randy","Conservative","Conservateur",Y,Y,72
+47006,"Prince Albert ","Prince Albert "," 55","Prince Albert",N,N,"",0,465,"Kirkby","","Gordon","Liberal","Libéral",N,N,76
+47006,"Prince Albert ","Prince Albert "," 55","Prince Albert",N,N,"",0,465,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 56","Miller's Hill",N,N,"",1,345,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47006,"Prince Albert ","Prince Albert "," 56","Miller's Hill",N,N,"",1,345,"Hoback","","Randy","Conservative","Conservateur",Y,Y,122
+47006,"Prince Albert ","Prince Albert "," 56","Miller's Hill",N,N,"",1,345,"Kirkby","","Gordon","Liberal","Libéral",N,N,36
+47006,"Prince Albert ","Prince Albert "," 56","Miller's Hill",N,N,"",1,345,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 57","Prince Albert",N,N,"",1,257,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47006,"Prince Albert ","Prince Albert "," 57","Prince Albert",N,N,"",1,257,"Hoback","","Randy","Conservative","Conservateur",Y,Y,51
+47006,"Prince Albert ","Prince Albert "," 57","Prince Albert",N,N,"",1,257,"Kirkby","","Gordon","Liberal","Libéral",N,N,40
+47006,"Prince Albert ","Prince Albert "," 57","Prince Albert",N,N,"",1,257,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 58","Prince Albert",N,N,"",1,550,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+47006,"Prince Albert ","Prince Albert "," 58","Prince Albert",N,N,"",1,550,"Hoback","","Randy","Conservative","Conservateur",Y,Y,72
+47006,"Prince Albert ","Prince Albert "," 58","Prince Albert",N,N,"",1,550,"Kirkby","","Gordon","Liberal","Libéral",N,N,83
+47006,"Prince Albert ","Prince Albert "," 58","Prince Albert",N,N,"",1,550,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 59","Prince Albert",N,N,"",0,416,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+47006,"Prince Albert ","Prince Albert "," 59","Prince Albert",N,N,"",0,416,"Hoback","","Randy","Conservative","Conservateur",Y,Y,76
+47006,"Prince Albert ","Prince Albert "," 59","Prince Albert",N,N,"",0,416,"Kirkby","","Gordon","Liberal","Libéral",N,N,51
+47006,"Prince Albert ","Prince Albert "," 59","Prince Albert",N,N,"",0,416,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 60","Prince Albert",N,N,"",1,445,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+47006,"Prince Albert ","Prince Albert "," 60","Prince Albert",N,N,"",1,445,"Hoback","","Randy","Conservative","Conservateur",Y,Y,70
+47006,"Prince Albert ","Prince Albert "," 60","Prince Albert",N,N,"",1,445,"Kirkby","","Gordon","Liberal","Libéral",N,N,73
+47006,"Prince Albert ","Prince Albert "," 60","Prince Albert",N,N,"",1,445,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 61","Prince Albert",N,N,"",0,487,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+47006,"Prince Albert ","Prince Albert "," 61","Prince Albert",N,N,"",0,487,"Hoback","","Randy","Conservative","Conservateur",Y,Y,74
+47006,"Prince Albert ","Prince Albert "," 61","Prince Albert",N,N,"",0,487,"Kirkby","","Gordon","Liberal","Libéral",N,N,62
+47006,"Prince Albert ","Prince Albert "," 61","Prince Albert",N,N,"",0,487,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 62","Prince Albert",N,N,"",0,428,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+47006,"Prince Albert ","Prince Albert "," 62","Prince Albert",N,N,"",0,428,"Hoback","","Randy","Conservative","Conservateur",Y,Y,60
+47006,"Prince Albert ","Prince Albert "," 62","Prince Albert",N,N,"",0,428,"Kirkby","","Gordon","Liberal","Libéral",N,N,58
+47006,"Prince Albert ","Prince Albert "," 62","Prince Albert",N,N,"",0,428,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 63","Prince Albert",N,N,"",1,448,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+47006,"Prince Albert ","Prince Albert "," 63","Prince Albert",N,N,"",1,448,"Hoback","","Randy","Conservative","Conservateur",Y,Y,45
+47006,"Prince Albert ","Prince Albert "," 63","Prince Albert",N,N,"",1,448,"Kirkby","","Gordon","Liberal","Libéral",N,N,57
+47006,"Prince Albert ","Prince Albert "," 63","Prince Albert",N,N,"",1,448,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 64","Prince Albert",N,N,"",0,421,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+47006,"Prince Albert ","Prince Albert "," 64","Prince Albert",N,N,"",0,421,"Hoback","","Randy","Conservative","Conservateur",Y,Y,49
+47006,"Prince Albert ","Prince Albert "," 64","Prince Albert",N,N,"",0,421,"Kirkby","","Gordon","Liberal","Libéral",N,N,54
+47006,"Prince Albert ","Prince Albert "," 64","Prince Albert",N,N,"",0,421,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 65","Prince Albert",N,N,"",0,460,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+47006,"Prince Albert ","Prince Albert "," 65","Prince Albert",N,N,"",0,460,"Hoback","","Randy","Conservative","Conservateur",Y,Y,52
+47006,"Prince Albert ","Prince Albert "," 65","Prince Albert",N,N,"",0,460,"Kirkby","","Gordon","Liberal","Libéral",N,N,56
+47006,"Prince Albert ","Prince Albert "," 65","Prince Albert",N,N,"",0,460,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 66","Prince Albert",N,N,"",1,416,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+47006,"Prince Albert ","Prince Albert "," 66","Prince Albert",N,N,"",1,416,"Hoback","","Randy","Conservative","Conservateur",Y,Y,67
+47006,"Prince Albert ","Prince Albert "," 66","Prince Albert",N,N,"",1,416,"Kirkby","","Gordon","Liberal","Libéral",N,N,59
+47006,"Prince Albert ","Prince Albert "," 66","Prince Albert",N,N,"",1,416,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 67","Prince Albert",N,N,"",0,277,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47006,"Prince Albert ","Prince Albert "," 67","Prince Albert",N,N,"",0,277,"Hoback","","Randy","Conservative","Conservateur",Y,Y,60
+47006,"Prince Albert ","Prince Albert "," 67","Prince Albert",N,N,"",0,277,"Kirkby","","Gordon","Liberal","Libéral",N,N,43
+47006,"Prince Albert ","Prince Albert "," 67","Prince Albert",N,N,"",0,277,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 68","Prince Albert",N,N,"",0,404,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+47006,"Prince Albert ","Prince Albert "," 68","Prince Albert",N,N,"",0,404,"Hoback","","Randy","Conservative","Conservateur",Y,Y,32
+47006,"Prince Albert ","Prince Albert "," 68","Prince Albert",N,N,"",0,404,"Kirkby","","Gordon","Liberal","Libéral",N,N,51
+47006,"Prince Albert ","Prince Albert "," 68","Prince Albert",N,N,"",0,404,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 69","Prince Albert",N,N,"",0,340,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+47006,"Prince Albert ","Prince Albert "," 69","Prince Albert",N,N,"",0,340,"Hoback","","Randy","Conservative","Conservateur",Y,Y,34
+47006,"Prince Albert ","Prince Albert "," 69","Prince Albert",N,N,"",0,340,"Kirkby","","Gordon","Liberal","Libéral",N,N,64
+47006,"Prince Albert ","Prince Albert "," 69","Prince Albert",N,N,"",0,340,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 70","Prince Albert",N,N,"",1,420,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+47006,"Prince Albert ","Prince Albert "," 70","Prince Albert",N,N,"",1,420,"Hoback","","Randy","Conservative","Conservateur",Y,Y,23
+47006,"Prince Albert ","Prince Albert "," 70","Prince Albert",N,N,"",1,420,"Kirkby","","Gordon","Liberal","Libéral",N,N,44
+47006,"Prince Albert ","Prince Albert "," 70","Prince Albert",N,N,"",1,420,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 71","Prince Albert",N,N,"",0,426,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,109
+47006,"Prince Albert ","Prince Albert "," 71","Prince Albert",N,N,"",0,426,"Hoback","","Randy","Conservative","Conservateur",Y,Y,37
+47006,"Prince Albert ","Prince Albert "," 71","Prince Albert",N,N,"",0,426,"Kirkby","","Gordon","Liberal","Libéral",N,N,63
+47006,"Prince Albert ","Prince Albert "," 71","Prince Albert",N,N,"",0,426,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 72","Prince Albert",N,N,"",1,413,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+47006,"Prince Albert ","Prince Albert "," 72","Prince Albert",N,N,"",1,413,"Hoback","","Randy","Conservative","Conservateur",Y,Y,36
+47006,"Prince Albert ","Prince Albert "," 72","Prince Albert",N,N,"",1,413,"Kirkby","","Gordon","Liberal","Libéral",N,N,44
+47006,"Prince Albert ","Prince Albert "," 72","Prince Albert",N,N,"",1,413,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 73","Prince Albert",N,N,"",1,402,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+47006,"Prince Albert ","Prince Albert "," 73","Prince Albert",N,N,"",1,402,"Hoback","","Randy","Conservative","Conservateur",Y,Y,37
+47006,"Prince Albert ","Prince Albert "," 73","Prince Albert",N,N,"",1,402,"Kirkby","","Gordon","Liberal","Libéral",N,N,53
+47006,"Prince Albert ","Prince Albert "," 73","Prince Albert",N,N,"",1,402,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 74","Prince Albert",N,N,"",0,388,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,109
+47006,"Prince Albert ","Prince Albert "," 74","Prince Albert",N,N,"",0,388,"Hoback","","Randy","Conservative","Conservateur",Y,Y,38
+47006,"Prince Albert ","Prince Albert "," 74","Prince Albert",N,N,"",0,388,"Kirkby","","Gordon","Liberal","Libéral",N,N,65
+47006,"Prince Albert ","Prince Albert "," 74","Prince Albert",N,N,"",0,388,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 75","Prince Albert",N,N,"",1,370,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+47006,"Prince Albert ","Prince Albert "," 75","Prince Albert",N,N,"",1,370,"Hoback","","Randy","Conservative","Conservateur",Y,Y,36
+47006,"Prince Albert ","Prince Albert "," 75","Prince Albert",N,N,"",1,370,"Kirkby","","Gordon","Liberal","Libéral",N,N,47
+47006,"Prince Albert ","Prince Albert "," 75","Prince Albert",N,N,"",1,370,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 76","Prince Albert",N,N,"",1,464,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+47006,"Prince Albert ","Prince Albert "," 76","Prince Albert",N,N,"",1,464,"Hoback","","Randy","Conservative","Conservateur",Y,Y,28
+47006,"Prince Albert ","Prince Albert "," 76","Prince Albert",N,N,"",1,464,"Kirkby","","Gordon","Liberal","Libéral",N,N,60
+47006,"Prince Albert ","Prince Albert "," 76","Prince Albert",N,N,"",1,464,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 77","Prince Albert",N,N,"",1,373,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+47006,"Prince Albert ","Prince Albert "," 77","Prince Albert",N,N,"",1,373,"Hoback","","Randy","Conservative","Conservateur",Y,Y,63
+47006,"Prince Albert ","Prince Albert "," 77","Prince Albert",N,N,"",1,373,"Kirkby","","Gordon","Liberal","Libéral",N,N,48
+47006,"Prince Albert ","Prince Albert "," 77","Prince Albert",N,N,"",1,373,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 78A","Prince Albert",N,N,"",0,658,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+47006,"Prince Albert ","Prince Albert "," 78A","Prince Albert",N,N,"",0,658,"Hoback","","Randy","Conservative","Conservateur",Y,Y,142
+47006,"Prince Albert ","Prince Albert "," 78A","Prince Albert",N,N,"",0,658,"Kirkby","","Gordon","Liberal","Libéral",N,N,78
+47006,"Prince Albert ","Prince Albert "," 78A","Prince Albert",N,N,"",0,658,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 78B","Mobile poll/Bureau itinérant",N,N,"501A",0,52,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Prince Albert ","Prince Albert "," 78B","Mobile poll/Bureau itinérant",N,N,"501A",0,52,"Hoback","","Randy","Conservative","Conservateur",Y,Y,0
+47006,"Prince Albert ","Prince Albert "," 78B","Mobile poll/Bureau itinérant",N,N,"501A",0,52,"Kirkby","","Gordon","Liberal","Libéral",N,N,0
+47006,"Prince Albert ","Prince Albert "," 78B","Mobile poll/Bureau itinérant",N,N,"501A",0,52,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 79","Prince Albert",N,N,"",0,512,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+47006,"Prince Albert ","Prince Albert "," 79","Prince Albert",N,N,"",0,512,"Hoback","","Randy","Conservative","Conservateur",Y,Y,157
+47006,"Prince Albert ","Prince Albert "," 79","Prince Albert",N,N,"",0,512,"Kirkby","","Gordon","Liberal","Libéral",N,N,69
+47006,"Prince Albert ","Prince Albert "," 79","Prince Albert",N,N,"",0,512,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 80","Prince Albert",N,N,"",2,437,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+47006,"Prince Albert ","Prince Albert "," 80","Prince Albert",N,N,"",2,437,"Hoback","","Randy","Conservative","Conservateur",Y,Y,91
+47006,"Prince Albert ","Prince Albert "," 80","Prince Albert",N,N,"",2,437,"Kirkby","","Gordon","Liberal","Libéral",N,N,54
+47006,"Prince Albert ","Prince Albert "," 80","Prince Albert",N,N,"",2,437,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 81","Prince Albert",N,N,"",0,441,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+47006,"Prince Albert ","Prince Albert "," 81","Prince Albert",N,N,"",0,441,"Hoback","","Randy","Conservative","Conservateur",Y,Y,81
+47006,"Prince Albert ","Prince Albert "," 81","Prince Albert",N,N,"",0,441,"Kirkby","","Gordon","Liberal","Libéral",N,N,64
+47006,"Prince Albert ","Prince Albert "," 81","Prince Albert",N,N,"",0,441,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 82","Prince Albert",N,N,"",1,398,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+47006,"Prince Albert ","Prince Albert "," 82","Prince Albert",N,N,"",1,398,"Hoback","","Randy","Conservative","Conservateur",Y,Y,58
+47006,"Prince Albert ","Prince Albert "," 82","Prince Albert",N,N,"",1,398,"Kirkby","","Gordon","Liberal","Libéral",N,N,43
+47006,"Prince Albert ","Prince Albert "," 82","Prince Albert",N,N,"",1,398,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 83","Prince Albert",N,N,"",0,282,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47006,"Prince Albert ","Prince Albert "," 83","Prince Albert",N,N,"",0,282,"Hoback","","Randy","Conservative","Conservateur",Y,Y,80
+47006,"Prince Albert ","Prince Albert "," 83","Prince Albert",N,N,"",0,282,"Kirkby","","Gordon","Liberal","Libéral",N,N,34
+47006,"Prince Albert ","Prince Albert "," 83","Prince Albert",N,N,"",0,282,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 84","Prince Albert",N,N,"",0,392,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+47006,"Prince Albert ","Prince Albert "," 84","Prince Albert",N,N,"",0,392,"Hoback","","Randy","Conservative","Conservateur",Y,Y,90
+47006,"Prince Albert ","Prince Albert "," 84","Prince Albert",N,N,"",0,392,"Kirkby","","Gordon","Liberal","Libéral",N,N,57
+47006,"Prince Albert ","Prince Albert "," 84","Prince Albert",N,N,"",0,392,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 85","Prince Albert",N,N,"",1,371,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47006,"Prince Albert ","Prince Albert "," 85","Prince Albert",N,N,"",1,371,"Hoback","","Randy","Conservative","Conservateur",Y,Y,75
+47006,"Prince Albert ","Prince Albert "," 85","Prince Albert",N,N,"",1,371,"Kirkby","","Gordon","Liberal","Libéral",N,N,46
+47006,"Prince Albert ","Prince Albert "," 85","Prince Albert",N,N,"",1,371,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 86","Prince Albert",N,N,"",0,391,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+47006,"Prince Albert ","Prince Albert "," 86","Prince Albert",N,N,"",0,391,"Hoback","","Randy","Conservative","Conservateur",Y,Y,54
+47006,"Prince Albert ","Prince Albert "," 86","Prince Albert",N,N,"",0,391,"Kirkby","","Gordon","Liberal","Libéral",N,N,58
+47006,"Prince Albert ","Prince Albert "," 86","Prince Albert",N,N,"",0,391,"Tenkink","","Byron","Green Party","Parti Vert",N,N,11
+47006,"Prince Albert ","Prince Albert "," 87","Prince Albert",N,N,"",0,427,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+47006,"Prince Albert ","Prince Albert "," 87","Prince Albert",N,N,"",0,427,"Hoback","","Randy","Conservative","Conservateur",Y,Y,65
+47006,"Prince Albert ","Prince Albert "," 87","Prince Albert",N,N,"",0,427,"Kirkby","","Gordon","Liberal","Libéral",N,N,62
+47006,"Prince Albert ","Prince Albert "," 87","Prince Albert",N,N,"",0,427,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 88","Prince Albert",N,N,"",0,397,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+47006,"Prince Albert ","Prince Albert "," 88","Prince Albert",N,N,"",0,397,"Hoback","","Randy","Conservative","Conservateur",Y,Y,70
+47006,"Prince Albert ","Prince Albert "," 88","Prince Albert",N,N,"",0,397,"Kirkby","","Gordon","Liberal","Libéral",N,N,59
+47006,"Prince Albert ","Prince Albert "," 88","Prince Albert",N,N,"",0,397,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 89","Prince Albert",N,N,"",0,377,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47006,"Prince Albert ","Prince Albert "," 89","Prince Albert",N,N,"",0,377,"Hoback","","Randy","Conservative","Conservateur",Y,Y,97
+47006,"Prince Albert ","Prince Albert "," 89","Prince Albert",N,N,"",0,377,"Kirkby","","Gordon","Liberal","Libéral",N,N,48
+47006,"Prince Albert ","Prince Albert "," 89","Prince Albert",N,N,"",0,377,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 90","Prince Albert",N,N,"",0,385,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+47006,"Prince Albert ","Prince Albert "," 90","Prince Albert",N,N,"",0,385,"Hoback","","Randy","Conservative","Conservateur",Y,Y,88
+47006,"Prince Albert ","Prince Albert "," 90","Prince Albert",N,N,"",0,385,"Kirkby","","Gordon","Liberal","Libéral",N,N,61
+47006,"Prince Albert ","Prince Albert "," 90","Prince Albert",N,N,"",0,385,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 91","Prince Albert",N,N,"",1,379,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+47006,"Prince Albert ","Prince Albert "," 91","Prince Albert",N,N,"",1,379,"Hoback","","Randy","Conservative","Conservateur",Y,Y,60
+47006,"Prince Albert ","Prince Albert "," 91","Prince Albert",N,N,"",1,379,"Kirkby","","Gordon","Liberal","Libéral",N,N,54
+47006,"Prince Albert ","Prince Albert "," 91","Prince Albert",N,N,"",1,379,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 92","Prince Albert",N,N,"",0,362,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47006,"Prince Albert ","Prince Albert "," 92","Prince Albert",N,N,"",0,362,"Hoback","","Randy","Conservative","Conservateur",Y,Y,108
+47006,"Prince Albert ","Prince Albert "," 92","Prince Albert",N,N,"",0,362,"Kirkby","","Gordon","Liberal","Libéral",N,N,56
+47006,"Prince Albert ","Prince Albert "," 92","Prince Albert",N,N,"",0,362,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 93","Prince Albert",N,N,"",0,430,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+47006,"Prince Albert ","Prince Albert "," 93","Prince Albert",N,N,"",0,430,"Hoback","","Randy","Conservative","Conservateur",Y,Y,49
+47006,"Prince Albert ","Prince Albert "," 93","Prince Albert",N,N,"",0,430,"Kirkby","","Gordon","Liberal","Libéral",N,N,34
+47006,"Prince Albert ","Prince Albert "," 93","Prince Albert",N,N,"",0,430,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 94","Prince Albert",N,N,"",0,386,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+47006,"Prince Albert ","Prince Albert "," 94","Prince Albert",N,N,"",0,386,"Hoback","","Randy","Conservative","Conservateur",Y,Y,80
+47006,"Prince Albert ","Prince Albert "," 94","Prince Albert",N,N,"",0,386,"Kirkby","","Gordon","Liberal","Libéral",N,N,56
+47006,"Prince Albert ","Prince Albert "," 94","Prince Albert",N,N,"",0,386,"Tenkink","","Byron","Green Party","Parti Vert",N,N,8
+47006,"Prince Albert ","Prince Albert "," 95","Prince Albert",N,N,"",0,401,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+47006,"Prince Albert ","Prince Albert "," 95","Prince Albert",N,N,"",0,401,"Hoback","","Randy","Conservative","Conservateur",Y,Y,85
+47006,"Prince Albert ","Prince Albert "," 95","Prince Albert",N,N,"",0,401,"Kirkby","","Gordon","Liberal","Libéral",N,N,48
+47006,"Prince Albert ","Prince Albert "," 95","Prince Albert",N,N,"",0,401,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 96","Prince Albert",N,N,"",0,357,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47006,"Prince Albert ","Prince Albert "," 96","Prince Albert",N,N,"",0,357,"Hoback","","Randy","Conservative","Conservateur",Y,Y,82
+47006,"Prince Albert ","Prince Albert "," 96","Prince Albert",N,N,"",0,357,"Kirkby","","Gordon","Liberal","Libéral",N,N,74
+47006,"Prince Albert ","Prince Albert "," 96","Prince Albert",N,N,"",0,357,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 97","Prince Albert",N,N,"",0,359,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47006,"Prince Albert ","Prince Albert "," 97","Prince Albert",N,N,"",0,359,"Hoback","","Randy","Conservative","Conservateur",Y,Y,86
+47006,"Prince Albert ","Prince Albert "," 97","Prince Albert",N,N,"",0,359,"Kirkby","","Gordon","Liberal","Libéral",N,N,59
+47006,"Prince Albert ","Prince Albert "," 97","Prince Albert",N,N,"",0,359,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 98","Prince Albert",N,N,"",1,496,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+47006,"Prince Albert ","Prince Albert "," 98","Prince Albert",N,N,"",1,496,"Hoback","","Randy","Conservative","Conservateur",Y,Y,140
+47006,"Prince Albert ","Prince Albert "," 98","Prince Albert",N,N,"",1,496,"Kirkby","","Gordon","Liberal","Libéral",N,N,63
+47006,"Prince Albert ","Prince Albert "," 98","Prince Albert",N,N,"",1,496,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 99","Prince Albert",N,N,"",0,419,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+47006,"Prince Albert ","Prince Albert "," 99","Prince Albert",N,N,"",0,419,"Hoback","","Randy","Conservative","Conservateur",Y,Y,124
+47006,"Prince Albert ","Prince Albert "," 99","Prince Albert",N,N,"",0,419,"Kirkby","","Gordon","Liberal","Libéral",N,N,55
+47006,"Prince Albert ","Prince Albert "," 99","Prince Albert",N,N,"",0,419,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 100","Prince Albert",N,N,"",0,302,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+47006,"Prince Albert ","Prince Albert "," 100","Prince Albert",N,N,"",0,302,"Hoback","","Randy","Conservative","Conservateur",Y,Y,101
+47006,"Prince Albert ","Prince Albert "," 100","Prince Albert",N,N,"",0,302,"Kirkby","","Gordon","Liberal","Libéral",N,N,31
+47006,"Prince Albert ","Prince Albert "," 100","Prince Albert",N,N,"",0,302,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 101","Prince Albert",N,N,"",1,459,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+47006,"Prince Albert ","Prince Albert "," 101","Prince Albert",N,N,"",1,459,"Hoback","","Randy","Conservative","Conservateur",Y,Y,95
+47006,"Prince Albert ","Prince Albert "," 101","Prince Albert",N,N,"",1,459,"Kirkby","","Gordon","Liberal","Libéral",N,N,59
+47006,"Prince Albert ","Prince Albert "," 101","Prince Albert",N,N,"",1,459,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 102","Prince Albert",N,N,"",0,346,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47006,"Prince Albert ","Prince Albert "," 102","Prince Albert",N,N,"",0,346,"Hoback","","Randy","Conservative","Conservateur",Y,Y,69
+47006,"Prince Albert ","Prince Albert "," 102","Prince Albert",N,N,"",0,346,"Kirkby","","Gordon","Liberal","Libéral",N,N,45
+47006,"Prince Albert ","Prince Albert "," 102","Prince Albert",N,N,"",0,346,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 103","Prince Albert",N,N,"",1,339,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+47006,"Prince Albert ","Prince Albert "," 103","Prince Albert",N,N,"",1,339,"Hoback","","Randy","Conservative","Conservateur",Y,Y,80
+47006,"Prince Albert ","Prince Albert "," 103","Prince Albert",N,N,"",1,339,"Kirkby","","Gordon","Liberal","Libéral",N,N,46
+47006,"Prince Albert ","Prince Albert "," 103","Prince Albert",N,N,"",1,339,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 104","Prince Albert",N,N,"",0,351,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47006,"Prince Albert ","Prince Albert "," 104","Prince Albert",N,N,"",0,351,"Hoback","","Randy","Conservative","Conservateur",Y,Y,112
+47006,"Prince Albert ","Prince Albert "," 104","Prince Albert",N,N,"",0,351,"Kirkby","","Gordon","Liberal","Libéral",N,N,47
+47006,"Prince Albert ","Prince Albert "," 104","Prince Albert",N,N,"",0,351,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 105","Prince Albert",N,N,"",0,438,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47006,"Prince Albert ","Prince Albert "," 105","Prince Albert",N,N,"",0,438,"Hoback","","Randy","Conservative","Conservateur",Y,Y,139
+47006,"Prince Albert ","Prince Albert "," 105","Prince Albert",N,N,"",0,438,"Kirkby","","Gordon","Liberal","Libéral",N,N,57
+47006,"Prince Albert ","Prince Albert "," 105","Prince Albert",N,N,"",0,438,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 106","Prince Albert",N,N,"",0,388,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+47006,"Prince Albert ","Prince Albert "," 106","Prince Albert",N,N,"",0,388,"Hoback","","Randy","Conservative","Conservateur",Y,Y,65
+47006,"Prince Albert ","Prince Albert "," 106","Prince Albert",N,N,"",0,388,"Kirkby","","Gordon","Liberal","Libéral",N,N,55
+47006,"Prince Albert ","Prince Albert "," 106","Prince Albert",N,N,"",0,388,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 107","Prince Albert",N,N,"",1,453,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+47006,"Prince Albert ","Prince Albert "," 107","Prince Albert",N,N,"",1,453,"Hoback","","Randy","Conservative","Conservateur",Y,Y,70
+47006,"Prince Albert ","Prince Albert "," 107","Prince Albert",N,N,"",1,453,"Kirkby","","Gordon","Liberal","Libéral",N,N,58
+47006,"Prince Albert ","Prince Albert "," 107","Prince Albert",N,N,"",1,453,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 108","Prince Albert",N,N,"",1,433,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+47006,"Prince Albert ","Prince Albert "," 108","Prince Albert",N,N,"",1,433,"Hoback","","Randy","Conservative","Conservateur",Y,Y,61
+47006,"Prince Albert ","Prince Albert "," 108","Prince Albert",N,N,"",1,433,"Kirkby","","Gordon","Liberal","Libéral",N,N,49
+47006,"Prince Albert ","Prince Albert "," 108","Prince Albert",N,N,"",1,433,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 109","Prince Albert",N,N,"",0,501,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+47006,"Prince Albert ","Prince Albert "," 109","Prince Albert",N,N,"",0,501,"Hoback","","Randy","Conservative","Conservateur",Y,Y,125
+47006,"Prince Albert ","Prince Albert "," 109","Prince Albert",N,N,"",0,501,"Kirkby","","Gordon","Liberal","Libéral",N,N,75
+47006,"Prince Albert ","Prince Albert "," 109","Prince Albert",N,N,"",0,501,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 110","Prince Albert",N,N,"",1,452,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+47006,"Prince Albert ","Prince Albert "," 110","Prince Albert",N,N,"",1,452,"Hoback","","Randy","Conservative","Conservateur",Y,Y,80
+47006,"Prince Albert ","Prince Albert "," 110","Prince Albert",N,N,"",1,452,"Kirkby","","Gordon","Liberal","Libéral",N,N,66
+47006,"Prince Albert ","Prince Albert "," 110","Prince Albert",N,N,"",1,452,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 111","Prince Albert",N,N,"",0,530,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+47006,"Prince Albert ","Prince Albert "," 111","Prince Albert",N,N,"",0,530,"Hoback","","Randy","Conservative","Conservateur",Y,Y,65
+47006,"Prince Albert ","Prince Albert "," 111","Prince Albert",N,N,"",0,530,"Kirkby","","Gordon","Liberal","Libéral",N,N,64
+47006,"Prince Albert ","Prince Albert "," 111","Prince Albert",N,N,"",0,530,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 112","Muskoday First Nation",N,N,"",0,469,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,180
+47006,"Prince Albert ","Prince Albert "," 112","Muskoday First Nation",N,N,"",0,469,"Hoback","","Randy","Conservative","Conservateur",Y,Y,12
+47006,"Prince Albert ","Prince Albert "," 112","Muskoday First Nation",N,N,"",0,469,"Kirkby","","Gordon","Liberal","Libéral",N,N,123
+47006,"Prince Albert ","Prince Albert "," 112","Muskoday First Nation",N,N,"",0,469,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 113","Brancepeth",N,N,"",0,172,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47006,"Prince Albert ","Prince Albert "," 113","Brancepeth",N,N,"",0,172,"Hoback","","Randy","Conservative","Conservateur",Y,Y,73
+47006,"Prince Albert ","Prince Albert "," 113","Brancepeth",N,N,"",0,172,"Kirkby","","Gordon","Liberal","Libéral",N,N,11
+47006,"Prince Albert ","Prince Albert "," 113","Brancepeth",N,N,"",0,172,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 114","Birch Hills",N,N,"",0,258,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+47006,"Prince Albert ","Prince Albert "," 114","Birch Hills",N,N,"",0,258,"Hoback","","Randy","Conservative","Conservateur",Y,Y,90
+47006,"Prince Albert ","Prince Albert "," 114","Birch Hills",N,N,"",0,258,"Kirkby","","Gordon","Liberal","Libéral",N,N,24
+47006,"Prince Albert ","Prince Albert "," 114","Birch Hills",N,N,"",0,258,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 115","Birch Hills",N,N,"",0,327,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47006,"Prince Albert ","Prince Albert "," 115","Birch Hills",N,N,"",0,327,"Hoback","","Randy","Conservative","Conservateur",Y,Y,103
+47006,"Prince Albert ","Prince Albert "," 115","Birch Hills",N,N,"",0,327,"Kirkby","","Gordon","Liberal","Libéral",N,N,31
+47006,"Prince Albert ","Prince Albert "," 115","Birch Hills",N,N,"",0,327,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 116","Birch Hills",N,N,"",0,493,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+47006,"Prince Albert ","Prince Albert "," 116","Birch Hills",N,N,"",0,493,"Hoback","","Randy","Conservative","Conservateur",Y,Y,131
+47006,"Prince Albert ","Prince Albert "," 116","Birch Hills",N,N,"",0,493,"Kirkby","","Gordon","Liberal","Libéral",N,N,43
+47006,"Prince Albert ","Prince Albert "," 116","Birch Hills",N,N,"",0,493,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 117A","Saint-Louis",N,N,"",0,359,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+47006,"Prince Albert ","Prince Albert "," 117A","Saint-Louis",N,N,"",0,359,"Hoback","","Randy","Conservative","Conservateur",Y,Y,62
+47006,"Prince Albert ","Prince Albert "," 117A","Saint-Louis",N,N,"",0,359,"Kirkby","","Gordon","Liberal","Libéral",N,N,45
+47006,"Prince Albert ","Prince Albert "," 117A","Saint-Louis",N,N,"",0,359,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 117B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Prince Albert ","Prince Albert "," 117B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Hoback","","Randy","Conservative","Conservateur",Y,Y,0
+47006,"Prince Albert ","Prince Albert "," 117B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Kirkby","","Gordon","Liberal","Libéral",N,N,0
+47006,"Prince Albert ","Prince Albert "," 117B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 118","St-Isidore-de-Bellevue",N,N,"",0,242,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47006,"Prince Albert ","Prince Albert "," 118","St-Isidore-de-Bellevue",N,N,"",0,242,"Hoback","","Randy","Conservative","Conservateur",Y,Y,74
+47006,"Prince Albert ","Prince Albert "," 118","St-Isidore-de-Bellevue",N,N,"",0,242,"Kirkby","","Gordon","Liberal","Libéral",N,N,20
+47006,"Prince Albert ","Prince Albert "," 118","St-Isidore-de-Bellevue",N,N,"",0,242,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 119A","St-Laurent--Grandin",N,N,"",1,251,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47006,"Prince Albert ","Prince Albert "," 119A","St-Laurent--Grandin",N,N,"",1,251,"Hoback","","Randy","Conservative","Conservateur",Y,Y,86
+47006,"Prince Albert ","Prince Albert "," 119A","St-Laurent--Grandin",N,N,"",1,251,"Kirkby","","Gordon","Liberal","Libéral",N,N,59
+47006,"Prince Albert ","Prince Albert "," 119A","St-Laurent--Grandin",N,N,"",1,251,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 119B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Prince Albert ","Prince Albert "," 119B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Hoback","","Randy","Conservative","Conservateur",Y,Y,0
+47006,"Prince Albert ","Prince Albert "," 119B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Kirkby","","Gordon","Liberal","Libéral",N,N,0
+47006,"Prince Albert ","Prince Albert "," 119B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 120","One Arrow 95",N,N,"",0,312,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,196
+47006,"Prince Albert ","Prince Albert "," 120","One Arrow 95",N,N,"",0,312,"Hoback","","Randy","Conservative","Conservateur",Y,Y,7
+47006,"Prince Albert ","Prince Albert "," 120","One Arrow 95",N,N,"",0,312,"Kirkby","","Gordon","Liberal","Libéral",N,N,51
+47006,"Prince Albert ","Prince Albert "," 120","One Arrow 95",N,N,"",0,312,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 121","Sokal",N,N,"",0,17,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Prince Albert ","Prince Albert "," 121","Sokal",N,N,"",0,17,"Hoback","","Randy","Conservative","Conservateur",Y,Y,1
+47006,"Prince Albert ","Prince Albert "," 121","Sokal",N,N,"",0,17,"Kirkby","","Gordon","Liberal","Libéral",N,N,4
+47006,"Prince Albert ","Prince Albert "," 121","Sokal",N,N,"",0,17,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 122","Domremy",N,N,"",2,262,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Prince Albert ","Prince Albert "," 122","Domremy",N,N,"",2,262,"Hoback","","Randy","Conservative","Conservateur",Y,Y,93
+47006,"Prince Albert ","Prince Albert "," 122","Domremy",N,N,"",2,262,"Kirkby","","Gordon","Liberal","Libéral",N,N,28
+47006,"Prince Albert ","Prince Albert "," 122","Domremy",N,N,"",2,262,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 123","Waitville",N,N,"",0,144,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Prince Albert ","Prince Albert "," 123","Waitville",N,N,"",0,144,"Hoback","","Randy","Conservative","Conservateur",Y,Y,41
+47006,"Prince Albert ","Prince Albert "," 123","Waitville",N,N,"",0,144,"Kirkby","","Gordon","Liberal","Libéral",N,N,5
+47006,"Prince Albert ","Prince Albert "," 123","Waitville",N,N,"",0,144,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 124","Waitville",N,N,"",0,172,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Prince Albert ","Prince Albert "," 124","Waitville",N,N,"",0,172,"Hoback","","Randy","Conservative","Conservateur",Y,Y,50
+47006,"Prince Albert ","Prince Albert "," 124","Waitville",N,N,"",0,172,"Kirkby","","Gordon","Liberal","Libéral",N,N,10
+47006,"Prince Albert ","Prince Albert "," 124","Waitville",N,N,"",0,172,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 125","Tarnopol",N,N,"",0,122,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47006,"Prince Albert ","Prince Albert "," 125","Tarnopol",N,N,"",0,122,"Hoback","","Randy","Conservative","Conservateur",Y,Y,30
+47006,"Prince Albert ","Prince Albert "," 125","Tarnopol",N,N,"",0,122,"Kirkby","","Gordon","Liberal","Libéral",N,N,9
+47006,"Prince Albert ","Prince Albert "," 125","Tarnopol",N,N,"",0,122,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 126","Kinistino",N,N,"",2,443,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47006,"Prince Albert ","Prince Albert "," 126","Kinistino",N,N,"",2,443,"Hoback","","Randy","Conservative","Conservateur",Y,Y,90
+47006,"Prince Albert ","Prince Albert "," 126","Kinistino",N,N,"",2,443,"Kirkby","","Gordon","Liberal","Libéral",N,N,34
+47006,"Prince Albert ","Prince Albert "," 126","Kinistino",N,N,"",2,443,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 127","Kinistino",N,N,"",0,95,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Prince Albert ","Prince Albert "," 127","Kinistino",N,N,"",0,95,"Hoback","","Randy","Conservative","Conservateur",Y,Y,48
+47006,"Prince Albert ","Prince Albert "," 127","Kinistino",N,N,"",0,95,"Kirkby","","Gordon","Liberal","Libéral",N,N,9
+47006,"Prince Albert ","Prince Albert "," 127","Kinistino",N,N,"",0,95,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 128","Kinistino",N,N,"",0,271,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47006,"Prince Albert ","Prince Albert "," 128","Kinistino",N,N,"",0,271,"Hoback","","Randy","Conservative","Conservateur",Y,Y,145
+47006,"Prince Albert ","Prince Albert "," 128","Kinistino",N,N,"",0,271,"Kirkby","","Gordon","Liberal","Libéral",N,N,9
+47006,"Prince Albert ","Prince Albert "," 128","Kinistino",N,N,"",0,271,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 129","Brockington",N,N,"",0,85,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47006,"Prince Albert ","Prince Albert "," 129","Brockington",N,N,"",0,85,"Hoback","","Randy","Conservative","Conservateur",Y,Y,26
+47006,"Prince Albert ","Prince Albert "," 129","Brockington",N,N,"",0,85,"Kirkby","","Gordon","Liberal","Libéral",N,N,5
+47006,"Prince Albert ","Prince Albert "," 129","Brockington",N,N,"",0,85,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 130","Melfort",N,N,"",0,308,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47006,"Prince Albert ","Prince Albert "," 130","Melfort",N,N,"",0,308,"Hoback","","Randy","Conservative","Conservateur",Y,Y,139
+47006,"Prince Albert ","Prince Albert "," 130","Melfort",N,N,"",0,308,"Kirkby","","Gordon","Liberal","Libéral",N,N,11
+47006,"Prince Albert ","Prince Albert "," 130","Melfort",N,N,"",0,308,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 131","Flett's Springs",N,N,"",0,313,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47006,"Prince Albert ","Prince Albert "," 131","Flett's Springs",N,N,"",0,313,"Hoback","","Randy","Conservative","Conservateur",Y,Y,136
+47006,"Prince Albert ","Prince Albert "," 131","Flett's Springs",N,N,"",0,313,"Kirkby","","Gordon","Liberal","Libéral",N,N,20
+47006,"Prince Albert ","Prince Albert "," 131","Flett's Springs",N,N,"",0,313,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 132","Melfort",N,N,"",0,393,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47006,"Prince Albert ","Prince Albert "," 132","Melfort",N,N,"",0,393,"Hoback","","Randy","Conservative","Conservateur",Y,Y,115
+47006,"Prince Albert ","Prince Albert "," 132","Melfort",N,N,"",0,393,"Kirkby","","Gordon","Liberal","Libéral",N,N,27
+47006,"Prince Albert ","Prince Albert "," 132","Melfort",N,N,"",0,393,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 133","Melfort",N,N,"",1,628,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+47006,"Prince Albert ","Prince Albert "," 133","Melfort",N,N,"",1,628,"Hoback","","Randy","Conservative","Conservateur",Y,Y,204
+47006,"Prince Albert ","Prince Albert "," 133","Melfort",N,N,"",1,628,"Kirkby","","Gordon","Liberal","Libéral",N,N,46
+47006,"Prince Albert ","Prince Albert "," 133","Melfort",N,N,"",1,628,"Tenkink","","Byron","Green Party","Parti Vert",N,N,8
+47006,"Prince Albert ","Prince Albert "," 134","Melfort",N,N,"",0,423,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+47006,"Prince Albert ","Prince Albert "," 134","Melfort",N,N,"",0,423,"Hoback","","Randy","Conservative","Conservateur",Y,Y,142
+47006,"Prince Albert ","Prince Albert "," 134","Melfort",N,N,"",0,423,"Kirkby","","Gordon","Liberal","Libéral",N,N,34
+47006,"Prince Albert ","Prince Albert "," 134","Melfort",N,N,"",0,423,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 135A","Melfort",N,N,"",0,435,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47006,"Prince Albert ","Prince Albert "," 135A","Melfort",N,N,"",0,435,"Hoback","","Randy","Conservative","Conservateur",Y,Y,154
+47006,"Prince Albert ","Prince Albert "," 135A","Melfort",N,N,"",0,435,"Kirkby","","Gordon","Liberal","Libéral",N,N,44
+47006,"Prince Albert ","Prince Albert "," 135A","Melfort",N,N,"",0,435,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 135B","Melfort",N,N,"",0,487,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47006,"Prince Albert ","Prince Albert "," 135B","Melfort",N,N,"",0,487,"Hoback","","Randy","Conservative","Conservateur",Y,Y,163
+47006,"Prince Albert ","Prince Albert "," 135B","Melfort",N,N,"",0,487,"Kirkby","","Gordon","Liberal","Libéral",N,N,36
+47006,"Prince Albert ","Prince Albert "," 135B","Melfort",N,N,"",0,487,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 136","Melfort",N,N,"",0,793,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47006,"Prince Albert ","Prince Albert "," 136","Melfort",N,N,"",0,793,"Hoback","","Randy","Conservative","Conservateur",Y,Y,244
+47006,"Prince Albert ","Prince Albert "," 136","Melfort",N,N,"",0,793,"Kirkby","","Gordon","Liberal","Libéral",N,N,75
+47006,"Prince Albert ","Prince Albert "," 136","Melfort",N,N,"",0,793,"Tenkink","","Byron","Green Party","Parti Vert",N,N,11
+47006,"Prince Albert ","Prince Albert "," 137","Melfort",N,N,"",1,470,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+47006,"Prince Albert ","Prince Albert "," 137","Melfort",N,N,"",1,470,"Hoback","","Randy","Conservative","Conservateur",Y,Y,177
+47006,"Prince Albert ","Prince Albert "," 137","Melfort",N,N,"",1,470,"Kirkby","","Gordon","Liberal","Libéral",N,N,27
+47006,"Prince Albert ","Prince Albert "," 137","Melfort",N,N,"",1,470,"Tenkink","","Byron","Green Party","Parti Vert",N,N,8
+47006,"Prince Albert ","Prince Albert "," 138","Melfort",N,N,"",0,417,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47006,"Prince Albert ","Prince Albert "," 138","Melfort",N,N,"",0,417,"Hoback","","Randy","Conservative","Conservateur",Y,Y,175
+47006,"Prince Albert ","Prince Albert "," 138","Melfort",N,N,"",0,417,"Kirkby","","Gordon","Liberal","Libéral",N,N,28
+47006,"Prince Albert ","Prince Albert "," 138","Melfort",N,N,"",0,417,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 139","Star City",N,N,"",1,384,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47006,"Prince Albert ","Prince Albert "," 139","Star City",N,N,"",1,384,"Hoback","","Randy","Conservative","Conservateur",Y,Y,180
+47006,"Prince Albert ","Prince Albert "," 139","Star City",N,N,"",1,384,"Kirkby","","Gordon","Liberal","Libéral",N,N,23
+47006,"Prince Albert ","Prince Albert "," 139","Star City",N,N,"",1,384,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 140","Star City",N,N,"",0,328,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47006,"Prince Albert ","Prince Albert "," 140","Star City",N,N,"",0,328,"Hoback","","Randy","Conservative","Conservateur",Y,Y,149
+47006,"Prince Albert ","Prince Albert "," 140","Star City",N,N,"",0,328,"Kirkby","","Gordon","Liberal","Libéral",N,N,23
+47006,"Prince Albert ","Prince Albert "," 140","Star City",N,N,"",0,328,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 141","Tisdale",N,N,"",0,192,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Prince Albert ","Prince Albert "," 141","Tisdale",N,N,"",0,192,"Hoback","","Randy","Conservative","Conservateur",Y,Y,91
+47006,"Prince Albert ","Prince Albert "," 141","Tisdale",N,N,"",0,192,"Kirkby","","Gordon","Liberal","Libéral",N,N,13
+47006,"Prince Albert ","Prince Albert "," 141","Tisdale",N,N,"",0,192,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 142A","Tisdale",N,N,"",0,553,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47006,"Prince Albert ","Prince Albert "," 142A","Tisdale",N,N,"",0,553,"Hoback","","Randy","Conservative","Conservateur",Y,Y,192
+47006,"Prince Albert ","Prince Albert "," 142A","Tisdale",N,N,"",0,553,"Kirkby","","Gordon","Liberal","Libéral",N,N,40
+47006,"Prince Albert ","Prince Albert "," 142A","Tisdale",N,N,"",0,553,"Tenkink","","Byron","Green Party","Parti Vert",N,N,8
+47006,"Prince Albert ","Prince Albert "," 142B","Tisdale",N,N,"",1,503,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47006,"Prince Albert ","Prince Albert "," 142B","Tisdale",N,N,"",1,503,"Hoback","","Randy","Conservative","Conservateur",Y,Y,145
+47006,"Prince Albert ","Prince Albert "," 142B","Tisdale",N,N,"",1,503,"Kirkby","","Gordon","Liberal","Libéral",N,N,22
+47006,"Prince Albert ","Prince Albert "," 142B","Tisdale",N,N,"",1,503,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 143","Tisdale",N,N,"",1,257,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47006,"Prince Albert ","Prince Albert "," 143","Tisdale",N,N,"",1,257,"Hoback","","Randy","Conservative","Conservateur",Y,Y,99
+47006,"Prince Albert ","Prince Albert "," 143","Tisdale",N,N,"",1,257,"Kirkby","","Gordon","Liberal","Libéral",N,N,19
+47006,"Prince Albert ","Prince Albert "," 143","Tisdale",N,N,"",1,257,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 144","Tisdale",N,N,"",2,313,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47006,"Prince Albert ","Prince Albert "," 144","Tisdale",N,N,"",2,313,"Hoback","","Randy","Conservative","Conservateur",Y,Y,114
+47006,"Prince Albert ","Prince Albert "," 144","Tisdale",N,N,"",2,313,"Kirkby","","Gordon","Liberal","Libéral",N,N,25
+47006,"Prince Albert ","Prince Albert "," 144","Tisdale",N,N,"",2,313,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 145","Tisdale",N,N,"",0,229,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47006,"Prince Albert ","Prince Albert "," 145","Tisdale",N,N,"",0,229,"Hoback","","Randy","Conservative","Conservateur",Y,Y,72
+47006,"Prince Albert ","Prince Albert "," 145","Tisdale",N,N,"",0,229,"Kirkby","","Gordon","Liberal","Libéral",N,N,18
+47006,"Prince Albert ","Prince Albert "," 145","Tisdale",N,N,"",0,229,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 146","Tisdale",N,N,"",1,218,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47006,"Prince Albert ","Prince Albert "," 146","Tisdale",N,N,"",1,218,"Hoback","","Randy","Conservative","Conservateur",Y,Y,74
+47006,"Prince Albert ","Prince Albert "," 146","Tisdale",N,N,"",1,218,"Kirkby","","Gordon","Liberal","Libéral",N,N,18
+47006,"Prince Albert ","Prince Albert "," 146","Tisdale",N,N,"",1,218,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 147","Tisdale",N,N,"",0,279,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47006,"Prince Albert ","Prince Albert "," 147","Tisdale",N,N,"",0,279,"Hoback","","Randy","Conservative","Conservateur",Y,Y,93
+47006,"Prince Albert ","Prince Albert "," 147","Tisdale",N,N,"",0,279,"Kirkby","","Gordon","Liberal","Libéral",N,N,31
+47006,"Prince Albert ","Prince Albert "," 147","Tisdale",N,N,"",0,279,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 148","Tisdale",N,N,"",1,193,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47006,"Prince Albert ","Prince Albert "," 148","Tisdale",N,N,"",1,193,"Hoback","","Randy","Conservative","Conservateur",Y,Y,86
+47006,"Prince Albert ","Prince Albert "," 148","Tisdale",N,N,"",1,193,"Kirkby","","Gordon","Liberal","Libéral",N,N,15
+47006,"Prince Albert ","Prince Albert "," 148","Tisdale",N,N,"",1,193,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 149","Tisdale",N,N,"",0,297,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47006,"Prince Albert ","Prince Albert "," 149","Tisdale",N,N,"",0,297,"Hoback","","Randy","Conservative","Conservateur",Y,Y,139
+47006,"Prince Albert ","Prince Albert "," 149","Tisdale",N,N,"",0,297,"Kirkby","","Gordon","Liberal","Libéral",N,N,15
+47006,"Prince Albert ","Prince Albert "," 149","Tisdale",N,N,"",0,297,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 150","Zenon Park",N,N,"",3,237,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47006,"Prince Albert ","Prince Albert "," 150","Zenon Park",N,N,"",3,237,"Hoback","","Randy","Conservative","Conservateur",Y,Y,79
+47006,"Prince Albert ","Prince Albert "," 150","Zenon Park",N,N,"",3,237,"Kirkby","","Gordon","Liberal","Libéral",N,N,29
+47006,"Prince Albert ","Prince Albert "," 150","Zenon Park",N,N,"",3,237,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 151","Arborfield",N,N,"",1,510,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47006,"Prince Albert ","Prince Albert "," 151","Arborfield",N,N,"",1,510,"Hoback","","Randy","Conservative","Conservateur",Y,Y,294
+47006,"Prince Albert ","Prince Albert "," 151","Arborfield",N,N,"",1,510,"Kirkby","","Gordon","Liberal","Libéral",N,N,34
+47006,"Prince Albert ","Prince Albert "," 151","Arborfield",N,N,"",1,510,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 152","Sylvania",N,N,"",1,236,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Prince Albert ","Prince Albert "," 152","Sylvania",N,N,"",1,236,"Hoback","","Randy","Conservative","Conservateur",Y,Y,105
+47006,"Prince Albert ","Prince Albert "," 152","Sylvania",N,N,"",1,236,"Kirkby","","Gordon","Liberal","Libéral",N,N,14
+47006,"Prince Albert ","Prince Albert "," 152","Sylvania",N,N,"",1,236,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 500","Mobile poll/Bureau itinérant",N,N,"",0,169,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Prince Albert ","Prince Albert "," 500","Mobile poll/Bureau itinérant",N,N,"",0,169,"Hoback","","Randy","Conservative","Conservateur",Y,Y,28
+47006,"Prince Albert ","Prince Albert "," 500","Mobile poll/Bureau itinérant",N,N,"",0,169,"Kirkby","","Gordon","Liberal","Libéral",N,N,13
+47006,"Prince Albert ","Prince Albert "," 500","Mobile poll/Bureau itinérant",N,N,"",0,169,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," 501A","Mobile poll/Bureau itinérant",N,N,"",2,121,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47006,"Prince Albert ","Prince Albert "," 501A","Mobile poll/Bureau itinérant",N,N,"",2,121,"Hoback","","Randy","Conservative","Conservateur",Y,Y,73
+47006,"Prince Albert ","Prince Albert "," 501A","Mobile poll/Bureau itinérant",N,N,"",2,121,"Kirkby","","Gordon","Liberal","Libéral",N,N,28
+47006,"Prince Albert ","Prince Albert "," 501A","Mobile poll/Bureau itinérant",N,N,"",2,121,"Tenkink","","Byron","Green Party","Parti Vert",N,N,1
+47006,"Prince Albert ","Prince Albert "," 501B","Prince Albert",N,N,"69",0,18,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Prince Albert ","Prince Albert "," 501B","Prince Albert",N,N,"69",0,18,"Hoback","","Randy","Conservative","Conservateur",Y,Y,0
+47006,"Prince Albert ","Prince Albert "," 501B","Prince Albert",N,N,"69",0,18,"Kirkby","","Gordon","Liberal","Libéral",N,N,0
+47006,"Prince Albert ","Prince Albert "," 501B","Prince Albert",N,N,"69",0,18,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 502","Mobile poll/Bureau itinérant",N,N,"",1,114,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47006,"Prince Albert ","Prince Albert "," 502","Mobile poll/Bureau itinérant",N,N,"",1,114,"Hoback","","Randy","Conservative","Conservateur",Y,Y,26
+47006,"Prince Albert ","Prince Albert "," 502","Mobile poll/Bureau itinérant",N,N,"",1,114,"Kirkby","","Gordon","Liberal","Libéral",N,N,17
+47006,"Prince Albert ","Prince Albert "," 502","Mobile poll/Bureau itinérant",N,N,"",1,114,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 503","Mobile poll/Bureau itinérant",N,N,"",2,149,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Prince Albert ","Prince Albert "," 503","Mobile poll/Bureau itinérant",N,N,"",2,149,"Hoback","","Randy","Conservative","Conservateur",Y,Y,24
+47006,"Prince Albert ","Prince Albert "," 503","Mobile poll/Bureau itinérant",N,N,"",2,149,"Kirkby","","Gordon","Liberal","Libéral",N,N,13
+47006,"Prince Albert ","Prince Albert "," 503","Mobile poll/Bureau itinérant",N,N,"",2,149,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 504","Mobile poll/Bureau itinérant",N,N,"",2,121,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47006,"Prince Albert ","Prince Albert "," 504","Mobile poll/Bureau itinérant",N,N,"",2,121,"Hoback","","Randy","Conservative","Conservateur",Y,Y,33
+47006,"Prince Albert ","Prince Albert "," 504","Mobile poll/Bureau itinérant",N,N,"",2,121,"Kirkby","","Gordon","Liberal","Libéral",N,N,7
+47006,"Prince Albert ","Prince Albert "," 504","Mobile poll/Bureau itinérant",N,N,"",2,121,"Tenkink","","Byron","Green Party","Parti Vert",N,N,3
+47006,"Prince Albert ","Prince Albert "," 505","Mobile poll/Bureau itinérant",N,N,"",1,95,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47006,"Prince Albert ","Prince Albert "," 505","Mobile poll/Bureau itinérant",N,N,"",1,95,"Hoback","","Randy","Conservative","Conservateur",Y,Y,28
+47006,"Prince Albert ","Prince Albert "," 505","Mobile poll/Bureau itinérant",N,N,"",1,95,"Kirkby","","Gordon","Liberal","Libéral",N,N,14
+47006,"Prince Albert ","Prince Albert "," 505","Mobile poll/Bureau itinérant",N,N,"",1,95,"Tenkink","","Byron","Green Party","Parti Vert",N,N,0
+47006,"Prince Albert ","Prince Albert "," 600","Carrot River",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47006,"Prince Albert ","Prince Albert "," 600","Carrot River",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,188
+47006,"Prince Albert ","Prince Albert "," 600","Carrot River",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,21
+47006,"Prince Albert ","Prince Albert "," 600","Carrot River",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 601","Nipawin",N,N,"",1,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+47006,"Prince Albert ","Prince Albert "," 601","Nipawin",N,N,"",1,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,446
+47006,"Prince Albert ","Prince Albert "," 601","Nipawin",N,N,"",1,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,85
+47006,"Prince Albert ","Prince Albert "," 601","Nipawin",N,N,"",1,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,9
+47006,"Prince Albert ","Prince Albert "," 602","Smeaton",N,N,"",1,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47006,"Prince Albert ","Prince Albert "," 602","Smeaton",N,N,"",1,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,106
+47006,"Prince Albert ","Prince Albert "," 602","Smeaton",N,N,"",1,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,20
+47006,"Prince Albert ","Prince Albert "," 602","Smeaton",N,N,"",1,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," 603","Buckland",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+47006,"Prince Albert ","Prince Albert "," 603","Buckland",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,172
+47006,"Prince Albert ","Prince Albert "," 603","Buckland",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,42
+47006,"Prince Albert ","Prince Albert "," 603","Buckland",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 604","Prince Albert",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,335
+47006,"Prince Albert ","Prince Albert "," 604","Prince Albert",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,269
+47006,"Prince Albert ","Prince Albert "," 604","Prince Albert",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,185
+47006,"Prince Albert ","Prince Albert "," 604","Prince Albert",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,26
+47006,"Prince Albert ","Prince Albert "," 605","Prince Albert",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,224
+47006,"Prince Albert ","Prince Albert "," 605","Prince Albert",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,167
+47006,"Prince Albert ","Prince Albert "," 605","Prince Albert",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,97
+47006,"Prince Albert ","Prince Albert "," 605","Prince Albert",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,11
+47006,"Prince Albert ","Prince Albert "," 606","Prince Albert",N,N,"",3,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,208
+47006,"Prince Albert ","Prince Albert "," 606","Prince Albert",N,N,"",3,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,173
+47006,"Prince Albert ","Prince Albert "," 606","Prince Albert",N,N,"",3,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,91
+47006,"Prince Albert ","Prince Albert "," 606","Prince Albert",N,N,"",3,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,7
+47006,"Prince Albert ","Prince Albert "," 607","Prince Albert",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,297
+47006,"Prince Albert ","Prince Albert "," 607","Prince Albert",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,445
+47006,"Prince Albert ","Prince Albert "," 607","Prince Albert",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,158
+47006,"Prince Albert ","Prince Albert "," 607","Prince Albert",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,15
+47006,"Prince Albert ","Prince Albert "," 608","Shellbrook",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47006,"Prince Albert ","Prince Albert "," 608","Shellbrook",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,185
+47006,"Prince Albert ","Prince Albert "," 608","Shellbrook",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,38
+47006,"Prince Albert ","Prince Albert "," 608","Shellbrook",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 609","Birson",N,N,"",2,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+47006,"Prince Albert ","Prince Albert "," 609","Birson",N,N,"",2,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,152
+47006,"Prince Albert ","Prince Albert "," 609","Birson",N,N,"",2,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,21
+47006,"Prince Albert ","Prince Albert "," 609","Birson",N,N,"",2,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,6
+47006,"Prince Albert ","Prince Albert "," 610","Birch Hills",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+47006,"Prince Albert ","Prince Albert "," 610","Birch Hills",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,154
+47006,"Prince Albert ","Prince Albert "," 610","Birch Hills",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,29
+47006,"Prince Albert ","Prince Albert "," 610","Birch Hills",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,8
+47006,"Prince Albert ","Prince Albert "," 611","Invergordon",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47006,"Prince Albert ","Prince Albert "," 611","Invergordon",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,90
+47006,"Prince Albert ","Prince Albert "," 611","Invergordon",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,20
+47006,"Prince Albert ","Prince Albert "," 611","Invergordon",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,2
+47006,"Prince Albert ","Prince Albert "," 612","Melfort",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,187
+47006,"Prince Albert ","Prince Albert "," 612","Melfort",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,619
+47006,"Prince Albert ","Prince Albert "," 612","Melfort",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,89
+47006,"Prince Albert ","Prince Albert "," 612","Melfort",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,18
+47006,"Prince Albert ","Prince Albert "," 613","Tisdale",N,N,"",0,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+47006,"Prince Albert ","Prince Albert "," 613","Tisdale",N,N,"",0,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,350
+47006,"Prince Albert ","Prince Albert "," 613","Tisdale",N,N,"",0,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,70
+47006,"Prince Albert ","Prince Albert "," 613","Tisdale",N,N,"",0,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,5
+47006,"Prince Albert ","Prince Albert "," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,218,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47006,"Prince Albert ","Prince Albert "," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,218,"Hoback","","Randy","Conservative","Conservateur",Y,Y,20
+47006,"Prince Albert ","Prince Albert "," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,218,"Kirkby","","Gordon","Liberal","Libéral",N,N,146
+47006,"Prince Albert ","Prince Albert "," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,218,"Tenkink","","Byron","Green Party","Parti Vert",N,N,4
+47006,"Prince Albert ","Prince Albert "," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",12,0,"Borgerson","","Lon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,441
+47006,"Prince Albert ","Prince Albert "," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",12,0,"Hoback","","Randy","Conservative","Conservateur",Y,Y,594
+47006,"Prince Albert ","Prince Albert "," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",12,0,"Kirkby","","Gordon","Liberal","Libéral",N,N,269
+47006,"Prince Albert ","Prince Albert "," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",12,0,"Tenkink","","Byron","Green Party","Parti Vert",N,N,22

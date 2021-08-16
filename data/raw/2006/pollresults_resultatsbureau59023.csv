@@ -1,0 +1,805 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59023,"Richmond","Richmond"," 1","Richmond",N,N,"",1,300,"Chan","","Raymond","Liberal","Libéral",Y,Y,78
+59023,"Richmond","Richmond"," 1","Richmond",N,N,"",1,300,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 1","Richmond",N,N,"",1,300,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,53
+59023,"Richmond","Richmond"," 1","Richmond",N,N,"",1,300,"Smith","","Neil","N.D.P.","N.P.D.",N,N,61
+59023,"Richmond","Richmond"," 2","Richmond",N,N,"",0,253,"Chan","","Raymond","Liberal","Libéral",Y,Y,53
+59023,"Richmond","Richmond"," 2","Richmond",N,N,"",0,253,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 2","Richmond",N,N,"",0,253,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,47
+59023,"Richmond","Richmond"," 2","Richmond",N,N,"",0,253,"Smith","","Neil","N.D.P.","N.P.D.",N,N,66
+59023,"Richmond","Richmond"," 3A","Richmond",N,N,"",1,493,"Chan","","Raymond","Liberal","Libéral",Y,Y,132
+59023,"Richmond","Richmond"," 3A","Richmond",N,N,"",1,493,"Mathias","","Richard","Green Party","Parti Vert",N,N,8
+59023,"Richmond","Richmond"," 3A","Richmond",N,N,"",1,493,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,109
+59023,"Richmond","Richmond"," 3A","Richmond",N,N,"",1,493,"Smith","","Neil","N.D.P.","N.P.D.",N,N,18
+59023,"Richmond","Richmond"," 3B","Richmond",N,N,"5",0,198,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 3B","Richmond",N,N,"5",0,198,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 3B","Richmond",N,N,"5",0,198,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 3B","Richmond",N,N,"5",0,198,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 4","Richmond",N,N,"",1,453,"Chan","","Raymond","Liberal","Libéral",Y,Y,104
+59023,"Richmond","Richmond"," 4","Richmond",N,N,"",1,453,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 4","Richmond",N,N,"",1,453,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,127
+59023,"Richmond","Richmond"," 4","Richmond",N,N,"",1,453,"Smith","","Neil","N.D.P.","N.P.D.",N,N,16
+59023,"Richmond","Richmond"," 5","Richmond",N,N,"",0,312,"Chan","","Raymond","Liberal","Libéral",Y,Y,120
+59023,"Richmond","Richmond"," 5","Richmond",N,N,"",0,312,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 5","Richmond",N,N,"",0,312,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,124
+59023,"Richmond","Richmond"," 5","Richmond",N,N,"",0,312,"Smith","","Neil","N.D.P.","N.P.D.",N,N,37
+59023,"Richmond","Richmond"," 6","Richmond",N,N,"",1,372,"Chan","","Raymond","Liberal","Libéral",Y,Y,102
+59023,"Richmond","Richmond"," 6","Richmond",N,N,"",1,372,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 6","Richmond",N,N,"",1,372,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,71
+59023,"Richmond","Richmond"," 6","Richmond",N,N,"",1,372,"Smith","","Neil","N.D.P.","N.P.D.",N,N,43
+59023,"Richmond","Richmond"," 7","Richmond",N,N,"",0,364,"Chan","","Raymond","Liberal","Libéral",Y,Y,80
+59023,"Richmond","Richmond"," 7","Richmond",N,N,"",0,364,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 7","Richmond",N,N,"",0,364,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,76
+59023,"Richmond","Richmond"," 7","Richmond",N,N,"",0,364,"Smith","","Neil","N.D.P.","N.P.D.",N,N,8
+59023,"Richmond","Richmond"," 8A","Richmond",N,N,"",2,467,"Chan","","Raymond","Liberal","Libéral",Y,Y,88
+59023,"Richmond","Richmond"," 8A","Richmond",N,N,"",2,467,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 8A","Richmond",N,N,"",2,467,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,93
+59023,"Richmond","Richmond"," 8A","Richmond",N,N,"",2,467,"Smith","","Neil","N.D.P.","N.P.D.",N,N,26
+59023,"Richmond","Richmond"," 8B","Richmond",N,N,"",1,449,"Chan","","Raymond","Liberal","Libéral",Y,Y,77
+59023,"Richmond","Richmond"," 8B","Richmond",N,N,"",1,449,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 8B","Richmond",N,N,"",1,449,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,92
+59023,"Richmond","Richmond"," 8B","Richmond",N,N,"",1,449,"Smith","","Neil","N.D.P.","N.P.D.",N,N,29
+59023,"Richmond","Richmond"," 9A","Richmond",N,N,"",0,580,"Chan","","Raymond","Liberal","Libéral",Y,Y,131
+59023,"Richmond","Richmond"," 9A","Richmond",N,N,"",0,580,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 9A","Richmond",N,N,"",0,580,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,120
+59023,"Richmond","Richmond"," 9A","Richmond",N,N,"",0,580,"Smith","","Neil","N.D.P.","N.P.D.",N,N,20
+59023,"Richmond","Richmond"," 9B","Richmond",N,N,"10",0,170,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 9B","Richmond",N,N,"10",0,170,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 9B","Richmond",N,N,"10",0,170,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 9B","Richmond",N,N,"10",0,170,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 10","Richmond",N,N,"",1,440,"Chan","","Raymond","Liberal","Libéral",Y,Y,151
+59023,"Richmond","Richmond"," 10","Richmond",N,N,"",1,440,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 10","Richmond",N,N,"",1,440,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,123
+59023,"Richmond","Richmond"," 10","Richmond",N,N,"",1,440,"Smith","","Neil","N.D.P.","N.P.D.",N,N,40
+59023,"Richmond","Richmond"," 11","Richmond",N,N,"",0,482,"Chan","","Raymond","Liberal","Libéral",Y,Y,110
+59023,"Richmond","Richmond"," 11","Richmond",N,N,"",0,482,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 11","Richmond",N,N,"",0,482,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,82
+59023,"Richmond","Richmond"," 11","Richmond",N,N,"",0,482,"Smith","","Neil","N.D.P.","N.P.D.",N,N,45
+59023,"Richmond","Richmond"," 12","Richmond",N,N,"",1,471,"Chan","","Raymond","Liberal","Libéral",Y,Y,111
+59023,"Richmond","Richmond"," 12","Richmond",N,N,"",1,471,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 12","Richmond",N,N,"",1,471,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,95
+59023,"Richmond","Richmond"," 12","Richmond",N,N,"",1,471,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 13","Richmond",N,N,"",6,424,"Chan","","Raymond","Liberal","Libéral",Y,Y,100
+59023,"Richmond","Richmond"," 13","Richmond",N,N,"",6,424,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 13","Richmond",N,N,"",6,424,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,90
+59023,"Richmond","Richmond"," 13","Richmond",N,N,"",6,424,"Smith","","Neil","N.D.P.","N.P.D.",N,N,30
+59023,"Richmond","Richmond"," 14","Richmond",N,N,"",2,502,"Chan","","Raymond","Liberal","Libéral",Y,Y,121
+59023,"Richmond","Richmond"," 14","Richmond",N,N,"",2,502,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 14","Richmond",N,N,"",2,502,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,92
+59023,"Richmond","Richmond"," 14","Richmond",N,N,"",2,502,"Smith","","Neil","N.D.P.","N.P.D.",N,N,42
+59023,"Richmond","Richmond"," 15","Richmond",N,N,"",0,393,"Chan","","Raymond","Liberal","Libéral",Y,Y,93
+59023,"Richmond","Richmond"," 15","Richmond",N,N,"",0,393,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 15","Richmond",N,N,"",0,393,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,72
+59023,"Richmond","Richmond"," 15","Richmond",N,N,"",0,393,"Smith","","Neil","N.D.P.","N.P.D.",N,N,26
+59023,"Richmond","Richmond"," 16","Richmond",N,N,"",0,480,"Chan","","Raymond","Liberal","Libéral",Y,Y,126
+59023,"Richmond","Richmond"," 16","Richmond",N,N,"",0,480,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 16","Richmond",N,N,"",0,480,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,91
+59023,"Richmond","Richmond"," 16","Richmond",N,N,"",0,480,"Smith","","Neil","N.D.P.","N.P.D.",N,N,46
+59023,"Richmond","Richmond"," 17","Richmond",N,N,"",1,397,"Chan","","Raymond","Liberal","Libéral",Y,Y,134
+59023,"Richmond","Richmond"," 17","Richmond",N,N,"",1,397,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 17","Richmond",N,N,"",1,397,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,71
+59023,"Richmond","Richmond"," 17","Richmond",N,N,"",1,397,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 18","Richmond",N,N,"",0,368,"Chan","","Raymond","Liberal","Libéral",Y,Y,90
+59023,"Richmond","Richmond"," 18","Richmond",N,N,"",0,368,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 18","Richmond",N,N,"",0,368,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,75
+59023,"Richmond","Richmond"," 18","Richmond",N,N,"",0,368,"Smith","","Neil","N.D.P.","N.P.D.",N,N,47
+59023,"Richmond","Richmond"," 19A","Richmond",N,N,"",0,488,"Chan","","Raymond","Liberal","Libéral",Y,Y,109
+59023,"Richmond","Richmond"," 19A","Richmond",N,N,"",0,488,"Mathias","","Richard","Green Party","Parti Vert",N,N,3
+59023,"Richmond","Richmond"," 19A","Richmond",N,N,"",0,488,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,92
+59023,"Richmond","Richmond"," 19A","Richmond",N,N,"",0,488,"Smith","","Neil","N.D.P.","N.P.D.",N,N,18
+59023,"Richmond","Richmond"," 19B","Mobile poll/Bureau itinérant",N,N,"500",0,126,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 19B","Mobile poll/Bureau itinérant",N,N,"500",0,126,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 19B","Mobile poll/Bureau itinérant",N,N,"500",0,126,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 19B","Mobile poll/Bureau itinérant",N,N,"500",0,126,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 20","Richmond",N,N,"",0,488,"Chan","","Raymond","Liberal","Libéral",Y,Y,110
+59023,"Richmond","Richmond"," 20","Richmond",N,N,"",0,488,"Mathias","","Richard","Green Party","Parti Vert",N,N,8
+59023,"Richmond","Richmond"," 20","Richmond",N,N,"",0,488,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,109
+59023,"Richmond","Richmond"," 20","Richmond",N,N,"",0,488,"Smith","","Neil","N.D.P.","N.P.D.",N,N,37
+59023,"Richmond","Richmond"," 21","Richmond",N,N,"",3,456,"Chan","","Raymond","Liberal","Libéral",Y,Y,102
+59023,"Richmond","Richmond"," 21","Richmond",N,N,"",3,456,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 21","Richmond",N,N,"",3,456,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,85
+59023,"Richmond","Richmond"," 21","Richmond",N,N,"",3,456,"Smith","","Neil","N.D.P.","N.P.D.",N,N,42
+59023,"Richmond","Richmond"," 22","Richmond",N,N,"",0,395,"Chan","","Raymond","Liberal","Libéral",Y,Y,50
+59023,"Richmond","Richmond"," 22","Richmond",N,N,"",0,395,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 22","Richmond",N,N,"",0,395,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,61
+59023,"Richmond","Richmond"," 22","Richmond",N,N,"",0,395,"Smith","","Neil","N.D.P.","N.P.D.",N,N,39
+59023,"Richmond","Richmond"," 23","Richmond",N,N,"",1,441,"Chan","","Raymond","Liberal","Libéral",Y,Y,118
+59023,"Richmond","Richmond"," 23","Richmond",N,N,"",1,441,"Mathias","","Richard","Green Party","Parti Vert",N,N,19
+59023,"Richmond","Richmond"," 23","Richmond",N,N,"",1,441,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,104
+59023,"Richmond","Richmond"," 23","Richmond",N,N,"",1,441,"Smith","","Neil","N.D.P.","N.P.D.",N,N,48
+59023,"Richmond","Richmond"," 24","Richmond",N,N,"",1,523,"Chan","","Raymond","Liberal","Libéral",Y,Y,109
+59023,"Richmond","Richmond"," 24","Richmond",N,N,"",1,523,"Mathias","","Richard","Green Party","Parti Vert",N,N,18
+59023,"Richmond","Richmond"," 24","Richmond",N,N,"",1,523,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,141
+59023,"Richmond","Richmond"," 24","Richmond",N,N,"",1,523,"Smith","","Neil","N.D.P.","N.P.D.",N,N,28
+59023,"Richmond","Richmond"," 25","Richmond",N,N,"",1,438,"Chan","","Raymond","Liberal","Libéral",Y,Y,120
+59023,"Richmond","Richmond"," 25","Richmond",N,N,"",1,438,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 25","Richmond",N,N,"",1,438,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,91
+59023,"Richmond","Richmond"," 25","Richmond",N,N,"",1,438,"Smith","","Neil","N.D.P.","N.P.D.",N,N,37
+59023,"Richmond","Richmond"," 26","Richmond",N,N,"",1,377,"Chan","","Raymond","Liberal","Libéral",Y,Y,78
+59023,"Richmond","Richmond"," 26","Richmond",N,N,"",1,377,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 26","Richmond",N,N,"",1,377,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,68
+59023,"Richmond","Richmond"," 26","Richmond",N,N,"",1,377,"Smith","","Neil","N.D.P.","N.P.D.",N,N,18
+59023,"Richmond","Richmond"," 27A","Richmond",N,N,"",1,521,"Chan","","Raymond","Liberal","Libéral",Y,Y,119
+59023,"Richmond","Richmond"," 27A","Richmond",N,N,"",1,521,"Mathias","","Richard","Green Party","Parti Vert",N,N,17
+59023,"Richmond","Richmond"," 27A","Richmond",N,N,"",1,521,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,83
+59023,"Richmond","Richmond"," 27A","Richmond",N,N,"",1,521,"Smith","","Neil","N.D.P.","N.P.D.",N,N,37
+59023,"Richmond","Richmond"," 27B","Richmond",N,N,"28",0,200,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 27B","Richmond",N,N,"28",0,200,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 27B","Richmond",N,N,"28",0,200,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 27B","Richmond",N,N,"28",0,200,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 28","Richmond",N,N,"",2,304,"Chan","","Raymond","Liberal","Libéral",Y,Y,96
+59023,"Richmond","Richmond"," 28","Richmond",N,N,"",2,304,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 28","Richmond",N,N,"",2,304,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,73
+59023,"Richmond","Richmond"," 28","Richmond",N,N,"",2,304,"Smith","","Neil","N.D.P.","N.P.D.",N,N,39
+59023,"Richmond","Richmond"," 29","Richmond",N,N,"",0,413,"Chan","","Raymond","Liberal","Libéral",Y,Y,95
+59023,"Richmond","Richmond"," 29","Richmond",N,N,"",0,413,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 29","Richmond",N,N,"",0,413,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,86
+59023,"Richmond","Richmond"," 29","Richmond",N,N,"",0,413,"Smith","","Neil","N.D.P.","N.P.D.",N,N,28
+59023,"Richmond","Richmond"," 30","Richmond",N,N,"",1,590,"Chan","","Raymond","Liberal","Libéral",Y,Y,155
+59023,"Richmond","Richmond"," 30","Richmond",N,N,"",1,590,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 30","Richmond",N,N,"",1,590,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,121
+59023,"Richmond","Richmond"," 30","Richmond",N,N,"",1,590,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 31","Richmond",N,N,"",0,465,"Chan","","Raymond","Liberal","Libéral",Y,Y,123
+59023,"Richmond","Richmond"," 31","Richmond",N,N,"",0,465,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 31","Richmond",N,N,"",0,465,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,87
+59023,"Richmond","Richmond"," 31","Richmond",N,N,"",0,465,"Smith","","Neil","N.D.P.","N.P.D.",N,N,29
+59023,"Richmond","Richmond"," 32","Richmond",N,N,"",0,533,"Chan","","Raymond","Liberal","Libéral",Y,Y,99
+59023,"Richmond","Richmond"," 32","Richmond",N,N,"",0,533,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 32","Richmond",N,N,"",0,533,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,112
+59023,"Richmond","Richmond"," 32","Richmond",N,N,"",0,533,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 33","Richmond",N,N,"",3,307,"Chan","","Raymond","Liberal","Libéral",Y,Y,51
+59023,"Richmond","Richmond"," 33","Richmond",N,N,"",3,307,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 33","Richmond",N,N,"",3,307,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,53
+59023,"Richmond","Richmond"," 33","Richmond",N,N,"",3,307,"Smith","","Neil","N.D.P.","N.P.D.",N,N,51
+59023,"Richmond","Richmond"," 34A","Richmond",N,N,"",0,511,"Chan","","Raymond","Liberal","Libéral",Y,Y,101
+59023,"Richmond","Richmond"," 34A","Richmond",N,N,"",0,511,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 34A","Richmond",N,N,"",0,511,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,109
+59023,"Richmond","Richmond"," 34A","Richmond",N,N,"",0,511,"Smith","","Neil","N.D.P.","N.P.D.",N,N,25
+59023,"Richmond","Richmond"," 34B","Richmond",N,N,"36",0,141,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 34B","Richmond",N,N,"36",0,141,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 34B","Richmond",N,N,"36",0,141,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 34B","Richmond",N,N,"36",0,141,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 35","Richmond",N,N,"",2,401,"Chan","","Raymond","Liberal","Libéral",Y,Y,89
+59023,"Richmond","Richmond"," 35","Richmond",N,N,"",2,401,"Mathias","","Richard","Green Party","Parti Vert",N,N,2
+59023,"Richmond","Richmond"," 35","Richmond",N,N,"",2,401,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,62
+59023,"Richmond","Richmond"," 35","Richmond",N,N,"",2,401,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 36","Richmond",N,N,"",0,372,"Chan","","Raymond","Liberal","Libéral",Y,Y,111
+59023,"Richmond","Richmond"," 36","Richmond",N,N,"",0,372,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 36","Richmond",N,N,"",0,372,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,126
+59023,"Richmond","Richmond"," 36","Richmond",N,N,"",0,372,"Smith","","Neil","N.D.P.","N.P.D.",N,N,37
+59023,"Richmond","Richmond"," 37","Richmond",N,N,"",0,433,"Chan","","Raymond","Liberal","Libéral",Y,Y,92
+59023,"Richmond","Richmond"," 37","Richmond",N,N,"",0,433,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 37","Richmond",N,N,"",0,433,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,86
+59023,"Richmond","Richmond"," 37","Richmond",N,N,"",0,433,"Smith","","Neil","N.D.P.","N.P.D.",N,N,35
+59023,"Richmond","Richmond"," 38","Richmond",N,N,"",0,495,"Chan","","Raymond","Liberal","Libéral",Y,Y,122
+59023,"Richmond","Richmond"," 38","Richmond",N,N,"",0,495,"Mathias","","Richard","Green Party","Parti Vert",N,N,17
+59023,"Richmond","Richmond"," 38","Richmond",N,N,"",0,495,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,91
+59023,"Richmond","Richmond"," 38","Richmond",N,N,"",0,495,"Smith","","Neil","N.D.P.","N.P.D.",N,N,26
+59023,"Richmond","Richmond"," 39","Richmond",N,N,"",1,470,"Chan","","Raymond","Liberal","Libéral",Y,Y,91
+59023,"Richmond","Richmond"," 39","Richmond",N,N,"",1,470,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 39","Richmond",N,N,"",1,470,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,75
+59023,"Richmond","Richmond"," 39","Richmond",N,N,"",1,470,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 40","Richmond",N,N,"",5,445,"Chan","","Raymond","Liberal","Libéral",Y,Y,78
+59023,"Richmond","Richmond"," 40","Richmond",N,N,"",5,445,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 40","Richmond",N,N,"",5,445,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,61
+59023,"Richmond","Richmond"," 40","Richmond",N,N,"",5,445,"Smith","","Neil","N.D.P.","N.P.D.",N,N,40
+59023,"Richmond","Richmond"," 41","Richmond",N,N,"",0,384,"Chan","","Raymond","Liberal","Libéral",Y,Y,93
+59023,"Richmond","Richmond"," 41","Richmond",N,N,"",0,384,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 41","Richmond",N,N,"",0,384,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,94
+59023,"Richmond","Richmond"," 41","Richmond",N,N,"",0,384,"Smith","","Neil","N.D.P.","N.P.D.",N,N,22
+59023,"Richmond","Richmond"," 42","Richmond",N,N,"",0,442,"Chan","","Raymond","Liberal","Libéral",Y,Y,93
+59023,"Richmond","Richmond"," 42","Richmond",N,N,"",0,442,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 42","Richmond",N,N,"",0,442,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,88
+59023,"Richmond","Richmond"," 42","Richmond",N,N,"",0,442,"Smith","","Neil","N.D.P.","N.P.D.",N,N,27
+59023,"Richmond","Richmond"," 43","Richmond",N,N,"",0,482,"Chan","","Raymond","Liberal","Libéral",Y,Y,99
+59023,"Richmond","Richmond"," 43","Richmond",N,N,"",0,482,"Mathias","","Richard","Green Party","Parti Vert",N,N,35
+59023,"Richmond","Richmond"," 43","Richmond",N,N,"",0,482,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,107
+59023,"Richmond","Richmond"," 43","Richmond",N,N,"",0,482,"Smith","","Neil","N.D.P.","N.P.D.",N,N,22
+59023,"Richmond","Richmond"," 44","Richmond",N,N,"",1,446,"Chan","","Raymond","Liberal","Libéral",Y,Y,116
+59023,"Richmond","Richmond"," 44","Richmond",N,N,"",1,446,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 44","Richmond",N,N,"",1,446,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,86
+59023,"Richmond","Richmond"," 44","Richmond",N,N,"",1,446,"Smith","","Neil","N.D.P.","N.P.D.",N,N,35
+59023,"Richmond","Richmond"," 45","Richmond",N,N,"",1,421,"Chan","","Raymond","Liberal","Libéral",Y,Y,85
+59023,"Richmond","Richmond"," 45","Richmond",N,N,"",1,421,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 45","Richmond",N,N,"",1,421,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,84
+59023,"Richmond","Richmond"," 45","Richmond",N,N,"",1,421,"Smith","","Neil","N.D.P.","N.P.D.",N,N,43
+59023,"Richmond","Richmond"," 46","Richmond",N,N,"",0,338,"Chan","","Raymond","Liberal","Libéral",Y,Y,61
+59023,"Richmond","Richmond"," 46","Richmond",N,N,"",0,338,"Mathias","","Richard","Green Party","Parti Vert",N,N,3
+59023,"Richmond","Richmond"," 46","Richmond",N,N,"",0,338,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,42
+59023,"Richmond","Richmond"," 46","Richmond",N,N,"",0,338,"Smith","","Neil","N.D.P.","N.P.D.",N,N,17
+59023,"Richmond","Richmond"," 47","Richmond",N,N,"50",0,236,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 47","Richmond",N,N,"50",0,236,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 47","Richmond",N,N,"50",0,236,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 47","Richmond",N,N,"50",0,236,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 48","Richmond",N,N,"",1,442,"Chan","","Raymond","Liberal","Libéral",Y,Y,89
+59023,"Richmond","Richmond"," 48","Richmond",N,N,"",1,442,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 48","Richmond",N,N,"",1,442,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,83
+59023,"Richmond","Richmond"," 48","Richmond",N,N,"",1,442,"Smith","","Neil","N.D.P.","N.P.D.",N,N,48
+59023,"Richmond","Richmond"," 49","Richmond",N,N,"",2,401,"Chan","","Raymond","Liberal","Libéral",Y,Y,99
+59023,"Richmond","Richmond"," 49","Richmond",N,N,"",2,401,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 49","Richmond",N,N,"",2,401,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,95
+59023,"Richmond","Richmond"," 49","Richmond",N,N,"",2,401,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 50","Richmond",N,N,"",2,289,"Chan","","Raymond","Liberal","Libéral",Y,Y,83
+59023,"Richmond","Richmond"," 50","Richmond",N,N,"",2,289,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 50","Richmond",N,N,"",2,289,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,84
+59023,"Richmond","Richmond"," 50","Richmond",N,N,"",2,289,"Smith","","Neil","N.D.P.","N.P.D.",N,N,24
+59023,"Richmond","Richmond"," 51A","Richmond",N,N,"",3,466,"Chan","","Raymond","Liberal","Libéral",Y,Y,96
+59023,"Richmond","Richmond"," 51A","Richmond",N,N,"",3,466,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 51A","Richmond",N,N,"",3,466,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,93
+59023,"Richmond","Richmond"," 51A","Richmond",N,N,"",3,466,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 51B","Richmond",N,N,"",0,487,"Chan","","Raymond","Liberal","Libéral",Y,Y,112
+59023,"Richmond","Richmond"," 51B","Richmond",N,N,"",0,487,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 51B","Richmond",N,N,"",0,487,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,108
+59023,"Richmond","Richmond"," 51B","Richmond",N,N,"",0,487,"Smith","","Neil","N.D.P.","N.P.D.",N,N,47
+59023,"Richmond","Richmond"," 52A","Richmond",N,N,"",1,454,"Chan","","Raymond","Liberal","Libéral",Y,Y,79
+59023,"Richmond","Richmond"," 52A","Richmond",N,N,"",1,454,"Mathias","","Richard","Green Party","Parti Vert",N,N,2
+59023,"Richmond","Richmond"," 52A","Richmond",N,N,"",1,454,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,82
+59023,"Richmond","Richmond"," 52A","Richmond",N,N,"",1,454,"Smith","","Neil","N.D.P.","N.P.D.",N,N,13
+59023,"Richmond","Richmond"," 52B","Richmond",N,N,"53",0,195,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 52B","Richmond",N,N,"53",0,195,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 52B","Richmond",N,N,"53",0,195,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 52B","Richmond",N,N,"53",0,195,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 53","Richmond",N,N,"",2,307,"Chan","","Raymond","Liberal","Libéral",Y,Y,103
+59023,"Richmond","Richmond"," 53","Richmond",N,N,"",2,307,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 53","Richmond",N,N,"",2,307,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,86
+59023,"Richmond","Richmond"," 53","Richmond",N,N,"",2,307,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 54","Richmond",N,N,"",1,458,"Chan","","Raymond","Liberal","Libéral",Y,Y,97
+59023,"Richmond","Richmond"," 54","Richmond",N,N,"",1,458,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 54","Richmond",N,N,"",1,458,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,69
+59023,"Richmond","Richmond"," 54","Richmond",N,N,"",1,458,"Smith","","Neil","N.D.P.","N.P.D.",N,N,36
+59023,"Richmond","Richmond"," 55","Richmond",N,N,"67",0,37,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 55","Richmond",N,N,"67",0,37,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 55","Richmond",N,N,"67",0,37,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 55","Richmond",N,N,"67",0,37,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 56A","Richmond",N,N,"",0,542,"Chan","","Raymond","Liberal","Libéral",Y,Y,104
+59023,"Richmond","Richmond"," 56A","Richmond",N,N,"",0,542,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 56A","Richmond",N,N,"",0,542,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,115
+59023,"Richmond","Richmond"," 56A","Richmond",N,N,"",0,542,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 56B","Richmond",N,N,"60",0,158,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 56B","Richmond",N,N,"60",0,158,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 56B","Richmond",N,N,"60",0,158,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 56B","Richmond",N,N,"60",0,158,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 57","Richmond",N,N,"",3,471,"Chan","","Raymond","Liberal","Libéral",Y,Y,88
+59023,"Richmond","Richmond"," 57","Richmond",N,N,"",3,471,"Mathias","","Richard","Green Party","Parti Vert",N,N,15
+59023,"Richmond","Richmond"," 57","Richmond",N,N,"",3,471,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,67
+59023,"Richmond","Richmond"," 57","Richmond",N,N,"",3,471,"Smith","","Neil","N.D.P.","N.P.D.",N,N,22
+59023,"Richmond","Richmond"," 58","Richmond",N,N,"",2,427,"Chan","","Raymond","Liberal","Libéral",Y,Y,87
+59023,"Richmond","Richmond"," 58","Richmond",N,N,"",2,427,"Mathias","","Richard","Green Party","Parti Vert",N,N,20
+59023,"Richmond","Richmond"," 58","Richmond",N,N,"",2,427,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,65
+59023,"Richmond","Richmond"," 58","Richmond",N,N,"",2,427,"Smith","","Neil","N.D.P.","N.P.D.",N,N,54
+59023,"Richmond","Richmond"," 59","Richmond",N,N,"",0,374,"Chan","","Raymond","Liberal","Libéral",Y,Y,85
+59023,"Richmond","Richmond"," 59","Richmond",N,N,"",0,374,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 59","Richmond",N,N,"",0,374,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,70
+59023,"Richmond","Richmond"," 59","Richmond",N,N,"",0,374,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 60","Richmond",N,N,"",1,325,"Chan","","Raymond","Liberal","Libéral",Y,Y,95
+59023,"Richmond","Richmond"," 60","Richmond",N,N,"",1,325,"Mathias","","Richard","Green Party","Parti Vert",N,N,17
+59023,"Richmond","Richmond"," 60","Richmond",N,N,"",1,325,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,78
+59023,"Richmond","Richmond"," 60","Richmond",N,N,"",1,325,"Smith","","Neil","N.D.P.","N.P.D.",N,N,28
+59023,"Richmond","Richmond"," 61","Richmond",N,N,"62B",0,165,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 61","Richmond",N,N,"62B",0,165,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 61","Richmond",N,N,"62B",0,165,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 61","Richmond",N,N,"62B",0,165,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 62A","Richmond",N,N,"",1,428,"Chan","","Raymond","Liberal","Libéral",Y,Y,72
+59023,"Richmond","Richmond"," 62A","Richmond",N,N,"",1,428,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 62A","Richmond",N,N,"",1,428,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,105
+59023,"Richmond","Richmond"," 62A","Richmond",N,N,"",1,428,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 62B","Richmond",N,N,"",1,232,"Chan","","Raymond","Liberal","Libéral",Y,Y,83
+59023,"Richmond","Richmond"," 62B","Richmond",N,N,"",1,232,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 62B","Richmond",N,N,"",1,232,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,97
+59023,"Richmond","Richmond"," 62B","Richmond",N,N,"",1,232,"Smith","","Neil","N.D.P.","N.P.D.",N,N,27
+59023,"Richmond","Richmond"," 63","Richmond",N,N,"",0,377,"Chan","","Raymond","Liberal","Libéral",Y,Y,89
+59023,"Richmond","Richmond"," 63","Richmond",N,N,"",0,377,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 63","Richmond",N,N,"",0,377,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,82
+59023,"Richmond","Richmond"," 63","Richmond",N,N,"",0,377,"Smith","","Neil","N.D.P.","N.P.D.",N,N,21
+59023,"Richmond","Richmond"," 64A","Richmond",N,N,"",0,510,"Chan","","Raymond","Liberal","Libéral",Y,Y,123
+59023,"Richmond","Richmond"," 64A","Richmond",N,N,"",0,510,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 64A","Richmond",N,N,"",0,510,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,90
+59023,"Richmond","Richmond"," 64A","Richmond",N,N,"",0,510,"Smith","","Neil","N.D.P.","N.P.D.",N,N,58
+59023,"Richmond","Richmond"," 64B","Richmond",N,N,"58",0,89,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 64B","Richmond",N,N,"58",0,89,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 64B","Richmond",N,N,"58",0,89,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 64B","Richmond",N,N,"58",0,89,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 65A","Richmond",N,N,"",1,405,"Chan","","Raymond","Liberal","Libéral",Y,Y,100
+59023,"Richmond","Richmond"," 65A","Richmond",N,N,"",1,405,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 65A","Richmond",N,N,"",1,405,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,71
+59023,"Richmond","Richmond"," 65A","Richmond",N,N,"",1,405,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 65B","Richmond",N,N,"66A",0,79,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 65B","Richmond",N,N,"66A",0,79,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 65B","Richmond",N,N,"66A",0,79,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 65B","Richmond",N,N,"66A",0,79,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 66A","Richmond",N,N,"",1,281,"Chan","","Raymond","Liberal","Libéral",Y,Y,73
+59023,"Richmond","Richmond"," 66A","Richmond",N,N,"",1,281,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 66A","Richmond",N,N,"",1,281,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,55
+59023,"Richmond","Richmond"," 66A","Richmond",N,N,"",1,281,"Smith","","Neil","N.D.P.","N.P.D.",N,N,40
+59023,"Richmond","Richmond"," 66B","Mobile poll/Bureau itinérant",N,N,"501B",0,30,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 66B","Mobile poll/Bureau itinérant",N,N,"501B",0,30,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 66B","Mobile poll/Bureau itinérant",N,N,"501B",0,30,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 66B","Mobile poll/Bureau itinérant",N,N,"501B",0,30,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 67","Richmond",N,N,"",0,461,"Chan","","Raymond","Liberal","Libéral",Y,Y,90
+59023,"Richmond","Richmond"," 67","Richmond",N,N,"",0,461,"Mathias","","Richard","Green Party","Parti Vert",N,N,8
+59023,"Richmond","Richmond"," 67","Richmond",N,N,"",0,461,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,86
+59023,"Richmond","Richmond"," 67","Richmond",N,N,"",0,461,"Smith","","Neil","N.D.P.","N.P.D.",N,N,26
+59023,"Richmond","Richmond"," 68","Richmond",N,N,"",0,418,"Chan","","Raymond","Liberal","Libéral",Y,Y,67
+59023,"Richmond","Richmond"," 68","Richmond",N,N,"",0,418,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 68","Richmond",N,N,"",0,418,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,51
+59023,"Richmond","Richmond"," 68","Richmond",N,N,"",0,418,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 69","Richmond",N,N,"",0,321,"Chan","","Raymond","Liberal","Libéral",Y,Y,58
+59023,"Richmond","Richmond"," 69","Richmond",N,N,"",0,321,"Mathias","","Richard","Green Party","Parti Vert",N,N,3
+59023,"Richmond","Richmond"," 69","Richmond",N,N,"",0,321,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,31
+59023,"Richmond","Richmond"," 69","Richmond",N,N,"",0,321,"Smith","","Neil","N.D.P.","N.P.D.",N,N,42
+59023,"Richmond","Richmond"," 70A","Richmond",N,N,"",2,586,"Chan","","Raymond","Liberal","Libéral",Y,Y,97
+59023,"Richmond","Richmond"," 70A","Richmond",N,N,"",2,586,"Mathias","","Richard","Green Party","Parti Vert",N,N,2
+59023,"Richmond","Richmond"," 70A","Richmond",N,N,"",2,586,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,54
+59023,"Richmond","Richmond"," 70A","Richmond",N,N,"",2,586,"Smith","","Neil","N.D.P.","N.P.D.",N,N,9
+59023,"Richmond","Richmond"," 70B","Richmond",N,N,"71",0,128,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 70B","Richmond",N,N,"71",0,128,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 70B","Richmond",N,N,"71",0,128,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 70B","Richmond",N,N,"71",0,128,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 71","Richmond",N,N,"",0,516,"Chan","","Raymond","Liberal","Libéral",Y,Y,108
+59023,"Richmond","Richmond"," 71","Richmond",N,N,"",0,516,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 71","Richmond",N,N,"",0,516,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,76
+59023,"Richmond","Richmond"," 71","Richmond",N,N,"",0,516,"Smith","","Neil","N.D.P.","N.P.D.",N,N,20
+59023,"Richmond","Richmond"," 72","Richmond",N,N,"",2,410,"Chan","","Raymond","Liberal","Libéral",Y,Y,60
+59023,"Richmond","Richmond"," 72","Richmond",N,N,"",2,410,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 72","Richmond",N,N,"",2,410,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,63
+59023,"Richmond","Richmond"," 72","Richmond",N,N,"",2,410,"Smith","","Neil","N.D.P.","N.P.D.",N,N,30
+59023,"Richmond","Richmond"," 73","Richmond",N,N,"",0,408,"Chan","","Raymond","Liberal","Libéral",Y,Y,125
+59023,"Richmond","Richmond"," 73","Richmond",N,N,"",0,408,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 73","Richmond",N,N,"",0,408,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,102
+59023,"Richmond","Richmond"," 73","Richmond",N,N,"",0,408,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 74","Richmond",N,N,"",0,513,"Chan","","Raymond","Liberal","Libéral",Y,Y,97
+59023,"Richmond","Richmond"," 74","Richmond",N,N,"",0,513,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 74","Richmond",N,N,"",0,513,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,89
+59023,"Richmond","Richmond"," 74","Richmond",N,N,"",0,513,"Smith","","Neil","N.D.P.","N.P.D.",N,N,46
+59023,"Richmond","Richmond"," 75A","Richmond",N,N,"",7,530,"Chan","","Raymond","Liberal","Libéral",Y,Y,75
+59023,"Richmond","Richmond"," 75A","Richmond",N,N,"",7,530,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 75A","Richmond",N,N,"",7,530,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,89
+59023,"Richmond","Richmond"," 75A","Richmond",N,N,"",7,530,"Smith","","Neil","N.D.P.","N.P.D.",N,N,48
+59023,"Richmond","Richmond"," 75B","Richmond",N,N,"73",0,153,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 75B","Richmond",N,N,"73",0,153,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 75B","Richmond",N,N,"73",0,153,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 75B","Richmond",N,N,"73",0,153,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 76","Richmond",N,N,"",0,370,"Chan","","Raymond","Liberal","Libéral",Y,Y,55
+59023,"Richmond","Richmond"," 76","Richmond",N,N,"",0,370,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 76","Richmond",N,N,"",0,370,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,65
+59023,"Richmond","Richmond"," 76","Richmond",N,N,"",0,370,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 77A","Richmond",N,N,"",1,607,"Chan","","Raymond","Liberal","Libéral",Y,Y,123
+59023,"Richmond","Richmond"," 77A","Richmond",N,N,"",1,607,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 77A","Richmond",N,N,"",1,607,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,73
+59023,"Richmond","Richmond"," 77A","Richmond",N,N,"",1,607,"Smith","","Neil","N.D.P.","N.P.D.",N,N,41
+59023,"Richmond","Richmond"," 77B","Richmond",N,N,"74",0,91,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 77B","Richmond",N,N,"74",0,91,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 77B","Richmond",N,N,"74",0,91,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 77B","Richmond",N,N,"74",0,91,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 78","Richmond",N,N,"",1,516,"Chan","","Raymond","Liberal","Libéral",Y,Y,102
+59023,"Richmond","Richmond"," 78","Richmond",N,N,"",1,516,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 78","Richmond",N,N,"",1,516,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,66
+59023,"Richmond","Richmond"," 78","Richmond",N,N,"",1,516,"Smith","","Neil","N.D.P.","N.P.D.",N,N,63
+59023,"Richmond","Richmond"," 79A","Richmond",N,N,"",2,642,"Chan","","Raymond","Liberal","Libéral",Y,Y,124
+59023,"Richmond","Richmond"," 79A","Richmond",N,N,"",2,642,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 79A","Richmond",N,N,"",2,642,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,91
+59023,"Richmond","Richmond"," 79A","Richmond",N,N,"",2,642,"Smith","","Neil","N.D.P.","N.P.D.",N,N,40
+59023,"Richmond","Richmond"," 79B","Richmond",N,N,"82",0,43,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 79B","Richmond",N,N,"82",0,43,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 79B","Richmond",N,N,"82",0,43,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 79B","Richmond",N,N,"82",0,43,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 80","Richmond",N,N,"",1,346,"Chan","","Raymond","Liberal","Libéral",Y,Y,62
+59023,"Richmond","Richmond"," 80","Richmond",N,N,"",1,346,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 80","Richmond",N,N,"",1,346,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,59
+59023,"Richmond","Richmond"," 80","Richmond",N,N,"",1,346,"Smith","","Neil","N.D.P.","N.P.D.",N,N,26
+59023,"Richmond","Richmond"," 81","Richmond",N,N,"",0,421,"Chan","","Raymond","Liberal","Libéral",Y,Y,84
+59023,"Richmond","Richmond"," 81","Richmond",N,N,"",0,421,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 81","Richmond",N,N,"",0,421,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,80
+59023,"Richmond","Richmond"," 81","Richmond",N,N,"",0,421,"Smith","","Neil","N.D.P.","N.P.D.",N,N,19
+59023,"Richmond","Richmond"," 82","Richmond",N,N,"",1,569,"Chan","","Raymond","Liberal","Libéral",Y,Y,114
+59023,"Richmond","Richmond"," 82","Richmond",N,N,"",1,569,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 82","Richmond",N,N,"",1,569,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,113
+59023,"Richmond","Richmond"," 82","Richmond",N,N,"",1,569,"Smith","","Neil","N.D.P.","N.P.D.",N,N,27
+59023,"Richmond","Richmond"," 83","Richmond",N,N,"",0,367,"Chan","","Raymond","Liberal","Libéral",Y,Y,84
+59023,"Richmond","Richmond"," 83","Richmond",N,N,"",0,367,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 83","Richmond",N,N,"",0,367,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,66
+59023,"Richmond","Richmond"," 83","Richmond",N,N,"",0,367,"Smith","","Neil","N.D.P.","N.P.D.",N,N,35
+59023,"Richmond","Richmond"," 84","Richmond",N,N,"",0,360,"Chan","","Raymond","Liberal","Libéral",Y,Y,65
+59023,"Richmond","Richmond"," 84","Richmond",N,N,"",0,360,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 84","Richmond",N,N,"",0,360,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,86
+59023,"Richmond","Richmond"," 84","Richmond",N,N,"",0,360,"Smith","","Neil","N.D.P.","N.P.D.",N,N,18
+59023,"Richmond","Richmond"," 85A","Richmond",N,N,"",0,621,"Chan","","Raymond","Liberal","Libéral",Y,Y,122
+59023,"Richmond","Richmond"," 85A","Richmond",N,N,"",0,621,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 85A","Richmond",N,N,"",0,621,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,88
+59023,"Richmond","Richmond"," 85A","Richmond",N,N,"",0,621,"Smith","","Neil","N.D.P.","N.P.D.",N,N,44
+59023,"Richmond","Richmond"," 85B","Richmond",N,N,"86",0,129,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 85B","Richmond",N,N,"86",0,129,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 85B","Richmond",N,N,"86",0,129,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 85B","Richmond",N,N,"86",0,129,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 86","Richmond",N,N,"",1,500,"Chan","","Raymond","Liberal","Libéral",Y,Y,120
+59023,"Richmond","Richmond"," 86","Richmond",N,N,"",1,500,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 86","Richmond",N,N,"",1,500,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,90
+59023,"Richmond","Richmond"," 86","Richmond",N,N,"",1,500,"Smith","","Neil","N.D.P.","N.P.D.",N,N,14
+59023,"Richmond","Richmond"," 87","Richmond",N,N,"",0,506,"Chan","","Raymond","Liberal","Libéral",Y,Y,74
+59023,"Richmond","Richmond"," 87","Richmond",N,N,"",0,506,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 87","Richmond",N,N,"",0,506,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,84
+59023,"Richmond","Richmond"," 87","Richmond",N,N,"",0,506,"Smith","","Neil","N.D.P.","N.P.D.",N,N,25
+59023,"Richmond","Richmond"," 88","Richmond",N,N,"",1,637,"Chan","","Raymond","Liberal","Libéral",Y,Y,138
+59023,"Richmond","Richmond"," 88","Richmond",N,N,"",1,637,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 88","Richmond",N,N,"",1,637,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,108
+59023,"Richmond","Richmond"," 88","Richmond",N,N,"",1,637,"Smith","","Neil","N.D.P.","N.P.D.",N,N,43
+59023,"Richmond","Richmond"," 89","Richmond",N,N,"",1,414,"Chan","","Raymond","Liberal","Libéral",Y,Y,85
+59023,"Richmond","Richmond"," 89","Richmond",N,N,"",1,414,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 89","Richmond",N,N,"",1,414,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,87
+59023,"Richmond","Richmond"," 89","Richmond",N,N,"",1,414,"Smith","","Neil","N.D.P.","N.P.D.",N,N,24
+59023,"Richmond","Richmond"," 90","Richmond",N,N,"",0,501,"Chan","","Raymond","Liberal","Libéral",Y,Y,77
+59023,"Richmond","Richmond"," 90","Richmond",N,N,"",0,501,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 90","Richmond",N,N,"",0,501,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,93
+59023,"Richmond","Richmond"," 90","Richmond",N,N,"",0,501,"Smith","","Neil","N.D.P.","N.P.D.",N,N,32
+59023,"Richmond","Richmond"," 91","Richmond",N,N,"",1,412,"Chan","","Raymond","Liberal","Libéral",Y,Y,87
+59023,"Richmond","Richmond"," 91","Richmond",N,N,"",1,412,"Mathias","","Richard","Green Party","Parti Vert",N,N,8
+59023,"Richmond","Richmond"," 91","Richmond",N,N,"",1,412,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,74
+59023,"Richmond","Richmond"," 91","Richmond",N,N,"",1,412,"Smith","","Neil","N.D.P.","N.P.D.",N,N,28
+59023,"Richmond","Richmond"," 92A","Richmond",N,N,"",0,528,"Chan","","Raymond","Liberal","Libéral",Y,Y,80
+59023,"Richmond","Richmond"," 92A","Richmond",N,N,"",0,528,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 92A","Richmond",N,N,"",0,528,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,55
+59023,"Richmond","Richmond"," 92A","Richmond",N,N,"",0,528,"Smith","","Neil","N.D.P.","N.P.D.",N,N,32
+59023,"Richmond","Richmond"," 92B","Richmond",N,N,"96",0,173,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 92B","Richmond",N,N,"96",0,173,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 92B","Richmond",N,N,"96",0,173,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 92B","Richmond",N,N,"96",0,173,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 93","Richmond",N,N,"",0,628,"Chan","","Raymond","Liberal","Libéral",Y,Y,129
+59023,"Richmond","Richmond"," 93","Richmond",N,N,"",0,628,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 93","Richmond",N,N,"",0,628,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,98
+59023,"Richmond","Richmond"," 93","Richmond",N,N,"",0,628,"Smith","","Neil","N.D.P.","N.P.D.",N,N,25
+59023,"Richmond","Richmond"," 94","Richmond",N,N,"",3,569,"Chan","","Raymond","Liberal","Libéral",Y,Y,132
+59023,"Richmond","Richmond"," 94","Richmond",N,N,"",3,569,"Mathias","","Richard","Green Party","Parti Vert",N,N,8
+59023,"Richmond","Richmond"," 94","Richmond",N,N,"",3,569,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,90
+59023,"Richmond","Richmond"," 94","Richmond",N,N,"",3,569,"Smith","","Neil","N.D.P.","N.P.D.",N,N,25
+59023,"Richmond","Richmond"," 95","Richmond",N,N,"",5,580,"Chan","","Raymond","Liberal","Libéral",Y,Y,145
+59023,"Richmond","Richmond"," 95","Richmond",N,N,"",5,580,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 95","Richmond",N,N,"",5,580,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,118
+59023,"Richmond","Richmond"," 95","Richmond",N,N,"",5,580,"Smith","","Neil","N.D.P.","N.P.D.",N,N,24
+59023,"Richmond","Richmond"," 96","Richmond",N,N,"",1,355,"Chan","","Raymond","Liberal","Libéral",Y,Y,89
+59023,"Richmond","Richmond"," 96","Richmond",N,N,"",1,355,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 96","Richmond",N,N,"",1,355,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,96
+59023,"Richmond","Richmond"," 96","Richmond",N,N,"",1,355,"Smith","","Neil","N.D.P.","N.P.D.",N,N,27
+59023,"Richmond","Richmond"," 97","Richmond",N,N,"",0,386,"Chan","","Raymond","Liberal","Libéral",Y,Y,58
+59023,"Richmond","Richmond"," 97","Richmond",N,N,"",0,386,"Mathias","","Richard","Green Party","Parti Vert",N,N,20
+59023,"Richmond","Richmond"," 97","Richmond",N,N,"",0,386,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,40
+59023,"Richmond","Richmond"," 97","Richmond",N,N,"",0,386,"Smith","","Neil","N.D.P.","N.P.D.",N,N,35
+59023,"Richmond","Richmond"," 98","Richmond",Y,N,"",0,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 98","Richmond",Y,N,"",0,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 98","Richmond",Y,N,"",0,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 98","Richmond",Y,N,"",0,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 99","Richmond",N,N,"",1,385,"Chan","","Raymond","Liberal","Libéral",Y,Y,58
+59023,"Richmond","Richmond"," 99","Richmond",N,N,"",1,385,"Mathias","","Richard","Green Party","Parti Vert",N,N,15
+59023,"Richmond","Richmond"," 99","Richmond",N,N,"",1,385,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,65
+59023,"Richmond","Richmond"," 99","Richmond",N,N,"",1,385,"Smith","","Neil","N.D.P.","N.P.D.",N,N,44
+59023,"Richmond","Richmond"," 100A","Richmond",N,N,"",2,616,"Chan","","Raymond","Liberal","Libéral",Y,Y,116
+59023,"Richmond","Richmond"," 100A","Richmond",N,N,"",2,616,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 100A","Richmond",N,N,"",2,616,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,56
+59023,"Richmond","Richmond"," 100A","Richmond",N,N,"",2,616,"Smith","","Neil","N.D.P.","N.P.D.",N,N,30
+59023,"Richmond","Richmond"," 100B","Richmond",N,N,"",0,469,"Chan","","Raymond","Liberal","Libéral",Y,Y,103
+59023,"Richmond","Richmond"," 100B","Richmond",N,N,"",0,469,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 100B","Richmond",N,N,"",0,469,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,74
+59023,"Richmond","Richmond"," 100B","Richmond",N,N,"",0,469,"Smith","","Neil","N.D.P.","N.P.D.",N,N,53
+59023,"Richmond","Richmond"," 101","Richmond",N,N,"100B",0,126,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 101","Richmond",N,N,"100B",0,126,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 101","Richmond",N,N,"100B",0,126,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 101","Richmond",N,N,"100B",0,126,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 102","Richmond",N,N,"",2,513,"Chan","","Raymond","Liberal","Libéral",Y,Y,108
+59023,"Richmond","Richmond"," 102","Richmond",N,N,"",2,513,"Mathias","","Richard","Green Party","Parti Vert",N,N,3
+59023,"Richmond","Richmond"," 102","Richmond",N,N,"",2,513,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,60
+59023,"Richmond","Richmond"," 102","Richmond",N,N,"",2,513,"Smith","","Neil","N.D.P.","N.P.D.",N,N,20
+59023,"Richmond","Richmond"," 103A","Richmond",N,N,"",0,507,"Chan","","Raymond","Liberal","Libéral",Y,Y,82
+59023,"Richmond","Richmond"," 103A","Richmond",N,N,"",0,507,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 103A","Richmond",N,N,"",0,507,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,75
+59023,"Richmond","Richmond"," 103A","Richmond",N,N,"",0,507,"Smith","","Neil","N.D.P.","N.P.D.",N,N,26
+59023,"Richmond","Richmond"," 103B","Richmond",N,N,"104A",0,142,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 103B","Richmond",N,N,"104A",0,142,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 103B","Richmond",N,N,"104A",0,142,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 103B","Richmond",N,N,"104A",0,142,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 104A","Richmond",N,N,"",3,305,"Chan","","Raymond","Liberal","Libéral",Y,Y,68
+59023,"Richmond","Richmond"," 104A","Richmond",N,N,"",3,305,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 104A","Richmond",N,N,"",3,305,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,49
+59023,"Richmond","Richmond"," 104A","Richmond",N,N,"",3,305,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 104B","Mobile poll/Bureau itinérant",N,N,"501A",0,50,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 104B","Mobile poll/Bureau itinérant",N,N,"501A",0,50,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 104B","Mobile poll/Bureau itinérant",N,N,"501A",0,50,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 104B","Mobile poll/Bureau itinérant",N,N,"501A",0,50,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 105A","Richmond",N,N,"",1,498,"Chan","","Raymond","Liberal","Libéral",Y,Y,105
+59023,"Richmond","Richmond"," 105A","Richmond",N,N,"",1,498,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 105A","Richmond",N,N,"",1,498,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,76
+59023,"Richmond","Richmond"," 105A","Richmond",N,N,"",1,498,"Smith","","Neil","N.D.P.","N.P.D.",N,N,13
+59023,"Richmond","Richmond"," 105B","Richmond",N,N,"",0,494,"Chan","","Raymond","Liberal","Libéral",Y,Y,97
+59023,"Richmond","Richmond"," 105B","Richmond",N,N,"",0,494,"Mathias","","Richard","Green Party","Parti Vert",N,N,7
+59023,"Richmond","Richmond"," 105B","Richmond",N,N,"",0,494,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,84
+59023,"Richmond","Richmond"," 105B","Richmond",N,N,"",0,494,"Smith","","Neil","N.D.P.","N.P.D.",N,N,21
+59023,"Richmond","Richmond"," 106A","Richmond",N,N,"",1,445,"Chan","","Raymond","Liberal","Libéral",Y,Y,88
+59023,"Richmond","Richmond"," 106A","Richmond",N,N,"",1,445,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 106A","Richmond",N,N,"",1,445,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,80
+59023,"Richmond","Richmond"," 106A","Richmond",N,N,"",1,445,"Smith","","Neil","N.D.P.","N.P.D.",N,N,20
+59023,"Richmond","Richmond"," 106B","Richmond",N,N,"",0,395,"Chan","","Raymond","Liberal","Libéral",Y,Y,69
+59023,"Richmond","Richmond"," 106B","Richmond",N,N,"",0,395,"Mathias","","Richard","Green Party","Parti Vert",N,N,8
+59023,"Richmond","Richmond"," 106B","Richmond",N,N,"",0,395,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,85
+59023,"Richmond","Richmond"," 106B","Richmond",N,N,"",0,395,"Smith","","Neil","N.D.P.","N.P.D.",N,N,17
+59023,"Richmond","Richmond"," 107A","Richmond",N,N,"",1,462,"Chan","","Raymond","Liberal","Libéral",Y,Y,90
+59023,"Richmond","Richmond"," 107A","Richmond",N,N,"",1,462,"Mathias","","Richard","Green Party","Parti Vert",N,N,8
+59023,"Richmond","Richmond"," 107A","Richmond",N,N,"",1,462,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,70
+59023,"Richmond","Richmond"," 107A","Richmond",N,N,"",1,462,"Smith","","Neil","N.D.P.","N.P.D.",N,N,21
+59023,"Richmond","Richmond"," 107B","Richmond",N,N,"",4,469,"Chan","","Raymond","Liberal","Libéral",Y,Y,113
+59023,"Richmond","Richmond"," 107B","Richmond",N,N,"",4,469,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 107B","Richmond",N,N,"",4,469,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,97
+59023,"Richmond","Richmond"," 107B","Richmond",N,N,"",4,469,"Smith","","Neil","N.D.P.","N.P.D.",N,N,19
+59023,"Richmond","Richmond"," 108","Richmond",N,N,"",4,666,"Chan","","Raymond","Liberal","Libéral",Y,Y,142
+59023,"Richmond","Richmond"," 108","Richmond",N,N,"",4,666,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 108","Richmond",N,N,"",4,666,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,132
+59023,"Richmond","Richmond"," 108","Richmond",N,N,"",4,666,"Smith","","Neil","N.D.P.","N.P.D.",N,N,21
+59023,"Richmond","Richmond"," 109","Richmond",N,N,"",4,483,"Chan","","Raymond","Liberal","Libéral",Y,Y,136
+59023,"Richmond","Richmond"," 109","Richmond",N,N,"",4,483,"Mathias","","Richard","Green Party","Parti Vert",N,N,17
+59023,"Richmond","Richmond"," 109","Richmond",N,N,"",4,483,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,107
+59023,"Richmond","Richmond"," 109","Richmond",N,N,"",4,483,"Smith","","Neil","N.D.P.","N.P.D.",N,N,21
+59023,"Richmond","Richmond"," 110","Richmond",N,N,"",1,556,"Chan","","Raymond","Liberal","Libéral",Y,Y,143
+59023,"Richmond","Richmond"," 110","Richmond",N,N,"",1,556,"Mathias","","Richard","Green Party","Parti Vert",N,N,6
+59023,"Richmond","Richmond"," 110","Richmond",N,N,"",1,556,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,108
+59023,"Richmond","Richmond"," 110","Richmond",N,N,"",1,556,"Smith","","Neil","N.D.P.","N.P.D.",N,N,22
+59023,"Richmond","Richmond"," 111","Richmond",N,N,"",1,553,"Chan","","Raymond","Liberal","Libéral",Y,Y,175
+59023,"Richmond","Richmond"," 111","Richmond",N,N,"",1,553,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 111","Richmond",N,N,"",1,553,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,112
+59023,"Richmond","Richmond"," 111","Richmond",N,N,"",1,553,"Smith","","Neil","N.D.P.","N.P.D.",N,N,24
+59023,"Richmond","Richmond"," 112","Richmond",N,N,"",0,419,"Chan","","Raymond","Liberal","Libéral",Y,Y,109
+59023,"Richmond","Richmond"," 112","Richmond",N,N,"",0,419,"Mathias","","Richard","Green Party","Parti Vert",N,N,22
+59023,"Richmond","Richmond"," 112","Richmond",N,N,"",0,419,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,94
+59023,"Richmond","Richmond"," 112","Richmond",N,N,"",0,419,"Smith","","Neil","N.D.P.","N.P.D.",N,N,52
+59023,"Richmond","Richmond"," 113","Richmond",N,N,"",0,365,"Chan","","Raymond","Liberal","Libéral",Y,Y,110
+59023,"Richmond","Richmond"," 113","Richmond",N,N,"",0,365,"Mathias","","Richard","Green Party","Parti Vert",N,N,20
+59023,"Richmond","Richmond"," 113","Richmond",N,N,"",0,365,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,71
+59023,"Richmond","Richmond"," 113","Richmond",N,N,"",0,365,"Smith","","Neil","N.D.P.","N.P.D.",N,N,48
+59023,"Richmond","Richmond"," 114","Richmond",N,N,"",2,490,"Chan","","Raymond","Liberal","Libéral",Y,Y,121
+59023,"Richmond","Richmond"," 114","Richmond",N,N,"",2,490,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 114","Richmond",N,N,"",2,490,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,95
+59023,"Richmond","Richmond"," 114","Richmond",N,N,"",2,490,"Smith","","Neil","N.D.P.","N.P.D.",N,N,71
+59023,"Richmond","Richmond"," 115","Richmond",N,N,"",0,417,"Chan","","Raymond","Liberal","Libéral",Y,Y,103
+59023,"Richmond","Richmond"," 115","Richmond",N,N,"",0,417,"Mathias","","Richard","Green Party","Parti Vert",N,N,15
+59023,"Richmond","Richmond"," 115","Richmond",N,N,"",0,417,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,71
+59023,"Richmond","Richmond"," 115","Richmond",N,N,"",0,417,"Smith","","Neil","N.D.P.","N.P.D.",N,N,62
+59023,"Richmond","Richmond"," 116","Richmond",N,N,"",4,380,"Chan","","Raymond","Liberal","Libéral",Y,Y,75
+59023,"Richmond","Richmond"," 116","Richmond",N,N,"",4,380,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 116","Richmond",N,N,"",4,380,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,68
+59023,"Richmond","Richmond"," 116","Richmond",N,N,"",4,380,"Smith","","Neil","N.D.P.","N.P.D.",N,N,54
+59023,"Richmond","Richmond"," 117A","Richmond",N,N,"",2,537,"Chan","","Raymond","Liberal","Libéral",Y,Y,152
+59023,"Richmond","Richmond"," 117A","Richmond",N,N,"",2,537,"Mathias","","Richard","Green Party","Parti Vert",N,N,29
+59023,"Richmond","Richmond"," 117A","Richmond",N,N,"",2,537,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,113
+59023,"Richmond","Richmond"," 117A","Richmond",N,N,"",2,537,"Smith","","Neil","N.D.P.","N.P.D.",N,N,63
+59023,"Richmond","Richmond"," 117B","Richmond",N,N,"123",0,69,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 117B","Richmond",N,N,"123",0,69,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 117B","Richmond",N,N,"123",0,69,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 117B","Richmond",N,N,"123",0,69,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 118","Richmond",N,N,"",0,499,"Chan","","Raymond","Liberal","Libéral",Y,Y,98
+59023,"Richmond","Richmond"," 118","Richmond",N,N,"",0,499,"Mathias","","Richard","Green Party","Parti Vert",N,N,19
+59023,"Richmond","Richmond"," 118","Richmond",N,N,"",0,499,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,104
+59023,"Richmond","Richmond"," 118","Richmond",N,N,"",0,499,"Smith","","Neil","N.D.P.","N.P.D.",N,N,65
+59023,"Richmond","Richmond"," 119","Richmond",N,N,"",2,370,"Chan","","Raymond","Liberal","Libéral",Y,Y,80
+59023,"Richmond","Richmond"," 119","Richmond",N,N,"",2,370,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 119","Richmond",N,N,"",2,370,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,65
+59023,"Richmond","Richmond"," 119","Richmond",N,N,"",2,370,"Smith","","Neil","N.D.P.","N.P.D.",N,N,47
+59023,"Richmond","Richmond"," 120","Richmond",N,N,"",0,381,"Chan","","Raymond","Liberal","Libéral",Y,Y,79
+59023,"Richmond","Richmond"," 120","Richmond",N,N,"",0,381,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 120","Richmond",N,N,"",0,381,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,81
+59023,"Richmond","Richmond"," 120","Richmond",N,N,"",0,381,"Smith","","Neil","N.D.P.","N.P.D.",N,N,52
+59023,"Richmond","Richmond"," 121","Richmond",N,N,"",2,531,"Chan","","Raymond","Liberal","Libéral",Y,Y,96
+59023,"Richmond","Richmond"," 121","Richmond",N,N,"",2,531,"Mathias","","Richard","Green Party","Parti Vert",N,N,19
+59023,"Richmond","Richmond"," 121","Richmond",N,N,"",2,531,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,118
+59023,"Richmond","Richmond"," 121","Richmond",N,N,"",2,531,"Smith","","Neil","N.D.P.","N.P.D.",N,N,47
+59023,"Richmond","Richmond"," 122","Richmond",N,N,"",2,640,"Chan","","Raymond","Liberal","Libéral",Y,Y,138
+59023,"Richmond","Richmond"," 122","Richmond",N,N,"",2,640,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 122","Richmond",N,N,"",2,640,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,116
+59023,"Richmond","Richmond"," 122","Richmond",N,N,"",2,640,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 123","Richmond",N,N,"",0,474,"Chan","","Raymond","Liberal","Libéral",Y,Y,155
+59023,"Richmond","Richmond"," 123","Richmond",N,N,"",0,474,"Mathias","","Richard","Green Party","Parti Vert",N,N,19
+59023,"Richmond","Richmond"," 123","Richmond",N,N,"",0,474,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,84
+59023,"Richmond","Richmond"," 123","Richmond",N,N,"",0,474,"Smith","","Neil","N.D.P.","N.P.D.",N,N,75
+59023,"Richmond","Richmond"," 124","Richmond",N,N,"",0,469,"Chan","","Raymond","Liberal","Libéral",Y,Y,113
+59023,"Richmond","Richmond"," 124","Richmond",N,N,"",0,469,"Mathias","","Richard","Green Party","Parti Vert",N,N,25
+59023,"Richmond","Richmond"," 124","Richmond",N,N,"",0,469,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,103
+59023,"Richmond","Richmond"," 124","Richmond",N,N,"",0,469,"Smith","","Neil","N.D.P.","N.P.D.",N,N,55
+59023,"Richmond","Richmond"," 125","Richmond",N,N,"",1,339,"Chan","","Raymond","Liberal","Libéral",Y,Y,83
+59023,"Richmond","Richmond"," 125","Richmond",N,N,"",1,339,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 125","Richmond",N,N,"",1,339,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,93
+59023,"Richmond","Richmond"," 125","Richmond",N,N,"",1,339,"Smith","","Neil","N.D.P.","N.P.D.",N,N,22
+59023,"Richmond","Richmond"," 126","Richmond",N,N,"",0,623,"Chan","","Raymond","Liberal","Libéral",Y,Y,132
+59023,"Richmond","Richmond"," 126","Richmond",N,N,"",0,623,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 126","Richmond",N,N,"",0,623,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,144
+59023,"Richmond","Richmond"," 126","Richmond",N,N,"",0,623,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 127","Richmond",N,N,"",1,557,"Chan","","Raymond","Liberal","Libéral",Y,Y,156
+59023,"Richmond","Richmond"," 127","Richmond",N,N,"",1,557,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 127","Richmond",N,N,"",1,557,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,119
+59023,"Richmond","Richmond"," 127","Richmond",N,N,"",1,557,"Smith","","Neil","N.D.P.","N.P.D.",N,N,19
+59023,"Richmond","Richmond"," 128","Richmond",N,N,"",0,367,"Chan","","Raymond","Liberal","Libéral",Y,Y,115
+59023,"Richmond","Richmond"," 128","Richmond",N,N,"",0,367,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 128","Richmond",N,N,"",0,367,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,114
+59023,"Richmond","Richmond"," 128","Richmond",N,N,"",0,367,"Smith","","Neil","N.D.P.","N.P.D.",N,N,32
+59023,"Richmond","Richmond"," 129","Richmond",N,N,"",0,282,"Chan","","Raymond","Liberal","Libéral",Y,Y,65
+59023,"Richmond","Richmond"," 129","Richmond",N,N,"",0,282,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 129","Richmond",N,N,"",0,282,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,72
+59023,"Richmond","Richmond"," 129","Richmond",N,N,"",0,282,"Smith","","Neil","N.D.P.","N.P.D.",N,N,9
+59023,"Richmond","Richmond"," 130","Richmond",N,N,"",3,516,"Chan","","Raymond","Liberal","Libéral",Y,Y,114
+59023,"Richmond","Richmond"," 130","Richmond",N,N,"",3,516,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 130","Richmond",N,N,"",3,516,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,128
+59023,"Richmond","Richmond"," 130","Richmond",N,N,"",3,516,"Smith","","Neil","N.D.P.","N.P.D.",N,N,17
+59023,"Richmond","Richmond"," 131A","Richmond",N,N,"",0,545,"Chan","","Raymond","Liberal","Libéral",Y,Y,145
+59023,"Richmond","Richmond"," 131A","Richmond",N,N,"",0,545,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 131A","Richmond",N,N,"",0,545,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,132
+59023,"Richmond","Richmond"," 131A","Richmond",N,N,"",0,545,"Smith","","Neil","N.D.P.","N.P.D.",N,N,28
+59023,"Richmond","Richmond"," 131B","Richmond",N,N,"128",0,121,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 131B","Richmond",N,N,"128",0,121,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 131B","Richmond",N,N,"128",0,121,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 131B","Richmond",N,N,"128",0,121,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 132","Richmond",N,N,"",2,567,"Chan","","Raymond","Liberal","Libéral",Y,Y,150
+59023,"Richmond","Richmond"," 132","Richmond",N,N,"",2,567,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 132","Richmond",N,N,"",2,567,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,103
+59023,"Richmond","Richmond"," 132","Richmond",N,N,"",2,567,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 133","Richmond",N,N,"",0,597,"Chan","","Raymond","Liberal","Libéral",Y,Y,124
+59023,"Richmond","Richmond"," 133","Richmond",N,N,"",0,597,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 133","Richmond",N,N,"",0,597,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,106
+59023,"Richmond","Richmond"," 133","Richmond",N,N,"",0,597,"Smith","","Neil","N.D.P.","N.P.D.",N,N,33
+59023,"Richmond","Richmond"," 134","Richmond",N,N,"",0,588,"Chan","","Raymond","Liberal","Libéral",Y,Y,102
+59023,"Richmond","Richmond"," 134","Richmond",N,N,"",0,588,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 134","Richmond",N,N,"",0,588,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,105
+59023,"Richmond","Richmond"," 134","Richmond",N,N,"",0,588,"Smith","","Neil","N.D.P.","N.P.D.",N,N,23
+59023,"Richmond","Richmond"," 135","Richmond",N,N,"",1,469,"Chan","","Raymond","Liberal","Libéral",Y,Y,120
+59023,"Richmond","Richmond"," 135","Richmond",N,N,"",1,469,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 135","Richmond",N,N,"",1,469,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,91
+59023,"Richmond","Richmond"," 135","Richmond",N,N,"",1,469,"Smith","","Neil","N.D.P.","N.P.D.",N,N,30
+59023,"Richmond","Richmond"," 136","Richmond",N,N,"",1,570,"Chan","","Raymond","Liberal","Libéral",Y,Y,122
+59023,"Richmond","Richmond"," 136","Richmond",N,N,"",1,570,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 136","Richmond",N,N,"",1,570,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,99
+59023,"Richmond","Richmond"," 136","Richmond",N,N,"",1,570,"Smith","","Neil","N.D.P.","N.P.D.",N,N,32
+59023,"Richmond","Richmond"," 137","Richmond",N,N,"",2,582,"Chan","","Raymond","Liberal","Libéral",Y,Y,129
+59023,"Richmond","Richmond"," 137","Richmond",N,N,"",2,582,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 137","Richmond",N,N,"",2,582,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,108
+59023,"Richmond","Richmond"," 137","Richmond",N,N,"",2,582,"Smith","","Neil","N.D.P.","N.P.D.",N,N,20
+59023,"Richmond","Richmond"," 138","Richmond",N,N,"",2,541,"Chan","","Raymond","Liberal","Libéral",Y,Y,119
+59023,"Richmond","Richmond"," 138","Richmond",N,N,"",2,541,"Mathias","","Richard","Green Party","Parti Vert",N,N,15
+59023,"Richmond","Richmond"," 138","Richmond",N,N,"",2,541,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,99
+59023,"Richmond","Richmond"," 138","Richmond",N,N,"",2,541,"Smith","","Neil","N.D.P.","N.P.D.",N,N,35
+59023,"Richmond","Richmond"," 139","Richmond",N,N,"",1,465,"Chan","","Raymond","Liberal","Libéral",Y,Y,122
+59023,"Richmond","Richmond"," 139","Richmond",N,N,"",1,465,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 139","Richmond",N,N,"",1,465,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,122
+59023,"Richmond","Richmond"," 139","Richmond",N,N,"",1,465,"Smith","","Neil","N.D.P.","N.P.D.",N,N,60
+59023,"Richmond","Richmond"," 140","Richmond",N,N,"",1,386,"Chan","","Raymond","Liberal","Libéral",Y,Y,117
+59023,"Richmond","Richmond"," 140","Richmond",N,N,"",1,386,"Mathias","","Richard","Green Party","Parti Vert",N,N,24
+59023,"Richmond","Richmond"," 140","Richmond",N,N,"",1,386,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,99
+59023,"Richmond","Richmond"," 140","Richmond",N,N,"",1,386,"Smith","","Neil","N.D.P.","N.P.D.",N,N,80
+59023,"Richmond","Richmond"," 141A","Richmond",N,N,"",0,510,"Chan","","Raymond","Liberal","Libéral",Y,Y,127
+59023,"Richmond","Richmond"," 141A","Richmond",N,N,"",0,510,"Mathias","","Richard","Green Party","Parti Vert",N,N,21
+59023,"Richmond","Richmond"," 141A","Richmond",N,N,"",0,510,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,104
+59023,"Richmond","Richmond"," 141A","Richmond",N,N,"",0,510,"Smith","","Neil","N.D.P.","N.P.D.",N,N,69
+59023,"Richmond","Richmond"," 141B","Richmond",N,N,"140",0,92,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 141B","Richmond",N,N,"140",0,92,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 141B","Richmond",N,N,"140",0,92,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 141B","Richmond",N,N,"140",0,92,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 142","Richmond",N,N,"",1,509,"Chan","","Raymond","Liberal","Libéral",Y,Y,128
+59023,"Richmond","Richmond"," 142","Richmond",N,N,"",1,509,"Mathias","","Richard","Green Party","Parti Vert",N,N,15
+59023,"Richmond","Richmond"," 142","Richmond",N,N,"",1,509,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,76
+59023,"Richmond","Richmond"," 142","Richmond",N,N,"",1,509,"Smith","","Neil","N.D.P.","N.P.D.",N,N,59
+59023,"Richmond","Richmond"," 143","Richmond",N,N,"",1,559,"Chan","","Raymond","Liberal","Libéral",Y,Y,119
+59023,"Richmond","Richmond"," 143","Richmond",N,N,"",1,559,"Mathias","","Richard","Green Party","Parti Vert",N,N,16
+59023,"Richmond","Richmond"," 143","Richmond",N,N,"",1,559,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,148
+59023,"Richmond","Richmond"," 143","Richmond",N,N,"",1,559,"Smith","","Neil","N.D.P.","N.P.D.",N,N,36
+59023,"Richmond","Richmond"," 144","Richmond",N,N,"",0,436,"Chan","","Raymond","Liberal","Libéral",Y,Y,132
+59023,"Richmond","Richmond"," 144","Richmond",N,N,"",0,436,"Mathias","","Richard","Green Party","Parti Vert",N,N,17
+59023,"Richmond","Richmond"," 144","Richmond",N,N,"",0,436,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,125
+59023,"Richmond","Richmond"," 144","Richmond",N,N,"",0,436,"Smith","","Neil","N.D.P.","N.P.D.",N,N,53
+59023,"Richmond","Richmond"," 145","Richmond",N,N,"",1,455,"Chan","","Raymond","Liberal","Libéral",Y,Y,110
+59023,"Richmond","Richmond"," 145","Richmond",N,N,"",1,455,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 145","Richmond",N,N,"",1,455,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,82
+59023,"Richmond","Richmond"," 145","Richmond",N,N,"",1,455,"Smith","","Neil","N.D.P.","N.P.D.",N,N,53
+59023,"Richmond","Richmond"," 146","Richmond",N,N,"",1,560,"Chan","","Raymond","Liberal","Libéral",Y,Y,165
+59023,"Richmond","Richmond"," 146","Richmond",N,N,"",1,560,"Mathias","","Richard","Green Party","Parti Vert",N,N,17
+59023,"Richmond","Richmond"," 146","Richmond",N,N,"",1,560,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,98
+59023,"Richmond","Richmond"," 146","Richmond",N,N,"",1,560,"Smith","","Neil","N.D.P.","N.P.D.",N,N,40
+59023,"Richmond","Richmond"," 147A","Richmond",N,N,"",1,531,"Chan","","Raymond","Liberal","Libéral",Y,Y,122
+59023,"Richmond","Richmond"," 147A","Richmond",N,N,"",1,531,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 147A","Richmond",N,N,"",1,531,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,124
+59023,"Richmond","Richmond"," 147A","Richmond",N,N,"",1,531,"Smith","","Neil","N.D.P.","N.P.D.",N,N,41
+59023,"Richmond","Richmond"," 147B","Richmond",N,N,"144",0,106,"Chan","","Raymond","Liberal","Libéral",Y,Y,0
+59023,"Richmond","Richmond"," 147B","Richmond",N,N,"144",0,106,"Mathias","","Richard","Green Party","Parti Vert",N,N,0
+59023,"Richmond","Richmond"," 147B","Richmond",N,N,"144",0,106,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,0
+59023,"Richmond","Richmond"," 147B","Richmond",N,N,"144",0,106,"Smith","","Neil","N.D.P.","N.P.D.",N,N,0
+59023,"Richmond","Richmond"," 148","Richmond",N,N,"",1,434,"Chan","","Raymond","Liberal","Libéral",Y,Y,127
+59023,"Richmond","Richmond"," 148","Richmond",N,N,"",1,434,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," 148","Richmond",N,N,"",1,434,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,74
+59023,"Richmond","Richmond"," 148","Richmond",N,N,"",1,434,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 149","Richmond",N,N,"",0,541,"Chan","","Raymond","Liberal","Libéral",Y,Y,139
+59023,"Richmond","Richmond"," 149","Richmond",N,N,"",0,541,"Mathias","","Richard","Green Party","Parti Vert",N,N,18
+59023,"Richmond","Richmond"," 149","Richmond",N,N,"",0,541,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,118
+59023,"Richmond","Richmond"," 149","Richmond",N,N,"",0,541,"Smith","","Neil","N.D.P.","N.P.D.",N,N,32
+59023,"Richmond","Richmond"," 150","Richmond",N,N,"",2,530,"Chan","","Raymond","Liberal","Libéral",Y,Y,130
+59023,"Richmond","Richmond"," 150","Richmond",N,N,"",2,530,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 150","Richmond",N,N,"",2,530,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,115
+59023,"Richmond","Richmond"," 150","Richmond",N,N,"",2,530,"Smith","","Neil","N.D.P.","N.P.D.",N,N,35
+59023,"Richmond","Richmond"," 151","Richmond",N,N,"",0,453,"Chan","","Raymond","Liberal","Libéral",Y,Y,104
+59023,"Richmond","Richmond"," 151","Richmond",N,N,"",0,453,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 151","Richmond",N,N,"",0,453,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,87
+59023,"Richmond","Richmond"," 151","Richmond",N,N,"",0,453,"Smith","","Neil","N.D.P.","N.P.D.",N,N,28
+59023,"Richmond","Richmond"," 152","Richmond",N,N,"",0,542,"Chan","","Raymond","Liberal","Libéral",Y,Y,147
+59023,"Richmond","Richmond"," 152","Richmond",N,N,"",0,542,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 152","Richmond",N,N,"",0,542,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,96
+59023,"Richmond","Richmond"," 152","Richmond",N,N,"",0,542,"Smith","","Neil","N.D.P.","N.P.D.",N,N,53
+59023,"Richmond","Richmond"," 153","Richmond",N,N,"",0,431,"Chan","","Raymond","Liberal","Libéral",Y,Y,86
+59023,"Richmond","Richmond"," 153","Richmond",N,N,"",0,431,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 153","Richmond",N,N,"",0,431,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,88
+59023,"Richmond","Richmond"," 153","Richmond",N,N,"",0,431,"Smith","","Neil","N.D.P.","N.P.D.",N,N,30
+59023,"Richmond","Richmond"," 154","Richmond",N,N,"",0,475,"Chan","","Raymond","Liberal","Libéral",Y,Y,100
+59023,"Richmond","Richmond"," 154","Richmond",N,N,"",0,475,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 154","Richmond",N,N,"",0,475,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,89
+59023,"Richmond","Richmond"," 154","Richmond",N,N,"",0,475,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 155","Richmond",N,N,"",1,373,"Chan","","Raymond","Liberal","Libéral",Y,Y,87
+59023,"Richmond","Richmond"," 155","Richmond",N,N,"",1,373,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 155","Richmond",N,N,"",1,373,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,96
+59023,"Richmond","Richmond"," 155","Richmond",N,N,"",1,373,"Smith","","Neil","N.D.P.","N.P.D.",N,N,22
+59023,"Richmond","Richmond"," 156","Richmond",N,N,"",0,481,"Chan","","Raymond","Liberal","Libéral",Y,Y,125
+59023,"Richmond","Richmond"," 156","Richmond",N,N,"",0,481,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 156","Richmond",N,N,"",0,481,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,93
+59023,"Richmond","Richmond"," 156","Richmond",N,N,"",0,481,"Smith","","Neil","N.D.P.","N.P.D.",N,N,36
+59023,"Richmond","Richmond"," 157","Richmond",N,N,"",1,374,"Chan","","Raymond","Liberal","Libéral",Y,Y,89
+59023,"Richmond","Richmond"," 157","Richmond",N,N,"",1,374,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 157","Richmond",N,N,"",1,374,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,91
+59023,"Richmond","Richmond"," 157","Richmond",N,N,"",1,374,"Smith","","Neil","N.D.P.","N.P.D.",N,N,19
+59023,"Richmond","Richmond"," 158","Richmond",N,N,"",0,380,"Chan","","Raymond","Liberal","Libéral",Y,Y,110
+59023,"Richmond","Richmond"," 158","Richmond",N,N,"",0,380,"Mathias","","Richard","Green Party","Parti Vert",N,N,11
+59023,"Richmond","Richmond"," 158","Richmond",N,N,"",0,380,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,80
+59023,"Richmond","Richmond"," 158","Richmond",N,N,"",0,380,"Smith","","Neil","N.D.P.","N.P.D.",N,N,36
+59023,"Richmond","Richmond"," 159","Richmond",N,N,"",0,358,"Chan","","Raymond","Liberal","Libéral",Y,Y,86
+59023,"Richmond","Richmond"," 159","Richmond",N,N,"",0,358,"Mathias","","Richard","Green Party","Parti Vert",N,N,12
+59023,"Richmond","Richmond"," 159","Richmond",N,N,"",0,358,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,82
+59023,"Richmond","Richmond"," 159","Richmond",N,N,"",0,358,"Smith","","Neil","N.D.P.","N.P.D.",N,N,13
+59023,"Richmond","Richmond"," 160","Richmond",N,N,"",1,305,"Chan","","Raymond","Liberal","Libéral",Y,Y,68
+59023,"Richmond","Richmond"," 160","Richmond",N,N,"",1,305,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 160","Richmond",N,N,"",1,305,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,58
+59023,"Richmond","Richmond"," 160","Richmond",N,N,"",1,305,"Smith","","Neil","N.D.P.","N.P.D.",N,N,34
+59023,"Richmond","Richmond"," 500","Mobile poll/Bureau itinérant",N,N,"",1,290,"Chan","","Raymond","Liberal","Libéral",Y,Y,73
+59023,"Richmond","Richmond"," 500","Mobile poll/Bureau itinérant",N,N,"",1,290,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 500","Mobile poll/Bureau itinérant",N,N,"",1,290,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,57
+59023,"Richmond","Richmond"," 500","Mobile poll/Bureau itinérant",N,N,"",1,290,"Smith","","Neil","N.D.P.","N.P.D.",N,N,29
+59023,"Richmond","Richmond"," 501A","Mobile poll/Bureau itinérant",N,N,"",2,118,"Chan","","Raymond","Liberal","Libéral",Y,Y,31
+59023,"Richmond","Richmond"," 501A","Mobile poll/Bureau itinérant",N,N,"",2,118,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 501A","Mobile poll/Bureau itinérant",N,N,"",2,118,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,22
+59023,"Richmond","Richmond"," 501A","Mobile poll/Bureau itinérant",N,N,"",2,118,"Smith","","Neil","N.D.P.","N.P.D.",N,N,11
+59023,"Richmond","Richmond"," 501B","Mobile poll/Bureau itinérant",N,N,"",3,151,"Chan","","Raymond","Liberal","Libéral",Y,Y,34
+59023,"Richmond","Richmond"," 501B","Mobile poll/Bureau itinérant",N,N,"",3,151,"Mathias","","Richard","Green Party","Parti Vert",N,N,5
+59023,"Richmond","Richmond"," 501B","Mobile poll/Bureau itinérant",N,N,"",3,151,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,34
+59023,"Richmond","Richmond"," 501B","Mobile poll/Bureau itinérant",N,N,"",3,151,"Smith","","Neil","N.D.P.","N.P.D.",N,N,17
+59023,"Richmond","Richmond"," 600","Richmond",N,N,"",1,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,166
+59023,"Richmond","Richmond"," 600","Richmond",N,N,"",1,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,9
+59023,"Richmond","Richmond"," 600","Richmond",N,N,"",1,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,273
+59023,"Richmond","Richmond"," 600","Richmond",N,N,"",1,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,38
+59023,"Richmond","Richmond"," 601","Richmond",N,N,"",0,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,194
+59023,"Richmond","Richmond"," 601","Richmond",N,N,"",0,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,14
+59023,"Richmond","Richmond"," 601","Richmond",N,N,"",0,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,252
+59023,"Richmond","Richmond"," 601","Richmond",N,N,"",0,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,51
+59023,"Richmond","Richmond"," 602","Richmond",N,N,"",2,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,245
+59023,"Richmond","Richmond"," 602","Richmond",N,N,"",2,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,24
+59023,"Richmond","Richmond"," 602","Richmond",N,N,"",2,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,342
+59023,"Richmond","Richmond"," 602","Richmond",N,N,"",2,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,59
+59023,"Richmond","Richmond"," 603","Richmond",N,N,"",0,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,194
+59023,"Richmond","Richmond"," 603","Richmond",N,N,"",0,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,25
+59023,"Richmond","Richmond"," 603","Richmond",N,N,"",0,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,227
+59023,"Richmond","Richmond"," 603","Richmond",N,N,"",0,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,70
+59023,"Richmond","Richmond"," 604","Richmond",N,N,"",1,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,180
+59023,"Richmond","Richmond"," 604","Richmond",N,N,"",1,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,24
+59023,"Richmond","Richmond"," 604","Richmond",N,N,"",1,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,277
+59023,"Richmond","Richmond"," 604","Richmond",N,N,"",1,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,28
+59023,"Richmond","Richmond"," 605","Richmond",N,N,"",7,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,246
+59023,"Richmond","Richmond"," 605","Richmond",N,N,"",7,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,13
+59023,"Richmond","Richmond"," 605","Richmond",N,N,"",7,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,370
+59023,"Richmond","Richmond"," 605","Richmond",N,N,"",7,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,46
+59023,"Richmond","Richmond"," 606","Richmond",N,N,"",0,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,182
+59023,"Richmond","Richmond"," 606","Richmond",N,N,"",0,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,10
+59023,"Richmond","Richmond"," 606","Richmond",N,N,"",0,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,202
+59023,"Richmond","Richmond"," 606","Richmond",N,N,"",0,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,37
+59023,"Richmond","Richmond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,101,"Chan","","Raymond","Liberal","Libéral",Y,Y,23
+59023,"Richmond","Richmond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,101,"Mathias","","Richard","Green Party","Parti Vert",N,N,4
+59023,"Richmond","Richmond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,101,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,24
+59023,"Richmond","Richmond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,101,"Smith","","Neil","N.D.P.","N.P.D.",N,N,6
+59023,"Richmond","Richmond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Chan","","Raymond","Liberal","Libéral",Y,Y,357
+59023,"Richmond","Richmond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Mathias","","Richard","Green Party","Parti Vert",N,N,37
+59023,"Richmond","Richmond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Reid","","Darrel Robert","Conservative","Conservateur",N,N,417
+59023,"Richmond","Richmond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Smith","","Neil","N.D.P.","N.P.D.",N,N,87

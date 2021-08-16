@@ -1,0 +1,765 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 1","St. John's",N,N,"",0,512,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,94
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 1","St. John's",N,N,"",0,512,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 1","St. John's",N,N,"",0,512,"McLean","","Jackson","Green Party","Parti Vert",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 1","St. John's",N,N,"",0,512,"O'Regan","","Seamus","Liberal","Libéral",N,Y,92
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 2","St. John's",N,N,"",0,435,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,120
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 2","St. John's",N,N,"",0,435,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 2","St. John's",N,N,"",0,435,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 2","St. John's",N,N,"",0,435,"O'Regan","","Seamus","Liberal","Libéral",N,Y,93
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 3","St. John's",N,N,"",4,420,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 3","St. John's",N,N,"",4,420,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 3","St. John's",N,N,"",4,420,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 3","St. John's",N,N,"",4,420,"O'Regan","","Seamus","Liberal","Libéral",N,Y,105
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 4","St. John's",N,N,"",0,341,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 4","St. John's",N,N,"",0,341,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 4","St. John's",N,N,"",0,341,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 4","St. John's",N,N,"",0,341,"O'Regan","","Seamus","Liberal","Libéral",N,Y,103
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 5","St. John's",N,N,"",0,336,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 5","St. John's",N,N,"",0,336,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 5","St. John's",N,N,"",0,336,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 5","St. John's",N,N,"",0,336,"O'Regan","","Seamus","Liberal","Libéral",N,Y,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 6","St. John's",N,N,"",0,380,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 6","St. John's",N,N,"",0,380,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 6","St. John's",N,N,"",0,380,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 6","St. John's",N,N,"",0,380,"O'Regan","","Seamus","Liberal","Libéral",N,Y,102
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 7","St. John's",N,N,"",2,406,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,95
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 7","St. John's",N,N,"",2,406,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 7","St. John's",N,N,"",2,406,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 7","St. John's",N,N,"",2,406,"O'Regan","","Seamus","Liberal","Libéral",N,Y,98
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 8","St. John's",N,N,"",0,368,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 8","St. John's",N,N,"",0,368,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 8","St. John's",N,N,"",0,368,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 8","St. John's",N,N,"",0,368,"O'Regan","","Seamus","Liberal","Libéral",N,Y,112
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 9","St. John's",N,N,"",2,441,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,109
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 9","St. John's",N,N,"",2,441,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 9","St. John's",N,N,"",2,441,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 9","St. John's",N,N,"",2,441,"O'Regan","","Seamus","Liberal","Libéral",N,Y,134
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 10","St. John's",N,N,"",0,399,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 10","St. John's",N,N,"",0,399,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 10","St. John's",N,N,"",0,399,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 10","St. John's",N,N,"",0,399,"O'Regan","","Seamus","Liberal","Libéral",N,Y,98
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 11","St. John's",N,N,"",1,429,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,93
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 11","St. John's",N,N,"",1,429,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 11","St. John's",N,N,"",1,429,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 11","St. John's",N,N,"",1,429,"O'Regan","","Seamus","Liberal","Libéral",N,Y,103
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 12","St. John's",N,N,"",0,423,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 12","St. John's",N,N,"",0,423,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 12","St. John's",N,N,"",0,423,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 12","St. John's",N,N,"",0,423,"O'Regan","","Seamus","Liberal","Libéral",N,Y,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 13","St. John's",N,N,"",3,357,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 13","St. John's",N,N,"",3,357,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 13","St. John's",N,N,"",3,357,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 13","St. John's",N,N,"",3,357,"O'Regan","","Seamus","Liberal","Libéral",N,Y,64
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 14","St. John's",N,N,"",0,373,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,103
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 14","St. John's",N,N,"",0,373,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 14","St. John's",N,N,"",0,373,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 14","St. John's",N,N,"",0,373,"O'Regan","","Seamus","Liberal","Libéral",N,Y,104
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 15","St. John's",N,N,"",0,395,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 15","St. John's",N,N,"",0,395,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 15","St. John's",N,N,"",0,395,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 15","St. John's",N,N,"",0,395,"O'Regan","","Seamus","Liberal","Libéral",N,Y,77
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 16","St. John's",N,N,"",0,377,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,67
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 16","St. John's",N,N,"",0,377,"Krol","","Marek","Conservative","Conservateur",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 16","St. John's",N,N,"",0,377,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 16","St. John's",N,N,"",0,377,"O'Regan","","Seamus","Liberal","Libéral",N,Y,91
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 17","St. John's",N,N,"",0,367,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,91
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 17","St. John's",N,N,"",0,367,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 17","St. John's",N,N,"",0,367,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 17","St. John's",N,N,"",0,367,"O'Regan","","Seamus","Liberal","Libéral",N,Y,71
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 18","St. John's",N,N,"",0,179,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 18","St. John's",N,N,"",0,179,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 18","St. John's",N,N,"",0,179,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 18","St. John's",N,N,"",0,179,"O'Regan","","Seamus","Liberal","Libéral",N,Y,44
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 19","St. John's",N,N,"",0,420,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 19","St. John's",N,N,"",0,420,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 19","St. John's",N,N,"",0,420,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 19","St. John's",N,N,"",0,420,"O'Regan","","Seamus","Liberal","Libéral",N,Y,105
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 20","St. John's",N,N,"",2,321,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 20","St. John's",N,N,"",2,321,"Krol","","Marek","Conservative","Conservateur",N,N,17
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 20","St. John's",N,N,"",2,321,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 20","St. John's",N,N,"",2,321,"O'Regan","","Seamus","Liberal","Libéral",N,Y,67
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 21","St. John's",N,N,"",1,391,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,76
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 21","St. John's",N,N,"",1,391,"Krol","","Marek","Conservative","Conservateur",N,N,13
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 21","St. John's",N,N,"",1,391,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 21","St. John's",N,N,"",1,391,"O'Regan","","Seamus","Liberal","Libéral",N,Y,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 22","St. John's",N,N,"",0,502,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,128
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 22","St. John's",N,N,"",0,502,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 22","St. John's",N,N,"",0,502,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 22","St. John's",N,N,"",0,502,"O'Regan","","Seamus","Liberal","Libéral",N,Y,124
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 23","St. John's",N,N,"",0,365,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 23","St. John's",N,N,"",0,365,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 23","St. John's",N,N,"",0,365,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 23","St. John's",N,N,"",0,365,"O'Regan","","Seamus","Liberal","Libéral",N,Y,70
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 24","St. John's",N,N,"",0,450,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 24","St. John's",N,N,"",0,450,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 24","St. John's",N,N,"",0,450,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 24","St. John's",N,N,"",0,450,"O'Regan","","Seamus","Liberal","Libéral",N,Y,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 25","St. John's",N,N,"",0,492,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 25","St. John's",N,N,"",0,492,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 25","St. John's",N,N,"",0,492,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 25","St. John's",N,N,"",0,492,"O'Regan","","Seamus","Liberal","Libéral",N,Y,113
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26A","St. John's",N,N,"",0,455,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26A","St. John's",N,N,"",0,455,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26A","St. John's",N,N,"",0,455,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26A","St. John's",N,N,"",0,455,"O'Regan","","Seamus","Liberal","Libéral",N,Y,105
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26B","Mobile poll/Bureau itinérant",N,N,"500",0,23,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26B","Mobile poll/Bureau itinérant",N,N,"500",0,23,"Krol","","Marek","Conservative","Conservateur",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26B","Mobile poll/Bureau itinérant",N,N,"500",0,23,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 26B","Mobile poll/Bureau itinérant",N,N,"500",0,23,"O'Regan","","Seamus","Liberal","Libéral",N,Y,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 27","St. John's",N,N,"",0,452,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 27","St. John's",N,N,"",0,452,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 27","St. John's",N,N,"",0,452,"McLean","","Jackson","Green Party","Parti Vert",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 27","St. John's",N,N,"",0,452,"O'Regan","","Seamus","Liberal","Libéral",N,Y,114
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 28","St. John's",N,N,"",0,331,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 28","St. John's",N,N,"",0,331,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 28","St. John's",N,N,"",0,331,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 28","St. John's",N,N,"",0,331,"O'Regan","","Seamus","Liberal","Libéral",N,Y,70
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 29","St. John's",N,N,"",0,321,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 29","St. John's",N,N,"",0,321,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 29","St. John's",N,N,"",0,321,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 29","St. John's",N,N,"",0,321,"O'Regan","","Seamus","Liberal","Libéral",N,Y,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 30","St. John's",N,N,"",0,348,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 30","St. John's",N,N,"",0,348,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 30","St. John's",N,N,"",0,348,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 30","St. John's",N,N,"",0,348,"O'Regan","","Seamus","Liberal","Libéral",N,Y,80
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 31","St. John's",N,N,"",0,463,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,87
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 31","St. John's",N,N,"",0,463,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 31","St. John's",N,N,"",0,463,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 31","St. John's",N,N,"",0,463,"O'Regan","","Seamus","Liberal","Libéral",N,Y,153
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 32","St. John's",N,N,"",1,423,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 32","St. John's",N,N,"",1,423,"Krol","","Marek","Conservative","Conservateur",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 32","St. John's",N,N,"",1,423,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 32","St. John's",N,N,"",1,423,"O'Regan","","Seamus","Liberal","Libéral",N,Y,72
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 33","St. John's",N,N,"",1,421,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 33","St. John's",N,N,"",1,421,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 33","St. John's",N,N,"",1,421,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 33","St. John's",N,N,"",1,421,"O'Regan","","Seamus","Liberal","Libéral",N,Y,112
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 34","St. John's",N,N,"",0,574,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 34","St. John's",N,N,"",0,574,"Krol","","Marek","Conservative","Conservateur",N,N,15
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 34","St. John's",N,N,"",0,574,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 34","St. John's",N,N,"",0,574,"O'Regan","","Seamus","Liberal","Libéral",N,Y,154
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 35","St. John's",N,N,"",0,423,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,103
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 35","St. John's",N,N,"",0,423,"Krol","","Marek","Conservative","Conservateur",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 35","St. John's",N,N,"",0,423,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 35","St. John's",N,N,"",0,423,"O'Regan","","Seamus","Liberal","Libéral",N,Y,140
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 36","St. John's",N,N,"",1,463,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 36","St. John's",N,N,"",1,463,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 36","St. John's",N,N,"",1,463,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 36","St. John's",N,N,"",1,463,"O'Regan","","Seamus","Liberal","Libéral",N,Y,118
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 37","St. John's",N,N,"",1,442,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 37","St. John's",N,N,"",1,442,"Krol","","Marek","Conservative","Conservateur",N,N,15
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 37","St. John's",N,N,"",1,442,"McLean","","Jackson","Green Party","Parti Vert",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 37","St. John's",N,N,"",1,442,"O'Regan","","Seamus","Liberal","Libéral",N,Y,173
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 38","St. John's",N,N,"",0,316,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 38","St. John's",N,N,"",0,316,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 38","St. John's",N,N,"",0,316,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 38","St. John's",N,N,"",0,316,"O'Regan","","Seamus","Liberal","Libéral",N,Y,125
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 39","St. John's",N,N,"",0,440,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 39","St. John's",N,N,"",0,440,"Krol","","Marek","Conservative","Conservateur",N,N,13
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 39","St. John's",N,N,"",0,440,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 39","St. John's",N,N,"",0,440,"O'Regan","","Seamus","Liberal","Libéral",N,Y,143
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 40","St. John's",N,N,"",1,405,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,99
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 40","St. John's",N,N,"",1,405,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 40","St. John's",N,N,"",1,405,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 40","St. John's",N,N,"",1,405,"O'Regan","","Seamus","Liberal","Libéral",N,Y,131
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 41","St. John's",N,N,"",0,334,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,67
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 41","St. John's",N,N,"",0,334,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 41","St. John's",N,N,"",0,334,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 41","St. John's",N,N,"",0,334,"O'Regan","","Seamus","Liberal","Libéral",N,Y,94
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 42","St. John's",N,N,"",0,426,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,99
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 42","St. John's",N,N,"",0,426,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 42","St. John's",N,N,"",0,426,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 42","St. John's",N,N,"",0,426,"O'Regan","","Seamus","Liberal","Libéral",N,Y,120
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 43","St. John's",N,N,"",0,329,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,81
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 43","St. John's",N,N,"",0,329,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 43","St. John's",N,N,"",0,329,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 43","St. John's",N,N,"",0,329,"O'Regan","","Seamus","Liberal","Libéral",N,Y,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 44","St. John's",N,N,"",4,502,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 44","St. John's",N,N,"",4,502,"Krol","","Marek","Conservative","Conservateur",N,N,17
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 44","St. John's",N,N,"",4,502,"McLean","","Jackson","Green Party","Parti Vert",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 44","St. John's",N,N,"",4,502,"O'Regan","","Seamus","Liberal","Libéral",N,Y,232
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 45","St. John's",N,N,"",2,388,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,71
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 45","St. John's",N,N,"",2,388,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 45","St. John's",N,N,"",2,388,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 45","St. John's",N,N,"",2,388,"O'Regan","","Seamus","Liberal","Libéral",N,Y,146
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 46","St. John's",N,N,"",2,415,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,74
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 46","St. John's",N,N,"",2,415,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 46","St. John's",N,N,"",2,415,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 46","St. John's",N,N,"",2,415,"O'Regan","","Seamus","Liberal","Libéral",N,Y,118
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 47","St. John's",N,N,"",0,311,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 47","St. John's",N,N,"",0,311,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 47","St. John's",N,N,"",0,311,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 47","St. John's",N,N,"",0,311,"O'Regan","","Seamus","Liberal","Libéral",N,Y,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 48","St. John's",N,N,"",1,349,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 48","St. John's",N,N,"",1,349,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 48","St. John's",N,N,"",1,349,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 48","St. John's",N,N,"",1,349,"O'Regan","","Seamus","Liberal","Libéral",N,Y,104
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 49","St. John's",N,N,"",0,308,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 49","St. John's",N,N,"",0,308,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 49","St. John's",N,N,"",0,308,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 49","St. John's",N,N,"",0,308,"O'Regan","","Seamus","Liberal","Libéral",N,Y,126
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 50","St. John's",N,N,"",0,392,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 50","St. John's",N,N,"",0,392,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 50","St. John's",N,N,"",0,392,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 50","St. John's",N,N,"",0,392,"O'Regan","","Seamus","Liberal","Libéral",N,Y,148
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51A","St. John's",N,N,"",0,286,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51A","St. John's",N,N,"",0,286,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51A","St. John's",N,N,"",0,286,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51A","St. John's",N,N,"",0,286,"O'Regan","","Seamus","Liberal","Libéral",N,Y,111
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51B","St. John's",N,N,"",0,291,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51B","St. John's",N,N,"",0,291,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51B","St. John's",N,N,"",0,291,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 51B","St. John's",N,N,"",0,291,"O'Regan","","Seamus","Liberal","Libéral",N,Y,104
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 52","Mount Pearl",N,N,"",0,421,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 52","Mount Pearl",N,N,"",0,421,"Krol","","Marek","Conservative","Conservateur",N,N,14
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 52","Mount Pearl",N,N,"",0,421,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 52","Mount Pearl",N,N,"",0,421,"O'Regan","","Seamus","Liberal","Libéral",N,Y,142
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 53","St. John's",N,N,"",0,399,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 53","St. John's",N,N,"",0,399,"Krol","","Marek","Conservative","Conservateur",N,N,17
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 53","St. John's",N,N,"",0,399,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 53","St. John's",N,N,"",0,399,"O'Regan","","Seamus","Liberal","Libéral",N,Y,159
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54A","St. John's",N,N,"",2,364,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54A","St. John's",N,N,"",2,364,"Krol","","Marek","Conservative","Conservateur",N,N,19
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54A","St. John's",N,N,"",2,364,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54A","St. John's",N,N,"",2,364,"O'Regan","","Seamus","Liberal","Libéral",N,Y,130
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54B","St. John's",N,N,"58",0,8,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54B","St. John's",N,N,"58",0,8,"Krol","","Marek","Conservative","Conservateur",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54B","St. John's",N,N,"58",0,8,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 54B","St. John's",N,N,"58",0,8,"O'Regan","","Seamus","Liberal","Libéral",N,Y,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 55","St. John's",N,N,"",0,306,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 55","St. John's",N,N,"",0,306,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 55","St. John's",N,N,"",0,306,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 55","St. John's",N,N,"",0,306,"O'Regan","","Seamus","Liberal","Libéral",N,Y,112
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 56","St. John's",N,N,"",2,411,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,93
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 56","St. John's",N,N,"",2,411,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 56","St. John's",N,N,"",2,411,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 56","St. John's",N,N,"",2,411,"O'Regan","","Seamus","Liberal","Libéral",N,Y,132
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 57","St. John's",N,N,"",0,445,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,92
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 57","St. John's",N,N,"",0,445,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 57","St. John's",N,N,"",0,445,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 57","St. John's",N,N,"",0,445,"O'Regan","","Seamus","Liberal","Libéral",N,Y,134
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 58","St. John's",N,N,"",1,341,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 58","St. John's",N,N,"",1,341,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 58","St. John's",N,N,"",1,341,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 58","St. John's",N,N,"",1,341,"O'Regan","","Seamus","Liberal","Libéral",N,Y,132
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 59","Petty Harbour-Maddox Cove",N,N,"",2,578,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,182
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 59","Petty Harbour-Maddox Cove",N,N,"",2,578,"Krol","","Marek","Conservative","Conservateur",N,N,15
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 59","Petty Harbour-Maddox Cove",N,N,"",2,578,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 59","Petty Harbour-Maddox Cove",N,N,"",2,578,"O'Regan","","Seamus","Liberal","Libéral",N,Y,181
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 60","Petty Harbour-Maddox Cove",N,N,"",2,311,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,129
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 60","Petty Harbour-Maddox Cove",N,N,"",2,311,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 60","Petty Harbour-Maddox Cove",N,N,"",2,311,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 60","Petty Harbour-Maddox Cove",N,N,"",2,311,"O'Regan","","Seamus","Liberal","Libéral",N,Y,84
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 61","St. John's",N,N,"",0,486,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 61","St. John's",N,N,"",0,486,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 61","St. John's",N,N,"",0,486,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 61","St. John's",N,N,"",0,486,"O'Regan","","Seamus","Liberal","Libéral",N,Y,168
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 62","St. John's",N,N,"",0,397,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 62","St. John's",N,N,"",0,397,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 62","St. John's",N,N,"",0,397,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 62","St. John's",N,N,"",0,397,"O'Regan","","Seamus","Liberal","Libéral",N,Y,93
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 63","St. John's",N,N,"",1,409,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 63","St. John's",N,N,"",1,409,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 63","St. John's",N,N,"",1,409,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 63","St. John's",N,N,"",1,409,"O'Regan","","Seamus","Liberal","Libéral",N,Y,133
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 64","St. John's",N,N,"",0,356,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 64","St. John's",N,N,"",0,356,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 64","St. John's",N,N,"",0,356,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 64","St. John's",N,N,"",0,356,"O'Regan","","Seamus","Liberal","Libéral",N,Y,84
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 65","St. John's",N,N,"",0,367,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,71
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 65","St. John's",N,N,"",0,367,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 65","St. John's",N,N,"",0,367,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 65","St. John's",N,N,"",0,367,"O'Regan","","Seamus","Liberal","Libéral",N,Y,121
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 66","St. John's",N,N,"",0,297,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 66","St. John's",N,N,"",0,297,"Krol","","Marek","Conservative","Conservateur",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 66","St. John's",N,N,"",0,297,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 66","St. John's",N,N,"",0,297,"O'Regan","","Seamus","Liberal","Libéral",N,Y,106
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 67","St. John's",N,N,"",0,442,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 67","St. John's",N,N,"",0,442,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 67","St. John's",N,N,"",0,442,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 67","St. John's",N,N,"",0,442,"O'Regan","","Seamus","Liberal","Libéral",N,Y,133
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 68","St. John's",N,N,"",0,331,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 68","St. John's",N,N,"",0,331,"Krol","","Marek","Conservative","Conservateur",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 68","St. John's",N,N,"",0,331,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 68","St. John's",N,N,"",0,331,"O'Regan","","Seamus","Liberal","Libéral",N,Y,124
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 69","St. John's",N,N,"",0,319,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,71
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 69","St. John's",N,N,"",0,319,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 69","St. John's",N,N,"",0,319,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 69","St. John's",N,N,"",0,319,"O'Regan","","Seamus","Liberal","Libéral",N,Y,94
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 70","St. John's",N,N,"",0,411,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 70","St. John's",N,N,"",0,411,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 70","St. John's",N,N,"",0,411,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 70","St. John's",N,N,"",0,411,"O'Regan","","Seamus","Liberal","Libéral",N,Y,127
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 71","St. John's",N,N,"",0,379,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,101
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 71","St. John's",N,N,"",0,379,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 71","St. John's",N,N,"",0,379,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 71","St. John's",N,N,"",0,379,"O'Regan","","Seamus","Liberal","Libéral",N,Y,109
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 72","St. John's",N,N,"",0,332,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,65
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 72","St. John's",N,N,"",0,332,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 72","St. John's",N,N,"",0,332,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 72","St. John's",N,N,"",0,332,"O'Regan","","Seamus","Liberal","Libéral",N,Y,109
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 73","St. John's",N,N,"",0,406,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,101
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 73","St. John's",N,N,"",0,406,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 73","St. John's",N,N,"",0,406,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 73","St. John's",N,N,"",0,406,"O'Regan","","Seamus","Liberal","Libéral",N,Y,120
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 74","St. John's",N,N,"",0,444,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,88
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 74","St. John's",N,N,"",0,444,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 74","St. John's",N,N,"",0,444,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 74","St. John's",N,N,"",0,444,"O'Regan","","Seamus","Liberal","Libéral",N,Y,145
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75A","St. John's",N,N,"",1,321,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75A","St. John's",N,N,"",1,321,"Krol","","Marek","Conservative","Conservateur",N,N,13
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75A","St. John's",N,N,"",1,321,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75A","St. John's",N,N,"",1,321,"O'Regan","","Seamus","Liberal","Libéral",N,Y,107
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75B","St. John's",N,N,"",1,308,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,62
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75B","St. John's",N,N,"",1,308,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75B","St. John's",N,N,"",1,308,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 75B","St. John's",N,N,"",1,308,"O'Regan","","Seamus","Liberal","Libéral",N,Y,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 76","St. John's",N,N,"",1,460,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,103
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 76","St. John's",N,N,"",1,460,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 76","St. John's",N,N,"",1,460,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 76","St. John's",N,N,"",1,460,"O'Regan","","Seamus","Liberal","Libéral",N,Y,146
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 77","St. John's",N,N,"",1,364,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,61
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 77","St. John's",N,N,"",1,364,"Krol","","Marek","Conservative","Conservateur",N,N,24
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 77","St. John's",N,N,"",1,364,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 77","St. John's",N,N,"",1,364,"O'Regan","","Seamus","Liberal","Libéral",N,Y,140
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 78","St. John's",N,N,"",0,380,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 78","St. John's",N,N,"",0,380,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 78","St. John's",N,N,"",0,380,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 78","St. John's",N,N,"",0,380,"O'Regan","","Seamus","Liberal","Libéral",N,Y,144
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79A","St. John's",N,N,"",0,298,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79A","St. John's",N,N,"",0,298,"Krol","","Marek","Conservative","Conservateur",N,N,13
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79A","St. John's",N,N,"",0,298,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79A","St. John's",N,N,"",0,298,"O'Regan","","Seamus","Liberal","Libéral",N,Y,111
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79B","St. John's",N,N,"",2,281,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79B","St. John's",N,N,"",2,281,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79B","St. John's",N,N,"",2,281,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 79B","St. John's",N,N,"",2,281,"O'Regan","","Seamus","Liberal","Libéral",N,Y,127
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 80","St. John's",N,N,"",1,461,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 80","St. John's",N,N,"",1,461,"Krol","","Marek","Conservative","Conservateur",N,N,15
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 80","St. John's",N,N,"",1,461,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 80","St. John's",N,N,"",1,461,"O'Regan","","Seamus","Liberal","Libéral",N,Y,224
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81A","St. John's",N,N,"",1,331,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81A","St. John's",N,N,"",1,331,"Krol","","Marek","Conservative","Conservateur",N,N,16
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81A","St. John's",N,N,"",1,331,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81A","St. John's",N,N,"",1,331,"O'Regan","","Seamus","Liberal","Libéral",N,Y,157
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81B","St. John's",N,N,"",1,375,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81B","St. John's",N,N,"",1,375,"Krol","","Marek","Conservative","Conservateur",N,N,14
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81B","St. John's",N,N,"",1,375,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 81B","St. John's",N,N,"",1,375,"O'Regan","","Seamus","Liberal","Libéral",N,Y,168
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 82","Mount Pearl",N,N,"",0,406,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 82","Mount Pearl",N,N,"",0,406,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 82","Mount Pearl",N,N,"",0,406,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 82","Mount Pearl",N,N,"",0,406,"O'Regan","","Seamus","Liberal","Libéral",N,Y,121
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 83","Mount Pearl",N,N,"",0,235,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 83","Mount Pearl",N,N,"",0,235,"Krol","","Marek","Conservative","Conservateur",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 83","Mount Pearl",N,N,"",0,235,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 83","Mount Pearl",N,N,"",0,235,"O'Regan","","Seamus","Liberal","Libéral",N,Y,76
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84A","St. John's",N,N,"",0,273,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84A","St. John's",N,N,"",0,273,"Krol","","Marek","Conservative","Conservateur",N,N,16
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84A","St. John's",N,N,"",0,273,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84A","St. John's",N,N,"",0,273,"O'Regan","","Seamus","Liberal","Libéral",N,Y,104
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84B","St. John's",N,N,"",0,339,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84B","St. John's",N,N,"",0,339,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84B","St. John's",N,N,"",0,339,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 84B","St. John's",N,N,"",0,339,"O'Regan","","Seamus","Liberal","Libéral",N,Y,145
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 85","St. John's",N,N,"",0,427,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,88
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 85","St. John's",N,N,"",0,427,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 85","St. John's",N,N,"",0,427,"McLean","","Jackson","Green Party","Parti Vert",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 85","St. John's",N,N,"",0,427,"O'Regan","","Seamus","Liberal","Libéral",N,Y,115
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 86","St. John's",N,N,"",0,488,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 86","St. John's",N,N,"",0,488,"Krol","","Marek","Conservative","Conservateur",N,N,14
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 86","St. John's",N,N,"",0,488,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 86","St. John's",N,N,"",0,488,"O'Regan","","Seamus","Liberal","Libéral",N,Y,187
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 87","St. John's",N,N,"",0,485,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,108
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 87","St. John's",N,N,"",0,485,"Krol","","Marek","Conservative","Conservateur",N,N,16
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 87","St. John's",N,N,"",0,485,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 87","St. John's",N,N,"",0,485,"O'Regan","","Seamus","Liberal","Libéral",N,Y,163
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 88","St. John's",N,N,"",0,348,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,84
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 88","St. John's",N,N,"",0,348,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 88","St. John's",N,N,"",0,348,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 88","St. John's",N,N,"",0,348,"O'Regan","","Seamus","Liberal","Libéral",N,Y,92
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 89","St. John's",N,N,"",1,494,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,112
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 89","St. John's",N,N,"",1,494,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 89","St. John's",N,N,"",1,494,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 89","St. John's",N,N,"",1,494,"O'Regan","","Seamus","Liberal","Libéral",N,Y,154
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 90","St. John's",N,N,"",0,457,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 90","St. John's",N,N,"",0,457,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 90","St. John's",N,N,"",0,457,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 90","St. John's",N,N,"",0,457,"O'Regan","","Seamus","Liberal","Libéral",N,Y,132
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 91","St. John's",N,N,"",0,563,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,111
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 91","St. John's",N,N,"",0,563,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 91","St. John's",N,N,"",0,563,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 91","St. John's",N,N,"",0,563,"O'Regan","","Seamus","Liberal","Libéral",N,Y,157
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 92","Mount Pearl",N,N,"",0,434,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,79
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 92","Mount Pearl",N,N,"",0,434,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 92","Mount Pearl",N,N,"",0,434,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 92","Mount Pearl",N,N,"",0,434,"O'Regan","","Seamus","Liberal","Libéral",N,Y,139
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 93","Mount Pearl",N,N,"",1,349,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 93","Mount Pearl",N,N,"",1,349,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 93","Mount Pearl",N,N,"",1,349,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 93","Mount Pearl",N,N,"",1,349,"O'Regan","","Seamus","Liberal","Libéral",N,Y,111
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 94","Mount Pearl",N,N,"",0,367,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,89
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 94","Mount Pearl",N,N,"",0,367,"Krol","","Marek","Conservative","Conservateur",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 94","Mount Pearl",N,N,"",0,367,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 94","Mount Pearl",N,N,"",0,367,"O'Regan","","Seamus","Liberal","Libéral",N,Y,110
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 95","Mount Pearl",N,N,"",0,361,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 95","Mount Pearl",N,N,"",0,361,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 95","Mount Pearl",N,N,"",0,361,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 95","Mount Pearl",N,N,"",0,361,"O'Regan","","Seamus","Liberal","Libéral",N,Y,136
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 96","Mount Pearl",N,N,"",0,329,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 96","Mount Pearl",N,N,"",0,329,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 96","Mount Pearl",N,N,"",0,329,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 96","Mount Pearl",N,N,"",0,329,"O'Regan","","Seamus","Liberal","Libéral",N,Y,127
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 97","Mount Pearl",N,N,"",0,321,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 97","Mount Pearl",N,N,"",0,321,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 97","Mount Pearl",N,N,"",0,321,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 97","Mount Pearl",N,N,"",0,321,"O'Regan","","Seamus","Liberal","Libéral",N,Y,123
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 98","Mount Pearl",N,N,"",0,309,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 98","Mount Pearl",N,N,"",0,309,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 98","Mount Pearl",N,N,"",0,309,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 98","Mount Pearl",N,N,"",0,309,"O'Regan","","Seamus","Liberal","Libéral",N,Y,82
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 99","Mount Pearl",N,N,"",0,403,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,91
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 99","Mount Pearl",N,N,"",0,403,"Krol","","Marek","Conservative","Conservateur",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 99","Mount Pearl",N,N,"",0,403,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 99","Mount Pearl",N,N,"",0,403,"O'Regan","","Seamus","Liberal","Libéral",N,Y,132
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 100","Mount Pearl",N,N,"",0,466,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,87
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 100","Mount Pearl",N,N,"",0,466,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 100","Mount Pearl",N,N,"",0,466,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 100","Mount Pearl",N,N,"",0,466,"O'Regan","","Seamus","Liberal","Libéral",N,Y,196
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 101","Mount Pearl",N,N,"",1,521,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,137
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 101","Mount Pearl",N,N,"",1,521,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 101","Mount Pearl",N,N,"",1,521,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 101","Mount Pearl",N,N,"",1,521,"O'Regan","","Seamus","Liberal","Libéral",N,Y,158
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 102","Mount Pearl",N,N,"",0,454,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,104
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 102","Mount Pearl",N,N,"",0,454,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 102","Mount Pearl",N,N,"",0,454,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 102","Mount Pearl",N,N,"",0,454,"O'Regan","","Seamus","Liberal","Libéral",N,Y,177
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 103","Mount Pearl",N,N,"",1,469,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,84
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 103","Mount Pearl",N,N,"",1,469,"Krol","","Marek","Conservative","Conservateur",N,N,16
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 103","Mount Pearl",N,N,"",1,469,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 103","Mount Pearl",N,N,"",1,469,"O'Regan","","Seamus","Liberal","Libéral",N,Y,166
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 104","Mount Pearl",N,N,"",0,449,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 104","Mount Pearl",N,N,"",0,449,"Krol","","Marek","Conservative","Conservateur",N,N,19
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 104","Mount Pearl",N,N,"",0,449,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 104","Mount Pearl",N,N,"",0,449,"O'Regan","","Seamus","Liberal","Libéral",N,Y,198
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 105","Mount Pearl",N,N,"",1,447,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 105","Mount Pearl",N,N,"",1,447,"Krol","","Marek","Conservative","Conservateur",N,N,21
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 105","Mount Pearl",N,N,"",1,447,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 105","Mount Pearl",N,N,"",1,447,"O'Regan","","Seamus","Liberal","Libéral",N,Y,177
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 106","Mount Pearl",N,N,"",1,509,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 106","Mount Pearl",N,N,"",1,509,"Krol","","Marek","Conservative","Conservateur",N,N,23
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 106","Mount Pearl",N,N,"",1,509,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 106","Mount Pearl",N,N,"",1,509,"O'Regan","","Seamus","Liberal","Libéral",N,Y,180
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 107","Mount Pearl",N,N,"",0,423,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,76
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 107","Mount Pearl",N,N,"",0,423,"Krol","","Marek","Conservative","Conservateur",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 107","Mount Pearl",N,N,"",0,423,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 107","Mount Pearl",N,N,"",0,423,"O'Regan","","Seamus","Liberal","Libéral",N,Y,163
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 108","Mount Pearl",N,N,"",1,433,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,102
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 108","Mount Pearl",N,N,"",1,433,"Krol","","Marek","Conservative","Conservateur",N,N,13
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 108","Mount Pearl",N,N,"",1,433,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 108","Mount Pearl",N,N,"",1,433,"O'Regan","","Seamus","Liberal","Libéral",N,Y,139
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 109","Mount Pearl",N,N,"",0,370,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,87
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 109","Mount Pearl",N,N,"",0,370,"Krol","","Marek","Conservative","Conservateur",N,N,14
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 109","Mount Pearl",N,N,"",0,370,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 109","Mount Pearl",N,N,"",0,370,"O'Regan","","Seamus","Liberal","Libéral",N,Y,119
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 110","Mount Pearl",N,N,"",0,421,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,79
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 110","Mount Pearl",N,N,"",0,421,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 110","Mount Pearl",N,N,"",0,421,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 110","Mount Pearl",N,N,"",0,421,"O'Regan","","Seamus","Liberal","Libéral",N,Y,139
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 111","Mount Pearl",N,N,"",1,413,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 111","Mount Pearl",N,N,"",1,413,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 111","Mount Pearl",N,N,"",1,413,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 111","Mount Pearl",N,N,"",1,413,"O'Regan","","Seamus","Liberal","Libéral",N,Y,126
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 112","Mount Pearl",N,N,"",0,404,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 112","Mount Pearl",N,N,"",0,404,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 112","Mount Pearl",N,N,"",0,404,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 112","Mount Pearl",N,N,"",0,404,"O'Regan","","Seamus","Liberal","Libéral",N,Y,128
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 113","Mount Pearl",N,N,"",0,489,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,99
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 113","Mount Pearl",N,N,"",0,489,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 113","Mount Pearl",N,N,"",0,489,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 113","Mount Pearl",N,N,"",0,489,"O'Regan","","Seamus","Liberal","Libéral",N,Y,137
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 114","Mount Pearl",N,N,"",0,409,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 114","Mount Pearl",N,N,"",0,409,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 114","Mount Pearl",N,N,"",0,409,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 114","Mount Pearl",N,N,"",0,409,"O'Regan","","Seamus","Liberal","Libéral",N,Y,166
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 115","Mount Pearl",N,N,"",0,458,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,96
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 115","Mount Pearl",N,N,"",0,458,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 115","Mount Pearl",N,N,"",0,458,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 115","Mount Pearl",N,N,"",0,458,"O'Regan","","Seamus","Liberal","Libéral",N,Y,161
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 116","Mount Pearl",N,N,"",0,379,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 116","Mount Pearl",N,N,"",0,379,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 116","Mount Pearl",N,N,"",0,379,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 116","Mount Pearl",N,N,"",0,379,"O'Regan","","Seamus","Liberal","Libéral",N,Y,131
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 117","Mount Pearl",N,N,"",1,524,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 117","Mount Pearl",N,N,"",1,524,"Krol","","Marek","Conservative","Conservateur",N,N,15
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 117","Mount Pearl",N,N,"",1,524,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 117","Mount Pearl",N,N,"",1,524,"O'Regan","","Seamus","Liberal","Libéral",N,Y,228
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 118","St. John's",N,N,"",0,467,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 118","St. John's",N,N,"",0,467,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 118","St. John's",N,N,"",0,467,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 118","St. John's",N,N,"",0,467,"O'Regan","","Seamus","Liberal","Libéral",N,Y,185
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 119","Mount Pearl",N,N,"",0,529,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,81
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 119","Mount Pearl",N,N,"",0,529,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 119","Mount Pearl",N,N,"",0,529,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 119","Mount Pearl",N,N,"",0,529,"O'Regan","","Seamus","Liberal","Libéral",N,Y,176
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120A","Mount Pearl",N,N,"",0,290,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120A","Mount Pearl",N,N,"",0,290,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120A","Mount Pearl",N,N,"",0,290,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120A","Mount Pearl",N,N,"",0,290,"O'Regan","","Seamus","Liberal","Libéral",N,Y,115
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120B","Mount Pearl",N,N,"",1,276,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120B","Mount Pearl",N,N,"",1,276,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120B","Mount Pearl",N,N,"",1,276,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120B","Mount Pearl",N,N,"",1,276,"O'Regan","","Seamus","Liberal","Libéral",N,Y,98
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120C","Mobile poll/Bureau itinérant",N,N,"502",0,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120C","Mobile poll/Bureau itinérant",N,N,"502",0,0,"Krol","","Marek","Conservative","Conservateur",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120C","Mobile poll/Bureau itinérant",N,N,"502",0,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 120C","Mobile poll/Bureau itinérant",N,N,"502",0,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 121","Mount Pearl",N,N,"",0,399,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 121","Mount Pearl",N,N,"",0,399,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 121","Mount Pearl",N,N,"",0,399,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 121","Mount Pearl",N,N,"",0,399,"O'Regan","","Seamus","Liberal","Libéral",N,Y,142
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 122","Mount Pearl",N,N,"",0,448,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 122","Mount Pearl",N,N,"",0,448,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 122","Mount Pearl",N,N,"",0,448,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 122","Mount Pearl",N,N,"",0,448,"O'Regan","","Seamus","Liberal","Libéral",N,Y,144
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 123","St. John's",N,N,"",0,387,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 123","St. John's",N,N,"",0,387,"Krol","","Marek","Conservative","Conservateur",N,N,25
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 123","St. John's",N,N,"",0,387,"McLean","","Jackson","Green Party","Parti Vert",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 123","St. John's",N,N,"",0,387,"O'Regan","","Seamus","Liberal","Libéral",N,Y,106
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 124","St. John's",N,N,"",0,295,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 124","St. John's",N,N,"",0,295,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 124","St. John's",N,N,"",0,295,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 124","St. John's",N,N,"",0,295,"O'Regan","","Seamus","Liberal","Libéral",N,Y,119
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 125","St. John's",N,N,"",2,406,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,65
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 125","St. John's",N,N,"",2,406,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 125","St. John's",N,N,"",2,406,"McLean","","Jackson","Green Party","Parti Vert",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 125","St. John's",N,N,"",2,406,"O'Regan","","Seamus","Liberal","Libéral",N,Y,155
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 126","St. John's",N,N,"",0,374,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,42
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 126","St. John's",N,N,"",0,374,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 126","St. John's",N,N,"",0,374,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 126","St. John's",N,N,"",0,374,"O'Regan","","Seamus","Liberal","Libéral",N,Y,152
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 127","St. John's",N,N,"",0,320,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 127","St. John's",N,N,"",0,320,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 127","St. John's",N,N,"",0,320,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 127","St. John's",N,N,"",0,320,"O'Regan","","Seamus","Liberal","Libéral",N,Y,99
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 128","St. John's",N,N,"",1,349,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 128","St. John's",N,N,"",1,349,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 128","St. John's",N,N,"",1,349,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 128","St. John's",N,N,"",1,349,"O'Regan","","Seamus","Liberal","Libéral",N,Y,99
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 129","St. John's",N,N,"",1,384,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 129","St. John's",N,N,"",1,384,"Krol","","Marek","Conservative","Conservateur",N,N,18
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 129","St. John's",N,N,"",1,384,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 129","St. John's",N,N,"",1,384,"O'Regan","","Seamus","Liberal","Libéral",N,Y,145
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 130","St. John's",N,N,"",1,455,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 130","St. John's",N,N,"",1,455,"Krol","","Marek","Conservative","Conservateur",N,N,27
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 130","St. John's",N,N,"",1,455,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 130","St. John's",N,N,"",1,455,"O'Regan","","Seamus","Liberal","Libéral",N,Y,188
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 131","St. John's",N,N,"",1,455,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,90
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 131","St. John's",N,N,"",1,455,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 131","St. John's",N,N,"",1,455,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 131","St. John's",N,N,"",1,455,"O'Regan","","Seamus","Liberal","Libéral",N,Y,175
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 132","St. John's",N,N,"",1,422,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 132","St. John's",N,N,"",1,422,"Krol","","Marek","Conservative","Conservateur",N,N,14
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 132","St. John's",N,N,"",1,422,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 132","St. John's",N,N,"",1,422,"O'Regan","","Seamus","Liberal","Libéral",N,Y,159
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 133","St. John's",N,N,"",1,415,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 133","St. John's",N,N,"",1,415,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 133","St. John's",N,N,"",1,415,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 133","St. John's",N,N,"",1,415,"O'Regan","","Seamus","Liberal","Libéral",N,Y,164
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 134","St. John's",N,N,"",0,291,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 134","St. John's",N,N,"",0,291,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 134","St. John's",N,N,"",0,291,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 134","St. John's",N,N,"",0,291,"O'Regan","","Seamus","Liberal","Libéral",N,Y,65
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 135","St. John's",N,N,"",0,312,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 135","St. John's",N,N,"",0,312,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 135","St. John's",N,N,"",0,312,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 135","St. John's",N,N,"",0,312,"O'Regan","","Seamus","Liberal","Libéral",N,Y,76
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 136","St. John's",N,N,"",0,387,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,67
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 136","St. John's",N,N,"",0,387,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 136","St. John's",N,N,"",0,387,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 136","St. John's",N,N,"",0,387,"O'Regan","","Seamus","Liberal","Libéral",N,Y,85
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 137","St. John's",N,N,"",1,443,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,71
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 137","St. John's",N,N,"",1,443,"Krol","","Marek","Conservative","Conservateur",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 137","St. John's",N,N,"",1,443,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 137","St. John's",N,N,"",1,443,"O'Regan","","Seamus","Liberal","Libéral",N,Y,160
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 138","St. John's",N,N,"",1,340,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 138","St. John's",N,N,"",1,340,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 138","St. John's",N,N,"",1,340,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 138","St. John's",N,N,"",1,340,"O'Regan","","Seamus","Liberal","Libéral",N,Y,122
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 139","St. John's",N,N,"",0,435,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,104
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 139","St. John's",N,N,"",0,435,"Krol","","Marek","Conservative","Conservateur",N,N,18
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 139","St. John's",N,N,"",0,435,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 139","St. John's",N,N,"",0,435,"O'Regan","","Seamus","Liberal","Libéral",N,Y,155
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 140","St. John's",N,N,"",0,437,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,92
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 140","St. John's",N,N,"",0,437,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 140","St. John's",N,N,"",0,437,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 140","St. John's",N,N,"",0,437,"O'Regan","","Seamus","Liberal","Libéral",N,Y,130
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 141","St. John's",N,N,"",0,376,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,95
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 141","St. John's",N,N,"",0,376,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 141","St. John's",N,N,"",0,376,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 141","St. John's",N,N,"",0,376,"O'Regan","","Seamus","Liberal","Libéral",N,Y,108
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 142","St. John's",N,N,"",0,300,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 142","St. John's",N,N,"",0,300,"Krol","","Marek","Conservative","Conservateur",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 142","St. John's",N,N,"",0,300,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 142","St. John's",N,N,"",0,300,"O'Regan","","Seamus","Liberal","Libéral",N,Y,118
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 143","St. John's",N,N,"",0,316,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,62
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 143","St. John's",N,N,"",0,316,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 143","St. John's",N,N,"",0,316,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 143","St. John's",N,N,"",0,316,"O'Regan","","Seamus","Liberal","Libéral",N,Y,110
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 144","St. John's",N,N,"",0,370,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 144","St. John's",N,N,"",0,370,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 144","St. John's",N,N,"",0,370,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 144","St. John's",N,N,"",0,370,"O'Regan","","Seamus","Liberal","Libéral",N,Y,135
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 145","St. John's",N,N,"",0,535,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,126
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 145","St. John's",N,N,"",0,535,"Krol","","Marek","Conservative","Conservateur",N,N,10
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 145","St. John's",N,N,"",0,535,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 145","St. John's",N,N,"",0,535,"O'Regan","","Seamus","Liberal","Libéral",N,Y,162
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 146","Mount Pearl",N,N,"",1,491,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 146","Mount Pearl",N,N,"",1,491,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 146","Mount Pearl",N,N,"",1,491,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 146","Mount Pearl",N,N,"",1,491,"O'Regan","","Seamus","Liberal","Libéral",N,Y,161
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 147","Mount Pearl",N,N,"",1,563,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,105
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 147","Mount Pearl",N,N,"",1,563,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 147","Mount Pearl",N,N,"",1,563,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 147","Mount Pearl",N,N,"",1,563,"O'Regan","","Seamus","Liberal","Libéral",N,Y,170
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 148","Mount Pearl",N,N,"",0,411,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,74
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 148","Mount Pearl",N,N,"",0,411,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 148","Mount Pearl",N,N,"",0,411,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 148","Mount Pearl",N,N,"",0,411,"O'Regan","","Seamus","Liberal","Libéral",N,Y,115
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 149","Mount Pearl",N,N,"",0,409,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,88
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 149","Mount Pearl",N,N,"",0,409,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 149","Mount Pearl",N,N,"",0,409,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 149","Mount Pearl",N,N,"",0,409,"O'Regan","","Seamus","Liberal","Libéral",N,Y,110
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 150","Mount Pearl",N,N,"",0,395,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 150","Mount Pearl",N,N,"",0,395,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 150","Mount Pearl",N,N,"",0,395,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 150","Mount Pearl",N,N,"",0,395,"O'Regan","","Seamus","Liberal","Libéral",N,Y,157
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 151","Mount Pearl",N,N,"",2,345,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,103
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 151","Mount Pearl",N,N,"",2,345,"Krol","","Marek","Conservative","Conservateur",N,N,8
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 151","Mount Pearl",N,N,"",2,345,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 151","Mount Pearl",N,N,"",2,345,"O'Regan","","Seamus","Liberal","Libéral",N,Y,82
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 152","Mount Pearl",N,N,"",2,355,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,76
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 152","Mount Pearl",N,N,"",2,355,"Krol","","Marek","Conservative","Conservateur",N,N,16
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 152","Mount Pearl",N,N,"",2,355,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 152","Mount Pearl",N,N,"",2,355,"O'Regan","","Seamus","Liberal","Libéral",N,Y,102
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 153","Mount Pearl",N,N,"",0,325,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 153","Mount Pearl",N,N,"",0,325,"Krol","","Marek","Conservative","Conservateur",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 153","Mount Pearl",N,N,"",0,325,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 153","Mount Pearl",N,N,"",0,325,"O'Regan","","Seamus","Liberal","Libéral",N,Y,105
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 154","Mount Pearl",N,N,"",1,321,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 154","Mount Pearl",N,N,"",1,321,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 154","Mount Pearl",N,N,"",1,321,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 154","Mount Pearl",N,N,"",1,321,"O'Regan","","Seamus","Liberal","Libéral",N,Y,71
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 155","Mount Pearl",N,N,"",0,423,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,124
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 155","Mount Pearl",N,N,"",0,423,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 155","Mount Pearl",N,N,"",0,423,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 155","Mount Pearl",N,N,"",0,423,"O'Regan","","Seamus","Liberal","Libéral",N,Y,125
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 156","Mount Pearl",N,N,"",1,431,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 156","Mount Pearl",N,N,"",1,431,"Krol","","Marek","Conservative","Conservateur",N,N,15
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 156","Mount Pearl",N,N,"",1,431,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 156","Mount Pearl",N,N,"",1,431,"O'Regan","","Seamus","Liberal","Libéral",N,Y,138
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 157","Mount Pearl",N,N,"",0,444,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,93
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 157","Mount Pearl",N,N,"",0,444,"Krol","","Marek","Conservative","Conservateur",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 157","Mount Pearl",N,N,"",0,444,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 157","Mount Pearl",N,N,"",0,444,"O'Regan","","Seamus","Liberal","Libéral",N,Y,137
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 158","Bay Bulls",N,N,"",2,440,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,81
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 158","Bay Bulls",N,N,"",2,440,"Krol","","Marek","Conservative","Conservateur",N,N,14
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 158","Bay Bulls",N,N,"",2,440,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 158","Bay Bulls",N,N,"",2,440,"O'Regan","","Seamus","Liberal","Libéral",N,Y,151
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 159","Bay Bulls",N,N,"",1,372,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 159","Bay Bulls",N,N,"",1,372,"Krol","","Marek","Conservative","Conservateur",N,N,16
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 159","Bay Bulls",N,N,"",1,372,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 159","Bay Bulls",N,N,"",1,372,"O'Regan","","Seamus","Liberal","Libéral",N,Y,129
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 160","Bay Bulls",N,N,"",1,297,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 160","Bay Bulls",N,N,"",1,297,"Krol","","Marek","Conservative","Conservateur",N,N,7
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 160","Bay Bulls",N,N,"",1,297,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 160","Bay Bulls",N,N,"",1,297,"O'Regan","","Seamus","Liberal","Libéral",N,Y,118
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 161","Witless Bay",N,N,"",0,281,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 161","Witless Bay",N,N,"",0,281,"Krol","","Marek","Conservative","Conservateur",N,N,21
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 161","Witless Bay",N,N,"",0,281,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 161","Witless Bay",N,N,"",0,281,"O'Regan","","Seamus","Liberal","Libéral",N,Y,137
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 162","Witless Bay",N,N,"",0,320,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 162","Witless Bay",N,N,"",0,320,"Krol","","Marek","Conservative","Conservateur",N,N,13
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 162","Witless Bay",N,N,"",0,320,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 162","Witless Bay",N,N,"",0,320,"O'Regan","","Seamus","Liberal","Libéral",N,Y,117
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 163","Witless Bay",N,N,"",1,566,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,89
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 163","Witless Bay",N,N,"",1,566,"Krol","","Marek","Conservative","Conservateur",N,N,19
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 163","Witless Bay",N,N,"",1,566,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 163","Witless Bay",N,N,"",1,566,"O'Regan","","Seamus","Liberal","Libéral",N,Y,187
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 400","St. John's",N,N,"",0,169,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 400","St. John's",N,N,"",0,169,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 400","St. John's",N,N,"",0,169,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 400","St. John's",N,N,"",0,169,"O'Regan","","Seamus","Liberal","Libéral",N,Y,62
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 500","Mobile poll/Bureau itinérant",N,N,"",0,71,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,21
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 500","Mobile poll/Bureau itinérant",N,N,"",0,71,"Krol","","Marek","Conservative","Conservateur",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 500","Mobile poll/Bureau itinérant",N,N,"",0,71,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 500","Mobile poll/Bureau itinérant",N,N,"",0,71,"O'Regan","","Seamus","Liberal","Libéral",N,Y,35
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,76,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,76,"Krol","","Marek","Conservative","Conservateur",N,N,9
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,76,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,76,"O'Regan","","Seamus","Liberal","Libéral",N,Y,31
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501B","Mobile poll/Bureau itinérant",N,N,"503",0,38,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501B","Mobile poll/Bureau itinérant",N,N,"503",0,38,"Krol","","Marek","Conservative","Conservateur",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501B","Mobile poll/Bureau itinérant",N,N,"503",0,38,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 501B","Mobile poll/Bureau itinérant",N,N,"503",0,38,"O'Regan","","Seamus","Liberal","Libéral",N,Y,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 502","Mobile poll/Bureau itinérant",N,N,"",2,159,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 502","Mobile poll/Bureau itinérant",N,N,"",2,159,"Krol","","Marek","Conservative","Conservateur",N,N,17
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 502","Mobile poll/Bureau itinérant",N,N,"",2,159,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 502","Mobile poll/Bureau itinérant",N,N,"",2,159,"O'Regan","","Seamus","Liberal","Libéral",N,Y,49
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 503","Mobile poll/Bureau itinérant",N,N,"",1,126,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 503","Mobile poll/Bureau itinérant",N,N,"",1,126,"Krol","","Marek","Conservative","Conservateur",N,N,11
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 503","Mobile poll/Bureau itinérant",N,N,"",1,126,"McLean","","Jackson","Green Party","Parti Vert",N,N,2
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 503","Mobile poll/Bureau itinérant",N,N,"",1,126,"O'Regan","","Seamus","Liberal","Libéral",N,Y,67
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 600","St. John's",N,N,"",1,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,230
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 600","St. John's",N,N,"",1,0,"Krol","","Marek","Conservative","Conservateur",N,N,24
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 600","St. John's",N,N,"",1,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 600","St. John's",N,N,"",1,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,183
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 601","St. John's",N,N,"",1,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,243
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 601","St. John's",N,N,"",1,0,"Krol","","Marek","Conservative","Conservateur",N,N,33
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 601","St. John's",N,N,"",1,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 601","St. John's",N,N,"",1,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,386
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 602","St. John's",N,N,"",4,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,263
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 602","St. John's",N,N,"",4,0,"Krol","","Marek","Conservative","Conservateur",N,N,20
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 602","St. John's",N,N,"",4,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 602","St. John's",N,N,"",4,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,372
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 603","St. John's",N,N,"",2,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,311
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 603","St. John's",N,N,"",2,0,"Krol","","Marek","Conservative","Conservateur",N,N,40
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 603","St. John's",N,N,"",2,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 603","St. John's",N,N,"",2,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,279
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 604","St. John's",N,N,"",0,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,189
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 604","St. John's",N,N,"",0,0,"Krol","","Marek","Conservative","Conservateur",N,N,32
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 604","St. John's",N,N,"",0,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,4
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 604","St. John's",N,N,"",0,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,330
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 605","St. John's",N,N,"",0,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,189
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 605","St. John's",N,N,"",0,0,"Krol","","Marek","Conservative","Conservateur",N,N,30
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 605","St. John's",N,N,"",0,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 605","St. John's",N,N,"",0,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,367
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 606","Mount Pearl",N,N,"",2,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,267
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 606","Mount Pearl",N,N,"",2,0,"Krol","","Marek","Conservative","Conservateur",N,N,37
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 606","Mount Pearl",N,N,"",2,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,6
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 606","Mount Pearl",N,N,"",2,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,396
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 607","Mount Pearl",N,N,"",1,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,171
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 607","Mount Pearl",N,N,"",1,0,"Krol","","Marek","Conservative","Conservateur",N,N,16
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 607","Mount Pearl",N,N,"",1,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,3
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 607","Mount Pearl",N,N,"",1,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,217
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 608","St. John's",N,N,"",2,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,227
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 608","St. John's",N,N,"",2,0,"Krol","","Marek","Conservative","Conservateur",N,N,33
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 608","St. John's",N,N,"",2,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 608","St. John's",N,N,"",2,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,340
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 609","St. John's",N,N,"",0,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,179
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 609","St. John's",N,N,"",0,0,"Krol","","Marek","Conservative","Conservateur",N,N,15
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 609","St. John's",N,N,"",0,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,1
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 609","St. John's",N,N,"",0,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,246
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 610","Bay Bulls",N,N,"",0,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 610","Bay Bulls",N,N,"",0,0,"Krol","","Marek","Conservative","Conservateur",N,N,12
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 610","Bay Bulls",N,N,"",0,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,0
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," 610","Bay Bulls",N,N,"",0,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,78
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,80,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,80,"Krol","","Marek","Conservative","Conservateur",N,N,44
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,80,"McLean","","Jackson","Green Party","Parti Vert",N,N,5
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,80,"O'Regan","","Seamus","Liberal","Libéral",N,Y,95
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"Cleary","","Ryan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,853
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"Krol","","Marek","Conservative","Conservateur",N,N,69
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"McLean","","Jackson","Green Party","Parti Vert",N,N,33
+10007,"St. John's South--Mount Pearl","St. John's-Sud--Mount Pearl"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"O'Regan","","Seamus","Liberal","Libéral",N,Y,1021

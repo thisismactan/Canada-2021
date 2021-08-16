@@ -1,0 +1,665 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59033,"Surrey--Newton","Surrey--Newton"," 1","Surrey",N,N,"",5,363,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,112
+59033,"Surrey--Newton","Surrey--Newton"," 1","Surrey",N,N,"",5,363,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 1","Surrey",N,N,"",5,363,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+59033,"Surrey--Newton","Surrey--Newton"," 1","Surrey",N,N,"",5,363,"Singh","","Harpreet","Conservative","Conservateur",N,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 2","Surrey",N,N,"",6,436,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,140
+59033,"Surrey--Newton","Surrey--Newton"," 2","Surrey",N,N,"",6,436,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 2","Surrey",N,N,"",6,436,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,76
+59033,"Surrey--Newton","Surrey--Newton"," 2","Surrey",N,N,"",6,436,"Singh","","Harpreet","Conservative","Conservateur",N,N,55
+59033,"Surrey--Newton","Surrey--Newton"," 3","Surrey",N,N,"",0,303,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,125
+59033,"Surrey--Newton","Surrey--Newton"," 3","Surrey",N,N,"",0,303,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 3","Surrey",N,N,"",0,303,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+59033,"Surrey--Newton","Surrey--Newton"," 3","Surrey",N,N,"",0,303,"Singh","","Harpreet","Conservative","Conservateur",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 4","Surrey",N,N,"",1,456,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,111
+59033,"Surrey--Newton","Surrey--Newton"," 4","Surrey",N,N,"",1,456,"Sangha","","Pamela","Green Party","Parti Vert",N,N,9
+59033,"Surrey--Newton","Surrey--Newton"," 4","Surrey",N,N,"",1,456,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,89
+59033,"Surrey--Newton","Surrey--Newton"," 4","Surrey",N,N,"",1,456,"Singh","","Harpreet","Conservative","Conservateur",N,N,66
+59033,"Surrey--Newton","Surrey--Newton"," 5","Surrey",N,N,"",0,477,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,128
+59033,"Surrey--Newton","Surrey--Newton"," 5","Surrey",N,N,"",0,477,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 5","Surrey",N,N,"",0,477,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,65
+59033,"Surrey--Newton","Surrey--Newton"," 5","Surrey",N,N,"",0,477,"Singh","","Harpreet","Conservative","Conservateur",N,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 6","Surrey",N,N,"",5,483,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,140
+59033,"Surrey--Newton","Surrey--Newton"," 6","Surrey",N,N,"",5,483,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 6","Surrey",N,N,"",5,483,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,76
+59033,"Surrey--Newton","Surrey--Newton"," 6","Surrey",N,N,"",5,483,"Singh","","Harpreet","Conservative","Conservateur",N,N,55
+59033,"Surrey--Newton","Surrey--Newton"," 7","Surrey",N,N,"",1,500,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,112
+59033,"Surrey--Newton","Surrey--Newton"," 7","Surrey",N,N,"",1,500,"Sangha","","Pamela","Green Party","Parti Vert",N,N,11
+59033,"Surrey--Newton","Surrey--Newton"," 7","Surrey",N,N,"",1,500,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+59033,"Surrey--Newton","Surrey--Newton"," 7","Surrey",N,N,"",1,500,"Singh","","Harpreet","Conservative","Conservateur",N,N,55
+59033,"Surrey--Newton","Surrey--Newton"," 8","Surrey",N,N,"",2,365,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,84
+59033,"Surrey--Newton","Surrey--Newton"," 8","Surrey",N,N,"",2,365,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 8","Surrey",N,N,"",2,365,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+59033,"Surrey--Newton","Surrey--Newton"," 8","Surrey",N,N,"",2,365,"Singh","","Harpreet","Conservative","Conservateur",N,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 9","Surrey",N,N,"",1,226,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,62
+59033,"Surrey--Newton","Surrey--Newton"," 9","Surrey",N,N,"",1,226,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 9","Surrey",N,N,"",1,226,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,11
+59033,"Surrey--Newton","Surrey--Newton"," 9","Surrey",N,N,"",1,226,"Singh","","Harpreet","Conservative","Conservateur",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 10","Surrey",N,N,"",1,331,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,98
+59033,"Surrey--Newton","Surrey--Newton"," 10","Surrey",N,N,"",1,331,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 10","Surrey",N,N,"",1,331,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+59033,"Surrey--Newton","Surrey--Newton"," 10","Surrey",N,N,"",1,331,"Singh","","Harpreet","Conservative","Conservateur",N,N,12
+59033,"Surrey--Newton","Surrey--Newton"," 11","Surrey",N,N,"",0,388,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,140
+59033,"Surrey--Newton","Surrey--Newton"," 11","Surrey",N,N,"",0,388,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 11","Surrey",N,N,"",0,388,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 11","Surrey",N,N,"",0,388,"Singh","","Harpreet","Conservative","Conservateur",N,N,15
+59033,"Surrey--Newton","Surrey--Newton"," 12","Surrey",N,N,"",1,393,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,147
+59033,"Surrey--Newton","Surrey--Newton"," 12","Surrey",N,N,"",1,393,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 12","Surrey",N,N,"",1,393,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+59033,"Surrey--Newton","Surrey--Newton"," 12","Surrey",N,N,"",1,393,"Singh","","Harpreet","Conservative","Conservateur",N,N,9
+59033,"Surrey--Newton","Surrey--Newton"," 13","Surrey",N,N,"",2,532,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,120
+59033,"Surrey--Newton","Surrey--Newton"," 13","Surrey",N,N,"",2,532,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 13","Surrey",N,N,"",2,532,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+59033,"Surrey--Newton","Surrey--Newton"," 13","Surrey",N,N,"",2,532,"Singh","","Harpreet","Conservative","Conservateur",N,N,52
+59033,"Surrey--Newton","Surrey--Newton"," 14","Surrey",N,N,"",0,425,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,90
+59033,"Surrey--Newton","Surrey--Newton"," 14","Surrey",N,N,"",0,425,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 14","Surrey",N,N,"",0,425,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+59033,"Surrey--Newton","Surrey--Newton"," 14","Surrey",N,N,"",0,425,"Singh","","Harpreet","Conservative","Conservateur",N,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 15","Surrey",N,N,"",0,460,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,131
+59033,"Surrey--Newton","Surrey--Newton"," 15","Surrey",N,N,"",0,460,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 15","Surrey",N,N,"",0,460,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+59033,"Surrey--Newton","Surrey--Newton"," 15","Surrey",N,N,"",0,460,"Singh","","Harpreet","Conservative","Conservateur",N,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 16","Surrey",N,N,"",1,371,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,91
+59033,"Surrey--Newton","Surrey--Newton"," 16","Surrey",N,N,"",1,371,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 16","Surrey",N,N,"",1,371,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 16","Surrey",N,N,"",1,371,"Singh","","Harpreet","Conservative","Conservateur",N,N,19
+59033,"Surrey--Newton","Surrey--Newton"," 17","Surrey",N,N,"",2,415,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,117
+59033,"Surrey--Newton","Surrey--Newton"," 17","Surrey",N,N,"",2,415,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 17","Surrey",N,N,"",2,415,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+59033,"Surrey--Newton","Surrey--Newton"," 17","Surrey",N,N,"",2,415,"Singh","","Harpreet","Conservative","Conservateur",N,N,12
+59033,"Surrey--Newton","Surrey--Newton"," 18","Surrey",N,N,"",2,395,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,67
+59033,"Surrey--Newton","Surrey--Newton"," 18","Surrey",N,N,"",2,395,"Sangha","","Pamela","Green Party","Parti Vert",N,N,12
+59033,"Surrey--Newton","Surrey--Newton"," 18","Surrey",N,N,"",2,395,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+59033,"Surrey--Newton","Surrey--Newton"," 18","Surrey",N,N,"",2,395,"Singh","","Harpreet","Conservative","Conservateur",N,N,42
+59033,"Surrey--Newton","Surrey--Newton"," 19","Surrey",N,N,"",0,410,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,127
+59033,"Surrey--Newton","Surrey--Newton"," 19","Surrey",N,N,"",0,410,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 19","Surrey",N,N,"",0,410,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+59033,"Surrey--Newton","Surrey--Newton"," 19","Surrey",N,N,"",0,410,"Singh","","Harpreet","Conservative","Conservateur",N,N,9
+59033,"Surrey--Newton","Surrey--Newton"," 20","Surrey",N,N,"",1,359,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,94
+59033,"Surrey--Newton","Surrey--Newton"," 20","Surrey",N,N,"",1,359,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 20","Surrey",N,N,"",1,359,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+59033,"Surrey--Newton","Surrey--Newton"," 20","Surrey",N,N,"",1,359,"Singh","","Harpreet","Conservative","Conservateur",N,N,16
+59033,"Surrey--Newton","Surrey--Newton"," 21","Surrey",N,N,"",2,528,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,127
+59033,"Surrey--Newton","Surrey--Newton"," 21","Surrey",N,N,"",2,528,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 21","Surrey",N,N,"",2,528,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 21","Surrey",N,N,"",2,528,"Singh","","Harpreet","Conservative","Conservateur",N,N,21
+59033,"Surrey--Newton","Surrey--Newton"," 22","Surrey",N,N,"",1,543,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,130
+59033,"Surrey--Newton","Surrey--Newton"," 22","Surrey",N,N,"",1,543,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 22","Surrey",N,N,"",1,543,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+59033,"Surrey--Newton","Surrey--Newton"," 22","Surrey",N,N,"",1,543,"Singh","","Harpreet","Conservative","Conservateur",N,N,16
+59033,"Surrey--Newton","Surrey--Newton"," 23","Surrey",N,N,"",1,485,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,137
+59033,"Surrey--Newton","Surrey--Newton"," 23","Surrey",N,N,"",1,485,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 23","Surrey",N,N,"",1,485,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+59033,"Surrey--Newton","Surrey--Newton"," 23","Surrey",N,N,"",1,485,"Singh","","Harpreet","Conservative","Conservateur",N,N,49
+59033,"Surrey--Newton","Surrey--Newton"," 24","Surrey",N,N,"",3,486,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,130
+59033,"Surrey--Newton","Surrey--Newton"," 24","Surrey",N,N,"",3,486,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 24","Surrey",N,N,"",3,486,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,92
+59033,"Surrey--Newton","Surrey--Newton"," 24","Surrey",N,N,"",3,486,"Singh","","Harpreet","Conservative","Conservateur",N,N,48
+59033,"Surrey--Newton","Surrey--Newton"," 25","Surrey",N,N,"",0,500,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,130
+59033,"Surrey--Newton","Surrey--Newton"," 25","Surrey",N,N,"",0,500,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 25","Surrey",N,N,"",0,500,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,76
+59033,"Surrey--Newton","Surrey--Newton"," 25","Surrey",N,N,"",0,500,"Singh","","Harpreet","Conservative","Conservateur",N,N,44
+59033,"Surrey--Newton","Surrey--Newton"," 26","Surrey",N,N,"",2,359,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,123
+59033,"Surrey--Newton","Surrey--Newton"," 26","Surrey",N,N,"",2,359,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 26","Surrey",N,N,"",2,359,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 26","Surrey",N,N,"",2,359,"Singh","","Harpreet","Conservative","Conservateur",N,N,44
+59033,"Surrey--Newton","Surrey--Newton"," 27","Surrey",N,N,"",1,421,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,134
+59033,"Surrey--Newton","Surrey--Newton"," 27","Surrey",N,N,"",1,421,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 27","Surrey",N,N,"",1,421,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+59033,"Surrey--Newton","Surrey--Newton"," 27","Surrey",N,N,"",1,421,"Singh","","Harpreet","Conservative","Conservateur",N,N,47
+59033,"Surrey--Newton","Surrey--Newton"," 28","Surrey",N,N,"",0,524,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,143
+59033,"Surrey--Newton","Surrey--Newton"," 28","Surrey",N,N,"",0,524,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 28","Surrey",N,N,"",0,524,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+59033,"Surrey--Newton","Surrey--Newton"," 28","Surrey",N,N,"",0,524,"Singh","","Harpreet","Conservative","Conservateur",N,N,68
+59033,"Surrey--Newton","Surrey--Newton"," 29A","Surrey",N,N,"",2,534,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,97
+59033,"Surrey--Newton","Surrey--Newton"," 29A","Surrey",N,N,"",2,534,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 29A","Surrey",N,N,"",2,534,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,65
+59033,"Surrey--Newton","Surrey--Newton"," 29A","Surrey",N,N,"",2,534,"Singh","","Harpreet","Conservative","Conservateur",N,N,48
+59033,"Surrey--Newton","Surrey--Newton"," 29B","Surrey",N,N,"",0,433,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,76
+59033,"Surrey--Newton","Surrey--Newton"," 29B","Surrey",N,N,"",0,433,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 29B","Surrey",N,N,"",0,433,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+59033,"Surrey--Newton","Surrey--Newton"," 29B","Surrey",N,N,"",0,433,"Singh","","Harpreet","Conservative","Conservateur",N,N,36
+59033,"Surrey--Newton","Surrey--Newton"," 30","Surrey",N,N,"",3,340,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,106
+59033,"Surrey--Newton","Surrey--Newton"," 30","Surrey",N,N,"",3,340,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 30","Surrey",N,N,"",3,340,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+59033,"Surrey--Newton","Surrey--Newton"," 30","Surrey",N,N,"",3,340,"Singh","","Harpreet","Conservative","Conservateur",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 31","Surrey",N,N,"",5,308,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,102
+59033,"Surrey--Newton","Surrey--Newton"," 31","Surrey",N,N,"",5,308,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 31","Surrey",N,N,"",5,308,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+59033,"Surrey--Newton","Surrey--Newton"," 31","Surrey",N,N,"",5,308,"Singh","","Harpreet","Conservative","Conservateur",N,N,20
+59033,"Surrey--Newton","Surrey--Newton"," 32","Surrey",N,N,"",1,546,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,165
+59033,"Surrey--Newton","Surrey--Newton"," 32","Surrey",N,N,"",1,546,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 32","Surrey",N,N,"",1,546,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,62
+59033,"Surrey--Newton","Surrey--Newton"," 32","Surrey",N,N,"",1,546,"Singh","","Harpreet","Conservative","Conservateur",N,N,22
+59033,"Surrey--Newton","Surrey--Newton"," 33","Surrey",N,N,"",2,374,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,126
+59033,"Surrey--Newton","Surrey--Newton"," 33","Surrey",N,N,"",2,374,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 33","Surrey",N,N,"",2,374,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 33","Surrey",N,N,"",2,374,"Singh","","Harpreet","Conservative","Conservateur",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 34","Surrey",N,N,"",4,522,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,178
+59033,"Surrey--Newton","Surrey--Newton"," 34","Surrey",N,N,"",4,522,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 34","Surrey",N,N,"",4,522,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+59033,"Surrey--Newton","Surrey--Newton"," 34","Surrey",N,N,"",4,522,"Singh","","Harpreet","Conservative","Conservateur",N,N,15
+59033,"Surrey--Newton","Surrey--Newton"," 35","Surrey",N,N,"",5,317,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,83
+59033,"Surrey--Newton","Surrey--Newton"," 35","Surrey",N,N,"",5,317,"Sangha","","Pamela","Green Party","Parti Vert",N,N,0
+59033,"Surrey--Newton","Surrey--Newton"," 35","Surrey",N,N,"",5,317,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 35","Surrey",N,N,"",5,317,"Singh","","Harpreet","Conservative","Conservateur",N,N,0
+59033,"Surrey--Newton","Surrey--Newton"," 36","Surrey",N,N,"",2,499,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,130
+59033,"Surrey--Newton","Surrey--Newton"," 36","Surrey",N,N,"",2,499,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 36","Surrey",N,N,"",2,499,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+59033,"Surrey--Newton","Surrey--Newton"," 36","Surrey",N,N,"",2,499,"Singh","","Harpreet","Conservative","Conservateur",N,N,63
+59033,"Surrey--Newton","Surrey--Newton"," 37","Surrey",N,N,"",0,546,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,125
+59033,"Surrey--Newton","Surrey--Newton"," 37","Surrey",N,N,"",0,546,"Sangha","","Pamela","Green Party","Parti Vert",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 37","Surrey",N,N,"",0,546,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,65
+59033,"Surrey--Newton","Surrey--Newton"," 37","Surrey",N,N,"",0,546,"Singh","","Harpreet","Conservative","Conservateur",N,N,81
+59033,"Surrey--Newton","Surrey--Newton"," 38","Surrey",N,N,"",1,302,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,48
+59033,"Surrey--Newton","Surrey--Newton"," 38","Surrey",N,N,"",1,302,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 38","Surrey",N,N,"",1,302,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 38","Surrey",N,N,"",1,302,"Singh","","Harpreet","Conservative","Conservateur",N,N,21
+59033,"Surrey--Newton","Surrey--Newton"," 39","Surrey",N,N,"",0,434,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,129
+59033,"Surrey--Newton","Surrey--Newton"," 39","Surrey",N,N,"",0,434,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 39","Surrey",N,N,"",0,434,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+59033,"Surrey--Newton","Surrey--Newton"," 39","Surrey",N,N,"",0,434,"Singh","","Harpreet","Conservative","Conservateur",N,N,12
+59033,"Surrey--Newton","Surrey--Newton"," 40","Surrey",N,N,"",3,379,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,106
+59033,"Surrey--Newton","Surrey--Newton"," 40","Surrey",N,N,"",3,379,"Sangha","","Pamela","Green Party","Parti Vert",N,N,0
+59033,"Surrey--Newton","Surrey--Newton"," 40","Surrey",N,N,"",3,379,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+59033,"Surrey--Newton","Surrey--Newton"," 40","Surrey",N,N,"",3,379,"Singh","","Harpreet","Conservative","Conservateur",N,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 41","Surrey",N,N,"",0,342,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,79
+59033,"Surrey--Newton","Surrey--Newton"," 41","Surrey",N,N,"",0,342,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 41","Surrey",N,N,"",0,342,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 41","Surrey",N,N,"",0,342,"Singh","","Harpreet","Conservative","Conservateur",N,N,21
+59033,"Surrey--Newton","Surrey--Newton"," 42","Surrey",N,N,"",0,426,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,103
+59033,"Surrey--Newton","Surrey--Newton"," 42","Surrey",N,N,"",0,426,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 42","Surrey",N,N,"",0,426,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+59033,"Surrey--Newton","Surrey--Newton"," 42","Surrey",N,N,"",0,426,"Singh","","Harpreet","Conservative","Conservateur",N,N,16
+59033,"Surrey--Newton","Surrey--Newton"," 43","Surrey",N,N,"",3,514,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,128
+59033,"Surrey--Newton","Surrey--Newton"," 43","Surrey",N,N,"",3,514,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 43","Surrey",N,N,"",3,514,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+59033,"Surrey--Newton","Surrey--Newton"," 43","Surrey",N,N,"",3,514,"Singh","","Harpreet","Conservative","Conservateur",N,N,12
+59033,"Surrey--Newton","Surrey--Newton"," 44","Surrey",N,N,"",2,503,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,142
+59033,"Surrey--Newton","Surrey--Newton"," 44","Surrey",N,N,"",2,503,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 44","Surrey",N,N,"",2,503,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 44","Surrey",N,N,"",2,503,"Singh","","Harpreet","Conservative","Conservateur",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 45","Surrey",N,N,"",1,357,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,100
+59033,"Surrey--Newton","Surrey--Newton"," 45","Surrey",N,N,"",1,357,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 45","Surrey",N,N,"",1,357,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+59033,"Surrey--Newton","Surrey--Newton"," 45","Surrey",N,N,"",1,357,"Singh","","Harpreet","Conservative","Conservateur",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 46","Surrey",N,N,"",5,539,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,147
+59033,"Surrey--Newton","Surrey--Newton"," 46","Surrey",N,N,"",5,539,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 46","Surrey",N,N,"",5,539,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+59033,"Surrey--Newton","Surrey--Newton"," 46","Surrey",N,N,"",5,539,"Singh","","Harpreet","Conservative","Conservateur",N,N,16
+59033,"Surrey--Newton","Surrey--Newton"," 47","Surrey",N,N,"",0,419,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,96
+59033,"Surrey--Newton","Surrey--Newton"," 47","Surrey",N,N,"",0,419,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 47","Surrey",N,N,"",0,419,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 47","Surrey",N,N,"",0,419,"Singh","","Harpreet","Conservative","Conservateur",N,N,16
+59033,"Surrey--Newton","Surrey--Newton"," 48","Surrey",N,N,"",1,433,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,109
+59033,"Surrey--Newton","Surrey--Newton"," 48","Surrey",N,N,"",1,433,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 48","Surrey",N,N,"",1,433,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+59033,"Surrey--Newton","Surrey--Newton"," 48","Surrey",N,N,"",1,433,"Singh","","Harpreet","Conservative","Conservateur",N,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 49","Surrey",N,N,"",3,382,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,131
+59033,"Surrey--Newton","Surrey--Newton"," 49","Surrey",N,N,"",3,382,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 49","Surrey",N,N,"",3,382,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+59033,"Surrey--Newton","Surrey--Newton"," 49","Surrey",N,N,"",3,382,"Singh","","Harpreet","Conservative","Conservateur",N,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 50","Surrey",N,N,"",0,459,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,118
+59033,"Surrey--Newton","Surrey--Newton"," 50","Surrey",N,N,"",0,459,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 50","Surrey",N,N,"",0,459,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 50","Surrey",N,N,"",0,459,"Singh","","Harpreet","Conservative","Conservateur",N,N,23
+59033,"Surrey--Newton","Surrey--Newton"," 51","Surrey",N,N,"",1,422,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,115
+59033,"Surrey--Newton","Surrey--Newton"," 51","Surrey",N,N,"",1,422,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 51","Surrey",N,N,"",1,422,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+59033,"Surrey--Newton","Surrey--Newton"," 51","Surrey",N,N,"",1,422,"Singh","","Harpreet","Conservative","Conservateur",N,N,11
+59033,"Surrey--Newton","Surrey--Newton"," 52","Surrey",N,N,"",0,564,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,114
+59033,"Surrey--Newton","Surrey--Newton"," 52","Surrey",N,N,"",0,564,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 52","Surrey",N,N,"",0,564,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+59033,"Surrey--Newton","Surrey--Newton"," 52","Surrey",N,N,"",0,564,"Singh","","Harpreet","Conservative","Conservateur",N,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 53","Surrey",N,N,"",0,357,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,71
+59033,"Surrey--Newton","Surrey--Newton"," 53","Surrey",N,N,"",0,357,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 53","Surrey",N,N,"",0,357,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 53","Surrey",N,N,"",0,357,"Singh","","Harpreet","Conservative","Conservateur",N,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 54","Surrey",N,N,"",1,281,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,59
+59033,"Surrey--Newton","Surrey--Newton"," 54","Surrey",N,N,"",1,281,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 54","Surrey",N,N,"",1,281,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 54","Surrey",N,N,"",1,281,"Singh","","Harpreet","Conservative","Conservateur",N,N,17
+59033,"Surrey--Newton","Surrey--Newton"," 55","Surrey",N,N,"",1,338,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,147
+59033,"Surrey--Newton","Surrey--Newton"," 55","Surrey",N,N,"",1,338,"Sangha","","Pamela","Green Party","Parti Vert",N,N,11
+59033,"Surrey--Newton","Surrey--Newton"," 55","Surrey",N,N,"",1,338,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+59033,"Surrey--Newton","Surrey--Newton"," 55","Surrey",N,N,"",1,338,"Singh","","Harpreet","Conservative","Conservateur",N,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 56","Surrey",N,N,"",2,381,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,98
+59033,"Surrey--Newton","Surrey--Newton"," 56","Surrey",N,N,"",2,381,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 56","Surrey",N,N,"",2,381,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+59033,"Surrey--Newton","Surrey--Newton"," 56","Surrey",N,N,"",2,381,"Singh","","Harpreet","Conservative","Conservateur",N,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 57","Surrey",N,N,"",1,392,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,116
+59033,"Surrey--Newton","Surrey--Newton"," 57","Surrey",N,N,"",1,392,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 57","Surrey",N,N,"",1,392,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 57","Surrey",N,N,"",1,392,"Singh","","Harpreet","Conservative","Conservateur",N,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 58","Surrey",N,N,"",1,461,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,108
+59033,"Surrey--Newton","Surrey--Newton"," 58","Surrey",N,N,"",1,461,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 58","Surrey",N,N,"",1,461,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+59033,"Surrey--Newton","Surrey--Newton"," 58","Surrey",N,N,"",1,461,"Singh","","Harpreet","Conservative","Conservateur",N,N,25
+59033,"Surrey--Newton","Surrey--Newton"," 59","Surrey",N,N,"",0,348,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,53
+59033,"Surrey--Newton","Surrey--Newton"," 59","Surrey",N,N,"",0,348,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 59","Surrey",N,N,"",0,348,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 59","Surrey",N,N,"",0,348,"Singh","","Harpreet","Conservative","Conservateur",N,N,24
+59033,"Surrey--Newton","Surrey--Newton"," 60","Surrey",N,N,"",1,335,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,82
+59033,"Surrey--Newton","Surrey--Newton"," 60","Surrey",N,N,"",1,335,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 60","Surrey",N,N,"",1,335,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 60","Surrey",N,N,"",1,335,"Singh","","Harpreet","Conservative","Conservateur",N,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 61","Surrey",N,N,"",0,314,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,57
+59033,"Surrey--Newton","Surrey--Newton"," 61","Surrey",N,N,"",0,314,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 61","Surrey",N,N,"",0,314,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,20
+59033,"Surrey--Newton","Surrey--Newton"," 61","Surrey",N,N,"",0,314,"Singh","","Harpreet","Conservative","Conservateur",N,N,18
+59033,"Surrey--Newton","Surrey--Newton"," 62","Surrey",N,N,"",1,448,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,113
+59033,"Surrey--Newton","Surrey--Newton"," 62","Surrey",N,N,"",1,448,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 62","Surrey",N,N,"",1,448,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+59033,"Surrey--Newton","Surrey--Newton"," 62","Surrey",N,N,"",1,448,"Singh","","Harpreet","Conservative","Conservateur",N,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 63","Surrey",N,N,"",0,485,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,79
+59033,"Surrey--Newton","Surrey--Newton"," 63","Surrey",N,N,"",0,485,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 63","Surrey",N,N,"",0,485,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 63","Surrey",N,N,"",0,485,"Singh","","Harpreet","Conservative","Conservateur",N,N,58
+59033,"Surrey--Newton","Surrey--Newton"," 64","Surrey",N,N,"",0,575,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,114
+59033,"Surrey--Newton","Surrey--Newton"," 64","Surrey",N,N,"",0,575,"Sangha","","Pamela","Green Party","Parti Vert",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 64","Surrey",N,N,"",0,575,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,113
+59033,"Surrey--Newton","Surrey--Newton"," 64","Surrey",N,N,"",0,575,"Singh","","Harpreet","Conservative","Conservateur",N,N,62
+59033,"Surrey--Newton","Surrey--Newton"," 65","Surrey",N,N,"",0,320,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,62
+59033,"Surrey--Newton","Surrey--Newton"," 65","Surrey",N,N,"",0,320,"Sangha","","Pamela","Green Party","Parti Vert",N,N,12
+59033,"Surrey--Newton","Surrey--Newton"," 65","Surrey",N,N,"",0,320,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 65","Surrey",N,N,"",0,320,"Singh","","Harpreet","Conservative","Conservateur",N,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 66","Surrey",N,N,"",0,545,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,91
+59033,"Surrey--Newton","Surrey--Newton"," 66","Surrey",N,N,"",0,545,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 66","Surrey",N,N,"",0,545,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+59033,"Surrey--Newton","Surrey--Newton"," 66","Surrey",N,N,"",0,545,"Singh","","Harpreet","Conservative","Conservateur",N,N,55
+59033,"Surrey--Newton","Surrey--Newton"," 67","Surrey",N,N,"",1,423,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,69
+59033,"Surrey--Newton","Surrey--Newton"," 67","Surrey",N,N,"",1,423,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 67","Surrey",N,N,"",1,423,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+59033,"Surrey--Newton","Surrey--Newton"," 67","Surrey",N,N,"",1,423,"Singh","","Harpreet","Conservative","Conservateur",N,N,48
+59033,"Surrey--Newton","Surrey--Newton"," 68","Surrey",N,N,"",1,454,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,93
+59033,"Surrey--Newton","Surrey--Newton"," 68","Surrey",N,N,"",1,454,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 68","Surrey",N,N,"",1,454,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+59033,"Surrey--Newton","Surrey--Newton"," 68","Surrey",N,N,"",1,454,"Singh","","Harpreet","Conservative","Conservateur",N,N,31
+59033,"Surrey--Newton","Surrey--Newton"," 69","Surrey",N,N,"",1,515,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,115
+59033,"Surrey--Newton","Surrey--Newton"," 69","Surrey",N,N,"",1,515,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 69","Surrey",N,N,"",1,515,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+59033,"Surrey--Newton","Surrey--Newton"," 69","Surrey",N,N,"",1,515,"Singh","","Harpreet","Conservative","Conservateur",N,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 70","Surrey",N,N,"",1,503,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,88
+59033,"Surrey--Newton","Surrey--Newton"," 70","Surrey",N,N,"",1,503,"Sangha","","Pamela","Green Party","Parti Vert",N,N,14
+59033,"Surrey--Newton","Surrey--Newton"," 70","Surrey",N,N,"",1,503,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+59033,"Surrey--Newton","Surrey--Newton"," 70","Surrey",N,N,"",1,503,"Singh","","Harpreet","Conservative","Conservateur",N,N,31
+59033,"Surrey--Newton","Surrey--Newton"," 71","Surrey",N,N,"",1,378,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,114
+59033,"Surrey--Newton","Surrey--Newton"," 71","Surrey",N,N,"",1,378,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 71","Surrey",N,N,"",1,378,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+59033,"Surrey--Newton","Surrey--Newton"," 71","Surrey",N,N,"",1,378,"Singh","","Harpreet","Conservative","Conservateur",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 72","Surrey",N,N,"",3,444,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,108
+59033,"Surrey--Newton","Surrey--Newton"," 72","Surrey",N,N,"",3,444,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 72","Surrey",N,N,"",3,444,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 72","Surrey",N,N,"",3,444,"Singh","","Harpreet","Conservative","Conservateur",N,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 73","Surrey",N,N,"",0,496,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,90
+59033,"Surrey--Newton","Surrey--Newton"," 73","Surrey",N,N,"",0,496,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 73","Surrey",N,N,"",0,496,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+59033,"Surrey--Newton","Surrey--Newton"," 73","Surrey",N,N,"",0,496,"Singh","","Harpreet","Conservative","Conservateur",N,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 74","Surrey",N,N,"",0,514,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,84
+59033,"Surrey--Newton","Surrey--Newton"," 74","Surrey",N,N,"",0,514,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 74","Surrey",N,N,"",0,514,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 74","Surrey",N,N,"",0,514,"Singh","","Harpreet","Conservative","Conservateur",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 75","Surrey",N,N,"",1,469,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,169
+59033,"Surrey--Newton","Surrey--Newton"," 75","Surrey",N,N,"",1,469,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 75","Surrey",N,N,"",1,469,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+59033,"Surrey--Newton","Surrey--Newton"," 75","Surrey",N,N,"",1,469,"Singh","","Harpreet","Conservative","Conservateur",N,N,9
+59033,"Surrey--Newton","Surrey--Newton"," 76","Surrey",N,N,"",1,536,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,147
+59033,"Surrey--Newton","Surrey--Newton"," 76","Surrey",N,N,"",1,536,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 76","Surrey",N,N,"",1,536,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+59033,"Surrey--Newton","Surrey--Newton"," 76","Surrey",N,N,"",1,536,"Singh","","Harpreet","Conservative","Conservateur",N,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 77","Surrey",N,N,"",0,413,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,117
+59033,"Surrey--Newton","Surrey--Newton"," 77","Surrey",N,N,"",0,413,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 77","Surrey",N,N,"",0,413,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+59033,"Surrey--Newton","Surrey--Newton"," 77","Surrey",N,N,"",0,413,"Singh","","Harpreet","Conservative","Conservateur",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 78","Surrey",N,N,"",1,348,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,94
+59033,"Surrey--Newton","Surrey--Newton"," 78","Surrey",N,N,"",1,348,"Sangha","","Pamela","Green Party","Parti Vert",N,N,0
+59033,"Surrey--Newton","Surrey--Newton"," 78","Surrey",N,N,"",1,348,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 78","Surrey",N,N,"",1,348,"Singh","","Harpreet","Conservative","Conservateur",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 79","Surrey",N,N,"",3,423,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,133
+59033,"Surrey--Newton","Surrey--Newton"," 79","Surrey",N,N,"",3,423,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 79","Surrey",N,N,"",3,423,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+59033,"Surrey--Newton","Surrey--Newton"," 79","Surrey",N,N,"",3,423,"Singh","","Harpreet","Conservative","Conservateur",N,N,17
+59033,"Surrey--Newton","Surrey--Newton"," 80","Surrey",N,N,"",0,539,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,122
+59033,"Surrey--Newton","Surrey--Newton"," 80","Surrey",N,N,"",0,539,"Sangha","","Pamela","Green Party","Parti Vert",N,N,0
+59033,"Surrey--Newton","Surrey--Newton"," 80","Surrey",N,N,"",0,539,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 80","Surrey",N,N,"",0,539,"Singh","","Harpreet","Conservative","Conservateur",N,N,20
+59033,"Surrey--Newton","Surrey--Newton"," 81","Surrey",N,N,"",3,551,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,154
+59033,"Surrey--Newton","Surrey--Newton"," 81","Surrey",N,N,"",3,551,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 81","Surrey",N,N,"",3,551,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 81","Surrey",N,N,"",3,551,"Singh","","Harpreet","Conservative","Conservateur",N,N,22
+59033,"Surrey--Newton","Surrey--Newton"," 82","Surrey",N,N,"",2,412,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,115
+59033,"Surrey--Newton","Surrey--Newton"," 82","Surrey",N,N,"",2,412,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 82","Surrey",N,N,"",2,412,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 82","Surrey",N,N,"",2,412,"Singh","","Harpreet","Conservative","Conservateur",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 83","Surrey",N,N,"",0,500,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,133
+59033,"Surrey--Newton","Surrey--Newton"," 83","Surrey",N,N,"",0,500,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 83","Surrey",N,N,"",0,500,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+59033,"Surrey--Newton","Surrey--Newton"," 83","Surrey",N,N,"",0,500,"Singh","","Harpreet","Conservative","Conservateur",N,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 84","Surrey",N,N,"",1,538,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,136
+59033,"Surrey--Newton","Surrey--Newton"," 84","Surrey",N,N,"",1,538,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 84","Surrey",N,N,"",1,538,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+59033,"Surrey--Newton","Surrey--Newton"," 84","Surrey",N,N,"",1,538,"Singh","","Harpreet","Conservative","Conservateur",N,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 85","Surrey",N,N,"",1,465,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,139
+59033,"Surrey--Newton","Surrey--Newton"," 85","Surrey",N,N,"",1,465,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 85","Surrey",N,N,"",1,465,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+59033,"Surrey--Newton","Surrey--Newton"," 85","Surrey",N,N,"",1,465,"Singh","","Harpreet","Conservative","Conservateur",N,N,19
+59033,"Surrey--Newton","Surrey--Newton"," 86","Surrey",N,N,"",0,171,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,48
+59033,"Surrey--Newton","Surrey--Newton"," 86","Surrey",N,N,"",0,171,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 86","Surrey",N,N,"",0,171,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 86","Surrey",N,N,"",0,171,"Singh","","Harpreet","Conservative","Conservateur",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 87","Surrey",N,N,"",0,415,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,126
+59033,"Surrey--Newton","Surrey--Newton"," 87","Surrey",N,N,"",0,415,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 87","Surrey",N,N,"",0,415,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+59033,"Surrey--Newton","Surrey--Newton"," 87","Surrey",N,N,"",0,415,"Singh","","Harpreet","Conservative","Conservateur",N,N,42
+59033,"Surrey--Newton","Surrey--Newton"," 88A","Surrey",N,N,"",1,402,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,110
+59033,"Surrey--Newton","Surrey--Newton"," 88A","Surrey",N,N,"",1,402,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 88A","Surrey",N,N,"",1,402,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+59033,"Surrey--Newton","Surrey--Newton"," 88A","Surrey",N,N,"",1,402,"Singh","","Harpreet","Conservative","Conservateur",N,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 88B","Surrey",N,N,"",2,284,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,93
+59033,"Surrey--Newton","Surrey--Newton"," 88B","Surrey",N,N,"",2,284,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 88B","Surrey",N,N,"",2,284,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,25
+59033,"Surrey--Newton","Surrey--Newton"," 88B","Surrey",N,N,"",2,284,"Singh","","Harpreet","Conservative","Conservateur",N,N,18
+59033,"Surrey--Newton","Surrey--Newton"," 89","Surrey",N,N,"",2,408,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,110
+59033,"Surrey--Newton","Surrey--Newton"," 89","Surrey",N,N,"",2,408,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 89","Surrey",N,N,"",2,408,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 89","Surrey",N,N,"",2,408,"Singh","","Harpreet","Conservative","Conservateur",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 90","Surrey",N,N,"",3,568,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,132
+59033,"Surrey--Newton","Surrey--Newton"," 90","Surrey",N,N,"",3,568,"Sangha","","Pamela","Green Party","Parti Vert",N,N,9
+59033,"Surrey--Newton","Surrey--Newton"," 90","Surrey",N,N,"",3,568,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+59033,"Surrey--Newton","Surrey--Newton"," 90","Surrey",N,N,"",3,568,"Singh","","Harpreet","Conservative","Conservateur",N,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 91","Surrey",N,N,"",2,461,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,81
+59033,"Surrey--Newton","Surrey--Newton"," 91","Surrey",N,N,"",2,461,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 91","Surrey",N,N,"",2,461,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,42
+59033,"Surrey--Newton","Surrey--Newton"," 91","Surrey",N,N,"",2,461,"Singh","","Harpreet","Conservative","Conservateur",N,N,30
+59033,"Surrey--Newton","Surrey--Newton"," 92","Surrey",N,N,"",2,432,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,120
+59033,"Surrey--Newton","Surrey--Newton"," 92","Surrey",N,N,"",2,432,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 92","Surrey",N,N,"",2,432,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 92","Surrey",N,N,"",2,432,"Singh","","Harpreet","Conservative","Conservateur",N,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 93","Surrey",N,N,"",0,452,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,109
+59033,"Surrey--Newton","Surrey--Newton"," 93","Surrey",N,N,"",0,452,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 93","Surrey",N,N,"",0,452,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+59033,"Surrey--Newton","Surrey--Newton"," 93","Surrey",N,N,"",0,452,"Singh","","Harpreet","Conservative","Conservateur",N,N,21
+59033,"Surrey--Newton","Surrey--Newton"," 94","Surrey",N,N,"",0,515,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,120
+59033,"Surrey--Newton","Surrey--Newton"," 94","Surrey",N,N,"",0,515,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 94","Surrey",N,N,"",0,515,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+59033,"Surrey--Newton","Surrey--Newton"," 94","Surrey",N,N,"",0,515,"Singh","","Harpreet","Conservative","Conservateur",N,N,17
+59033,"Surrey--Newton","Surrey--Newton"," 95","Surrey",N,N,"",5,474,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,106
+59033,"Surrey--Newton","Surrey--Newton"," 95","Surrey",N,N,"",5,474,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 95","Surrey",N,N,"",5,474,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,21
+59033,"Surrey--Newton","Surrey--Newton"," 95","Surrey",N,N,"",5,474,"Singh","","Harpreet","Conservative","Conservateur",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 96","Surrey",N,N,"",1,584,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,138
+59033,"Surrey--Newton","Surrey--Newton"," 96","Surrey",N,N,"",1,584,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 96","Surrey",N,N,"",1,584,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+59033,"Surrey--Newton","Surrey--Newton"," 96","Surrey",N,N,"",1,584,"Singh","","Harpreet","Conservative","Conservateur",N,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 97","Surrey",N,N,"",2,370,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,74
+59033,"Surrey--Newton","Surrey--Newton"," 97","Surrey",N,N,"",2,370,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 97","Surrey",N,N,"",2,370,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 97","Surrey",N,N,"",2,370,"Singh","","Harpreet","Conservative","Conservateur",N,N,18
+59033,"Surrey--Newton","Surrey--Newton"," 98","Surrey",N,N,"",0,571,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,142
+59033,"Surrey--Newton","Surrey--Newton"," 98","Surrey",N,N,"",0,571,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 98","Surrey",N,N,"",0,571,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+59033,"Surrey--Newton","Surrey--Newton"," 98","Surrey",N,N,"",0,571,"Singh","","Harpreet","Conservative","Conservateur",N,N,33
+59033,"Surrey--Newton","Surrey--Newton"," 99","Surrey",N,N,"",2,437,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,118
+59033,"Surrey--Newton","Surrey--Newton"," 99","Surrey",N,N,"",2,437,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 99","Surrey",N,N,"",2,437,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+59033,"Surrey--Newton","Surrey--Newton"," 99","Surrey",N,N,"",2,437,"Singh","","Harpreet","Conservative","Conservateur",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 100","Surrey",N,N,"",4,558,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,146
+59033,"Surrey--Newton","Surrey--Newton"," 100","Surrey",N,N,"",4,558,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 100","Surrey",N,N,"",4,558,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+59033,"Surrey--Newton","Surrey--Newton"," 100","Surrey",N,N,"",4,558,"Singh","","Harpreet","Conservative","Conservateur",N,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 101","Surrey",N,N,"",2,419,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,82
+59033,"Surrey--Newton","Surrey--Newton"," 101","Surrey",N,N,"",2,419,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 101","Surrey",N,N,"",2,419,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+59033,"Surrey--Newton","Surrey--Newton"," 101","Surrey",N,N,"",2,419,"Singh","","Harpreet","Conservative","Conservateur",N,N,104
+59033,"Surrey--Newton","Surrey--Newton"," 102","Surrey",N,N,"",3,556,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,161
+59033,"Surrey--Newton","Surrey--Newton"," 102","Surrey",N,N,"",3,556,"Sangha","","Pamela","Green Party","Parti Vert",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 102","Surrey",N,N,"",3,556,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,67
+59033,"Surrey--Newton","Surrey--Newton"," 102","Surrey",N,N,"",3,556,"Singh","","Harpreet","Conservative","Conservateur",N,N,98
+59033,"Surrey--Newton","Surrey--Newton"," 103","Surrey",N,N,"",1,371,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,84
+59033,"Surrey--Newton","Surrey--Newton"," 103","Surrey",N,N,"",1,371,"Sangha","","Pamela","Green Party","Parti Vert",N,N,9
+59033,"Surrey--Newton","Surrey--Newton"," 103","Surrey",N,N,"",1,371,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 103","Surrey",N,N,"",1,371,"Singh","","Harpreet","Conservative","Conservateur",N,N,86
+59033,"Surrey--Newton","Surrey--Newton"," 104","Surrey",N,N,"",0,458,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,106
+59033,"Surrey--Newton","Surrey--Newton"," 104","Surrey",N,N,"",0,458,"Sangha","","Pamela","Green Party","Parti Vert",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 104","Surrey",N,N,"",0,458,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,62
+59033,"Surrey--Newton","Surrey--Newton"," 104","Surrey",N,N,"",0,458,"Singh","","Harpreet","Conservative","Conservateur",N,N,90
+59033,"Surrey--Newton","Surrey--Newton"," 105","Surrey",N,N,"",0,396,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,102
+59033,"Surrey--Newton","Surrey--Newton"," 105","Surrey",N,N,"",0,396,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 105","Surrey",N,N,"",0,396,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+59033,"Surrey--Newton","Surrey--Newton"," 105","Surrey",N,N,"",0,396,"Singh","","Harpreet","Conservative","Conservateur",N,N,69
+59033,"Surrey--Newton","Surrey--Newton"," 106","Surrey",N,N,"",1,296,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,77
+59033,"Surrey--Newton","Surrey--Newton"," 106","Surrey",N,N,"",1,296,"Sangha","","Pamela","Green Party","Parti Vert",N,N,12
+59033,"Surrey--Newton","Surrey--Newton"," 106","Surrey",N,N,"",1,296,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 106","Surrey",N,N,"",1,296,"Singh","","Harpreet","Conservative","Conservateur",N,N,57
+59033,"Surrey--Newton","Surrey--Newton"," 107","Surrey",N,N,"",1,356,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,79
+59033,"Surrey--Newton","Surrey--Newton"," 107","Surrey",N,N,"",1,356,"Sangha","","Pamela","Green Party","Parti Vert",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 107","Surrey",N,N,"",1,356,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+59033,"Surrey--Newton","Surrey--Newton"," 107","Surrey",N,N,"",1,356,"Singh","","Harpreet","Conservative","Conservateur",N,N,94
+59033,"Surrey--Newton","Surrey--Newton"," 108","Surrey",N,N,"",1,428,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,90
+59033,"Surrey--Newton","Surrey--Newton"," 108","Surrey",N,N,"",1,428,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 108","Surrey",N,N,"",1,428,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,42
+59033,"Surrey--Newton","Surrey--Newton"," 108","Surrey",N,N,"",1,428,"Singh","","Harpreet","Conservative","Conservateur",N,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 109","Surrey",N,N,"",1,360,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,88
+59033,"Surrey--Newton","Surrey--Newton"," 109","Surrey",N,N,"",1,360,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 109","Surrey",N,N,"",1,360,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+59033,"Surrey--Newton","Surrey--Newton"," 109","Surrey",N,N,"",1,360,"Singh","","Harpreet","Conservative","Conservateur",N,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 110","Surrey",N,N,"",5,445,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,114
+59033,"Surrey--Newton","Surrey--Newton"," 110","Surrey",N,N,"",5,445,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 110","Surrey",N,N,"",5,445,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+59033,"Surrey--Newton","Surrey--Newton"," 110","Surrey",N,N,"",5,445,"Singh","","Harpreet","Conservative","Conservateur",N,N,14
+59033,"Surrey--Newton","Surrey--Newton"," 111","Surrey",N,N,"",0,502,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,105
+59033,"Surrey--Newton","Surrey--Newton"," 111","Surrey",N,N,"",0,502,"Sangha","","Pamela","Green Party","Parti Vert",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 111","Surrey",N,N,"",0,502,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,76
+59033,"Surrey--Newton","Surrey--Newton"," 111","Surrey",N,N,"",0,502,"Singh","","Harpreet","Conservative","Conservateur",N,N,41
+59033,"Surrey--Newton","Surrey--Newton"," 112","Surrey",N,N,"",1,492,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,87
+59033,"Surrey--Newton","Surrey--Newton"," 112","Surrey",N,N,"",1,492,"Sangha","","Pamela","Green Party","Parti Vert",N,N,17
+59033,"Surrey--Newton","Surrey--Newton"," 112","Surrey",N,N,"",1,492,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+59033,"Surrey--Newton","Surrey--Newton"," 112","Surrey",N,N,"",1,492,"Singh","","Harpreet","Conservative","Conservateur",N,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 113","Surrey",N,N,"",3,414,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,123
+59033,"Surrey--Newton","Surrey--Newton"," 113","Surrey",N,N,"",3,414,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 113","Surrey",N,N,"",3,414,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,65
+59033,"Surrey--Newton","Surrey--Newton"," 113","Surrey",N,N,"",3,414,"Singh","","Harpreet","Conservative","Conservateur",N,N,27
+59033,"Surrey--Newton","Surrey--Newton"," 114A","Surrey",N,N,"",1,380,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,70
+59033,"Surrey--Newton","Surrey--Newton"," 114A","Surrey",N,N,"",1,380,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 114A","Surrey",N,N,"",1,380,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+59033,"Surrey--Newton","Surrey--Newton"," 114A","Surrey",N,N,"",1,380,"Singh","","Harpreet","Conservative","Conservateur",N,N,50
+59033,"Surrey--Newton","Surrey--Newton"," 114B","Surrey",N,N,"",0,256,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,72
+59033,"Surrey--Newton","Surrey--Newton"," 114B","Surrey",N,N,"",0,256,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 114B","Surrey",N,N,"",0,256,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+59033,"Surrey--Newton","Surrey--Newton"," 114B","Surrey",N,N,"",0,256,"Singh","","Harpreet","Conservative","Conservateur",N,N,22
+59033,"Surrey--Newton","Surrey--Newton"," 115","Surrey",N,N,"",2,478,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,69
+59033,"Surrey--Newton","Surrey--Newton"," 115","Surrey",N,N,"",2,478,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 115","Surrey",N,N,"",2,478,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 115","Surrey",N,N,"",2,478,"Singh","","Harpreet","Conservative","Conservateur",N,N,116
+59033,"Surrey--Newton","Surrey--Newton"," 116","Surrey",N,N,"",1,447,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,129
+59033,"Surrey--Newton","Surrey--Newton"," 116","Surrey",N,N,"",1,447,"Sangha","","Pamela","Green Party","Parti Vert",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 116","Surrey",N,N,"",1,447,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+59033,"Surrey--Newton","Surrey--Newton"," 116","Surrey",N,N,"",1,447,"Singh","","Harpreet","Conservative","Conservateur",N,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 117","Surrey",N,N,"",1,547,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,112
+59033,"Surrey--Newton","Surrey--Newton"," 117","Surrey",N,N,"",1,547,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 117","Surrey",N,N,"",1,547,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+59033,"Surrey--Newton","Surrey--Newton"," 117","Surrey",N,N,"",1,547,"Singh","","Harpreet","Conservative","Conservateur",N,N,39
+59033,"Surrey--Newton","Surrey--Newton"," 118","Surrey",N,N,"",1,455,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,75
+59033,"Surrey--Newton","Surrey--Newton"," 118","Surrey",N,N,"",1,455,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 118","Surrey",N,N,"",1,455,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+59033,"Surrey--Newton","Surrey--Newton"," 118","Surrey",N,N,"",1,455,"Singh","","Harpreet","Conservative","Conservateur",N,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 119","Surrey",N,N,"",0,525,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,146
+59033,"Surrey--Newton","Surrey--Newton"," 119","Surrey",N,N,"",0,525,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 119","Surrey",N,N,"",0,525,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 119","Surrey",N,N,"",0,525,"Singh","","Harpreet","Conservative","Conservateur",N,N,39
+59033,"Surrey--Newton","Surrey--Newton"," 120","Surrey",N,N,"",1,406,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,108
+59033,"Surrey--Newton","Surrey--Newton"," 120","Surrey",N,N,"",1,406,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 120","Surrey",N,N,"",1,406,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+59033,"Surrey--Newton","Surrey--Newton"," 120","Surrey",N,N,"",1,406,"Singh","","Harpreet","Conservative","Conservateur",N,N,32
+59033,"Surrey--Newton","Surrey--Newton"," 121","Surrey",N,N,"",1,523,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,119
+59033,"Surrey--Newton","Surrey--Newton"," 121","Surrey",N,N,"",1,523,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 121","Surrey",N,N,"",1,523,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+59033,"Surrey--Newton","Surrey--Newton"," 121","Surrey",N,N,"",1,523,"Singh","","Harpreet","Conservative","Conservateur",N,N,37
+59033,"Surrey--Newton","Surrey--Newton"," 122","Surrey",N,N,"",0,578,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,106
+59033,"Surrey--Newton","Surrey--Newton"," 122","Surrey",N,N,"",0,578,"Sangha","","Pamela","Green Party","Parti Vert",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 122","Surrey",N,N,"",0,578,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,74
+59033,"Surrey--Newton","Surrey--Newton"," 122","Surrey",N,N,"",0,578,"Singh","","Harpreet","Conservative","Conservateur",N,N,74
+59033,"Surrey--Newton","Surrey--Newton"," 123A","Surrey",N,N,"",0,377,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,125
+59033,"Surrey--Newton","Surrey--Newton"," 123A","Surrey",N,N,"",0,377,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 123A","Surrey",N,N,"",0,377,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 123A","Surrey",N,N,"",0,377,"Singh","","Harpreet","Conservative","Conservateur",N,N,18
+59033,"Surrey--Newton","Surrey--Newton"," 123B","Surrey",N,N,"",1,264,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,89
+59033,"Surrey--Newton","Surrey--Newton"," 123B","Surrey",N,N,"",1,264,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 123B","Surrey",N,N,"",1,264,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 123B","Surrey",N,N,"",1,264,"Singh","","Harpreet","Conservative","Conservateur",N,N,14
+59033,"Surrey--Newton","Surrey--Newton"," 124","Surrey",N,N,"",1,458,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,162
+59033,"Surrey--Newton","Surrey--Newton"," 124","Surrey",N,N,"",1,458,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 124","Surrey",N,N,"",1,458,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+59033,"Surrey--Newton","Surrey--Newton"," 124","Surrey",N,N,"",1,458,"Singh","","Harpreet","Conservative","Conservateur",N,N,15
+59033,"Surrey--Newton","Surrey--Newton"," 125","Surrey",N,N,"",3,360,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,94
+59033,"Surrey--Newton","Surrey--Newton"," 125","Surrey",N,N,"",3,360,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 125","Surrey",N,N,"",3,360,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 125","Surrey",N,N,"",3,360,"Singh","","Harpreet","Conservative","Conservateur",N,N,21
+59033,"Surrey--Newton","Surrey--Newton"," 126","Surrey",N,N,"",1,418,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,117
+59033,"Surrey--Newton","Surrey--Newton"," 126","Surrey",N,N,"",1,418,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 126","Surrey",N,N,"",1,418,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+59033,"Surrey--Newton","Surrey--Newton"," 126","Surrey",N,N,"",1,418,"Singh","","Harpreet","Conservative","Conservateur",N,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 127A","Surrey",N,N,"",0,319,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,94
+59033,"Surrey--Newton","Surrey--Newton"," 127A","Surrey",N,N,"",0,319,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 127A","Surrey",N,N,"",0,319,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+59033,"Surrey--Newton","Surrey--Newton"," 127A","Surrey",N,N,"",0,319,"Singh","","Harpreet","Conservative","Conservateur",N,N,16
+59033,"Surrey--Newton","Surrey--Newton"," 127B","Surrey",N,N,"",0,292,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,68
+59033,"Surrey--Newton","Surrey--Newton"," 127B","Surrey",N,N,"",0,292,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 127B","Surrey",N,N,"",0,292,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,21
+59033,"Surrey--Newton","Surrey--Newton"," 127B","Surrey",N,N,"",0,292,"Singh","","Harpreet","Conservative","Conservateur",N,N,25
+59033,"Surrey--Newton","Surrey--Newton"," 128","Surrey",N,N,"",4,418,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,160
+59033,"Surrey--Newton","Surrey--Newton"," 128","Surrey",N,N,"",4,418,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 128","Surrey",N,N,"",4,418,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+59033,"Surrey--Newton","Surrey--Newton"," 128","Surrey",N,N,"",4,418,"Singh","","Harpreet","Conservative","Conservateur",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 129","Surrey",N,N,"",0,440,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,127
+59033,"Surrey--Newton","Surrey--Newton"," 129","Surrey",N,N,"",0,440,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 129","Surrey",N,N,"",0,440,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+59033,"Surrey--Newton","Surrey--Newton"," 129","Surrey",N,N,"",0,440,"Singh","","Harpreet","Conservative","Conservateur",N,N,18
+59033,"Surrey--Newton","Surrey--Newton"," 130","Surrey",N,N,"",1,557,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,183
+59033,"Surrey--Newton","Surrey--Newton"," 130","Surrey",N,N,"",1,557,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 130","Surrey",N,N,"",1,557,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+59033,"Surrey--Newton","Surrey--Newton"," 130","Surrey",N,N,"",1,557,"Singh","","Harpreet","Conservative","Conservateur",N,N,23
+59033,"Surrey--Newton","Surrey--Newton"," 131","Surrey",N,N,"",0,398,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,108
+59033,"Surrey--Newton","Surrey--Newton"," 131","Surrey",N,N,"",0,398,"Sangha","","Pamela","Green Party","Parti Vert",N,N,9
+59033,"Surrey--Newton","Surrey--Newton"," 131","Surrey",N,N,"",0,398,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+59033,"Surrey--Newton","Surrey--Newton"," 131","Surrey",N,N,"",0,398,"Singh","","Harpreet","Conservative","Conservateur",N,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 132","Surrey",N,N,"",1,354,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,90
+59033,"Surrey--Newton","Surrey--Newton"," 132","Surrey",N,N,"",1,354,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 132","Surrey",N,N,"",1,354,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+59033,"Surrey--Newton","Surrey--Newton"," 132","Surrey",N,N,"",1,354,"Singh","","Harpreet","Conservative","Conservateur",N,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 133","Surrey",N,N,"",1,472,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,109
+59033,"Surrey--Newton","Surrey--Newton"," 133","Surrey",N,N,"",1,472,"Sangha","","Pamela","Green Party","Parti Vert",N,N,5
+59033,"Surrey--Newton","Surrey--Newton"," 133","Surrey",N,N,"",1,472,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+59033,"Surrey--Newton","Surrey--Newton"," 133","Surrey",N,N,"",1,472,"Singh","","Harpreet","Conservative","Conservateur",N,N,36
+59033,"Surrey--Newton","Surrey--Newton"," 134","Surrey",N,N,"",0,384,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,97
+59033,"Surrey--Newton","Surrey--Newton"," 134","Surrey",N,N,"",0,384,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 134","Surrey",N,N,"",0,384,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 134","Surrey",N,N,"",0,384,"Singh","","Harpreet","Conservative","Conservateur",N,N,31
+59033,"Surrey--Newton","Surrey--Newton"," 135","Surrey",N,N,"",0,416,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,96
+59033,"Surrey--Newton","Surrey--Newton"," 135","Surrey",N,N,"",0,416,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 135","Surrey",N,N,"",0,416,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 135","Surrey",N,N,"",0,416,"Singh","","Harpreet","Conservative","Conservateur",N,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 136","Surrey",N,N,"",0,388,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,91
+59033,"Surrey--Newton","Surrey--Newton"," 136","Surrey",N,N,"",0,388,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 136","Surrey",N,N,"",0,388,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+59033,"Surrey--Newton","Surrey--Newton"," 136","Surrey",N,N,"",0,388,"Singh","","Harpreet","Conservative","Conservateur",N,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 137","Surrey",N,N,"",0,494,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,102
+59033,"Surrey--Newton","Surrey--Newton"," 137","Surrey",N,N,"",0,494,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," 137","Surrey",N,N,"",0,494,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+59033,"Surrey--Newton","Surrey--Newton"," 137","Surrey",N,N,"",0,494,"Singh","","Harpreet","Conservative","Conservateur",N,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 138","Surrey",N,N,"",1,465,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,110
+59033,"Surrey--Newton","Surrey--Newton"," 138","Surrey",N,N,"",1,465,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 138","Surrey",N,N,"",1,465,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 138","Surrey",N,N,"",1,465,"Singh","","Harpreet","Conservative","Conservateur",N,N,19
+59033,"Surrey--Newton","Surrey--Newton"," 139","Surrey",N,N,"",0,401,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,78
+59033,"Surrey--Newton","Surrey--Newton"," 139","Surrey",N,N,"",0,401,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 139","Surrey",N,N,"",0,401,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+59033,"Surrey--Newton","Surrey--Newton"," 139","Surrey",N,N,"",0,401,"Singh","","Harpreet","Conservative","Conservateur",N,N,40
+59033,"Surrey--Newton","Surrey--Newton"," 140","Surrey",N,N,"",0,357,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,79
+59033,"Surrey--Newton","Surrey--Newton"," 140","Surrey",N,N,"",0,357,"Sangha","","Pamela","Green Party","Parti Vert",N,N,4
+59033,"Surrey--Newton","Surrey--Newton"," 140","Surrey",N,N,"",0,357,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+59033,"Surrey--Newton","Surrey--Newton"," 140","Surrey",N,N,"",0,357,"Singh","","Harpreet","Conservative","Conservateur",N,N,41
+59033,"Surrey--Newton","Surrey--Newton"," 141A","Surrey",N,N,"",0,500,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,111
+59033,"Surrey--Newton","Surrey--Newton"," 141A","Surrey",N,N,"",0,500,"Sangha","","Pamela","Green Party","Parti Vert",N,N,13
+59033,"Surrey--Newton","Surrey--Newton"," 141A","Surrey",N,N,"",0,500,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 141A","Surrey",N,N,"",0,500,"Singh","","Harpreet","Conservative","Conservateur",N,N,52
+59033,"Surrey--Newton","Surrey--Newton"," 141B","Surrey",N,N,"",1,442,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,109
+59033,"Surrey--Newton","Surrey--Newton"," 141B","Surrey",N,N,"",1,442,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 141B","Surrey",N,N,"",1,442,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 141B","Surrey",N,N,"",1,442,"Singh","","Harpreet","Conservative","Conservateur",N,N,46
+59033,"Surrey--Newton","Surrey--Newton"," 142A","Surrey",N,N,"",4,456,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,143
+59033,"Surrey--Newton","Surrey--Newton"," 142A","Surrey",N,N,"",4,456,"Sangha","","Pamela","Green Party","Parti Vert",N,N,6
+59033,"Surrey--Newton","Surrey--Newton"," 142A","Surrey",N,N,"",4,456,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+59033,"Surrey--Newton","Surrey--Newton"," 142A","Surrey",N,N,"",4,456,"Singh","","Harpreet","Conservative","Conservateur",N,N,45
+59033,"Surrey--Newton","Surrey--Newton"," 142B","Surrey",N,N,"",3,388,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,117
+59033,"Surrey--Newton","Surrey--Newton"," 142B","Surrey",N,N,"",3,388,"Sangha","","Pamela","Green Party","Parti Vert",N,N,0
+59033,"Surrey--Newton","Surrey--Newton"," 142B","Surrey",N,N,"",3,388,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+59033,"Surrey--Newton","Surrey--Newton"," 142B","Surrey",N,N,"",3,388,"Singh","","Harpreet","Conservative","Conservateur",N,N,35
+59033,"Surrey--Newton","Surrey--Newton"," 143","Surrey",N,N,"",1,466,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,96
+59033,"Surrey--Newton","Surrey--Newton"," 143","Surrey",N,N,"",1,466,"Sangha","","Pamela","Green Party","Parti Vert",N,N,7
+59033,"Surrey--Newton","Surrey--Newton"," 143","Surrey",N,N,"",1,466,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+59033,"Surrey--Newton","Surrey--Newton"," 143","Surrey",N,N,"",1,466,"Singh","","Harpreet","Conservative","Conservateur",N,N,38
+59033,"Surrey--Newton","Surrey--Newton"," 144A","Surrey",N,N,"",3,416,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,124
+59033,"Surrey--Newton","Surrey--Newton"," 144A","Surrey",N,N,"",3,416,"Sangha","","Pamela","Green Party","Parti Vert",N,N,2
+59033,"Surrey--Newton","Surrey--Newton"," 144A","Surrey",N,N,"",3,416,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+59033,"Surrey--Newton","Surrey--Newton"," 144A","Surrey",N,N,"",3,416,"Singh","","Harpreet","Conservative","Conservateur",N,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 144B","Surrey",N,N,"",0,281,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,90
+59033,"Surrey--Newton","Surrey--Newton"," 144B","Surrey",N,N,"",0,281,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 144B","Surrey",N,N,"",0,281,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+59033,"Surrey--Newton","Surrey--Newton"," 144B","Surrey",N,N,"",0,281,"Singh","","Harpreet","Conservative","Conservateur",N,N,23
+59033,"Surrey--Newton","Surrey--Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",3,215,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,63
+59033,"Surrey--Newton","Surrey--Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",3,215,"Sangha","","Pamela","Green Party","Parti Vert",N,N,8
+59033,"Surrey--Newton","Surrey--Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",3,215,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",3,215,"Singh","","Harpreet","Conservative","Conservateur",N,N,28
+59033,"Surrey--Newton","Surrey--Newton"," 501","Mobile poll/Bureau itinérant",N,N,"",4,131,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,15
+59033,"Surrey--Newton","Surrey--Newton"," 501","Mobile poll/Bureau itinérant",N,N,"",4,131,"Sangha","","Pamela","Green Party","Parti Vert",N,N,3
+59033,"Surrey--Newton","Surrey--Newton"," 501","Mobile poll/Bureau itinérant",N,N,"",4,131,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+59033,"Surrey--Newton","Surrey--Newton"," 501","Mobile poll/Bureau itinérant",N,N,"",4,131,"Singh","","Harpreet","Conservative","Conservateur",N,N,25
+59033,"Surrey--Newton","Surrey--Newton"," 600","Surrey",N,N,"",12,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,476
+59033,"Surrey--Newton","Surrey--Newton"," 600","Surrey",N,N,"",12,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 600","Surrey",N,N,"",12,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,261
+59033,"Surrey--Newton","Surrey--Newton"," 600","Surrey",N,N,"",12,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,83
+59033,"Surrey--Newton","Surrey--Newton"," 601","Surrey",N,N,"",14,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,693
+59033,"Surrey--Newton","Surrey--Newton"," 601","Surrey",N,N,"",14,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,24
+59033,"Surrey--Newton","Surrey--Newton"," 601","Surrey",N,N,"",14,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,358
+59033,"Surrey--Newton","Surrey--Newton"," 601","Surrey",N,N,"",14,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,137
+59033,"Surrey--Newton","Surrey--Newton"," 602","Surrey",N,N,"",12,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,625
+59033,"Surrey--Newton","Surrey--Newton"," 602","Surrey",N,N,"",12,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,34
+59033,"Surrey--Newton","Surrey--Newton"," 602","Surrey",N,N,"",12,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,390
+59033,"Surrey--Newton","Surrey--Newton"," 602","Surrey",N,N,"",12,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,258
+59033,"Surrey--Newton","Surrey--Newton"," 603","Surrey",N,N,"",7,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,651
+59033,"Surrey--Newton","Surrey--Newton"," 603","Surrey",N,N,"",7,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,17
+59033,"Surrey--Newton","Surrey--Newton"," 603","Surrey",N,N,"",7,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,377
+59033,"Surrey--Newton","Surrey--Newton"," 603","Surrey",N,N,"",7,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,105
+59033,"Surrey--Newton","Surrey--Newton"," 604","Surrey",N,N,"",8,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,765
+59033,"Surrey--Newton","Surrey--Newton"," 604","Surrey",N,N,"",8,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,10
+59033,"Surrey--Newton","Surrey--Newton"," 604","Surrey",N,N,"",8,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,419
+59033,"Surrey--Newton","Surrey--Newton"," 604","Surrey",N,N,"",8,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,83
+59033,"Surrey--Newton","Surrey--Newton"," 605","Surrey",N,N,"",10,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,716
+59033,"Surrey--Newton","Surrey--Newton"," 605","Surrey",N,N,"",10,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,14
+59033,"Surrey--Newton","Surrey--Newton"," 605","Surrey",N,N,"",10,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,378
+59033,"Surrey--Newton","Surrey--Newton"," 605","Surrey",N,N,"",10,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,129
+59033,"Surrey--Newton","Surrey--Newton"," 606","Surrey",N,N,"",7,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,662
+59033,"Surrey--Newton","Surrey--Newton"," 606","Surrey",N,N,"",7,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,19
+59033,"Surrey--Newton","Surrey--Newton"," 606","Surrey",N,N,"",7,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,329
+59033,"Surrey--Newton","Surrey--Newton"," 606","Surrey",N,N,"",7,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,232
+59033,"Surrey--Newton","Surrey--Newton"," 607","Surrey",N,N,"",15,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,912
+59033,"Surrey--Newton","Surrey--Newton"," 607","Surrey",N,N,"",15,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,26
+59033,"Surrey--Newton","Surrey--Newton"," 607","Surrey",N,N,"",15,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,457
+59033,"Surrey--Newton","Surrey--Newton"," 607","Surrey",N,N,"",15,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,156
+59033,"Surrey--Newton","Surrey--Newton"," 608","Surrey",N,N,"",12,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,509
+59033,"Surrey--Newton","Surrey--Newton"," 608","Surrey",N,N,"",12,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,23
+59033,"Surrey--Newton","Surrey--Newton"," 608","Surrey",N,N,"",12,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,310
+59033,"Surrey--Newton","Surrey--Newton"," 608","Surrey",N,N,"",12,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,193
+59033,"Surrey--Newton","Surrey--Newton"," 609","Surrey",N,N,"",2,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,784
+59033,"Surrey--Newton","Surrey--Newton"," 609","Surrey",N,N,"",2,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,22
+59033,"Surrey--Newton","Surrey--Newton"," 609","Surrey",N,N,"",2,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,473
+59033,"Surrey--Newton","Surrey--Newton"," 609","Surrey",N,N,"",2,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,203
+59033,"Surrey--Newton","Surrey--Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,108,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,58
+59033,"Surrey--Newton","Surrey--Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,108,"Sangha","","Pamela","Green Party","Parti Vert",N,N,1
+59033,"Surrey--Newton","Surrey--Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,108,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+59033,"Surrey--Newton","Surrey--Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,108,"Singh","","Harpreet","Conservative","Conservateur",N,N,11
+59033,"Surrey--Newton","Surrey--Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Dhaliwal","","Sukh","Liberal","Libéral",N,Y,1281
+59033,"Surrey--Newton","Surrey--Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Sangha","","Pamela","Green Party","Parti Vert",N,N,30
+59033,"Surrey--Newton","Surrey--Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Sims","","Jinny","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,488
+59033,"Surrey--Newton","Surrey--Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Singh","","Harpreet","Conservative","Conservateur",N,N,289

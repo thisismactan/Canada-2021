@@ -1,0 +1,906 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",0,195,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",0,195,"Hayes","","Bryan","Conservative","Conservateur",Y,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",0,195,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",0,195,"Sheehan","","Terry","Liberal","Libéral",N,Y,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",0,195,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",0,298,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",0,298,"Hayes","","Bryan","Conservative","Conservateur",Y,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",0,298,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",0,298,"Sheehan","","Terry","Liberal","Libéral",N,Y,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",0,298,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",0,446,"Flannigan","","Kara","Green Party","Parti Vert",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",0,446,"Hayes","","Bryan","Conservative","Conservateur",Y,N,91
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",0,446,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",0,446,"Sheehan","","Terry","Liberal","Libéral",N,Y,118
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",0,446,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,259,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,259,"Hayes","","Bryan","Conservative","Conservateur",Y,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,259,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,259,"Sheehan","","Terry","Liberal","Libéral",N,Y,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,259,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Goulais River",N,N,"",1,393,"Flannigan","","Kara","Green Party","Parti Vert",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Goulais River",N,N,"",1,393,"Hayes","","Bryan","Conservative","Conservateur",Y,N,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Goulais River",N,N,"",1,393,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Goulais River",N,N,"",1,393,"Sheehan","","Terry","Liberal","Libéral",N,Y,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Goulais River",N,N,"",1,393,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay 15A",N,N,"",0,269,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay 15A",N,N,"",0,269,"Hayes","","Bryan","Conservative","Conservateur",Y,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay 15A",N,N,"",0,269,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay 15A",N,N,"",0,269,"Sheehan","","Terry","Liberal","Libéral",N,Y,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay 15A",N,N,"",0,269,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais River",N,N,"",0,508,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais River",N,N,"",0,508,"Hayes","","Bryan","Conservative","Conservateur",Y,N,114
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais River",N,N,"",0,508,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais River",N,N,"",0,508,"Sheehan","","Terry","Liberal","Libéral",N,Y,88
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais River",N,N,"",0,508,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Kirby's Corner",N,N,"",0,322,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Kirby's Corner",N,N,"",0,322,"Hayes","","Bryan","Conservative","Conservateur",Y,N,65
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Kirby's Corner",N,N,"",0,322,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Kirby's Corner",N,N,"",0,322,"Sheehan","","Terry","Liberal","Libéral",N,Y,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Kirby's Corner",N,N,"",0,322,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",1,445,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",1,445,"Hayes","","Bryan","Conservative","Conservateur",Y,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",1,445,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",1,445,"Sheehan","","Terry","Liberal","Libéral",N,Y,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",1,445,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,352,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,352,"Hayes","","Bryan","Conservative","Conservateur",Y,N,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,352,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,352,"Sheehan","","Terry","Liberal","Libéral",N,Y,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,352,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",2,323,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",2,323,"Hayes","","Bryan","Conservative","Conservateur",Y,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",2,323,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",2,323,"Sheehan","","Terry","Liberal","Libéral",N,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",2,323,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Garden River 14",N,N,"",4,778,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Garden River 14",N,N,"",4,778,"Hayes","","Bryan","Conservative","Conservateur",Y,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Garden River 14",N,N,"",4,778,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,384
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Garden River 14",N,N,"",4,778,"Sheehan","","Terry","Liberal","Libéral",N,Y,94
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Garden River 14",N,N,"",4,778,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",1,315,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",1,315,"Hayes","","Bryan","Conservative","Conservateur",Y,N,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",1,315,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",1,315,"Sheehan","","Terry","Liberal","Libéral",N,Y,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",1,315,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,349,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,349,"Hayes","","Bryan","Conservative","Conservateur",Y,N,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,349,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,349,"Sheehan","","Terry","Liberal","Libéral",N,Y,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,349,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Sault Ste. Marie",N,N,"",1,363,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Sault Ste. Marie",N,N,"",1,363,"Hayes","","Bryan","Conservative","Conservateur",Y,N,96
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Sault Ste. Marie",N,N,"",1,363,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Sault Ste. Marie",N,N,"",1,363,"Sheehan","","Terry","Liberal","Libéral",N,Y,95
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Sault Ste. Marie",N,N,"",1,363,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Sault Ste. Marie",N,N,"",1,478,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Sault Ste. Marie",N,N,"",1,478,"Hayes","","Bryan","Conservative","Conservateur",Y,N,112
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Sault Ste. Marie",N,N,"",1,478,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Sault Ste. Marie",N,N,"",1,478,"Sheehan","","Terry","Liberal","Libéral",N,Y,131
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Sault Ste. Marie",N,N,"",1,478,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Sault Ste. Marie",N,N,"",0,377,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Sault Ste. Marie",N,N,"",0,377,"Hayes","","Bryan","Conservative","Conservateur",Y,N,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Sault Ste. Marie",N,N,"",0,377,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Sault Ste. Marie",N,N,"",0,377,"Sheehan","","Terry","Liberal","Libéral",N,Y,113
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Sault Ste. Marie",N,N,"",0,377,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Sault Ste. Marie",N,N,"",0,283,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Sault Ste. Marie",N,N,"",0,283,"Hayes","","Bryan","Conservative","Conservateur",Y,N,88
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Sault Ste. Marie",N,N,"",0,283,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Sault Ste. Marie",N,N,"",0,283,"Sheehan","","Terry","Liberal","Libéral",N,Y,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Sault Ste. Marie",N,N,"",0,283,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,355,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,355,"Hayes","","Bryan","Conservative","Conservateur",Y,N,83
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,355,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,355,"Sheehan","","Terry","Liberal","Libéral",N,Y,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,355,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",2,419,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",2,419,"Hayes","","Bryan","Conservative","Conservateur",Y,N,85
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",2,419,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",2,419,"Sheehan","","Terry","Liberal","Libéral",N,Y,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",2,419,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",3,325,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",3,325,"Hayes","","Bryan","Conservative","Conservateur",Y,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",3,325,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",3,325,"Sheehan","","Terry","Liberal","Libéral",N,Y,113
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",3,325,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",1,283,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",1,283,"Hayes","","Bryan","Conservative","Conservateur",Y,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",1,283,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",1,283,"Sheehan","","Terry","Liberal","Libéral",N,Y,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",1,283,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",3,515,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",3,515,"Hayes","","Bryan","Conservative","Conservateur",Y,N,94
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",3,515,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",3,515,"Sheehan","","Terry","Liberal","Libéral",N,Y,165
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",3,515,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",2,482,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",2,482,"Hayes","","Bryan","Conservative","Conservateur",Y,N,116
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",2,482,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",2,482,"Sheehan","","Terry","Liberal","Libéral",N,Y,155
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",2,482,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,407,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,407,"Hayes","","Bryan","Conservative","Conservateur",Y,N,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,407,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,407,"Sheehan","","Terry","Liberal","Libéral",N,Y,129
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,407,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Sault Ste. Marie",N,N,"",4,412,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Sault Ste. Marie",N,N,"",4,412,"Hayes","","Bryan","Conservative","Conservateur",Y,N,83
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Sault Ste. Marie",N,N,"",4,412,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Sault Ste. Marie",N,N,"",4,412,"Sheehan","","Terry","Liberal","Libéral",N,Y,99
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Sault Ste. Marie",N,N,"",4,412,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Sault Ste. Marie",N,N,"",1,365,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Sault Ste. Marie",N,N,"",1,365,"Hayes","","Bryan","Conservative","Conservateur",Y,N,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Sault Ste. Marie",N,N,"",1,365,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Sault Ste. Marie",N,N,"",1,365,"Sheehan","","Terry","Liberal","Libéral",N,Y,133
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Sault Ste. Marie",N,N,"",1,365,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,384,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,384,"Hayes","","Bryan","Conservative","Conservateur",Y,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,384,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,384,"Sheehan","","Terry","Liberal","Libéral",N,Y,126
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,384,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",0,388,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",0,388,"Hayes","","Bryan","Conservative","Conservateur",Y,N,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",0,388,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",0,388,"Sheehan","","Terry","Liberal","Libéral",N,Y,106
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",0,388,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",4,506,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",4,506,"Hayes","","Bryan","Conservative","Conservateur",Y,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",4,506,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",4,506,"Sheehan","","Terry","Liberal","Libéral",N,Y,115
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",4,506,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",2,454,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",2,454,"Hayes","","Bryan","Conservative","Conservateur",Y,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",2,454,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",2,454,"Sheehan","","Terry","Liberal","Libéral",N,Y,118
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",2,454,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",1,414,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",1,414,"Hayes","","Bryan","Conservative","Conservateur",Y,N,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",1,414,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",1,414,"Sheehan","","Terry","Liberal","Libéral",N,Y,133
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",1,414,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",0,403,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",0,403,"Hayes","","Bryan","Conservative","Conservateur",Y,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",0,403,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",0,403,"Sheehan","","Terry","Liberal","Libéral",N,Y,110
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",0,403,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,403,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,403,"Hayes","","Bryan","Conservative","Conservateur",Y,N,88
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,403,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,403,"Sheehan","","Terry","Liberal","Libéral",N,Y,150
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,403,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",1,396,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",1,396,"Hayes","","Bryan","Conservative","Conservateur",Y,N,108
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",1,396,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",1,396,"Sheehan","","Terry","Liberal","Libéral",N,Y,114
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",1,396,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",2,367,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",2,367,"Hayes","","Bryan","Conservative","Conservateur",Y,N,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",2,367,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",2,367,"Sheehan","","Terry","Liberal","Libéral",N,Y,102
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",2,367,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",0,440,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",0,440,"Hayes","","Bryan","Conservative","Conservateur",Y,N,80
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",0,440,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",0,440,"Sheehan","","Terry","Liberal","Libéral",N,Y,108
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",0,440,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",0,408,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",0,408,"Hayes","","Bryan","Conservative","Conservateur",Y,N,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",0,408,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",0,408,"Sheehan","","Terry","Liberal","Libéral",N,Y,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",0,408,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,422,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,422,"Hayes","","Bryan","Conservative","Conservateur",Y,N,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,422,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,422,"Sheehan","","Terry","Liberal","Libéral",N,Y,138
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,422,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Prince",N,N,"",0,547,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Prince",N,N,"",0,547,"Hayes","","Bryan","Conservative","Conservateur",Y,N,147
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Prince",N,N,"",0,547,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Prince",N,N,"",0,547,"Sheehan","","Terry","Liberal","Libéral",N,Y,129
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Prince",N,N,"",0,547,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Prince",N,N,"",0,304,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Prince",N,N,"",0,304,"Hayes","","Bryan","Conservative","Conservateur",Y,N,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Prince",N,N,"",0,304,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Prince",N,N,"",0,304,"Sheehan","","Terry","Liberal","Libéral",N,Y,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Prince",N,N,"",0,304,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",0,377,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",0,377,"Hayes","","Bryan","Conservative","Conservateur",Y,N,110
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",0,377,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",0,377,"Sheehan","","Terry","Liberal","Libéral",N,Y,89
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",0,377,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",1,425,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",1,425,"Hayes","","Bryan","Conservative","Conservateur",Y,N,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",1,425,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",1,425,"Sheehan","","Terry","Liberal","Libéral",N,Y,118
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",1,425,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,464,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,464,"Hayes","","Bryan","Conservative","Conservateur",Y,N,78
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,464,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,464,"Sheehan","","Terry","Liberal","Libéral",N,Y,108
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,464,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",4,447,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",4,447,"Hayes","","Bryan","Conservative","Conservateur",Y,N,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",4,447,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",4,447,"Sheehan","","Terry","Liberal","Libéral",N,Y,135
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",4,447,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",1,410,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",1,410,"Hayes","","Bryan","Conservative","Conservateur",Y,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",1,410,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",1,410,"Sheehan","","Terry","Liberal","Libéral",N,Y,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",1,410,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",1,461,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",1,461,"Hayes","","Bryan","Conservative","Conservateur",Y,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",1,461,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",1,461,"Sheehan","","Terry","Liberal","Libéral",N,Y,128
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",1,461,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,358,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,358,"Hayes","","Bryan","Conservative","Conservateur",Y,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,358,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,358,"Sheehan","","Terry","Liberal","Libéral",N,Y,77
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,358,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",4,374,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",4,374,"Hayes","","Bryan","Conservative","Conservateur",Y,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",4,374,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",4,374,"Sheehan","","Terry","Liberal","Libéral",N,Y,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",4,374,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",1,439,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",1,439,"Hayes","","Bryan","Conservative","Conservateur",Y,N,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",1,439,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",1,439,"Sheehan","","Terry","Liberal","Libéral",N,Y,97
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",1,439,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,455,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,455,"Hayes","","Bryan","Conservative","Conservateur",Y,N,22
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,455,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,455,"Sheehan","","Terry","Liberal","Libéral",N,Y,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,455,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",2,487,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",2,487,"Hayes","","Bryan","Conservative","Conservateur",Y,N,91
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",2,487,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",2,487,"Sheehan","","Terry","Liberal","Libéral",N,Y,149
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",2,487,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,433,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,433,"Hayes","","Bryan","Conservative","Conservateur",Y,N,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,433,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,433,"Sheehan","","Terry","Liberal","Libéral",N,Y,125
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,433,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",5,468,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",5,468,"Hayes","","Bryan","Conservative","Conservateur",Y,N,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",5,468,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",5,468,"Sheehan","","Terry","Liberal","Libéral",N,Y,137
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",5,468,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",2,362,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",2,362,"Hayes","","Bryan","Conservative","Conservateur",Y,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",2,362,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",2,362,"Sheehan","","Terry","Liberal","Libéral",N,Y,117
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",2,362,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",0,390,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",0,390,"Hayes","","Bryan","Conservative","Conservateur",Y,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",0,390,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",0,390,"Sheehan","","Terry","Liberal","Libéral",N,Y,117
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",0,390,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",1,436,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",1,436,"Hayes","","Bryan","Conservative","Conservateur",Y,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",1,436,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",1,436,"Sheehan","","Terry","Liberal","Libéral",N,Y,115
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",1,436,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",3,339,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",3,339,"Hayes","","Bryan","Conservative","Conservateur",Y,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",3,339,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",3,339,"Sheehan","","Terry","Liberal","Libéral",N,Y,90
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",3,339,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",0,385,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",0,385,"Hayes","","Bryan","Conservative","Conservateur",Y,N,85
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",0,385,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",0,385,"Sheehan","","Terry","Liberal","Libéral",N,Y,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",0,385,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",0,418,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",0,418,"Hayes","","Bryan","Conservative","Conservateur",Y,N,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",0,418,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",0,418,"Sheehan","","Terry","Liberal","Libéral",N,Y,113
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",0,418,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,389,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,389,"Hayes","","Bryan","Conservative","Conservateur",Y,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,389,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,389,"Sheehan","","Terry","Liberal","Libéral",N,Y,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,389,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",1,390,"Flannigan","","Kara","Green Party","Parti Vert",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",1,390,"Hayes","","Bryan","Conservative","Conservateur",Y,N,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",1,390,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",1,390,"Sheehan","","Terry","Liberal","Libéral",N,Y,136
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",1,390,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",0,342,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",0,342,"Hayes","","Bryan","Conservative","Conservateur",Y,N,89
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",0,342,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",0,342,"Sheehan","","Terry","Liberal","Libéral",N,Y,112
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",0,342,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",2,372,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",2,372,"Hayes","","Bryan","Conservative","Conservateur",Y,N,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",2,372,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",2,372,"Sheehan","","Terry","Liberal","Libéral",N,Y,126
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",2,372,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",2,279,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",2,279,"Hayes","","Bryan","Conservative","Conservateur",Y,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",2,279,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",2,279,"Sheehan","","Terry","Liberal","Libéral",N,Y,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",2,279,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",0,381,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",0,381,"Hayes","","Bryan","Conservative","Conservateur",Y,N,107
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",0,381,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",0,381,"Sheehan","","Terry","Liberal","Libéral",N,Y,103
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",0,381,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",0,470,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",0,470,"Hayes","","Bryan","Conservative","Conservateur",Y,N,130
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",0,470,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",0,470,"Sheehan","","Terry","Liberal","Libéral",N,Y,119
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",0,470,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",1,366,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",1,366,"Hayes","","Bryan","Conservative","Conservateur",Y,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",1,366,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",1,366,"Sheehan","","Terry","Liberal","Libéral",N,Y,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",1,366,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",1,553,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",1,553,"Hayes","","Bryan","Conservative","Conservateur",Y,N,89
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",1,553,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",1,553,"Sheehan","","Terry","Liberal","Libéral",N,Y,118
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",1,553,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Rankin Location 15D",N,N,"",0,489,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Rankin Location 15D",N,N,"",0,489,"Hayes","","Bryan","Conservative","Conservateur",Y,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Rankin Location 15D",N,N,"",0,489,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,217
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Rankin Location 15D",N,N,"",0,489,"Sheehan","","Terry","Liberal","Libéral",N,Y,78
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Rankin Location 15D",N,N,"",0,489,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,442,"Flannigan","","Kara","Green Party","Parti Vert",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,442,"Hayes","","Bryan","Conservative","Conservateur",Y,N,96
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,442,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,442,"Sheehan","","Terry","Liberal","Libéral",N,Y,106
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,442,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",0,447,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",0,447,"Hayes","","Bryan","Conservative","Conservateur",Y,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",0,447,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",0,447,"Sheehan","","Terry","Liberal","Libéral",N,Y,95
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",0,447,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",0,428,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",0,428,"Hayes","","Bryan","Conservative","Conservateur",Y,N,85
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",0,428,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",0,428,"Sheehan","","Terry","Liberal","Libéral",N,Y,105
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",0,428,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",2,371,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",2,371,"Hayes","","Bryan","Conservative","Conservateur",Y,N,83
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",2,371,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",2,371,"Sheehan","","Terry","Liberal","Libéral",N,Y,112
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",2,371,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",1,426,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",1,426,"Hayes","","Bryan","Conservative","Conservateur",Y,N,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",1,426,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",1,426,"Sheehan","","Terry","Liberal","Libéral",N,Y,95
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",1,426,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",1,435,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",1,435,"Hayes","","Bryan","Conservative","Conservateur",Y,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",1,435,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",1,435,"Sheehan","","Terry","Liberal","Libéral",N,Y,101
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",1,435,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",1,372,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",1,372,"Hayes","","Bryan","Conservative","Conservateur",Y,N,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",1,372,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",1,372,"Sheehan","","Terry","Liberal","Libéral",N,Y,106
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",1,372,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,352,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,352,"Hayes","","Bryan","Conservative","Conservateur",Y,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,352,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,352,"Sheehan","","Terry","Liberal","Libéral",N,Y,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,352,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,450,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,450,"Hayes","","Bryan","Conservative","Conservateur",Y,N,83
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,450,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,450,"Sheehan","","Terry","Liberal","Libéral",N,Y,126
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,450,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,372,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,372,"Hayes","","Bryan","Conservative","Conservateur",Y,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,372,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,372,"Sheehan","","Terry","Liberal","Libéral",N,Y,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,372,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",2,454,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",2,454,"Hayes","","Bryan","Conservative","Conservateur",Y,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",2,454,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",2,454,"Sheehan","","Terry","Liberal","Libéral",N,Y,125
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",2,454,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",2,449,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",2,449,"Hayes","","Bryan","Conservative","Conservateur",Y,N,93
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",2,449,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",2,449,"Sheehan","","Terry","Liberal","Libéral",N,Y,129
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",2,449,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",2,444,"Flannigan","","Kara","Green Party","Parti Vert",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",2,444,"Hayes","","Bryan","Conservative","Conservateur",Y,N,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",2,444,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",2,444,"Sheehan","","Terry","Liberal","Libéral",N,Y,130
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",2,444,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,436,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,436,"Hayes","","Bryan","Conservative","Conservateur",Y,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,436,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,436,"Sheehan","","Terry","Liberal","Libéral",N,Y,106
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,436,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",0,424,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",0,424,"Hayes","","Bryan","Conservative","Conservateur",Y,N,90
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",0,424,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",0,424,"Sheehan","","Terry","Liberal","Libéral",N,Y,118
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",0,424,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,425,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,425,"Hayes","","Bryan","Conservative","Conservateur",Y,N,102
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,425,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,425,"Sheehan","","Terry","Liberal","Libéral",N,Y,122
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,425,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,404,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,404,"Hayes","","Bryan","Conservative","Conservateur",Y,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,404,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,404,"Sheehan","","Terry","Liberal","Libéral",N,Y,126
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,404,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,478,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,478,"Hayes","","Bryan","Conservative","Conservateur",Y,N,114
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,478,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,478,"Sheehan","","Terry","Liberal","Libéral",N,Y,141
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,478,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",0,368,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",0,368,"Hayes","","Bryan","Conservative","Conservateur",Y,N,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",0,368,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",0,368,"Sheehan","","Terry","Liberal","Libéral",N,Y,107
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",0,368,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",1,316,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",1,316,"Hayes","","Bryan","Conservative","Conservateur",Y,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",1,316,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",1,316,"Sheehan","","Terry","Liberal","Libéral",N,Y,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",1,316,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",1,379,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",1,379,"Hayes","","Bryan","Conservative","Conservateur",Y,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",1,379,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",1,379,"Sheehan","","Terry","Liberal","Libéral",N,Y,102
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",1,379,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",1,518,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",1,518,"Hayes","","Bryan","Conservative","Conservateur",Y,N,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",1,518,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",1,518,"Sheehan","","Terry","Liberal","Libéral",N,Y,139
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",1,518,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",5,402,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",5,402,"Hayes","","Bryan","Conservative","Conservateur",Y,N,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",5,402,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",5,402,"Sheehan","","Terry","Liberal","Libéral",N,Y,109
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",5,402,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",0,300,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",0,300,"Hayes","","Bryan","Conservative","Conservateur",Y,N,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",0,300,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",0,300,"Sheehan","","Terry","Liberal","Libéral",N,Y,96
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",0,300,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,415,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,415,"Hayes","","Bryan","Conservative","Conservateur",Y,N,93
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,415,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,415,"Sheehan","","Terry","Liberal","Libéral",N,Y,122
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,415,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,284,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,284,"Hayes","","Bryan","Conservative","Conservateur",Y,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,284,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,284,"Sheehan","","Terry","Liberal","Libéral",N,Y,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,284,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",5,339,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",5,339,"Hayes","","Bryan","Conservative","Conservateur",Y,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",5,339,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",5,339,"Sheehan","","Terry","Liberal","Libéral",N,Y,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",5,339,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,403,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,403,"Hayes","","Bryan","Conservative","Conservateur",Y,N,99
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,403,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,403,"Sheehan","","Terry","Liberal","Libéral",N,Y,97
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,403,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",0,482,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",0,482,"Hayes","","Bryan","Conservative","Conservateur",Y,N,111
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",0,482,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",0,482,"Sheehan","","Terry","Liberal","Libéral",N,Y,134
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",0,482,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",4,459,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",4,459,"Hayes","","Bryan","Conservative","Conservateur",Y,N,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",4,459,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",4,459,"Sheehan","","Terry","Liberal","Libéral",N,Y,129
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",4,459,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,406,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,406,"Hayes","","Bryan","Conservative","Conservateur",Y,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,406,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,406,"Sheehan","","Terry","Liberal","Libéral",N,Y,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,406,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",0,370,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",0,370,"Hayes","","Bryan","Conservative","Conservateur",Y,N,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",0,370,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",0,370,"Sheehan","","Terry","Liberal","Libéral",N,Y,138
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",0,370,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,391,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,391,"Hayes","","Bryan","Conservative","Conservateur",Y,N,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,391,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,391,"Sheehan","","Terry","Liberal","Libéral",N,Y,142
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,391,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",2,357,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",2,357,"Hayes","","Bryan","Conservative","Conservateur",Y,N,97
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",2,357,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",2,357,"Sheehan","","Terry","Liberal","Libéral",N,Y,90
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",2,357,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,361,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,361,"Hayes","","Bryan","Conservative","Conservateur",Y,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,361,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,361,"Sheehan","","Terry","Liberal","Libéral",N,Y,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,361,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",0,271,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",0,271,"Hayes","","Bryan","Conservative","Conservateur",Y,N,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",0,271,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",0,271,"Sheehan","","Terry","Liberal","Libéral",N,Y,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",0,271,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",2,501,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",2,501,"Hayes","","Bryan","Conservative","Conservateur",Y,N,108
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",2,501,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",2,501,"Sheehan","","Terry","Liberal","Libéral",N,Y,149
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",2,501,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,387,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,387,"Hayes","","Bryan","Conservative","Conservateur",Y,N,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,387,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,387,"Sheehan","","Terry","Liberal","Libéral",N,Y,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,387,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",2,483,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",2,483,"Hayes","","Bryan","Conservative","Conservateur",Y,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",2,483,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",2,483,"Sheehan","","Terry","Liberal","Libéral",N,Y,96
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",2,483,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",2,460,"Flannigan","","Kara","Green Party","Parti Vert",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",2,460,"Hayes","","Bryan","Conservative","Conservateur",Y,N,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",2,460,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",2,460,"Sheehan","","Terry","Liberal","Libéral",N,Y,94
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",2,460,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",1,353,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",1,353,"Hayes","","Bryan","Conservative","Conservateur",Y,N,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",1,353,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",1,353,"Sheehan","","Terry","Liberal","Libéral",N,Y,96
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",1,353,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",1,314,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",1,314,"Hayes","","Bryan","Conservative","Conservateur",Y,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",1,314,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",1,314,"Sheehan","","Terry","Liberal","Libéral",N,Y,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",1,314,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,333,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,333,"Hayes","","Bryan","Conservative","Conservateur",Y,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,333,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,333,"Sheehan","","Terry","Liberal","Libéral",N,Y,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,333,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",1,355,"Flannigan","","Kara","Green Party","Parti Vert",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",1,355,"Hayes","","Bryan","Conservative","Conservateur",Y,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",1,355,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",1,355,"Sheehan","","Terry","Liberal","Libéral",N,Y,109
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",1,355,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",1,474,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",1,474,"Hayes","","Bryan","Conservative","Conservateur",Y,N,96
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",1,474,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",1,474,"Sheehan","","Terry","Liberal","Libéral",N,Y,137
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",1,474,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",1,349,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",1,349,"Hayes","","Bryan","Conservative","Conservateur",Y,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",1,349,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",1,349,"Sheehan","","Terry","Liberal","Libéral",N,Y,107
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",1,349,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",0,279,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",0,279,"Hayes","","Bryan","Conservative","Conservateur",Y,N,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",0,279,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",0,279,"Sheehan","","Terry","Liberal","Libéral",N,Y,77
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",0,279,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",3,204,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",3,204,"Hayes","","Bryan","Conservative","Conservateur",Y,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",3,204,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",3,204,"Sheehan","","Terry","Liberal","Libéral",N,Y,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",3,204,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119A","Sault Ste. Marie",N,N,"",0,365,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119A","Sault Ste. Marie",N,N,"",0,365,"Hayes","","Bryan","Conservative","Conservateur",Y,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119A","Sault Ste. Marie",N,N,"",0,365,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119A","Sault Ste. Marie",N,N,"",0,365,"Sheehan","","Terry","Liberal","Libéral",N,Y,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119A","Sault Ste. Marie",N,N,"",0,365,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119B","Mobile poll/Bureau itinérant",N,N,"501",0,37,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119B","Mobile poll/Bureau itinérant",N,N,"501",0,37,"Hayes","","Bryan","Conservative","Conservateur",Y,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119B","Mobile poll/Bureau itinérant",N,N,"501",0,37,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119B","Mobile poll/Bureau itinérant",N,N,"501",0,37,"Sheehan","","Terry","Liberal","Libéral",N,Y,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119B","Mobile poll/Bureau itinérant",N,N,"501",0,37,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,380,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,380,"Hayes","","Bryan","Conservative","Conservateur",Y,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,380,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,380,"Sheehan","","Terry","Liberal","Libéral",N,Y,99
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,380,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",2,324,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",2,324,"Hayes","","Bryan","Conservative","Conservateur",Y,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",2,324,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",2,324,"Sheehan","","Terry","Liberal","Libéral",N,Y,65
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",2,324,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,342,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,342,"Hayes","","Bryan","Conservative","Conservateur",Y,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,342,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,342,"Sheehan","","Terry","Liberal","Libéral",N,Y,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,342,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,355,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,355,"Hayes","","Bryan","Conservative","Conservateur",Y,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,355,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,355,"Sheehan","","Terry","Liberal","Libéral",N,Y,83
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,355,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,438,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,438,"Hayes","","Bryan","Conservative","Conservateur",Y,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,438,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,438,"Sheehan","","Terry","Liberal","Libéral",N,Y,131
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,438,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,465,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,465,"Hayes","","Bryan","Conservative","Conservateur",Y,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,465,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,465,"Sheehan","","Terry","Liberal","Libéral",N,Y,127
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,465,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,301,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,301,"Hayes","","Bryan","Conservative","Conservateur",Y,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,301,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,301,"Sheehan","","Terry","Liberal","Libéral",N,Y,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,301,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,391,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,391,"Hayes","","Bryan","Conservative","Conservateur",Y,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,391,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,391,"Sheehan","","Terry","Liberal","Libéral",N,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,391,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",0,415,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",0,415,"Hayes","","Bryan","Conservative","Conservateur",Y,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",0,415,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",0,415,"Sheehan","","Terry","Liberal","Libéral",N,Y,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",0,415,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",0,281,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",0,281,"Hayes","","Bryan","Conservative","Conservateur",Y,N,21
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",0,281,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",0,281,"Sheehan","","Terry","Liberal","Libéral",N,Y,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",0,281,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",1,288,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",1,288,"Hayes","","Bryan","Conservative","Conservateur",Y,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",1,288,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",1,288,"Sheehan","","Terry","Liberal","Libéral",N,Y,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",1,288,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",0,327,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",0,327,"Hayes","","Bryan","Conservative","Conservateur",Y,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",0,327,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",0,327,"Sheehan","","Terry","Liberal","Libéral",N,Y,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",0,327,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,495,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,495,"Hayes","","Bryan","Conservative","Conservateur",Y,N,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,495,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,495,"Sheehan","","Terry","Liberal","Libéral",N,Y,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,495,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,493,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,493,"Hayes","","Bryan","Conservative","Conservateur",Y,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,493,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,493,"Sheehan","","Terry","Liberal","Libéral",N,Y,120
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,493,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,423,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,423,"Hayes","","Bryan","Conservative","Conservateur",Y,N,65
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,423,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,423,"Sheehan","","Terry","Liberal","Libéral",N,Y,94
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,423,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,453,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,453,"Hayes","","Bryan","Conservative","Conservateur",Y,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,453,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,453,"Sheehan","","Terry","Liberal","Libéral",N,Y,107
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,453,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",1,397,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",1,397,"Hayes","","Bryan","Conservative","Conservateur",Y,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",1,397,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",1,397,"Sheehan","","Terry","Liberal","Libéral",N,Y,134
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",1,397,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,392,"Flannigan","","Kara","Green Party","Parti Vert",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,392,"Hayes","","Bryan","Conservative","Conservateur",Y,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,392,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,392,"Sheehan","","Terry","Liberal","Libéral",N,Y,105
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,392,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",3,342,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",3,342,"Hayes","","Bryan","Conservative","Conservateur",Y,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",3,342,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",3,342,"Sheehan","","Terry","Liberal","Libéral",N,Y,94
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",3,342,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",1,332,"Flannigan","","Kara","Green Party","Parti Vert",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",1,332,"Hayes","","Bryan","Conservative","Conservateur",Y,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",1,332,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",1,332,"Sheehan","","Terry","Liberal","Libéral",N,Y,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",1,332,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",1,368,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",1,368,"Hayes","","Bryan","Conservative","Conservateur",Y,N,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",1,368,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",1,368,"Sheehan","","Terry","Liberal","Libéral",N,Y,107
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",1,368,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",2,345,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",2,345,"Hayes","","Bryan","Conservative","Conservateur",Y,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",2,345,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",2,345,"Sheehan","","Terry","Liberal","Libéral",N,Y,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",2,345,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",1,345,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",1,345,"Hayes","","Bryan","Conservative","Conservateur",Y,N,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",1,345,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",1,345,"Sheehan","","Terry","Liberal","Libéral",N,Y,93
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",1,345,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,352,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,352,"Hayes","","Bryan","Conservative","Conservateur",Y,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,352,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,352,"Sheehan","","Terry","Liberal","Libéral",N,Y,89
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,352,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",1,376,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",1,376,"Hayes","","Bryan","Conservative","Conservateur",Y,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",1,376,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",1,376,"Sheehan","","Terry","Liberal","Libéral",N,Y,128
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",1,376,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",0,355,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",0,355,"Hayes","","Bryan","Conservative","Conservateur",Y,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",0,355,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",0,355,"Sheehan","","Terry","Liberal","Libéral",N,Y,118
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",0,355,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,343,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,343,"Hayes","","Bryan","Conservative","Conservateur",Y,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,343,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,343,"Sheehan","","Terry","Liberal","Libéral",N,Y,102
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,343,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,416,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,416,"Hayes","","Bryan","Conservative","Conservateur",Y,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,416,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,416,"Sheehan","","Terry","Liberal","Libéral",N,Y,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,416,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",2,389,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",2,389,"Hayes","","Bryan","Conservative","Conservateur",Y,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",2,389,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",2,389,"Sheehan","","Terry","Liberal","Libéral",N,Y,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",2,389,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",1,364,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",1,364,"Hayes","","Bryan","Conservative","Conservateur",Y,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",1,364,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",1,364,"Sheehan","","Terry","Liberal","Libéral",N,Y,116
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",1,364,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",0,355,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",0,355,"Hayes","","Bryan","Conservative","Conservateur",Y,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",0,355,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",0,355,"Sheehan","","Terry","Liberal","Libéral",N,Y,129
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",0,355,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",0,537,"Flannigan","","Kara","Green Party","Parti Vert",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",0,537,"Hayes","","Bryan","Conservative","Conservateur",Y,N,128
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",0,537,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",0,537,"Sheehan","","Terry","Liberal","Libéral",N,Y,131
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",0,537,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",2,360,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",2,360,"Hayes","","Bryan","Conservative","Conservateur",Y,N,98
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",2,360,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",2,360,"Sheehan","","Terry","Liberal","Libéral",N,Y,107
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",2,360,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",1,272,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",1,272,"Hayes","","Bryan","Conservative","Conservateur",Y,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",1,272,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",1,272,"Sheehan","","Terry","Liberal","Libéral",N,Y,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",1,272,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,332,"Flannigan","","Kara","Green Party","Parti Vert",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,332,"Hayes","","Bryan","Conservative","Conservateur",Y,N,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,332,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,332,"Sheehan","","Terry","Liberal","Libéral",N,Y,101
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,332,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",1,330,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",1,330,"Hayes","","Bryan","Conservative","Conservateur",Y,N,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",1,330,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",1,330,"Sheehan","","Terry","Liberal","Libéral",N,Y,102
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",1,330,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,366,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,366,"Hayes","","Bryan","Conservative","Conservateur",Y,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,366,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,366,"Sheehan","","Terry","Liberal","Libéral",N,Y,103
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,366,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",1,412,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",1,412,"Hayes","","Bryan","Conservative","Conservateur",Y,N,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",1,412,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",1,412,"Sheehan","","Terry","Liberal","Libéral",N,Y,94
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",1,412,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,364,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,364,"Hayes","","Bryan","Conservative","Conservateur",Y,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,364,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,364,"Sheehan","","Terry","Liberal","Libéral",N,Y,123
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,364,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,358,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,358,"Hayes","","Bryan","Conservative","Conservateur",Y,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,358,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,358,"Sheehan","","Terry","Liberal","Libéral",N,Y,122
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,358,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,498,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,498,"Hayes","","Bryan","Conservative","Conservateur",Y,N,97
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,498,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,498,"Sheehan","","Terry","Liberal","Libéral",N,Y,163
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,498,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Sault Ste. Marie",N,N,"",2,360,"Flannigan","","Kara","Green Party","Parti Vert",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Sault Ste. Marie",N,N,"",2,360,"Hayes","","Bryan","Conservative","Conservateur",Y,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Sault Ste. Marie",N,N,"",2,360,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Sault Ste. Marie",N,N,"",2,360,"Sheehan","","Terry","Liberal","Libéral",N,Y,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Sault Ste. Marie",N,N,"",2,360,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,106,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,106,"Hayes","","Bryan","Conservative","Conservateur",Y,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,106,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,106,"Sheehan","","Terry","Liberal","Libéral",N,Y,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,106,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500B","Sault Ste. Marie",N,N,"115",0,50,"Flannigan","","Kara","Green Party","Parti Vert",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500B","Sault Ste. Marie",N,N,"115",0,50,"Hayes","","Bryan","Conservative","Conservateur",Y,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500B","Sault Ste. Marie",N,N,"115",0,50,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500B","Sault Ste. Marie",N,N,"115",0,50,"Sheehan","","Terry","Liberal","Libéral",N,Y,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500B","Sault Ste. Marie",N,N,"115",0,50,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",5,109,"Flannigan","","Kara","Green Party","Parti Vert",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",5,109,"Hayes","","Bryan","Conservative","Conservateur",Y,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",5,109,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",5,109,"Sheehan","","Terry","Liberal","Libéral",N,Y,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",5,109,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"",1,288,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"",1,288,"Hayes","","Bryan","Conservative","Conservateur",Y,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"",1,288,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"",1,288,"Sheehan","","Terry","Liberal","Libéral",N,Y,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"",1,288,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",2,240,"Flannigan","","Kara","Green Party","Parti Vert",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",2,240,"Hayes","","Bryan","Conservative","Conservateur",Y,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",2,240,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",2,240,"Sheehan","","Terry","Liberal","Libéral",N,Y,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",2,240,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"",1,225,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"",1,225,"Hayes","","Bryan","Conservative","Conservateur",Y,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"",1,225,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"",1,225,"Sheehan","","Terry","Liberal","Libéral",N,Y,85
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"",1,225,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",0,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",0,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",0,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",0,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",0,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",0,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,15
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",0,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,179
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",0,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",0,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,164
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",0,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,120
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,149
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",2,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",2,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",2,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",2,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,193
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",2,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",0,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,15
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",0,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,110
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",0,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",0,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,188
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",0,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,115
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,165
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",1,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",1,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,244
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",1,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",1,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,256
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",1,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",3,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",3,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,213
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",3,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",3,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,245
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",3,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",1,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",1,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,318
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",1,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,147
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",1,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,400
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",1,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",2,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",2,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,180
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",2,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",2,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,240
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",2,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",1,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",1,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,148
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",1,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",1,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,119
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",1,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,81,"Flannigan","","Kara","Green Party","Parti Vert",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,81,"Hayes","","Bryan","Conservative","Conservateur",Y,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,81,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,81,"Sheehan","","Terry","Liberal","Libéral",N,Y,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,81,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",18,0,"Flannigan","","Kara","Green Party","Parti Vert",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",18,0,"Hayes","","Bryan","Conservative","Conservateur",Y,N,558
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",18,0,"Morrison","","Skip","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,335
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",18,0,"Sheehan","","Terry","Liberal","Libéral",N,Y,639
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",18,0,"Taffarel","","Mike","Marxist-Leninist","Marxiste-Léniniste",N,N,4

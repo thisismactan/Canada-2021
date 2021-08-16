@@ -1,0 +1,985 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 1","North Galiano",N,N,"",1,501,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 1","North Galiano",N,N,"",1,501,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 1","North Galiano",N,N,"",1,501,"Lunn","","Gary","Conservative","Conservateur",Y,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 1","North Galiano",N,N,"",1,501,"May","","Elizabeth","Green Party","Parti Vert",N,Y,144
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 2","Ganges",N,N,"",2,415,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 2","Ganges",N,N,"",2,415,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 2","Ganges",N,N,"",2,415,"Lunn","","Gary","Conservative","Conservateur",Y,N,41
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 2","Ganges",N,N,"",2,415,"May","","Elizabeth","Green Party","Parti Vert",N,Y,223
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 3","Ganges",N,N,"",0,437,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 3","Ganges",N,N,"",0,437,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 3","Ganges",N,N,"",0,437,"Lunn","","Gary","Conservative","Conservateur",Y,N,73
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 3","Ganges",N,N,"",0,437,"May","","Elizabeth","Green Party","Parti Vert",N,Y,182
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 4","Sturdies Bay",N,N,"",0,440,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 4","Sturdies Bay",N,N,"",0,440,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 4","Sturdies Bay",N,N,"",0,440,"Lunn","","Gary","Conservative","Conservateur",Y,N,51
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 4","Sturdies Bay",N,N,"",0,440,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 5","Saturna",N,N,"",1,297,"Hetherington","","Renée","Liberal","Libéral",N,N,1
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 5","Saturna",N,N,"",1,297,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 5","Saturna",N,N,"",1,297,"Lunn","","Gary","Conservative","Conservateur",Y,N,45
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 5","Saturna",N,N,"",1,297,"May","","Elizabeth","Green Party","Parti Vert",N,Y,149
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 6","Vesuvius",N,N,"",0,176,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 6","Vesuvius",N,N,"",0,176,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 6","Vesuvius",N,N,"",0,176,"Lunn","","Gary","Conservative","Conservateur",Y,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 6","Vesuvius",N,N,"",0,176,"May","","Elizabeth","Green Party","Parti Vert",N,Y,61
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 7","Vesuvius",N,N,"",2,455,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 7","Vesuvius",N,N,"",2,455,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 7","Vesuvius",N,N,"",2,455,"Lunn","","Gary","Conservative","Conservateur",Y,N,73
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 7","Vesuvius",N,N,"",2,455,"May","","Elizabeth","Green Party","Parti Vert",N,Y,197
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 8","Ganges",N,N,"",1,513,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 8","Ganges",N,N,"",1,513,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 8","Ganges",N,N,"",1,513,"Lunn","","Gary","Conservative","Conservateur",Y,N,51
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 8","Ganges",N,N,"",1,513,"May","","Elizabeth","Green Party","Parti Vert",N,Y,233
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 9","Long Harbour",N,N,"",1,535,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 9","Long Harbour",N,N,"",1,535,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 9","Long Harbour",N,N,"",1,535,"Lunn","","Gary","Conservative","Conservateur",Y,N,68
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 9","Long Harbour",N,N,"",1,535,"May","","Elizabeth","Green Party","Parti Vert",N,Y,235
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 10","Mayne",N,N,"",0,434,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 10","Mayne",N,N,"",0,434,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 10","Mayne",N,N,"",0,434,"Lunn","","Gary","Conservative","Conservateur",Y,N,59
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 10","Mayne",N,N,"",0,434,"May","","Elizabeth","Green Party","Parti Vert",N,Y,132
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 11","Mayne",N,N,"",0,496,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 11","Mayne",N,N,"",0,496,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 11","Mayne",N,N,"",0,496,"Lunn","","Gary","Conservative","Conservateur",Y,N,65
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 11","Mayne",N,N,"",0,496,"May","","Elizabeth","Green Party","Parti Vert",N,Y,148
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 12","Vesuvius",N,N,"",0,348,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 12","Vesuvius",N,N,"",0,348,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 12","Vesuvius",N,N,"",0,348,"Lunn","","Gary","Conservative","Conservateur",Y,N,41
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 12","Vesuvius",N,N,"",0,348,"May","","Elizabeth","Green Party","Parti Vert",N,Y,162
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 13","Ganges",N,N,"",0,495,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 13","Ganges",N,N,"",0,495,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 13","Ganges",N,N,"",0,495,"Lunn","","Gary","Conservative","Conservateur",Y,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 13","Ganges",N,N,"",0,495,"May","","Elizabeth","Green Party","Parti Vert",N,Y,210
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 14","Ganges",N,N,"",0,496,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 14","Ganges",N,N,"",0,496,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 14","Ganges",N,N,"",0,496,"Lunn","","Gary","Conservative","Conservateur",Y,N,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 14","Ganges",N,N,"",0,496,"May","","Elizabeth","Green Party","Parti Vert",N,Y,213
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 15","Ganges",N,N,"",1,567,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 15","Ganges",N,N,"",1,567,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 15","Ganges",N,N,"",1,567,"Lunn","","Gary","Conservative","Conservateur",Y,N,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 15","Ganges",N,N,"",1,567,"May","","Elizabeth","Green Party","Parti Vert",N,Y,199
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 16","Ganges",N,N,"",0,449,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 16","Ganges",N,N,"",0,449,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 16","Ganges",N,N,"",0,449,"Lunn","","Gary","Conservative","Conservateur",Y,N,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 16","Ganges",N,N,"",0,449,"May","","Elizabeth","Green Party","Parti Vert",N,Y,182
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 17","Ganges",N,N,"",0,520,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 17","Ganges",N,N,"",0,520,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 17","Ganges",N,N,"",0,520,"Lunn","","Gary","Conservative","Conservateur",Y,N,46
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 17","Ganges",N,N,"",0,520,"May","","Elizabeth","Green Party","Parti Vert",N,Y,228
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 18","Ganges",N,N,"",0,529,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 18","Ganges",N,N,"",0,529,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 18","Ganges",N,N,"",0,529,"Lunn","","Gary","Conservative","Conservateur",Y,N,68
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 18","Ganges",N,N,"",0,529,"May","","Elizabeth","Green Party","Parti Vert",N,Y,215
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 19","Ganges",N,N,"",0,455,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 19","Ganges",N,N,"",0,455,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 19","Ganges",N,N,"",0,455,"Lunn","","Gary","Conservative","Conservateur",Y,N,52
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 19","Ganges",N,N,"",0,455,"May","","Elizabeth","Green Party","Parti Vert",N,Y,194
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 20","Ganges",N,N,"",1,611,"Hetherington","","Renée","Liberal","Libéral",N,N,4
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 20","Ganges",N,N,"",1,611,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 20","Ganges",N,N,"",1,611,"Lunn","","Gary","Conservative","Conservateur",Y,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 20","Ganges",N,N,"",1,611,"May","","Elizabeth","Green Party","Parti Vert",N,Y,268
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 21","Fulford Harbour",N,N,"",0,460,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 21","Fulford Harbour",N,N,"",0,460,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 21","Fulford Harbour",N,N,"",0,460,"Lunn","","Gary","Conservative","Conservateur",Y,N,42
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 21","Fulford Harbour",N,N,"",0,460,"May","","Elizabeth","Green Party","Parti Vert",N,Y,232
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 22","Port Washington",N,N,"",0,295,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 22","Port Washington",N,N,"",0,295,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 22","Port Washington",N,N,"",0,295,"Lunn","","Gary","Conservative","Conservateur",Y,N,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 22","Port Washington",N,N,"",0,295,"May","","Elizabeth","Green Party","Parti Vert",N,Y,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 23","Port Washington",N,N,"",0,140,"Hetherington","","Renée","Liberal","Libéral",N,N,4
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 23","Port Washington",N,N,"",0,140,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 23","Port Washington",N,N,"",0,140,"Lunn","","Gary","Conservative","Conservateur",Y,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 23","Port Washington",N,N,"",0,140,"May","","Elizabeth","Green Party","Parti Vert",N,Y,51
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 24","Fulford Harbour",N,N,"",0,363,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 24","Fulford Harbour",N,N,"",0,363,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 24","Fulford Harbour",N,N,"",0,363,"Lunn","","Gary","Conservative","Conservateur",Y,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 24","Fulford Harbour",N,N,"",0,363,"May","","Elizabeth","Green Party","Parti Vert",N,Y,203
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 25","Fulford Harbour",N,N,"",1,526,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 25","Fulford Harbour",N,N,"",1,526,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 25","Fulford Harbour",N,N,"",1,526,"Lunn","","Gary","Conservative","Conservateur",Y,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 25","Fulford Harbour",N,N,"",1,526,"May","","Elizabeth","Green Party","Parti Vert",N,Y,293
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 26","Pender Island",N,N,"",0,435,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 26","Pender Island",N,N,"",0,435,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 26","Pender Island",N,N,"",0,435,"Lunn","","Gary","Conservative","Conservateur",Y,N,72
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 26","Pender Island",N,N,"",0,435,"May","","Elizabeth","Green Party","Parti Vert",N,Y,129
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 27","Pender Island",N,N,"",0,560,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 27","Pender Island",N,N,"",0,560,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 27","Pender Island",N,N,"",0,560,"Lunn","","Gary","Conservative","Conservateur",Y,N,73
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 27","Pender Island",N,N,"",0,560,"May","","Elizabeth","Green Party","Parti Vert",N,Y,195
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 28","Pender Island",N,N,"",0,470,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 28","Pender Island",N,N,"",0,470,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 28","Pender Island",N,N,"",0,470,"Lunn","","Gary","Conservative","Conservateur",Y,N,70
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 28","Pender Island",N,N,"",0,470,"May","","Elizabeth","Green Party","Parti Vert",N,Y,159
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 29","Deep Cove",N,N,"",0,398,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 29","Deep Cove",N,N,"",0,398,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 29","Deep Cove",N,N,"",0,398,"Lunn","","Gary","Conservative","Conservateur",Y,N,94
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 29","Deep Cove",N,N,"",0,398,"May","","Elizabeth","Green Party","Parti Vert",N,Y,143
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 30","Deep Cove",N,N,"",2,450,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 30","Deep Cove",N,N,"",2,450,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 30","Deep Cove",N,N,"",2,450,"Lunn","","Gary","Conservative","Conservateur",Y,N,128
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 30","Deep Cove",N,N,"",2,450,"May","","Elizabeth","Green Party","Parti Vert",N,Y,127
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 31","Swartz Bay",N,N,"",0,452,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 31","Swartz Bay",N,N,"",0,452,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 31","Swartz Bay",N,N,"",0,452,"Lunn","","Gary","Conservative","Conservateur",Y,N,98
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 31","Swartz Bay",N,N,"",0,452,"May","","Elizabeth","Green Party","Parti Vert",N,Y,149
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 32","Swartz Bay",N,N,"",0,502,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 32","Swartz Bay",N,N,"",0,502,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 32","Swartz Bay",N,N,"",0,502,"Lunn","","Gary","Conservative","Conservateur",Y,N,129
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 32","Swartz Bay",N,N,"",0,502,"May","","Elizabeth","Green Party","Parti Vert",N,Y,141
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 33","Swartz Bay",N,N,"",0,325,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 33","Swartz Bay",N,N,"",0,325,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 33","Swartz Bay",N,N,"",0,325,"Lunn","","Gary","Conservative","Conservateur",Y,N,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 33","Swartz Bay",N,N,"",0,325,"May","","Elizabeth","Green Party","Parti Vert",N,Y,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 34","Deep Cove",N,N,"",0,505,"Hetherington","","Renée","Liberal","Libéral",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 34","Deep Cove",N,N,"",0,505,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 34","Deep Cove",N,N,"",0,505,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 34","Deep Cove",N,N,"",0,505,"May","","Elizabeth","Green Party","Parti Vert",N,Y,175
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 35","Deep Cove",N,N,"",1,493,"Hetherington","","Renée","Liberal","Libéral",N,N,24
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 35","Deep Cove",N,N,"",1,493,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 35","Deep Cove",N,N,"",1,493,"Lunn","","Gary","Conservative","Conservateur",Y,N,109
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 35","Deep Cove",N,N,"",1,493,"May","","Elizabeth","Green Party","Parti Vert",N,Y,180
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 36","Deep Cove",N,N,"",1,305,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 36","Deep Cove",N,N,"",1,305,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 36","Deep Cove",N,N,"",1,305,"Lunn","","Gary","Conservative","Conservateur",Y,N,61
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 36","Deep Cove",N,N,"",1,305,"May","","Elizabeth","Green Party","Parti Vert",N,Y,122
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 37","Swartz Bay",N,N,"",0,257,"Hetherington","","Renée","Liberal","Libéral",N,N,4
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 37","Swartz Bay",N,N,"",0,257,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 37","Swartz Bay",N,N,"",0,257,"Lunn","","Gary","Conservative","Conservateur",Y,N,75
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 37","Swartz Bay",N,N,"",0,257,"May","","Elizabeth","Green Party","Parti Vert",N,Y,80
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 38","Swartz Bay",N,N,"",0,412,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 38","Swartz Bay",N,N,"",0,412,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 38","Swartz Bay",N,N,"",0,412,"Lunn","","Gary","Conservative","Conservateur",Y,N,160
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 38","Swartz Bay",N,N,"",0,412,"May","","Elizabeth","Green Party","Parti Vert",N,Y,86
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 39","Ardmore",N,N,"",0,380,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 39","Ardmore",N,N,"",0,380,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 39","Ardmore",N,N,"",0,380,"Lunn","","Gary","Conservative","Conservateur",Y,N,89
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 39","Ardmore",N,N,"",0,380,"May","","Elizabeth","Green Party","Parti Vert",N,Y,81
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 40","Sidney",N,N,"",0,454,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 40","Sidney",N,N,"",0,454,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 40","Sidney",N,N,"",0,454,"Lunn","","Gary","Conservative","Conservateur",Y,N,130
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 40","Sidney",N,N,"",0,454,"May","","Elizabeth","Green Party","Parti Vert",N,Y,124
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 41","Ardmore",N,N,"",2,518,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 41","Ardmore",N,N,"",2,518,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 41","Ardmore",N,N,"",2,518,"Lunn","","Gary","Conservative","Conservateur",Y,N,134
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 41","Ardmore",N,N,"",2,518,"May","","Elizabeth","Green Party","Parti Vert",N,Y,156
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 42","Sidney",N,N,"",0,502,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 42","Sidney",N,N,"",0,502,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 42","Sidney",N,N,"",0,502,"Lunn","","Gary","Conservative","Conservateur",Y,N,118
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 42","Sidney",N,N,"",0,502,"May","","Elizabeth","Green Party","Parti Vert",N,Y,155
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 43","Ardmore",N,N,"",1,530,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 43","Ardmore",N,N,"",1,530,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 43","Ardmore",N,N,"",1,530,"Lunn","","Gary","Conservative","Conservateur",Y,N,72
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 43","Ardmore",N,N,"",1,530,"May","","Elizabeth","Green Party","Parti Vert",N,Y,144
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 44","Sidney",N,N,"",0,306,"Hetherington","","Renée","Liberal","Libéral",N,N,4
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 44","Sidney",N,N,"",0,306,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 44","Sidney",N,N,"",0,306,"Lunn","","Gary","Conservative","Conservateur",Y,N,107
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 44","Sidney",N,N,"",0,306,"May","","Elizabeth","Green Party","Parti Vert",N,Y,84
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 45","Sidney",N,N,"",0,355,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 45","Sidney",N,N,"",0,355,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 45","Sidney",N,N,"",0,355,"Lunn","","Gary","Conservative","Conservateur",Y,N,107
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 45","Sidney",N,N,"",0,355,"May","","Elizabeth","Green Party","Parti Vert",N,Y,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 46","Sidney",N,N,"",0,335,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 46","Sidney",N,N,"",0,335,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 46","Sidney",N,N,"",0,335,"Lunn","","Gary","Conservative","Conservateur",Y,N,114
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 46","Sidney",N,N,"",0,335,"May","","Elizabeth","Green Party","Parti Vert",N,Y,80
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 47","Sidney",N,N,"",0,441,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 47","Sidney",N,N,"",0,441,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 47","Sidney",N,N,"",0,441,"Lunn","","Gary","Conservative","Conservateur",Y,N,117
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 47","Sidney",N,N,"",0,441,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 48","Saanichton",N,N,"",0,286,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 48","Saanichton",N,N,"",0,286,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 48","Saanichton",N,N,"",0,286,"Lunn","","Gary","Conservative","Conservateur",Y,N,109
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 48","Saanichton",N,N,"",0,286,"May","","Elizabeth","Green Party","Parti Vert",N,Y,55
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 49","Saanichton",N,N,"",1,389,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 49","Saanichton",N,N,"",1,389,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 49","Saanichton",N,N,"",1,389,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 49","Saanichton",N,N,"",1,389,"May","","Elizabeth","Green Party","Parti Vert",N,Y,128
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 50","Saanichton",N,N,"",0,433,"Hetherington","","Renée","Liberal","Libéral",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 50","Saanichton",N,N,"",0,433,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 50","Saanichton",N,N,"",0,433,"Lunn","","Gary","Conservative","Conservateur",Y,N,113
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 50","Saanichton",N,N,"",0,433,"May","","Elizabeth","Green Party","Parti Vert",N,Y,123
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 51","Saanichton",N,N,"",1,449,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 51","Saanichton",N,N,"",1,449,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 51","Saanichton",N,N,"",1,449,"Lunn","","Gary","Conservative","Conservateur",Y,N,125
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 51","Saanichton",N,N,"",1,449,"May","","Elizabeth","Green Party","Parti Vert",N,Y,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 52","Sidney",N,N,"",0,374,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 52","Sidney",N,N,"",0,374,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 52","Sidney",N,N,"",0,374,"Lunn","","Gary","Conservative","Conservateur",Y,N,96
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 52","Sidney",N,N,"",0,374,"May","","Elizabeth","Green Party","Parti Vert",N,Y,97
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 53","Sidney",N,N,"",0,206,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 53","Sidney",N,N,"",0,206,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 53","Sidney",N,N,"",0,206,"Lunn","","Gary","Conservative","Conservateur",Y,N,45
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 53","Sidney",N,N,"",0,206,"May","","Elizabeth","Green Party","Parti Vert",N,Y,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 54","Sidney",N,N,"",0,357,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 54","Sidney",N,N,"",0,357,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 54","Sidney",N,N,"",0,357,"Lunn","","Gary","Conservative","Conservateur",Y,N,102
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 54","Sidney",N,N,"",0,357,"May","","Elizabeth","Green Party","Parti Vert",N,Y,84
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 55","Sidney",N,N,"",0,530,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 55","Sidney",N,N,"",0,530,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 55","Sidney",N,N,"",0,530,"Lunn","","Gary","Conservative","Conservateur",Y,N,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 55","Sidney",N,N,"",0,530,"May","","Elizabeth","Green Party","Parti Vert",N,Y,156
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 56","Sidney",N,N,"",1,447,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 56","Sidney",N,N,"",1,447,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 56","Sidney",N,N,"",1,447,"Lunn","","Gary","Conservative","Conservateur",Y,N,127
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 56","Sidney",N,N,"",1,447,"May","","Elizabeth","Green Party","Parti Vert",N,Y,104
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 57","Sidney",N,N,"",0,431,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 57","Sidney",N,N,"",0,431,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 57","Sidney",N,N,"",0,431,"Lunn","","Gary","Conservative","Conservateur",Y,N,119
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 57","Sidney",N,N,"",0,431,"May","","Elizabeth","Green Party","Parti Vert",N,Y,116
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 58","Sidney",N,N,"",0,452,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 58","Sidney",N,N,"",0,452,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 58","Sidney",N,N,"",0,452,"Lunn","","Gary","Conservative","Conservateur",Y,N,133
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 58","Sidney",N,N,"",0,452,"May","","Elizabeth","Green Party","Parti Vert",N,Y,117
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 59","Sidney",N,N,"",0,437,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 59","Sidney",N,N,"",0,437,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 59","Sidney",N,N,"",0,437,"Lunn","","Gary","Conservative","Conservateur",Y,N,105
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 59","Sidney",N,N,"",0,437,"May","","Elizabeth","Green Party","Parti Vert",N,Y,128
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 60","Sidney",N,N,"",0,421,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 60","Sidney",N,N,"",0,421,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 60","Sidney",N,N,"",0,421,"Lunn","","Gary","Conservative","Conservateur",Y,N,85
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 60","Sidney",N,N,"",0,421,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 61","Sidney",N,N,"",2,397,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 61","Sidney",N,N,"",2,397,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 61","Sidney",N,N,"",2,397,"Lunn","","Gary","Conservative","Conservateur",Y,N,76
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 61","Sidney",N,N,"",2,397,"May","","Elizabeth","Green Party","Parti Vert",N,Y,119
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 62","Sidney",N,N,"",0,446,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 62","Sidney",N,N,"",0,446,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 62","Sidney",N,N,"",0,446,"Lunn","","Gary","Conservative","Conservateur",Y,N,123
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 62","Sidney",N,N,"",0,446,"May","","Elizabeth","Green Party","Parti Vert",N,Y,108
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 63","Sidney",N,N,"",3,390,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 63","Sidney",N,N,"",3,390,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 63","Sidney",N,N,"",3,390,"Lunn","","Gary","Conservative","Conservateur",Y,N,101
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 63","Sidney",N,N,"",3,390,"May","","Elizabeth","Green Party","Parti Vert",N,Y,104
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 64","Sidney",N,N,"",0,405,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 64","Sidney",N,N,"",0,405,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 64","Sidney",N,N,"",0,405,"Lunn","","Gary","Conservative","Conservateur",Y,N,126
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 64","Sidney",N,N,"",0,405,"May","","Elizabeth","Green Party","Parti Vert",N,Y,99
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 65","Sidney",N,N,"",0,298,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 65","Sidney",N,N,"",0,298,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 65","Sidney",N,N,"",0,298,"Lunn","","Gary","Conservative","Conservateur",Y,N,79
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 65","Sidney",N,N,"",0,298,"May","","Elizabeth","Green Party","Parti Vert",N,Y,82
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 66","Sidney",N,N,"",1,302,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 66","Sidney",N,N,"",1,302,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 66","Sidney",N,N,"",1,302,"Lunn","","Gary","Conservative","Conservateur",Y,N,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 66","Sidney",N,N,"",1,302,"May","","Elizabeth","Green Party","Parti Vert",N,Y,85
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 67","Sidney",N,N,"",1,397,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 67","Sidney",N,N,"",1,397,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 67","Sidney",N,N,"",1,397,"Lunn","","Gary","Conservative","Conservateur",Y,N,112
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 67","Sidney",N,N,"",1,397,"May","","Elizabeth","Green Party","Parti Vert",N,Y,102
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 68","Sidney",N,N,"",0,401,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 68","Sidney",N,N,"",0,401,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 68","Sidney",N,N,"",0,401,"Lunn","","Gary","Conservative","Conservateur",Y,N,98
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 68","Sidney",N,N,"",0,401,"May","","Elizabeth","Green Party","Parti Vert",N,Y,100
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 69","Sidney",N,N,"",0,496,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 69","Sidney",N,N,"",0,496,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 69","Sidney",N,N,"",0,496,"Lunn","","Gary","Conservative","Conservateur",Y,N,160
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 69","Sidney",N,N,"",0,496,"May","","Elizabeth","Green Party","Parti Vert",N,Y,112
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 70","Sidney",N,N,"",0,442,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 70","Sidney",N,N,"",0,442,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 70","Sidney",N,N,"",0,442,"Lunn","","Gary","Conservative","Conservateur",Y,N,100
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 70","Sidney",N,N,"",0,442,"May","","Elizabeth","Green Party","Parti Vert",N,Y,128
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 71","Sidney",N,N,"",0,426,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 71","Sidney",N,N,"",0,426,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 71","Sidney",N,N,"",0,426,"Lunn","","Gary","Conservative","Conservateur",Y,N,94
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 71","Sidney",N,N,"",0,426,"May","","Elizabeth","Green Party","Parti Vert",N,Y,120
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 72","Sidney",N,N,"",1,395,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 72","Sidney",N,N,"",1,395,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 72","Sidney",N,N,"",1,395,"Lunn","","Gary","Conservative","Conservateur",Y,N,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 72","Sidney",N,N,"",1,395,"May","","Elizabeth","Green Party","Parti Vert",N,Y,109
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 73","Sidney",N,N,"",0,433,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 73","Sidney",N,N,"",0,433,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 73","Sidney",N,N,"",0,433,"Lunn","","Gary","Conservative","Conservateur",Y,N,117
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 73","Sidney",N,N,"",0,433,"May","","Elizabeth","Green Party","Parti Vert",N,Y,102
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 74","Sidney",N,N,"",1,316,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 74","Sidney",N,N,"",1,316,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 74","Sidney",N,N,"",1,316,"Lunn","","Gary","Conservative","Conservateur",Y,N,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 74","Sidney",N,N,"",1,316,"May","","Elizabeth","Green Party","Parti Vert",N,Y,56
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 75","Saanichton",N,N,"",2,463,"Hetherington","","Renée","Liberal","Libéral",N,N,4
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 75","Saanichton",N,N,"",2,463,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 75","Saanichton",N,N,"",2,463,"Lunn","","Gary","Conservative","Conservateur",Y,N,125
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 75","Saanichton",N,N,"",2,463,"May","","Elizabeth","Green Party","Parti Vert",N,Y,139
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 76","Saanichton",N,N,"",0,445,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 76","Saanichton",N,N,"",0,445,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 76","Saanichton",N,N,"",0,445,"Lunn","","Gary","Conservative","Conservateur",Y,N,120
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 76","Saanichton",N,N,"",0,445,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77","Saanichton",N,N,"",0,331,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77","Saanichton",N,N,"",0,331,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77","Saanichton",N,N,"",0,331,"Lunn","","Gary","Conservative","Conservateur",Y,N,70
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77","Saanichton",N,N,"",0,331,"May","","Elizabeth","Green Party","Parti Vert",N,Y,92
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77-1","Central Saanich",N,N,"",0,403,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77-1","Central Saanich",N,N,"",0,403,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77-1","Central Saanich",N,N,"",0,403,"Lunn","","Gary","Conservative","Conservateur",Y,N,112
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 77-1","Central Saanich",N,N,"",0,403,"May","","Elizabeth","Green Party","Parti Vert",N,Y,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 78","Saanichton",N,N,"",1,369,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 78","Saanichton",N,N,"",1,369,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 78","Saanichton",N,N,"",1,369,"Lunn","","Gary","Conservative","Conservateur",Y,N,103
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 78","Saanichton",N,N,"",1,369,"May","","Elizabeth","Green Party","Parti Vert",N,Y,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 79","Saanichton",N,N,"",2,375,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 79","Saanichton",N,N,"",2,375,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 79","Saanichton",N,N,"",2,375,"Lunn","","Gary","Conservative","Conservateur",Y,N,92
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 79","Saanichton",N,N,"",2,375,"May","","Elizabeth","Green Party","Parti Vert",N,Y,92
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 80","Saanichton",N,N,"",0,456,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 80","Saanichton",N,N,"",0,456,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 80","Saanichton",N,N,"",0,456,"Lunn","","Gary","Conservative","Conservateur",Y,N,97
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 80","Saanichton",N,N,"",0,456,"May","","Elizabeth","Green Party","Parti Vert",N,Y,113
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 81","Saanichton",N,N,"",0,414,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 81","Saanichton",N,N,"",0,414,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 81","Saanichton",N,N,"",0,414,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 81","Saanichton",N,N,"",0,414,"May","","Elizabeth","Green Party","Parti Vert",N,Y,100
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 82","East Saanich 2",N,N,"",0,462,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 82","East Saanich 2",N,N,"",0,462,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 82","East Saanich 2",N,N,"",0,462,"Lunn","","Gary","Conservative","Conservateur",Y,N,132
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 82","East Saanich 2",N,N,"",0,462,"May","","Elizabeth","Green Party","Parti Vert",N,Y,69
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 83","Saanichton",N,N,"",0,370,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 83","Saanichton",N,N,"",0,370,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 83","Saanichton",N,N,"",0,370,"Lunn","","Gary","Conservative","Conservateur",Y,N,103
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 83","Saanichton",N,N,"",0,370,"May","","Elizabeth","Green Party","Parti Vert",N,Y,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84","East Saanich 2",N,N,"",0,494,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84","East Saanich 2",N,N,"",0,494,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84","East Saanich 2",N,N,"",0,494,"Lunn","","Gary","Conservative","Conservateur",Y,N,86
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84","East Saanich 2",N,N,"",0,494,"May","","Elizabeth","Green Party","Parti Vert",N,Y,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84-1","East Saanich 2",N,N,"",1,151,"Hetherington","","Renée","Liberal","Libéral",N,N,2
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84-1","East Saanich 2",N,N,"",1,151,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84-1","East Saanich 2",N,N,"",1,151,"Lunn","","Gary","Conservative","Conservateur",Y,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 84-1","East Saanich 2",N,N,"",1,151,"May","","Elizabeth","Green Party","Parti Vert",N,Y,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85","South Saanich 1",N,N,"",0,360,"Hetherington","","Renée","Liberal","Libéral",N,N,4
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85","South Saanich 1",N,N,"",0,360,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85","South Saanich 1",N,N,"",0,360,"Lunn","","Gary","Conservative","Conservateur",Y,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85","South Saanich 1",N,N,"",0,360,"May","","Elizabeth","Green Party","Parti Vert",N,Y,70
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85-1","Capital G",N,N,"",0,256,"Hetherington","","Renée","Liberal","Libéral",N,N,1
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85-1","Capital G",N,N,"",0,256,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85-1","Capital G",N,N,"",0,256,"Lunn","","Gary","Conservative","Conservateur",Y,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 85-1","Capital G",N,N,"",0,256,"May","","Elizabeth","Green Party","Parti Vert",N,Y,55
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 86","Saanichton",N,N,"",2,486,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 86","Saanichton",N,N,"",2,486,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 86","Saanichton",N,N,"",2,486,"Lunn","","Gary","Conservative","Conservateur",Y,N,94
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 86","Saanichton",N,N,"",2,486,"May","","Elizabeth","Green Party","Parti Vert",N,Y,140
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 87","Central Saanich",N,N,"",1,459,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 87","Central Saanich",N,N,"",1,459,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 87","Central Saanich",N,N,"",1,459,"Lunn","","Gary","Conservative","Conservateur",Y,N,97
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 87","Central Saanich",N,N,"",1,459,"May","","Elizabeth","Green Party","Parti Vert",N,Y,121
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 88","Central Saanich",N,N,"",0,475,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 88","Central Saanich",N,N,"",0,475,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 88","Central Saanich",N,N,"",0,475,"Lunn","","Gary","Conservative","Conservateur",Y,N,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 88","Central Saanich",N,N,"",0,475,"May","","Elizabeth","Green Party","Parti Vert",N,Y,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 89","Keating",N,N,"",0,448,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 89","Keating",N,N,"",0,448,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 89","Keating",N,N,"",0,448,"Lunn","","Gary","Conservative","Conservateur",Y,N,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 89","Keating",N,N,"",0,448,"May","","Elizabeth","Green Party","Parti Vert",N,Y,119
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 90","Keating",N,N,"",0,368,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 90","Keating",N,N,"",0,368,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 90","Keating",N,N,"",0,368,"Lunn","","Gary","Conservative","Conservateur",Y,N,85
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 90","Keating",N,N,"",0,368,"May","","Elizabeth","Green Party","Parti Vert",N,Y,87
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 91","Keating",N,N,"",0,307,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 91","Keating",N,N,"",0,307,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 91","Keating",N,N,"",0,307,"Lunn","","Gary","Conservative","Conservateur",Y,N,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 91","Keating",N,N,"",0,307,"May","","Elizabeth","Green Party","Parti Vert",N,Y,55
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 92","Keating",N,N,"",0,475,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 92","Keating",N,N,"",0,475,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 92","Keating",N,N,"",0,475,"Lunn","","Gary","Conservative","Conservateur",Y,N,112
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 92","Keating",N,N,"",0,475,"May","","Elizabeth","Green Party","Parti Vert",N,Y,118
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 93","East Saanich 2",N,N,"",0,631,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 93","East Saanich 2",N,N,"",0,631,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 93","East Saanich 2",N,N,"",0,631,"Lunn","","Gary","Conservative","Conservateur",Y,N,151
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 93","East Saanich 2",N,N,"",0,631,"May","","Elizabeth","Green Party","Parti Vert",N,Y,133
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 94","Central Saanich",N,N,"",0,352,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 94","Central Saanich",N,N,"",0,352,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 94","Central Saanich",N,N,"",0,352,"Lunn","","Gary","Conservative","Conservateur",Y,N,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 94","Central Saanich",N,N,"",0,352,"May","","Elizabeth","Green Party","Parti Vert",N,Y,131
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 95","Brentwood Bay",N,N,"",0,442,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 95","Brentwood Bay",N,N,"",0,442,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 95","Brentwood Bay",N,N,"",0,442,"Lunn","","Gary","Conservative","Conservateur",Y,N,97
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 95","Brentwood Bay",N,N,"",0,442,"May","","Elizabeth","Green Party","Parti Vert",N,Y,139
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 96","Central Saanich",N,N,"",2,473,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 96","Central Saanich",N,N,"",2,473,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 96","Central Saanich",N,N,"",2,473,"Lunn","","Gary","Conservative","Conservateur",Y,N,95
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 96","Central Saanich",N,N,"",2,473,"May","","Elizabeth","Green Party","Parti Vert",N,Y,162
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 97","Central Saanich",N,N,"",0,348,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 97","Central Saanich",N,N,"",0,348,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 97","Central Saanich",N,N,"",0,348,"Lunn","","Gary","Conservative","Conservateur",Y,N,89
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 97","Central Saanich",N,N,"",0,348,"May","","Elizabeth","Green Party","Parti Vert",N,Y,129
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 98","Brentwood Bay",N,N,"",0,449,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 98","Brentwood Bay",N,N,"",0,449,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 98","Brentwood Bay",N,N,"",0,449,"Lunn","","Gary","Conservative","Conservateur",Y,N,138
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 98","Brentwood Bay",N,N,"",0,449,"May","","Elizabeth","Green Party","Parti Vert",N,Y,103
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 99","Brentwood Bay",N,N,"",0,482,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 99","Brentwood Bay",N,N,"",0,482,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 99","Brentwood Bay",N,N,"",0,482,"Lunn","","Gary","Conservative","Conservateur",Y,N,129
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 99","Brentwood Bay",N,N,"",0,482,"May","","Elizabeth","Green Party","Parti Vert",N,Y,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 100","Central Saanich",N,N,"",0,431,"Hetherington","","Renée","Liberal","Libéral",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 100","Central Saanich",N,N,"",0,431,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 100","Central Saanich",N,N,"",0,431,"Lunn","","Gary","Conservative","Conservateur",Y,N,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 100","Central Saanich",N,N,"",0,431,"May","","Elizabeth","Green Party","Parti Vert",N,Y,118
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 101","Keating",N,N,"",0,456,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 101","Keating",N,N,"",0,456,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 101","Keating",N,N,"",0,456,"Lunn","","Gary","Conservative","Conservateur",Y,N,124
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 101","Keating",N,N,"",0,456,"May","","Elizabeth","Green Party","Parti Vert",N,Y,132
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 102","Keating",N,N,"",0,443,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 102","Keating",N,N,"",0,443,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 102","Keating",N,N,"",0,443,"Lunn","","Gary","Conservative","Conservateur",Y,N,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 102","Keating",N,N,"",0,443,"May","","Elizabeth","Green Party","Parti Vert",N,Y,118
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 103","Keating",N,N,"",0,361,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 103","Keating",N,N,"",0,361,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 103","Keating",N,N,"",0,361,"Lunn","","Gary","Conservative","Conservateur",Y,N,103
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 103","Keating",N,N,"",0,361,"May","","Elizabeth","Green Party","Parti Vert",N,Y,98
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 104","Keating",N,N,"",1,565,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 104","Keating",N,N,"",1,565,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 104","Keating",N,N,"",1,565,"Lunn","","Gary","Conservative","Conservateur",Y,N,149
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 104","Keating",N,N,"",1,565,"May","","Elizabeth","Green Party","Parti Vert",N,Y,107
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105","Keating",N,N,"",0,184,"Hetherington","","Renée","Liberal","Libéral",N,N,1
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105","Keating",N,N,"",0,184,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105","Keating",N,N,"",0,184,"Lunn","","Gary","Conservative","Conservateur",Y,N,50
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105","Keating",N,N,"",0,184,"May","","Elizabeth","Green Party","Parti Vert",N,Y,48
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105-1","Central Saanich",N,N,"",0,415,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105-1","Central Saanich",N,N,"",0,415,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105-1","Central Saanich",N,N,"",0,415,"Lunn","","Gary","Conservative","Conservateur",Y,N,113
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 105-1","Central Saanich",N,N,"",0,415,"May","","Elizabeth","Green Party","Parti Vert",N,Y,95
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 106","Cordova Bay",N,N,"",0,433,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 106","Cordova Bay",N,N,"",0,433,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 106","Cordova Bay",N,N,"",0,433,"Lunn","","Gary","Conservative","Conservateur",Y,N,165
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 106","Cordova Bay",N,N,"",0,433,"May","","Elizabeth","Green Party","Parti Vert",N,Y,98
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 107","Cordova Bay",N,N,"",1,375,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 107","Cordova Bay",N,N,"",1,375,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 107","Cordova Bay",N,N,"",1,375,"Lunn","","Gary","Conservative","Conservateur",Y,N,146
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 107","Cordova Bay",N,N,"",1,375,"May","","Elizabeth","Green Party","Parti Vert",N,Y,55
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 108","Cordova Bay",N,N,"",1,468,"Hetherington","","Renée","Liberal","Libéral",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 108","Cordova Bay",N,N,"",1,468,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 108","Cordova Bay",N,N,"",1,468,"Lunn","","Gary","Conservative","Conservateur",Y,N,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 108","Cordova Bay",N,N,"",1,468,"May","","Elizabeth","Green Party","Parti Vert",N,Y,135
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 109","Cordova Bay",N,N,"",0,480,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 109","Cordova Bay",N,N,"",0,480,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 109","Cordova Bay",N,N,"",0,480,"Lunn","","Gary","Conservative","Conservateur",Y,N,112
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 109","Cordova Bay",N,N,"",0,480,"May","","Elizabeth","Green Party","Parti Vert",N,Y,128
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 110","Saanich",N,N,"",1,465,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 110","Saanich",N,N,"",1,465,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 110","Saanich",N,N,"",1,465,"Lunn","","Gary","Conservative","Conservateur",Y,N,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 110","Saanich",N,N,"",1,465,"May","","Elizabeth","Green Party","Parti Vert",N,Y,134
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 111","Cordova Bay",N,N,"",1,416,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 111","Cordova Bay",N,N,"",1,416,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 111","Cordova Bay",N,N,"",1,416,"Lunn","","Gary","Conservative","Conservateur",Y,N,129
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 111","Cordova Bay",N,N,"",1,416,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 112","Saanich",N,N,"",1,474,"Hetherington","","Renée","Liberal","Libéral",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 112","Saanich",N,N,"",1,474,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 112","Saanich",N,N,"",1,474,"Lunn","","Gary","Conservative","Conservateur",Y,N,123
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 112","Saanich",N,N,"",1,474,"May","","Elizabeth","Green Party","Parti Vert",N,Y,148
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 113","Cordova Bay",N,N,"",0,392,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 113","Cordova Bay",N,N,"",0,392,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 113","Cordova Bay",N,N,"",0,392,"Lunn","","Gary","Conservative","Conservateur",Y,N,97
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 113","Cordova Bay",N,N,"",0,392,"May","","Elizabeth","Green Party","Parti Vert",N,Y,119
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 114","Cordova Bay",N,N,"",3,478,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 114","Cordova Bay",N,N,"",3,478,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 114","Cordova Bay",N,N,"",3,478,"Lunn","","Gary","Conservative","Conservateur",Y,N,131
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 114","Cordova Bay",N,N,"",3,478,"May","","Elizabeth","Green Party","Parti Vert",N,Y,99
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 115","Saanich",N,N,"",0,410,"Hetherington","","Renée","Liberal","Libéral",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 115","Saanich",N,N,"",0,410,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 115","Saanich",N,N,"",0,410,"Lunn","","Gary","Conservative","Conservateur",Y,N,114
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 115","Saanich",N,N,"",0,410,"May","","Elizabeth","Green Party","Parti Vert",N,Y,88
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 116","Saanich",N,N,"",1,453,"Hetherington","","Renée","Liberal","Libéral",N,N,34
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 116","Saanich",N,N,"",1,453,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 116","Saanich",N,N,"",1,453,"Lunn","","Gary","Conservative","Conservateur",Y,N,124
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 116","Saanich",N,N,"",1,453,"May","","Elizabeth","Green Party","Parti Vert",N,Y,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 117","Cordova Bay",N,N,"",1,462,"Hetherington","","Renée","Liberal","Libéral",N,N,25
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 117","Cordova Bay",N,N,"",1,462,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 117","Cordova Bay",N,N,"",1,462,"Lunn","","Gary","Conservative","Conservateur",Y,N,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 117","Cordova Bay",N,N,"",1,462,"May","","Elizabeth","Green Party","Parti Vert",N,Y,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 118","Saanich",N,N,"",0,380,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 118","Saanich",N,N,"",0,380,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 118","Saanich",N,N,"",0,380,"Lunn","","Gary","Conservative","Conservateur",Y,N,89
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 118","Saanich",N,N,"",0,380,"May","","Elizabeth","Green Party","Parti Vert",N,Y,77
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 119","Saanich",N,N,"",0,519,"Hetherington","","Renée","Liberal","Libéral",N,N,28
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 119","Saanich",N,N,"",0,519,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 119","Saanich",N,N,"",0,519,"Lunn","","Gary","Conservative","Conservateur",Y,N,135
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 119","Saanich",N,N,"",0,519,"May","","Elizabeth","Green Party","Parti Vert",N,Y,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 120","Cordova Bay",N,N,"",0,458,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 120","Cordova Bay",N,N,"",0,458,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 120","Cordova Bay",N,N,"",0,458,"Lunn","","Gary","Conservative","Conservateur",Y,N,154
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 120","Cordova Bay",N,N,"",0,458,"May","","Elizabeth","Green Party","Parti Vert",N,Y,80
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 121","Cordova Bay",N,N,"",0,402,"Hetherington","","Renée","Liberal","Libéral",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 121","Cordova Bay",N,N,"",0,402,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 121","Cordova Bay",N,N,"",0,402,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 121","Cordova Bay",N,N,"",0,402,"May","","Elizabeth","Green Party","Parti Vert",N,Y,88
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 122","Saanich",N,N,"",0,367,"Hetherington","","Renée","Liberal","Libéral",N,N,25
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 122","Saanich",N,N,"",0,367,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 122","Saanich",N,N,"",0,367,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 122","Saanich",N,N,"",0,367,"May","","Elizabeth","Green Party","Parti Vert",N,Y,79
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 123","Saanich",N,N,"",1,472,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 123","Saanich",N,N,"",1,472,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 123","Saanich",N,N,"",1,472,"Lunn","","Gary","Conservative","Conservateur",Y,N,146
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 123","Saanich",N,N,"",1,472,"May","","Elizabeth","Green Party","Parti Vert",N,Y,96
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 124","Saanich",N,N,"",0,235,"Hetherington","","Renée","Liberal","Libéral",N,N,1
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 124","Saanich",N,N,"",0,235,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 124","Saanich",N,N,"",0,235,"Lunn","","Gary","Conservative","Conservateur",Y,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 124","Saanich",N,N,"",0,235,"May","","Elizabeth","Green Party","Parti Vert",N,Y,71
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 125","Saanich",N,N,"",0,367,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 125","Saanich",N,N,"",0,367,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 125","Saanich",N,N,"",0,367,"Lunn","","Gary","Conservative","Conservateur",Y,N,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 125","Saanich",N,N,"",0,367,"May","","Elizabeth","Green Party","Parti Vert",N,Y,64
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 126","Saanich",N,N,"",0,324,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 126","Saanich",N,N,"",0,324,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 126","Saanich",N,N,"",0,324,"Lunn","","Gary","Conservative","Conservateur",Y,N,89
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 126","Saanich",N,N,"",0,324,"May","","Elizabeth","Green Party","Parti Vert",N,Y,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 127","Saanich",N,N,"",0,412,"Hetherington","","Renée","Liberal","Libéral",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 127","Saanich",N,N,"",0,412,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 127","Saanich",N,N,"",0,412,"Lunn","","Gary","Conservative","Conservateur",Y,N,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 127","Saanich",N,N,"",0,412,"May","","Elizabeth","Green Party","Parti Vert",N,Y,114
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 128","Saanich",N,N,"",2,254,"Hetherington","","Renée","Liberal","Libéral",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 128","Saanich",N,N,"",2,254,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 128","Saanich",N,N,"",2,254,"Lunn","","Gary","Conservative","Conservateur",Y,N,86
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 128","Saanich",N,N,"",2,254,"May","","Elizabeth","Green Party","Parti Vert",N,Y,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 129","Lake Hill",N,N,"",1,443,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 129","Lake Hill",N,N,"",1,443,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 129","Lake Hill",N,N,"",1,443,"Lunn","","Gary","Conservative","Conservateur",Y,N,112
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 129","Lake Hill",N,N,"",1,443,"May","","Elizabeth","Green Party","Parti Vert",N,Y,109
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 130","Saanich",N,N,"",0,451,"Hetherington","","Renée","Liberal","Libéral",N,N,24
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 130","Saanich",N,N,"",0,451,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 130","Saanich",N,N,"",0,451,"Lunn","","Gary","Conservative","Conservateur",Y,N,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 130","Saanich",N,N,"",0,451,"May","","Elizabeth","Green Party","Parti Vert",N,Y,92
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 131","Saanich",N,N,"",0,471,"Hetherington","","Renée","Liberal","Libéral",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 131","Saanich",N,N,"",0,471,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 131","Saanich",N,N,"",0,471,"Lunn","","Gary","Conservative","Conservateur",Y,N,128
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 131","Saanich",N,N,"",0,471,"May","","Elizabeth","Green Party","Parti Vert",N,Y,66
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 132","Saanich",N,N,"",0,408,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 132","Saanich",N,N,"",0,408,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 132","Saanich",N,N,"",0,408,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 132","Saanich",N,N,"",0,408,"May","","Elizabeth","Green Party","Parti Vert",N,Y,108
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 133","Saanich",N,N,"",0,547,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 133","Saanich",N,N,"",0,547,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 133","Saanich",N,N,"",0,547,"Lunn","","Gary","Conservative","Conservateur",Y,N,133
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 133","Saanich",N,N,"",0,547,"May","","Elizabeth","Green Party","Parti Vert",N,Y,132
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 134","Gordon Head",N,N,"",2,429,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 134","Gordon Head",N,N,"",2,429,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 134","Gordon Head",N,N,"",2,429,"Lunn","","Gary","Conservative","Conservateur",Y,N,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 134","Gordon Head",N,N,"",2,429,"May","","Elizabeth","Green Party","Parti Vert",N,Y,161
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 135","Saanich",N,N,"",0,470,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 135","Saanich",N,N,"",0,470,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 135","Saanich",N,N,"",0,470,"Lunn","","Gary","Conservative","Conservateur",Y,N,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 135","Saanich",N,N,"",0,470,"May","","Elizabeth","Green Party","Parti Vert",N,Y,96
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136","Saanich",N,N,"",0,487,"Hetherington","","Renée","Liberal","Libéral",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136","Saanich",N,N,"",0,487,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136","Saanich",N,N,"",0,487,"Lunn","","Gary","Conservative","Conservateur",Y,N,94
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136","Saanich",N,N,"",0,487,"May","","Elizabeth","Green Party","Parti Vert",N,Y,121
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136-1","Saanich",N,N,"",1,448,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136-1","Saanich",N,N,"",1,448,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136-1","Saanich",N,N,"",1,448,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 136-1","Saanich",N,N,"",1,448,"May","","Elizabeth","Green Party","Parti Vert",N,Y,83
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 137","Saanich",N,N,"",0,360,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 137","Saanich",N,N,"",0,360,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 137","Saanich",N,N,"",0,360,"Lunn","","Gary","Conservative","Conservateur",Y,N,93
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 137","Saanich",N,N,"",0,360,"May","","Elizabeth","Green Party","Parti Vert",N,Y,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 138","Saanich",N,N,"",1,389,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 138","Saanich",N,N,"",1,389,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 138","Saanich",N,N,"",1,389,"Lunn","","Gary","Conservative","Conservateur",Y,N,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 138","Saanich",N,N,"",1,389,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 139","Saanich",N,N,"",0,382,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 139","Saanich",N,N,"",0,382,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 139","Saanich",N,N,"",0,382,"Lunn","","Gary","Conservative","Conservateur",Y,N,83
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 139","Saanich",N,N,"",0,382,"May","","Elizabeth","Green Party","Parti Vert",N,Y,124
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140","Lake Hill",N,N,"",4,536,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140","Lake Hill",N,N,"",4,536,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140","Lake Hill",N,N,"",4,536,"Lunn","","Gary","Conservative","Conservateur",Y,N,96
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140","Lake Hill",N,N,"",4,536,"May","","Elizabeth","Green Party","Parti Vert",N,Y,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140-1","Saanich",N,N,"",1,364,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140-1","Saanich",N,N,"",1,364,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140-1","Saanich",N,N,"",1,364,"Lunn","","Gary","Conservative","Conservateur",Y,N,58
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 140-1","Saanich",N,N,"",1,364,"May","","Elizabeth","Green Party","Parti Vert",N,Y,68
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 141","Saanich",N,N,"",1,365,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 141","Saanich",N,N,"",1,365,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 141","Saanich",N,N,"",1,365,"Lunn","","Gary","Conservative","Conservateur",Y,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 141","Saanich",N,N,"",1,365,"May","","Elizabeth","Green Party","Parti Vert",N,Y,83
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 142","Saanich",N,N,"",1,360,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 142","Saanich",N,N,"",1,360,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 142","Saanich",N,N,"",1,360,"Lunn","","Gary","Conservative","Conservateur",Y,N,48
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 142","Saanich",N,N,"",1,360,"May","","Elizabeth","Green Party","Parti Vert",N,Y,65
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 143","Lake Hill",N,N,"",0,483,"Hetherington","","Renée","Liberal","Libéral",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 143","Lake Hill",N,N,"",0,483,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 143","Lake Hill",N,N,"",0,483,"Lunn","","Gary","Conservative","Conservateur",Y,N,72
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 143","Lake Hill",N,N,"",0,483,"May","","Elizabeth","Green Party","Parti Vert",N,Y,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 144","Saanich",N,N,"",0,367,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 144","Saanich",N,N,"",0,367,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 144","Saanich",N,N,"",0,367,"Lunn","","Gary","Conservative","Conservateur",Y,N,84
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 144","Saanich",N,N,"",0,367,"May","","Elizabeth","Green Party","Parti Vert",N,Y,125
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 145","Saanich",N,N,"",1,371,"Hetherington","","Renée","Liberal","Libéral",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 145","Saanich",N,N,"",1,371,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 145","Saanich",N,N,"",1,371,"Lunn","","Gary","Conservative","Conservateur",Y,N,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 145","Saanich",N,N,"",1,371,"May","","Elizabeth","Green Party","Parti Vert",N,Y,105
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 146","Saanich",N,N,"",0,444,"Hetherington","","Renée","Liberal","Libéral",N,N,24
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 146","Saanich",N,N,"",0,444,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 146","Saanich",N,N,"",0,444,"Lunn","","Gary","Conservative","Conservateur",Y,N,100
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 146","Saanich",N,N,"",0,444,"May","","Elizabeth","Green Party","Parti Vert",N,Y,107
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 147","Gordon Head",N,N,"",1,372,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 147","Gordon Head",N,N,"",1,372,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 147","Gordon Head",N,N,"",1,372,"Lunn","","Gary","Conservative","Conservateur",Y,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 147","Gordon Head",N,N,"",1,372,"May","","Elizabeth","Green Party","Parti Vert",N,Y,99
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 148","Gordon Head",N,N,"",1,457,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 148","Gordon Head",N,N,"",1,457,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 148","Gordon Head",N,N,"",1,457,"Lunn","","Gary","Conservative","Conservateur",Y,N,87
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 148","Gordon Head",N,N,"",1,457,"May","","Elizabeth","Green Party","Parti Vert",N,Y,114
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 149","Saanich",N,N,"",0,381,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 149","Saanich",N,N,"",0,381,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 149","Saanich",N,N,"",0,381,"Lunn","","Gary","Conservative","Conservateur",Y,N,76
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 149","Saanich",N,N,"",0,381,"May","","Elizabeth","Green Party","Parti Vert",N,Y,107
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 150","Saanich",N,N,"",0,383,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 150","Saanich",N,N,"",0,383,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 150","Saanich",N,N,"",0,383,"Lunn","","Gary","Conservative","Conservateur",Y,N,70
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 150","Saanich",N,N,"",0,383,"May","","Elizabeth","Green Party","Parti Vert",N,Y,101
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 151","Saanich",N,N,"",1,388,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 151","Saanich",N,N,"",1,388,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 151","Saanich",N,N,"",1,388,"Lunn","","Gary","Conservative","Conservateur",Y,N,73
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 151","Saanich",N,N,"",1,388,"May","","Elizabeth","Green Party","Parti Vert",N,Y,113
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 152","Gordon Head",N,N,"",0,387,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 152","Gordon Head",N,N,"",0,387,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 152","Gordon Head",N,N,"",0,387,"Lunn","","Gary","Conservative","Conservateur",Y,N,103
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 152","Gordon Head",N,N,"",0,387,"May","","Elizabeth","Green Party","Parti Vert",N,Y,106
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 153","Saanich",N,N,"",1,509,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 153","Saanich",N,N,"",1,509,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 153","Saanich",N,N,"",1,509,"Lunn","","Gary","Conservative","Conservateur",Y,N,60
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 153","Saanich",N,N,"",1,509,"May","","Elizabeth","Green Party","Parti Vert",N,Y,147
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 154","Saanich",N,N,"",0,409,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 154","Saanich",N,N,"",0,409,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 154","Saanich",N,N,"",0,409,"Lunn","","Gary","Conservative","Conservateur",Y,N,85
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 154","Saanich",N,N,"",0,409,"May","","Elizabeth","Green Party","Parti Vert",N,Y,118
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 155","Saanich",N,N,"",1,465,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 155","Saanich",N,N,"",1,465,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 155","Saanich",N,N,"",1,465,"Lunn","","Gary","Conservative","Conservateur",Y,N,52
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 155","Saanich",N,N,"",1,465,"May","","Elizabeth","Green Party","Parti Vert",N,Y,98
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 156","Saanich",N,N,"",0,354,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 156","Saanich",N,N,"",0,354,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 156","Saanich",N,N,"",0,354,"Lunn","","Gary","Conservative","Conservateur",Y,N,43
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 156","Saanich",N,N,"",0,354,"May","","Elizabeth","Green Party","Parti Vert",N,Y,72
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 157","Saanich",N,N,"",0,508,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 157","Saanich",N,N,"",0,508,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 157","Saanich",N,N,"",0,508,"Lunn","","Gary","Conservative","Conservateur",Y,N,60
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 157","Saanich",N,N,"",0,508,"May","","Elizabeth","Green Party","Parti Vert",N,Y,155
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 158","Saanich",N,N,"",0,495,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 158","Saanich",N,N,"",0,495,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 158","Saanich",N,N,"",0,495,"Lunn","","Gary","Conservative","Conservateur",Y,N,99
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 158","Saanich",N,N,"",0,495,"May","","Elizabeth","Green Party","Parti Vert",N,Y,150
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 159","Lake Hill",N,N,"",0,461,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 159","Lake Hill",N,N,"",0,461,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 159","Lake Hill",N,N,"",0,461,"Lunn","","Gary","Conservative","Conservateur",Y,N,95
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 159","Lake Hill",N,N,"",0,461,"May","","Elizabeth","Green Party","Parti Vert",N,Y,175
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 160","Saanich",N,N,"",2,490,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 160","Saanich",N,N,"",2,490,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 160","Saanich",N,N,"",2,490,"Lunn","","Gary","Conservative","Conservateur",Y,N,117
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 160","Saanich",N,N,"",2,490,"May","","Elizabeth","Green Party","Parti Vert",N,Y,132
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 161","Saanich",N,N,"",2,453,"Hetherington","","Renée","Liberal","Libéral",N,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 161","Saanich",N,N,"",2,453,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 161","Saanich",N,N,"",2,453,"Lunn","","Gary","Conservative","Conservateur",Y,N,105
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 161","Saanich",N,N,"",2,453,"May","","Elizabeth","Green Party","Parti Vert",N,Y,104
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162A","Saanich",N,N,"",1,226,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162A","Saanich",N,N,"",1,226,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162A","Saanich",N,N,"",1,226,"Lunn","","Gary","Conservative","Conservateur",Y,N,50
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162A","Saanich",N,N,"",1,226,"May","","Elizabeth","Green Party","Parti Vert",N,Y,70
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162B","Mobile poll/Bureau itinérant",N,N,"502",0,67,"Hetherington","","Renée","Liberal","Libéral",N,N,0
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162B","Mobile poll/Bureau itinérant",N,N,"502",0,67,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162B","Mobile poll/Bureau itinérant",N,N,"502",0,67,"Lunn","","Gary","Conservative","Conservateur",Y,N,0
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 162B","Mobile poll/Bureau itinérant",N,N,"502",0,67,"May","","Elizabeth","Green Party","Parti Vert",N,Y,0
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 163","Saanich",N,N,"",1,394,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 163","Saanich",N,N,"",1,394,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 163","Saanich",N,N,"",1,394,"Lunn","","Gary","Conservative","Conservateur",Y,N,95
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 163","Saanich",N,N,"",1,394,"May","","Elizabeth","Green Party","Parti Vert",N,Y,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 164","Saanich",N,N,"",1,426,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 164","Saanich",N,N,"",1,426,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 164","Saanich",N,N,"",1,426,"Lunn","","Gary","Conservative","Conservateur",Y,N,72
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 164","Saanich",N,N,"",1,426,"May","","Elizabeth","Green Party","Parti Vert",N,Y,116
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 165","Saanich",N,N,"",0,411,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 165","Saanich",N,N,"",0,411,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 165","Saanich",N,N,"",0,411,"Lunn","","Gary","Conservative","Conservateur",Y,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 165","Saanich",N,N,"",0,411,"May","","Elizabeth","Green Party","Parti Vert",N,Y,97
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 166","Saanich",N,N,"",0,459,"Hetherington","","Renée","Liberal","Libéral",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 166","Saanich",N,N,"",0,459,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 166","Saanich",N,N,"",0,459,"Lunn","","Gary","Conservative","Conservateur",Y,N,76
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 166","Saanich",N,N,"",0,459,"May","","Elizabeth","Green Party","Parti Vert",N,Y,131
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 167","Saanich",N,N,"",1,467,"Hetherington","","Renée","Liberal","Libéral",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 167","Saanich",N,N,"",1,467,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 167","Saanich",N,N,"",1,467,"Lunn","","Gary","Conservative","Conservateur",Y,N,87
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 167","Saanich",N,N,"",1,467,"May","","Elizabeth","Green Party","Parti Vert",N,Y,147
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 168","Saanich",N,N,"",0,445,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 168","Saanich",N,N,"",0,445,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 168","Saanich",N,N,"",0,445,"Lunn","","Gary","Conservative","Conservateur",Y,N,76
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 168","Saanich",N,N,"",0,445,"May","","Elizabeth","Green Party","Parti Vert",N,Y,159
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 169","Saanich",N,N,"",0,511,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 169","Saanich",N,N,"",0,511,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 169","Saanich",N,N,"",0,511,"Lunn","","Gary","Conservative","Conservateur",Y,N,69
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 169","Saanich",N,N,"",0,511,"May","","Elizabeth","Green Party","Parti Vert",N,Y,165
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 170","Saanich",N,N,"",0,408,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 170","Saanich",N,N,"",0,408,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 170","Saanich",N,N,"",0,408,"Lunn","","Gary","Conservative","Conservateur",Y,N,49
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 170","Saanich",N,N,"",0,408,"May","","Elizabeth","Green Party","Parti Vert",N,Y,118
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 171","Saanich",N,N,"",0,431,"Hetherington","","Renée","Liberal","Libéral",N,N,3
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 171","Saanich",N,N,"",0,431,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 171","Saanich",N,N,"",0,431,"Lunn","","Gary","Conservative","Conservateur",Y,N,58
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 171","Saanich",N,N,"",0,431,"May","","Elizabeth","Green Party","Parti Vert",N,Y,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 172","Saanich",N,N,"",0,501,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 172","Saanich",N,N,"",0,501,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 172","Saanich",N,N,"",0,501,"Lunn","","Gary","Conservative","Conservateur",Y,N,65
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 172","Saanich",N,N,"",0,501,"May","","Elizabeth","Green Party","Parti Vert",N,Y,113
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 173","Saanich",N,N,"",0,363,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 173","Saanich",N,N,"",0,363,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 173","Saanich",N,N,"",0,363,"Lunn","","Gary","Conservative","Conservateur",Y,N,45
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 173","Saanich",N,N,"",0,363,"May","","Elizabeth","Green Party","Parti Vert",N,Y,101
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 174","Lake Hill",N,N,"",1,429,"Hetherington","","Renée","Liberal","Libéral",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 174","Lake Hill",N,N,"",1,429,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 174","Lake Hill",N,N,"",1,429,"Lunn","","Gary","Conservative","Conservateur",Y,N,48
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 174","Lake Hill",N,N,"",1,429,"May","","Elizabeth","Green Party","Parti Vert",N,Y,121
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 175","Saanich",N,N,"",0,414,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 175","Saanich",N,N,"",0,414,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 175","Saanich",N,N,"",0,414,"Lunn","","Gary","Conservative","Conservateur",Y,N,61
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 175","Saanich",N,N,"",0,414,"May","","Elizabeth","Green Party","Parti Vert",N,Y,138
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 176","Saanich",N,N,"",1,413,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 176","Saanich",N,N,"",1,413,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 176","Saanich",N,N,"",1,413,"Lunn","","Gary","Conservative","Conservateur",Y,N,76
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 176","Saanich",N,N,"",1,413,"May","","Elizabeth","Green Party","Parti Vert",N,Y,126
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 177","Saanich",N,N,"",0,433,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 177","Saanich",N,N,"",0,433,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 177","Saanich",N,N,"",0,433,"Lunn","","Gary","Conservative","Conservateur",Y,N,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 177","Saanich",N,N,"",0,433,"May","","Elizabeth","Green Party","Parti Vert",N,Y,160
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 178","Saanich",N,N,"",0,451,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 178","Saanich",N,N,"",0,451,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 178","Saanich",N,N,"",0,451,"Lunn","","Gary","Conservative","Conservateur",Y,N,85
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 178","Saanich",N,N,"",0,451,"May","","Elizabeth","Green Party","Parti Vert",N,Y,166
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 179","Saanich",N,N,"",1,374,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 179","Saanich",N,N,"",1,374,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 179","Saanich",N,N,"",1,374,"Lunn","","Gary","Conservative","Conservateur",Y,N,73
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 179","Saanich",N,N,"",1,374,"May","","Elizabeth","Green Party","Parti Vert",N,Y,116
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 180","Saanich",N,N,"",1,277,"Hetherington","","Renée","Liberal","Libéral",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 180","Saanich",N,N,"",1,277,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 180","Saanich",N,N,"",1,277,"Lunn","","Gary","Conservative","Conservateur",Y,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 180","Saanich",N,N,"",1,277,"May","","Elizabeth","Green Party","Parti Vert",N,Y,62
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 181","Gordon Head",N,N,"",1,355,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 181","Gordon Head",N,N,"",1,355,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 181","Gordon Head",N,N,"",1,355,"Lunn","","Gary","Conservative","Conservateur",Y,N,48
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 181","Gordon Head",N,N,"",1,355,"May","","Elizabeth","Green Party","Parti Vert",N,Y,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 182","Saanich",N,N,"",1,247,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 182","Saanich",N,N,"",1,247,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 182","Saanich",N,N,"",1,247,"Lunn","","Gary","Conservative","Conservateur",Y,N,66
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 182","Saanich",N,N,"",1,247,"May","","Elizabeth","Green Party","Parti Vert",N,Y,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 183","Saanich",N,N,"",2,291,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 183","Saanich",N,N,"",2,291,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 183","Saanich",N,N,"",2,291,"Lunn","","Gary","Conservative","Conservateur",Y,N,42
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 183","Saanich",N,N,"",2,291,"May","","Elizabeth","Green Party","Parti Vert",N,Y,59
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 184","Saanich",N,N,"",0,414,"Hetherington","","Renée","Liberal","Libéral",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 184","Saanich",N,N,"",0,414,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 184","Saanich",N,N,"",0,414,"Lunn","","Gary","Conservative","Conservateur",Y,N,57
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 184","Saanich",N,N,"",0,414,"May","","Elizabeth","Green Party","Parti Vert",N,Y,92
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 185","Saanich",N,N,"",1,152,"Hetherington","","Renée","Liberal","Libéral",N,N,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 185","Saanich",N,N,"",1,152,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 185","Saanich",N,N,"",1,152,"Lunn","","Gary","Conservative","Conservateur",Y,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 185","Saanich",N,N,"",1,152,"May","","Elizabeth","Green Party","Parti Vert",N,Y,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 186","Saanich",N,N,"",0,251,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 186","Saanich",N,N,"",0,251,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 186","Saanich",N,N,"",0,251,"Lunn","","Gary","Conservative","Conservateur",Y,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 186","Saanich",N,N,"",0,251,"May","","Elizabeth","Green Party","Parti Vert",N,Y,53
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 187","Saanich",N,N,"",0,267,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 187","Saanich",N,N,"",0,267,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 187","Saanich",N,N,"",0,267,"Lunn","","Gary","Conservative","Conservateur",Y,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 187","Saanich",N,N,"",0,267,"May","","Elizabeth","Green Party","Parti Vert",N,Y,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 188","Gordon Head",N,N,"",0,438,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 188","Gordon Head",N,N,"",0,438,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 188","Gordon Head",N,N,"",0,438,"Lunn","","Gary","Conservative","Conservateur",Y,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 188","Gordon Head",N,N,"",0,438,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 189","Saanich",N,N,"",0,362,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 189","Saanich",N,N,"",0,362,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 189","Saanich",N,N,"",0,362,"Lunn","","Gary","Conservative","Conservateur",Y,N,61
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 189","Saanich",N,N,"",0,362,"May","","Elizabeth","Green Party","Parti Vert",N,Y,94
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 190","Saanich",N,N,"",1,327,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 190","Saanich",N,N,"",1,327,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 190","Saanich",N,N,"",1,327,"Lunn","","Gary","Conservative","Conservateur",Y,N,51
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 190","Saanich",N,N,"",1,327,"May","","Elizabeth","Green Party","Parti Vert",N,Y,78
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 191","Saanich",N,N,"",1,382,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 191","Saanich",N,N,"",1,382,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 191","Saanich",N,N,"",1,382,"Lunn","","Gary","Conservative","Conservateur",Y,N,80
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 191","Saanich",N,N,"",1,382,"May","","Elizabeth","Green Party","Parti Vert",N,Y,119
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 192","Saanich",N,N,"",2,492,"Hetherington","","Renée","Liberal","Libéral",N,N,36
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 192","Saanich",N,N,"",2,492,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 192","Saanich",N,N,"",2,492,"Lunn","","Gary","Conservative","Conservateur",Y,N,103
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 192","Saanich",N,N,"",2,492,"May","","Elizabeth","Green Party","Parti Vert",N,Y,110
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 193","Gordon Head",N,N,"",0,430,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 193","Gordon Head",N,N,"",0,430,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 193","Gordon Head",N,N,"",0,430,"Lunn","","Gary","Conservative","Conservateur",Y,N,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 193","Gordon Head",N,N,"",0,430,"May","","Elizabeth","Green Party","Parti Vert",N,Y,118
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 194","Gordon Head",N,N,"",0,331,"Hetherington","","Renée","Liberal","Libéral",N,N,23
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 194","Gordon Head",N,N,"",0,331,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 194","Gordon Head",N,N,"",0,331,"Lunn","","Gary","Conservative","Conservateur",Y,N,78
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 194","Gordon Head",N,N,"",0,331,"May","","Elizabeth","Green Party","Parti Vert",N,Y,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 195","Gordon Head",N,N,"",2,512,"Hetherington","","Renée","Liberal","Libéral",N,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 195","Gordon Head",N,N,"",2,512,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 195","Gordon Head",N,N,"",2,512,"Lunn","","Gary","Conservative","Conservateur",Y,N,101
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 195","Gordon Head",N,N,"",2,512,"May","","Elizabeth","Green Party","Parti Vert",N,Y,131
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 196","Saanich",N,N,"",2,461,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 196","Saanich",N,N,"",2,461,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 196","Saanich",N,N,"",2,461,"Lunn","","Gary","Conservative","Conservateur",Y,N,114
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 196","Saanich",N,N,"",2,461,"May","","Elizabeth","Green Party","Parti Vert",N,Y,116
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 197","Saanich",N,N,"",0,392,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 197","Saanich",N,N,"",0,392,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 197","Saanich",N,N,"",0,392,"Lunn","","Gary","Conservative","Conservateur",Y,N,55
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 197","Saanich",N,N,"",0,392,"May","","Elizabeth","Green Party","Parti Vert",N,Y,121
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 198","Gordon Head",N,N,"",0,338,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 198","Gordon Head",N,N,"",0,338,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 198","Gordon Head",N,N,"",0,338,"Lunn","","Gary","Conservative","Conservateur",Y,N,85
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 198","Gordon Head",N,N,"",0,338,"May","","Elizabeth","Green Party","Parti Vert",N,Y,79
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 199","Saanich",N,N,"",0,411,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 199","Saanich",N,N,"",0,411,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 199","Saanich",N,N,"",0,411,"Lunn","","Gary","Conservative","Conservateur",Y,N,101
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 199","Saanich",N,N,"",0,411,"May","","Elizabeth","Green Party","Parti Vert",N,Y,133
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 200","Gordon Head",N,N,"",0,482,"Hetherington","","Renée","Liberal","Libéral",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 200","Gordon Head",N,N,"",0,482,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 200","Gordon Head",N,N,"",0,482,"Lunn","","Gary","Conservative","Conservateur",Y,N,122
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 200","Gordon Head",N,N,"",0,482,"May","","Elizabeth","Green Party","Parti Vert",N,Y,122
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 201","Saanich",N,N,"",0,416,"Hetherington","","Renée","Liberal","Libéral",N,N,21
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 201","Saanich",N,N,"",0,416,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 201","Saanich",N,N,"",0,416,"Lunn","","Gary","Conservative","Conservateur",Y,N,70
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 201","Saanich",N,N,"",0,416,"May","","Elizabeth","Green Party","Parti Vert",N,Y,134
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 202","Saanich",N,N,"",0,457,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 202","Saanich",N,N,"",0,457,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 202","Saanich",N,N,"",0,457,"Lunn","","Gary","Conservative","Conservateur",Y,N,46
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 202","Saanich",N,N,"",0,457,"May","","Elizabeth","Green Party","Parti Vert",N,Y,111
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 203","Saanich",N,N,"",0,334,"Hetherington","","Renée","Liberal","Libéral",N,N,16
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 203","Saanich",N,N,"",0,334,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 203","Saanich",N,N,"",0,334,"Lunn","","Gary","Conservative","Conservateur",Y,N,33
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 203","Saanich",N,N,"",0,334,"May","","Elizabeth","Green Party","Parti Vert",N,Y,81
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 204","Saanich",N,N,"",0,192,"Hetherington","","Renée","Liberal","Libéral",N,N,3
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 204","Saanich",N,N,"",0,192,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 204","Saanich",N,N,"",0,192,"Lunn","","Gary","Conservative","Conservateur",Y,N,25
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 204","Saanich",N,N,"",0,192,"May","","Elizabeth","Green Party","Parti Vert",N,Y,45
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 205","Saanich",N,N,"",0,303,"Hetherington","","Renée","Liberal","Libéral",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 205","Saanich",N,N,"",0,303,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 205","Saanich",N,N,"",0,303,"Lunn","","Gary","Conservative","Conservateur",Y,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 205","Saanich",N,N,"",0,303,"May","","Elizabeth","Green Party","Parti Vert",N,Y,56
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 206","Lake Hill",N,N,"",0,310,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 206","Lake Hill",N,N,"",0,310,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 206","Lake Hill",N,N,"",0,310,"Lunn","","Gary","Conservative","Conservateur",Y,N,55
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 206","Lake Hill",N,N,"",0,310,"May","","Elizabeth","Green Party","Parti Vert",N,Y,85
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 207","Lake Hill",N,N,"",0,450,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 207","Lake Hill",N,N,"",0,450,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 207","Lake Hill",N,N,"",0,450,"Lunn","","Gary","Conservative","Conservateur",Y,N,56
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 207","Lake Hill",N,N,"",0,450,"May","","Elizabeth","Green Party","Parti Vert",N,Y,124
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 208","Saanich",N,N,"",0,387,"Hetherington","","Renée","Liberal","Libéral",N,N,9
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 208","Saanich",N,N,"",0,387,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 208","Saanich",N,N,"",0,387,"Lunn","","Gary","Conservative","Conservateur",Y,N,44
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 208","Saanich",N,N,"",0,387,"May","","Elizabeth","Green Party","Parti Vert",N,Y,174
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 209","Saanich",N,N,"",2,461,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 209","Saanich",N,N,"",2,461,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 209","Saanich",N,N,"",2,461,"Lunn","","Gary","Conservative","Conservateur",Y,N,64
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 209","Saanich",N,N,"",2,461,"May","","Elizabeth","Green Party","Parti Vert",N,Y,194
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 210","Saanich",N,N,"",0,338,"Hetherington","","Renée","Liberal","Libéral",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 210","Saanich",N,N,"",0,338,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 210","Saanich",N,N,"",0,338,"Lunn","","Gary","Conservative","Conservateur",Y,N,34
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 210","Saanich",N,N,"",0,338,"May","","Elizabeth","Green Party","Parti Vert",N,Y,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 211","Lake Hill",N,N,"",1,453,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 211","Lake Hill",N,N,"",1,453,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 211","Lake Hill",N,N,"",1,453,"Lunn","","Gary","Conservative","Conservateur",Y,N,86
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 211","Lake Hill",N,N,"",1,453,"May","","Elizabeth","Green Party","Parti Vert",N,Y,126
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 212","Saanich",N,N,"",0,385,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 212","Saanich",N,N,"",0,385,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 212","Saanich",N,N,"",0,385,"Lunn","","Gary","Conservative","Conservateur",Y,N,68
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 212","Saanich",N,N,"",0,385,"May","","Elizabeth","Green Party","Parti Vert",N,Y,123
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 213","Saanich",N,N,"",0,451,"Hetherington","","Renée","Liberal","Libéral",N,N,20
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 213","Saanich",N,N,"",0,451,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 213","Saanich",N,N,"",0,451,"Lunn","","Gary","Conservative","Conservateur",Y,N,106
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 213","Saanich",N,N,"",0,451,"May","","Elizabeth","Green Party","Parti Vert",N,Y,136
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 214","Saanich",N,N,"",1,449,"Hetherington","","Renée","Liberal","Libéral",N,N,14
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 214","Saanich",N,N,"",1,449,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 214","Saanich",N,N,"",1,449,"Lunn","","Gary","Conservative","Conservateur",Y,N,59
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 214","Saanich",N,N,"",1,449,"May","","Elizabeth","Green Party","Parti Vert",N,Y,64
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 215","Saanich",N,N,"",2,523,"Hetherington","","Renée","Liberal","Libéral",N,N,22
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 215","Saanich",N,N,"",2,523,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 215","Saanich",N,N,"",2,523,"Lunn","","Gary","Conservative","Conservateur",Y,N,95
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 215","Saanich",N,N,"",2,523,"May","","Elizabeth","Green Party","Parti Vert",N,Y,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 216","Saanich",N,N,"",2,471,"Hetherington","","Renée","Liberal","Libéral",N,N,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 216","Saanich",N,N,"",2,471,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 216","Saanich",N,N,"",2,471,"Lunn","","Gary","Conservative","Conservateur",Y,N,83
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 216","Saanich",N,N,"",2,471,"May","","Elizabeth","Green Party","Parti Vert",N,Y,157
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 217","Saanich",N,N,"",0,331,"Hetherington","","Renée","Liberal","Libéral",N,N,8
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 217","Saanich",N,N,"",0,331,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 217","Saanich",N,N,"",0,331,"Lunn","","Gary","Conservative","Conservateur",Y,N,52
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 217","Saanich",N,N,"",0,331,"May","","Elizabeth","Green Party","Parti Vert",N,Y,108
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 218","Saanich",N,N,"",2,363,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 218","Saanich",N,N,"",2,363,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 218","Saanich",N,N,"",2,363,"Lunn","","Gary","Conservative","Conservateur",Y,N,50
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 218","Saanich",N,N,"",2,363,"May","","Elizabeth","Green Party","Parti Vert",N,Y,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 500","Mobile poll/Bureau itinérant",N,N,"",0,75,"Hetherington","","Renée","Liberal","Libéral",N,N,5
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 500","Mobile poll/Bureau itinérant",N,N,"",0,75,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 500","Mobile poll/Bureau itinérant",N,N,"",0,75,"Lunn","","Gary","Conservative","Conservateur",Y,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 500","Mobile poll/Bureau itinérant",N,N,"",0,75,"May","","Elizabeth","Green Party","Parti Vert",N,Y,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 501","Mobile poll/Bureau itinérant",N,N,"",11,273,"Hetherington","","Renée","Liberal","Libéral",N,N,24
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 501","Mobile poll/Bureau itinérant",N,N,"",11,273,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 501","Mobile poll/Bureau itinérant",N,N,"",11,273,"Lunn","","Gary","Conservative","Conservateur",Y,N,100
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 501","Mobile poll/Bureau itinérant",N,N,"",11,273,"May","","Elizabeth","Green Party","Parti Vert",N,Y,17
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 502","Mobile poll/Bureau itinérant",N,N,"",2,131,"Hetherington","","Renée","Liberal","Libéral",N,N,19
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 502","Mobile poll/Bureau itinérant",N,N,"",2,131,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 502","Mobile poll/Bureau itinérant",N,N,"",2,131,"Lunn","","Gary","Conservative","Conservateur",Y,N,95
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 502","Mobile poll/Bureau itinérant",N,N,"",2,131,"May","","Elizabeth","Green Party","Parti Vert",N,Y,28
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 503","Mobile poll/Bureau itinérant",N,N,"",2,127,"Hetherington","","Renée","Liberal","Libéral",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 503","Mobile poll/Bureau itinérant",N,N,"",2,127,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 503","Mobile poll/Bureau itinérant",N,N,"",2,127,"Lunn","","Gary","Conservative","Conservateur",Y,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 503","Mobile poll/Bureau itinérant",N,N,"",2,127,"May","","Elizabeth","Green Party","Parti Vert",N,Y,7
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 600","Ganges",N,N,"",2,0,"Hetherington","","Renée","Liberal","Libéral",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 600","Ganges",N,N,"",2,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 600","Ganges",N,N,"",2,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,224
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 600","Ganges",N,N,"",2,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,809
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 601","North Saanich",N,N,"",4,0,"Hetherington","","Renée","Liberal","Libéral",N,N,94
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 601","North Saanich",N,N,"",4,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 601","North Saanich",N,N,"",4,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,610
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 601","North Saanich",N,N,"",4,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,560
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 602","Sidney",N,N,"",4,0,"Hetherington","","Renée","Liberal","Libéral",N,N,68
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 602","Sidney",N,N,"",4,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 602","Sidney",N,N,"",4,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,502
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 602","Sidney",N,N,"",4,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,380
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 603","Central Saanich",N,N,"",3,0,"Hetherington","","Renée","Liberal","Libéral",N,N,63
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 603","Central Saanich",N,N,"",3,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 603","Central Saanich",N,N,"",3,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,401
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 603","Central Saanich",N,N,"",3,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,260
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 604","Central Saanich",N,N,"",2,0,"Hetherington","","Renée","Liberal","Libéral",N,N,35
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 604","Central Saanich",N,N,"",2,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 604","Central Saanich",N,N,"",2,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,243
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 604","Central Saanich",N,N,"",2,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,232
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 605","Saanich--Cordova Bay",N,N,"",0,0,"Hetherington","","Renée","Liberal","Libéral",N,N,62
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 605","Saanich--Cordova Bay",N,N,"",0,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 605","Saanich--Cordova Bay",N,N,"",0,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,300
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 605","Saanich--Cordova Bay",N,N,"",0,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,194
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 606","Saanich--Lake Hill",N,N,"",2,0,"Hetherington","","Renée","Liberal","Libéral",N,N,89
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 606","Saanich--Lake Hill",N,N,"",2,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,137
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 606","Saanich--Lake Hill",N,N,"",2,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,365
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 606","Saanich--Lake Hill",N,N,"",2,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,276
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 607","Saanich--Gordon Head",N,N,"",0,0,"Hetherington","","Renée","Liberal","Libéral",N,N,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 607","Saanich--Gordon Head",N,N,"",0,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 607","Saanich--Gordon Head",N,N,"",0,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,404
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 607","Saanich--Gordon Head",N,N,"",0,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,377
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 608","Saanich--Lake Hill",N,N,"",1,0,"Hetherington","","Renée","Liberal","Libéral",N,N,92
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 608","Saanich--Lake Hill",N,N,"",1,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,156
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 608","Saanich--Lake Hill",N,N,"",1,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,261
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 608","Saanich--Lake Hill",N,N,"",1,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,457
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 609","Saanich--Lake Hill",N,N,"",2,0,"Hetherington","","Renée","Liberal","Libéral",N,N,97
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 609","Saanich--Lake Hill",N,N,"",2,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 609","Saanich--Lake Hill",N,N,"",2,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,281
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 609","Saanich--Lake Hill",N,N,"",2,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,357
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 610","North Galiano",N,N,"",0,0,"Hetherington","","Renée","Liberal","Libéral",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 610","North Galiano",N,N,"",0,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 610","North Galiano",N,N,"",0,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,98
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 610","North Galiano",N,N,"",0,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,268
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 611","North Galiano",N,N,"",0,0,"Hetherington","","Renée","Liberal","Libéral",N,N,15
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 611","North Galiano",N,N,"",0,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 611","North Galiano",N,N,"",0,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,65
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 611","North Galiano",N,N,"",0,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,215
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 612","North Galiano",N,N,"",0,0,"Hetherington","","Renée","Liberal","Libéral",N,N,13
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 612","North Galiano",N,N,"",0,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 612","North Galiano",N,N,"",0,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,57
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 612","North Galiano",N,N,"",0,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,174
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 613","Central Saanich",N,N,"",0,0,"Hetherington","","Renée","Liberal","Libéral",N,N,40
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 613","Central Saanich",N,N,"",0,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 613","Central Saanich",N,N,"",0,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,317
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 613","Central Saanich",N,N,"",0,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,221
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 614","Saanich--Cordova Bay",N,N,"",1,0,"Hetherington","","Renée","Liberal","Libéral",N,N,91
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 614","Saanich--Cordova Bay",N,N,"",1,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 614","Saanich--Cordova Bay",N,N,"",1,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,387
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," 614","Saanich--Cordova Bay",N,N,"",1,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,215
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,389,"Hetherington","","Renée","Liberal","Libéral",N,N,34
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,389,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,389,"Lunn","","Gary","Conservative","Conservateur",Y,N,115
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,389,"May","","Elizabeth","Green Party","Parti Vert",N,Y,57
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Hetherington","","Renée","Liberal","Libéral",N,N,117
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Loring-Kuhanga","","Edith","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Lunn","","Gary","Conservative","Conservateur",Y,N,584
+59024,"Saanich--Gulf Islands","Saanich--Gulf Islands"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"May","","Elizabeth","Green Party","Parti Vert",N,Y,710

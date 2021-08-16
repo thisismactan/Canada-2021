@@ -1,0 +1,793 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+46003,"Churchill","Churchill"," 1","Lac Brochet",N,N,"",4,381,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,35
+46003,"Churchill","Churchill"," 1","Lac Brochet",N,N,"",4,381,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 1","Lac Brochet",N,N,"",4,381,"Garrioch","","Sydney","Liberal","Libéral",N,N,152
+46003,"Churchill","Churchill"," 1","Lac Brochet",N,N,"",4,381,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 2","Tadoule Lake",N,N,"",1,200,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,73
+46003,"Churchill","Churchill"," 2","Tadoule Lake",N,N,"",1,200,"Daudrich","","Wally","Conservative","Conservateur",N,N,1
+46003,"Churchill","Churchill"," 2","Tadoule Lake",N,N,"",1,200,"Garrioch","","Sydney","Liberal","Libéral",N,N,28
+46003,"Churchill","Churchill"," 2","Tadoule Lake",N,N,"",1,200,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 3","Churchill",N,N,"",2,428,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,161
+46003,"Churchill","Churchill"," 3","Churchill",N,N,"",2,428,"Daudrich","","Wally","Conservative","Conservateur",N,N,41
+46003,"Churchill","Churchill"," 3","Churchill",N,N,"",2,428,"Garrioch","","Sydney","Liberal","Libéral",N,N,10
+46003,"Churchill","Churchill"," 3","Churchill",N,N,"",2,428,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 4","Churchill",N,N,"",3,258,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,115
+46003,"Churchill","Churchill"," 4","Churchill",N,N,"",3,258,"Daudrich","","Wally","Conservative","Conservateur",N,N,25
+46003,"Churchill","Churchill"," 4","Churchill",N,N,"",3,258,"Garrioch","","Sydney","Liberal","Libéral",N,N,7
+46003,"Churchill","Churchill"," 4","Churchill",N,N,"",3,258,"Spence","","Alberteen","Green Party","Parti Vert",N,N,6
+46003,"Churchill","Churchill"," 5","Brochet",N,N,"",0,262,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,56
+46003,"Churchill","Churchill"," 5","Brochet",N,N,"",0,262,"Daudrich","","Wally","Conservative","Conservateur",N,N,4
+46003,"Churchill","Churchill"," 5","Brochet",N,N,"",0,262,"Garrioch","","Sydney","Liberal","Libéral",N,N,42
+46003,"Churchill","Churchill"," 5","Brochet",N,N,"",0,262,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 6","South Indian Lake",N,N,"",0,474,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,75
+46003,"Churchill","Churchill"," 6","South Indian Lake",N,N,"",0,474,"Daudrich","","Wally","Conservative","Conservateur",N,N,53
+46003,"Churchill","Churchill"," 6","South Indian Lake",N,N,"",0,474,"Garrioch","","Sydney","Liberal","Libéral",N,N,18
+46003,"Churchill","Churchill"," 6","South Indian Lake",N,N,"",0,474,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 7","Lynn Lake",N,N,"",0,387,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,82
+46003,"Churchill","Churchill"," 7","Lynn Lake",N,N,"",0,387,"Daudrich","","Wally","Conservative","Conservateur",N,N,75
+46003,"Churchill","Churchill"," 7","Lynn Lake",N,N,"",0,387,"Garrioch","","Sydney","Liberal","Libéral",N,N,18
+46003,"Churchill","Churchill"," 7","Lynn Lake",N,N,"",0,387,"Spence","","Alberteen","Green Party","Parti Vert",N,N,9
+46003,"Churchill","Churchill"," 8","Lynn Lake",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 8","Lynn Lake",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 8","Lynn Lake",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 8","Lynn Lake",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 8-1","Granville Lake",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 8-1","Granville Lake",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 8-1","Granville Lake",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 8-1","Granville Lake",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 9","Pukatawagan",N,N,"",0,700,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,94
+46003,"Churchill","Churchill"," 9","Pukatawagan",N,N,"",0,700,"Daudrich","","Wally","Conservative","Conservateur",N,N,19
+46003,"Churchill","Churchill"," 9","Pukatawagan",N,N,"",0,700,"Garrioch","","Sydney","Liberal","Libéral",N,N,62
+46003,"Churchill","Churchill"," 9","Pukatawagan",N,N,"",0,700,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 10","Leaf Rapids",N,N,"",0,333,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,49
+46003,"Churchill","Churchill"," 10","Leaf Rapids",N,N,"",0,333,"Daudrich","","Wally","Conservative","Conservateur",N,N,35
+46003,"Churchill","Churchill"," 10","Leaf Rapids",N,N,"",0,333,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 10","Leaf Rapids",N,N,"",0,333,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 11A","Nelson House",N,N,"12A",0,105,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 11A","Nelson House",N,N,"12A",0,105,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 11A","Nelson House",N,N,"12A",0,105,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 11A","Nelson House",N,N,"12A",0,105,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 11B","Nelson House",N,N,"12C",0,86,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 11B","Nelson House",N,N,"12C",0,86,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 11B","Nelson House",N,N,"12C",0,86,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 11B","Nelson House",N,N,"12C",0,86,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 12A","Nelson House",N,N,"",1,475,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,72
+46003,"Churchill","Churchill"," 12A","Nelson House",N,N,"",1,475,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 12A","Nelson House",N,N,"",1,475,"Garrioch","","Sydney","Liberal","Libéral",N,N,44
+46003,"Churchill","Churchill"," 12A","Nelson House",N,N,"",1,475,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 12B","Nelson House",N,N,"",0,22,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,7
+46003,"Churchill","Churchill"," 12B","Nelson House",N,N,"",0,22,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 12B","Nelson House",N,N,"",0,22,"Garrioch","","Sydney","Liberal","Libéral",N,N,2
+46003,"Churchill","Churchill"," 12B","Nelson House",N,N,"",0,22,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 12C","Nelson House",N,N,"",0,560,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,106
+46003,"Churchill","Churchill"," 12C","Nelson House",N,N,"",0,560,"Daudrich","","Wally","Conservative","Conservateur",N,N,16
+46003,"Churchill","Churchill"," 12C","Nelson House",N,N,"",0,560,"Garrioch","","Sydney","Liberal","Libéral",N,N,117
+46003,"Churchill","Churchill"," 12C","Nelson House",N,N,"",0,560,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 13","Paint Lake",N,N,"",2,172,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+46003,"Churchill","Churchill"," 13","Paint Lake",N,N,"",2,172,"Daudrich","","Wally","Conservative","Conservateur",N,N,67
+46003,"Churchill","Churchill"," 13","Paint Lake",N,N,"",2,172,"Garrioch","","Sydney","Liberal","Libéral",N,N,7
+46003,"Churchill","Churchill"," 13","Paint Lake",N,N,"",2,172,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 14","Wabowden",N,N,"",0,424,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,105
+46003,"Churchill","Churchill"," 14","Wabowden",N,N,"",0,424,"Daudrich","","Wally","Conservative","Conservateur",N,N,56
+46003,"Churchill","Churchill"," 14","Wabowden",N,N,"",0,424,"Garrioch","","Sydney","Liberal","Libéral",N,N,32
+46003,"Churchill","Churchill"," 14","Wabowden",N,N,"",0,424,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 15","Thompson",N,N,"",2,330,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+46003,"Churchill","Churchill"," 15","Thompson",N,N,"",2,330,"Daudrich","","Wally","Conservative","Conservateur",N,N,74
+46003,"Churchill","Churchill"," 15","Thompson",N,N,"",2,330,"Garrioch","","Sydney","Liberal","Libéral",N,N,13
+46003,"Churchill","Churchill"," 15","Thompson",N,N,"",2,330,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 16","Thompson",N,N,"",0,312,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,72
+46003,"Churchill","Churchill"," 16","Thompson",N,N,"",0,312,"Daudrich","","Wally","Conservative","Conservateur",N,N,59
+46003,"Churchill","Churchill"," 16","Thompson",N,N,"",0,312,"Garrioch","","Sydney","Liberal","Libéral",N,N,18
+46003,"Churchill","Churchill"," 16","Thompson",N,N,"",0,312,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 16-1","Thompson",N,N,"",0,273,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,41
+46003,"Churchill","Churchill"," 16-1","Thompson",N,N,"",0,273,"Daudrich","","Wally","Conservative","Conservateur",N,N,14
+46003,"Churchill","Churchill"," 16-1","Thompson",N,N,"",0,273,"Garrioch","","Sydney","Liberal","Libéral",N,N,15
+46003,"Churchill","Churchill"," 16-1","Thompson",N,N,"",0,273,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 17","Thompson",N,N,"",1,402,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,78
+46003,"Churchill","Churchill"," 17","Thompson",N,N,"",1,402,"Daudrich","","Wally","Conservative","Conservateur",N,N,119
+46003,"Churchill","Churchill"," 17","Thompson",N,N,"",1,402,"Garrioch","","Sydney","Liberal","Libéral",N,N,20
+46003,"Churchill","Churchill"," 17","Thompson",N,N,"",1,402,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 18","Thompson",N,N,"",1,407,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,97
+46003,"Churchill","Churchill"," 18","Thompson",N,N,"",1,407,"Daudrich","","Wally","Conservative","Conservateur",N,N,90
+46003,"Churchill","Churchill"," 18","Thompson",N,N,"",1,407,"Garrioch","","Sydney","Liberal","Libéral",N,N,15
+46003,"Churchill","Churchill"," 18","Thompson",N,N,"",1,407,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 19","Thompson",N,N,"",1,298,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,50
+46003,"Churchill","Churchill"," 19","Thompson",N,N,"",1,298,"Daudrich","","Wally","Conservative","Conservateur",N,N,61
+46003,"Churchill","Churchill"," 19","Thompson",N,N,"",1,298,"Garrioch","","Sydney","Liberal","Libéral",N,N,18
+46003,"Churchill","Churchill"," 19","Thompson",N,N,"",1,298,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 20","Thompson",N,N,"",0,262,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+46003,"Churchill","Churchill"," 20","Thompson",N,N,"",0,262,"Daudrich","","Wally","Conservative","Conservateur",N,N,62
+46003,"Churchill","Churchill"," 20","Thompson",N,N,"",0,262,"Garrioch","","Sydney","Liberal","Libéral",N,N,10
+46003,"Churchill","Churchill"," 20","Thompson",N,N,"",0,262,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 21","Thompson",N,N,"",0,188,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,49
+46003,"Churchill","Churchill"," 21","Thompson",N,N,"",0,188,"Daudrich","","Wally","Conservative","Conservateur",N,N,47
+46003,"Churchill","Churchill"," 21","Thompson",N,N,"",0,188,"Garrioch","","Sydney","Liberal","Libéral",N,N,12
+46003,"Churchill","Churchill"," 21","Thompson",N,N,"",0,188,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 22","Thompson",N,N,"",0,323,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,75
+46003,"Churchill","Churchill"," 22","Thompson",N,N,"",0,323,"Daudrich","","Wally","Conservative","Conservateur",N,N,74
+46003,"Churchill","Churchill"," 22","Thompson",N,N,"",0,323,"Garrioch","","Sydney","Liberal","Libéral",N,N,24
+46003,"Churchill","Churchill"," 22","Thompson",N,N,"",0,323,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 23","Thompson",N,N,"",0,390,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,85
+46003,"Churchill","Churchill"," 23","Thompson",N,N,"",0,390,"Daudrich","","Wally","Conservative","Conservateur",N,N,40
+46003,"Churchill","Churchill"," 23","Thompson",N,N,"",0,390,"Garrioch","","Sydney","Liberal","Libéral",N,N,35
+46003,"Churchill","Churchill"," 23","Thompson",N,N,"",0,390,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 24","Thompson",N,N,"",0,276,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,53
+46003,"Churchill","Churchill"," 24","Thompson",N,N,"",0,276,"Daudrich","","Wally","Conservative","Conservateur",N,N,37
+46003,"Churchill","Churchill"," 24","Thompson",N,N,"",0,276,"Garrioch","","Sydney","Liberal","Libéral",N,N,26
+46003,"Churchill","Churchill"," 24","Thompson",N,N,"",0,276,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 25","Thompson",N,N,"",1,423,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,85
+46003,"Churchill","Churchill"," 25","Thompson",N,N,"",1,423,"Daudrich","","Wally","Conservative","Conservateur",N,N,24
+46003,"Churchill","Churchill"," 25","Thompson",N,N,"",1,423,"Garrioch","","Sydney","Liberal","Libéral",N,N,32
+46003,"Churchill","Churchill"," 25","Thompson",N,N,"",1,423,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 26","Thompson",N,N,"",1,331,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,61
+46003,"Churchill","Churchill"," 26","Thompson",N,N,"",1,331,"Daudrich","","Wally","Conservative","Conservateur",N,N,4
+46003,"Churchill","Churchill"," 26","Thompson",N,N,"",1,331,"Garrioch","","Sydney","Liberal","Libéral",N,N,27
+46003,"Churchill","Churchill"," 26","Thompson",N,N,"",1,331,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 27","Thompson",N,N,"",2,303,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,47
+46003,"Churchill","Churchill"," 27","Thompson",N,N,"",2,303,"Daudrich","","Wally","Conservative","Conservateur",N,N,30
+46003,"Churchill","Churchill"," 27","Thompson",N,N,"",2,303,"Garrioch","","Sydney","Liberal","Libéral",N,N,19
+46003,"Churchill","Churchill"," 27","Thompson",N,N,"",2,303,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 28A","Thompson",N,N,"",1,397,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,101
+46003,"Churchill","Churchill"," 28A","Thompson",N,N,"",1,397,"Daudrich","","Wally","Conservative","Conservateur",N,N,58
+46003,"Churchill","Churchill"," 28A","Thompson",N,N,"",1,397,"Garrioch","","Sydney","Liberal","Libéral",N,N,30
+46003,"Churchill","Churchill"," 28A","Thompson",N,N,"",1,397,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 28B","Thompson",N,N,"",2,47,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,9
+46003,"Churchill","Churchill"," 28B","Thompson",N,N,"",2,47,"Daudrich","","Wally","Conservative","Conservateur",N,N,2
+46003,"Churchill","Churchill"," 28B","Thompson",N,N,"",2,47,"Garrioch","","Sydney","Liberal","Libéral",N,N,2
+46003,"Churchill","Churchill"," 28B","Thompson",N,N,"",2,47,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 29","Thompson",N,N,"",0,315,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,46
+46003,"Churchill","Churchill"," 29","Thompson",N,N,"",0,315,"Daudrich","","Wally","Conservative","Conservateur",N,N,27
+46003,"Churchill","Churchill"," 29","Thompson",N,N,"",0,315,"Garrioch","","Sydney","Liberal","Libéral",N,N,17
+46003,"Churchill","Churchill"," 29","Thompson",N,N,"",0,315,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 30","Thompson",N,N,"",3,398,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,90
+46003,"Churchill","Churchill"," 30","Thompson",N,N,"",3,398,"Daudrich","","Wally","Conservative","Conservateur",N,N,71
+46003,"Churchill","Churchill"," 30","Thompson",N,N,"",3,398,"Garrioch","","Sydney","Liberal","Libéral",N,N,9
+46003,"Churchill","Churchill"," 30","Thompson",N,N,"",3,398,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 31","Thompson",N,N,"",0,369,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,90
+46003,"Churchill","Churchill"," 31","Thompson",N,N,"",0,369,"Daudrich","","Wally","Conservative","Conservateur",N,N,58
+46003,"Churchill","Churchill"," 31","Thompson",N,N,"",0,369,"Garrioch","","Sydney","Liberal","Libéral",N,N,14
+46003,"Churchill","Churchill"," 31","Thompson",N,N,"",0,369,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 32","Thompson",N,N,"",0,229,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,43
+46003,"Churchill","Churchill"," 32","Thompson",N,N,"",0,229,"Daudrich","","Wally","Conservative","Conservateur",N,N,55
+46003,"Churchill","Churchill"," 32","Thompson",N,N,"",0,229,"Garrioch","","Sydney","Liberal","Libéral",N,N,12
+46003,"Churchill","Churchill"," 32","Thompson",N,N,"",0,229,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 33","Thompson",N,N,"",0,349,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,73
+46003,"Churchill","Churchill"," 33","Thompson",N,N,"",0,349,"Daudrich","","Wally","Conservative","Conservateur",N,N,85
+46003,"Churchill","Churchill"," 33","Thompson",N,N,"",0,349,"Garrioch","","Sydney","Liberal","Libéral",N,N,20
+46003,"Churchill","Churchill"," 33","Thompson",N,N,"",0,349,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 34","Thompson",N,N,"",1,544,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,112
+46003,"Churchill","Churchill"," 34","Thompson",N,N,"",1,544,"Daudrich","","Wally","Conservative","Conservateur",N,N,117
+46003,"Churchill","Churchill"," 34","Thompson",N,N,"",1,544,"Garrioch","","Sydney","Liberal","Libéral",N,N,21
+46003,"Churchill","Churchill"," 34","Thompson",N,N,"",1,544,"Spence","","Alberteen","Green Party","Parti Vert",N,N,6
+46003,"Churchill","Churchill"," 35","Thompson",N,N,"",0,361,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,79
+46003,"Churchill","Churchill"," 35","Thompson",N,N,"",0,361,"Daudrich","","Wally","Conservative","Conservateur",N,N,56
+46003,"Churchill","Churchill"," 35","Thompson",N,N,"",0,361,"Garrioch","","Sydney","Liberal","Libéral",N,N,14
+46003,"Churchill","Churchill"," 35","Thompson",N,N,"",0,361,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 36","Thompson",N,N,"",2,395,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,74
+46003,"Churchill","Churchill"," 36","Thompson",N,N,"",2,395,"Daudrich","","Wally","Conservative","Conservateur",N,N,58
+46003,"Churchill","Churchill"," 36","Thompson",N,N,"",2,395,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 36","Thompson",N,N,"",2,395,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 37","Thompson",N,N,"",0,397,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,65
+46003,"Churchill","Churchill"," 37","Thompson",N,N,"",0,397,"Daudrich","","Wally","Conservative","Conservateur",N,N,78
+46003,"Churchill","Churchill"," 37","Thompson",N,N,"",0,397,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 37","Thompson",N,N,"",0,397,"Spence","","Alberteen","Green Party","Parti Vert",N,N,6
+46003,"Churchill","Churchill"," 38","Thompson",N,N,"",1,380,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,67
+46003,"Churchill","Churchill"," 38","Thompson",N,N,"",1,380,"Daudrich","","Wally","Conservative","Conservateur",N,N,44
+46003,"Churchill","Churchill"," 38","Thompson",N,N,"",1,380,"Garrioch","","Sydney","Liberal","Libéral",N,N,27
+46003,"Churchill","Churchill"," 38","Thompson",N,N,"",1,380,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 39","Thicket Portage",N,N,"",0,91,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,40
+46003,"Churchill","Churchill"," 39","Thicket Portage",N,N,"",0,91,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 39","Thicket Portage",N,N,"",0,91,"Garrioch","","Sydney","Liberal","Libéral",N,N,6
+46003,"Churchill","Churchill"," 39","Thicket Portage",N,N,"",0,91,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 40","Pikwitonei",N,N,"",0,64,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,25
+46003,"Churchill","Churchill"," 40","Pikwitonei",N,N,"",0,64,"Daudrich","","Wally","Conservative","Conservateur",N,N,18
+46003,"Churchill","Churchill"," 40","Pikwitonei",N,N,"",0,64,"Garrioch","","Sydney","Liberal","Libéral",N,N,2
+46003,"Churchill","Churchill"," 40","Pikwitonei",N,N,"",0,64,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 41","York Landing",N,N,"",0,231,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,91
+46003,"Churchill","Churchill"," 41","York Landing",N,N,"",0,231,"Daudrich","","Wally","Conservative","Conservateur",N,N,6
+46003,"Churchill","Churchill"," 41","York Landing",N,N,"",0,231,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 41","York Landing",N,N,"",0,231,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 42A","Split Lake",N,N,"43A",0,223,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 42A","Split Lake",N,N,"43A",0,223,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 42A","Split Lake",N,N,"43A",0,223,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 42A","Split Lake",N,N,"43A",0,223,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 42B","Split Lake",N,N,"",2,245,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,92
+46003,"Churchill","Churchill"," 42B","Split Lake",N,N,"",2,245,"Daudrich","","Wally","Conservative","Conservateur",N,N,8
+46003,"Churchill","Churchill"," 42B","Split Lake",N,N,"",2,245,"Garrioch","","Sydney","Liberal","Libéral",N,N,28
+46003,"Churchill","Churchill"," 42B","Split Lake",N,N,"",2,245,"Spence","","Alberteen","Green Party","Parti Vert",N,N,9
+46003,"Churchill","Churchill"," 43A","Split Lake",N,N,"",1,224,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,110
+46003,"Churchill","Churchill"," 43A","Split Lake",N,N,"",1,224,"Daudrich","","Wally","Conservative","Conservateur",N,N,4
+46003,"Churchill","Churchill"," 43A","Split Lake",N,N,"",1,224,"Garrioch","","Sydney","Liberal","Libéral",N,N,33
+46003,"Churchill","Churchill"," 43A","Split Lake",N,N,"",1,224,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 43B","Split Lake",N,N,"42B",0,220,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 43B","Split Lake",N,N,"42B",0,220,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 43B","Split Lake",N,N,"42B",0,220,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 43B","Split Lake",N,N,"42B",0,220,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 44","Ilford",N,N,"",0,79,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,26
+46003,"Churchill","Churchill"," 44","Ilford",N,N,"",0,79,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 44","Ilford",N,N,"",0,79,"Garrioch","","Sydney","Liberal","Libéral",N,N,3
+46003,"Churchill","Churchill"," 44","Ilford",N,N,"",0,79,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 45","Gillam",N,N,"",0,577,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,124
+46003,"Churchill","Churchill"," 45","Gillam",N,N,"",0,577,"Daudrich","","Wally","Conservative","Conservateur",N,N,56
+46003,"Churchill","Churchill"," 45","Gillam",N,N,"",0,577,"Garrioch","","Sydney","Liberal","Libéral",N,N,11
+46003,"Churchill","Churchill"," 45","Gillam",N,N,"",0,577,"Spence","","Alberteen","Green Party","Parti Vert",N,N,6
+46003,"Churchill","Churchill"," 46","Gillam",N,N,"",0,285,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,73
+46003,"Churchill","Churchill"," 46","Gillam",N,N,"",0,285,"Daudrich","","Wally","Conservative","Conservateur",N,N,59
+46003,"Churchill","Churchill"," 46","Gillam",N,N,"",0,285,"Garrioch","","Sydney","Liberal","Libéral",N,N,10
+46003,"Churchill","Churchill"," 46","Gillam",N,N,"",0,285,"Spence","","Alberteen","Green Party","Parti Vert",N,N,6
+46003,"Churchill","Churchill"," 47","Bird",N,N,"",0,26,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,33
+46003,"Churchill","Churchill"," 47","Bird",N,N,"",0,26,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 47","Bird",N,N,"",0,26,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 47","Bird",N,N,"",0,26,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 48","Shamattawa",N,N,"",1,420,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,23
+46003,"Churchill","Churchill"," 48","Shamattawa",N,N,"",1,420,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 48","Shamattawa",N,N,"",1,420,"Garrioch","","Sydney","Liberal","Libéral",N,N,87
+46003,"Churchill","Churchill"," 48","Shamattawa",N,N,"",1,420,"Spence","","Alberteen","Green Party","Parti Vert",N,N,6
+46003,"Churchill","Churchill"," 49","Gods River",N,N,"",0,274,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,68
+46003,"Churchill","Churchill"," 49","Gods River",N,N,"",0,274,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 49","Gods River",N,N,"",0,274,"Garrioch","","Sydney","Liberal","Libéral",N,N,22
+46003,"Churchill","Churchill"," 49","Gods River",N,N,"",0,274,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 50","Gods Lake Narrows",N,N,"",0,83,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,16
+46003,"Churchill","Churchill"," 50","Gods Lake Narrows",N,N,"",0,83,"Daudrich","","Wally","Conservative","Conservateur",N,N,7
+46003,"Churchill","Churchill"," 50","Gods Lake Narrows",N,N,"",0,83,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 50","Gods Lake Narrows",N,N,"",0,83,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 51","Gods Lake Narrows",N,N,"",2,477,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,88
+46003,"Churchill","Churchill"," 51","Gods Lake Narrows",N,N,"",2,477,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 51","Gods Lake Narrows",N,N,"",2,477,"Garrioch","","Sydney","Liberal","Libéral",N,N,28
+46003,"Churchill","Churchill"," 51","Gods Lake Narrows",N,N,"",2,477,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 52A","Oxford House",N,N,"53A",0,168,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 52A","Oxford House",N,N,"53A",0,168,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 52A","Oxford House",N,N,"53A",0,168,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 52A","Oxford House",N,N,"53A",0,168,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 52B","Oxford House",N,N,"53C",0,196,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 52B","Oxford House",N,N,"53C",0,196,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 52B","Oxford House",N,N,"53C",0,196,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 52B","Oxford House",N,N,"53C",0,196,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 53A","Oxford House",N,N,"",0,251,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,23
+46003,"Churchill","Churchill"," 53A","Oxford House",N,N,"",0,251,"Daudrich","","Wally","Conservative","Conservateur",N,N,6
+46003,"Churchill","Churchill"," 53A","Oxford House",N,N,"",0,251,"Garrioch","","Sydney","Liberal","Libéral",N,N,37
+46003,"Churchill","Churchill"," 53A","Oxford House",N,N,"",0,251,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 53B","Oxford House",N,N,"",0,28,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,17
+46003,"Churchill","Churchill"," 53B","Oxford House",N,N,"",0,28,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 53B","Oxford House",N,N,"",0,28,"Garrioch","","Sydney","Liberal","Libéral",N,N,5
+46003,"Churchill","Churchill"," 53B","Oxford House",N,N,"",0,28,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 53C","Oxford House",N,N,"",1,315,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,36
+46003,"Churchill","Churchill"," 53C","Oxford House",N,N,"",1,315,"Daudrich","","Wally","Conservative","Conservateur",N,N,8
+46003,"Churchill","Churchill"," 53C","Oxford House",N,N,"",1,315,"Garrioch","","Sydney","Liberal","Libéral",N,N,50
+46003,"Churchill","Churchill"," 53C","Oxford House",N,N,"",1,315,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 54A","Cross Lake",N,N,"55A",0,135,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 54A","Cross Lake",N,N,"55A",0,135,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 54A","Cross Lake",N,N,"55A",0,135,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 54A","Cross Lake",N,N,"55A",0,135,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 54B","Cross Lake",N,N,"55B",0,126,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 54B","Cross Lake",N,N,"55B",0,126,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 54B","Cross Lake",N,N,"55B",0,126,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 54B","Cross Lake",N,N,"55B",0,126,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 54C","Cross Lake",N,N,"55C",0,177,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 54C","Cross Lake",N,N,"55C",0,177,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 54C","Cross Lake",N,N,"55C",0,177,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 54C","Cross Lake",N,N,"55C",0,177,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 54D","Cross Lake",N,N,"55D",0,113,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 54D","Cross Lake",N,N,"55D",0,113,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 54D","Cross Lake",N,N,"55D",0,113,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 54D","Cross Lake",N,N,"55D",0,113,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 55A","Cross Lake",N,N,"",0,338,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,110
+46003,"Churchill","Churchill"," 55A","Cross Lake",N,N,"",0,338,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 55A","Cross Lake",N,N,"",0,338,"Garrioch","","Sydney","Liberal","Libéral",N,N,100
+46003,"Churchill","Churchill"," 55A","Cross Lake",N,N,"",0,338,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 55B","Cross Lake",N,N,"",1,389,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,94
+46003,"Churchill","Churchill"," 55B","Cross Lake",N,N,"",1,389,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 55B","Cross Lake",N,N,"",1,389,"Garrioch","","Sydney","Liberal","Libéral",N,N,75
+46003,"Churchill","Churchill"," 55B","Cross Lake",N,N,"",1,389,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 55C","Cross Lake",N,N,"",0,387,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,162
+46003,"Churchill","Churchill"," 55C","Cross Lake",N,N,"",0,387,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 55C","Cross Lake",N,N,"",0,387,"Garrioch","","Sydney","Liberal","Libéral",N,N,139
+46003,"Churchill","Churchill"," 55C","Cross Lake",N,N,"",0,387,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 55D","Cross Lake",N,N,"",0,269,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,106
+46003,"Churchill","Churchill"," 55D","Cross Lake",N,N,"",0,269,"Daudrich","","Wally","Conservative","Conservateur",N,N,4
+46003,"Churchill","Churchill"," 55D","Cross Lake",N,N,"",0,269,"Garrioch","","Sydney","Liberal","Libéral",N,N,95
+46003,"Churchill","Churchill"," 55D","Cross Lake",N,N,"",0,269,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 55E","Cross Lake",N,N,"",0,23,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,2
+46003,"Churchill","Churchill"," 55E","Cross Lake",N,N,"",0,23,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 55E","Cross Lake",N,N,"",0,23,"Garrioch","","Sydney","Liberal","Libéral",N,N,6
+46003,"Churchill","Churchill"," 55E","Cross Lake",N,N,"",0,23,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 56A","Cross Lake",N,N,"55A",0,99,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 56A","Cross Lake",N,N,"55A",0,99,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 56A","Cross Lake",N,N,"55A",0,99,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 56A","Cross Lake",N,N,"55A",0,99,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 56B","Cross Lake",N,N,"55B",0,80,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 56B","Cross Lake",N,N,"55B",0,80,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 56B","Cross Lake",N,N,"55B",0,80,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 56B","Cross Lake",N,N,"55B",0,80,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 56C","Cross Lake",N,N,"55C",0,152,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 56C","Cross Lake",N,N,"55C",0,152,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 56C","Cross Lake",N,N,"55C",0,152,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 56C","Cross Lake",N,N,"55C",0,152,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 56D","Cross Lake",N,N,"55D",0,67,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 56D","Cross Lake",N,N,"55D",0,67,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 56D","Cross Lake",N,N,"55D",0,67,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 56D","Cross Lake",N,N,"55D",0,67,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 57A","Cross Lake",N,N,"55A",0,3,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 57A","Cross Lake",N,N,"55A",0,3,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 57A","Cross Lake",N,N,"55A",0,3,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 57A","Cross Lake",N,N,"55A",0,3,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 57B","Cross Lake",N,N,"55B",0,4,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 57B","Cross Lake",N,N,"55B",0,4,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 57B","Cross Lake",N,N,"55B",0,4,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 57B","Cross Lake",N,N,"55B",0,4,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 57C","Cross Lake",N,N,"55C",0,3,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 57C","Cross Lake",N,N,"55C",0,3,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 57C","Cross Lake",N,N,"55C",0,3,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 57C","Cross Lake",N,N,"55C",0,3,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 58","Sherridon",N,N,"",0,60,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,15
+46003,"Churchill","Churchill"," 58","Sherridon",N,N,"",0,60,"Daudrich","","Wally","Conservative","Conservateur",N,N,7
+46003,"Churchill","Churchill"," 58","Sherridon",N,N,"",0,60,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 58","Sherridon",N,N,"",0,60,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 59A","Cranberry Portage",N,N,"",0,160,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,37
+46003,"Churchill","Churchill"," 59A","Cranberry Portage",N,N,"",0,160,"Daudrich","","Wally","Conservative","Conservateur",N,N,27
+46003,"Churchill","Churchill"," 59A","Cranberry Portage",N,N,"",0,160,"Garrioch","","Sydney","Liberal","Libéral",N,N,4
+46003,"Churchill","Churchill"," 59A","Cranberry Portage",N,N,"",0,160,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 59B","Cranberry Portage",N,N,"",5,156,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,105
+46003,"Churchill","Churchill"," 59B","Cranberry Portage",N,N,"",5,156,"Daudrich","","Wally","Conservative","Conservateur",N,N,64
+46003,"Churchill","Churchill"," 59B","Cranberry Portage",N,N,"",5,156,"Garrioch","","Sydney","Liberal","Libéral",N,N,13
+46003,"Churchill","Churchill"," 59B","Cranberry Portage",N,N,"",5,156,"Spence","","Alberteen","Green Party","Parti Vert",N,N,9
+46003,"Churchill","Churchill"," 60A","Cranberry Portage",N,N,"59A",0,81,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 60A","Cranberry Portage",N,N,"59A",0,81,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 60A","Cranberry Portage",N,N,"59A",0,81,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 60A","Cranberry Portage",N,N,"59A",0,81,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 60B","Cranberry Portage",N,N,"59B",0,87,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 60B","Cranberry Portage",N,N,"59B",0,87,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 60B","Cranberry Portage",N,N,"59B",0,87,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 60B","Cranberry Portage",N,N,"59B",0,87,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 61","Snow Lake",N,N,"",1,414,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,79
+46003,"Churchill","Churchill"," 61","Snow Lake",N,N,"",1,414,"Daudrich","","Wally","Conservative","Conservateur",N,N,94
+46003,"Churchill","Churchill"," 61","Snow Lake",N,N,"",1,414,"Garrioch","","Sydney","Liberal","Libéral",N,N,7
+46003,"Churchill","Churchill"," 61","Snow Lake",N,N,"",1,414,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 62","Snow Lake",N,N,"",0,258,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,60
+46003,"Churchill","Churchill"," 62","Snow Lake",N,N,"",0,258,"Daudrich","","Wally","Conservative","Conservateur",N,N,79
+46003,"Churchill","Churchill"," 62","Snow Lake",N,N,"",0,258,"Garrioch","","Sydney","Liberal","Libéral",N,N,4
+46003,"Churchill","Churchill"," 62","Snow Lake",N,N,"",0,258,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 63","Snow Lake",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 63","Snow Lake",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 63","Snow Lake",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 63","Snow Lake",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 64","Flin Flon",N,N,"",0,382,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,78
+46003,"Churchill","Churchill"," 64","Flin Flon",N,N,"",0,382,"Daudrich","","Wally","Conservative","Conservateur",N,N,104
+46003,"Churchill","Churchill"," 64","Flin Flon",N,N,"",0,382,"Garrioch","","Sydney","Liberal","Libéral",N,N,13
+46003,"Churchill","Churchill"," 64","Flin Flon",N,N,"",0,382,"Spence","","Alberteen","Green Party","Parti Vert",N,N,12
+46003,"Churchill","Churchill"," 65A","Flin Flon",N,N,"",0,336,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,62
+46003,"Churchill","Churchill"," 65A","Flin Flon",N,N,"",0,336,"Daudrich","","Wally","Conservative","Conservateur",N,N,85
+46003,"Churchill","Churchill"," 65A","Flin Flon",N,N,"",0,336,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 65A","Flin Flon",N,N,"",0,336,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 65B","Flin Flon",N,N,"",2,294,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,71
+46003,"Churchill","Churchill"," 65B","Flin Flon",N,N,"",2,294,"Daudrich","","Wally","Conservative","Conservateur",N,N,72
+46003,"Churchill","Churchill"," 65B","Flin Flon",N,N,"",2,294,"Garrioch","","Sydney","Liberal","Libéral",N,N,11
+46003,"Churchill","Churchill"," 65B","Flin Flon",N,N,"",2,294,"Spence","","Alberteen","Green Party","Parti Vert",N,N,8
+46003,"Churchill","Churchill"," 66","Flin Flon",N,N,"",0,398,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,87
+46003,"Churchill","Churchill"," 66","Flin Flon",N,N,"",0,398,"Daudrich","","Wally","Conservative","Conservateur",N,N,46
+46003,"Churchill","Churchill"," 66","Flin Flon",N,N,"",0,398,"Garrioch","","Sydney","Liberal","Libéral",N,N,13
+46003,"Churchill","Churchill"," 66","Flin Flon",N,N,"",0,398,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 67","Flin Flon",N,N,"",0,389,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,82
+46003,"Churchill","Churchill"," 67","Flin Flon",N,N,"",0,389,"Daudrich","","Wally","Conservative","Conservateur",N,N,99
+46003,"Churchill","Churchill"," 67","Flin Flon",N,N,"",0,389,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 67","Flin Flon",N,N,"",0,389,"Spence","","Alberteen","Green Party","Parti Vert",N,N,11
+46003,"Churchill","Churchill"," 68","Flin Flon",N,N,"",1,368,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,59
+46003,"Churchill","Churchill"," 68","Flin Flon",N,N,"",1,368,"Daudrich","","Wally","Conservative","Conservateur",N,N,94
+46003,"Churchill","Churchill"," 68","Flin Flon",N,N,"",1,368,"Garrioch","","Sydney","Liberal","Libéral",N,N,17
+46003,"Churchill","Churchill"," 68","Flin Flon",N,N,"",1,368,"Spence","","Alberteen","Green Party","Parti Vert",N,N,10
+46003,"Churchill","Churchill"," 69","Flin Flon",N,N,"",1,343,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,90
+46003,"Churchill","Churchill"," 69","Flin Flon",N,N,"",1,343,"Daudrich","","Wally","Conservative","Conservateur",N,N,84
+46003,"Churchill","Churchill"," 69","Flin Flon",N,N,"",1,343,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 69","Flin Flon",N,N,"",1,343,"Spence","","Alberteen","Green Party","Parti Vert",N,N,9
+46003,"Churchill","Churchill"," 70","Flin Flon",N,N,"",0,335,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,69
+46003,"Churchill","Churchill"," 70","Flin Flon",N,N,"",0,335,"Daudrich","","Wally","Conservative","Conservateur",N,N,79
+46003,"Churchill","Churchill"," 70","Flin Flon",N,N,"",0,335,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 70","Flin Flon",N,N,"",0,335,"Spence","","Alberteen","Green Party","Parti Vert",N,N,8
+46003,"Churchill","Churchill"," 71","Flin Flon",N,N,"",3,372,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,78
+46003,"Churchill","Churchill"," 71","Flin Flon",N,N,"",3,372,"Daudrich","","Wally","Conservative","Conservateur",N,N,87
+46003,"Churchill","Churchill"," 71","Flin Flon",N,N,"",3,372,"Garrioch","","Sydney","Liberal","Libéral",N,N,9
+46003,"Churchill","Churchill"," 71","Flin Flon",N,N,"",3,372,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 72","Flin Flon",N,N,"",1,280,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,69
+46003,"Churchill","Churchill"," 72","Flin Flon",N,N,"",1,280,"Daudrich","","Wally","Conservative","Conservateur",N,N,34
+46003,"Churchill","Churchill"," 72","Flin Flon",N,N,"",1,280,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 72","Flin Flon",N,N,"",1,280,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 73","Flin Flon",N,N,"",1,242,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,42
+46003,"Churchill","Churchill"," 73","Flin Flon",N,N,"",1,242,"Daudrich","","Wally","Conservative","Conservateur",N,N,37
+46003,"Churchill","Churchill"," 73","Flin Flon",N,N,"",1,242,"Garrioch","","Sydney","Liberal","Libéral",N,N,3
+46003,"Churchill","Churchill"," 73","Flin Flon",N,N,"",1,242,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 74","Flin Flon",N,N,"",0,338,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,70
+46003,"Churchill","Churchill"," 74","Flin Flon",N,N,"",0,338,"Daudrich","","Wally","Conservative","Conservateur",N,N,60
+46003,"Churchill","Churchill"," 74","Flin Flon",N,N,"",0,338,"Garrioch","","Sydney","Liberal","Libéral",N,N,7
+46003,"Churchill","Churchill"," 74","Flin Flon",N,N,"",0,338,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 75","Flin Flon",N,N,"",0,341,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,65
+46003,"Churchill","Churchill"," 75","Flin Flon",N,N,"",0,341,"Daudrich","","Wally","Conservative","Conservateur",N,N,64
+46003,"Churchill","Churchill"," 75","Flin Flon",N,N,"",0,341,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 75","Flin Flon",N,N,"",0,341,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 76","Wanless",N,N,"",1,186,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,45
+46003,"Churchill","Churchill"," 76","Wanless",N,N,"",1,186,"Daudrich","","Wally","Conservative","Conservateur",N,N,47
+46003,"Churchill","Churchill"," 76","Wanless",N,N,"",1,186,"Garrioch","","Sydney","Liberal","Libéral",N,N,5
+46003,"Churchill","Churchill"," 76","Wanless",N,N,"",1,186,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 77","Cormorant",N,N,"",0,219,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,84
+46003,"Churchill","Churchill"," 77","Cormorant",N,N,"",0,219,"Daudrich","","Wally","Conservative","Conservateur",N,N,12
+46003,"Churchill","Churchill"," 77","Cormorant",N,N,"",0,219,"Garrioch","","Sydney","Liberal","Libéral",N,N,3
+46003,"Churchill","Churchill"," 77","Cormorant",N,N,"",0,219,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 78","Clearwater Lake",N,N,"",0,283,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+46003,"Churchill","Churchill"," 78","Clearwater Lake",N,N,"",0,283,"Daudrich","","Wally","Conservative","Conservateur",N,N,80
+46003,"Churchill","Churchill"," 78","Clearwater Lake",N,N,"",0,283,"Garrioch","","Sydney","Liberal","Libéral",N,N,13
+46003,"Churchill","Churchill"," 78","Clearwater Lake",N,N,"",0,283,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 79","Umpherville",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 79","Umpherville",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 79","Umpherville",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 79","Umpherville",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 80","Pasquia Settlement",N,N,"",0,213,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,34
+46003,"Churchill","Churchill"," 80","Pasquia Settlement",N,N,"",0,213,"Daudrich","","Wally","Conservative","Conservateur",N,N,80
+46003,"Churchill","Churchill"," 80","Pasquia Settlement",N,N,"",0,213,"Garrioch","","Sydney","Liberal","Libéral",N,N,3
+46003,"Churchill","Churchill"," 80","Pasquia Settlement",N,N,"",0,213,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 81A","Opaskwayak",N,N,"",0,306,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,60
+46003,"Churchill","Churchill"," 81A","Opaskwayak",N,N,"",0,306,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 81A","Opaskwayak",N,N,"",0,306,"Garrioch","","Sydney","Liberal","Libéral",N,N,37
+46003,"Churchill","Churchill"," 81A","Opaskwayak",N,N,"",0,306,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 81B","Opaskwayak",N,N,"",0,327,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,67
+46003,"Churchill","Churchill"," 81B","Opaskwayak",N,N,"",0,327,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 81B","Opaskwayak",N,N,"",0,327,"Garrioch","","Sydney","Liberal","Libéral",N,N,35
+46003,"Churchill","Churchill"," 81B","Opaskwayak",N,N,"",0,327,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 82A","Opaskwayak",N,N,"",2,421,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,126
+46003,"Churchill","Churchill"," 82A","Opaskwayak",N,N,"",2,421,"Daudrich","","Wally","Conservative","Conservateur",N,N,6
+46003,"Churchill","Churchill"," 82A","Opaskwayak",N,N,"",2,421,"Garrioch","","Sydney","Liberal","Libéral",N,N,54
+46003,"Churchill","Churchill"," 82A","Opaskwayak",N,N,"",2,421,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 82B","Opaskwayak",N,N,"",0,419,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,134
+46003,"Churchill","Churchill"," 82B","Opaskwayak",N,N,"",0,419,"Daudrich","","Wally","Conservative","Conservateur",N,N,4
+46003,"Churchill","Churchill"," 82B","Opaskwayak",N,N,"",0,419,"Garrioch","","Sydney","Liberal","Libéral",N,N,51
+46003,"Churchill","Churchill"," 82B","Opaskwayak",N,N,"",0,419,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 82-1","Opaskwayak",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 82-1","Opaskwayak",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 82-1","Opaskwayak",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 82-1","Opaskwayak",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 82-2A","Opaskwayak",N,N,"82A",0,30,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 82-2A","Opaskwayak",N,N,"82A",0,30,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 82-2A","Opaskwayak",N,N,"82A",0,30,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 82-2A","Opaskwayak",N,N,"82A",0,30,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 82-2B","Opaskwayak",N,N,"82B",0,9,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 82-2B","Opaskwayak",N,N,"82B",0,9,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 82-2B","Opaskwayak",N,N,"82B",0,9,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 82-2B","Opaskwayak",N,N,"82B",0,9,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 83","The Pas",N,N,"",0,262,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,34
+46003,"Churchill","Churchill"," 83","The Pas",N,N,"",0,262,"Daudrich","","Wally","Conservative","Conservateur",N,N,45
+46003,"Churchill","Churchill"," 83","The Pas",N,N,"",0,262,"Garrioch","","Sydney","Liberal","Libéral",N,N,10
+46003,"Churchill","Churchill"," 83","The Pas",N,N,"",0,262,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 84","The Pas",N,N,"",0,257,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,79
+46003,"Churchill","Churchill"," 84","The Pas",N,N,"",0,257,"Daudrich","","Wally","Conservative","Conservateur",N,N,27
+46003,"Churchill","Churchill"," 84","The Pas",N,N,"",0,257,"Garrioch","","Sydney","Liberal","Libéral",N,N,12
+46003,"Churchill","Churchill"," 84","The Pas",N,N,"",0,257,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 85","The Pas",N,N,"",0,449,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,111
+46003,"Churchill","Churchill"," 85","The Pas",N,N,"",0,449,"Daudrich","","Wally","Conservative","Conservateur",N,N,73
+46003,"Churchill","Churchill"," 85","The Pas",N,N,"",0,449,"Garrioch","","Sydney","Liberal","Libéral",N,N,10
+46003,"Churchill","Churchill"," 85","The Pas",N,N,"",0,449,"Spence","","Alberteen","Green Party","Parti Vert",N,N,10
+46003,"Churchill","Churchill"," 86","The Pas",N,N,"",0,364,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,90
+46003,"Churchill","Churchill"," 86","The Pas",N,N,"",0,364,"Daudrich","","Wally","Conservative","Conservateur",N,N,70
+46003,"Churchill","Churchill"," 86","The Pas",N,N,"",0,364,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 86","The Pas",N,N,"",0,364,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 87","The Pas",N,N,"",2,417,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,84
+46003,"Churchill","Churchill"," 87","The Pas",N,N,"",2,417,"Daudrich","","Wally","Conservative","Conservateur",N,N,73
+46003,"Churchill","Churchill"," 87","The Pas",N,N,"",2,417,"Garrioch","","Sydney","Liberal","Libéral",N,N,14
+46003,"Churchill","Churchill"," 87","The Pas",N,N,"",2,417,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 88","The Pas",N,N,"",3,264,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,65
+46003,"Churchill","Churchill"," 88","The Pas",N,N,"",3,264,"Daudrich","","Wally","Conservative","Conservateur",N,N,47
+46003,"Churchill","Churchill"," 88","The Pas",N,N,"",3,264,"Garrioch","","Sydney","Liberal","Libéral",N,N,3
+46003,"Churchill","Churchill"," 88","The Pas",N,N,"",3,264,"Spence","","Alberteen","Green Party","Parti Vert",N,N,9
+46003,"Churchill","Churchill"," 89","The Pas",N,N,"",1,347,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+46003,"Churchill","Churchill"," 89","The Pas",N,N,"",1,347,"Daudrich","","Wally","Conservative","Conservateur",N,N,44
+46003,"Churchill","Churchill"," 89","The Pas",N,N,"",1,347,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 89","The Pas",N,N,"",1,347,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 90","Opaskwayak",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 90","Opaskwayak",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 90","Opaskwayak",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 90","Opaskwayak",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 91","The Pas",N,N,"",1,392,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,86
+46003,"Churchill","Churchill"," 91","The Pas",N,N,"",1,392,"Daudrich","","Wally","Conservative","Conservateur",N,N,56
+46003,"Churchill","Churchill"," 91","The Pas",N,N,"",1,392,"Garrioch","","Sydney","Liberal","Libéral",N,N,12
+46003,"Churchill","Churchill"," 91","The Pas",N,N,"",1,392,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 92","The Pas",N,N,"",2,651,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,167
+46003,"Churchill","Churchill"," 92","The Pas",N,N,"",2,651,"Daudrich","","Wally","Conservative","Conservateur",N,N,82
+46003,"Churchill","Churchill"," 92","The Pas",N,N,"",2,651,"Garrioch","","Sydney","Liberal","Libéral",N,N,19
+46003,"Churchill","Churchill"," 92","The Pas",N,N,"",2,651,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 93","The Pas",N,N,"",2,311,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,69
+46003,"Churchill","Churchill"," 93","The Pas",N,N,"",2,311,"Daudrich","","Wally","Conservative","Conservateur",N,N,37
+46003,"Churchill","Churchill"," 93","The Pas",N,N,"",2,311,"Garrioch","","Sydney","Liberal","Libéral",N,N,12
+46003,"Churchill","Churchill"," 93","The Pas",N,N,"",2,311,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 94","The Pas",N,N,"",0,468,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,86
+46003,"Churchill","Churchill"," 94","The Pas",N,N,"",0,468,"Daudrich","","Wally","Conservative","Conservateur",N,N,80
+46003,"Churchill","Churchill"," 94","The Pas",N,N,"",0,468,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 94","The Pas",N,N,"",0,468,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 95","Ralls Island",N,N,"",1,278,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,62
+46003,"Churchill","Churchill"," 95","Ralls Island",N,N,"",1,278,"Daudrich","","Wally","Conservative","Conservateur",N,N,69
+46003,"Churchill","Churchill"," 95","Ralls Island",N,N,"",1,278,"Garrioch","","Sydney","Liberal","Libéral",N,N,6
+46003,"Churchill","Churchill"," 95","Ralls Island",N,N,"",1,278,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 96","Youngs Point",N,N,"",0,398,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+46003,"Churchill","Churchill"," 96","Youngs Point",N,N,"",0,398,"Daudrich","","Wally","Conservative","Conservateur",N,N,74
+46003,"Churchill","Churchill"," 96","Youngs Point",N,N,"",0,398,"Garrioch","","Sydney","Liberal","Libéral",N,N,5
+46003,"Churchill","Churchill"," 96","Youngs Point",N,N,"",0,398,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 97","Moose Lake",N,N,"",1,563,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,134
+46003,"Churchill","Churchill"," 97","Moose Lake",N,N,"",1,563,"Daudrich","","Wally","Conservative","Conservateur",N,N,19
+46003,"Churchill","Churchill"," 97","Moose Lake",N,N,"",1,563,"Garrioch","","Sydney","Liberal","Libéral",N,N,58
+46003,"Churchill","Churchill"," 97","Moose Lake",N,N,"",1,563,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 98","Easterville",N,N,"",2,532,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,127
+46003,"Churchill","Churchill"," 98","Easterville",N,N,"",2,532,"Daudrich","","Wally","Conservative","Conservateur",N,N,8
+46003,"Churchill","Churchill"," 98","Easterville",N,N,"",2,532,"Garrioch","","Sydney","Liberal","Libéral",N,N,39
+46003,"Churchill","Churchill"," 98","Easterville",N,N,"",2,532,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 99","Grand Rapids",N,N,"",0,468,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,122
+46003,"Churchill","Churchill"," 99","Grand Rapids",N,N,"",0,468,"Daudrich","","Wally","Conservative","Conservateur",N,N,20
+46003,"Churchill","Churchill"," 99","Grand Rapids",N,N,"",0,468,"Garrioch","","Sydney","Liberal","Libéral",N,N,32
+46003,"Churchill","Churchill"," 99","Grand Rapids",N,N,"",0,468,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 100","Grand Rapids",N,N,"",0,193,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,66
+46003,"Churchill","Churchill"," 100","Grand Rapids",N,N,"",0,193,"Daudrich","","Wally","Conservative","Conservateur",N,N,4
+46003,"Churchill","Churchill"," 100","Grand Rapids",N,N,"",0,193,"Garrioch","","Sydney","Liberal","Libéral",N,N,15
+46003,"Churchill","Churchill"," 100","Grand Rapids",N,N,"",0,193,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 101A","Norway House",N,N,"103A",0,183,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 101A","Norway House",N,N,"103A",0,183,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 101A","Norway House",N,N,"103A",0,183,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 101A","Norway House",N,N,"103A",0,183,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 101B","Norway House",N,N,"103B",0,168,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 101B","Norway House",N,N,"103B",0,168,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 101B","Norway House",N,N,"103B",0,168,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 101B","Norway House",N,N,"103B",0,168,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 101C","Norway House",N,N,"103C",0,163,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 101C","Norway House",N,N,"103C",0,163,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 101C","Norway House",N,N,"103C",0,163,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 101C","Norway House",N,N,"103C",0,163,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 101D","Norway House",N,N,"103D",0,229,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 101D","Norway House",N,N,"103D",0,229,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 101D","Norway House",N,N,"103D",0,229,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 101D","Norway House",N,N,"103D",0,229,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 102A","Norway House",N,N,"103A",0,16,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 102A","Norway House",N,N,"103A",0,16,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 102A","Norway House",N,N,"103A",0,16,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 102A","Norway House",N,N,"103A",0,16,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 102B","Norway House",N,N,"103B",0,38,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 102B","Norway House",N,N,"103B",0,38,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 102B","Norway House",N,N,"103B",0,38,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 102B","Norway House",N,N,"103B",0,38,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 102C","Norway House",N,N,"103C",0,25,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 102C","Norway House",N,N,"103C",0,25,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 102C","Norway House",N,N,"103C",0,25,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 102C","Norway House",N,N,"103C",0,25,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 102D","Norway House",N,N,"103D",0,41,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 102D","Norway House",N,N,"103D",0,41,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 102D","Norway House",N,N,"103D",0,41,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 102D","Norway House",N,N,"103D",0,41,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 103A","Norway House",N,N,"",0,338,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+46003,"Churchill","Churchill"," 103A","Norway House",N,N,"",0,338,"Daudrich","","Wally","Conservative","Conservateur",N,N,7
+46003,"Churchill","Churchill"," 103A","Norway House",N,N,"",0,338,"Garrioch","","Sydney","Liberal","Libéral",N,N,56
+46003,"Churchill","Churchill"," 103A","Norway House",N,N,"",0,338,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 103B","Norway House",N,N,"",0,362,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,65
+46003,"Churchill","Churchill"," 103B","Norway House",N,N,"",0,362,"Daudrich","","Wally","Conservative","Conservateur",N,N,11
+46003,"Churchill","Churchill"," 103B","Norway House",N,N,"",0,362,"Garrioch","","Sydney","Liberal","Libéral",N,N,46
+46003,"Churchill","Churchill"," 103B","Norway House",N,N,"",0,362,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 103C","Norway House",N,N,"",0,365,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,44
+46003,"Churchill","Churchill"," 103C","Norway House",N,N,"",0,365,"Daudrich","","Wally","Conservative","Conservateur",N,N,14
+46003,"Churchill","Churchill"," 103C","Norway House",N,N,"",0,365,"Garrioch","","Sydney","Liberal","Libéral",N,N,63
+46003,"Churchill","Churchill"," 103C","Norway House",N,N,"",0,365,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 103D","Norway House",N,N,"",1,368,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,109
+46003,"Churchill","Churchill"," 103D","Norway House",N,N,"",1,368,"Daudrich","","Wally","Conservative","Conservateur",N,N,10
+46003,"Churchill","Churchill"," 103D","Norway House",N,N,"",1,368,"Garrioch","","Sydney","Liberal","Libéral",N,N,71
+46003,"Churchill","Churchill"," 103D","Norway House",N,N,"",1,368,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 104A","Norway House",N,N,"103A",0,99,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 104A","Norway House",N,N,"103A",0,99,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 104A","Norway House",N,N,"103A",0,99,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 104A","Norway House",N,N,"103A",0,99,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 104B","Norway House",N,N,"103B",0,54,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 104B","Norway House",N,N,"103B",0,54,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 104B","Norway House",N,N,"103B",0,54,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 104B","Norway House",N,N,"103B",0,54,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 104C","Norway House",N,N,"103C",0,64,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 104C","Norway House",N,N,"103C",0,64,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 104C","Norway House",N,N,"103C",0,64,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 104C","Norway House",N,N,"103C",0,64,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 104D","Norway House",N,N,"103D",0,76,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 104D","Norway House",N,N,"103D",0,76,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 104D","Norway House",N,N,"103D",0,76,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 104D","Norway House",N,N,"103D",0,76,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 105A","Norway House",N,N,"106A",0,49,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 105A","Norway House",N,N,"106A",0,49,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 105A","Norway House",N,N,"106A",0,49,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 105A","Norway House",N,N,"106A",0,49,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 105B","Norway House",N,N,"106C",0,38,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 105B","Norway House",N,N,"106C",0,38,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 105B","Norway House",N,N,"106C",0,38,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 105B","Norway House",N,N,"106C",0,38,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 106A","Norway House",N,N,"",0,46,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,34
+46003,"Churchill","Churchill"," 106A","Norway House",N,N,"",0,46,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 106A","Norway House",N,N,"",0,46,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 106A","Norway House",N,N,"",0,46,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 106B","Norway House",N,N,"",0,36,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,4
+46003,"Churchill","Churchill"," 106B","Norway House",N,N,"",0,36,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 106B","Norway House",N,N,"",0,36,"Garrioch","","Sydney","Liberal","Libéral",N,N,4
+46003,"Churchill","Churchill"," 106B","Norway House",N,N,"",0,36,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 106C","Norway House",N,N,"",0,84,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,27
+46003,"Churchill","Churchill"," 106C","Norway House",N,N,"",0,84,"Daudrich","","Wally","Conservative","Conservateur",N,N,7
+46003,"Churchill","Churchill"," 106C","Norway House",N,N,"",0,84,"Garrioch","","Sydney","Liberal","Libéral",N,N,6
+46003,"Churchill","Churchill"," 106C","Norway House",N,N,"",0,84,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 107","Waasagomach",N,N,"",0,598,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,28
+46003,"Churchill","Churchill"," 107","Waasagomach",N,N,"",0,598,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 107","Waasagomach",N,N,"",0,598,"Garrioch","","Sydney","Liberal","Libéral",N,N,112
+46003,"Churchill","Churchill"," 107","Waasagomach",N,N,"",0,598,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 108","Garden Hill",N,N,"",4,413,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,42
+46003,"Churchill","Churchill"," 108","Garden Hill",N,N,"",4,413,"Daudrich","","Wally","Conservative","Conservateur",N,N,6
+46003,"Churchill","Churchill"," 108","Garden Hill",N,N,"",4,413,"Garrioch","","Sydney","Liberal","Libéral",N,N,71
+46003,"Churchill","Churchill"," 108","Garden Hill",N,N,"",4,413,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 109","Red Sucker Lake",N,N,"",0,395,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,32
+46003,"Churchill","Churchill"," 109","Red Sucker Lake",N,N,"",0,395,"Daudrich","","Wally","Conservative","Conservateur",N,N,16
+46003,"Churchill","Churchill"," 109","Red Sucker Lake",N,N,"",0,395,"Garrioch","","Sydney","Liberal","Libéral",N,N,96
+46003,"Churchill","Churchill"," 109","Red Sucker Lake",N,N,"",0,395,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 110","Garden Hill",N,N,"",0,719,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,68
+46003,"Churchill","Churchill"," 110","Garden Hill",N,N,"",0,719,"Daudrich","","Wally","Conservative","Conservateur",N,N,10
+46003,"Churchill","Churchill"," 110","Garden Hill",N,N,"",0,719,"Garrioch","","Sydney","Liberal","Libéral",N,N,97
+46003,"Churchill","Churchill"," 110","Garden Hill",N,N,"",0,719,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 111","Island Lake",N,N,"",1,52,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,5
+46003,"Churchill","Churchill"," 111","Island Lake",N,N,"",1,52,"Daudrich","","Wally","Conservative","Conservateur",N,N,13
+46003,"Churchill","Churchill"," 111","Island Lake",N,N,"",1,52,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 111","Island Lake",N,N,"",1,52,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 111-1","Island Lake",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 111-1","Island Lake",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 111-1","Island Lake",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 111-1","Island Lake",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 112A","St. Theresa Point",N,N,"",0,509,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,35
+46003,"Churchill","Churchill"," 112A","St. Theresa Point",N,N,"",0,509,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 112A","St. Theresa Point",N,N,"",0,509,"Garrioch","","Sydney","Liberal","Libéral",N,N,87
+46003,"Churchill","Churchill"," 112A","St. Theresa Point",N,N,"",0,509,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 112B","St. Theresa Point",N,N,"",0,814,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,40
+46003,"Churchill","Churchill"," 112B","St. Theresa Point",N,N,"",0,814,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 112B","St. Theresa Point",N,N,"",0,814,"Garrioch","","Sydney","Liberal","Libéral",N,N,106
+46003,"Churchill","Churchill"," 112B","St. Theresa Point",N,N,"",0,814,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 113","Poplar River",N,N,"",1,409,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,90
+46003,"Churchill","Churchill"," 113","Poplar River",N,N,"",1,409,"Daudrich","","Wally","Conservative","Conservateur",N,N,2
+46003,"Churchill","Churchill"," 113","Poplar River",N,N,"",1,409,"Garrioch","","Sydney","Liberal","Libéral",N,N,13
+46003,"Churchill","Churchill"," 113","Poplar River",N,N,"",1,409,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 114","Poplar River",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 114","Poplar River",Y,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 114","Poplar River",Y,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 114","Poplar River",Y,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 115","Berens River",N,N,"",1,593,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,146
+46003,"Churchill","Churchill"," 115","Berens River",N,N,"",1,593,"Daudrich","","Wally","Conservative","Conservateur",N,N,16
+46003,"Churchill","Churchill"," 115","Berens River",N,N,"",1,593,"Garrioch","","Sydney","Liberal","Libéral",N,N,19
+46003,"Churchill","Churchill"," 115","Berens River",N,N,"",1,593,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 116","Pauingassi First Nation",N,N,"",0,246,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,150
+46003,"Churchill","Churchill"," 116","Pauingassi First Nation",N,N,"",0,246,"Daudrich","","Wally","Conservative","Conservateur",N,N,2
+46003,"Churchill","Churchill"," 116","Pauingassi First Nation",N,N,"",0,246,"Garrioch","","Sydney","Liberal","Libéral",N,N,4
+46003,"Churchill","Churchill"," 116","Pauingassi First Nation",N,N,"",0,246,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 117","Bloodvein",N,N,"",0,311,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,43
+46003,"Churchill","Churchill"," 117","Bloodvein",N,N,"",0,311,"Daudrich","","Wally","Conservative","Conservateur",N,N,1
+46003,"Churchill","Churchill"," 117","Bloodvein",N,N,"",0,311,"Garrioch","","Sydney","Liberal","Libéral",N,N,6
+46003,"Churchill","Churchill"," 117","Bloodvein",N,N,"",0,311,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 118","Little Grand Rapids",N,N,"",2,440,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,249
+46003,"Churchill","Churchill"," 118","Little Grand Rapids",N,N,"",2,440,"Daudrich","","Wally","Conservative","Conservateur",N,N,19
+46003,"Churchill","Churchill"," 118","Little Grand Rapids",N,N,"",2,440,"Garrioch","","Sydney","Liberal","Libéral",N,N,6
+46003,"Churchill","Churchill"," 118","Little Grand Rapids",N,N,"",2,440,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 119","Hollow Water",N,N,"",0,334,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,107
+46003,"Churchill","Churchill"," 119","Hollow Water",N,N,"",0,334,"Daudrich","","Wally","Conservative","Conservateur",N,N,13
+46003,"Churchill","Churchill"," 119","Hollow Water",N,N,"",0,334,"Garrioch","","Sydney","Liberal","Libéral",N,N,12
+46003,"Churchill","Churchill"," 119","Hollow Water",N,N,"",0,334,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 120","Manigotagan",N,N,"",0,165,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,53
+46003,"Churchill","Churchill"," 120","Manigotagan",N,N,"",0,165,"Daudrich","","Wally","Conservative","Conservateur",N,N,29
+46003,"Churchill","Churchill"," 120","Manigotagan",N,N,"",0,165,"Garrioch","","Sydney","Liberal","Libéral",N,N,2
+46003,"Churchill","Churchill"," 120","Manigotagan",N,N,"",0,165,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 121","Bissett",N,N,"",1,98,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,16
+46003,"Churchill","Churchill"," 121","Bissett",N,N,"",1,98,"Daudrich","","Wally","Conservative","Conservateur",N,N,44
+46003,"Churchill","Churchill"," 121","Bissett",N,N,"",1,98,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 121","Bissett",N,N,"",1,98,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 122","Little Black River",N,N,"",0,241,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,73
+46003,"Churchill","Churchill"," 122","Little Black River",N,N,"",0,241,"Daudrich","","Wally","Conservative","Conservateur",N,N,2
+46003,"Churchill","Churchill"," 122","Little Black River",N,N,"",0,241,"Garrioch","","Sydney","Liberal","Libéral",N,N,13
+46003,"Churchill","Churchill"," 122","Little Black River",N,N,"",0,241,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 123","Fort Alexander",N,N,"",4,245,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,65
+46003,"Churchill","Churchill"," 123","Fort Alexander",N,N,"",4,245,"Daudrich","","Wally","Conservative","Conservateur",N,N,12
+46003,"Churchill","Churchill"," 123","Fort Alexander",N,N,"",4,245,"Garrioch","","Sydney","Liberal","Libéral",N,N,15
+46003,"Churchill","Churchill"," 123","Fort Alexander",N,N,"",4,245,"Spence","","Alberteen","Green Party","Parti Vert",N,N,2
+46003,"Churchill","Churchill"," 124","Fort Alexander",N,N,"",0,701,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,119
+46003,"Churchill","Churchill"," 124","Fort Alexander",N,N,"",0,701,"Daudrich","","Wally","Conservative","Conservateur",N,N,8
+46003,"Churchill","Churchill"," 124","Fort Alexander",N,N,"",0,701,"Garrioch","","Sydney","Liberal","Libéral",N,N,58
+46003,"Churchill","Churchill"," 124","Fort Alexander",N,N,"",0,701,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 500","Mobile poll/Bureau itinérant",N,N,"",0,66,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,20
+46003,"Churchill","Churchill"," 500","Mobile poll/Bureau itinérant",N,N,"",0,66,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 500","Mobile poll/Bureau itinérant",N,N,"",0,66,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 500","Mobile poll/Bureau itinérant",N,N,"",0,66,"Spence","","Alberteen","Green Party","Parti Vert",N,N,6
+46003,"Churchill","Churchill"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,11
+46003,"Churchill","Churchill"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"Daudrich","","Wally","Conservative","Conservateur",N,N,10
+46003,"Churchill","Churchill"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 502","Mobile poll/Bureau itinérant",N,N,"",0,83,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,33
+46003,"Churchill","Churchill"," 502","Mobile poll/Bureau itinérant",N,N,"",0,83,"Daudrich","","Wally","Conservative","Conservateur",N,N,16
+46003,"Churchill","Churchill"," 502","Mobile poll/Bureau itinérant",N,N,"",0,83,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 502","Mobile poll/Bureau itinérant",N,N,"",0,83,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 600","Churchill",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,22
+46003,"Churchill","Churchill"," 600","Churchill",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,9
+46003,"Churchill","Churchill"," 600","Churchill",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,3
+46003,"Churchill","Churchill"," 600","Churchill",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 602","Lynn Lake--Leaf Rapids",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,23
+46003,"Churchill","Churchill"," 602","Lynn Lake--Leaf Rapids",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,27
+46003,"Churchill","Churchill"," 602","Lynn Lake--Leaf Rapids",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,14
+46003,"Churchill","Churchill"," 602","Lynn Lake--Leaf Rapids",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,5
+46003,"Churchill","Churchill"," 603","Nelson House",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,13
+46003,"Churchill","Churchill"," 603","Nelson House",N,N,"",1,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,2
+46003,"Churchill","Churchill"," 603","Nelson House",N,N,"",1,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,21
+46003,"Churchill","Churchill"," 603","Nelson House",N,N,"",1,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 604","Flin Flon",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,112
+46003,"Churchill","Churchill"," 604","Flin Flon",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,90
+46003,"Churchill","Churchill"," 604","Flin Flon",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,20
+46003,"Churchill","Churchill"," 604","Flin Flon",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,7
+46003,"Churchill","Churchill"," 605","Snow Lake",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,26
+46003,"Churchill","Churchill"," 605","Snow Lake",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,29
+46003,"Churchill","Churchill"," 605","Snow Lake",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,2
+46003,"Churchill","Churchill"," 605","Snow Lake",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,3
+46003,"Churchill","Churchill"," 606","Thompson",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,7
+46003,"Churchill","Churchill"," 606","Thompson",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,17
+46003,"Churchill","Churchill"," 606","Thompson",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,3
+46003,"Churchill","Churchill"," 606","Thompson",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 607","Thompson",N,N,"",2,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,144
+46003,"Churchill","Churchill"," 607","Thompson",N,N,"",2,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,152
+46003,"Churchill","Churchill"," 607","Thompson",N,N,"",2,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,64
+46003,"Churchill","Churchill"," 607","Thompson",N,N,"",2,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4
+46003,"Churchill","Churchill"," 608","Gillam",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,21
+46003,"Churchill","Churchill"," 608","Gillam",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,15
+46003,"Churchill","Churchill"," 608","Gillam",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 608","Gillam",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 609","Cross Lake",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,50
+46003,"Churchill","Churchill"," 609","Cross Lake",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,8
+46003,"Churchill","Churchill"," 609","Cross Lake",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,188
+46003,"Churchill","Churchill"," 609","Cross Lake",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 610","The Pas",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,53
+46003,"Churchill","Churchill"," 610","The Pas",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,59
+46003,"Churchill","Churchill"," 610","The Pas",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,10
+46003,"Churchill","Churchill"," 610","The Pas",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 611","The Pas",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,107
+46003,"Churchill","Churchill"," 611","The Pas",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,97
+46003,"Churchill","Churchill"," 611","The Pas",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,27
+46003,"Churchill","Churchill"," 611","The Pas",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,10
+46003,"Churchill","Churchill"," 612","Grand Rapids",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,32
+46003,"Churchill","Churchill"," 612","Grand Rapids",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,5
+46003,"Churchill","Churchill"," 612","Grand Rapids",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,8
+46003,"Churchill","Churchill"," 612","Grand Rapids",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 613","Norway House",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,7
+46003,"Churchill","Churchill"," 613","Norway House",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 613","Norway House",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,16
+46003,"Churchill","Churchill"," 613","Norway House",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,1
+46003,"Churchill","Churchill"," 614","Norway House",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+46003,"Churchill","Churchill"," 614","Norway House",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,1
+46003,"Churchill","Churchill"," 614","Norway House",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,43
+46003,"Churchill","Churchill"," 614","Norway House",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 615A","Garden Hill",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,9
+46003,"Churchill","Churchill"," 615A","Garden Hill",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 615A","Garden Hill",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,11
+46003,"Churchill","Churchill"," 615A","Garden Hill",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 615B","Garden Hill",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,10
+46003,"Churchill","Churchill"," 615B","Garden Hill",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,1
+46003,"Churchill","Churchill"," 615B","Garden Hill",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,45
+46003,"Churchill","Churchill"," 615B","Garden Hill",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 616","Bloodvein",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,41
+46003,"Churchill","Churchill"," 616","Bloodvein",N,N,"",1,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,3
+46003,"Churchill","Churchill"," 616","Bloodvein",N,N,"",1,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,1
+46003,"Churchill","Churchill"," 616","Bloodvein",N,N,"",1,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 617","Fort Alexander",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,23
+46003,"Churchill","Churchill"," 617","Fort Alexander",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,4
+46003,"Churchill","Churchill"," 617","Fort Alexander",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,31
+46003,"Churchill","Churchill"," 617","Fort Alexander",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 618","Norway House",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,11
+46003,"Churchill","Churchill"," 618","Norway House",N,N,"",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 618","Norway House",N,N,"",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,9
+46003,"Churchill","Churchill"," 618","Norway House",N,N,"",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 619A","Gods Lake Narrows",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,11
+46003,"Churchill","Churchill"," 619A","Gods Lake Narrows",N,N,"",1,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 619A","Gods Lake Narrows",N,N,"",1,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,5
+46003,"Churchill","Churchill"," 619A","Gods Lake Narrows",N,N,"",1,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," 619B","Gods Lake Narrows",N,N,"619A",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+46003,"Churchill","Churchill"," 619B","Gods Lake Narrows",N,N,"619A",0,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,0
+46003,"Churchill","Churchill"," 619B","Gods Lake Narrows",N,N,"619A",0,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,0
+46003,"Churchill","Churchill"," 619B","Gods Lake Narrows",N,N,"619A",0,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,0
+46003,"Churchill","Churchill"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,280,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,88
+46003,"Churchill","Churchill"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,280,"Daudrich","","Wally","Conservative","Conservateur",N,N,24
+46003,"Churchill","Churchill"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,280,"Garrioch","","Sydney","Liberal","Libéral",N,N,97
+46003,"Churchill","Churchill"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,280,"Spence","","Alberteen","Green Party","Parti Vert",N,N,12
+46003,"Churchill","Churchill"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,122
+46003,"Churchill","Churchill"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Daudrich","","Wally","Conservative","Conservateur",N,N,92
+46003,"Churchill","Churchill"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Garrioch","","Sydney","Liberal","Libéral",N,N,40
+46003,"Churchill","Churchill"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Spence","","Alberteen","Green Party","Parti Vert",N,N,4

@@ -1,0 +1,794 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35105,York South--Weston","York-Sud--Weston"," 1","North York",N,N,"",2,315,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 1","North York",N,N,"",2,315,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 1","North York",N,N,"",2,315,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 1","North York",N,N,"",2,315,"Tonks","","Alan","Liberal","Libéral",Y,Y,53
+35105,York South--Weston","York-Sud--Weston"," 2","North York",N,N,"",1,371,"Cocelli","","Aydin","Conservative","Conservateur",N,N,46
+35105,York South--Weston","York-Sud--Weston"," 2","North York",N,N,"",1,371,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 2","North York",N,N,"",1,371,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35105,York South--Weston","York-Sud--Weston"," 2","North York",N,N,"",1,371,"Tonks","","Alan","Liberal","Libéral",Y,Y,75
+35105,York South--Weston","York-Sud--Weston"," 3","North York",N,N,"",0,365,"Cocelli","","Aydin","Conservative","Conservateur",N,N,46
+35105,York South--Weston","York-Sud--Weston"," 3","North York",N,N,"",0,365,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 3","North York",N,N,"",0,365,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35105,York South--Weston","York-Sud--Weston"," 3","North York",N,N,"",0,365,"Tonks","","Alan","Liberal","Libéral",Y,Y,104
+35105,York South--Weston","York-Sud--Weston"," 4","North York",N,N,"",0,458,"Cocelli","","Aydin","Conservative","Conservateur",N,N,50
+35105,York South--Weston","York-Sud--Weston"," 4","North York",N,N,"",0,458,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 4","North York",N,N,"",0,458,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35105,York South--Weston","York-Sud--Weston"," 4","North York",N,N,"",0,458,"Tonks","","Alan","Liberal","Libéral",Y,Y,108
+35105,York South--Weston","York-Sud--Weston"," 5","York",N,N,"",2,501,"Cocelli","","Aydin","Conservative","Conservateur",N,N,54
+35105,York South--Weston","York-Sud--Weston"," 5","York",N,N,"",2,501,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 5","York",N,N,"",2,501,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35105,York South--Weston","York-Sud--Weston"," 5","York",N,N,"",2,501,"Tonks","","Alan","Liberal","Libéral",Y,Y,67
+35105,York South--Weston","York-Sud--Weston"," 6","North York",N,N,"",0,389,"Cocelli","","Aydin","Conservative","Conservateur",N,N,52
+35105,York South--Weston","York-Sud--Weston"," 6","North York",N,N,"",0,389,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 6","North York",N,N,"",0,389,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35105,York South--Weston","York-Sud--Weston"," 6","North York",N,N,"",0,389,"Tonks","","Alan","Liberal","Libéral",Y,Y,109
+35105,York South--Weston","York-Sud--Weston"," 7","North York",N,N,"",2,339,"Cocelli","","Aydin","Conservative","Conservateur",N,N,49
+35105,York South--Weston","York-Sud--Weston"," 7","North York",N,N,"",2,339,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 7","North York",N,N,"",2,339,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35105,York South--Weston","York-Sud--Weston"," 7","North York",N,N,"",2,339,"Tonks","","Alan","Liberal","Libéral",Y,Y,82
+35105,York South--Weston","York-Sud--Weston"," 8","North York",N,N,"",4,409,"Cocelli","","Aydin","Conservative","Conservateur",N,N,75
+35105,York South--Weston","York-Sud--Weston"," 8","North York",N,N,"",4,409,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 8","North York",N,N,"",4,409,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35105,York South--Weston","York-Sud--Weston"," 8","North York",N,N,"",4,409,"Tonks","","Alan","Liberal","Libéral",Y,Y,77
+35105,York South--Weston","York-Sud--Weston"," 9","York",N,N,"",0,228,"Cocelli","","Aydin","Conservative","Conservateur",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 9","York",N,N,"",0,228,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 9","York",N,N,"",0,228,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35105,York South--Weston","York-Sud--Weston"," 9","York",N,N,"",0,228,"Tonks","","Alan","Liberal","Libéral",Y,Y,24
+35105,York South--Weston","York-Sud--Weston"," 10","York",N,N,"",0,264,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 10","York",N,N,"",0,264,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 10","York",N,N,"",0,264,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 10","York",N,N,"",0,264,"Tonks","","Alan","Liberal","Libéral",Y,Y,34
+35105,York South--Weston","York-Sud--Weston"," 11","York",N,N,"",1,347,"Cocelli","","Aydin","Conservative","Conservateur",N,N,21
+35105,York South--Weston","York-Sud--Weston"," 11","York",N,N,"",1,347,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 11","York",N,N,"",1,347,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 11","York",N,N,"",1,347,"Tonks","","Alan","Liberal","Libéral",Y,Y,45
+35105,York South--Weston","York-Sud--Weston"," 12","York",N,N,"",0,555,"Cocelli","","Aydin","Conservative","Conservateur",N,N,55
+35105,York South--Weston","York-Sud--Weston"," 12","York",N,N,"",0,555,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 12","York",N,N,"",0,555,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+35105,York South--Weston","York-Sud--Weston"," 12","York",N,N,"",0,555,"Tonks","","Alan","Liberal","Libéral",Y,Y,107
+35105,York South--Weston","York-Sud--Weston"," 13","York",N,N,"",2,427,"Cocelli","","Aydin","Conservative","Conservateur",N,N,31
+35105,York South--Weston","York-Sud--Weston"," 13","York",N,N,"",2,427,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 13","York",N,N,"",2,427,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35105,York South--Weston","York-Sud--Weston"," 13","York",N,N,"",2,427,"Tonks","","Alan","Liberal","Libéral",Y,Y,83
+35105,York South--Weston","York-Sud--Weston"," 14","York",N,N,"",0,274,"Cocelli","","Aydin","Conservative","Conservateur",N,N,18
+35105,York South--Weston","York-Sud--Weston"," 14","York",N,N,"",0,274,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 14","York",N,N,"",0,274,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35105,York South--Weston","York-Sud--Weston"," 14","York",N,N,"",0,274,"Tonks","","Alan","Liberal","Libéral",Y,Y,52
+35105,York South--Weston","York-Sud--Weston"," 15","York",N,N,"",0,327,"Cocelli","","Aydin","Conservative","Conservateur",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 15","York",N,N,"",0,327,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 15","York",N,N,"",0,327,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35105,York South--Weston","York-Sud--Weston"," 15","York",N,N,"",0,327,"Tonks","","Alan","Liberal","Libéral",Y,Y,74
+35105,York South--Weston","York-Sud--Weston"," 16","York",N,N,"",3,366,"Cocelli","","Aydin","Conservative","Conservateur",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 16","York",N,N,"",3,366,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 16","York",N,N,"",3,366,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35105,York South--Weston","York-Sud--Weston"," 16","York",N,N,"",3,366,"Tonks","","Alan","Liberal","Libéral",Y,Y,61
+35105,York South--Weston","York-Sud--Weston"," 17","York",N,N,"",0,404,"Cocelli","","Aydin","Conservative","Conservateur",N,N,24
+35105,York South--Weston","York-Sud--Weston"," 17","York",N,N,"",0,404,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 17","York",N,N,"",0,404,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35105,York South--Weston","York-Sud--Weston"," 17","York",N,N,"",0,404,"Tonks","","Alan","Liberal","Libéral",Y,Y,94
+35105,York South--Weston","York-Sud--Weston"," 18","York",N,N,"",1,301,"Cocelli","","Aydin","Conservative","Conservateur",N,N,33
+35105,York South--Weston","York-Sud--Weston"," 18","York",N,N,"",1,301,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 18","York",N,N,"",1,301,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35105,York South--Weston","York-Sud--Weston"," 18","York",N,N,"",1,301,"Tonks","","Alan","Liberal","Libéral",Y,Y,58
+35105,York South--Weston","York-Sud--Weston"," 19","York",N,N,"",1,412,"Cocelli","","Aydin","Conservative","Conservateur",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 19","York",N,N,"",1,412,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,12
+35105,York South--Weston","York-Sud--Weston"," 19","York",N,N,"",1,412,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+35105,York South--Weston","York-Sud--Weston"," 19","York",N,N,"",1,412,"Tonks","","Alan","Liberal","Libéral",Y,Y,49
+35105,York South--Weston","York-Sud--Weston"," 20","York",N,N,"",0,323,"Cocelli","","Aydin","Conservative","Conservateur",N,N,36
+35105,York South--Weston","York-Sud--Weston"," 20","York",N,N,"",0,323,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 20","York",N,N,"",0,323,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35105,York South--Weston","York-Sud--Weston"," 20","York",N,N,"",0,323,"Tonks","","Alan","Liberal","Libéral",Y,Y,82
+35105,York South--Weston","York-Sud--Weston"," 21","York",N,N,"",0,304,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 21","York",N,N,"",0,304,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 21","York",N,N,"",0,304,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35105,York South--Weston","York-Sud--Weston"," 21","York",N,N,"",0,304,"Tonks","","Alan","Liberal","Libéral",Y,Y,62
+35105,York South--Weston","York-Sud--Weston"," 22","York",N,N,"",2,428,"Cocelli","","Aydin","Conservative","Conservateur",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 22","York",N,N,"",2,428,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 22","York",N,N,"",2,428,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 22","York",N,N,"",2,428,"Tonks","","Alan","Liberal","Libéral",Y,Y,72
+35105,York South--Weston","York-Sud--Weston"," 23","York",N,N,"",1,439,"Cocelli","","Aydin","Conservative","Conservateur",N,N,53
+35105,York South--Weston","York-Sud--Weston"," 23","York",N,N,"",1,439,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 23","York",N,N,"",1,439,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,109
+35105,York South--Weston","York-Sud--Weston"," 23","York",N,N,"",1,439,"Tonks","","Alan","Liberal","Libéral",Y,Y,83
+35105,York South--Weston","York-Sud--Weston"," 24","York",N,N,"",0,386,"Cocelli","","Aydin","Conservative","Conservateur",N,N,38
+35105,York South--Weston","York-Sud--Weston"," 24","York",N,N,"",0,386,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 24","York",N,N,"",0,386,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35105,York South--Weston","York-Sud--Weston"," 24","York",N,N,"",0,386,"Tonks","","Alan","Liberal","Libéral",Y,Y,78
+35105,York South--Weston","York-Sud--Weston"," 25","York",N,N,"",0,449,"Cocelli","","Aydin","Conservative","Conservateur",N,N,21
+35105,York South--Weston","York-Sud--Weston"," 25","York",N,N,"",0,449,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 25","York",N,N,"",0,449,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 25","York",N,N,"",0,449,"Tonks","","Alan","Liberal","Libéral",Y,Y,71
+35105,York South--Weston","York-Sud--Weston"," 26","York",N,N,"",3,507,"Cocelli","","Aydin","Conservative","Conservateur",N,N,56
+35105,York South--Weston","York-Sud--Weston"," 26","York",N,N,"",3,507,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 26","York",N,N,"",3,507,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35105,York South--Weston","York-Sud--Weston"," 26","York",N,N,"",3,507,"Tonks","","Alan","Liberal","Libéral",Y,Y,126
+35105,York South--Weston","York-Sud--Weston"," 27","York",N,N,"",0,272,"Cocelli","","Aydin","Conservative","Conservateur",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 27","York",N,N,"",0,272,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 27","York",N,N,"",0,272,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 27","York",N,N,"",0,272,"Tonks","","Alan","Liberal","Libéral",Y,Y,53
+35105,York South--Weston","York-Sud--Weston"," 28","York",N,N,"",0,404,"Cocelli","","Aydin","Conservative","Conservateur",N,N,53
+35105,York South--Weston","York-Sud--Weston"," 28","York",N,N,"",0,404,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 28","York",N,N,"",0,404,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35105,York South--Weston","York-Sud--Weston"," 28","York",N,N,"",0,404,"Tonks","","Alan","Liberal","Libéral",Y,Y,68
+35105,York South--Weston","York-Sud--Weston"," 29","North York",N,N,"",0,409,"Cocelli","","Aydin","Conservative","Conservateur",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 29","North York",N,N,"",0,409,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 29","North York",N,N,"",0,409,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 29","North York",N,N,"",0,409,"Tonks","","Alan","Liberal","Libéral",Y,Y,137
+35105,York South--Weston","York-Sud--Weston"," 30","North York",N,N,"",1,376,"Cocelli","","Aydin","Conservative","Conservateur",N,N,56
+35105,York South--Weston","York-Sud--Weston"," 30","North York",N,N,"",1,376,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 30","North York",N,N,"",1,376,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35105,York South--Weston","York-Sud--Weston"," 30","North York",N,N,"",1,376,"Tonks","","Alan","Liberal","Libéral",Y,Y,86
+35105,York South--Weston","York-Sud--Weston"," 30-1","North York",N,N,"",0,315,"Cocelli","","Aydin","Conservative","Conservateur",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 30-1","North York",N,N,"",0,315,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 30-1","North York",N,N,"",0,315,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35105,York South--Weston","York-Sud--Weston"," 30-1","North York",N,N,"",0,315,"Tonks","","Alan","Liberal","Libéral",Y,Y,72
+35105,York South--Weston","York-Sud--Weston"," 31","North York",Y,N,"",0,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 31","North York",Y,N,"",0,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 31","North York",Y,N,"",0,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 31","North York",Y,N,"",0,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,0
+35105,York South--Weston","York-Sud--Weston"," 32","North York",N,N,"",0,374,"Cocelli","","Aydin","Conservative","Conservateur",N,N,57
+35105,York South--Weston","York-Sud--Weston"," 32","North York",N,N,"",0,374,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 32","North York",N,N,"",0,374,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 32","North York",N,N,"",0,374,"Tonks","","Alan","Liberal","Libéral",Y,Y,92
+35105,York South--Weston","York-Sud--Weston"," 33","North York",N,N,"",1,358,"Cocelli","","Aydin","Conservative","Conservateur",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 33","North York",N,N,"",1,358,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,3
+35105,York South--Weston","York-Sud--Weston"," 33","North York",N,N,"",1,358,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35105,York South--Weston","York-Sud--Weston"," 33","North York",N,N,"",1,358,"Tonks","","Alan","Liberal","Libéral",Y,Y,109
+35105,York South--Weston","York-Sud--Weston"," 34","North York",N,N,"",3,328,"Cocelli","","Aydin","Conservative","Conservateur",N,N,40
+35105,York South--Weston","York-Sud--Weston"," 34","North York",N,N,"",3,328,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 34","North York",N,N,"",3,328,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35105,York South--Weston","York-Sud--Weston"," 34","North York",N,N,"",3,328,"Tonks","","Alan","Liberal","Libéral",Y,Y,133
+35105,York South--Weston","York-Sud--Weston"," 35","North York",N,N,"",0,305,"Cocelli","","Aydin","Conservative","Conservateur",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 35","North York",N,N,"",0,305,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 35","North York",N,N,"",0,305,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35105,York South--Weston","York-Sud--Weston"," 35","North York",N,N,"",0,305,"Tonks","","Alan","Liberal","Libéral",Y,Y,51
+35105,York South--Weston","York-Sud--Weston"," 36","North York",N,N,"",2,444,"Cocelli","","Aydin","Conservative","Conservateur",N,N,18
+35105,York South--Weston","York-Sud--Weston"," 36","North York",N,N,"",2,444,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 36","North York",N,N,"",2,444,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+35105,York South--Weston","York-Sud--Weston"," 36","North York",N,N,"",2,444,"Tonks","","Alan","Liberal","Libéral",Y,Y,68
+35105,York South--Weston","York-Sud--Weston"," 37","North York",N,N,"",0,434,"Cocelli","","Aydin","Conservative","Conservateur",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 37","North York",N,N,"",0,434,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 37","North York",N,N,"",0,434,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35105,York South--Weston","York-Sud--Weston"," 37","North York",N,N,"",0,434,"Tonks","","Alan","Liberal","Libéral",Y,Y,82
+35105,York South--Weston","York-Sud--Weston"," 38","North York",N,N,"",0,334,"Cocelli","","Aydin","Conservative","Conservateur",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 38","North York",N,N,"",0,334,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 38","North York",N,N,"",0,334,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 38","North York",N,N,"",0,334,"Tonks","","Alan","Liberal","Libéral",Y,Y,103
+35105,York South--Weston","York-Sud--Weston"," 39","North York",N,N,"",1,333,"Cocelli","","Aydin","Conservative","Conservateur",N,N,68
+35105,York South--Weston","York-Sud--Weston"," 39","North York",N,N,"",1,333,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 39","North York",N,N,"",1,333,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 39","North York",N,N,"",1,333,"Tonks","","Alan","Liberal","Libéral",Y,Y,99
+35105,York South--Weston","York-Sud--Weston"," 40","North York",N,N,"",1,382,"Cocelli","","Aydin","Conservative","Conservateur",N,N,21
+35105,York South--Weston","York-Sud--Weston"," 40","North York",N,N,"",1,382,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 40","North York",N,N,"",1,382,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 40","North York",N,N,"",1,382,"Tonks","","Alan","Liberal","Libéral",Y,Y,83
+35105,York South--Weston","York-Sud--Weston"," 41","North York",N,N,"",0,308,"Cocelli","","Aydin","Conservative","Conservateur",N,N,40
+35105,York South--Weston","York-Sud--Weston"," 41","North York",N,N,"",0,308,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 41","North York",N,N,"",0,308,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35105,York South--Weston","York-Sud--Weston"," 41","North York",N,N,"",0,308,"Tonks","","Alan","Liberal","Libéral",Y,Y,88
+35105,York South--Weston","York-Sud--Weston"," 42","North York",N,N,"",4,372,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 42","North York",N,N,"",4,372,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 42","North York",N,N,"",4,372,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 42","North York",N,N,"",4,372,"Tonks","","Alan","Liberal","Libéral",Y,Y,103
+35105,York South--Weston","York-Sud--Weston"," 43","North York",N,N,"",0,227,"Cocelli","","Aydin","Conservative","Conservateur",N,N,41
+35105,York South--Weston","York-Sud--Weston"," 43","North York",N,N,"",0,227,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 43","North York",N,N,"",0,227,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 43","North York",N,N,"",0,227,"Tonks","","Alan","Liberal","Libéral",Y,Y,64
+35105,York South--Weston","York-Sud--Weston"," 44A","York",N,N,"",1,362,"Cocelli","","Aydin","Conservative","Conservateur",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 44A","York",N,N,"",1,362,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 44A","York",N,N,"",1,362,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35105,York South--Weston","York-Sud--Weston"," 44A","York",N,N,"",1,362,"Tonks","","Alan","Liberal","Libéral",Y,Y,95
+35105,York South--Weston","York-Sud--Weston"," 44B","York",N,N,"",1,152,"Cocelli","","Aydin","Conservative","Conservateur",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 44B","York",N,N,"",1,152,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,1
+35105,York South--Weston","York-Sud--Weston"," 44B","York",N,N,"",1,152,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 44B","York",N,N,"",1,152,"Tonks","","Alan","Liberal","Libéral",Y,Y,32
+35105,York South--Weston","York-Sud--Weston"," 44-1","York",N,N,"",2,331,"Cocelli","","Aydin","Conservative","Conservateur",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 44-1","York",N,N,"",2,331,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,1
+35105,York South--Weston","York-Sud--Weston"," 44-1","York",N,N,"",2,331,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35105,York South--Weston","York-Sud--Weston"," 44-1","York",N,N,"",2,331,"Tonks","","Alan","Liberal","Libéral",Y,Y,65
+35105,York South--Weston","York-Sud--Weston"," 45","North York",N,N,"",0,431,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 45","North York",N,N,"",0,431,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 45","North York",N,N,"",0,431,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35105,York South--Weston","York-Sud--Weston"," 45","North York",N,N,"",0,431,"Tonks","","Alan","Liberal","Libéral",Y,Y,88
+35105,York South--Weston","York-Sud--Weston"," 46","North York",N,N,"",1,445,"Cocelli","","Aydin","Conservative","Conservateur",N,N,38
+35105,York South--Weston","York-Sud--Weston"," 46","North York",N,N,"",1,445,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 46","North York",N,N,"",1,445,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35105,York South--Weston","York-Sud--Weston"," 46","North York",N,N,"",1,445,"Tonks","","Alan","Liberal","Libéral",Y,Y,119
+35105,York South--Weston","York-Sud--Weston"," 47","North York",N,N,"",2,403,"Cocelli","","Aydin","Conservative","Conservateur",N,N,58
+35105,York South--Weston","York-Sud--Weston"," 47","North York",N,N,"",2,403,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,12
+35105,York South--Weston","York-Sud--Weston"," 47","North York",N,N,"",2,403,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35105,York South--Weston","York-Sud--Weston"," 47","North York",N,N,"",2,403,"Tonks","","Alan","Liberal","Libéral",Y,Y,105
+35105,York South--Weston","York-Sud--Weston"," 48","North York",N,N,"",0,550,"Cocelli","","Aydin","Conservative","Conservateur",N,N,46
+35105,York South--Weston","York-Sud--Weston"," 48","North York",N,N,"",0,550,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 48","North York",N,N,"",0,550,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 48","North York",N,N,"",0,550,"Tonks","","Alan","Liberal","Libéral",Y,Y,86
+35105,York South--Weston","York-Sud--Weston"," 49","North York",N,N,"",4,297,"Cocelli","","Aydin","Conservative","Conservateur",N,N,27
+35105,York South--Weston","York-Sud--Weston"," 49","North York",N,N,"",4,297,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,3
+35105,York South--Weston","York-Sud--Weston"," 49","North York",N,N,"",4,297,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 49","North York",N,N,"",4,297,"Tonks","","Alan","Liberal","Libéral",Y,Y,68
+35105,York South--Weston","York-Sud--Weston"," 50","North York",N,N,"",5,430,"Cocelli","","Aydin","Conservative","Conservateur",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 50","North York",N,N,"",5,430,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,1
+35105,York South--Weston","York-Sud--Weston"," 50","North York",N,N,"",5,430,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35105,York South--Weston","York-Sud--Weston"," 50","North York",N,N,"",5,430,"Tonks","","Alan","Liberal","Libéral",Y,Y,82
+35105,York South--Weston","York-Sud--Weston"," 51","North York",N,N,"",0,374,"Cocelli","","Aydin","Conservative","Conservateur",N,N,62
+35105,York South--Weston","York-Sud--Weston"," 51","North York",N,N,"",0,374,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 51","North York",N,N,"",0,374,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35105,York South--Weston","York-Sud--Weston"," 51","North York",N,N,"",0,374,"Tonks","","Alan","Liberal","Libéral",Y,Y,61
+35105,York South--Weston","York-Sud--Weston"," 52","North York",N,N,"",1,411,"Cocelli","","Aydin","Conservative","Conservateur",N,N,58
+35105,York South--Weston","York-Sud--Weston"," 52","North York",N,N,"",1,411,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 52","North York",N,N,"",1,411,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35105,York South--Weston","York-Sud--Weston"," 52","North York",N,N,"",1,411,"Tonks","","Alan","Liberal","Libéral",Y,Y,83
+35105,York South--Weston","York-Sud--Weston"," 53","North York",N,N,"",0,471,"Cocelli","","Aydin","Conservative","Conservateur",N,N,62
+35105,York South--Weston","York-Sud--Weston"," 53","North York",N,N,"",0,471,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 53","North York",N,N,"",0,471,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35105,York South--Weston","York-Sud--Weston"," 53","North York",N,N,"",0,471,"Tonks","","Alan","Liberal","Libéral",Y,Y,78
+35105,York South--Weston","York-Sud--Weston"," 54","North York",N,N,"",2,516,"Cocelli","","Aydin","Conservative","Conservateur",N,N,49
+35105,York South--Weston","York-Sud--Weston"," 54","North York",N,N,"",2,516,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,3
+35105,York South--Weston","York-Sud--Weston"," 54","North York",N,N,"",2,516,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35105,York South--Weston","York-Sud--Weston"," 54","North York",N,N,"",2,516,"Tonks","","Alan","Liberal","Libéral",Y,Y,95
+35105,York South--Weston","York-Sud--Weston"," 55","North York",N,N,"",3,343,"Cocelli","","Aydin","Conservative","Conservateur",N,N,55
+35105,York South--Weston","York-Sud--Weston"," 55","North York",N,N,"",3,343,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 55","North York",N,N,"",3,343,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 55","North York",N,N,"",3,343,"Tonks","","Alan","Liberal","Libéral",Y,Y,106
+35105,York South--Weston","York-Sud--Weston"," 56","North York",N,N,"",2,437,"Cocelli","","Aydin","Conservative","Conservateur",N,N,71
+35105,York South--Weston","York-Sud--Weston"," 56","North York",N,N,"",2,437,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 56","North York",N,N,"",2,437,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 56","North York",N,N,"",2,437,"Tonks","","Alan","Liberal","Libéral",Y,Y,112
+35105,York South--Weston","York-Sud--Weston"," 57","North York",N,N,"",0,283,"Cocelli","","Aydin","Conservative","Conservateur",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 57","North York",N,N,"",0,283,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 57","North York",N,N,"",0,283,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 57","North York",N,N,"",0,283,"Tonks","","Alan","Liberal","Libéral",Y,Y,100
+35105,York South--Weston","York-Sud--Weston"," 58","North York",N,N,"",0,353,"Cocelli","","Aydin","Conservative","Conservateur",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 58","North York",N,N,"",0,353,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 58","North York",N,N,"",0,353,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 58","North York",N,N,"",0,353,"Tonks","","Alan","Liberal","Libéral",Y,Y,87
+35105,York South--Weston","York-Sud--Weston"," 59","North York",N,N,"",0,353,"Cocelli","","Aydin","Conservative","Conservateur",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 59","North York",N,N,"",0,353,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 59","North York",N,N,"",0,353,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 59","North York",N,N,"",0,353,"Tonks","","Alan","Liberal","Libéral",Y,Y,75
+35105,York South--Weston","York-Sud--Weston"," 60","North York",N,N,"",2,325,"Cocelli","","Aydin","Conservative","Conservateur",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 60","North York",N,N,"",2,325,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 60","North York",N,N,"",2,325,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 60","North York",N,N,"",2,325,"Tonks","","Alan","Liberal","Libéral",Y,Y,112
+35105,York South--Weston","York-Sud--Weston"," 61","North York",N,N,"",1,341,"Cocelli","","Aydin","Conservative","Conservateur",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 61","North York",N,N,"",1,341,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 61","North York",N,N,"",1,341,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 61","North York",N,N,"",1,341,"Tonks","","Alan","Liberal","Libéral",Y,Y,116
+35105,York South--Weston","York-Sud--Weston"," 62","North York",N,N,"",3,436,"Cocelli","","Aydin","Conservative","Conservateur",N,N,64
+35105,York South--Weston","York-Sud--Weston"," 62","North York",N,N,"",3,436,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 62","North York",N,N,"",3,436,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35105,York South--Weston","York-Sud--Weston"," 62","North York",N,N,"",3,436,"Tonks","","Alan","Liberal","Libéral",Y,Y,101
+35105,York South--Weston","York-Sud--Weston"," 63","North York",N,N,"",3,355,"Cocelli","","Aydin","Conservative","Conservateur",N,N,54
+35105,York South--Weston","York-Sud--Weston"," 63","North York",N,N,"",3,355,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,12
+35105,York South--Weston","York-Sud--Weston"," 63","North York",N,N,"",3,355,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35105,York South--Weston","York-Sud--Weston"," 63","North York",N,N,"",3,355,"Tonks","","Alan","Liberal","Libéral",Y,Y,145
+35105,York South--Weston","York-Sud--Weston"," 64","North York",N,N,"",2,418,"Cocelli","","Aydin","Conservative","Conservateur",N,N,33
+35105,York South--Weston","York-Sud--Weston"," 64","North York",N,N,"",2,418,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 64","North York",N,N,"",2,418,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 64","North York",N,N,"",2,418,"Tonks","","Alan","Liberal","Libéral",Y,Y,91
+35105,York South--Weston","York-Sud--Weston"," 65","North York",N,N,"",3,360,"Cocelli","","Aydin","Conservative","Conservateur",N,N,49
+35105,York South--Weston","York-Sud--Weston"," 65","North York",N,N,"",3,360,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 65","North York",N,N,"",3,360,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 65","North York",N,N,"",3,360,"Tonks","","Alan","Liberal","Libéral",Y,Y,120
+35105,York South--Weston","York-Sud--Weston"," 66","North York",N,N,"",0,373,"Cocelli","","Aydin","Conservative","Conservateur",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 66","North York",N,N,"",0,373,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 66","North York",N,N,"",0,373,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35105,York South--Weston","York-Sud--Weston"," 66","North York",N,N,"",0,373,"Tonks","","Alan","Liberal","Libéral",Y,Y,75
+35105,York South--Weston","York-Sud--Weston"," 67","North York",N,N,"",1,358,"Cocelli","","Aydin","Conservative","Conservateur",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 67","North York",N,N,"",1,358,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 67","North York",N,N,"",1,358,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35105,York South--Weston","York-Sud--Weston"," 67","North York",N,N,"",1,358,"Tonks","","Alan","Liberal","Libéral",Y,Y,147
+35105,York South--Weston","York-Sud--Weston"," 68","North York",N,N,"",2,330,"Cocelli","","Aydin","Conservative","Conservateur",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 68","North York",N,N,"",2,330,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 68","North York",N,N,"",2,330,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35105,York South--Weston","York-Sud--Weston"," 68","North York",N,N,"",2,330,"Tonks","","Alan","Liberal","Libéral",Y,Y,89
+35105,York South--Weston","York-Sud--Weston"," 69","North York",N,N,"",4,401,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 69","North York",N,N,"",4,401,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,12
+35105,York South--Weston","York-Sud--Weston"," 69","North York",N,N,"",4,401,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 69","North York",N,N,"",4,401,"Tonks","","Alan","Liberal","Libéral",Y,Y,68
+35105,York South--Weston","York-Sud--Weston"," 70","North York",N,N,"",1,453,"Cocelli","","Aydin","Conservative","Conservateur",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 70","North York",N,N,"",1,453,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 70","North York",N,N,"",1,453,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 70","North York",N,N,"",1,453,"Tonks","","Alan","Liberal","Libéral",Y,Y,102
+35105,York South--Weston","York-Sud--Weston"," 71","North York",N,N,"",2,331,"Cocelli","","Aydin","Conservative","Conservateur",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 71","North York",N,N,"",2,331,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 71","North York",N,N,"",2,331,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 71","North York",N,N,"",2,331,"Tonks","","Alan","Liberal","Libéral",Y,Y,75
+35105,York South--Weston","York-Sud--Weston"," 72","North York",N,N,"",3,386,"Cocelli","","Aydin","Conservative","Conservateur",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 72","North York",N,N,"",3,386,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 72","North York",N,N,"",3,386,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35105,York South--Weston","York-Sud--Weston"," 72","North York",N,N,"",3,386,"Tonks","","Alan","Liberal","Libéral",Y,Y,132
+35105,York South--Weston","York-Sud--Weston"," 73","North York",N,N,"",0,276,"Cocelli","","Aydin","Conservative","Conservateur",N,N,18
+35105,York South--Weston","York-Sud--Weston"," 73","North York",N,N,"",0,276,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 73","North York",N,N,"",0,276,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 73","North York",N,N,"",0,276,"Tonks","","Alan","Liberal","Libéral",Y,Y,122
+35105,York South--Weston","York-Sud--Weston"," 74","North York",N,N,"",1,451,"Cocelli","","Aydin","Conservative","Conservateur",N,N,49
+35105,York South--Weston","York-Sud--Weston"," 74","North York",N,N,"",1,451,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 74","North York",N,N,"",1,451,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35105,York South--Weston","York-Sud--Weston"," 74","North York",N,N,"",1,451,"Tonks","","Alan","Liberal","Libéral",Y,Y,86
+35105,York South--Weston","York-Sud--Weston"," 75","North York",N,N,"",0,212,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 75","North York",N,N,"",0,212,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 75","North York",N,N,"",0,212,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 75","North York",N,N,"",0,212,"Tonks","","Alan","Liberal","Libéral",Y,Y,73
+35105,York South--Weston","York-Sud--Weston"," 75-1","North York",N,N,"",1,289,"Cocelli","","Aydin","Conservative","Conservateur",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 75-1","North York",N,N,"",1,289,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,1
+35105,York South--Weston","York-Sud--Weston"," 75-1","North York",N,N,"",1,289,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 75-1","North York",N,N,"",1,289,"Tonks","","Alan","Liberal","Libéral",Y,Y,61
+35105,York South--Weston","York-Sud--Weston"," 76","North York",N,N,"",3,328,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 76","North York",N,N,"",3,328,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 76","North York",N,N,"",3,328,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 76","North York",N,N,"",3,328,"Tonks","","Alan","Liberal","Libéral",Y,Y,76
+35105,York South--Weston","York-Sud--Weston"," 77","North York",N,N,"",4,335,"Cocelli","","Aydin","Conservative","Conservateur",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 77","North York",N,N,"",4,335,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 77","North York",N,N,"",4,335,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 77","North York",N,N,"",4,335,"Tonks","","Alan","Liberal","Libéral",Y,Y,99
+35105,York South--Weston","York-Sud--Weston"," 78","North York",N,N,"",1,374,"Cocelli","","Aydin","Conservative","Conservateur",N,N,54
+35105,York South--Weston","York-Sud--Weston"," 78","North York",N,N,"",1,374,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 78","North York",N,N,"",1,374,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 78","North York",N,N,"",1,374,"Tonks","","Alan","Liberal","Libéral",Y,Y,131
+35105,York South--Weston","York-Sud--Weston"," 79","North York",N,N,"",1,322,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 79","North York",N,N,"",1,322,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 79","North York",N,N,"",1,322,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35105,York South--Weston","York-Sud--Weston"," 79","North York",N,N,"",1,322,"Tonks","","Alan","Liberal","Libéral",Y,Y,98
+35105,York South--Weston","York-Sud--Weston"," 80","North York",N,N,"",2,522,"Cocelli","","Aydin","Conservative","Conservateur",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 80","North York",N,N,"",2,522,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 80","North York",N,N,"",2,522,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35105,York South--Weston","York-Sud--Weston"," 80","North York",N,N,"",2,522,"Tonks","","Alan","Liberal","Libéral",Y,Y,66
+35105,York South--Weston","York-Sud--Weston"," 81","North York",N,N,"",0,382,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 81","North York",N,N,"",0,382,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 81","North York",N,N,"",0,382,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 81","North York",N,N,"",0,382,"Tonks","","Alan","Liberal","Libéral",Y,Y,76
+35105,York South--Weston","York-Sud--Weston"," 82","York",N,N,"",2,476,"Cocelli","","Aydin","Conservative","Conservateur",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 82","York",N,N,"",2,476,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 82","York",N,N,"",2,476,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35105,York South--Weston","York-Sud--Weston"," 82","York",N,N,"",2,476,"Tonks","","Alan","Liberal","Libéral",Y,Y,70
+35105,York South--Weston","York-Sud--Weston"," 83","York",N,N,"",0,323,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 83","York",N,N,"",0,323,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 83","York",N,N,"",0,323,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 83","York",N,N,"",0,323,"Tonks","","Alan","Liberal","Libéral",Y,Y,80
+35105,York South--Weston","York-Sud--Weston"," 83-1","York",N,N,"",0,341,"Cocelli","","Aydin","Conservative","Conservateur",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 83-1","York",N,N,"",0,341,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 83-1","York",N,N,"",0,341,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 83-1","York",N,N,"",0,341,"Tonks","","Alan","Liberal","Libéral",Y,Y,79
+35105,York South--Weston","York-Sud--Weston"," 84","York",N,N,"",3,379,"Cocelli","","Aydin","Conservative","Conservateur",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 84","York",N,N,"",3,379,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 84","York",N,N,"",3,379,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35105,York South--Weston","York-Sud--Weston"," 84","York",N,N,"",3,379,"Tonks","","Alan","Liberal","Libéral",Y,Y,95
+35105,York South--Weston","York-Sud--Weston"," 85","York",N,N,"",2,500,"Cocelli","","Aydin","Conservative","Conservateur",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 85","York",N,N,"",2,500,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 85","York",N,N,"",2,500,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35105,York South--Weston","York-Sud--Weston"," 85","York",N,N,"",2,500,"Tonks","","Alan","Liberal","Libéral",Y,Y,88
+35105,York South--Weston","York-Sud--Weston"," 86","York",N,N,"",3,377,"Cocelli","","Aydin","Conservative","Conservateur",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 86","York",N,N,"",3,377,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 86","York",N,N,"",3,377,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35105,York South--Weston","York-Sud--Weston"," 86","York",N,N,"",3,377,"Tonks","","Alan","Liberal","Libéral",Y,Y,29
+35105,York South--Weston","York-Sud--Weston"," 87","York",N,N,"",1,555,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 87","York",N,N,"",1,555,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 87","York",N,N,"",1,555,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35105,York South--Weston","York-Sud--Weston"," 87","York",N,N,"",1,555,"Tonks","","Alan","Liberal","Libéral",Y,Y,70
+35105,York South--Weston","York-Sud--Weston"," 88","York",N,N,"",0,343,"Cocelli","","Aydin","Conservative","Conservateur",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 88","York",N,N,"",0,343,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 88","York",N,N,"",0,343,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 88","York",N,N,"",0,343,"Tonks","","Alan","Liberal","Libéral",Y,Y,42
+35105,York South--Weston","York-Sud--Weston"," 89","York",N,N,"",0,425,"Cocelli","","Aydin","Conservative","Conservateur",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 89","York",N,N,"",0,425,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 89","York",N,N,"",0,425,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 89","York",N,N,"",0,425,"Tonks","","Alan","Liberal","Libéral",Y,Y,90
+35105,York South--Weston","York-Sud--Weston"," 90","York",N,N,"",2,519,"Cocelli","","Aydin","Conservative","Conservateur",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 90","York",N,N,"",2,519,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 90","York",N,N,"",2,519,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35105,York South--Weston","York-Sud--Weston"," 90","York",N,N,"",2,519,"Tonks","","Alan","Liberal","Libéral",Y,Y,82
+35105,York South--Weston","York-Sud--Weston"," 91","York",N,N,"",1,393,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 91","York",N,N,"",1,393,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 91","York",N,N,"",1,393,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 91","York",N,N,"",1,393,"Tonks","","Alan","Liberal","Libéral",Y,Y,80
+35105,York South--Weston","York-Sud--Weston"," 92","York",N,N,"",4,374,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 92","York",N,N,"",4,374,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,18
+35105,York South--Weston","York-Sud--Weston"," 92","York",N,N,"",4,374,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35105,York South--Weston","York-Sud--Weston"," 92","York",N,N,"",4,374,"Tonks","","Alan","Liberal","Libéral",Y,Y,97
+35105,York South--Weston","York-Sud--Weston"," 93","York",N,N,"",1,356,"Cocelli","","Aydin","Conservative","Conservateur",N,N,20
+35105,York South--Weston","York-Sud--Weston"," 93","York",N,N,"",1,356,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 93","York",N,N,"",1,356,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35105,York South--Weston","York-Sud--Weston"," 93","York",N,N,"",1,356,"Tonks","","Alan","Liberal","Libéral",Y,Y,66
+35105,York South--Weston","York-Sud--Weston"," 94","York",N,N,"",2,432,"Cocelli","","Aydin","Conservative","Conservateur",N,N,38
+35105,York South--Weston","York-Sud--Weston"," 94","York",N,N,"",2,432,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 94","York",N,N,"",2,432,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35105,York South--Weston","York-Sud--Weston"," 94","York",N,N,"",2,432,"Tonks","","Alan","Liberal","Libéral",Y,Y,108
+35105,York South--Weston","York-Sud--Weston"," 95","York",N,N,"",2,424,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 95","York",N,N,"",2,424,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 95","York",N,N,"",2,424,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35105,York South--Weston","York-Sud--Weston"," 95","York",N,N,"",2,424,"Tonks","","Alan","Liberal","Libéral",Y,Y,60
+35105,York South--Weston","York-Sud--Weston"," 96","York",N,N,"",2,355,"Cocelli","","Aydin","Conservative","Conservateur",N,N,21
+35105,York South--Weston","York-Sud--Weston"," 96","York",N,N,"",2,355,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 96","York",N,N,"",2,355,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35105,York South--Weston","York-Sud--Weston"," 96","York",N,N,"",2,355,"Tonks","","Alan","Liberal","Libéral",Y,Y,47
+35105,York South--Weston","York-Sud--Weston"," 97","York",N,N,"",2,289,"Cocelli","","Aydin","Conservative","Conservateur",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 97","York",N,N,"",2,289,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 97","York",N,N,"",2,289,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 97","York",N,N,"",2,289,"Tonks","","Alan","Liberal","Libéral",Y,Y,71
+35105,York South--Weston","York-Sud--Weston"," 98","York",N,N,"",1,388,"Cocelli","","Aydin","Conservative","Conservateur",N,N,49
+35105,York South--Weston","York-Sud--Weston"," 98","York",N,N,"",1,388,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 98","York",N,N,"",1,388,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35105,York South--Weston","York-Sud--Weston"," 98","York",N,N,"",1,388,"Tonks","","Alan","Liberal","Libéral",Y,Y,79
+35105,York South--Weston","York-Sud--Weston"," 99","York",N,N,"",2,278,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 99","York",N,N,"",2,278,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 99","York",N,N,"",2,278,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 99","York",N,N,"",2,278,"Tonks","","Alan","Liberal","Libéral",Y,Y,37
+35105,York South--Weston","York-Sud--Weston"," 100","York",N,N,"",4,257,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 100","York",N,N,"",4,257,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 100","York",N,N,"",4,257,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 100","York",N,N,"",4,257,"Tonks","","Alan","Liberal","Libéral",Y,Y,102
+35105,York South--Weston","York-Sud--Weston"," 101","York",N,N,"",3,450,"Cocelli","","Aydin","Conservative","Conservateur",N,N,41
+35105,York South--Weston","York-Sud--Weston"," 101","York",N,N,"",3,450,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 101","York",N,N,"",3,450,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35105,York South--Weston","York-Sud--Weston"," 101","York",N,N,"",3,450,"Tonks","","Alan","Liberal","Libéral",Y,Y,113
+35105,York South--Weston","York-Sud--Weston"," 102","York",N,N,"",1,413,"Cocelli","","Aydin","Conservative","Conservateur",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 102","York",N,N,"",1,413,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 102","York",N,N,"",1,413,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35105,York South--Weston","York-Sud--Weston"," 102","York",N,N,"",1,413,"Tonks","","Alan","Liberal","Libéral",Y,Y,80
+35105,York South--Weston","York-Sud--Weston"," 103","York",N,N,"",3,383,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 103","York",N,N,"",3,383,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 103","York",N,N,"",3,383,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35105,York South--Weston","York-Sud--Weston"," 103","York",N,N,"",3,383,"Tonks","","Alan","Liberal","Libéral",Y,Y,81
+35105,York South--Weston","York-Sud--Weston"," 104","York",N,N,"",2,387,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 104","York",N,N,"",2,387,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 104","York",N,N,"",2,387,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35105,York South--Weston","York-Sud--Weston"," 104","York",N,N,"",2,387,"Tonks","","Alan","Liberal","Libéral",Y,Y,59
+35105,York South--Weston","York-Sud--Weston"," 105","York",N,N,"",0,495,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 105","York",N,N,"",0,495,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 105","York",N,N,"",0,495,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35105,York South--Weston","York-Sud--Weston"," 105","York",N,N,"",0,495,"Tonks","","Alan","Liberal","Libéral",Y,Y,103
+35105,York South--Weston","York-Sud--Weston"," 106","York",N,N,"",3,409,"Cocelli","","Aydin","Conservative","Conservateur",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 106","York",N,N,"",3,409,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,1
+35105,York South--Weston","York-Sud--Weston"," 106","York",N,N,"",3,409,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35105,York South--Weston","York-Sud--Weston"," 106","York",N,N,"",3,409,"Tonks","","Alan","Liberal","Libéral",Y,Y,31
+35105,York South--Weston","York-Sud--Weston"," 107","York",N,N,"",2,423,"Cocelli","","Aydin","Conservative","Conservateur",N,N,40
+35105,York South--Weston","York-Sud--Weston"," 107","York",N,N,"",2,423,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 107","York",N,N,"",2,423,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35105,York South--Weston","York-Sud--Weston"," 107","York",N,N,"",2,423,"Tonks","","Alan","Liberal","Libéral",Y,Y,108
+35105,York South--Weston","York-Sud--Weston"," 108","York",N,N,"",4,308,"Cocelli","","Aydin","Conservative","Conservateur",N,N,27
+35105,York South--Weston","York-Sud--Weston"," 108","York",N,N,"",4,308,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 108","York",N,N,"",4,308,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35105,York South--Weston","York-Sud--Weston"," 108","York",N,N,"",4,308,"Tonks","","Alan","Liberal","Libéral",Y,Y,95
+35105,York South--Weston","York-Sud--Weston"," 109","York",N,N,"",0,339,"Cocelli","","Aydin","Conservative","Conservateur",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 109","York",N,N,"",0,339,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 109","York",N,N,"",0,339,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 109","York",N,N,"",0,339,"Tonks","","Alan","Liberal","Libéral",Y,Y,82
+35105,York South--Weston","York-Sud--Weston"," 110","York",N,N,"",0,325,"Cocelli","","Aydin","Conservative","Conservateur",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 110","York",N,N,"",0,325,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 110","York",N,N,"",0,325,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35105,York South--Weston","York-Sud--Weston"," 110","York",N,N,"",0,325,"Tonks","","Alan","Liberal","Libéral",Y,Y,78
+35105,York South--Weston","York-Sud--Weston"," 111","York",N,N,"",0,317,"Cocelli","","Aydin","Conservative","Conservateur",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 111","York",N,N,"",0,317,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 111","York",N,N,"",0,317,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35105,York South--Weston","York-Sud--Weston"," 111","York",N,N,"",0,317,"Tonks","","Alan","Liberal","Libéral",Y,Y,83
+35105,York South--Weston","York-Sud--Weston"," 112","York",N,N,"",1,282,"Cocelli","","Aydin","Conservative","Conservateur",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 112","York",N,N,"",1,282,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 112","York",N,N,"",1,282,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 112","York",N,N,"",1,282,"Tonks","","Alan","Liberal","Libéral",Y,Y,62
+35105,York South--Weston","York-Sud--Weston"," 112-1","York",N,N,"",1,303,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 112-1","York",N,N,"",1,303,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 112-1","York",N,N,"",1,303,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35105,York South--Weston","York-Sud--Weston"," 112-1","York",N,N,"",1,303,"Tonks","","Alan","Liberal","Libéral",Y,Y,72
+35105,York South--Weston","York-Sud--Weston"," 113","York",N,N,"",0,485,"Cocelli","","Aydin","Conservative","Conservateur",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 113","York",N,N,"",0,485,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 113","York",N,N,"",0,485,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35105,York South--Weston","York-Sud--Weston"," 113","York",N,N,"",0,485,"Tonks","","Alan","Liberal","Libéral",Y,Y,116
+35105,York South--Weston","York-Sud--Weston"," 114","York",N,N,"",2,516,"Cocelli","","Aydin","Conservative","Conservateur",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 114","York",N,N,"",2,516,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 114","York",N,N,"",2,516,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35105,York South--Weston","York-Sud--Weston"," 114","York",N,N,"",2,516,"Tonks","","Alan","Liberal","Libéral",Y,Y,99
+35105,York South--Weston","York-Sud--Weston"," 115","York",N,N,"",0,591,"Cocelli","","Aydin","Conservative","Conservateur",N,N,54
+35105,York South--Weston","York-Sud--Weston"," 115","York",N,N,"",0,591,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,20
+35105,York South--Weston","York-Sud--Weston"," 115","York",N,N,"",0,591,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35105,York South--Weston","York-Sud--Weston"," 115","York",N,N,"",0,591,"Tonks","","Alan","Liberal","Libéral",Y,Y,143
+35105,York South--Weston","York-Sud--Weston"," 116","York",N,N,"",1,504,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 116","York",N,N,"",1,504,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,12
+35105,York South--Weston","York-Sud--Weston"," 116","York",N,N,"",1,504,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35105,York South--Weston","York-Sud--Weston"," 116","York",N,N,"",1,504,"Tonks","","Alan","Liberal","Libéral",Y,Y,83
+35105,York South--Weston","York-Sud--Weston"," 117","York",N,N,"",0,404,"Cocelli","","Aydin","Conservative","Conservateur",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 117","York",N,N,"",0,404,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 117","York",N,N,"",0,404,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35105,York South--Weston","York-Sud--Weston"," 117","York",N,N,"",0,404,"Tonks","","Alan","Liberal","Libéral",Y,Y,65
+35105,York South--Weston","York-Sud--Weston"," 118","York",N,N,"",1,418,"Cocelli","","Aydin","Conservative","Conservateur",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 118","York",N,N,"",1,418,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,12
+35105,York South--Weston","York-Sud--Weston"," 118","York",N,N,"",1,418,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35105,York South--Weston","York-Sud--Weston"," 118","York",N,N,"",1,418,"Tonks","","Alan","Liberal","Libéral",Y,Y,117
+35105,York South--Weston","York-Sud--Weston"," 119","York",N,N,"",0,484,"Cocelli","","Aydin","Conservative","Conservateur",N,N,31
+35105,York South--Weston","York-Sud--Weston"," 119","York",N,N,"",0,484,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 119","York",N,N,"",0,484,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35105,York South--Weston","York-Sud--Weston"," 119","York",N,N,"",0,484,"Tonks","","Alan","Liberal","Libéral",Y,Y,116
+35105,York South--Weston","York-Sud--Weston"," 120","York",N,N,"",1,540,"Cocelli","","Aydin","Conservative","Conservateur",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 120","York",N,N,"",1,540,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 120","York",N,N,"",1,540,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35105,York South--Weston","York-Sud--Weston"," 120","York",N,N,"",1,540,"Tonks","","Alan","Liberal","Libéral",Y,Y,115
+35105,York South--Weston","York-Sud--Weston"," 121","York",N,N,"",3,565,"Cocelli","","Aydin","Conservative","Conservateur",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 121","York",N,N,"",3,565,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 121","York",N,N,"",3,565,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35105,York South--Weston","York-Sud--Weston"," 121","York",N,N,"",3,565,"Tonks","","Alan","Liberal","Libéral",Y,Y,94
+35105,York South--Weston","York-Sud--Weston"," 122","York",N,N,"",2,366,"Cocelli","","Aydin","Conservative","Conservateur",N,N,40
+35105,York South--Weston","York-Sud--Weston"," 122","York",N,N,"",2,366,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 122","York",N,N,"",2,366,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35105,York South--Weston","York-Sud--Weston"," 122","York",N,N,"",2,366,"Tonks","","Alan","Liberal","Libéral",Y,Y,84
+35105,York South--Weston","York-Sud--Weston"," 123","York",N,N,"",1,463,"Cocelli","","Aydin","Conservative","Conservateur",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 123","York",N,N,"",1,463,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 123","York",N,N,"",1,463,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 123","York",N,N,"",1,463,"Tonks","","Alan","Liberal","Libéral",Y,Y,134
+35105,York South--Weston","York-Sud--Weston"," 124","York",N,N,"",0,531,"Cocelli","","Aydin","Conservative","Conservateur",N,N,33
+35105,York South--Weston","York-Sud--Weston"," 124","York",N,N,"",0,531,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 124","York",N,N,"",0,531,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35105,York South--Weston","York-Sud--Weston"," 124","York",N,N,"",0,531,"Tonks","","Alan","Liberal","Libéral",Y,Y,116
+35105,York South--Weston","York-Sud--Weston"," 125","York",N,N,"",0,471,"Cocelli","","Aydin","Conservative","Conservateur",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 125","York",N,N,"",0,471,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 125","York",N,N,"",0,471,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35105,York South--Weston","York-Sud--Weston"," 125","York",N,N,"",0,471,"Tonks","","Alan","Liberal","Libéral",Y,Y,99
+35105,York South--Weston","York-Sud--Weston"," 126","York",N,N,"",0,346,"Cocelli","","Aydin","Conservative","Conservateur",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 126","York",N,N,"",0,346,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 126","York",N,N,"",0,346,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 126","York",N,N,"",0,346,"Tonks","","Alan","Liberal","Libéral",Y,Y,48
+35105,York South--Weston","York-Sud--Weston"," 127","York",N,N,"",1,383,"Cocelli","","Aydin","Conservative","Conservateur",N,N,61
+35105,York South--Weston","York-Sud--Weston"," 127","York",N,N,"",1,383,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 127","York",N,N,"",1,383,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35105,York South--Weston","York-Sud--Weston"," 127","York",N,N,"",1,383,"Tonks","","Alan","Liberal","Libéral",Y,Y,73
+35105,York South--Weston","York-Sud--Weston"," 128","York",N,N,"",1,384,"Cocelli","","Aydin","Conservative","Conservateur",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 128","York",N,N,"",1,384,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 128","York",N,N,"",1,384,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 128","York",N,N,"",1,384,"Tonks","","Alan","Liberal","Libéral",Y,Y,82
+35105,York South--Weston","York-Sud--Weston"," 129","York",N,N,"",2,296,"Cocelli","","Aydin","Conservative","Conservateur",N,N,27
+35105,York South--Weston","York-Sud--Weston"," 129","York",N,N,"",2,296,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 129","York",N,N,"",2,296,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 129","York",N,N,"",2,296,"Tonks","","Alan","Liberal","Libéral",Y,Y,54
+35105,York South--Weston","York-Sud--Weston"," 130","York",N,N,"",0,388,"Cocelli","","Aydin","Conservative","Conservateur",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 130","York",N,N,"",0,388,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 130","York",N,N,"",0,388,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35105,York South--Weston","York-Sud--Weston"," 130","York",N,N,"",0,388,"Tonks","","Alan","Liberal","Libéral",Y,Y,74
+35105,York South--Weston","York-Sud--Weston"," 131","York",N,N,"",1,440,"Cocelli","","Aydin","Conservative","Conservateur",N,N,33
+35105,York South--Weston","York-Sud--Weston"," 131","York",N,N,"",1,440,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 131","York",N,N,"",1,440,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 131","York",N,N,"",1,440,"Tonks","","Alan","Liberal","Libéral",Y,Y,68
+35105,York South--Weston","York-Sud--Weston"," 132","York",N,N,"",1,399,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 132","York",N,N,"",1,399,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 132","York",N,N,"",1,399,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35105,York South--Weston","York-Sud--Weston"," 132","York",N,N,"",1,399,"Tonks","","Alan","Liberal","Libéral",Y,Y,101
+35105,York South--Weston","York-Sud--Weston"," 133","York",N,N,"",0,189,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 133","York",N,N,"",0,189,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,1
+35105,York South--Weston","York-Sud--Weston"," 133","York",N,N,"",0,189,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 133","York",N,N,"",0,189,"Tonks","","Alan","Liberal","Libéral",Y,Y,30
+35105,York South--Weston","York-Sud--Weston"," 134A","York",N,N,"",0,460,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 134A","York",N,N,"",0,460,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 134A","York",N,N,"",0,460,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 134A","York",N,N,"",0,460,"Tonks","","Alan","Liberal","Libéral",Y,Y,96
+35105,York South--Weston","York-Sud--Weston"," 134B","York",N,N,"",0,360,"Cocelli","","Aydin","Conservative","Conservateur",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 134B","York",N,N,"",0,360,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,3
+35105,York South--Weston","York-Sud--Weston"," 134B","York",N,N,"",0,360,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35105,York South--Weston","York-Sud--Weston"," 134B","York",N,N,"",0,360,"Tonks","","Alan","Liberal","Libéral",Y,Y,74
+35105,York South--Weston","York-Sud--Weston"," 135","York",N,N,"",0,319,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 135","York",N,N,"",0,319,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 135","York",N,N,"",0,319,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35105,York South--Weston","York-Sud--Weston"," 135","York",N,N,"",0,319,"Tonks","","Alan","Liberal","Libéral",Y,Y,66
+35105,York South--Weston","York-Sud--Weston"," 136","York",N,N,"",0,271,"Cocelli","","Aydin","Conservative","Conservateur",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 136","York",N,N,"",0,271,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 136","York",N,N,"",0,271,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 136","York",N,N,"",0,271,"Tonks","","Alan","Liberal","Libéral",Y,Y,54
+35105,York South--Weston","York-Sud--Weston"," 137","York",N,N,"",2,300,"Cocelli","","Aydin","Conservative","Conservateur",N,N,46
+35105,York South--Weston","York-Sud--Weston"," 137","York",N,N,"",2,300,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 137","York",N,N,"",2,300,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 137","York",N,N,"",2,300,"Tonks","","Alan","Liberal","Libéral",Y,Y,53
+35105,York South--Weston","York-Sud--Weston"," 138","York",N,N,"",5,484,"Cocelli","","Aydin","Conservative","Conservateur",N,N,43
+35105,York South--Weston","York-Sud--Weston"," 138","York",N,N,"",5,484,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 138","York",N,N,"",5,484,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35105,York South--Weston","York-Sud--Weston"," 138","York",N,N,"",5,484,"Tonks","","Alan","Liberal","Libéral",Y,Y,85
+35105,York South--Weston","York-Sud--Weston"," 139","York",N,N,"",0,443,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 139","York",N,N,"",0,443,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,12
+35105,York South--Weston","York-Sud--Weston"," 139","York",N,N,"",0,443,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35105,York South--Weston","York-Sud--Weston"," 139","York",N,N,"",0,443,"Tonks","","Alan","Liberal","Libéral",Y,Y,97
+35105,York South--Weston","York-Sud--Weston"," 140A","York",N,N,"",0,398,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 140A","York",N,N,"",0,398,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,3
+35105,York South--Weston","York-Sud--Weston"," 140A","York",N,N,"",0,398,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35105,York South--Weston","York-Sud--Weston"," 140A","York",N,N,"",0,398,"Tonks","","Alan","Liberal","Libéral",Y,Y,80
+35105,York South--Weston","York-Sud--Weston"," 140B","York",N,N,"",1,317,"Cocelli","","Aydin","Conservative","Conservateur",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 140B","York",N,N,"",1,317,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 140B","York",N,N,"",1,317,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 140B","York",N,N,"",1,317,"Tonks","","Alan","Liberal","Libéral",Y,Y,58
+35105,York South--Weston","York-Sud--Weston"," 141","York",N,N,"",0,429,"Cocelli","","Aydin","Conservative","Conservateur",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 141","York",N,N,"",0,429,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,20
+35105,York South--Weston","York-Sud--Weston"," 141","York",N,N,"",0,429,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35105,York South--Weston","York-Sud--Weston"," 141","York",N,N,"",0,429,"Tonks","","Alan","Liberal","Libéral",Y,Y,65
+35105,York South--Weston","York-Sud--Weston"," 142","York",N,N,"",3,364,"Cocelli","","Aydin","Conservative","Conservateur",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 142","York",N,N,"",3,364,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 142","York",N,N,"",3,364,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35105,York South--Weston","York-Sud--Weston"," 142","York",N,N,"",3,364,"Tonks","","Alan","Liberal","Libéral",Y,Y,60
+35105,York South--Weston","York-Sud--Weston"," 143","Toronto",N,N,"",4,396,"Cocelli","","Aydin","Conservative","Conservateur",N,N,27
+35105,York South--Weston","York-Sud--Weston"," 143","Toronto",N,N,"",4,396,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 143","Toronto",N,N,"",4,396,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35105,York South--Weston","York-Sud--Weston"," 143","Toronto",N,N,"",4,396,"Tonks","","Alan","Liberal","Libéral",Y,Y,87
+35105,York South--Weston","York-Sud--Weston"," 144","York",N,N,"",1,190,"Cocelli","","Aydin","Conservative","Conservateur",N,N,14
+35105,York South--Weston","York-Sud--Weston"," 144","York",N,N,"",1,190,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 144","York",N,N,"",1,190,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 144","York",N,N,"",1,190,"Tonks","","Alan","Liberal","Libéral",Y,Y,39
+35105,York South--Weston","York-Sud--Weston"," 145","York",N,N,"",0,300,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 145","York",N,N,"",0,300,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 145","York",N,N,"",0,300,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 145","York",N,N,"",0,300,"Tonks","","Alan","Liberal","Libéral",Y,Y,59
+35105,York South--Weston","York-Sud--Weston"," 146","York",N,N,"",0,572,"Cocelli","","Aydin","Conservative","Conservateur",N,N,53
+35105,York South--Weston","York-Sud--Weston"," 146","York",N,N,"",0,572,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 146","York",N,N,"",0,572,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35105,York South--Weston","York-Sud--Weston"," 146","York",N,N,"",0,572,"Tonks","","Alan","Liberal","Libéral",Y,Y,108
+35105,York South--Weston","York-Sud--Weston"," 147","Toronto",N,N,"",3,470,"Cocelli","","Aydin","Conservative","Conservateur",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 147","Toronto",N,N,"",3,470,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 147","Toronto",N,N,"",3,470,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 147","Toronto",N,N,"",3,470,"Tonks","","Alan","Liberal","Libéral",Y,Y,78
+35105,York South--Weston","York-Sud--Weston"," 148","Toronto",N,N,"",3,439,"Cocelli","","Aydin","Conservative","Conservateur",N,N,36
+35105,York South--Weston","York-Sud--Weston"," 148","Toronto",N,N,"",3,439,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 148","Toronto",N,N,"",3,439,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35105,York South--Weston","York-Sud--Weston"," 148","Toronto",N,N,"",3,439,"Tonks","","Alan","Liberal","Libéral",Y,Y,66
+35105,York South--Weston","York-Sud--Weston"," 148-1","Toronto",N,N,"",2,391,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 148-1","Toronto",N,N,"",2,391,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 148-1","Toronto",N,N,"",2,391,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35105,York South--Weston","York-Sud--Weston"," 148-1","Toronto",N,N,"",2,391,"Tonks","","Alan","Liberal","Libéral",Y,Y,71
+35105,York South--Weston","York-Sud--Weston"," 148-2","Toronto",N,N,"",0,370,"Cocelli","","Aydin","Conservative","Conservateur",N,N,57
+35105,York South--Weston","York-Sud--Weston"," 148-2","Toronto",N,N,"",0,370,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 148-2","Toronto",N,N,"",0,370,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 148-2","Toronto",N,N,"",0,370,"Tonks","","Alan","Liberal","Libéral",Y,Y,77
+35105,York South--Weston","York-Sud--Weston"," 149","Toronto",N,N,"",0,442,"Cocelli","","Aydin","Conservative","Conservateur",N,N,40
+35105,York South--Weston","York-Sud--Weston"," 149","Toronto",N,N,"",0,442,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 149","Toronto",N,N,"",0,442,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35105,York South--Weston","York-Sud--Weston"," 149","Toronto",N,N,"",0,442,"Tonks","","Alan","Liberal","Libéral",Y,Y,93
+35105,York South--Weston","York-Sud--Weston"," 400","York",N,N,"",1,213,"Cocelli","","Aydin","Conservative","Conservateur",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 400","York",N,N,"",1,213,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 400","York",N,N,"",1,213,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 400","York",N,N,"",1,213,"Tonks","","Alan","Liberal","Libéral",Y,Y,38
+35105,York South--Weston","York-Sud--Weston"," 401","York",N,N,"",0,186,"Cocelli","","Aydin","Conservative","Conservateur",N,N,23
+35105,York South--Weston","York-Sud--Weston"," 401","York",N,N,"",0,186,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 401","York",N,N,"",0,186,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35105,York South--Weston","York-Sud--Weston"," 401","York",N,N,"",0,186,"Tonks","","Alan","Liberal","Libéral",Y,Y,29
+35105,York South--Weston","York-Sud--Weston"," 402","York",N,N,"",1,352,"Cocelli","","Aydin","Conservative","Conservateur",N,N,31
+35105,York South--Weston","York-Sud--Weston"," 402","York",N,N,"",1,352,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 402","York",N,N,"",1,352,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 402","York",N,N,"",1,352,"Tonks","","Alan","Liberal","Libéral",Y,Y,75
+35105,York South--Weston","York-Sud--Weston"," 403","York",N,N,"",3,354,"Cocelli","","Aydin","Conservative","Conservateur",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 403","York",N,N,"",3,354,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 403","York",N,N,"",3,354,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 403","York",N,N,"",3,354,"Tonks","","Alan","Liberal","Libéral",Y,Y,116
+35105,York South--Weston","York-Sud--Weston"," 404","York",N,N,"",3,388,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 404","York",N,N,"",3,388,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,3
+35105,York South--Weston","York-Sud--Weston"," 404","York",N,N,"",3,388,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35105,York South--Weston","York-Sud--Weston"," 404","York",N,N,"",3,388,"Tonks","","Alan","Liberal","Libéral",Y,Y,99
+35105,York South--Weston","York-Sud--Weston"," 405","North York",N,N,"",1,165,"Cocelli","","Aydin","Conservative","Conservateur",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 405","North York",N,N,"",1,165,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 405","North York",N,N,"",1,165,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 405","North York",N,N,"",1,165,"Tonks","","Alan","Liberal","Libéral",Y,Y,57
+35105,York South--Weston","York-Sud--Weston"," 406","York",Y,N,"",0,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 406","York",Y,N,"",0,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 406","York",Y,N,"",0,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 406","York",Y,N,"",0,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,0
+35105,York South--Weston","York-Sud--Weston"," 407","North York",N,N,"",4,295,"Cocelli","","Aydin","Conservative","Conservateur",N,N,29
+35105,York South--Weston","York-Sud--Weston"," 407","North York",N,N,"",4,295,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,3
+35105,York South--Weston","York-Sud--Weston"," 407","North York",N,N,"",4,295,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35105,York South--Weston","York-Sud--Weston"," 407","North York",N,N,"",4,295,"Tonks","","Alan","Liberal","Libéral",Y,Y,62
+35105,York South--Weston","York-Sud--Weston"," 408","North York",N,N,"",0,389,"Cocelli","","Aydin","Conservative","Conservateur",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 408","North York",N,N,"",0,389,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 408","North York",N,N,"",0,389,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 408","North York",N,N,"",0,389,"Tonks","","Alan","Liberal","Libéral",Y,Y,87
+35105,York South--Weston","York-Sud--Weston"," 409","North York",N,N,"",1,401,"Cocelli","","Aydin","Conservative","Conservateur",N,N,16
+35105,York South--Weston","York-Sud--Weston"," 409","North York",N,N,"",1,401,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 409","North York",N,N,"",1,401,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 409","North York",N,N,"",1,401,"Tonks","","Alan","Liberal","Libéral",Y,Y,76
+35105,York South--Weston","York-Sud--Weston"," 410","York",N,N,"",0,250,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 410","York",N,N,"",0,250,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 410","York",N,N,"",0,250,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 410","York",N,N,"",0,250,"Tonks","","Alan","Liberal","Libéral",Y,Y,59
+35105,York South--Weston","York-Sud--Weston"," 411","York",N,N,"",0,122,"Cocelli","","Aydin","Conservative","Conservateur",N,N,22
+35105,York South--Weston","York-Sud--Weston"," 411","York",N,N,"",0,122,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," 411","York",N,N,"",0,122,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 411","York",N,N,"",0,122,"Tonks","","Alan","Liberal","Libéral",Y,Y,34
+35105,York South--Weston","York-Sud--Weston"," 412","York",N,N,"",1,442,"Cocelli","","Aydin","Conservative","Conservateur",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 412","York",N,N,"",1,442,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 412","York",N,N,"",1,442,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35105,York South--Weston","York-Sud--Weston"," 412","York",N,N,"",1,442,"Tonks","","Alan","Liberal","Libéral",Y,Y,95
+35105,York South--Weston","York-Sud--Weston"," 413","York",N,N,"",0,283,"Cocelli","","Aydin","Conservative","Conservateur",N,N,25
+35105,York South--Weston","York-Sud--Weston"," 413","York",N,N,"",0,283,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 413","York",N,N,"",0,283,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 413","York",N,N,"",0,283,"Tonks","","Alan","Liberal","Libéral",Y,Y,54
+35105,York South--Weston","York-Sud--Weston"," 414","York",N,N,"",2,394,"Cocelli","","Aydin","Conservative","Conservateur",N,N,38
+35105,York South--Weston","York-Sud--Weston"," 414","York",N,N,"",2,394,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 414","York",N,N,"",2,394,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35105,York South--Weston","York-Sud--Weston"," 414","York",N,N,"",2,394,"Tonks","","Alan","Liberal","Libéral",Y,Y,76
+35105,York South--Weston","York-Sud--Weston"," 415","York",N,N,"",1,601,"Cocelli","","Aydin","Conservative","Conservateur",N,N,26
+35105,York South--Weston","York-Sud--Weston"," 415","York",N,N,"",1,601,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 415","York",N,N,"",1,601,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 415","York",N,N,"",1,601,"Tonks","","Alan","Liberal","Libéral",Y,Y,70
+35105,York South--Weston","York-Sud--Weston"," 416","York",N,N,"",1,390,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 416","York",N,N,"",1,390,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 416","York",N,N,"",1,390,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35105,York South--Weston","York-Sud--Weston"," 416","York",N,N,"",1,390,"Tonks","","Alan","Liberal","Libéral",Y,Y,55
+35105,York South--Weston","York-Sud--Weston"," 417","York",N,N,"",2,356,"Cocelli","","Aydin","Conservative","Conservateur",N,N,67
+35105,York South--Weston","York-Sud--Weston"," 417","York",N,N,"",2,356,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,19
+35105,York South--Weston","York-Sud--Weston"," 417","York",N,N,"",2,356,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35105,York South--Weston","York-Sud--Weston"," 417","York",N,N,"",2,356,"Tonks","","Alan","Liberal","Libéral",Y,Y,96
+35105,York South--Weston","York-Sud--Weston"," 418","York",N,N,"",2,331,"Cocelli","","Aydin","Conservative","Conservateur",N,N,85
+35105,York South--Weston","York-Sud--Weston"," 418","York",N,N,"",2,331,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 418","York",N,N,"",2,331,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35105,York South--Weston","York-Sud--Weston"," 418","York",N,N,"",2,331,"Tonks","","Alan","Liberal","Libéral",Y,Y,105
+35105,York South--Weston","York-Sud--Weston"," 419","York",N,N,"",0,342,"Cocelli","","Aydin","Conservative","Conservateur",N,N,95
+35105,York South--Weston","York-Sud--Weston"," 419","York",N,N,"",0,342,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 419","York",N,N,"",0,342,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35105,York South--Weston","York-Sud--Weston"," 419","York",N,N,"",0,342,"Tonks","","Alan","Liberal","Libéral",Y,Y,96
+35105,York South--Weston","York-Sud--Weston"," 420","York",N,N,"",3,341,"Cocelli","","Aydin","Conservative","Conservateur",N,N,73
+35105,York South--Weston","York-Sud--Weston"," 420","York",N,N,"",3,341,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,20
+35105,York South--Weston","York-Sud--Weston"," 420","York",N,N,"",3,341,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35105,York South--Weston","York-Sud--Weston"," 420","York",N,N,"",3,341,"Tonks","","Alan","Liberal","Libéral",Y,Y,124
+35105,York South--Weston","York-Sud--Weston"," 421","York",N,N,"",0,144,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 421","York",N,N,"",0,144,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 421","York",N,N,"",0,144,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35105,York South--Weston","York-Sud--Weston"," 421","York",N,N,"",0,144,"Tonks","","Alan","Liberal","Libéral",Y,Y,32
+35105,York South--Weston","York-Sud--Weston"," 422","York",N,N,"",0,334,"Cocelli","","Aydin","Conservative","Conservateur",N,N,17
+35105,York South--Weston","York-Sud--Weston"," 422","York",N,N,"",0,334,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 422","York",N,N,"",0,334,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 422","York",N,N,"",0,334,"Tonks","","Alan","Liberal","Libéral",Y,Y,72
+35105,York South--Weston","York-Sud--Weston"," 423","North York",N,N,"",1,262,"Cocelli","","Aydin","Conservative","Conservateur",N,N,8
+35105,York South--Weston","York-Sud--Weston"," 423","North York",N,N,"",1,262,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 423","North York",N,N,"",1,262,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35105,York South--Weston","York-Sud--Weston"," 423","North York",N,N,"",1,262,"Tonks","","Alan","Liberal","Libéral",Y,Y,59
+35105,York South--Weston","York-Sud--Weston"," 424","North York",N,N,"",0,274,"Cocelli","","Aydin","Conservative","Conservateur",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 424","North York",N,N,"",0,274,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 424","North York",N,N,"",0,274,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35105,York South--Weston","York-Sud--Weston"," 424","North York",N,N,"",0,274,"Tonks","","Alan","Liberal","Libéral",Y,Y,72
+35105,York South--Weston","York-Sud--Weston"," 425","North York",N,N,"",0,249,"Cocelli","","Aydin","Conservative","Conservateur",N,N,30
+35105,York South--Weston","York-Sud--Weston"," 425","North York",N,N,"",0,249,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,0
+35105,York South--Weston","York-Sud--Weston"," 425","North York",N,N,"",0,249,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35105,York South--Weston","York-Sud--Weston"," 425","North York",N,N,"",0,249,"Tonks","","Alan","Liberal","Libéral",Y,Y,70
+35105,York South--Weston","York-Sud--Weston"," 426","North York",N,N,"",0,268,"Cocelli","","Aydin","Conservative","Conservateur",N,N,18
+35105,York South--Weston","York-Sud--Weston"," 426","North York",N,N,"",0,268,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,6
+35105,York South--Weston","York-Sud--Weston"," 426","North York",N,N,"",0,268,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35105,York South--Weston","York-Sud--Weston"," 426","North York",N,N,"",0,268,"Tonks","","Alan","Liberal","Libéral",Y,Y,50
+35105,York South--Weston","York-Sud--Weston"," 500","Mobile poll/Bureau itinérant",N,N,"",1,62,"Cocelli","","Aydin","Conservative","Conservateur",N,N,11
+35105,York South--Weston","York-Sud--Weston"," 500","Mobile poll/Bureau itinérant",N,N,"",1,62,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 500","Mobile poll/Bureau itinérant",N,N,"",1,62,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35105,York South--Weston","York-Sud--Weston"," 500","Mobile poll/Bureau itinérant",N,N,"",1,62,"Tonks","","Alan","Liberal","Libéral",Y,Y,13
+35105,York South--Weston","York-Sud--Weston"," 501","Mobile poll/Bureau itinérant",N,N,"",0,29,"Cocelli","","Aydin","Conservative","Conservateur",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 501","Mobile poll/Bureau itinérant",N,N,"",0,29,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,2
+35105,York South--Weston","York-Sud--Weston"," 501","Mobile poll/Bureau itinérant",N,N,"",0,29,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 501","Mobile poll/Bureau itinérant",N,N,"",0,29,"Tonks","","Alan","Liberal","Libéral",Y,Y,10
+35105,York South--Weston","York-Sud--Weston"," 600","Toronto",N,N,"",1,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,70
+35105,York South--Weston","York-Sud--Weston"," 600","Toronto",N,N,"",1,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,20
+35105,York South--Weston","York-Sud--Weston"," 600","Toronto",N,N,"",1,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,158
+35105,York South--Weston","York-Sud--Weston"," 600","Toronto",N,N,"",1,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,174
+35105,York South--Weston","York-Sud--Weston"," 601","Toronto",N,N,"",1,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,51
+35105,York South--Weston","York-Sud--Weston"," 601","Toronto",N,N,"",1,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 601","Toronto",N,N,"",1,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35105,York South--Weston","York-Sud--Weston"," 601","Toronto",N,N,"",1,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,107
+35105,York South--Weston","York-Sud--Weston"," 602","Toronto",N,N,"",2,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,68
+35105,York South--Weston","York-Sud--Weston"," 602","Toronto",N,N,"",2,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 602","Toronto",N,N,"",2,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35105,York South--Weston","York-Sud--Weston"," 602","Toronto",N,N,"",2,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,157
+35105,York South--Weston","York-Sud--Weston"," 603","Toronto",N,N,"",2,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,60
+35105,York South--Weston","York-Sud--Weston"," 603","Toronto",N,N,"",2,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,13
+35105,York South--Weston","York-Sud--Weston"," 603","Toronto",N,N,"",2,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35105,York South--Weston","York-Sud--Weston"," 603","Toronto",N,N,"",2,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,132
+35105,York South--Weston","York-Sud--Weston"," 604","Toronto",N,N,"",1,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,44
+35105,York South--Weston","York-Sud--Weston"," 604","Toronto",N,N,"",1,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,9
+35105,York South--Weston","York-Sud--Weston"," 604","Toronto",N,N,"",1,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35105,York South--Weston","York-Sud--Weston"," 604","Toronto",N,N,"",1,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,116
+35105,York South--Weston","York-Sud--Weston"," 605","Toronto",N,N,"",0,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,47
+35105,York South--Weston","York-Sud--Weston"," 605","Toronto",N,N,"",0,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,7
+35105,York South--Weston","York-Sud--Weston"," 605","Toronto",N,N,"",0,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35105,York South--Weston","York-Sud--Weston"," 605","Toronto",N,N,"",0,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,87
+35105,York South--Weston","York-Sud--Weston"," 606","Toronto",N,N,"",0,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,39
+35105,York South--Weston","York-Sud--Weston"," 606","Toronto",N,N,"",0,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,20
+35105,York South--Weston","York-Sud--Weston"," 606","Toronto",N,N,"",0,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35105,York South--Weston","York-Sud--Weston"," 606","Toronto",N,N,"",0,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,83
+35105,York South--Weston","York-Sud--Weston"," 607","Toronto",N,N,"",1,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,59
+35105,York South--Weston","York-Sud--Weston"," 607","Toronto",N,N,"",1,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,15
+35105,York South--Weston","York-Sud--Weston"," 607","Toronto",N,N,"",1,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35105,York South--Weston","York-Sud--Weston"," 607","Toronto",N,N,"",1,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,71
+35105,York South--Weston","York-Sud--Weston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,102,"Cocelli","","Aydin","Conservative","Conservateur",N,N,11
+35105,York South--Weston","York-Sud--Weston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,102,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,5
+35105,York South--Weston","York-Sud--Weston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,102,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35105,York South--Weston","York-Sud--Weston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,102,"Tonks","","Alan","Liberal","Libéral",Y,Y,43
+35105,York South--Weston","York-Sud--Weston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Cocelli","","Aydin","Conservative","Conservateur",N,N,24
+35105,York South--Weston","York-Sud--Weston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Papadimitriou","","Andre","Green Party","Parti Vert",N,N,15
+35105,York South--Weston","York-Sud--Weston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Sullivan","","Mike","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35105,York South--Weston","York-Sud--Weston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Tonks","","Alan","Liberal","Libéral",Y,Y,105
+

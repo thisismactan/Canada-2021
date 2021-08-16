@@ -1,0 +1,957 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+13002,"Beauséjour","Beauséjour"," 1","Saint-Louis",N,N,"",1,393,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 1","Saint-Louis",N,N,"",1,393,"Chapman","","Evelyne","Conservative","Conservateur",N,N,69
+13002,"Beauséjour","Beauséjour"," 1","Saint-Louis",N,N,"",1,393,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,83
+13002,"Beauséjour","Beauséjour"," 1","Saint-Louis",N,N,"",1,393,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+13002,"Beauséjour","Beauséjour"," 2","Saint-Louis",N,N,"",3,365,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 2","Saint-Louis",N,N,"",3,365,"Chapman","","Evelyne","Conservative","Conservateur",N,N,65
+13002,"Beauséjour","Beauséjour"," 2","Saint-Louis",N,N,"",3,365,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,77
+13002,"Beauséjour","Beauséjour"," 2","Saint-Louis",N,N,"",3,365,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13002,"Beauséjour","Beauséjour"," 3","Saint-Louis",N,N,"",7,411,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 3","Saint-Louis",N,N,"",7,411,"Chapman","","Evelyne","Conservative","Conservateur",N,N,73
+13002,"Beauséjour","Beauséjour"," 3","Saint-Louis",N,N,"",7,411,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,78
+13002,"Beauséjour","Beauséjour"," 3","Saint-Louis",N,N,"",7,411,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13002,"Beauséjour","Beauséjour"," 4A","Saint-Louis",N,N,"",7,219,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 4A","Saint-Louis",N,N,"",7,219,"Chapman","","Evelyne","Conservative","Conservateur",N,N,43
+13002,"Beauséjour","Beauséjour"," 4A","Saint-Louis",N,N,"",7,219,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,56
+13002,"Beauséjour","Beauséjour"," 4A","Saint-Louis",N,N,"",7,219,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 4B","Saint-Louis",N,N,"",5,267,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 4B","Saint-Louis",N,N,"",5,267,"Chapman","","Evelyne","Conservative","Conservateur",N,N,50
+13002,"Beauséjour","Beauséjour"," 4B","Saint-Louis",N,N,"",5,267,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,53
+13002,"Beauséjour","Beauséjour"," 4B","Saint-Louis",N,N,"",5,267,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13002,"Beauséjour","Beauséjour"," 5","Saint-Ignace",N,N,"",3,209,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 5","Saint-Ignace",N,N,"",3,209,"Chapman","","Evelyne","Conservative","Conservateur",N,N,36
+13002,"Beauséjour","Beauséjour"," 5","Saint-Ignace",N,N,"",3,209,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,53
+13002,"Beauséjour","Beauséjour"," 5","Saint-Ignace",N,N,"",3,209,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+13002,"Beauséjour","Beauséjour"," 6","Saint-Ignace",N,N,"",5,326,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 6","Saint-Ignace",N,N,"",5,326,"Chapman","","Evelyne","Conservative","Conservateur",N,N,76
+13002,"Beauséjour","Beauséjour"," 6","Saint-Ignace",N,N,"",5,326,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,74
+13002,"Beauséjour","Beauséjour"," 6","Saint-Ignace",N,N,"",5,326,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+13002,"Beauséjour","Beauséjour"," 7","Petite-Aldouane",N,N,"",5,299,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 7","Petite-Aldouane",N,N,"",5,299,"Chapman","","Evelyne","Conservative","Conservateur",N,N,67
+13002,"Beauséjour","Beauséjour"," 7","Petite-Aldouane",N,N,"",5,299,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,67
+13002,"Beauséjour","Beauséjour"," 7","Petite-Aldouane",N,N,"",5,299,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 8","Aldouane",N,N,"",8,405,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,17
+13002,"Beauséjour","Beauséjour"," 8","Aldouane",N,N,"",8,405,"Chapman","","Evelyne","Conservative","Conservateur",N,N,100
+13002,"Beauséjour","Beauséjour"," 8","Aldouane",N,N,"",8,405,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,96
+13002,"Beauséjour","Beauséjour"," 8","Aldouane",N,N,"",8,405,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+13002,"Beauséjour","Beauséjour"," 8-1","Aldouane",N,N,"",5,290,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 8-1","Aldouane",N,N,"",5,290,"Chapman","","Evelyne","Conservative","Conservateur",N,N,51
+13002,"Beauséjour","Beauséjour"," 8-1","Aldouane",N,N,"",5,290,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,85
+13002,"Beauséjour","Beauséjour"," 8-1","Aldouane",N,N,"",5,290,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13002,"Beauséjour","Beauséjour"," 9","Saint-Charles",N,N,"",8,303,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,14
+13002,"Beauséjour","Beauséjour"," 9","Saint-Charles",N,N,"",8,303,"Chapman","","Evelyne","Conservative","Conservateur",N,N,50
+13002,"Beauséjour","Beauséjour"," 9","Saint-Charles",N,N,"",8,303,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,68
+13002,"Beauséjour","Beauséjour"," 9","Saint-Charles",N,N,"",8,303,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 10","Saint-Charles",N,N,"",4,281,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 10","Saint-Charles",N,N,"",4,281,"Chapman","","Evelyne","Conservative","Conservateur",N,N,72
+13002,"Beauséjour","Beauséjour"," 10","Saint-Charles",N,N,"",4,281,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,78
+13002,"Beauséjour","Beauséjour"," 10","Saint-Charles",N,N,"",4,281,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13002,"Beauséjour","Beauséjour"," 11","Richibucto-Village",N,N,"",3,313,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 11","Richibucto-Village",N,N,"",3,313,"Chapman","","Evelyne","Conservative","Conservateur",N,N,60
+13002,"Beauséjour","Beauséjour"," 11","Richibucto-Village",N,N,"",3,313,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,92
+13002,"Beauséjour","Beauséjour"," 11","Richibucto-Village",N,N,"",3,313,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 12","Richibucto-Village",N,N,"",6,302,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 12","Richibucto-Village",N,N,"",6,302,"Chapman","","Evelyne","Conservative","Conservateur",N,N,33
+13002,"Beauséjour","Beauséjour"," 12","Richibucto-Village",N,N,"",6,302,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,73
+13002,"Beauséjour","Beauséjour"," 12","Richibucto-Village",N,N,"",6,302,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+13002,"Beauséjour","Beauséjour"," 12-1","Richibucto-Village",N,N,"",9,279,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 12-1","Richibucto-Village",N,N,"",9,279,"Chapman","","Evelyne","Conservative","Conservateur",N,N,48
+13002,"Beauséjour","Beauséjour"," 12-1","Richibucto-Village",N,N,"",9,279,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,86
+13002,"Beauséjour","Beauséjour"," 12-1","Richibucto-Village",N,N,"",9,279,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13002,"Beauséjour","Beauséjour"," 13","Richibucto",N,N,"",0,450,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 13","Richibucto",N,N,"",0,450,"Chapman","","Evelyne","Conservative","Conservateur",N,N,74
+13002,"Beauséjour","Beauséjour"," 13","Richibucto",N,N,"",0,450,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,83
+13002,"Beauséjour","Beauséjour"," 13","Richibucto",N,N,"",0,450,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+13002,"Beauséjour","Beauséjour"," 13-1","Richibucto",N,N,"",1,86,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,1
+13002,"Beauséjour","Beauséjour"," 13-1","Richibucto",N,N,"",1,86,"Chapman","","Evelyne","Conservative","Conservateur",N,N,1
+13002,"Beauséjour","Beauséjour"," 13-1","Richibucto",N,N,"",1,86,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,31
+13002,"Beauséjour","Beauséjour"," 13-1","Richibucto",N,N,"",1,86,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13002,"Beauséjour","Beauséjour"," 14A","Richibucto",N,N,"",4,311,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 14A","Richibucto",N,N,"",4,311,"Chapman","","Evelyne","Conservative","Conservateur",N,N,70
+13002,"Beauséjour","Beauséjour"," 14A","Richibucto",N,N,"",4,311,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,67
+13002,"Beauséjour","Beauséjour"," 14A","Richibucto",N,N,"",4,311,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13002,"Beauséjour","Beauséjour"," 14B","Mobile poll/Bureau itinérant",N,N,"500",0,20,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 14B","Mobile poll/Bureau itinérant",N,N,"500",0,20,"Chapman","","Evelyne","Conservative","Conservateur",N,N,0
+13002,"Beauséjour","Beauséjour"," 14B","Mobile poll/Bureau itinérant",N,N,"500",0,20,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,0
+13002,"Beauséjour","Beauséjour"," 14B","Mobile poll/Bureau itinérant",N,N,"500",0,20,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13002,"Beauséjour","Beauséjour"," 15","Richibucto",N,N,"",1,385,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,15
+13002,"Beauséjour","Beauséjour"," 15","Richibucto",N,N,"",1,385,"Chapman","","Evelyne","Conservative","Conservateur",N,N,85
+13002,"Beauséjour","Beauséjour"," 15","Richibucto",N,N,"",1,385,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,100
+13002,"Beauséjour","Beauséjour"," 15","Richibucto",N,N,"",1,385,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+13002,"Beauséjour","Beauséjour"," 16","Richibucto",N,N,"",5,368,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 16","Richibucto",N,N,"",5,368,"Chapman","","Evelyne","Conservative","Conservateur",N,N,64
+13002,"Beauséjour","Beauséjour"," 16","Richibucto",N,N,"",5,368,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,89
+13002,"Beauséjour","Beauséjour"," 16","Richibucto",N,N,"",5,368,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+13002,"Beauséjour","Beauséjour"," 17","Rexton",N,N,"",2,305,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 17","Rexton",N,N,"",2,305,"Chapman","","Evelyne","Conservative","Conservateur",N,N,56
+13002,"Beauséjour","Beauséjour"," 17","Rexton",N,N,"",2,305,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,66
+13002,"Beauséjour","Beauséjour"," 17","Rexton",N,N,"",2,305,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 18","Rexton",N,N,"",2,437,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 18","Rexton",N,N,"",2,437,"Chapman","","Evelyne","Conservative","Conservateur",N,N,88
+13002,"Beauséjour","Beauséjour"," 18","Rexton",N,N,"",2,437,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,76
+13002,"Beauséjour","Beauséjour"," 18","Rexton",N,N,"",2,437,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+13002,"Beauséjour","Beauséjour"," 19A","Elsipogtog",N,N,"",2,435,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 19A","Elsipogtog",N,N,"",2,435,"Chapman","","Evelyne","Conservative","Conservateur",N,N,6
+13002,"Beauséjour","Beauséjour"," 19A","Elsipogtog",N,N,"",2,435,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,10
+13002,"Beauséjour","Beauséjour"," 19A","Elsipogtog",N,N,"",2,435,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,193
+13002,"Beauséjour","Beauséjour"," 19B","Elsipogtog",N,N,"",5,430,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,1
+13002,"Beauséjour","Beauséjour"," 19B","Elsipogtog",N,N,"",5,430,"Chapman","","Evelyne","Conservative","Conservateur",N,N,6
+13002,"Beauséjour","Beauséjour"," 19B","Elsipogtog",N,N,"",5,430,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,19
+13002,"Beauséjour","Beauséjour"," 19B","Elsipogtog",N,N,"",5,430,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,206
+13002,"Beauséjour","Beauséjour"," 19C","Elsipogtog",N,N,"",2,411,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,1
+13002,"Beauséjour","Beauséjour"," 19C","Elsipogtog",N,N,"",2,411,"Chapman","","Evelyne","Conservative","Conservateur",N,N,8
+13002,"Beauséjour","Beauséjour"," 19C","Elsipogtog",N,N,"",2,411,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,21
+13002,"Beauséjour","Beauséjour"," 19C","Elsipogtog",N,N,"",2,411,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,172
+13002,"Beauséjour","Beauséjour"," 20","South Branch--West Branch",N,N,"",3,425,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,19
+13002,"Beauséjour","Beauséjour"," 20","South Branch--West Branch",N,N,"",3,425,"Chapman","","Evelyne","Conservative","Conservateur",N,N,117
+13002,"Beauséjour","Beauséjour"," 20","South Branch--West Branch",N,N,"",3,425,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,59
+13002,"Beauséjour","Beauséjour"," 20","South Branch--West Branch",N,N,"",3,425,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13002,"Beauséjour","Beauséjour"," 21","Elsipogtog",Y,N,"",0,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 21","Elsipogtog",Y,N,"",0,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,0
+13002,"Beauséjour","Beauséjour"," 21","Elsipogtog",Y,N,"",0,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,0
+13002,"Beauséjour","Beauséjour"," 21","Elsipogtog",Y,N,"",0,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13002,"Beauséjour","Beauséjour"," 22","Bass River",N,N,"",3,246,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 22","Bass River",N,N,"",3,246,"Chapman","","Evelyne","Conservative","Conservateur",N,N,50
+13002,"Beauséjour","Beauséjour"," 22","Bass River",N,N,"",3,246,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,43
+13002,"Beauséjour","Beauséjour"," 22","Bass River",N,N,"",3,246,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 23","Beersville",N,N,"",0,215,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 23","Beersville",N,N,"",0,215,"Chapman","","Evelyne","Conservative","Conservateur",N,N,68
+13002,"Beauséjour","Beauséjour"," 23","Beersville",N,N,"",0,215,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,30
+13002,"Beauséjour","Beauséjour"," 23","Beersville",N,N,"",0,215,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13002,"Beauséjour","Beauséjour"," 23-1","Adamsville",N,N,"",1,247,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 23-1","Adamsville",N,N,"",1,247,"Chapman","","Evelyne","Conservative","Conservateur",N,N,89
+13002,"Beauséjour","Beauséjour"," 23-1","Adamsville",N,N,"",1,247,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,41
+13002,"Beauséjour","Beauséjour"," 23-1","Adamsville",N,N,"",1,247,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13002,"Beauséjour","Beauséjour"," 24","Harcourt",N,N,"",1,272,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 24","Harcourt",N,N,"",1,272,"Chapman","","Evelyne","Conservative","Conservateur",N,N,79
+13002,"Beauséjour","Beauséjour"," 24","Harcourt",N,N,"",1,272,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,42
+13002,"Beauséjour","Beauséjour"," 24","Harcourt",N,N,"",1,272,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13002,"Beauséjour","Beauséjour"," 25","Saint-Édouard",N,N,"",9,422,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 25","Saint-Édouard",N,N,"",9,422,"Chapman","","Evelyne","Conservative","Conservateur",N,N,71
+13002,"Beauséjour","Beauséjour"," 25","Saint-Édouard",N,N,"",9,422,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,146
+13002,"Beauséjour","Beauséjour"," 25","Saint-Édouard",N,N,"",9,422,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13002,"Beauséjour","Beauséjour"," 26","Sainte-Anne",N,N,"",4,317,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 26","Sainte-Anne",N,N,"",4,317,"Chapman","","Evelyne","Conservative","Conservateur",N,N,76
+13002,"Beauséjour","Beauséjour"," 26","Sainte-Anne",N,N,"",4,317,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,96
+13002,"Beauséjour","Beauséjour"," 26","Sainte-Anne",N,N,"",4,317,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13002,"Beauséjour","Beauséjour"," 27","Saint-Pierre",N,N,"",1,302,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 27","Saint-Pierre",N,N,"",1,302,"Chapman","","Evelyne","Conservative","Conservateur",N,N,52
+13002,"Beauséjour","Beauséjour"," 27","Saint-Pierre",N,N,"",1,302,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,72
+13002,"Beauséjour","Beauséjour"," 27","Saint-Pierre",N,N,"",1,302,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13002,"Beauséjour","Beauséjour"," 28","Bouctouche",N,N,"",2,316,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 28","Bouctouche",N,N,"",2,316,"Chapman","","Evelyne","Conservative","Conservateur",N,N,69
+13002,"Beauséjour","Beauséjour"," 28","Bouctouche",N,N,"",2,316,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,48
+13002,"Beauséjour","Beauséjour"," 28","Bouctouche",N,N,"",2,316,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 28-1","Bouctouche",N,N,"",3,247,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 28-1","Bouctouche",N,N,"",3,247,"Chapman","","Evelyne","Conservative","Conservateur",N,N,27
+13002,"Beauséjour","Beauséjour"," 28-1","Bouctouche",N,N,"",3,247,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,66
+13002,"Beauséjour","Beauséjour"," 28-1","Bouctouche",N,N,"",3,247,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 29","Bouctouche",N,N,"",0,255,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 29","Bouctouche",N,N,"",0,255,"Chapman","","Evelyne","Conservative","Conservateur",N,N,35
+13002,"Beauséjour","Beauséjour"," 29","Bouctouche",N,N,"",0,255,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,47
+13002,"Beauséjour","Beauséjour"," 29","Bouctouche",N,N,"",0,255,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13002,"Beauséjour","Beauséjour"," 30","Bouctouche",N,N,"",4,245,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 30","Bouctouche",N,N,"",4,245,"Chapman","","Evelyne","Conservative","Conservateur",N,N,29
+13002,"Beauséjour","Beauséjour"," 30","Bouctouche",N,N,"",4,245,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,30
+13002,"Beauséjour","Beauséjour"," 30","Bouctouche",N,N,"",4,245,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13002,"Beauséjour","Beauséjour"," 31","Bouctouche",N,N,"",2,290,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 31","Bouctouche",N,N,"",2,290,"Chapman","","Evelyne","Conservative","Conservateur",N,N,56
+13002,"Beauséjour","Beauséjour"," 31","Bouctouche",N,N,"",2,290,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,43
+13002,"Beauséjour","Beauséjour"," 31","Bouctouche",N,N,"",2,290,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13002,"Beauséjour","Beauséjour"," 32","Bouctouche",N,N,"",7,257,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 32","Bouctouche",N,N,"",7,257,"Chapman","","Evelyne","Conservative","Conservateur",N,N,49
+13002,"Beauséjour","Beauséjour"," 32","Bouctouche",N,N,"",7,257,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,61
+13002,"Beauséjour","Beauséjour"," 32","Bouctouche",N,N,"",7,257,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13002,"Beauséjour","Beauséjour"," 33","Bouctouche",N,N,"",7,290,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 33","Bouctouche",N,N,"",7,290,"Chapman","","Evelyne","Conservative","Conservateur",N,N,42
+13002,"Beauséjour","Beauséjour"," 33","Bouctouche",N,N,"",7,290,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,53
+13002,"Beauséjour","Beauséjour"," 33","Bouctouche",N,N,"",7,290,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13002,"Beauséjour","Beauséjour"," 34","Bouctouche",N,N,"",0,304,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 34","Bouctouche",N,N,"",0,304,"Chapman","","Evelyne","Conservative","Conservateur",N,N,76
+13002,"Beauséjour","Beauséjour"," 34","Bouctouche",N,N,"",0,304,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,50
+13002,"Beauséjour","Beauséjour"," 34","Bouctouche",N,N,"",0,304,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 34-1","Bouctouche",N,N,"",0,52,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 34-1","Bouctouche",N,N,"",0,52,"Chapman","","Evelyne","Conservative","Conservateur",N,N,3
+13002,"Beauséjour","Beauséjour"," 34-1","Bouctouche",N,N,"",0,52,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,12
+13002,"Beauséjour","Beauséjour"," 34-1","Bouctouche",N,N,"",0,52,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13002,"Beauséjour","Beauséjour"," 35","Bouctouche",N,N,"",5,388,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 35","Bouctouche",N,N,"",5,388,"Chapman","","Evelyne","Conservative","Conservateur",N,N,65
+13002,"Beauséjour","Beauséjour"," 35","Bouctouche",N,N,"",5,388,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,109
+13002,"Beauséjour","Beauséjour"," 35","Bouctouche",N,N,"",5,388,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 36A","Saint-Thomas",N,N,"",2,264,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 36A","Saint-Thomas",N,N,"",2,264,"Chapman","","Evelyne","Conservative","Conservateur",N,N,51
+13002,"Beauséjour","Beauséjour"," 36A","Saint-Thomas",N,N,"",2,264,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,36
+13002,"Beauséjour","Beauséjour"," 36A","Saint-Thomas",N,N,"",2,264,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13002,"Beauséjour","Beauséjour"," 36B","Saint-Thomas",N,N,"",2,211,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 36B","Saint-Thomas",N,N,"",2,211,"Chapman","","Evelyne","Conservative","Conservateur",N,N,64
+13002,"Beauséjour","Beauséjour"," 36B","Saint-Thomas",N,N,"",2,211,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,23
+13002,"Beauséjour","Beauséjour"," 36B","Saint-Thomas",N,N,"",2,211,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13002,"Beauséjour","Beauséjour"," 37","Cormierville",N,N,"",1,251,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 37","Cormierville",N,N,"",1,251,"Chapman","","Evelyne","Conservative","Conservateur",N,N,49
+13002,"Beauséjour","Beauséjour"," 37","Cormierville",N,N,"",1,251,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,67
+13002,"Beauséjour","Beauséjour"," 37","Cormierville",N,N,"",1,251,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13002,"Beauséjour","Beauséjour"," 37-1","Cormierville",N,N,"",3,217,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 37-1","Cormierville",N,N,"",3,217,"Chapman","","Evelyne","Conservative","Conservateur",N,N,43
+13002,"Beauséjour","Beauséjour"," 37-1","Cormierville",N,N,"",3,217,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,55
+13002,"Beauséjour","Beauséjour"," 37-1","Cormierville",N,N,"",3,217,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 38","Saint-Joseph-de-Kent",N,N,"",4,258,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 38","Saint-Joseph-de-Kent",N,N,"",4,258,"Chapman","","Evelyne","Conservative","Conservateur",N,N,93
+13002,"Beauséjour","Beauséjour"," 38","Saint-Joseph-de-Kent",N,N,"",4,258,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,38
+13002,"Beauséjour","Beauséjour"," 38","Saint-Joseph-de-Kent",N,N,"",4,258,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13002,"Beauséjour","Beauséjour"," 39","McKees Mills",N,N,"",1,283,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 39","McKees Mills",N,N,"",1,283,"Chapman","","Evelyne","Conservative","Conservateur",N,N,78
+13002,"Beauséjour","Beauséjour"," 39","McKees Mills",N,N,"",1,283,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,64
+13002,"Beauséjour","Beauséjour"," 39","McKees Mills",N,N,"",1,283,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 40","Sainte-Marie",N,N,"",2,363,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 40","Sainte-Marie",N,N,"",2,363,"Chapman","","Evelyne","Conservative","Conservateur",N,N,73
+13002,"Beauséjour","Beauséjour"," 40","Sainte-Marie",N,N,"",2,363,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,77
+13002,"Beauséjour","Beauséjour"," 40","Sainte-Marie",N,N,"",2,363,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+13002,"Beauséjour","Beauséjour"," 41","Sainte-Marie",N,N,"",6,255,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 41","Sainte-Marie",N,N,"",6,255,"Chapman","","Evelyne","Conservative","Conservateur",N,N,47
+13002,"Beauséjour","Beauséjour"," 41","Sainte-Marie",N,N,"",6,255,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,57
+13002,"Beauséjour","Beauséjour"," 41","Sainte-Marie",N,N,"",6,255,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13002,"Beauséjour","Beauséjour"," 41-1","Sainte-Marie",N,N,"",1,314,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 41-1","Sainte-Marie",N,N,"",1,314,"Chapman","","Evelyne","Conservative","Conservateur",N,N,66
+13002,"Beauséjour","Beauséjour"," 41-1","Sainte-Marie",N,N,"",1,314,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,70
+13002,"Beauséjour","Beauséjour"," 41-1","Sainte-Marie",N,N,"",1,314,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13002,"Beauséjour","Beauséjour"," 42","Sainte-Marie",N,N,"",4,399,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 42","Sainte-Marie",N,N,"",4,399,"Chapman","","Evelyne","Conservative","Conservateur",N,N,78
+13002,"Beauséjour","Beauséjour"," 42","Sainte-Marie",N,N,"",4,399,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,89
+13002,"Beauséjour","Beauséjour"," 42","Sainte-Marie",N,N,"",4,399,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13002,"Beauséjour","Beauséjour"," 43A","Saint-Antoine",N,N,"",1,242,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 43A","Saint-Antoine",N,N,"",1,242,"Chapman","","Evelyne","Conservative","Conservateur",N,N,58
+13002,"Beauséjour","Beauséjour"," 43A","Saint-Antoine",N,N,"",1,242,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,35
+13002,"Beauséjour","Beauséjour"," 43A","Saint-Antoine",N,N,"",1,242,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 43B","Saint-Antoine",N,N,"",3,257,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 43B","Saint-Antoine",N,N,"",3,257,"Chapman","","Evelyne","Conservative","Conservateur",N,N,64
+13002,"Beauséjour","Beauséjour"," 43B","Saint-Antoine",N,N,"",3,257,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,38
+13002,"Beauséjour","Beauséjour"," 43B","Saint-Antoine",N,N,"",3,257,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13002,"Beauséjour","Beauséjour"," 44","Saint-Antoine",N,N,"",5,397,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 44","Saint-Antoine",N,N,"",5,397,"Chapman","","Evelyne","Conservative","Conservateur",N,N,103
+13002,"Beauséjour","Beauséjour"," 44","Saint-Antoine",N,N,"",5,397,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,78
+13002,"Beauséjour","Beauséjour"," 44","Saint-Antoine",N,N,"",5,397,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13002,"Beauséjour","Beauséjour"," 45","Saint-Paul",N,N,"",4,284,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 45","Saint-Paul",N,N,"",4,284,"Chapman","","Evelyne","Conservative","Conservateur",N,N,63
+13002,"Beauséjour","Beauséjour"," 45","Saint-Paul",N,N,"",4,284,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,58
+13002,"Beauséjour","Beauséjour"," 45","Saint-Paul",N,N,"",4,284,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13002,"Beauséjour","Beauséjour"," 45-1","Saint-Paul",N,N,"",2,133,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 45-1","Saint-Paul",N,N,"",2,133,"Chapman","","Evelyne","Conservative","Conservateur",N,N,24
+13002,"Beauséjour","Beauséjour"," 45-1","Saint-Paul",N,N,"",2,133,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,39
+13002,"Beauséjour","Beauséjour"," 45-1","Saint-Paul",N,N,"",2,133,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13002,"Beauséjour","Beauséjour"," 46","Saint-Paul",N,N,"",0,282,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 46","Saint-Paul",N,N,"",0,282,"Chapman","","Evelyne","Conservative","Conservateur",N,N,60
+13002,"Beauséjour","Beauséjour"," 46","Saint-Paul",N,N,"",0,282,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,61
+13002,"Beauséjour","Beauséjour"," 46","Saint-Paul",N,N,"",0,282,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13002,"Beauséjour","Beauséjour"," 47","Breau-Village--Côte d'Or",N,N,"",3,305,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 47","Breau-Village--Côte d'Or",N,N,"",3,305,"Chapman","","Evelyne","Conservative","Conservateur",N,N,44
+13002,"Beauséjour","Beauséjour"," 47","Breau-Village--Côte d'Or",N,N,"",3,305,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,78
+13002,"Beauséjour","Beauséjour"," 47","Breau-Village--Côte d'Or",N,N,"",3,305,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 48","Breau-Village",N,N,"",1,425,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 48","Breau-Village",N,N,"",1,425,"Chapman","","Evelyne","Conservative","Conservateur",N,N,76
+13002,"Beauséjour","Beauséjour"," 48","Breau-Village",N,N,"",1,425,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,114
+13002,"Beauséjour","Beauséjour"," 48","Breau-Village",N,N,"",1,425,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13002,"Beauséjour","Beauséjour"," 49","Cocagne-Nord",N,N,"",2,305,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 49","Cocagne-Nord",N,N,"",2,305,"Chapman","","Evelyne","Conservative","Conservateur",N,N,36
+13002,"Beauséjour","Beauséjour"," 49","Cocagne-Nord",N,N,"",2,305,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,79
+13002,"Beauséjour","Beauséjour"," 49","Cocagne-Nord",N,N,"",2,305,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13002,"Beauséjour","Beauséjour"," 49-1","Cocagne-Nord",N,N,"",1,226,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 49-1","Cocagne-Nord",N,N,"",1,226,"Chapman","","Evelyne","Conservative","Conservateur",N,N,37
+13002,"Beauséjour","Beauséjour"," 49-1","Cocagne-Nord",N,N,"",1,226,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,48
+13002,"Beauséjour","Beauséjour"," 49-1","Cocagne-Nord",N,N,"",1,226,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13002,"Beauséjour","Beauséjour"," 50","Saint-Antoine",N,N,"",3,293,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 50","Saint-Antoine",N,N,"",3,293,"Chapman","","Evelyne","Conservative","Conservateur",N,N,83
+13002,"Beauséjour","Beauséjour"," 50","Saint-Antoine",N,N,"",3,293,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,47
+13002,"Beauséjour","Beauséjour"," 50","Saint-Antoine",N,N,"",3,293,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13002,"Beauséjour","Beauséjour"," 50-1","Saint-Antoine",N,N,"",3,349,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 50-1","Saint-Antoine",N,N,"",3,349,"Chapman","","Evelyne","Conservative","Conservateur",N,N,90
+13002,"Beauséjour","Beauséjour"," 50-1","Saint-Antoine",N,N,"",3,349,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,44
+13002,"Beauséjour","Beauséjour"," 50-1","Saint-Antoine",N,N,"",3,349,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13002,"Beauséjour","Beauséjour"," 51","Notre-Dame",N,N,"",3,376,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 51","Notre-Dame",N,N,"",3,376,"Chapman","","Evelyne","Conservative","Conservateur",N,N,107
+13002,"Beauséjour","Beauséjour"," 51","Notre-Dame",N,N,"",3,376,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,73
+13002,"Beauséjour","Beauséjour"," 51","Notre-Dame",N,N,"",3,376,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13002,"Beauséjour","Beauséjour"," 52A","Saint-Antoine",N,N,"",1,317,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 52A","Saint-Antoine",N,N,"",1,317,"Chapman","","Evelyne","Conservative","Conservateur",N,N,99
+13002,"Beauséjour","Beauséjour"," 52A","Saint-Antoine",N,N,"",1,317,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,66
+13002,"Beauséjour","Beauséjour"," 52A","Saint-Antoine",N,N,"",1,317,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 52B","Mobile poll/Bureau itinérant",N,N,"502",0,48,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 52B","Mobile poll/Bureau itinérant",N,N,"502",0,48,"Chapman","","Evelyne","Conservative","Conservateur",N,N,0
+13002,"Beauséjour","Beauséjour"," 52B","Mobile poll/Bureau itinérant",N,N,"502",0,48,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,0
+13002,"Beauséjour","Beauséjour"," 52B","Mobile poll/Bureau itinérant",N,N,"502",0,48,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13002,"Beauséjour","Beauséjour"," 53","Notre-Dame",N,N,"",4,426,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 53","Notre-Dame",N,N,"",4,426,"Chapman","","Evelyne","Conservative","Conservateur",N,N,98
+13002,"Beauséjour","Beauséjour"," 53","Notre-Dame",N,N,"",4,426,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,61
+13002,"Beauséjour","Beauséjour"," 53","Notre-Dame",N,N,"",4,426,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13002,"Beauséjour","Beauséjour"," 54","Cap-de-Cocagne",N,N,"",1,263,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 54","Cap-de-Cocagne",N,N,"",1,263,"Chapman","","Evelyne","Conservative","Conservateur",N,N,32
+13002,"Beauséjour","Beauséjour"," 54","Cap-de-Cocagne",N,N,"",1,263,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,57
+13002,"Beauséjour","Beauséjour"," 54","Cap-de-Cocagne",N,N,"",1,263,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13002,"Beauséjour","Beauséjour"," 54-1","Cap-de-Cocagne",N,N,"",0,228,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 54-1","Cap-de-Cocagne",N,N,"",0,228,"Chapman","","Evelyne","Conservative","Conservateur",N,N,12
+13002,"Beauséjour","Beauséjour"," 54-1","Cap-de-Cocagne",N,N,"",0,228,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,72
+13002,"Beauséjour","Beauséjour"," 54-1","Cap-de-Cocagne",N,N,"",0,228,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13002,"Beauséjour","Beauséjour"," 55","Cap-des-Caissie",N,N,"",2,398,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 55","Cap-des-Caissie",N,N,"",2,398,"Chapman","","Evelyne","Conservative","Conservateur",N,N,55
+13002,"Beauséjour","Beauséjour"," 55","Cap-des-Caissie",N,N,"",2,398,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,118
+13002,"Beauséjour","Beauséjour"," 55","Cap-des-Caissie",N,N,"",2,398,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13002,"Beauséjour","Beauséjour"," 55-1","Grande-Digue",N,N,"",2,292,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 55-1","Grande-Digue",N,N,"",2,292,"Chapman","","Evelyne","Conservative","Conservateur",N,N,24
+13002,"Beauséjour","Beauséjour"," 55-1","Grande-Digue",N,N,"",2,292,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,86
+13002,"Beauséjour","Beauséjour"," 55-1","Grande-Digue",N,N,"",2,292,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13002,"Beauséjour","Beauséjour"," 56","Grande-Digue",N,N,"",1,359,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 56","Grande-Digue",N,N,"",1,359,"Chapman","","Evelyne","Conservative","Conservateur",N,N,50
+13002,"Beauséjour","Beauséjour"," 56","Grande-Digue",N,N,"",1,359,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,79
+13002,"Beauséjour","Beauséjour"," 56","Grande-Digue",N,N,"",1,359,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 56-1","Grande-Digue",N,N,"",5,312,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 56-1","Grande-Digue",N,N,"",5,312,"Chapman","","Evelyne","Conservative","Conservateur",N,N,25
+13002,"Beauséjour","Beauséjour"," 56-1","Grande-Digue",N,N,"",5,312,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,77
+13002,"Beauséjour","Beauséjour"," 56-1","Grande-Digue",N,N,"",5,312,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13002,"Beauséjour","Beauséjour"," 57","Cocagne-Sud",N,N,"",3,389,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 57","Cocagne-Sud",N,N,"",3,389,"Chapman","","Evelyne","Conservative","Conservateur",N,N,68
+13002,"Beauséjour","Beauséjour"," 57","Cocagne-Sud",N,N,"",3,389,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,86
+13002,"Beauséjour","Beauséjour"," 57","Cocagne-Sud",N,N,"",3,389,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+13002,"Beauséjour","Beauséjour"," 58","Notre-Dame",N,N,"",0,257,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 58","Notre-Dame",N,N,"",0,257,"Chapman","","Evelyne","Conservative","Conservateur",N,N,46
+13002,"Beauséjour","Beauséjour"," 58","Notre-Dame",N,N,"",0,257,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,43
+13002,"Beauséjour","Beauséjour"," 58","Notre-Dame",N,N,"",0,257,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+13002,"Beauséjour","Beauséjour"," 58-1","Notre-Dame",N,N,"",0,217,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 58-1","Notre-Dame",N,N,"",0,217,"Chapman","","Evelyne","Conservative","Conservateur",N,N,61
+13002,"Beauséjour","Beauséjour"," 58-1","Notre-Dame",N,N,"",0,217,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,39
+13002,"Beauséjour","Beauséjour"," 58-1","Notre-Dame",N,N,"",0,217,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 59","LeBlancville",N,N,"",2,403,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,18
+13002,"Beauséjour","Beauséjour"," 59","LeBlancville",N,N,"",2,403,"Chapman","","Evelyne","Conservative","Conservateur",N,N,88
+13002,"Beauséjour","Beauséjour"," 59","LeBlancville",N,N,"",2,403,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,45
+13002,"Beauséjour","Beauséjour"," 59","LeBlancville",N,N,"",2,403,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+13002,"Beauséjour","Beauséjour"," 60","LeBlancville",N,N,"",4,379,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 60","LeBlancville",N,N,"",4,379,"Chapman","","Evelyne","Conservative","Conservateur",N,N,77
+13002,"Beauséjour","Beauséjour"," 60","LeBlancville",N,N,"",4,379,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,37
+13002,"Beauséjour","Beauséjour"," 60","LeBlancville",N,N,"",4,379,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+13002,"Beauséjour","Beauséjour"," 61","Shaw Brook",N,N,"",0,378,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 61","Shaw Brook",N,N,"",0,378,"Chapman","","Evelyne","Conservative","Conservateur",N,N,128
+13002,"Beauséjour","Beauséjour"," 61","Shaw Brook",N,N,"",0,378,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,39
+13002,"Beauséjour","Beauséjour"," 61","Shaw Brook",N,N,"",0,378,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13002,"Beauséjour","Beauséjour"," 62","Gallagher Ridge",N,N,"",3,335,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 62","Gallagher Ridge",N,N,"",3,335,"Chapman","","Evelyne","Conservative","Conservateur",N,N,78
+13002,"Beauséjour","Beauséjour"," 62","Gallagher Ridge",N,N,"",3,335,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,20
+13002,"Beauséjour","Beauséjour"," 62","Gallagher Ridge",N,N,"",3,335,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+13002,"Beauséjour","Beauséjour"," 63","Lakeville",N,N,"",5,229,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 63","Lakeville",N,N,"",5,229,"Chapman","","Evelyne","Conservative","Conservateur",N,N,57
+13002,"Beauséjour","Beauséjour"," 63","Lakeville",N,N,"",5,229,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,21
+13002,"Beauséjour","Beauséjour"," 63","Lakeville",N,N,"",5,229,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 63-1","Lakeville",N,N,"",0,226,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 63-1","Lakeville",N,N,"",0,226,"Chapman","","Evelyne","Conservative","Conservateur",N,N,45
+13002,"Beauséjour","Beauséjour"," 63-1","Lakeville",N,N,"",0,226,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,30
+13002,"Beauséjour","Beauséjour"," 63-1","Lakeville",N,N,"",0,226,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13002,"Beauséjour","Beauséjour"," 64","Lakeville",N,N,"",0,312,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 64","Lakeville",N,N,"",0,312,"Chapman","","Evelyne","Conservative","Conservateur",N,N,42
+13002,"Beauséjour","Beauséjour"," 64","Lakeville",N,N,"",0,312,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,32
+13002,"Beauséjour","Beauséjour"," 64","Lakeville",N,N,"",0,312,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+13002,"Beauséjour","Beauséjour"," 64-1","Lakeville",N,N,"",0,265,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 64-1","Lakeville",N,N,"",0,265,"Chapman","","Evelyne","Conservative","Conservateur",N,N,47
+13002,"Beauséjour","Beauséjour"," 64-1","Lakeville",N,N,"",0,265,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,25
+13002,"Beauséjour","Beauséjour"," 64-1","Lakeville",N,N,"",0,265,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 65A","Lakeville",N,N,"",1,240,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 65A","Lakeville",N,N,"",1,240,"Chapman","","Evelyne","Conservative","Conservateur",N,N,48
+13002,"Beauséjour","Beauséjour"," 65A","Lakeville",N,N,"",1,240,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,21
+13002,"Beauséjour","Beauséjour"," 65A","Lakeville",N,N,"",1,240,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13002,"Beauséjour","Beauséjour"," 65B","Lakeville",N,N,"",1,260,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 65B","Lakeville",N,N,"",1,260,"Chapman","","Evelyne","Conservative","Conservateur",N,N,43
+13002,"Beauséjour","Beauséjour"," 65B","Lakeville",N,N,"",1,260,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,28
+13002,"Beauséjour","Beauséjour"," 65B","Lakeville",N,N,"",1,260,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 66","Cap Breton & Scotch Settlement",N,N,"",2,421,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 66","Cap Breton & Scotch Settlement",N,N,"",2,421,"Chapman","","Evelyne","Conservative","Conservateur",N,N,91
+13002,"Beauséjour","Beauséjour"," 66","Cap Breton & Scotch Settlement",N,N,"",2,421,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,40
+13002,"Beauséjour","Beauséjour"," 66","Cap Breton & Scotch Settlement",N,N,"",2,421,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+13002,"Beauséjour","Beauséjour"," 67","Irishtown",N,N,"",0,412,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 67","Irishtown",N,N,"",0,412,"Chapman","","Evelyne","Conservative","Conservateur",N,N,78
+13002,"Beauséjour","Beauséjour"," 67","Irishtown",N,N,"",0,412,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,39
+13002,"Beauséjour","Beauséjour"," 67","Irishtown",N,N,"",0,412,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+13002,"Beauséjour","Beauséjour"," 67-1","Irishtown",N,N,"",0,224,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 67-1","Irishtown",N,N,"",0,224,"Chapman","","Evelyne","Conservative","Conservateur",N,N,56
+13002,"Beauséjour","Beauséjour"," 67-1","Irishtown",N,N,"",0,224,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,24
+13002,"Beauséjour","Beauséjour"," 67-1","Irishtown",N,N,"",0,224,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13002,"Beauséjour","Beauséjour"," 68","Ammon",N,N,"",1,330,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 68","Ammon",N,N,"",1,330,"Chapman","","Evelyne","Conservative","Conservateur",N,N,82
+13002,"Beauséjour","Beauséjour"," 68","Ammon",N,N,"",1,330,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,25
+13002,"Beauséjour","Beauséjour"," 68","Ammon",N,N,"",1,330,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13002,"Beauséjour","Beauséjour"," 69","Stonehurst",N,N,"",0,318,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 69","Stonehurst",N,N,"",0,318,"Chapman","","Evelyne","Conservative","Conservateur",N,N,130
+13002,"Beauséjour","Beauséjour"," 69","Stonehurst",N,N,"",0,318,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,19
+13002,"Beauséjour","Beauséjour"," 69","Stonehurst",N,N,"",0,318,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13002,"Beauséjour","Beauséjour"," 69-1","Briggs Cross Road",N,N,"",1,243,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 69-1","Briggs Cross Road",N,N,"",1,243,"Chapman","","Evelyne","Conservative","Conservateur",N,N,72
+13002,"Beauséjour","Beauséjour"," 69-1","Briggs Cross Road",N,N,"",1,243,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,9
+13002,"Beauséjour","Beauséjour"," 69-1","Briggs Cross Road",N,N,"",1,243,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13002,"Beauséjour","Beauséjour"," 69-2","Indian Mountain",N,N,"",1,230,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 69-2","Indian Mountain",N,N,"",1,230,"Chapman","","Evelyne","Conservative","Conservateur",N,N,72
+13002,"Beauséjour","Beauséjour"," 69-2","Indian Mountain",N,N,"",1,230,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,18
+13002,"Beauséjour","Beauséjour"," 69-2","Indian Mountain",N,N,"",1,230,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13002,"Beauséjour","Beauséjour"," 70","Pacific Junction",N,N,"",3,280,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 70","Pacific Junction",N,N,"",3,280,"Chapman","","Evelyne","Conservative","Conservateur",N,N,82
+13002,"Beauséjour","Beauséjour"," 70","Pacific Junction",N,N,"",3,280,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,23
+13002,"Beauséjour","Beauséjour"," 70","Pacific Junction",N,N,"",3,280,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13002,"Beauséjour","Beauséjour"," 71A","Lutes Mountain South",N,N,"",2,265,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 71A","Lutes Mountain South",N,N,"",2,265,"Chapman","","Evelyne","Conservative","Conservateur",N,N,71
+13002,"Beauséjour","Beauséjour"," 71A","Lutes Mountain South",N,N,"",2,265,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,16
+13002,"Beauséjour","Beauséjour"," 71A","Lutes Mountain South",N,N,"",2,265,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13002,"Beauséjour","Beauséjour"," 71B","Lutes Mountain South",N,N,"",1,262,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 71B","Lutes Mountain South",N,N,"",1,262,"Chapman","","Evelyne","Conservative","Conservateur",N,N,79
+13002,"Beauséjour","Beauséjour"," 71B","Lutes Mountain South",N,N,"",1,262,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,15
+13002,"Beauséjour","Beauséjour"," 71B","Lutes Mountain South",N,N,"",1,262,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13002,"Beauséjour","Beauséjour"," 72","Berry Mills",N,N,"",1,349,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 72","Berry Mills",N,N,"",1,349,"Chapman","","Evelyne","Conservative","Conservateur",N,N,124
+13002,"Beauséjour","Beauséjour"," 72","Berry Mills",N,N,"",1,349,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,35
+13002,"Beauséjour","Beauséjour"," 72","Berry Mills",N,N,"",1,349,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13002,"Beauséjour","Beauséjour"," 73","Steeves Mountain East",N,N,"",1,418,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 73","Steeves Mountain East",N,N,"",1,418,"Chapman","","Evelyne","Conservative","Conservateur",N,N,144
+13002,"Beauséjour","Beauséjour"," 73","Steeves Mountain East",N,N,"",1,418,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,33
+13002,"Beauséjour","Beauséjour"," 73","Steeves Mountain East",N,N,"",1,418,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+13002,"Beauséjour","Beauséjour"," 74","Steeves Mountain West",N,N,"",1,405,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 74","Steeves Mountain West",N,N,"",1,405,"Chapman","","Evelyne","Conservative","Conservateur",N,N,152
+13002,"Beauséjour","Beauséjour"," 74","Steeves Mountain West",N,N,"",1,405,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,14
+13002,"Beauséjour","Beauséjour"," 74","Steeves Mountain West",N,N,"",1,405,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 75","Salisbury",Y,N,"",0,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 75","Salisbury",Y,N,"",0,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,0
+13002,"Beauséjour","Beauséjour"," 75","Salisbury",Y,N,"",0,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,0
+13002,"Beauséjour","Beauséjour"," 75","Salisbury",Y,N,"",0,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13002,"Beauséjour","Beauséjour"," 76","Grand-Barachois",N,N,"",1,395,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 76","Grand-Barachois",N,N,"",1,395,"Chapman","","Evelyne","Conservative","Conservateur",N,N,58
+13002,"Beauséjour","Beauséjour"," 76","Grand-Barachois",N,N,"",1,395,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,96
+13002,"Beauséjour","Beauséjour"," 76","Grand-Barachois",N,N,"",1,395,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+13002,"Beauséjour","Beauséjour"," 77","Grand-Barachois",N,N,"",1,373,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 77","Grand-Barachois",N,N,"",1,373,"Chapman","","Evelyne","Conservative","Conservateur",N,N,53
+13002,"Beauséjour","Beauséjour"," 77","Grand-Barachois",N,N,"",1,373,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,108
+13002,"Beauséjour","Beauséjour"," 77","Grand-Barachois",N,N,"",1,373,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13002,"Beauséjour","Beauséjour"," 78","Grand-Barachois",N,N,"",2,304,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 78","Grand-Barachois",N,N,"",2,304,"Chapman","","Evelyne","Conservative","Conservateur",N,N,26
+13002,"Beauséjour","Beauséjour"," 78","Grand-Barachois",N,N,"",2,304,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,74
+13002,"Beauséjour","Beauséjour"," 78","Grand-Barachois",N,N,"",2,304,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13002,"Beauséjour","Beauséjour"," 79","Grand-Barachois",N,N,"",3,456,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,16
+13002,"Beauséjour","Beauséjour"," 79","Grand-Barachois",N,N,"",3,456,"Chapman","","Evelyne","Conservative","Conservateur",N,N,66
+13002,"Beauséjour","Beauséjour"," 79","Grand-Barachois",N,N,"",3,456,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,103
+13002,"Beauséjour","Beauséjour"," 79","Grand-Barachois",N,N,"",3,456,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13002,"Beauséjour","Beauséjour"," 80","Boudreau-Ouest",N,N,"",1,326,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,14
+13002,"Beauséjour","Beauséjour"," 80","Boudreau-Ouest",N,N,"",1,326,"Chapman","","Evelyne","Conservative","Conservateur",N,N,62
+13002,"Beauséjour","Beauséjour"," 80","Boudreau-Ouest",N,N,"",1,326,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,76
+13002,"Beauséjour","Beauséjour"," 80","Boudreau-Ouest",N,N,"",1,326,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+13002,"Beauséjour","Beauséjour"," 80-1","Boudreau-Ouest",N,N,"",2,290,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 80-1","Boudreau-Ouest",N,N,"",2,290,"Chapman","","Evelyne","Conservative","Conservateur",N,N,50
+13002,"Beauséjour","Beauséjour"," 80-1","Boudreau-Ouest",N,N,"",2,290,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,80
+13002,"Beauséjour","Beauséjour"," 80-1","Boudreau-Ouest",N,N,"",2,290,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13002,"Beauséjour","Beauséjour"," 81","Haute-Aboujagane",N,N,"",2,400,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,17
+13002,"Beauséjour","Beauséjour"," 81","Haute-Aboujagane",N,N,"",2,400,"Chapman","","Evelyne","Conservative","Conservateur",N,N,53
+13002,"Beauséjour","Beauséjour"," 81","Haute-Aboujagane",N,N,"",2,400,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,136
+13002,"Beauséjour","Beauséjour"," 81","Haute-Aboujagane",N,N,"",2,400,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+13002,"Beauséjour","Beauséjour"," 82","Pointe-du-Chêne",N,N,"",2,395,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 82","Pointe-du-Chêne",N,N,"",2,395,"Chapman","","Evelyne","Conservative","Conservateur",N,N,64
+13002,"Beauséjour","Beauséjour"," 82","Pointe-du-Chêne",N,N,"",2,395,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,126
+13002,"Beauséjour","Beauséjour"," 82","Pointe-du-Chêne",N,N,"",2,395,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13002,"Beauséjour","Beauséjour"," 83","Shediac",N,N,"",4,390,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 83","Shediac",N,N,"",4,390,"Chapman","","Evelyne","Conservative","Conservateur",N,N,47
+13002,"Beauséjour","Beauséjour"," 83","Shediac",N,N,"",4,390,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,93
+13002,"Beauséjour","Beauséjour"," 83","Shediac",N,N,"",4,390,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+13002,"Beauséjour","Beauséjour"," 84","Shediac",N,N,"",2,415,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,14
+13002,"Beauséjour","Beauséjour"," 84","Shediac",N,N,"",2,415,"Chapman","","Evelyne","Conservative","Conservateur",N,N,41
+13002,"Beauséjour","Beauséjour"," 84","Shediac",N,N,"",2,415,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,106
+13002,"Beauséjour","Beauséjour"," 84","Shediac",N,N,"",2,415,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13002,"Beauséjour","Beauséjour"," 85A","Shediac",N,N,"",2,274,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 85A","Shediac",N,N,"",2,274,"Chapman","","Evelyne","Conservative","Conservateur",N,N,38
+13002,"Beauséjour","Beauséjour"," 85A","Shediac",N,N,"",2,274,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,68
+13002,"Beauséjour","Beauséjour"," 85A","Shediac",N,N,"",2,274,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13002,"Beauséjour","Beauséjour"," 85B","Shediac",N,N,"",1,293,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 85B","Shediac",N,N,"",1,293,"Chapman","","Evelyne","Conservative","Conservateur",N,N,32
+13002,"Beauséjour","Beauséjour"," 85B","Shediac",N,N,"",1,293,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,88
+13002,"Beauséjour","Beauséjour"," 85B","Shediac",N,N,"",1,293,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13002,"Beauséjour","Beauséjour"," 86A","Shediac",N,N,"",1,224,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 86A","Shediac",N,N,"",1,224,"Chapman","","Evelyne","Conservative","Conservateur",N,N,27
+13002,"Beauséjour","Beauséjour"," 86A","Shediac",N,N,"",1,224,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,57
+13002,"Beauséjour","Beauséjour"," 86A","Shediac",N,N,"",1,224,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13002,"Beauséjour","Beauséjour"," 86B","Shediac",N,N,"",3,226,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 86B","Shediac",N,N,"",3,226,"Chapman","","Evelyne","Conservative","Conservateur",N,N,26
+13002,"Beauséjour","Beauséjour"," 86B","Shediac",N,N,"",3,226,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,46
+13002,"Beauséjour","Beauséjour"," 86B","Shediac",N,N,"",3,226,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13002,"Beauséjour","Beauséjour"," 87","Shediac",N,N,"",2,431,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 87","Shediac",N,N,"",2,431,"Chapman","","Evelyne","Conservative","Conservateur",N,N,30
+13002,"Beauséjour","Beauséjour"," 87","Shediac",N,N,"",2,431,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,82
+13002,"Beauséjour","Beauséjour"," 87","Shediac",N,N,"",2,431,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13002,"Beauséjour","Beauséjour"," 88A","Shediac",N,N,"",1,263,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 88A","Shediac",N,N,"",1,263,"Chapman","","Evelyne","Conservative","Conservateur",N,N,33
+13002,"Beauséjour","Beauséjour"," 88A","Shediac",N,N,"",1,263,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,75
+13002,"Beauséjour","Beauséjour"," 88A","Shediac",N,N,"",1,263,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 88B","Shediac",N,N,"",1,263,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 88B","Shediac",N,N,"",1,263,"Chapman","","Evelyne","Conservative","Conservateur",N,N,32
+13002,"Beauséjour","Beauséjour"," 88B","Shediac",N,N,"",1,263,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,73
+13002,"Beauséjour","Beauséjour"," 88B","Shediac",N,N,"",1,263,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13002,"Beauséjour","Beauséjour"," 89","Shediac",N,N,"",3,408,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 89","Shediac",N,N,"",3,408,"Chapman","","Evelyne","Conservative","Conservateur",N,N,45
+13002,"Beauséjour","Beauséjour"," 89","Shediac",N,N,"",3,408,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,99
+13002,"Beauséjour","Beauséjour"," 89","Shediac",N,N,"",3,408,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13002,"Beauséjour","Beauséjour"," 90","Shediac",N,N,"",1,343,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 90","Shediac",N,N,"",1,343,"Chapman","","Evelyne","Conservative","Conservateur",N,N,29
+13002,"Beauséjour","Beauséjour"," 90","Shediac",N,N,"",1,343,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,95
+13002,"Beauséjour","Beauséjour"," 90","Shediac",N,N,"",1,343,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 91","Shediac",N,N,"",1,386,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 91","Shediac",N,N,"",1,386,"Chapman","","Evelyne","Conservative","Conservateur",N,N,53
+13002,"Beauséjour","Beauséjour"," 91","Shediac",N,N,"",1,386,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,92
+13002,"Beauséjour","Beauséjour"," 91","Shediac",N,N,"",1,386,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+13002,"Beauséjour","Beauséjour"," 91-1","Shediac",N,N,"",1,373,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 91-1","Shediac",N,N,"",1,373,"Chapman","","Evelyne","Conservative","Conservateur",N,N,31
+13002,"Beauséjour","Beauséjour"," 91-1","Shediac",N,N,"",1,373,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,109
+13002,"Beauséjour","Beauséjour"," 91-1","Shediac",N,N,"",1,373,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+13002,"Beauséjour","Beauséjour"," 92","Shediac",N,N,"",0,241,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 92","Shediac",N,N,"",0,241,"Chapman","","Evelyne","Conservative","Conservateur",N,N,27
+13002,"Beauséjour","Beauséjour"," 92","Shediac",N,N,"",0,241,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,54
+13002,"Beauséjour","Beauséjour"," 92","Shediac",N,N,"",0,241,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 92-1","Shediac",N,N,"",0,278,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 92-1","Shediac",N,N,"",0,278,"Chapman","","Evelyne","Conservative","Conservateur",N,N,55
+13002,"Beauséjour","Beauséjour"," 92-1","Shediac",N,N,"",0,278,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,70
+13002,"Beauséjour","Beauséjour"," 92-1","Shediac",N,N,"",0,278,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13002,"Beauséjour","Beauséjour"," 93A","Shediac Bridge",N,N,"",0,249,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 93A","Shediac Bridge",N,N,"",0,249,"Chapman","","Evelyne","Conservative","Conservateur",N,N,24
+13002,"Beauséjour","Beauséjour"," 93A","Shediac Bridge",N,N,"",0,249,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,61
+13002,"Beauséjour","Beauséjour"," 93A","Shediac Bridge",N,N,"",0,249,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13002,"Beauséjour","Beauséjour"," 93B","Shediac Bridge",N,N,"",1,256,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 93B","Shediac Bridge",N,N,"",1,256,"Chapman","","Evelyne","Conservative","Conservateur",N,N,28
+13002,"Beauséjour","Beauséjour"," 93B","Shediac Bridge",N,N,"",1,256,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,60
+13002,"Beauséjour","Beauséjour"," 93B","Shediac Bridge",N,N,"",1,256,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13002,"Beauséjour","Beauséjour"," 94","Shediac River",N,N,"",2,318,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 94","Shediac River",N,N,"",2,318,"Chapman","","Evelyne","Conservative","Conservateur",N,N,61
+13002,"Beauséjour","Beauséjour"," 94","Shediac River",N,N,"",2,318,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,67
+13002,"Beauséjour","Beauséjour"," 94","Shediac River",N,N,"",2,318,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13002,"Beauséjour","Beauséjour"," 94-1","Shediac River",N,N,"",1,283,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 94-1","Shediac River",N,N,"",1,283,"Chapman","","Evelyne","Conservative","Conservateur",N,N,52
+13002,"Beauséjour","Beauséjour"," 94-1","Shediac River",N,N,"",1,283,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,54
+13002,"Beauséjour","Beauséjour"," 94-1","Shediac River",N,N,"",1,283,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13002,"Beauséjour","Beauséjour"," 95","Saint-Philippe",N,N,"",0,393,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,21
+13002,"Beauséjour","Beauséjour"," 95","Saint-Philippe",N,N,"",0,393,"Chapman","","Evelyne","Conservative","Conservateur",N,N,72
+13002,"Beauséjour","Beauséjour"," 95","Saint-Philippe",N,N,"",0,393,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,47
+13002,"Beauséjour","Beauséjour"," 95","Saint-Philippe",N,N,"",0,393,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+13002,"Beauséjour","Beauséjour"," 96","Shediac Cape",N,N,"",1,308,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 96","Shediac Cape",N,N,"",1,308,"Chapman","","Evelyne","Conservative","Conservateur",N,N,87
+13002,"Beauséjour","Beauséjour"," 96","Shediac Cape",N,N,"",1,308,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,44
+13002,"Beauséjour","Beauséjour"," 96","Shediac Cape",N,N,"",1,308,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 96-1","Shediac Cape",N,N,"",1,296,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 96-1","Shediac Cape",N,N,"",1,296,"Chapman","","Evelyne","Conservative","Conservateur",N,N,80
+13002,"Beauséjour","Beauséjour"," 96-1","Shediac Cape",N,N,"",1,296,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,60
+13002,"Beauséjour","Beauséjour"," 96-1","Shediac Cape",N,N,"",1,296,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+13002,"Beauséjour","Beauséjour"," 97","Scoudouc",N,N,"",0,293,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 97","Scoudouc",N,N,"",0,293,"Chapman","","Evelyne","Conservative","Conservateur",N,N,59
+13002,"Beauséjour","Beauséjour"," 97","Scoudouc",N,N,"",0,293,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,68
+13002,"Beauséjour","Beauséjour"," 97","Scoudouc",N,N,"",0,293,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13002,"Beauséjour","Beauséjour"," 98","Scoudouc",N,N,"",3,385,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 98","Scoudouc",N,N,"",3,385,"Chapman","","Evelyne","Conservative","Conservateur",N,N,38
+13002,"Beauséjour","Beauséjour"," 98","Scoudouc",N,N,"",3,385,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,109
+13002,"Beauséjour","Beauséjour"," 98","Scoudouc",N,N,"",3,385,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+13002,"Beauséjour","Beauséjour"," 99","Barachois",Y,N,"",0,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 99","Barachois",Y,N,"",0,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,0
+13002,"Beauséjour","Beauséjour"," 99","Barachois",Y,N,"",0,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,0
+13002,"Beauséjour","Beauséjour"," 99","Barachois",Y,N,"",0,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13002,"Beauséjour","Beauséjour"," 100","Malakoff",N,N,"",1,179,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 100","Malakoff",N,N,"",1,179,"Chapman","","Evelyne","Conservative","Conservateur",N,N,20
+13002,"Beauséjour","Beauséjour"," 100","Malakoff",N,N,"",1,179,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,49
+13002,"Beauséjour","Beauséjour"," 100","Malakoff",N,N,"",1,179,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 101","Meadow Brook",N,N,"",0,369,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 101","Meadow Brook",N,N,"",0,369,"Chapman","","Evelyne","Conservative","Conservateur",N,N,62
+13002,"Beauséjour","Beauséjour"," 101","Meadow Brook",N,N,"",0,369,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,76
+13002,"Beauséjour","Beauséjour"," 101","Meadow Brook",N,N,"",0,369,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+13002,"Beauséjour","Beauséjour"," 102","Memramcook Est",N,N,"",1,272,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 102","Memramcook Est",N,N,"",1,272,"Chapman","","Evelyne","Conservative","Conservateur",N,N,54
+13002,"Beauséjour","Beauséjour"," 102","Memramcook Est",N,N,"",1,272,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,51
+13002,"Beauséjour","Beauséjour"," 102","Memramcook Est",N,N,"",1,272,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13002,"Beauséjour","Beauséjour"," 103","Memramcook",N,N,"",0,251,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 103","Memramcook",N,N,"",0,251,"Chapman","","Evelyne","Conservative","Conservateur",N,N,39
+13002,"Beauséjour","Beauséjour"," 103","Memramcook",N,N,"",0,251,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,51
+13002,"Beauséjour","Beauséjour"," 103","Memramcook",N,N,"",0,251,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13002,"Beauséjour","Beauséjour"," 103-1","Memramcook",N,N,"",1,237,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 103-1","Memramcook",N,N,"",1,237,"Chapman","","Evelyne","Conservative","Conservateur",N,N,47
+13002,"Beauséjour","Beauséjour"," 103-1","Memramcook",N,N,"",1,237,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,44
+13002,"Beauséjour","Beauséjour"," 103-1","Memramcook",N,N,"",1,237,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13002,"Beauséjour","Beauséjour"," 104","Memramcook",N,N,"",0,220,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 104","Memramcook",N,N,"",0,220,"Chapman","","Evelyne","Conservative","Conservateur",N,N,42
+13002,"Beauséjour","Beauséjour"," 104","Memramcook",N,N,"",0,220,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,42
+13002,"Beauséjour","Beauséjour"," 104","Memramcook",N,N,"",0,220,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13002,"Beauséjour","Beauséjour"," 105","College Bridge",N,N,"",0,321,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 105","College Bridge",N,N,"",0,321,"Chapman","","Evelyne","Conservative","Conservateur",N,N,46
+13002,"Beauséjour","Beauséjour"," 105","College Bridge",N,N,"",0,321,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,72
+13002,"Beauséjour","Beauséjour"," 105","College Bridge",N,N,"",0,321,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 105-1","College Bridge",N,N,"",2,169,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 105-1","College Bridge",N,N,"",2,169,"Chapman","","Evelyne","Conservative","Conservateur",N,N,33
+13002,"Beauséjour","Beauséjour"," 105-1","College Bridge",N,N,"",2,169,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,47
+13002,"Beauséjour","Beauséjour"," 105-1","College Bridge",N,N,"",2,169,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13002,"Beauséjour","Beauséjour"," 106","Memramcook-Ouest",N,N,"",1,346,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 106","Memramcook-Ouest",N,N,"",1,346,"Chapman","","Evelyne","Conservative","Conservateur",N,N,48
+13002,"Beauséjour","Beauséjour"," 106","Memramcook-Ouest",N,N,"",1,346,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,82
+13002,"Beauséjour","Beauséjour"," 106","Memramcook-Ouest",N,N,"",1,346,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13002,"Beauséjour","Beauséjour"," 107A","Dieppe",N,N,"",3,218,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 107A","Dieppe",N,N,"",3,218,"Chapman","","Evelyne","Conservative","Conservateur",N,N,15
+13002,"Beauséjour","Beauséjour"," 107A","Dieppe",N,N,"",3,218,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,41
+13002,"Beauséjour","Beauséjour"," 107A","Dieppe",N,N,"",3,218,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13002,"Beauséjour","Beauséjour"," 107B","Dieppe",N,N,"",1,229,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 107B","Dieppe",N,N,"",1,229,"Chapman","","Evelyne","Conservative","Conservateur",N,N,41
+13002,"Beauséjour","Beauséjour"," 107B","Dieppe",N,N,"",1,229,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,35
+13002,"Beauséjour","Beauséjour"," 107B","Dieppe",N,N,"",1,229,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 107-1A","Dieppe",N,N,"",0,236,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 107-1A","Dieppe",N,N,"",0,236,"Chapman","","Evelyne","Conservative","Conservateur",N,N,31
+13002,"Beauséjour","Beauséjour"," 107-1A","Dieppe",N,N,"",0,236,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,46
+13002,"Beauséjour","Beauséjour"," 107-1A","Dieppe",N,N,"",0,236,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13002,"Beauséjour","Beauséjour"," 107-1B","Dieppe",N,N,"",2,237,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 107-1B","Dieppe",N,N,"",2,237,"Chapman","","Evelyne","Conservative","Conservateur",N,N,25
+13002,"Beauséjour","Beauséjour"," 107-1B","Dieppe",N,N,"",2,237,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,59
+13002,"Beauséjour","Beauséjour"," 107-1B","Dieppe",N,N,"",2,237,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13002,"Beauséjour","Beauséjour"," 108","Dieppe",N,N,"",0,368,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 108","Dieppe",N,N,"",0,368,"Chapman","","Evelyne","Conservative","Conservateur",N,N,28
+13002,"Beauséjour","Beauséjour"," 108","Dieppe",N,N,"",0,368,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,90
+13002,"Beauséjour","Beauséjour"," 108","Dieppe",N,N,"",0,368,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+13002,"Beauséjour","Beauséjour"," 109","Dieppe",N,N,"",3,472,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,16
+13002,"Beauséjour","Beauséjour"," 109","Dieppe",N,N,"",3,472,"Chapman","","Evelyne","Conservative","Conservateur",N,N,74
+13002,"Beauséjour","Beauséjour"," 109","Dieppe",N,N,"",3,472,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,109
+13002,"Beauséjour","Beauséjour"," 109","Dieppe",N,N,"",3,472,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+13002,"Beauséjour","Beauséjour"," 109-1","Dieppe",N,N,"",1,397,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 109-1","Dieppe",N,N,"",1,397,"Chapman","","Evelyne","Conservative","Conservateur",N,N,62
+13002,"Beauséjour","Beauséjour"," 109-1","Dieppe",N,N,"",1,397,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,82
+13002,"Beauséjour","Beauséjour"," 109-1","Dieppe",N,N,"",1,397,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+13002,"Beauséjour","Beauséjour"," 110","Dieppe",N,N,"",4,296,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 110","Dieppe",N,N,"",4,296,"Chapman","","Evelyne","Conservative","Conservateur",N,N,46
+13002,"Beauséjour","Beauséjour"," 110","Dieppe",N,N,"",4,296,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,56
+13002,"Beauséjour","Beauséjour"," 110","Dieppe",N,N,"",4,296,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 111","Dieppe",N,N,"",5,383,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 111","Dieppe",N,N,"",5,383,"Chapman","","Evelyne","Conservative","Conservateur",N,N,45
+13002,"Beauséjour","Beauséjour"," 111","Dieppe",N,N,"",5,383,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,62
+13002,"Beauséjour","Beauséjour"," 111","Dieppe",N,N,"",5,383,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+13002,"Beauséjour","Beauséjour"," 111-1","Dieppe",N,N,"",2,277,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 111-1","Dieppe",N,N,"",2,277,"Chapman","","Evelyne","Conservative","Conservateur",N,N,34
+13002,"Beauséjour","Beauséjour"," 111-1","Dieppe",N,N,"",2,277,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,51
+13002,"Beauséjour","Beauséjour"," 111-1","Dieppe",N,N,"",2,277,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+13002,"Beauséjour","Beauséjour"," 112","Pré-d'en-Haut",N,N,"",2,369,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 112","Pré-d'en-Haut",N,N,"",2,369,"Chapman","","Evelyne","Conservative","Conservateur",N,N,60
+13002,"Beauséjour","Beauséjour"," 112","Pré-d'en-Haut",N,N,"",2,369,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,142
+13002,"Beauséjour","Beauséjour"," 112","Pré-d'en-Haut",N,N,"",2,369,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 112-1","Pré-d'en-Haut",N,N,"",0,329,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 112-1","Pré-d'en-Haut",N,N,"",0,329,"Chapman","","Evelyne","Conservative","Conservateur",N,N,38
+13002,"Beauséjour","Beauséjour"," 112-1","Pré-d'en-Haut",N,N,"",0,329,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,94
+13002,"Beauséjour","Beauséjour"," 112-1","Pré-d'en-Haut",N,N,"",0,329,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+13002,"Beauséjour","Beauséjour"," 113","McGinleys Corner",N,N,"",1,405,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 113","McGinleys Corner",N,N,"",1,405,"Chapman","","Evelyne","Conservative","Conservateur",N,N,69
+13002,"Beauséjour","Beauséjour"," 113","McGinleys Corner",N,N,"",1,405,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,112
+13002,"Beauséjour","Beauséjour"," 113","McGinleys Corner",N,N,"",1,405,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13002,"Beauséjour","Beauséjour"," 113-1","McGinleys Corner",N,N,"",1,382,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 113-1","McGinleys Corner",N,N,"",1,382,"Chapman","","Evelyne","Conservative","Conservateur",N,N,51
+13002,"Beauséjour","Beauséjour"," 113-1","McGinleys Corner",N,N,"",1,382,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,70
+13002,"Beauséjour","Beauséjour"," 113-1","McGinleys Corner",N,N,"",1,382,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+13002,"Beauséjour","Beauséjour"," 114","Memramcook",N,N,"",0,263,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 114","Memramcook",N,N,"",0,263,"Chapman","","Evelyne","Conservative","Conservateur",N,N,34
+13002,"Beauséjour","Beauséjour"," 114","Memramcook",N,N,"",0,263,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,71
+13002,"Beauséjour","Beauséjour"," 114","Memramcook",N,N,"",0,263,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13002,"Beauséjour","Beauséjour"," 115","Cormier Cove",N,N,"",2,394,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,13
+13002,"Beauséjour","Beauséjour"," 115","Cormier Cove",N,N,"",2,394,"Chapman","","Evelyne","Conservative","Conservateur",N,N,68
+13002,"Beauséjour","Beauséjour"," 115","Cormier Cove",N,N,"",2,394,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,105
+13002,"Beauséjour","Beauséjour"," 115","Cormier Cove",N,N,"",2,394,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13002,"Beauséjour","Beauséjour"," 116","Upper Dorchester",N,N,"",0,367,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,15
+13002,"Beauséjour","Beauséjour"," 116","Upper Dorchester",N,N,"",0,367,"Chapman","","Evelyne","Conservative","Conservateur",N,N,94
+13002,"Beauséjour","Beauséjour"," 116","Upper Dorchester",N,N,"",0,367,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,37
+13002,"Beauséjour","Beauséjour"," 116","Upper Dorchester",N,N,"",0,367,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 117","Dorchester",N,N,"",0,365,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 117","Dorchester",N,N,"",0,365,"Chapman","","Evelyne","Conservative","Conservateur",N,N,122
+13002,"Beauséjour","Beauséjour"," 117","Dorchester",N,N,"",0,365,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,40
+13002,"Beauséjour","Beauséjour"," 117","Dorchester",N,N,"",0,365,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+13002,"Beauséjour","Beauséjour"," 118","Grand-Barachois",N,N,"",1,422,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 118","Grand-Barachois",N,N,"",1,422,"Chapman","","Evelyne","Conservative","Conservateur",N,N,62
+13002,"Beauséjour","Beauséjour"," 118","Grand-Barachois",N,N,"",1,422,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,108
+13002,"Beauséjour","Beauséjour"," 118","Grand-Barachois",N,N,"",1,422,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+13002,"Beauséjour","Beauséjour"," 119A","Cap-Pele",N,N,"",0,293,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 119A","Cap-Pele",N,N,"",0,293,"Chapman","","Evelyne","Conservative","Conservateur",N,N,57
+13002,"Beauséjour","Beauséjour"," 119A","Cap-Pele",N,N,"",0,293,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,75
+13002,"Beauséjour","Beauséjour"," 119A","Cap-Pele",N,N,"",0,293,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13002,"Beauséjour","Beauséjour"," 119B","Cap-Pele",N,N,"",2,236,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 119B","Cap-Pele",N,N,"",2,236,"Chapman","","Evelyne","Conservative","Conservateur",N,N,22
+13002,"Beauséjour","Beauséjour"," 119B","Cap-Pele",N,N,"",2,236,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,75
+13002,"Beauséjour","Beauséjour"," 119B","Cap-Pele",N,N,"",2,236,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13002,"Beauséjour","Beauséjour"," 119-1","Cap-Pele",N,N,"",3,185,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 119-1","Cap-Pele",N,N,"",3,185,"Chapman","","Evelyne","Conservative","Conservateur",N,N,35
+13002,"Beauséjour","Beauséjour"," 119-1","Cap-Pele",N,N,"",3,185,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,34
+13002,"Beauséjour","Beauséjour"," 119-1","Cap-Pele",N,N,"",3,185,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13002,"Beauséjour","Beauséjour"," 120","Cap-Pele",N,N,"",3,159,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 120","Cap-Pele",N,N,"",3,159,"Chapman","","Evelyne","Conservative","Conservateur",N,N,33
+13002,"Beauséjour","Beauséjour"," 120","Cap-Pele",N,N,"",3,159,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,40
+13002,"Beauséjour","Beauséjour"," 120","Cap-Pele",N,N,"",3,159,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13002,"Beauséjour","Beauséjour"," 120-1","Cap-Pele",N,N,"",0,215,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 120-1","Cap-Pele",N,N,"",0,215,"Chapman","","Evelyne","Conservative","Conservateur",N,N,32
+13002,"Beauséjour","Beauséjour"," 120-1","Cap-Pele",N,N,"",0,215,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,54
+13002,"Beauséjour","Beauséjour"," 120-1","Cap-Pele",N,N,"",0,215,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13002,"Beauséjour","Beauséjour"," 121","Cap-Pele",N,N,"",0,270,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 121","Cap-Pele",N,N,"",0,270,"Chapman","","Evelyne","Conservative","Conservateur",N,N,36
+13002,"Beauséjour","Beauséjour"," 121","Cap-Pele",N,N,"",0,270,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,56
+13002,"Beauséjour","Beauséjour"," 121","Cap-Pele",N,N,"",0,270,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 122","Cap-Pele",N,N,"",1,333,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 122","Cap-Pele",N,N,"",1,333,"Chapman","","Evelyne","Conservative","Conservateur",N,N,54
+13002,"Beauséjour","Beauséjour"," 122","Cap-Pele",N,N,"",1,333,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,100
+13002,"Beauséjour","Beauséjour"," 122","Cap-Pele",N,N,"",1,333,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13002,"Beauséjour","Beauséjour"," 123","Cap-Pele",N,N,"",0,182,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 123","Cap-Pele",N,N,"",0,182,"Chapman","","Evelyne","Conservative","Conservateur",N,N,20
+13002,"Beauséjour","Beauséjour"," 123","Cap-Pele",N,N,"",0,182,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,59
+13002,"Beauséjour","Beauséjour"," 123","Cap-Pele",N,N,"",0,182,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13002,"Beauséjour","Beauséjour"," 124A","Trois-Ruisseaux",N,N,"",1,235,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 124A","Trois-Ruisseaux",N,N,"",1,235,"Chapman","","Evelyne","Conservative","Conservateur",N,N,31
+13002,"Beauséjour","Beauséjour"," 124A","Trois-Ruisseaux",N,N,"",1,235,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,55
+13002,"Beauséjour","Beauséjour"," 124A","Trois-Ruisseaux",N,N,"",1,235,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13002,"Beauséjour","Beauséjour"," 124B","Trois-Ruisseaux",N,N,"",0,218,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 124B","Trois-Ruisseaux",N,N,"",0,218,"Chapman","","Evelyne","Conservative","Conservateur",N,N,23
+13002,"Beauséjour","Beauséjour"," 124B","Trois-Ruisseaux",N,N,"",0,218,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,46
+13002,"Beauséjour","Beauséjour"," 124B","Trois-Ruisseaux",N,N,"",0,218,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13002,"Beauséjour","Beauséjour"," 125","Petit-Cap",N,N,"",2,365,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 125","Petit-Cap",N,N,"",2,365,"Chapman","","Evelyne","Conservative","Conservateur",N,N,63
+13002,"Beauséjour","Beauséjour"," 125","Petit-Cap",N,N,"",2,365,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,97
+13002,"Beauséjour","Beauséjour"," 125","Petit-Cap",N,N,"",2,365,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+13002,"Beauséjour","Beauséjour"," 126","Haute-Aboujagane",N,N,"",2,428,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 126","Haute-Aboujagane",N,N,"",2,428,"Chapman","","Evelyne","Conservative","Conservateur",N,N,63
+13002,"Beauséjour","Beauséjour"," 126","Haute-Aboujagane",N,N,"",2,428,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,149
+13002,"Beauséjour","Beauséjour"," 126","Haute-Aboujagane",N,N,"",2,428,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+13002,"Beauséjour","Beauséjour"," 127A","Cormier-Village",N,N,"",1,233,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 127A","Cormier-Village",N,N,"",1,233,"Chapman","","Evelyne","Conservative","Conservateur",N,N,31
+13002,"Beauséjour","Beauséjour"," 127A","Cormier-Village",N,N,"",1,233,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,76
+13002,"Beauséjour","Beauséjour"," 127A","Cormier-Village",N,N,"",1,233,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13002,"Beauséjour","Beauséjour"," 127B","Cormier-Village",N,N,"",0,244,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 127B","Cormier-Village",N,N,"",0,244,"Chapman","","Evelyne","Conservative","Conservateur",N,N,38
+13002,"Beauséjour","Beauséjour"," 127B","Cormier-Village",N,N,"",0,244,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,93
+13002,"Beauséjour","Beauséjour"," 127B","Cormier-Village",N,N,"",0,244,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 128","Saint-André--LeBlanc",N,N,"",0,430,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,21
+13002,"Beauséjour","Beauséjour"," 128","Saint-André--LeBlanc",N,N,"",0,430,"Chapman","","Evelyne","Conservative","Conservateur",N,N,68
+13002,"Beauséjour","Beauséjour"," 128","Saint-André--LeBlanc",N,N,"",0,430,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,132
+13002,"Beauséjour","Beauséjour"," 128","Saint-André--LeBlanc",N,N,"",0,430,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+13002,"Beauséjour","Beauséjour"," 129","Shemogue",N,N,"",0,328,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 129","Shemogue",N,N,"",0,328,"Chapman","","Evelyne","Conservative","Conservateur",N,N,63
+13002,"Beauséjour","Beauséjour"," 129","Shemogue",N,N,"",0,328,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,72
+13002,"Beauséjour","Beauséjour"," 129","Shemogue",N,N,"",0,328,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+13002,"Beauséjour","Beauséjour"," 130","Murray Corner",N,N,"",0,110,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 130","Murray Corner",N,N,"",0,110,"Chapman","","Evelyne","Conservative","Conservateur",N,N,27
+13002,"Beauséjour","Beauséjour"," 130","Murray Corner",N,N,"",0,110,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,19
+13002,"Beauséjour","Beauséjour"," 130","Murray Corner",N,N,"",0,110,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13002,"Beauséjour","Beauséjour"," 131","Cape Tormentine",N,N,"",0,304,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 131","Cape Tormentine",N,N,"",0,304,"Chapman","","Evelyne","Conservative","Conservateur",N,N,95
+13002,"Beauséjour","Beauséjour"," 131","Cape Tormentine",N,N,"",0,304,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,43
+13002,"Beauséjour","Beauséjour"," 131","Cape Tormentine",N,N,"",0,304,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 132","Bayside",N,N,"",0,360,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 132","Bayside",N,N,"",0,360,"Chapman","","Evelyne","Conservative","Conservateur",N,N,97
+13002,"Beauséjour","Beauséjour"," 132","Bayside",N,N,"",0,360,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,36
+13002,"Beauséjour","Beauséjour"," 132","Bayside",N,N,"",0,360,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13002,"Beauséjour","Beauséjour"," 133","Cape Tormentine",N,N,"",1,231,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 133","Cape Tormentine",N,N,"",1,231,"Chapman","","Evelyne","Conservative","Conservateur",N,N,73
+13002,"Beauséjour","Beauséjour"," 133","Cape Tormentine",N,N,"",1,231,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,14
+13002,"Beauséjour","Beauséjour"," 133","Cape Tormentine",N,N,"",1,231,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13002,"Beauséjour","Beauséjour"," 134","Port Elgin",Y,N,"",0,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,0
+13002,"Beauséjour","Beauséjour"," 134","Port Elgin",Y,N,"",0,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,0
+13002,"Beauséjour","Beauséjour"," 134","Port Elgin",Y,N,"",0,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,0
+13002,"Beauséjour","Beauséjour"," 134","Port Elgin",Y,N,"",0,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13002,"Beauséjour","Beauséjour"," 135","Port Elgin",N,N,"",2,213,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 135","Port Elgin",N,N,"",2,213,"Chapman","","Evelyne","Conservative","Conservateur",N,N,48
+13002,"Beauséjour","Beauséjour"," 135","Port Elgin",N,N,"",2,213,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,14
+13002,"Beauséjour","Beauséjour"," 135","Port Elgin",N,N,"",2,213,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13002,"Beauséjour","Beauséjour"," 136","Midgic",N,N,"",2,402,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 136","Midgic",N,N,"",2,402,"Chapman","","Evelyne","Conservative","Conservateur",N,N,117
+13002,"Beauséjour","Beauséjour"," 136","Midgic",N,N,"",2,402,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,43
+13002,"Beauséjour","Beauséjour"," 136","Midgic",N,N,"",2,402,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13002,"Beauséjour","Beauséjour"," 137","Sackville",N,N,"",1,275,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 137","Sackville",N,N,"",1,275,"Chapman","","Evelyne","Conservative","Conservateur",N,N,49
+13002,"Beauséjour","Beauséjour"," 137","Sackville",N,N,"",1,275,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,39
+13002,"Beauséjour","Beauséjour"," 137","Sackville",N,N,"",1,275,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13002,"Beauséjour","Beauséjour"," 137-1","Sackville",N,N,"",2,264,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,2
+13002,"Beauséjour","Beauséjour"," 137-1","Sackville",N,N,"",2,264,"Chapman","","Evelyne","Conservative","Conservateur",N,N,57
+13002,"Beauséjour","Beauséjour"," 137-1","Sackville",N,N,"",2,264,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,52
+13002,"Beauséjour","Beauséjour"," 137-1","Sackville",N,N,"",2,264,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13002,"Beauséjour","Beauséjour"," 138","Sackville",N,N,"",2,258,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 138","Sackville",N,N,"",2,258,"Chapman","","Evelyne","Conservative","Conservateur",N,N,47
+13002,"Beauséjour","Beauséjour"," 138","Sackville",N,N,"",2,258,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,32
+13002,"Beauséjour","Beauséjour"," 138","Sackville",N,N,"",2,258,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 139A","Sackville",N,N,"",2,254,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 139A","Sackville",N,N,"",2,254,"Chapman","","Evelyne","Conservative","Conservateur",N,N,51
+13002,"Beauséjour","Beauséjour"," 139A","Sackville",N,N,"",2,254,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,30
+13002,"Beauséjour","Beauséjour"," 139A","Sackville",N,N,"",2,254,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13002,"Beauséjour","Beauséjour"," 139B","Sackville",N,N,"",0,205,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 139B","Sackville",N,N,"",0,205,"Chapman","","Evelyne","Conservative","Conservateur",N,N,39
+13002,"Beauséjour","Beauséjour"," 139B","Sackville",N,N,"",0,205,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,17
+13002,"Beauséjour","Beauséjour"," 139B","Sackville",N,N,"",0,205,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13002,"Beauséjour","Beauséjour"," 140","Sackville",N,N,"",1,380,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,15
+13002,"Beauséjour","Beauséjour"," 140","Sackville",N,N,"",1,380,"Chapman","","Evelyne","Conservative","Conservateur",N,N,47
+13002,"Beauséjour","Beauséjour"," 140","Sackville",N,N,"",1,380,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,53
+13002,"Beauséjour","Beauséjour"," 140","Sackville",N,N,"",1,380,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+13002,"Beauséjour","Beauséjour"," 141","Sackville",N,N,"",1,421,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,18
+13002,"Beauséjour","Beauséjour"," 141","Sackville",N,N,"",1,421,"Chapman","","Evelyne","Conservative","Conservateur",N,N,44
+13002,"Beauséjour","Beauséjour"," 141","Sackville",N,N,"",1,421,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,66
+13002,"Beauséjour","Beauséjour"," 141","Sackville",N,N,"",1,421,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+13002,"Beauséjour","Beauséjour"," 142","Sackville",N,N,"",1,340,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 142","Sackville",N,N,"",1,340,"Chapman","","Evelyne","Conservative","Conservateur",N,N,62
+13002,"Beauséjour","Beauséjour"," 142","Sackville",N,N,"",1,340,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,32
+13002,"Beauséjour","Beauséjour"," 142","Sackville",N,N,"",1,340,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+13002,"Beauséjour","Beauséjour"," 143","Sackville",N,N,"",0,285,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 143","Sackville",N,N,"",0,285,"Chapman","","Evelyne","Conservative","Conservateur",N,N,50
+13002,"Beauséjour","Beauséjour"," 143","Sackville",N,N,"",0,285,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,41
+13002,"Beauséjour","Beauséjour"," 143","Sackville",N,N,"",0,285,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 144","Sackville",N,N,"",0,76,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," 144","Sackville",N,N,"",0,76,"Chapman","","Evelyne","Conservative","Conservateur",N,N,0
+13002,"Beauséjour","Beauséjour"," 144","Sackville",N,N,"",0,76,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,6
+13002,"Beauséjour","Beauséjour"," 144","Sackville",N,N,"",0,76,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13002,"Beauséjour","Beauséjour"," 145A","Sackville",N,N,"",0,239,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 145A","Sackville",N,N,"",0,239,"Chapman","","Evelyne","Conservative","Conservateur",N,N,20
+13002,"Beauséjour","Beauséjour"," 145A","Sackville",N,N,"",0,239,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,40
+13002,"Beauséjour","Beauséjour"," 145A","Sackville",N,N,"",0,239,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13002,"Beauséjour","Beauséjour"," 145B","Sackville",N,N,"",2,213,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 145B","Sackville",N,N,"",2,213,"Chapman","","Evelyne","Conservative","Conservateur",N,N,13
+13002,"Beauséjour","Beauséjour"," 145B","Sackville",N,N,"",2,213,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,34
+13002,"Beauséjour","Beauséjour"," 145B","Sackville",N,N,"",2,213,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13002,"Beauséjour","Beauséjour"," 146","Sackville",N,N,"",0,331,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 146","Sackville",N,N,"",0,331,"Chapman","","Evelyne","Conservative","Conservateur",N,N,36
+13002,"Beauséjour","Beauséjour"," 146","Sackville",N,N,"",0,331,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,47
+13002,"Beauséjour","Beauséjour"," 146","Sackville",N,N,"",0,331,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+13002,"Beauséjour","Beauséjour"," 147","Sackville",N,N,"",0,403,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 147","Sackville",N,N,"",0,403,"Chapman","","Evelyne","Conservative","Conservateur",N,N,82
+13002,"Beauséjour","Beauséjour"," 147","Sackville",N,N,"",0,403,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,47
+13002,"Beauséjour","Beauséjour"," 147","Sackville",N,N,"",0,403,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+13002,"Beauséjour","Beauséjour"," 148","Sackville",N,N,"",1,293,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,17
+13002,"Beauséjour","Beauséjour"," 148","Sackville",N,N,"",1,293,"Chapman","","Evelyne","Conservative","Conservateur",N,N,32
+13002,"Beauséjour","Beauséjour"," 148","Sackville",N,N,"",1,293,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,38
+13002,"Beauséjour","Beauséjour"," 148","Sackville",N,N,"",1,293,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13002,"Beauséjour","Beauséjour"," 149","Sackville",N,N,"",4,381,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 149","Sackville",N,N,"",4,381,"Chapman","","Evelyne","Conservative","Conservateur",N,N,92
+13002,"Beauséjour","Beauséjour"," 149","Sackville",N,N,"",4,381,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,21
+13002,"Beauséjour","Beauséjour"," 149","Sackville",N,N,"",4,381,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13002,"Beauséjour","Beauséjour"," 150","British Settlement",N,N,"",3,289,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 150","British Settlement",N,N,"",3,289,"Chapman","","Evelyne","Conservative","Conservateur",N,N,93
+13002,"Beauséjour","Beauséjour"," 150","British Settlement",N,N,"",3,289,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,38
+13002,"Beauséjour","Beauséjour"," 150","British Settlement",N,N,"",3,289,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13002,"Beauséjour","Beauséjour"," 150-1","British Settlement",N,N,"",1,209,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 150-1","British Settlement",N,N,"",1,209,"Chapman","","Evelyne","Conservative","Conservateur",N,N,82
+13002,"Beauséjour","Beauséjour"," 150-1","British Settlement",N,N,"",1,209,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,8
+13002,"Beauséjour","Beauséjour"," 150-1","British Settlement",N,N,"",1,209,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13002,"Beauséjour","Beauséjour"," 151","Baie-Verte",N,N,"",1,242,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 151","Baie-Verte",N,N,"",1,242,"Chapman","","Evelyne","Conservative","Conservateur",N,N,73
+13002,"Beauséjour","Beauséjour"," 151","Baie-Verte",N,N,"",1,242,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,44
+13002,"Beauséjour","Beauséjour"," 151","Baie-Verte",N,N,"",1,242,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13002,"Beauséjour","Beauséjour"," 152","Pointe-de-Bute",N,N,"",0,212,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 152","Pointe-de-Bute",N,N,"",0,212,"Chapman","","Evelyne","Conservative","Conservateur",N,N,60
+13002,"Beauséjour","Beauséjour"," 152","Pointe-de-Bute",N,N,"",0,212,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,30
+13002,"Beauséjour","Beauséjour"," 152","Pointe-de-Bute",N,N,"",0,212,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13002,"Beauséjour","Beauséjour"," 152-1","Pointe-de-Bute",N,N,"",2,268,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 152-1","Pointe-de-Bute",N,N,"",2,268,"Chapman","","Evelyne","Conservative","Conservateur",N,N,67
+13002,"Beauséjour","Beauséjour"," 152-1","Pointe-de-Bute",N,N,"",2,268,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,39
+13002,"Beauséjour","Beauséjour"," 152-1","Pointe-de-Bute",N,N,"",2,268,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13002,"Beauséjour","Beauséjour"," 500","Mobile poll/Bureau itinérant",N,N,"",4,179,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 500","Mobile poll/Bureau itinérant",N,N,"",4,179,"Chapman","","Evelyne","Conservative","Conservateur",N,N,33
+13002,"Beauséjour","Beauséjour"," 500","Mobile poll/Bureau itinérant",N,N,"",4,179,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,73
+13002,"Beauséjour","Beauséjour"," 500","Mobile poll/Bureau itinérant",N,N,"",4,179,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13002,"Beauséjour","Beauséjour"," 501","Mobile poll/Bureau itinérant",N,N,"",0,120,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 501","Mobile poll/Bureau itinérant",N,N,"",0,120,"Chapman","","Evelyne","Conservative","Conservateur",N,N,19
+13002,"Beauséjour","Beauséjour"," 501","Mobile poll/Bureau itinérant",N,N,"",0,120,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,59
+13002,"Beauséjour","Beauséjour"," 501","Mobile poll/Bureau itinérant",N,N,"",0,120,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13002,"Beauséjour","Beauséjour"," 502","Mobile poll/Bureau itinérant",N,N,"",3,113,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,5
+13002,"Beauséjour","Beauséjour"," 502","Mobile poll/Bureau itinérant",N,N,"",3,113,"Chapman","","Evelyne","Conservative","Conservateur",N,N,22
+13002,"Beauséjour","Beauséjour"," 502","Mobile poll/Bureau itinérant",N,N,"",3,113,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,90
+13002,"Beauséjour","Beauséjour"," 502","Mobile poll/Bureau itinérant",N,N,"",3,113,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13002,"Beauséjour","Beauséjour"," 503","Mobile poll/Bureau itinérant",N,N,"",6,247,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 503","Mobile poll/Bureau itinérant",N,N,"",6,247,"Chapman","","Evelyne","Conservative","Conservateur",N,N,18
+13002,"Beauséjour","Beauséjour"," 503","Mobile poll/Bureau itinérant",N,N,"",6,247,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,55
+13002,"Beauséjour","Beauséjour"," 503","Mobile poll/Bureau itinérant",N,N,"",6,247,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13002,"Beauséjour","Beauséjour"," 504","Mobile poll/Bureau itinérant",N,N,"",0,214,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 504","Mobile poll/Bureau itinérant",N,N,"",0,214,"Chapman","","Evelyne","Conservative","Conservateur",N,N,37
+13002,"Beauséjour","Beauséjour"," 504","Mobile poll/Bureau itinérant",N,N,"",0,214,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,60
+13002,"Beauséjour","Beauséjour"," 504","Mobile poll/Bureau itinérant",N,N,"",0,214,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13002,"Beauséjour","Beauséjour"," 505","Mobile poll/Bureau itinérant",N,N,"",3,152,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,4
+13002,"Beauséjour","Beauséjour"," 505","Mobile poll/Bureau itinérant",N,N,"",3,152,"Chapman","","Evelyne","Conservative","Conservateur",N,N,15
+13002,"Beauséjour","Beauséjour"," 505","Mobile poll/Bureau itinérant",N,N,"",3,152,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,74
+13002,"Beauséjour","Beauséjour"," 505","Mobile poll/Bureau itinérant",N,N,"",3,152,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13002,"Beauséjour","Beauséjour"," 506","Mobile poll/Bureau itinérant",N,N,"",0,92,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,6
+13002,"Beauséjour","Beauséjour"," 506","Mobile poll/Bureau itinérant",N,N,"",0,92,"Chapman","","Evelyne","Conservative","Conservateur",N,N,16
+13002,"Beauséjour","Beauséjour"," 506","Mobile poll/Bureau itinérant",N,N,"",0,92,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,37
+13002,"Beauséjour","Beauséjour"," 506","Mobile poll/Bureau itinérant",N,N,"",0,92,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13002,"Beauséjour","Beauséjour"," 600","Saint-Louis",N,N,"",10,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,17
+13002,"Beauséjour","Beauséjour"," 600","Saint-Louis",N,N,"",10,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,178
+13002,"Beauséjour","Beauséjour"," 600","Saint-Louis",N,N,"",10,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,216
+13002,"Beauséjour","Beauséjour"," 600","Saint-Louis",N,N,"",10,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+13002,"Beauséjour","Beauséjour"," 601","Richibucto",N,N,"",7,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,11
+13002,"Beauséjour","Beauséjour"," 601","Richibucto",N,N,"",7,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,71
+13002,"Beauséjour","Beauséjour"," 601","Richibucto",N,N,"",7,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,144
+13002,"Beauséjour","Beauséjour"," 601","Richibucto",N,N,"",7,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13002,"Beauséjour","Beauséjour"," 602","Rexton",N,N,"",5,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,19
+13002,"Beauséjour","Beauséjour"," 602","Rexton",N,N,"",5,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,187
+13002,"Beauséjour","Beauséjour"," 602","Rexton",N,N,"",5,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,183
+13002,"Beauséjour","Beauséjour"," 602","Rexton",N,N,"",5,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+13002,"Beauséjour","Beauséjour"," 603","Bouctouche",N,N,"",1,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,20
+13002,"Beauséjour","Beauséjour"," 603","Bouctouche",N,N,"",1,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,309
+13002,"Beauséjour","Beauséjour"," 603","Bouctouche",N,N,"",1,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,364
+13002,"Beauséjour","Beauséjour"," 603","Bouctouche",N,N,"",1,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,121
+13002,"Beauséjour","Beauséjour"," 604","Sainte-Marie",N,N,"",2,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,7
+13002,"Beauséjour","Beauséjour"," 604","Sainte-Marie",N,N,"",2,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,75
+13002,"Beauséjour","Beauséjour"," 604","Sainte-Marie",N,N,"",2,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,111
+13002,"Beauséjour","Beauséjour"," 604","Sainte-Marie",N,N,"",2,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13002,"Beauséjour","Beauséjour"," 605","Saint-Antoine",N,N,"",8,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,29
+13002,"Beauséjour","Beauséjour"," 605","Saint-Antoine",N,N,"",8,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,215
+13002,"Beauséjour","Beauséjour"," 605","Saint-Antoine",N,N,"",8,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,205
+13002,"Beauséjour","Beauséjour"," 605","Saint-Antoine",N,N,"",8,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13002,"Beauséjour","Beauséjour"," 606","Cocagne",N,N,"",5,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,10
+13002,"Beauséjour","Beauséjour"," 606","Cocagne",N,N,"",5,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,95
+13002,"Beauséjour","Beauséjour"," 606","Cocagne",N,N,"",5,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,206
+13002,"Beauséjour","Beauséjour"," 606","Cocagne",N,N,"",5,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13002,"Beauséjour","Beauséjour"," 607","Grande-Digue",N,N,"",1,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,18
+13002,"Beauséjour","Beauséjour"," 607","Grande-Digue",N,N,"",1,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,152
+13002,"Beauséjour","Beauséjour"," 607","Grande-Digue",N,N,"",1,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,307
+13002,"Beauséjour","Beauséjour"," 607","Grande-Digue",N,N,"",1,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+13002,"Beauséjour","Beauséjour"," 608","Magnetic Hill",N,N,"",1,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 608","Magnetic Hill",N,N,"",1,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,216
+13002,"Beauséjour","Beauséjour"," 608","Magnetic Hill",N,N,"",1,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,45
+13002,"Beauséjour","Beauséjour"," 608","Magnetic Hill",N,N,"",1,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13002,"Beauséjour","Beauséjour"," 609","Irishtown",N,N,"",1,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,16
+13002,"Beauséjour","Beauséjour"," 609","Irishtown",N,N,"",1,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,161
+13002,"Beauséjour","Beauséjour"," 609","Irishtown",N,N,"",1,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,98
+13002,"Beauséjour","Beauséjour"," 609","Irishtown",N,N,"",1,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13002,"Beauséjour","Beauséjour"," 610","Lakeville",N,N,"",3,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,8
+13002,"Beauséjour","Beauséjour"," 610","Lakeville",N,N,"",3,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,95
+13002,"Beauséjour","Beauséjour"," 610","Lakeville",N,N,"",3,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,60
+13002,"Beauséjour","Beauséjour"," 610","Lakeville",N,N,"",3,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+13002,"Beauséjour","Beauséjour"," 611","Shediac-Ouest",N,N,"",4,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,18
+13002,"Beauséjour","Beauséjour"," 611","Shediac-Ouest",N,N,"",4,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,105
+13002,"Beauséjour","Beauséjour"," 611","Shediac-Ouest",N,N,"",4,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,296
+13002,"Beauséjour","Beauséjour"," 611","Shediac-Ouest",N,N,"",4,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+13002,"Beauséjour","Beauséjour"," 612","Shediac-Est",N,N,"",7,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,21
+13002,"Beauséjour","Beauséjour"," 612","Shediac-Est",N,N,"",7,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,137
+13002,"Beauséjour","Beauséjour"," 612","Shediac-Est",N,N,"",7,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,447
+13002,"Beauséjour","Beauséjour"," 612","Shediac-Est",N,N,"",7,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+13002,"Beauséjour","Beauséjour"," 613","Dieppe",N,N,"",6,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,18
+13002,"Beauséjour","Beauséjour"," 613","Dieppe",N,N,"",6,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,114
+13002,"Beauséjour","Beauséjour"," 613","Dieppe",N,N,"",6,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,249
+13002,"Beauséjour","Beauséjour"," 613","Dieppe",N,N,"",6,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+13002,"Beauséjour","Beauséjour"," 614","Memramcook",N,N,"",9,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,12
+13002,"Beauséjour","Beauséjour"," 614","Memramcook",N,N,"",9,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,109
+13002,"Beauséjour","Beauséjour"," 614","Memramcook",N,N,"",9,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,315
+13002,"Beauséjour","Beauséjour"," 614","Memramcook",N,N,"",9,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+13002,"Beauséjour","Beauséjour"," 615","Sackville",N,N,"",2,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,24
+13002,"Beauséjour","Beauséjour"," 615","Sackville",N,N,"",2,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,209
+13002,"Beauséjour","Beauséjour"," 615","Sackville",N,N,"",2,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,239
+13002,"Beauséjour","Beauséjour"," 615","Sackville",N,N,"",2,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+13002,"Beauséjour","Beauséjour"," 616","Sackville",N,N,"",4,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,18
+13002,"Beauséjour","Beauséjour"," 616","Sackville",N,N,"",4,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,129
+13002,"Beauséjour","Beauséjour"," 616","Sackville",N,N,"",4,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,133
+13002,"Beauséjour","Beauséjour"," 616","Sackville",N,N,"",4,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+13002,"Beauséjour","Beauséjour"," 617","Port Elgin",N,N,"",4,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,9
+13002,"Beauséjour","Beauséjour"," 617","Port Elgin",N,N,"",4,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,73
+13002,"Beauséjour","Beauséjour"," 617","Port Elgin",N,N,"",4,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,50
+13002,"Beauséjour","Beauséjour"," 617","Port Elgin",N,N,"",4,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13002,"Beauséjour","Beauséjour"," 618","Cap-Pele",N,N,"",11,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,19
+13002,"Beauséjour","Beauséjour"," 618","Cap-Pele",N,N,"",11,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,139
+13002,"Beauséjour","Beauséjour"," 618","Cap-Pele",N,N,"",11,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,293
+13002,"Beauséjour","Beauséjour"," 618","Cap-Pele",N,N,"",11,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+13002,"Beauséjour","Beauséjour"," 619","Grand-Barachois",N,N,"",4,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,31
+13002,"Beauséjour","Beauséjour"," 619","Grand-Barachois",N,N,"",4,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,92
+13002,"Beauséjour","Beauséjour"," 619","Grand-Barachois",N,N,"",4,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,258
+13002,"Beauséjour","Beauséjour"," 619","Grand-Barachois",N,N,"",4,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+13002,"Beauséjour","Beauséjour"," 620","Memramcook",N,N,"",3,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,15
+13002,"Beauséjour","Beauséjour"," 620","Memramcook",N,N,"",3,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,107
+13002,"Beauséjour","Beauséjour"," 620","Memramcook",N,N,"",3,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,177
+13002,"Beauséjour","Beauséjour"," 620","Memramcook",N,N,"",3,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+13002,"Beauséjour","Beauséjour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,268,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,3
+13002,"Beauséjour","Beauséjour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,268,"Chapman","","Evelyne","Conservative","Conservateur",N,N,56
+13002,"Beauséjour","Beauséjour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,268,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,38
+13002,"Beauséjour","Beauséjour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,268,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13002,"Beauséjour","Beauséjour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Arsenault","","Natalie","Green Party","Parti Vert",N,N,22
+13002,"Beauséjour","Beauséjour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Chapman","","Evelyne","Conservative","Conservateur",N,N,189
+13002,"Beauséjour","Beauséjour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"LeBlanc","","Dominic","Liberal","Libéral",Y,Y,392
+13002,"Beauséjour","Beauséjour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Levi-Peters","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77

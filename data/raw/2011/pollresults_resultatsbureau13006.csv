@@ -1,0 +1,625 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+13006,"Miramichi","Miramichi"," 1","Belledune",N,N,"",3,341,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+13006,"Miramichi","Miramichi"," 1","Belledune",N,N,"",3,341,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 1","Belledune",N,N,"",3,341,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,67
+13006,"Miramichi","Miramichi"," 1","Belledune",N,N,"",3,341,"Vickers","","Keith","Liberal","Libéral",N,N,58
+13006,"Miramichi","Miramichi"," 2","Belledune",N,N,"",1,256,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi","Miramichi"," 2","Belledune",N,N,"",1,256,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 2","Belledune",N,N,"",1,256,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,22
+13006,"Miramichi","Miramichi"," 2","Belledune",N,N,"",1,256,"Vickers","","Keith","Liberal","Libéral",N,N,27
+13006,"Miramichi","Miramichi"," 3","Lorne",N,N,"",4,335,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+13006,"Miramichi","Miramichi"," 3","Lorne",N,N,"",4,335,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 3","Lorne",N,N,"",4,335,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,39
+13006,"Miramichi","Miramichi"," 3","Lorne",N,N,"",4,335,"Vickers","","Keith","Liberal","Libéral",N,N,30
+13006,"Miramichi","Miramichi"," 4","Jacquet River",N,N,"",3,305,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13006,"Miramichi","Miramichi"," 4","Jacquet River",N,N,"",3,305,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,14
+13006,"Miramichi","Miramichi"," 4","Jacquet River",N,N,"",3,305,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,58
+13006,"Miramichi","Miramichi"," 4","Jacquet River",N,N,"",3,305,"Vickers","","Keith","Liberal","Libéral",N,N,24
+13006,"Miramichi","Miramichi"," 5","Belledune",N,N,"",7,288,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+13006,"Miramichi","Miramichi"," 5","Belledune",N,N,"",7,288,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 5","Belledune",N,N,"",7,288,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,33
+13006,"Miramichi","Miramichi"," 5","Belledune",N,N,"",7,288,"Vickers","","Keith","Liberal","Libéral",N,N,30
+13006,"Miramichi","Miramichi"," 6","Nash Creek",N,N,"",2,310,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+13006,"Miramichi","Miramichi"," 6","Nash Creek",N,N,"",2,310,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,11
+13006,"Miramichi","Miramichi"," 6","Nash Creek",N,N,"",2,310,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,59
+13006,"Miramichi","Miramichi"," 6","Nash Creek",N,N,"",2,310,"Vickers","","Keith","Liberal","Libéral",N,N,28
+13006,"Miramichi","Miramichi"," 7","Lorne",N,N,"",8,277,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+13006,"Miramichi","Miramichi"," 7","Lorne",N,N,"",8,277,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 7","Lorne",N,N,"",8,277,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,40
+13006,"Miramichi","Miramichi"," 7","Lorne",N,N,"",8,277,"Vickers","","Keith","Liberal","Libéral",N,N,30
+13006,"Miramichi","Miramichi"," 8","Lorne",N,N,"",10,285,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+13006,"Miramichi","Miramichi"," 8","Lorne",N,N,"",10,285,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 8","Lorne",N,N,"",10,285,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,42
+13006,"Miramichi","Miramichi"," 8","Lorne",N,N,"",10,285,"Vickers","","Keith","Liberal","Libéral",N,N,25
+13006,"Miramichi","Miramichi"," 9","Benjamin River",N,N,"",3,274,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+13006,"Miramichi","Miramichi"," 9","Benjamin River",N,N,"",3,274,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 9","Benjamin River",N,N,"",3,274,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,67
+13006,"Miramichi","Miramichi"," 9","Benjamin River",N,N,"",3,274,"Vickers","","Keith","Liberal","Libéral",N,N,33
+13006,"Miramichi","Miramichi"," 10","Curventon",N,N,"",3,149,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi","Miramichi"," 10","Curventon",N,N,"",3,149,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 10","Curventon",N,N,"",3,149,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,45
+13006,"Miramichi","Miramichi"," 10","Curventon",N,N,"",3,149,"Vickers","","Keith","Liberal","Libéral",N,N,12
+13006,"Miramichi","Miramichi"," 11","Exmoor",N,N,"",1,282,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi","Miramichi"," 11","Exmoor",N,N,"",1,282,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 11","Exmoor",N,N,"",1,282,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,80
+13006,"Miramichi","Miramichi"," 11","Exmoor",N,N,"",1,282,"Vickers","","Keith","Liberal","Libéral",N,N,23
+13006,"Miramichi","Miramichi"," 12","Trout Brook",N,N,"",2,307,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi","Miramichi"," 12","Trout Brook",N,N,"",2,307,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 12","Trout Brook",N,N,"",2,307,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,100
+13006,"Miramichi","Miramichi"," 12","Trout Brook",N,N,"",2,307,"Vickers","","Keith","Liberal","Libéral",N,N,28
+13006,"Miramichi","Miramichi"," 13","Maple Glen",N,N,"",2,501,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+13006,"Miramichi","Miramichi"," 13","Maple Glen",N,N,"",2,501,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 13","Maple Glen",N,N,"",2,501,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,175
+13006,"Miramichi","Miramichi"," 13","Maple Glen",N,N,"",2,501,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 14","Sunny Corner",N,N,"",0,221,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13006,"Miramichi","Miramichi"," 14","Sunny Corner",N,N,"",0,221,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 14","Sunny Corner",N,N,"",0,221,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,89
+13006,"Miramichi","Miramichi"," 14","Sunny Corner",N,N,"",0,221,"Vickers","","Keith","Liberal","Libéral",N,N,13
+13006,"Miramichi","Miramichi"," 15","Boom Road",N,N,"",1,251,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi","Miramichi"," 15","Boom Road",N,N,"",1,251,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 15","Boom Road",N,N,"",1,251,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,110
+13006,"Miramichi","Miramichi"," 15","Boom Road",N,N,"",1,251,"Vickers","","Keith","Liberal","Libéral",N,N,20
+13006,"Miramichi","Miramichi"," 16","Whitney",N,N,"",0,285,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi","Miramichi"," 16","Whitney",N,N,"",0,285,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 16","Whitney",N,N,"",0,285,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,116
+13006,"Miramichi","Miramichi"," 16","Whitney",N,N,"",0,285,"Vickers","","Keith","Liberal","Libéral",N,N,22
+13006,"Miramichi","Miramichi"," 17","Strathadam",N,N,"",1,257,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13006,"Miramichi","Miramichi"," 17","Strathadam",N,N,"",1,257,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 17","Strathadam",N,N,"",1,257,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,75
+13006,"Miramichi","Miramichi"," 17","Strathadam",N,N,"",1,257,"Vickers","","Keith","Liberal","Libéral",N,N,31
+13006,"Miramichi","Miramichi"," 18","Eel Ground",N,N,"",1,371,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13006,"Miramichi","Miramichi"," 18","Eel Ground",N,N,"",1,371,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 18","Eel Ground",N,N,"",1,371,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,40
+13006,"Miramichi","Miramichi"," 18","Eel Ground",N,N,"",1,371,"Vickers","","Keith","Liberal","Libéral",N,N,80
+13006,"Miramichi","Miramichi"," 19","Bellefond--Beaver Brook",N,N,"",3,438,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+13006,"Miramichi","Miramichi"," 19","Bellefond--Beaver Brook",N,N,"",3,438,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 19","Bellefond--Beaver Brook",N,N,"",3,438,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,134
+13006,"Miramichi","Miramichi"," 19","Bellefond--Beaver Brook",N,N,"",3,438,"Vickers","","Keith","Liberal","Libéral",N,N,52
+13006,"Miramichi","Miramichi"," 20","Lower Newcastle",N,N,"",1,276,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi","Miramichi"," 20","Lower Newcastle",N,N,"",1,276,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 20","Lower Newcastle",N,N,"",1,276,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,83
+13006,"Miramichi","Miramichi"," 20","Lower Newcastle",N,N,"",1,276,"Vickers","","Keith","Liberal","Libéral",N,N,21
+13006,"Miramichi","Miramichi"," 21","Lavillette",N,N,"",1,227,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+13006,"Miramichi","Miramichi"," 21","Lavillette",N,N,"",1,227,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 21","Lavillette",N,N,"",1,227,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,39
+13006,"Miramichi","Miramichi"," 21","Lavillette",N,N,"",1,227,"Vickers","","Keith","Liberal","Libéral",N,N,34
+13006,"Miramichi","Miramichi"," 21-1","Alnwick",N,N,"",5,316,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+13006,"Miramichi","Miramichi"," 21-1","Alnwick",N,N,"",5,316,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 21-1","Alnwick",N,N,"",5,316,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,53
+13006,"Miramichi","Miramichi"," 21-1","Alnwick",N,N,"",5,316,"Vickers","","Keith","Liberal","Libéral",N,N,48
+13006,"Miramichi","Miramichi"," 22","Bartibog Bridge",N,N,"",2,389,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi","Miramichi"," 22","Bartibog Bridge",N,N,"",2,389,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 22","Bartibog Bridge",N,N,"",2,389,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,128
+13006,"Miramichi","Miramichi"," 22","Bartibog Bridge",N,N,"",2,389,"Vickers","","Keith","Liberal","Libéral",N,N,38
+13006,"Miramichi","Miramichi"," 23","New Jersey",N,N,"",0,231,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13006,"Miramichi","Miramichi"," 23","New Jersey",N,N,"",0,231,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 23","New Jersey",N,N,"",0,231,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,62
+13006,"Miramichi","Miramichi"," 23","New Jersey",N,N,"",0,231,"Vickers","","Keith","Liberal","Libéral",N,N,28
+13006,"Miramichi","Miramichi"," 24","Lagacéville",N,N,"",2,423,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+13006,"Miramichi","Miramichi"," 24","Lagacéville",N,N,"",2,423,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 24","Lagacéville",N,N,"",2,423,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,90
+13006,"Miramichi","Miramichi"," 24","Lagacéville",N,N,"",2,423,"Vickers","","Keith","Liberal","Libéral",N,N,78
+13006,"Miramichi","Miramichi"," 25","Saint-Wilfred",N,N,"",6,303,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13006,"Miramichi","Miramichi"," 25","Saint-Wilfred",N,N,"",6,303,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 25","Saint-Wilfred",N,N,"",6,303,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,101
+13006,"Miramichi","Miramichi"," 25","Saint-Wilfred",N,N,"",6,303,"Vickers","","Keith","Liberal","Libéral",N,N,50
+13006,"Miramichi","Miramichi"," 26","Fairisle",N,N,"",2,463,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+13006,"Miramichi","Miramichi"," 26","Fairisle",N,N,"",2,463,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 26","Fairisle",N,N,"",2,463,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,78
+13006,"Miramichi","Miramichi"," 26","Fairisle",N,N,"",2,463,"Vickers","","Keith","Liberal","Libéral",N,N,67
+13006,"Miramichi","Miramichi"," 26-1","Alnwick",N,N,"",0,183,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13006,"Miramichi","Miramichi"," 26-1","Alnwick",N,N,"",0,183,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 26-1","Alnwick",N,N,"",0,183,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,36
+13006,"Miramichi","Miramichi"," 26-1","Alnwick",N,N,"",0,183,"Vickers","","Keith","Liberal","Libéral",N,N,23
+13006,"Miramichi","Miramichi"," 27","Tabusintac 9",N,N,"",2,424,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+13006,"Miramichi","Miramichi"," 27","Tabusintac 9",N,N,"",2,424,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 27","Tabusintac 9",N,N,"",2,424,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,186
+13006,"Miramichi","Miramichi"," 27","Tabusintac 9",N,N,"",2,424,"Vickers","","Keith","Liberal","Libéral",N,N,41
+13006,"Miramichi","Miramichi"," 28","Covedell",N,N,"",1,404,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+13006,"Miramichi","Miramichi"," 28","Covedell",N,N,"",1,404,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 28","Covedell",N,N,"",1,404,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,75
+13006,"Miramichi","Miramichi"," 28","Covedell",N,N,"",1,404,"Vickers","","Keith","Liberal","Libéral",N,N,51
+13006,"Miramichi","Miramichi"," 29","Brantville",N,N,"",7,377,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+13006,"Miramichi","Miramichi"," 29","Brantville",N,N,"",7,377,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 29","Brantville",N,N,"",7,377,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,51
+13006,"Miramichi","Miramichi"," 29","Brantville",N,N,"",7,377,"Vickers","","Keith","Liberal","Libéral",N,N,58
+13006,"Miramichi","Miramichi"," 30","Brantville",N,N,"",5,359,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+13006,"Miramichi","Miramichi"," 30","Brantville",N,N,"",5,359,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 30","Brantville",N,N,"",5,359,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,40
+13006,"Miramichi","Miramichi"," 30","Brantville",N,N,"",5,359,"Vickers","","Keith","Liberal","Libéral",N,N,86
+13006,"Miramichi","Miramichi"," 31","Pontgravé",N,N,"",0,250,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+13006,"Miramichi","Miramichi"," 31","Pontgravé",N,N,"",0,250,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 31","Pontgravé",N,N,"",0,250,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,26
+13006,"Miramichi","Miramichi"," 31","Pontgravé",N,N,"",0,250,"Vickers","","Keith","Liberal","Libéral",N,N,41
+13006,"Miramichi","Miramichi"," 32","Brantville",N,N,"",0,294,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+13006,"Miramichi","Miramichi"," 32","Brantville",N,N,"",0,294,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 32","Brantville",N,N,"",0,294,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,38
+13006,"Miramichi","Miramichi"," 32","Brantville",N,N,"",0,294,"Vickers","","Keith","Liberal","Libéral",N,N,71
+13006,"Miramichi","Miramichi"," 33","Rivière-du-Portage",N,N,"",3,396,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+13006,"Miramichi","Miramichi"," 33","Rivière-du-Portage",N,N,"",3,396,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 33","Rivière-du-Portage",N,N,"",3,396,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,60
+13006,"Miramichi","Miramichi"," 33","Rivière-du-Portage",N,N,"",3,396,"Vickers","","Keith","Liberal","Libéral",N,N,45
+13006,"Miramichi","Miramichi"," 33-1","Alnwick",N,N,"",6,254,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+13006,"Miramichi","Miramichi"," 33-1","Alnwick",N,N,"",6,254,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 33-1","Alnwick",N,N,"",6,254,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,33
+13006,"Miramichi","Miramichi"," 33-1","Alnwick",N,N,"",6,254,"Vickers","","Keith","Liberal","Libéral",N,N,27
+13006,"Miramichi","Miramichi"," 34","Burnt Church 14",N,N,"",0,403,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+13006,"Miramichi","Miramichi"," 34","Burnt Church 14",N,N,"",0,403,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 34","Burnt Church 14",N,N,"",0,403,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,63
+13006,"Miramichi","Miramichi"," 34","Burnt Church 14",N,N,"",0,403,"Vickers","","Keith","Liberal","Libéral",N,N,35
+13006,"Miramichi","Miramichi"," 34-1","Alnwick",N,N,"",2,320,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi","Miramichi"," 34-1","Alnwick",N,N,"",2,320,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 34-1","Alnwick",N,N,"",2,320,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,63
+13006,"Miramichi","Miramichi"," 34-1","Alnwick",N,N,"",2,320,"Vickers","","Keith","Liberal","Libéral",N,N,19
+13006,"Miramichi","Miramichi"," 35","Neguac",N,N,"",0,249,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi","Miramichi"," 35","Neguac",N,N,"",0,249,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 35","Neguac",N,N,"",0,249,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,49
+13006,"Miramichi","Miramichi"," 35","Neguac",N,N,"",0,249,"Vickers","","Keith","Liberal","Libéral",N,N,64
+13006,"Miramichi","Miramichi"," 36","Neguac",N,N,"",3,311,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13006,"Miramichi","Miramichi"," 36","Neguac",N,N,"",3,311,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 36","Neguac",N,N,"",3,311,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,65
+13006,"Miramichi","Miramichi"," 36","Neguac",N,N,"",3,311,"Vickers","","Keith","Liberal","Libéral",N,N,56
+13006,"Miramichi","Miramichi"," 37A","Neguac",N,N,"",2,409,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+13006,"Miramichi","Miramichi"," 37A","Neguac",N,N,"",2,409,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 37A","Neguac",N,N,"",2,409,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,65
+13006,"Miramichi","Miramichi"," 37A","Neguac",N,N,"",2,409,"Vickers","","Keith","Liberal","Libéral",N,N,75
+13006,"Miramichi","Miramichi"," 37B","Mobile poll/Bureau itinérant",N,N,"500",0,24,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi","Miramichi"," 37B","Mobile poll/Bureau itinérant",N,N,"500",0,24,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,0
+13006,"Miramichi","Miramichi"," 37B","Mobile poll/Bureau itinérant",N,N,"500",0,24,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,0
+13006,"Miramichi","Miramichi"," 37B","Mobile poll/Bureau itinérant",N,N,"500",0,24,"Vickers","","Keith","Liberal","Libéral",N,N,0
+13006,"Miramichi","Miramichi"," 38","Lower Neguac",N,N,"",6,411,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+13006,"Miramichi","Miramichi"," 38","Lower Neguac",N,N,"",6,411,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 38","Lower Neguac",N,N,"",6,411,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,70
+13006,"Miramichi","Miramichi"," 38","Lower Neguac",N,N,"",6,411,"Vickers","","Keith","Liberal","Libéral",N,N,76
+13006,"Miramichi","Miramichi"," 39","Miramichi",N,N,"",0,247,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi","Miramichi"," 39","Miramichi",N,N,"",0,247,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 39","Miramichi",N,N,"",0,247,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,72
+13006,"Miramichi","Miramichi"," 39","Miramichi",N,N,"",0,247,"Vickers","","Keith","Liberal","Libéral",N,N,27
+13006,"Miramichi","Miramichi"," 40","Miramichi",N,N,"",1,313,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13006,"Miramichi","Miramichi"," 40","Miramichi",N,N,"",1,313,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 40","Miramichi",N,N,"",1,313,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,126
+13006,"Miramichi","Miramichi"," 40","Miramichi",N,N,"",1,313,"Vickers","","Keith","Liberal","Libéral",N,N,26
+13006,"Miramichi","Miramichi"," 41","Miramichi",N,N,"",1,264,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13006,"Miramichi","Miramichi"," 41","Miramichi",N,N,"",1,264,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 41","Miramichi",N,N,"",1,264,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,71
+13006,"Miramichi","Miramichi"," 41","Miramichi",N,N,"",1,264,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 42","Miramichi",N,N,"",0,278,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi","Miramichi"," 42","Miramichi",N,N,"",0,278,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 42","Miramichi",N,N,"",0,278,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,48
+13006,"Miramichi","Miramichi"," 42","Miramichi",N,N,"",0,278,"Vickers","","Keith","Liberal","Libéral",N,N,33
+13006,"Miramichi","Miramichi"," 43","Miramichi",N,N,"",6,368,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13006,"Miramichi","Miramichi"," 43","Miramichi",N,N,"",6,368,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 43","Miramichi",N,N,"",6,368,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,86
+13006,"Miramichi","Miramichi"," 43","Miramichi",N,N,"",6,368,"Vickers","","Keith","Liberal","Libéral",N,N,31
+13006,"Miramichi","Miramichi"," 44","Miramichi",N,N,"",0,295,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi","Miramichi"," 44","Miramichi",N,N,"",0,295,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 44","Miramichi",N,N,"",0,295,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,82
+13006,"Miramichi","Miramichi"," 44","Miramichi",N,N,"",0,295,"Vickers","","Keith","Liberal","Libéral",N,N,31
+13006,"Miramichi","Miramichi"," 45","Miramichi",N,N,"",0,281,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13006,"Miramichi","Miramichi"," 45","Miramichi",N,N,"",0,281,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 45","Miramichi",N,N,"",0,281,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,72
+13006,"Miramichi","Miramichi"," 45","Miramichi",N,N,"",0,281,"Vickers","","Keith","Liberal","Libéral",N,N,41
+13006,"Miramichi","Miramichi"," 46","Miramichi",N,N,"",3,510,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13006,"Miramichi","Miramichi"," 46","Miramichi",N,N,"",3,510,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 46","Miramichi",N,N,"",3,510,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,205
+13006,"Miramichi","Miramichi"," 46","Miramichi",N,N,"",3,510,"Vickers","","Keith","Liberal","Libéral",N,N,51
+13006,"Miramichi","Miramichi"," 47","Miramichi",N,N,"",1,392,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi","Miramichi"," 47","Miramichi",N,N,"",1,392,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,9
+13006,"Miramichi","Miramichi"," 47","Miramichi",N,N,"",1,392,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,107
+13006,"Miramichi","Miramichi"," 47","Miramichi",N,N,"",1,392,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 48","Miramichi",N,N,"",0,397,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13006,"Miramichi","Miramichi"," 48","Miramichi",N,N,"",0,397,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 48","Miramichi",N,N,"",0,397,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,112
+13006,"Miramichi","Miramichi"," 48","Miramichi",N,N,"",0,397,"Vickers","","Keith","Liberal","Libéral",N,N,55
+13006,"Miramichi","Miramichi"," 49","Miramichi",Y,N,"",0,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi","Miramichi"," 49","Miramichi",Y,N,"",0,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,0
+13006,"Miramichi","Miramichi"," 49","Miramichi",Y,N,"",0,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,0
+13006,"Miramichi","Miramichi"," 49","Miramichi",Y,N,"",0,0,"Vickers","","Keith","Liberal","Libéral",N,N,0
+13006,"Miramichi","Miramichi"," 50","Miramichi",N,N,"",2,436,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+13006,"Miramichi","Miramichi"," 50","Miramichi",N,N,"",2,436,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 50","Miramichi",N,N,"",2,436,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,121
+13006,"Miramichi","Miramichi"," 50","Miramichi",N,N,"",2,436,"Vickers","","Keith","Liberal","Libéral",N,N,60
+13006,"Miramichi","Miramichi"," 51","Miramichi",N,N,"",3,351,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi","Miramichi"," 51","Miramichi",N,N,"",3,351,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 51","Miramichi",N,N,"",3,351,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,59
+13006,"Miramichi","Miramichi"," 51","Miramichi",N,N,"",3,351,"Vickers","","Keith","Liberal","Libéral",N,N,53
+13006,"Miramichi","Miramichi"," 52","Miramichi",N,N,"",0,286,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi","Miramichi"," 52","Miramichi",N,N,"",0,286,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 52","Miramichi",N,N,"",0,286,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,87
+13006,"Miramichi","Miramichi"," 52","Miramichi",N,N,"",0,286,"Vickers","","Keith","Liberal","Libéral",N,N,24
+13006,"Miramichi","Miramichi"," 53","Miramichi",N,N,"",1,407,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13006,"Miramichi","Miramichi"," 53","Miramichi",N,N,"",1,407,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 53","Miramichi",N,N,"",1,407,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,168
+13006,"Miramichi","Miramichi"," 53","Miramichi",N,N,"",1,407,"Vickers","","Keith","Liberal","Libéral",N,N,34
+13006,"Miramichi","Miramichi"," 54","Miramichi",N,N,"",2,543,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+13006,"Miramichi","Miramichi"," 54","Miramichi",N,N,"",2,543,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 54","Miramichi",N,N,"",2,543,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,152
+13006,"Miramichi","Miramichi"," 54","Miramichi",N,N,"",2,543,"Vickers","","Keith","Liberal","Libéral",N,N,86
+13006,"Miramichi","Miramichi"," 55","Miramichi",N,N,"",2,410,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13006,"Miramichi","Miramichi"," 55","Miramichi",N,N,"",2,410,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 55","Miramichi",N,N,"",2,410,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,144
+13006,"Miramichi","Miramichi"," 55","Miramichi",N,N,"",2,410,"Vickers","","Keith","Liberal","Libéral",N,N,40
+13006,"Miramichi","Miramichi"," 56","Miramichi",N,N,"",0,553,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+13006,"Miramichi","Miramichi"," 56","Miramichi",N,N,"",0,553,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,14
+13006,"Miramichi","Miramichi"," 56","Miramichi",N,N,"",0,553,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,188
+13006,"Miramichi","Miramichi"," 56","Miramichi",N,N,"",0,553,"Vickers","","Keith","Liberal","Libéral",N,N,57
+13006,"Miramichi","Miramichi"," 57","Miramichi",N,N,"",2,338,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+13006,"Miramichi","Miramichi"," 57","Miramichi",N,N,"",2,338,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 57","Miramichi",N,N,"",2,338,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,114
+13006,"Miramichi","Miramichi"," 57","Miramichi",N,N,"",2,338,"Vickers","","Keith","Liberal","Libéral",N,N,28
+13006,"Miramichi","Miramichi"," 57-1","Miramichi",N,N,"",1,209,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi","Miramichi"," 57-1","Miramichi",N,N,"",1,209,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 57-1","Miramichi",N,N,"",1,209,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,76
+13006,"Miramichi","Miramichi"," 57-1","Miramichi",N,N,"",1,209,"Vickers","","Keith","Liberal","Libéral",N,N,13
+13006,"Miramichi","Miramichi"," 58","Miramichi",N,N,"",0,293,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13006,"Miramichi","Miramichi"," 58","Miramichi",N,N,"",0,293,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 58","Miramichi",N,N,"",0,293,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,105
+13006,"Miramichi","Miramichi"," 58","Miramichi",N,N,"",0,293,"Vickers","","Keith","Liberal","Libéral",N,N,28
+13006,"Miramichi","Miramichi"," 59","Miramichi",N,N,"",1,378,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13006,"Miramichi","Miramichi"," 59","Miramichi",N,N,"",1,378,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 59","Miramichi",N,N,"",1,378,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,159
+13006,"Miramichi","Miramichi"," 59","Miramichi",N,N,"",1,378,"Vickers","","Keith","Liberal","Libéral",N,N,48
+13006,"Miramichi","Miramichi"," 60","Miramichi",N,N,"",2,325,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13006,"Miramichi","Miramichi"," 60","Miramichi",N,N,"",2,325,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 60","Miramichi",N,N,"",2,325,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,108
+13006,"Miramichi","Miramichi"," 60","Miramichi",N,N,"",2,325,"Vickers","","Keith","Liberal","Libéral",N,N,43
+13006,"Miramichi","Miramichi"," 61","Miramichi",N,N,"",1,419,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+13006,"Miramichi","Miramichi"," 61","Miramichi",N,N,"",1,419,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,12
+13006,"Miramichi","Miramichi"," 61","Miramichi",N,N,"",1,419,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,150
+13006,"Miramichi","Miramichi"," 61","Miramichi",N,N,"",1,419,"Vickers","","Keith","Liberal","Libéral",N,N,49
+13006,"Miramichi","Miramichi"," 62","Miramichi",Y,N,"",0,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi","Miramichi"," 62","Miramichi",Y,N,"",0,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,0
+13006,"Miramichi","Miramichi"," 62","Miramichi",Y,N,"",0,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,0
+13006,"Miramichi","Miramichi"," 62","Miramichi",Y,N,"",0,0,"Vickers","","Keith","Liberal","Libéral",N,N,0
+13006,"Miramichi","Miramichi"," 63","Miramichi",N,N,"",1,325,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13006,"Miramichi","Miramichi"," 63","Miramichi",N,N,"",1,325,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 63","Miramichi",N,N,"",1,325,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,114
+13006,"Miramichi","Miramichi"," 63","Miramichi",N,N,"",1,325,"Vickers","","Keith","Liberal","Libéral",N,N,29
+13006,"Miramichi","Miramichi"," 64","Miramichi",N,N,"",1,437,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+13006,"Miramichi","Miramichi"," 64","Miramichi",N,N,"",1,437,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 64","Miramichi",N,N,"",1,437,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,175
+13006,"Miramichi","Miramichi"," 64","Miramichi",N,N,"",1,437,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 65","Miramichi",N,N,"",0,473,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13006,"Miramichi","Miramichi"," 65","Miramichi",N,N,"",0,473,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,9
+13006,"Miramichi","Miramichi"," 65","Miramichi",N,N,"",0,473,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,122
+13006,"Miramichi","Miramichi"," 65","Miramichi",N,N,"",0,473,"Vickers","","Keith","Liberal","Libéral",N,N,41
+13006,"Miramichi","Miramichi"," 66","Miramichi",N,N,"",3,496,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi","Miramichi"," 66","Miramichi",N,N,"",3,496,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 66","Miramichi",N,N,"",3,496,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,139
+13006,"Miramichi","Miramichi"," 66","Miramichi",N,N,"",3,496,"Vickers","","Keith","Liberal","Libéral",N,N,36
+13006,"Miramichi","Miramichi"," 67","Miramichi",N,N,"",1,345,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi","Miramichi"," 67","Miramichi",N,N,"",1,345,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 67","Miramichi",N,N,"",1,345,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,71
+13006,"Miramichi","Miramichi"," 67","Miramichi",N,N,"",1,345,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 68","Miramichi",N,N,"",2,262,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13006,"Miramichi","Miramichi"," 68","Miramichi",N,N,"",2,262,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 68","Miramichi",N,N,"",2,262,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,91
+13006,"Miramichi","Miramichi"," 68","Miramichi",N,N,"",2,262,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 69","Miramichi",N,N,"",2,242,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi","Miramichi"," 69","Miramichi",N,N,"",2,242,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 69","Miramichi",N,N,"",2,242,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,83
+13006,"Miramichi","Miramichi"," 69","Miramichi",N,N,"",2,242,"Vickers","","Keith","Liberal","Libéral",N,N,15
+13006,"Miramichi","Miramichi"," 70","Miramichi",N,N,"",1,208,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13006,"Miramichi","Miramichi"," 70","Miramichi",N,N,"",1,208,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 70","Miramichi",N,N,"",1,208,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,40
+13006,"Miramichi","Miramichi"," 70","Miramichi",N,N,"",1,208,"Vickers","","Keith","Liberal","Libéral",N,N,11
+13006,"Miramichi","Miramichi"," 71","Miramichi",N,N,"",1,213,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13006,"Miramichi","Miramichi"," 71","Miramichi",N,N,"",1,213,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 71","Miramichi",N,N,"",1,213,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,56
+13006,"Miramichi","Miramichi"," 71","Miramichi",N,N,"",1,213,"Vickers","","Keith","Liberal","Libéral",N,N,17
+13006,"Miramichi","Miramichi"," 72","Miramichi",N,N,"",2,309,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi","Miramichi"," 72","Miramichi",N,N,"",2,309,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 72","Miramichi",N,N,"",2,309,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,80
+13006,"Miramichi","Miramichi"," 72","Miramichi",N,N,"",2,309,"Vickers","","Keith","Liberal","Libéral",N,N,44
+13006,"Miramichi","Miramichi"," 73","Miramichi",N,N,"",5,339,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13006,"Miramichi","Miramichi"," 73","Miramichi",N,N,"",5,339,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 73","Miramichi",N,N,"",5,339,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,97
+13006,"Miramichi","Miramichi"," 73","Miramichi",N,N,"",5,339,"Vickers","","Keith","Liberal","Libéral",N,N,38
+13006,"Miramichi","Miramichi"," 74","Miramichi",N,N,"",0,277,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi","Miramichi"," 74","Miramichi",N,N,"",0,277,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 74","Miramichi",N,N,"",0,277,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,73
+13006,"Miramichi","Miramichi"," 74","Miramichi",N,N,"",0,277,"Vickers","","Keith","Liberal","Libéral",N,N,34
+13006,"Miramichi","Miramichi"," 75","Miramichi",N,N,"",3,373,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13006,"Miramichi","Miramichi"," 75","Miramichi",N,N,"",3,373,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 75","Miramichi",N,N,"",3,373,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,98
+13006,"Miramichi","Miramichi"," 75","Miramichi",N,N,"",3,373,"Vickers","","Keith","Liberal","Libéral",N,N,33
+13006,"Miramichi","Miramichi"," 76","Miramichi",N,N,"",1,429,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi","Miramichi"," 76","Miramichi",N,N,"",1,429,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 76","Miramichi",N,N,"",1,429,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,166
+13006,"Miramichi","Miramichi"," 76","Miramichi",N,N,"",1,429,"Vickers","","Keith","Liberal","Libéral",N,N,29
+13006,"Miramichi","Miramichi"," 77","Miramichi",N,N,"",2,515,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+13006,"Miramichi","Miramichi"," 77","Miramichi",N,N,"",2,515,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,9
+13006,"Miramichi","Miramichi"," 77","Miramichi",N,N,"",2,515,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,213
+13006,"Miramichi","Miramichi"," 77","Miramichi",N,N,"",2,515,"Vickers","","Keith","Liberal","Libéral",N,N,59
+13006,"Miramichi","Miramichi"," 78","Miramichi",N,N,"",0,267,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi","Miramichi"," 78","Miramichi",N,N,"",0,267,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 78","Miramichi",N,N,"",0,267,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,110
+13006,"Miramichi","Miramichi"," 78","Miramichi",N,N,"",0,267,"Vickers","","Keith","Liberal","Libéral",N,N,27
+13006,"Miramichi","Miramichi"," 79","Miramichi",N,N,"",0,275,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi","Miramichi"," 79","Miramichi",N,N,"",0,275,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 79","Miramichi",N,N,"",0,275,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,122
+13006,"Miramichi","Miramichi"," 79","Miramichi",N,N,"",0,275,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 80","Lower Napan",N,N,"",3,455,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+13006,"Miramichi","Miramichi"," 80","Lower Napan",N,N,"",3,455,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 80","Lower Napan",N,N,"",3,455,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,181
+13006,"Miramichi","Miramichi"," 80","Lower Napan",N,N,"",3,455,"Vickers","","Keith","Liberal","Libéral",N,N,45
+13006,"Miramichi","Miramichi"," 81","Matthews",N,N,"",0,322,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi","Miramichi"," 81","Matthews",N,N,"",0,322,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 81","Matthews",N,N,"",0,322,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,138
+13006,"Miramichi","Miramichi"," 81","Matthews",N,N,"",0,322,"Vickers","","Keith","Liberal","Libéral",N,N,39
+13006,"Miramichi","Miramichi"," 82","Sillikers",N,N,"",0,150,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi","Miramichi"," 82","Sillikers",N,N,"",0,150,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 82","Sillikers",N,N,"",0,150,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,75
+13006,"Miramichi","Miramichi"," 82","Sillikers",N,N,"",0,150,"Vickers","","Keith","Liberal","Libéral",N,N,21
+13006,"Miramichi","Miramichi"," 83","Red Bank 4",N,N,"",0,331,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13006,"Miramichi","Miramichi"," 83","Red Bank 4",N,N,"",0,331,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 83","Red Bank 4",N,N,"",0,331,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,36
+13006,"Miramichi","Miramichi"," 83","Red Bank 4",N,N,"",0,331,"Vickers","","Keith","Liberal","Libéral",N,N,65
+13006,"Miramichi","Miramichi"," 84","Warwick Settlement",N,N,"",1,368,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13006,"Miramichi","Miramichi"," 84","Warwick Settlement",N,N,"",1,368,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 84","Warwick Settlement",N,N,"",1,368,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,104
+13006,"Miramichi","Miramichi"," 84","Warwick Settlement",N,N,"",1,368,"Vickers","","Keith","Liberal","Libéral",N,N,48
+13006,"Miramichi","Miramichi"," 85","Williamstown",N,N,"",3,488,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13006,"Miramichi","Miramichi"," 85","Williamstown",N,N,"",3,488,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 85","Williamstown",N,N,"",3,488,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,198
+13006,"Miramichi","Miramichi"," 85","Williamstown",N,N,"",3,488,"Vickers","","Keith","Liberal","Libéral",N,N,35
+13006,"Miramichi","Miramichi"," 86","South Esk",N,N,"",1,332,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13006,"Miramichi","Miramichi"," 86","South Esk",N,N,"",1,332,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 86","South Esk",N,N,"",1,332,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,141
+13006,"Miramichi","Miramichi"," 86","South Esk",N,N,"",1,332,"Vickers","","Keith","Liberal","Libéral",N,N,34
+13006,"Miramichi","Miramichi"," 86-1","South Esk",N,N,"",0,145,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi","Miramichi"," 86-1","South Esk",N,N,"",0,145,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 86-1","South Esk",N,N,"",0,145,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,54
+13006,"Miramichi","Miramichi"," 86-1","South Esk",N,N,"",0,145,"Vickers","","Keith","Liberal","Libéral",N,N,11
+13006,"Miramichi","Miramichi"," 87","Upper Derby",N,N,"",3,166,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi","Miramichi"," 87","Upper Derby",N,N,"",3,166,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 87","Upper Derby",N,N,"",3,166,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,51
+13006,"Miramichi","Miramichi"," 87","Upper Derby",N,N,"",3,166,"Vickers","","Keith","Liberal","Libéral",N,N,22
+13006,"Miramichi","Miramichi"," 88","Millerton",N,N,"",2,412,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13006,"Miramichi","Miramichi"," 88","Millerton",N,N,"",2,412,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 88","Millerton",N,N,"",2,412,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,164
+13006,"Miramichi","Miramichi"," 88","Millerton",N,N,"",2,412,"Vickers","","Keith","Liberal","Libéral",N,N,30
+13006,"Miramichi","Miramichi"," 89","McKinleyville",N,N,"",0,321,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13006,"Miramichi","Miramichi"," 89","McKinleyville",N,N,"",0,321,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 89","McKinleyville",N,N,"",0,321,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,96
+13006,"Miramichi","Miramichi"," 89","McKinleyville",N,N,"",0,321,"Vickers","","Keith","Liberal","Libéral",N,N,29
+13006,"Miramichi","Miramichi"," 90","Nelson",N,N,"",1,194,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13006,"Miramichi","Miramichi"," 90","Nelson",N,N,"",1,194,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 90","Nelson",N,N,"",1,194,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,68
+13006,"Miramichi","Miramichi"," 90","Nelson",N,N,"",1,194,"Vickers","","Keith","Liberal","Libéral",N,N,22
+13006,"Miramichi","Miramichi"," 91","Barnaby River",N,N,"",0,258,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi","Miramichi"," 91","Barnaby River",N,N,"",0,258,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 91","Barnaby River",N,N,"",0,258,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,108
+13006,"Miramichi","Miramichi"," 91","Barnaby River",N,N,"",0,258,"Vickers","","Keith","Liberal","Libéral",N,N,40
+13006,"Miramichi","Miramichi"," 92","Rogersville",N,N,"",6,338,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13006,"Miramichi","Miramichi"," 92","Rogersville",N,N,"",6,338,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 92","Rogersville",N,N,"",6,338,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,67
+13006,"Miramichi","Miramichi"," 92","Rogersville",N,N,"",6,338,"Vickers","","Keith","Liberal","Libéral",N,N,62
+13006,"Miramichi","Miramichi"," 93","Pleasant Ridge",N,N,"",3,220,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13006,"Miramichi","Miramichi"," 93","Pleasant Ridge",N,N,"",3,220,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,10
+13006,"Miramichi","Miramichi"," 93","Pleasant Ridge",N,N,"",3,220,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,42
+13006,"Miramichi","Miramichi"," 93","Pleasant Ridge",N,N,"",3,220,"Vickers","","Keith","Liberal","Libéral",N,N,27
+13006,"Miramichi","Miramichi"," 94","Rogersville",N,N,"",4,426,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+13006,"Miramichi","Miramichi"," 94","Rogersville",N,N,"",4,426,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,8
+13006,"Miramichi","Miramichi"," 94","Rogersville",N,N,"",4,426,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,107
+13006,"Miramichi","Miramichi"," 94","Rogersville",N,N,"",4,426,"Vickers","","Keith","Liberal","Libéral",N,N,52
+13006,"Miramichi","Miramichi"," 95","Rogersville",N,N,"",4,279,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13006,"Miramichi","Miramichi"," 95","Rogersville",N,N,"",4,279,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 95","Rogersville",N,N,"",4,279,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,51
+13006,"Miramichi","Miramichi"," 95","Rogersville",N,N,"",4,279,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 96","Collette",N,N,"",9,268,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13006,"Miramichi","Miramichi"," 96","Collette",N,N,"",9,268,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 96","Collette",N,N,"",9,268,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,81
+13006,"Miramichi","Miramichi"," 96","Collette",N,N,"",9,268,"Vickers","","Keith","Liberal","Libéral",N,N,47
+13006,"Miramichi","Miramichi"," 97","East Collette",N,N,"",0,176,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+13006,"Miramichi","Miramichi"," 97","East Collette",N,N,"",0,176,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 97","East Collette",N,N,"",0,176,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,50
+13006,"Miramichi","Miramichi"," 97","East Collette",N,N,"",0,176,"Vickers","","Keith","Liberal","Libéral",N,N,20
+13006,"Miramichi","Miramichi"," 98","Rogersville",N,N,"",4,220,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi","Miramichi"," 98","Rogersville",N,N,"",4,220,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 98","Rogersville",N,N,"",4,220,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,54
+13006,"Miramichi","Miramichi"," 98","Rogersville",N,N,"",4,220,"Vickers","","Keith","Liberal","Libéral",N,N,33
+13006,"Miramichi","Miramichi"," 99","Acadieville",N,N,"",6,266,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi","Miramichi"," 99","Acadieville",N,N,"",6,266,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 99","Acadieville",N,N,"",6,266,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,46
+13006,"Miramichi","Miramichi"," 99","Acadieville",N,N,"",6,266,"Vickers","","Keith","Liberal","Libéral",N,N,37
+13006,"Miramichi","Miramichi"," 100","Acadieville",N,N,"",4,382,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+13006,"Miramichi","Miramichi"," 100","Acadieville",N,N,"",4,382,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 100","Acadieville",N,N,"",4,382,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,82
+13006,"Miramichi","Miramichi"," 100","Acadieville",N,N,"",4,382,"Vickers","","Keith","Liberal","Libéral",N,N,70
+13006,"Miramichi","Miramichi"," 101","Glenwood",N,N,"",6,309,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+13006,"Miramichi","Miramichi"," 101","Glenwood",N,N,"",6,309,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 101","Glenwood",N,N,"",6,309,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,115
+13006,"Miramichi","Miramichi"," 101","Glenwood",N,N,"",6,309,"Vickers","","Keith","Liberal","Libéral",N,N,36
+13006,"Miramichi","Miramichi"," 102","Centre Napan",N,N,"",0,405,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13006,"Miramichi","Miramichi"," 102","Centre Napan",N,N,"",0,405,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 102","Centre Napan",N,N,"",0,405,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,176
+13006,"Miramichi","Miramichi"," 102","Centre Napan",N,N,"",0,405,"Vickers","","Keith","Liberal","Libéral",N,N,52
+13006,"Miramichi","Miramichi"," 103","Black River Bridge",N,N,"",3,350,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13006,"Miramichi","Miramichi"," 103","Black River Bridge",N,N,"",3,350,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 103","Black River Bridge",N,N,"",3,350,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,146
+13006,"Miramichi","Miramichi"," 103","Black River Bridge",N,N,"",3,350,"Vickers","","Keith","Liberal","Libéral",N,N,18
+13006,"Miramichi","Miramichi"," 104","St. Margarets",N,N,"",1,208,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+13006,"Miramichi","Miramichi"," 104","St. Margarets",N,N,"",1,208,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 104","St. Margarets",N,N,"",1,208,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,75
+13006,"Miramichi","Miramichi"," 104","St. Margarets",N,N,"",1,208,"Vickers","","Keith","Liberal","Libéral",N,N,21
+13006,"Miramichi","Miramichi"," 105","Bay du Vin",N,N,"",2,388,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13006,"Miramichi","Miramichi"," 105","Bay du Vin",N,N,"",2,388,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 105","Bay du Vin",N,N,"",2,388,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,190
+13006,"Miramichi","Miramichi"," 105","Bay du Vin",N,N,"",2,388,"Vickers","","Keith","Liberal","Libéral",N,N,47
+13006,"Miramichi","Miramichi"," 106","Hardwicke",N,N,"",0,263,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13006,"Miramichi","Miramichi"," 106","Hardwicke",N,N,"",0,263,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 106","Hardwicke",N,N,"",0,263,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,86
+13006,"Miramichi","Miramichi"," 106","Hardwicke",N,N,"",0,263,"Vickers","","Keith","Liberal","Libéral",N,N,23
+13006,"Miramichi","Miramichi"," 107","Escuminac",N,N,"",0,259,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13006,"Miramichi","Miramichi"," 107","Escuminac",N,N,"",0,259,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 107","Escuminac",N,N,"",0,259,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,78
+13006,"Miramichi","Miramichi"," 107","Escuminac",N,N,"",0,259,"Vickers","","Keith","Liberal","Libéral",N,N,21
+13006,"Miramichi","Miramichi"," 108","Eel River Bridge",N,N,"",4,412,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+13006,"Miramichi","Miramichi"," 108","Eel River Bridge",N,N,"",4,412,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 108","Eel River Bridge",N,N,"",4,412,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,124
+13006,"Miramichi","Miramichi"," 108","Eel River Bridge",N,N,"",4,412,"Vickers","","Keith","Liberal","Libéral",N,N,60
+13006,"Miramichi","Miramichi"," 109","Baie-Sainte-Anne",N,N,"",0,117,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi","Miramichi"," 109","Baie-Sainte-Anne",N,N,"",0,117,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 109","Baie-Sainte-Anne",N,N,"",0,117,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,23
+13006,"Miramichi","Miramichi"," 109","Baie-Sainte-Anne",N,N,"",0,117,"Vickers","","Keith","Liberal","Libéral",N,N,25
+13006,"Miramichi","Miramichi"," 110","Baie-Sainte-Anne",N,N,"",8,421,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13006,"Miramichi","Miramichi"," 110","Baie-Sainte-Anne",N,N,"",8,421,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 110","Baie-Sainte-Anne",N,N,"",8,421,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,99
+13006,"Miramichi","Miramichi"," 110","Baie-Sainte-Anne",N,N,"",8,421,"Vickers","","Keith","Liberal","Libéral",N,N,71
+13006,"Miramichi","Miramichi"," 111","Baie-Sainte-Anne",N,N,"",3,149,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13006,"Miramichi","Miramichi"," 111","Baie-Sainte-Anne",N,N,"",3,149,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 111","Baie-Sainte-Anne",N,N,"",3,149,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,43
+13006,"Miramichi","Miramichi"," 111","Baie-Sainte-Anne",N,N,"",3,149,"Vickers","","Keith","Liberal","Libéral",N,N,29
+13006,"Miramichi","Miramichi"," 112","Kouchibouguac",N,N,"",4,239,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13006,"Miramichi","Miramichi"," 112","Kouchibouguac",N,N,"",4,239,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 112","Kouchibouguac",N,N,"",4,239,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,89
+13006,"Miramichi","Miramichi"," 112","Kouchibouguac",N,N,"",4,239,"Vickers","","Keith","Liberal","Libéral",N,N,36
+13006,"Miramichi","Miramichi"," 113A","Pointe-Sapin",N,N,"",5,225,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13006,"Miramichi","Miramichi"," 113A","Pointe-Sapin",N,N,"",5,225,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 113A","Pointe-Sapin",N,N,"",5,225,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,62
+13006,"Miramichi","Miramichi"," 113A","Pointe-Sapin",N,N,"",5,225,"Vickers","","Keith","Liberal","Libéral",N,N,56
+13006,"Miramichi","Miramichi"," 113B","Pointe-Sapin",N,N,"",4,160,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13006,"Miramichi","Miramichi"," 113B","Pointe-Sapin",N,N,"",4,160,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,12
+13006,"Miramichi","Miramichi"," 113B","Pointe-Sapin",N,N,"",4,160,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,59
+13006,"Miramichi","Miramichi"," 113B","Pointe-Sapin",N,N,"",4,160,"Vickers","","Keith","Liberal","Libéral",N,N,42
+13006,"Miramichi","Miramichi"," 114","Pointe-Sapin",N,N,"113B",0,66,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi","Miramichi"," 114","Pointe-Sapin",N,N,"113B",0,66,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,0
+13006,"Miramichi","Miramichi"," 114","Pointe-Sapin",N,N,"113B",0,66,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,0
+13006,"Miramichi","Miramichi"," 114","Pointe-Sapin",N,N,"113B",0,66,"Vickers","","Keith","Liberal","Libéral",N,N,0
+13006,"Miramichi","Miramichi"," 115","Holtville",N,N,"",2,344,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi","Miramichi"," 115","Holtville",N,N,"",2,344,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 115","Holtville",N,N,"",2,344,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,134
+13006,"Miramichi","Miramichi"," 115","Holtville",N,N,"",2,344,"Vickers","","Keith","Liberal","Libéral",N,N,29
+13006,"Miramichi","Miramichi"," 116","Carrolls Crossing",N,N,"",3,294,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi","Miramichi"," 116","Carrolls Crossing",N,N,"",3,294,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 116","Carrolls Crossing",N,N,"",3,294,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,105
+13006,"Miramichi","Miramichi"," 116","Carrolls Crossing",N,N,"",3,294,"Vickers","","Keith","Liberal","Libéral",N,N,22
+13006,"Miramichi","Miramichi"," 117","Boiestown",N,N,"",0,266,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13006,"Miramichi","Miramichi"," 117","Boiestown",N,N,"",0,266,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 117","Boiestown",N,N,"",0,266,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,91
+13006,"Miramichi","Miramichi"," 117","Boiestown",N,N,"",0,266,"Vickers","","Keith","Liberal","Libéral",N,N,27
+13006,"Miramichi","Miramichi"," 118","Ludlow",N,N,"",0,336,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13006,"Miramichi","Miramichi"," 118","Ludlow",N,N,"",0,336,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 118","Ludlow",N,N,"",0,336,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,113
+13006,"Miramichi","Miramichi"," 118","Ludlow",N,N,"",0,336,"Vickers","","Keith","Liberal","Libéral",N,N,33
+13006,"Miramichi","Miramichi"," 119","Storeytown",N,N,"",1,216,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi","Miramichi"," 119","Storeytown",N,N,"",1,216,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 119","Storeytown",N,N,"",1,216,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,59
+13006,"Miramichi","Miramichi"," 119","Storeytown",N,N,"",1,216,"Vickers","","Keith","Liberal","Libéral",N,N,14
+13006,"Miramichi","Miramichi"," 120","Hazelton",N,N,"",0,299,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13006,"Miramichi","Miramichi"," 120","Hazelton",N,N,"",0,299,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 120","Hazelton",N,N,"",0,299,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,86
+13006,"Miramichi","Miramichi"," 120","Hazelton",N,N,"",0,299,"Vickers","","Keith","Liberal","Libéral",N,N,31
+13006,"Miramichi","Miramichi"," 121","Doaktown",N,N,"",0,214,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi","Miramichi"," 121","Doaktown",N,N,"",0,214,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 121","Doaktown",N,N,"",0,214,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,55
+13006,"Miramichi","Miramichi"," 121","Doaktown",N,N,"",0,214,"Vickers","","Keith","Liberal","Libéral",N,N,9
+13006,"Miramichi","Miramichi"," 122","Blissfield",N,N,"",0,221,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi","Miramichi"," 122","Blissfield",N,N,"",0,221,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 122","Blissfield",N,N,"",0,221,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,63
+13006,"Miramichi","Miramichi"," 122","Blissfield",N,N,"",0,221,"Vickers","","Keith","Liberal","Libéral",N,N,12
+13006,"Miramichi","Miramichi"," 123","Doaktown",N,N,"",0,225,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi","Miramichi"," 123","Doaktown",N,N,"",0,225,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 123","Doaktown",N,N,"",0,225,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,57
+13006,"Miramichi","Miramichi"," 123","Doaktown",N,N,"",0,225,"Vickers","","Keith","Liberal","Libéral",N,N,15
+13006,"Miramichi","Miramichi"," 124","Renous",N,N,"",1,308,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13006,"Miramichi","Miramichi"," 124","Renous",N,N,"",1,308,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 124","Renous",N,N,"",1,308,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,135
+13006,"Miramichi","Miramichi"," 124","Renous",N,N,"",1,308,"Vickers","","Keith","Liberal","Libéral",N,N,50
+13006,"Miramichi","Miramichi"," 125","Renous",N,N,"",1,272,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13006,"Miramichi","Miramichi"," 125","Renous",N,N,"",1,272,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 125","Renous",N,N,"",1,272,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,97
+13006,"Miramichi","Miramichi"," 125","Renous",N,N,"",1,272,"Vickers","","Keith","Liberal","Libéral",N,N,70
+13006,"Miramichi","Miramichi"," 126","White Rapids",N,N,"",1,230,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi","Miramichi"," 126","White Rapids",N,N,"",1,230,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 126","White Rapids",N,N,"",1,230,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,72
+13006,"Miramichi","Miramichi"," 126","White Rapids",N,N,"",1,230,"Vickers","","Keith","Liberal","Libéral",N,N,35
+13006,"Miramichi","Miramichi"," 127","Coughlan",N,N,"",1,234,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi","Miramichi"," 127","Coughlan",N,N,"",1,234,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 127","Coughlan",N,N,"",1,234,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,103
+13006,"Miramichi","Miramichi"," 127","Coughlan",N,N,"",1,234,"Vickers","","Keith","Liberal","Libéral",N,N,23
+13006,"Miramichi","Miramichi"," 128","Barnettville",N,N,"",0,200,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi","Miramichi"," 128","Barnettville",N,N,"",0,200,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,0
+13006,"Miramichi","Miramichi"," 128","Barnettville",N,N,"",0,200,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,76
+13006,"Miramichi","Miramichi"," 128","Barnettville",N,N,"",0,200,"Vickers","","Keith","Liberal","Libéral",N,N,6
+13006,"Miramichi","Miramichi"," 129","Blackville",N,N,"",3,358,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi","Miramichi"," 129","Blackville",N,N,"",3,358,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 129","Blackville",N,N,"",3,358,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,159
+13006,"Miramichi","Miramichi"," 129","Blackville",N,N,"",3,358,"Vickers","","Keith","Liberal","Libéral",N,N,31
+13006,"Miramichi","Miramichi"," 130","Blackville",N,N,"",0,497,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+13006,"Miramichi","Miramichi"," 130","Blackville",N,N,"",0,497,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 130","Blackville",N,N,"",0,497,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,175
+13006,"Miramichi","Miramichi"," 130","Blackville",N,N,"",0,497,"Vickers","","Keith","Liberal","Libéral",N,N,29
+13006,"Miramichi","Miramichi"," 131","Upper Blackville",N,N,"",1,339,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi","Miramichi"," 131","Upper Blackville",N,N,"",1,339,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 131","Upper Blackville",N,N,"",1,339,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,100
+13006,"Miramichi","Miramichi"," 131","Upper Blackville",N,N,"",1,339,"Vickers","","Keith","Liberal","Libéral",N,N,31
+13006,"Miramichi","Miramichi"," 500","Mobile poll/Bureau itinérant",N,N,"",1,74,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi","Miramichi"," 500","Mobile poll/Bureau itinérant",N,N,"",1,74,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," 500","Mobile poll/Bureau itinérant",N,N,"",1,74,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,30
+13006,"Miramichi","Miramichi"," 500","Mobile poll/Bureau itinérant",N,N,"",1,74,"Vickers","","Keith","Liberal","Libéral",N,N,27
+13006,"Miramichi","Miramichi"," 501","Mobile poll/Bureau itinérant",N,N,"",2,241,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi","Miramichi"," 501","Mobile poll/Bureau itinérant",N,N,"",2,241,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 501","Mobile poll/Bureau itinérant",N,N,"",2,241,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,52
+13006,"Miramichi","Miramichi"," 501","Mobile poll/Bureau itinérant",N,N,"",2,241,"Vickers","","Keith","Liberal","Libéral",N,N,39
+13006,"Miramichi","Miramichi"," 502","Mobile poll/Bureau itinérant",N,N,"",11,107,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi","Miramichi"," 502","Mobile poll/Bureau itinérant",N,N,"",11,107,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 502","Mobile poll/Bureau itinérant",N,N,"",11,107,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,17
+13006,"Miramichi","Miramichi"," 502","Mobile poll/Bureau itinérant",N,N,"",11,107,"Vickers","","Keith","Liberal","Libéral",N,N,40
+13006,"Miramichi","Miramichi"," 600","Belledune",N,N,"",10,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+13006,"Miramichi","Miramichi"," 600","Belledune",N,N,"",10,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,9
+13006,"Miramichi","Miramichi"," 600","Belledune",N,N,"",10,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,147
+13006,"Miramichi","Miramichi"," 600","Belledune",N,N,"",10,0,"Vickers","","Keith","Liberal","Libéral",N,N,99
+13006,"Miramichi","Miramichi"," 601","Miramichi",N,N,"",1,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13006,"Miramichi","Miramichi"," 601","Miramichi",N,N,"",1,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,4
+13006,"Miramichi","Miramichi"," 601","Miramichi",N,N,"",1,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,362
+13006,"Miramichi","Miramichi"," 601","Miramichi",N,N,"",1,0,"Vickers","","Keith","Liberal","Libéral",N,N,98
+13006,"Miramichi","Miramichi"," 602","Neguac",N,N,"",1,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13006,"Miramichi","Miramichi"," 602","Neguac",N,N,"",1,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,3
+13006,"Miramichi","Miramichi"," 602","Neguac",N,N,"",1,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,142
+13006,"Miramichi","Miramichi"," 602","Neguac",N,N,"",1,0,"Vickers","","Keith","Liberal","Libéral",N,N,65
+13006,"Miramichi","Miramichi"," 603","Sunny Corner--Red Bank",N,N,"",2,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+13006,"Miramichi","Miramichi"," 603","Sunny Corner--Red Bank",N,N,"",2,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,5
+13006,"Miramichi","Miramichi"," 603","Sunny Corner--Red Bank",N,N,"",2,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,209
+13006,"Miramichi","Miramichi"," 603","Sunny Corner--Red Bank",N,N,"",2,0,"Vickers","","Keith","Liberal","Libéral",N,N,83
+13006,"Miramichi","Miramichi"," 604","Miramichi",N,N,"",0,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+13006,"Miramichi","Miramichi"," 604","Miramichi",N,N,"",0,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,15
+13006,"Miramichi","Miramichi"," 604","Miramichi",N,N,"",0,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,422
+13006,"Miramichi","Miramichi"," 604","Miramichi",N,N,"",0,0,"Vickers","","Keith","Liberal","Libéral",N,N,163
+13006,"Miramichi","Miramichi"," 605","Miramichi",N,N,"",4,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+13006,"Miramichi","Miramichi"," 605","Miramichi",N,N,"",4,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,19
+13006,"Miramichi","Miramichi"," 605","Miramichi",N,N,"",4,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,476
+13006,"Miramichi","Miramichi"," 605","Miramichi",N,N,"",4,0,"Vickers","","Keith","Liberal","Libéral",N,N,211
+13006,"Miramichi","Miramichi"," 606","Miramichi",N,N,"",2,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi","Miramichi"," 606","Miramichi",N,N,"",2,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 606","Miramichi",N,N,"",2,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,233
+13006,"Miramichi","Miramichi"," 606","Miramichi",N,N,"",2,0,"Vickers","","Keith","Liberal","Libéral",N,N,83
+13006,"Miramichi","Miramichi"," 607","Baie-Sainte-Anne",N,N,"",0,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13006,"Miramichi","Miramichi"," 607","Baie-Sainte-Anne",N,N,"",0,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,7
+13006,"Miramichi","Miramichi"," 607","Baie-Sainte-Anne",N,N,"",0,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,154
+13006,"Miramichi","Miramichi"," 607","Baie-Sainte-Anne",N,N,"",0,0,"Vickers","","Keith","Liberal","Libéral",N,N,132
+13006,"Miramichi","Miramichi"," 608","Doaktown",N,N,"",1,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13006,"Miramichi","Miramichi"," 608","Doaktown",N,N,"",1,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 608","Doaktown",N,N,"",1,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,193
+13006,"Miramichi","Miramichi"," 608","Doaktown",N,N,"",1,0,"Vickers","","Keith","Liberal","Libéral",N,N,72
+13006,"Miramichi","Miramichi"," 609","Rogersville",N,N,"",16,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+13006,"Miramichi","Miramichi"," 609","Rogersville",N,N,"",16,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,17
+13006,"Miramichi","Miramichi"," 609","Rogersville",N,N,"",16,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,202
+13006,"Miramichi","Miramichi"," 609","Rogersville",N,N,"",16,0,"Vickers","","Keith","Liberal","Libéral",N,N,127
+13006,"Miramichi","Miramichi"," 610","Blackville",N,N,"",4,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13006,"Miramichi","Miramichi"," 610","Blackville",N,N,"",4,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,1
+13006,"Miramichi","Miramichi"," 610","Blackville",N,N,"",4,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,297
+13006,"Miramichi","Miramichi"," 610","Blackville",N,N,"",4,0,"Vickers","","Keith","Liberal","Libéral",N,N,59
+13006,"Miramichi","Miramichi"," 611","Neguac",N,N,"",5,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,130
+13006,"Miramichi","Miramichi"," 611","Neguac",N,N,"",5,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,6
+13006,"Miramichi","Miramichi"," 611","Neguac",N,N,"",5,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,145
+13006,"Miramichi","Miramichi"," 611","Neguac",N,N,"",5,0,"Vickers","","Keith","Liberal","Libéral",N,N,140
+13006,"Miramichi","Miramichi"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,277,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi","Miramichi"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,277,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,2
+13006,"Miramichi","Miramichi"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,277,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,68
+13006,"Miramichi","Miramichi"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,277,"Vickers","","Keith","Liberal","Libéral",N,N,33
+13006,"Miramichi","Miramichi"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13006,"Miramichi","Miramichi"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Mazerolle","","Ronald","Green Party","Parti Vert",N,N,12
+13006,"Miramichi","Miramichi"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"O'Neill Gordon","","Tilly","Conservative","Conservateur",Y,Y,517
+13006,"Miramichi","Miramichi"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",10,0,"Vickers","","Keith","Liberal","Libéral",N,N,271

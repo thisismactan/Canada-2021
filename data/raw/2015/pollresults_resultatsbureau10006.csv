@@ -1,0 +1,956 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+10006,"St. John's East ","St. John's-Est"," 1","Pouch Cove",N,N,"",0,388,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 1","Pouch Cove",N,N,"",0,388,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,109
+10006,"St. John's East ","St. John's-Est"," 1","Pouch Cove",N,N,"",0,388,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 1","Pouch Cove",N,N,"",0,388,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 1","Pouch Cove",N,N,"",0,388,"Whalen","","Nick","Liberal","Libéral",N,Y,90
+10006,"St. John's East ","St. John's-Est"," 2","Pouch Cove",N,N,"",1,444,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 2","Pouch Cove",N,N,"",1,444,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,109
+10006,"St. John's East ","St. John's-Est"," 2","Pouch Cove",N,N,"",1,444,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 2","Pouch Cove",N,N,"",1,444,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 2","Pouch Cove",N,N,"",1,444,"Whalen","","Nick","Liberal","Libéral",N,Y,95
+10006,"St. John's East ","St. John's-Est"," 3","Pouch Cove",N,N,"",4,233,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 3","Pouch Cove",N,N,"",4,233,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 3","Pouch Cove",N,N,"",4,233,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 3","Pouch Cove",N,N,"",4,233,"Stapleton","","Deanne","Conservative","Conservateur",N,N,3
+10006,"St. John's East ","St. John's-Est"," 3","Pouch Cove",N,N,"",4,233,"Whalen","","Nick","Liberal","Libéral",N,Y,46
+10006,"St. John's East ","St. John's-Est"," 4","Pouch Cove",N,N,"",0,528,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 4","Pouch Cove",N,N,"",0,528,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,168
+10006,"St. John's East ","St. John's-Est"," 4","Pouch Cove",N,N,"",0,528,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 4","Pouch Cove",N,N,"",0,528,"Stapleton","","Deanne","Conservative","Conservateur",N,N,5
+10006,"St. John's East ","St. John's-Est"," 4","Pouch Cove",N,N,"",0,528,"Whalen","","Nick","Liberal","Libéral",N,Y,97
+10006,"St. John's East ","St. John's-Est"," 5","Flatrock",N,N,"",0,390,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 5","Flatrock",N,N,"",0,390,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,155
+10006,"St. John's East ","St. John's-Est"," 5","Flatrock",N,N,"",0,390,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 5","Flatrock",N,N,"",0,390,"Stapleton","","Deanne","Conservative","Conservateur",N,N,4
+10006,"St. John's East ","St. John's-Est"," 5","Flatrock",N,N,"",0,390,"Whalen","","Nick","Liberal","Libéral",N,Y,88
+10006,"St. John's East ","St. John's-Est"," 6","Flatrock",N,N,"",0,507,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 6","Flatrock",N,N,"",0,507,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,144
+10006,"St. John's East ","St. John's-Est"," 6","Flatrock",N,N,"",0,507,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 6","Flatrock",N,N,"",0,507,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 6","Flatrock",N,N,"",0,507,"Whalen","","Nick","Liberal","Libéral",N,Y,135
+10006,"St. John's East ","St. John's-Est"," 7","Flatrock",N,N,"",1,386,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 7","Flatrock",N,N,"",1,386,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,141
+10006,"St. John's East ","St. John's-Est"," 7","Flatrock",N,N,"",1,386,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 7","Flatrock",N,N,"",1,386,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 7","Flatrock",N,N,"",1,386,"Whalen","","Nick","Liberal","Libéral",N,Y,79
+10006,"St. John's East ","St. John's-Est"," 8","Torbay",N,N,"",0,330,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 8","Torbay",N,N,"",0,330,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,88
+10006,"St. John's East ","St. John's-Est"," 8","Torbay",N,N,"",0,330,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 8","Torbay",N,N,"",0,330,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 8","Torbay",N,N,"",0,330,"Whalen","","Nick","Liberal","Libéral",N,Y,80
+10006,"St. John's East ","St. John's-Est"," 9","Torbay",N,N,"",1,455,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 9","Torbay",N,N,"",1,455,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,122
+10006,"St. John's East ","St. John's-Est"," 9","Torbay",N,N,"",1,455,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 9","Torbay",N,N,"",1,455,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 9","Torbay",N,N,"",1,455,"Whalen","","Nick","Liberal","Libéral",N,Y,102
+10006,"St. John's East ","St. John's-Est"," 10","Torbay",N,N,"",0,434,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 10","Torbay",N,N,"",0,434,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,98
+10006,"St. John's East ","St. John's-Est"," 10","Torbay",N,N,"",0,434,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 10","Torbay",N,N,"",0,434,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 10","Torbay",N,N,"",0,434,"Whalen","","Nick","Liberal","Libéral",N,Y,108
+10006,"St. John's East ","St. John's-Est"," 11","Torbay",N,N,"",1,430,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 11","Torbay",N,N,"",1,430,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,123
+10006,"St. John's East ","St. John's-Est"," 11","Torbay",N,N,"",1,430,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 11","Torbay",N,N,"",1,430,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 11","Torbay",N,N,"",1,430,"Whalen","","Nick","Liberal","Libéral",N,Y,98
+10006,"St. John's East ","St. John's-Est"," 12","Torbay",N,N,"",2,455,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 12","Torbay",N,N,"",2,455,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,109
+10006,"St. John's East ","St. John's-Est"," 12","Torbay",N,N,"",2,455,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 12","Torbay",N,N,"",2,455,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 12","Torbay",N,N,"",2,455,"Whalen","","Nick","Liberal","Libéral",N,Y,108
+10006,"St. John's East ","St. John's-Est"," 13","Torbay",N,N,"",0,439,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 13","Torbay",N,N,"",0,439,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,114
+10006,"St. John's East ","St. John's-Est"," 13","Torbay",N,N,"",0,439,"Peters","","David Anthony","Green Party","Parti Vert",N,N,7
+10006,"St. John's East ","St. John's-Est"," 13","Torbay",N,N,"",0,439,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 13","Torbay",N,N,"",0,439,"Whalen","","Nick","Liberal","Libéral",N,Y,109
+10006,"St. John's East ","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,445,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,445,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,145
+10006,"St. John's East ","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,445,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,445,"Stapleton","","Deanne","Conservative","Conservateur",N,N,22
+10006,"St. John's East ","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,445,"Whalen","","Nick","Liberal","Libéral",N,Y,108
+10006,"St. John's East ","St. John's-Est"," 15","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,401,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 15","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,401,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,108
+10006,"St. John's East ","St. John's-Est"," 15","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,401,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 15","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,401,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 15","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,401,"Whalen","","Nick","Liberal","Libéral",N,Y,92
+10006,"St. John's East ","St. John's-Est"," 16","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,425,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 16","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,425,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,141
+10006,"St. John's East ","St. John's-Est"," 16","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,425,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 16","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,425,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 16","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,425,"Whalen","","Nick","Liberal","Libéral",N,Y,112
+10006,"St. John's East ","St. John's-Est"," 17","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,290,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 17","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,290,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 17","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,290,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 17","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,290,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 17","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,290,"Whalen","","Nick","Liberal","Libéral",N,Y,81
+10006,"St. John's East ","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,367,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,367,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,146
+10006,"St. John's East ","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,367,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,367,"Stapleton","","Deanne","Conservative","Conservateur",N,N,10
+10006,"St. John's East ","St. John's-Est"," 18","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,367,"Whalen","","Nick","Liberal","Libéral",N,Y,82
+10006,"St. John's East ","St. John's-Est"," 19","Torbay",N,N,"",0,488,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 19","Torbay",N,N,"",0,488,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,118
+10006,"St. John's East ","St. John's-Est"," 19","Torbay",N,N,"",0,488,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 19","Torbay",N,N,"",0,488,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 19","Torbay",N,N,"",0,488,"Whalen","","Nick","Liberal","Libéral",N,Y,123
+10006,"St. John's East ","St. John's-Est"," 20","Torbay",N,N,"",0,442,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 20","Torbay",N,N,"",0,442,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10006,"St. John's East ","St. John's-Est"," 20","Torbay",N,N,"",0,442,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 20","Torbay",N,N,"",0,442,"Stapleton","","Deanne","Conservative","Conservateur",N,N,18
+10006,"St. John's East ","St. John's-Est"," 20","Torbay",N,N,"",0,442,"Whalen","","Nick","Liberal","Libéral",N,Y,139
+10006,"St. John's East ","St. John's-Est"," 21","Torbay",N,N,"",2,443,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 21","Torbay",N,N,"",2,443,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,104
+10006,"St. John's East ","St. John's-Est"," 21","Torbay",N,N,"",2,443,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 21","Torbay",N,N,"",2,443,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 21","Torbay",N,N,"",2,443,"Whalen","","Nick","Liberal","Libéral",N,Y,113
+10006,"St. John's East ","St. John's-Est"," 22","Torbay",N,N,"",0,458,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 22","Torbay",N,N,"",0,458,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,111
+10006,"St. John's East ","St. John's-Est"," 22","Torbay",N,N,"",0,458,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 22","Torbay",N,N,"",0,458,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 22","Torbay",N,N,"",0,458,"Whalen","","Nick","Liberal","Libéral",N,Y,106
+10006,"St. John's East ","St. John's-Est"," 23","Torbay",N,N,"",0,444,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 23","Torbay",N,N,"",0,444,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,124
+10006,"St. John's East ","St. John's-Est"," 23","Torbay",N,N,"",0,444,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 23","Torbay",N,N,"",0,444,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 23","Torbay",N,N,"",0,444,"Whalen","","Nick","Liberal","Libéral",N,Y,107
+10006,"St. John's East ","St. John's-Est"," 24","Torbay",N,N,"",0,445,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 24","Torbay",N,N,"",0,445,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10006,"St. John's East ","St. John's-Est"," 24","Torbay",N,N,"",0,445,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 24","Torbay",N,N,"",0,445,"Stapleton","","Deanne","Conservative","Conservateur",N,N,25
+10006,"St. John's East ","St. John's-Est"," 24","Torbay",N,N,"",0,445,"Whalen","","Nick","Liberal","Libéral",N,Y,111
+10006,"St. John's East ","St. John's-Est"," 25","Torbay",N,N,"",0,499,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 25","Torbay",N,N,"",0,499,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,105
+10006,"St. John's East ","St. John's-Est"," 25","Torbay",N,N,"",0,499,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 25","Torbay",N,N,"",0,499,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 25","Torbay",N,N,"",0,499,"Whalen","","Nick","Liberal","Libéral",N,Y,128
+10006,"St. John's East ","St. John's-Est"," 26A","Bauline",N,N,"",0,298,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 26A","Bauline",N,N,"",0,298,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,89
+10006,"St. John's East ","St. John's-Est"," 26A","Bauline",N,N,"",0,298,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 26A","Bauline",N,N,"",0,298,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 26A","Bauline",N,N,"",0,298,"Whalen","","Nick","Liberal","Libéral",N,Y,77
+10006,"St. John's East ","St. John's-Est"," 26B","Bauline",N,N,"",0,307,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 26B","Bauline",N,N,"",0,307,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,89
+10006,"St. John's East ","St. John's-Est"," 26B","Bauline",N,N,"",0,307,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 26B","Bauline",N,N,"",0,307,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 26B","Bauline",N,N,"",0,307,"Whalen","","Nick","Liberal","Libéral",N,Y,80
+10006,"St. John's East ","St. John's-Est"," 27","Bauline",N,N,"",1,361,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 27","Bauline",N,N,"",1,361,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,90
+10006,"St. John's East ","St. John's-Est"," 27","Bauline",N,N,"",1,361,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 27","Bauline",N,N,"",1,361,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 27","Bauline",N,N,"",1,361,"Whalen","","Nick","Liberal","Libéral",N,Y,106
+10006,"St. John's East ","St. John's-Est"," 28","St. John's",N,N,"",2,514,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 28","St. John's",N,N,"",2,514,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,98
+10006,"St. John's East ","St. John's-Est"," 28","St. John's",N,N,"",2,514,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 28","St. John's",N,N,"",2,514,"Stapleton","","Deanne","Conservative","Conservateur",N,N,33
+10006,"St. John's East ","St. John's-Est"," 28","St. John's",N,N,"",2,514,"Whalen","","Nick","Liberal","Libéral",N,Y,200
+10006,"St. John's East ","St. John's-Est"," 29A","St. John's",N,N,"",1,292,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 29A","St. John's",N,N,"",1,292,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+10006,"St. John's East ","St. John's-Est"," 29A","St. John's",N,N,"",1,292,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 29A","St. John's",N,N,"",1,292,"Stapleton","","Deanne","Conservative","Conservateur",N,N,25
+10006,"St. John's East ","St. John's-Est"," 29A","St. John's",N,N,"",1,292,"Whalen","","Nick","Liberal","Libéral",N,Y,125
+10006,"St. John's East ","St. John's-Est"," 29B","St. John's",N,N,"",0,303,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 29B","St. John's",N,N,"",0,303,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+10006,"St. John's East ","St. John's-Est"," 29B","St. John's",N,N,"",0,303,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 29B","St. John's",N,N,"",0,303,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 29B","St. John's",N,N,"",0,303,"Whalen","","Nick","Liberal","Libéral",N,Y,116
+10006,"St. John's East ","St. John's-Est"," 30","St. John's",N,N,"",1,326,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 30","St. John's",N,N,"",1,326,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10006,"St. John's East ","St. John's-Est"," 30","St. John's",N,N,"",1,326,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 30","St. John's",N,N,"",1,326,"Stapleton","","Deanne","Conservative","Conservateur",N,N,20
+10006,"St. John's East ","St. John's-Est"," 30","St. John's",N,N,"",1,326,"Whalen","","Nick","Liberal","Libéral",N,Y,112
+10006,"St. John's East ","St. John's-Est"," 31","St. John's",N,N,"",1,421,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 31","St. John's",N,N,"",1,421,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,81
+10006,"St. John's East ","St. John's-Est"," 31","St. John's",N,N,"",1,421,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 31","St. John's",N,N,"",1,421,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 31","St. John's",N,N,"",1,421,"Whalen","","Nick","Liberal","Libéral",N,Y,127
+10006,"St. John's East ","St. John's-Est"," 32","St. John's",N,N,"",0,342,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 32","St. John's",N,N,"",0,342,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,71
+10006,"St. John's East ","St. John's-Est"," 32","St. John's",N,N,"",0,342,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 32","St. John's",N,N,"",0,342,"Stapleton","","Deanne","Conservative","Conservateur",N,N,24
+10006,"St. John's East ","St. John's-Est"," 32","St. John's",N,N,"",0,342,"Whalen","","Nick","Liberal","Libéral",N,Y,134
+10006,"St. John's East ","St. John's-Est"," 33","St. John's",N,N,"",0,357,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 33","St. John's",N,N,"",0,357,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+10006,"St. John's East ","St. John's-Est"," 33","St. John's",N,N,"",0,357,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 33","St. John's",N,N,"",0,357,"Stapleton","","Deanne","Conservative","Conservateur",N,N,21
+10006,"St. John's East ","St. John's-Est"," 33","St. John's",N,N,"",0,357,"Whalen","","Nick","Liberal","Libéral",N,Y,126
+10006,"St. John's East ","St. John's-Est"," 34","St. John's",N,N,"",0,430,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 34","St. John's",N,N,"",0,430,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,98
+10006,"St. John's East ","St. John's-Est"," 34","St. John's",N,N,"",0,430,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 34","St. John's",N,N,"",0,430,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 34","St. John's",N,N,"",0,430,"Whalen","","Nick","Liberal","Libéral",N,Y,122
+10006,"St. John's East ","St. John's-Est"," 35","St. John's",N,N,"",1,553,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 35","St. John's",N,N,"",1,553,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,143
+10006,"St. John's East ","St. John's-Est"," 35","St. John's",N,N,"",1,553,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 35","St. John's",N,N,"",1,553,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 35","St. John's",N,N,"",1,553,"Whalen","","Nick","Liberal","Libéral",N,Y,205
+10006,"St. John's East ","St. John's-Est"," 36","St. John's",N,N,"",0,531,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 36","St. John's",N,N,"",0,531,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,115
+10006,"St. John's East ","St. John's-Est"," 36","St. John's",N,N,"",0,531,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 36","St. John's",N,N,"",0,531,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 36","St. John's",N,N,"",0,531,"Whalen","","Nick","Liberal","Libéral",N,Y,196
+10006,"St. John's East ","St. John's-Est"," 37","St. John's",N,N,"",0,347,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 37","St. John's",N,N,"",0,347,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,87
+10006,"St. John's East ","St. John's-Est"," 37","St. John's",N,N,"",0,347,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 37","St. John's",N,N,"",0,347,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 37","St. John's",N,N,"",0,347,"Whalen","","Nick","Liberal","Libéral",N,Y,105
+10006,"St. John's East ","St. John's-Est"," 38","St. John's",N,N,"",1,446,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 38","St. John's",N,N,"",1,446,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,92
+10006,"St. John's East ","St. John's-Est"," 38","St. John's",N,N,"",1,446,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 38","St. John's",N,N,"",1,446,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 38","St. John's",N,N,"",1,446,"Whalen","","Nick","Liberal","Libéral",N,Y,126
+10006,"St. John's East ","St. John's-Est"," 39","St. John's",N,N,"",0,444,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 39","St. John's",N,N,"",0,444,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,134
+10006,"St. John's East ","St. John's-Est"," 39","St. John's",N,N,"",0,444,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 39","St. John's",N,N,"",0,444,"Stapleton","","Deanne","Conservative","Conservateur",N,N,28
+10006,"St. John's East ","St. John's-Est"," 39","St. John's",N,N,"",0,444,"Whalen","","Nick","Liberal","Libéral",N,Y,134
+10006,"St. John's East ","St. John's-Est"," 40","St. John's",N,N,"",2,321,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 40","St. John's",N,N,"",2,321,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+10006,"St. John's East ","St. John's-Est"," 40","St. John's",N,N,"",2,321,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 40","St. John's",N,N,"",2,321,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 40","St. John's",N,N,"",2,321,"Whalen","","Nick","Liberal","Libéral",N,Y,74
+10006,"St. John's East ","St. John's-Est"," 41","St. John's",N,N,"",0,267,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 41","St. John's",N,N,"",0,267,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,87
+10006,"St. John's East ","St. John's-Est"," 41","St. John's",N,N,"",0,267,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 41","St. John's",N,N,"",0,267,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 41","St. John's",N,N,"",0,267,"Whalen","","Nick","Liberal","Libéral",N,Y,78
+10006,"St. John's East ","St. John's-Est"," 42","St. John's",N,N,"",0,458,"Burton","","Sean","Communist","Communiste",N,N,5
+10006,"St. John's East ","St. John's-Est"," 42","St. John's",N,N,"",0,458,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,150
+10006,"St. John's East ","St. John's-Est"," 42","St. John's",N,N,"",0,458,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 42","St. John's",N,N,"",0,458,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 42","St. John's",N,N,"",0,458,"Whalen","","Nick","Liberal","Libéral",N,Y,82
+10006,"St. John's East ","St. John's-Est"," 43","St. John's",N,N,"",0,445,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 43","St. John's",N,N,"",0,445,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10006,"St. John's East ","St. John's-Est"," 43","St. John's",N,N,"",0,445,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 43","St. John's",N,N,"",0,445,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 43","St. John's",N,N,"",0,445,"Whalen","","Nick","Liberal","Libéral",N,Y,89
+10006,"St. John's East ","St. John's-Est"," 44","St. John's",N,N,"",1,281,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 44","St. John's",N,N,"",1,281,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+10006,"St. John's East ","St. John's-Est"," 44","St. John's",N,N,"",1,281,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 44","St. John's",N,N,"",1,281,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 44","St. John's",N,N,"",1,281,"Whalen","","Nick","Liberal","Libéral",N,Y,89
+10006,"St. John's East ","St. John's-Est"," 45","St. John's",N,N,"",1,397,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 45","St. John's",N,N,"",1,397,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10006,"St. John's East ","St. John's-Est"," 45","St. John's",N,N,"",1,397,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 45","St. John's",N,N,"",1,397,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 45","St. John's",N,N,"",1,397,"Whalen","","Nick","Liberal","Libéral",N,Y,113
+10006,"St. John's East ","St. John's-Est"," 46","St. John's",N,N,"",1,499,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 46","St. John's",N,N,"",1,499,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 46","St. John's",N,N,"",1,499,"Peters","","David Anthony","Green Party","Parti Vert",N,N,7
+10006,"St. John's East ","St. John's-Est"," 46","St. John's",N,N,"",1,499,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 46","St. John's",N,N,"",1,499,"Whalen","","Nick","Liberal","Libéral",N,Y,158
+10006,"St. John's East ","St. John's-Est"," 47","St. John's",N,N,"",1,356,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 47","St. John's",N,N,"",1,356,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10006,"St. John's East ","St. John's-Est"," 47","St. John's",N,N,"",1,356,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 47","St. John's",N,N,"",1,356,"Stapleton","","Deanne","Conservative","Conservateur",N,N,4
+10006,"St. John's East ","St. John's-Est"," 47","St. John's",N,N,"",1,356,"Whalen","","Nick","Liberal","Libéral",N,Y,82
+10006,"St. John's East ","St. John's-Est"," 48","St. John's",N,N,"",0,399,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 48","St. John's",N,N,"",0,399,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,100
+10006,"St. John's East ","St. John's-Est"," 48","St. John's",N,N,"",0,399,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 48","St. John's",N,N,"",0,399,"Stapleton","","Deanne","Conservative","Conservateur",N,N,18
+10006,"St. John's East ","St. John's-Est"," 48","St. John's",N,N,"",0,399,"Whalen","","Nick","Liberal","Libéral",N,Y,90
+10006,"St. John's East ","St. John's-Est"," 49","St. John's",N,N,"",0,422,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 49","St. John's",N,N,"",0,422,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+10006,"St. John's East ","St. John's-Est"," 49","St. John's",N,N,"",0,422,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 49","St. John's",N,N,"",0,422,"Stapleton","","Deanne","Conservative","Conservateur",N,N,10
+10006,"St. John's East ","St. John's-Est"," 49","St. John's",N,N,"",0,422,"Whalen","","Nick","Liberal","Libéral",N,Y,94
+10006,"St. John's East ","St. John's-Est"," 50","St. John's",N,N,"",1,434,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 50","St. John's",N,N,"",1,434,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,127
+10006,"St. John's East ","St. John's-Est"," 50","St. John's",N,N,"",1,434,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 50","St. John's",N,N,"",1,434,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 50","St. John's",N,N,"",1,434,"Whalen","","Nick","Liberal","Libéral",N,Y,104
+10006,"St. John's East ","St. John's-Est"," 51A","St. John's",N,N,"",0,327,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 51A","St. John's",N,N,"",0,327,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,79
+10006,"St. John's East ","St. John's-Est"," 51A","St. John's",N,N,"",0,327,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 51A","St. John's",N,N,"",0,327,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 51A","St. John's",N,N,"",0,327,"Whalen","","Nick","Liberal","Libéral",N,Y,89
+10006,"St. John's East ","St. John's-Est"," 51B","St. John's",N,N,"",0,311,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 51B","St. John's",N,N,"",0,311,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,74
+10006,"St. John's East ","St. John's-Est"," 51B","St. John's",N,N,"",0,311,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 51B","St. John's",N,N,"",0,311,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 51B","St. John's",N,N,"",0,311,"Whalen","","Nick","Liberal","Libéral",N,Y,95
+10006,"St. John's East ","St. John's-Est"," 52","St. John's",N,N,"",0,382,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 52","St. John's",N,N,"",0,382,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+10006,"St. John's East ","St. John's-Est"," 52","St. John's",N,N,"",0,382,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 52","St. John's",N,N,"",0,382,"Stapleton","","Deanne","Conservative","Conservateur",N,N,2
+10006,"St. John's East ","St. John's-Est"," 52","St. John's",N,N,"",0,382,"Whalen","","Nick","Liberal","Libéral",N,Y,71
+10006,"St. John's East ","St. John's-Est"," 53A","St. John's",N,N,"",0,345,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 53A","St. John's",N,N,"",0,345,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 53A","St. John's",N,N,"",0,345,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 53A","St. John's",N,N,"",0,345,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 53A","St. John's",N,N,"",0,345,"Whalen","","Nick","Liberal","Libéral",N,Y,98
+10006,"St. John's East ","St. John's-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"504A",0,210,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"504A",0,210,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+10006,"St. John's East ","St. John's-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"504A",0,210,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"504A",0,210,"Stapleton","","Deanne","Conservative","Conservateur",N,N,0
+10006,"St. John's East ","St. John's-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"504A",0,210,"Whalen","","Nick","Liberal","Libéral",N,Y,0
+10006,"St. John's East ","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+10006,"St. John's East ","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 54","St. John's",N,N,"",0,288,"Whalen","","Nick","Liberal","Libéral",N,Y,52
+10006,"St. John's East ","St. John's-Est"," 55","St. John's",N,N,"",1,341,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 55","St. John's",N,N,"",1,341,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,117
+10006,"St. John's East ","St. John's-Est"," 55","St. John's",N,N,"",1,341,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 55","St. John's",N,N,"",1,341,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 55","St. John's",N,N,"",1,341,"Whalen","","Nick","Liberal","Libéral",N,Y,61
+10006,"St. John's East ","St. John's-Est"," 56","St. John's",N,N,"",0,290,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 56","St. John's",N,N,"",0,290,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,92
+10006,"St. John's East ","St. John's-Est"," 56","St. John's",N,N,"",0,290,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 56","St. John's",N,N,"",0,290,"Stapleton","","Deanne","Conservative","Conservateur",N,N,1
+10006,"St. John's East ","St. John's-Est"," 56","St. John's",N,N,"",0,290,"Whalen","","Nick","Liberal","Libéral",N,Y,67
+10006,"St. John's East ","St. John's-Est"," 57","St. John's",N,N,"",1,363,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 57","St. John's",N,N,"",1,363,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10006,"St. John's East ","St. John's-Est"," 57","St. John's",N,N,"",1,363,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 57","St. John's",N,N,"",1,363,"Stapleton","","Deanne","Conservative","Conservateur",N,N,20
+10006,"St. John's East ","St. John's-Est"," 57","St. John's",N,N,"",1,363,"Whalen","","Nick","Liberal","Libéral",N,Y,92
+10006,"St. John's East ","St. John's-Est"," 58","St. John's",N,N,"",0,315,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 58","St. John's",N,N,"",0,315,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,81
+10006,"St. John's East ","St. John's-Est"," 58","St. John's",N,N,"",0,315,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 58","St. John's",N,N,"",0,315,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 58","St. John's",N,N,"",0,315,"Whalen","","Nick","Liberal","Libéral",N,Y,75
+10006,"St. John's East ","St. John's-Est"," 59","St. John's",N,N,"",0,434,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 59","St. John's",N,N,"",0,434,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,99
+10006,"St. John's East ","St. John's-Est"," 59","St. John's",N,N,"",0,434,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 59","St. John's",N,N,"",0,434,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 59","St. John's",N,N,"",0,434,"Whalen","","Nick","Liberal","Libéral",N,Y,102
+10006,"St. John's East ","St. John's-Est"," 60","St. John's",N,N,"",0,422,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 60","St. John's",N,N,"",0,422,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 60","St. John's",N,N,"",0,422,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 60","St. John's",N,N,"",0,422,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 60","St. John's",N,N,"",0,422,"Whalen","","Nick","Liberal","Libéral",N,Y,135
+10006,"St. John's East ","St. John's-Est"," 61","St. John's",N,N,"",1,369,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 61","St. John's",N,N,"",1,369,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,105
+10006,"St. John's East ","St. John's-Est"," 61","St. John's",N,N,"",1,369,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 61","St. John's",N,N,"",1,369,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 61","St. John's",N,N,"",1,369,"Whalen","","Nick","Liberal","Libéral",N,Y,114
+10006,"St. John's East ","St. John's-Est"," 62","St. John's",N,N,"",0,447,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 62","St. John's",N,N,"",0,447,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,94
+10006,"St. John's East ","St. John's-Est"," 62","St. John's",N,N,"",0,447,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 62","St. John's",N,N,"",0,447,"Stapleton","","Deanne","Conservative","Conservateur",N,N,28
+10006,"St. John's East ","St. John's-Est"," 62","St. John's",N,N,"",0,447,"Whalen","","Nick","Liberal","Libéral",N,Y,109
+10006,"St. John's East ","St. John's-Est"," 63","St. John's",N,N,"",1,358,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 63","St. John's",N,N,"",1,358,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+10006,"St. John's East ","St. John's-Est"," 63","St. John's",N,N,"",1,358,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 63","St. John's",N,N,"",1,358,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 63","St. John's",N,N,"",1,358,"Whalen","","Nick","Liberal","Libéral",N,Y,99
+10006,"St. John's East ","St. John's-Est"," 64","St. John's",N,N,"",0,264,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 64","St. John's",N,N,"",0,264,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+10006,"St. John's East ","St. John's-Est"," 64","St. John's",N,N,"",0,264,"Peters","","David Anthony","Green Party","Parti Vert",N,N,9
+10006,"St. John's East ","St. John's-Est"," 64","St. John's",N,N,"",0,264,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 64","St. John's",N,N,"",0,264,"Whalen","","Nick","Liberal","Libéral",N,Y,82
+10006,"St. John's East ","St. John's-Est"," 65","St. John's",N,N,"",3,349,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 65","St. John's",N,N,"",3,349,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,75
+10006,"St. John's East ","St. John's-Est"," 65","St. John's",N,N,"",3,349,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 65","St. John's",N,N,"",3,349,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 65","St. John's",N,N,"",3,349,"Whalen","","Nick","Liberal","Libéral",N,Y,107
+10006,"St. John's East ","St. John's-Est"," 66","St. John's",N,N,"",0,290,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 66","St. John's",N,N,"",0,290,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+10006,"St. John's East ","St. John's-Est"," 66","St. John's",N,N,"",0,290,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 66","St. John's",N,N,"",0,290,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 66","St. John's",N,N,"",0,290,"Whalen","","Nick","Liberal","Libéral",N,Y,84
+10006,"St. John's East ","St. John's-Est"," 67","St. John's",N,N,"",1,408,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 67","St. John's",N,N,"",1,408,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,104
+10006,"St. John's East ","St. John's-Est"," 67","St. John's",N,N,"",1,408,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 67","St. John's",N,N,"",1,408,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 67","St. John's",N,N,"",1,408,"Whalen","","Nick","Liberal","Libéral",N,Y,110
+10006,"St. John's East ","St. John's-Est"," 68","St. John's",N,N,"",0,424,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 68","St. John's",N,N,"",0,424,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,92
+10006,"St. John's East ","St. John's-Est"," 68","St. John's",N,N,"",0,424,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 68","St. John's",N,N,"",0,424,"Stapleton","","Deanne","Conservative","Conservateur",N,N,23
+10006,"St. John's East ","St. John's-Est"," 68","St. John's",N,N,"",0,424,"Whalen","","Nick","Liberal","Libéral",N,Y,154
+10006,"St. John's East ","St. John's-Est"," 69","St. John's",N,N,"",0,448,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 69","St. John's",N,N,"",0,448,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,104
+10006,"St. John's East ","St. John's-Est"," 69","St. John's",N,N,"",0,448,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 69","St. John's",N,N,"",0,448,"Stapleton","","Deanne","Conservative","Conservateur",N,N,19
+10006,"St. John's East ","St. John's-Est"," 69","St. John's",N,N,"",0,448,"Whalen","","Nick","Liberal","Libéral",N,Y,129
+10006,"St. John's East ","St. John's-Est"," 70","St. John's",N,N,"",0,387,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 70","St. John's",N,N,"",0,387,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10006,"St. John's East ","St. John's-Est"," 70","St. John's",N,N,"",0,387,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 70","St. John's",N,N,"",0,387,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 70","St. John's",N,N,"",0,387,"Whalen","","Nick","Liberal","Libéral",N,Y,114
+10006,"St. John's East ","St. John's-Est"," 71","St. John's",N,N,"",0,331,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 71","St. John's",N,N,"",0,331,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10006,"St. John's East ","St. John's-Est"," 71","St. John's",N,N,"",0,331,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 71","St. John's",N,N,"",0,331,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 71","St. John's",N,N,"",0,331,"Whalen","","Nick","Liberal","Libéral",N,Y,89
+10006,"St. John's East ","St. John's-Est"," 72","St. John's",N,N,"",1,434,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 72","St. John's",N,N,"",1,434,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10006,"St. John's East ","St. John's-Est"," 72","St. John's",N,N,"",1,434,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 72","St. John's",N,N,"",1,434,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 72","St. John's",N,N,"",1,434,"Whalen","","Nick","Liberal","Libéral",N,Y,149
+10006,"St. John's East ","St. John's-Est"," 73","St. John's",N,N,"",0,466,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 73","St. John's",N,N,"",0,466,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,116
+10006,"St. John's East ","St. John's-Est"," 73","St. John's",N,N,"",0,466,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 73","St. John's",N,N,"",0,466,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 73","St. John's",N,N,"",0,466,"Whalen","","Nick","Liberal","Libéral",N,Y,132
+10006,"St. John's East ","St. John's-Est"," 74","St. John's",N,N,"",2,430,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 74","St. John's",N,N,"",2,430,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,95
+10006,"St. John's East ","St. John's-Est"," 74","St. John's",N,N,"",2,430,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 74","St. John's",N,N,"",2,430,"Stapleton","","Deanne","Conservative","Conservateur",N,N,25
+10006,"St. John's East ","St. John's-Est"," 74","St. John's",N,N,"",2,430,"Whalen","","Nick","Liberal","Libéral",N,Y,110
+10006,"St. John's East ","St. John's-Est"," 75","St. John's",N,N,"",0,455,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 75","St. John's",N,N,"",0,455,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,145
+10006,"St. John's East ","St. John's-Est"," 75","St. John's",N,N,"",0,455,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 75","St. John's",N,N,"",0,455,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 75","St. John's",N,N,"",0,455,"Whalen","","Nick","Liberal","Libéral",N,Y,120
+10006,"St. John's East ","St. John's-Est"," 76","St. John's",N,N,"",0,307,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 76","St. John's",N,N,"",0,307,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+10006,"St. John's East ","St. John's-Est"," 76","St. John's",N,N,"",0,307,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 76","St. John's",N,N,"",0,307,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 76","St. John's",N,N,"",0,307,"Whalen","","Nick","Liberal","Libéral",N,Y,66
+10006,"St. John's East ","St. John's-Est"," 77","St. John's",N,N,"",0,334,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 77","St. John's",N,N,"",0,334,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10006,"St. John's East ","St. John's-Est"," 77","St. John's",N,N,"",0,334,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 77","St. John's",N,N,"",0,334,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 77","St. John's",N,N,"",0,334,"Whalen","","Nick","Liberal","Libéral",N,Y,91
+10006,"St. John's East ","St. John's-Est"," 78","St. John's",N,N,"",1,357,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 78","St. John's",N,N,"",1,357,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,84
+10006,"St. John's East ","St. John's-Est"," 78","St. John's",N,N,"",1,357,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 78","St. John's",N,N,"",1,357,"Stapleton","","Deanne","Conservative","Conservateur",N,N,23
+10006,"St. John's East ","St. John's-Est"," 78","St. John's",N,N,"",1,357,"Whalen","","Nick","Liberal","Libéral",N,Y,108
+10006,"St. John's East ","St. John's-Est"," 79","St. John's",N,N,"",0,357,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 79","St. John's",N,N,"",0,357,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+10006,"St. John's East ","St. John's-Est"," 79","St. John's",N,N,"",0,357,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 79","St. John's",N,N,"",0,357,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 79","St. John's",N,N,"",0,357,"Whalen","","Nick","Liberal","Libéral",N,Y,79
+10006,"St. John's East ","St. John's-Est"," 80","St. John's",N,N,"",2,301,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 80","St. John's",N,N,"",2,301,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+10006,"St. John's East ","St. John's-Est"," 80","St. John's",N,N,"",2,301,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 80","St. John's",N,N,"",2,301,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 80","St. John's",N,N,"",2,301,"Whalen","","Nick","Liberal","Libéral",N,Y,76
+10006,"St. John's East ","St. John's-Est"," 81","St. John's",N,N,"",0,502,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 81","St. John's",N,N,"",0,502,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,115
+10006,"St. John's East ","St. John's-Est"," 81","St. John's",N,N,"",0,502,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 81","St. John's",N,N,"",0,502,"Stapleton","","Deanne","Conservative","Conservateur",N,N,23
+10006,"St. John's East ","St. John's-Est"," 81","St. John's",N,N,"",0,502,"Whalen","","Nick","Liberal","Libéral",N,Y,155
+10006,"St. John's East ","St. John's-Est"," 82","St. John's",N,N,"",1,434,"Burton","","Sean","Communist","Communiste",N,N,4
+10006,"St. John's East ","St. John's-Est"," 82","St. John's",N,N,"",1,434,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,117
+10006,"St. John's East ","St. John's-Est"," 82","St. John's",N,N,"",1,434,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 82","St. John's",N,N,"",1,434,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 82","St. John's",N,N,"",1,434,"Whalen","","Nick","Liberal","Libéral",N,Y,96
+10006,"St. John's East ","St. John's-Est"," 83","St. John's",N,N,"",1,320,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 83","St. John's",N,N,"",1,320,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,111
+10006,"St. John's East ","St. John's-Est"," 83","St. John's",N,N,"",1,320,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 83","St. John's",N,N,"",1,320,"Stapleton","","Deanne","Conservative","Conservateur",N,N,5
+10006,"St. John's East ","St. John's-Est"," 83","St. John's",N,N,"",1,320,"Whalen","","Nick","Liberal","Libéral",N,Y,72
+10006,"St. John's East ","St. John's-Est"," 84","St. John's",N,N,"",1,516,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 84","St. John's",N,N,"",1,516,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,142
+10006,"St. John's East ","St. John's-Est"," 84","St. John's",N,N,"",1,516,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 84","St. John's",N,N,"",1,516,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 84","St. John's",N,N,"",1,516,"Whalen","","Nick","Liberal","Libéral",N,Y,104
+10006,"St. John's East ","St. John's-Est"," 85","St. John's",N,N,"",0,447,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 85","St. John's",N,N,"",0,447,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,119
+10006,"St. John's East ","St. John's-Est"," 85","St. John's",N,N,"",0,447,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 85","St. John's",N,N,"",0,447,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 85","St. John's",N,N,"",0,447,"Whalen","","Nick","Liberal","Libéral",N,Y,114
+10006,"St. John's East ","St. John's-Est"," 86","St. John's",N,N,"",2,316,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 86","St. John's",N,N,"",2,316,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,88
+10006,"St. John's East ","St. John's-Est"," 86","St. John's",N,N,"",2,316,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 86","St. John's",N,N,"",2,316,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 86","St. John's",N,N,"",2,316,"Whalen","","Nick","Liberal","Libéral",N,Y,66
+10006,"St. John's East ","St. John's-Est"," 87","St. John's",N,N,"",1,491,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 87","St. John's",N,N,"",1,491,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,96
+10006,"St. John's East ","St. John's-Est"," 87","St. John's",N,N,"",1,491,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 87","St. John's",N,N,"",1,491,"Stapleton","","Deanne","Conservative","Conservateur",N,N,24
+10006,"St. John's East ","St. John's-Est"," 87","St. John's",N,N,"",1,491,"Whalen","","Nick","Liberal","Libéral",N,Y,109
+10006,"St. John's East ","St. John's-Est"," 88","St. John's",N,N,"",0,323,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 88","St. John's",N,N,"",0,323,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+10006,"St. John's East ","St. John's-Est"," 88","St. John's",N,N,"",0,323,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 88","St. John's",N,N,"",0,323,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 88","St. John's",N,N,"",0,323,"Whalen","","Nick","Liberal","Libéral",N,Y,110
+10006,"St. John's East ","St. John's-Est"," 89","St. John's",N,N,"",1,471,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 89","St. John's",N,N,"",1,471,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10006,"St. John's East ","St. John's-Est"," 89","St. John's",N,N,"",1,471,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 89","St. John's",N,N,"",1,471,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 89","St. John's",N,N,"",1,471,"Whalen","","Nick","Liberal","Libéral",N,Y,99
+10006,"St. John's East ","St. John's-Est"," 90","St. John's",N,N,"",3,423,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 90","St. John's",N,N,"",3,423,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10006,"St. John's East ","St. John's-Est"," 90","St. John's",N,N,"",3,423,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 90","St. John's",N,N,"",3,423,"Stapleton","","Deanne","Conservative","Conservateur",N,N,20
+10006,"St. John's East ","St. John's-Est"," 90","St. John's",N,N,"",3,423,"Whalen","","Nick","Liberal","Libéral",N,Y,138
+10006,"St. John's East ","St. John's-Est"," 91","St. John's",N,N,"",0,456,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 91","St. John's",N,N,"",0,456,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,98
+10006,"St. John's East ","St. John's-Est"," 91","St. John's",N,N,"",0,456,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 91","St. John's",N,N,"",0,456,"Stapleton","","Deanne","Conservative","Conservateur",N,N,18
+10006,"St. John's East ","St. John's-Est"," 91","St. John's",N,N,"",0,456,"Whalen","","Nick","Liberal","Libéral",N,Y,146
+10006,"St. John's East ","St. John's-Est"," 92","St. John's",N,N,"",0,434,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 92","St. John's",N,N,"",0,434,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,91
+10006,"St. John's East ","St. John's-Est"," 92","St. John's",N,N,"",0,434,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 92","St. John's",N,N,"",0,434,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 92","St. John's",N,N,"",0,434,"Whalen","","Nick","Liberal","Libéral",N,Y,134
+10006,"St. John's East ","St. John's-Est"," 93","St. John's",N,N,"",0,384,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 93","St. John's",N,N,"",0,384,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,123
+10006,"St. John's East ","St. John's-Est"," 93","St. John's",N,N,"",0,384,"Peters","","David Anthony","Green Party","Parti Vert",N,N,9
+10006,"St. John's East ","St. John's-Est"," 93","St. John's",N,N,"",0,384,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 93","St. John's",N,N,"",0,384,"Whalen","","Nick","Liberal","Libéral",N,Y,87
+10006,"St. John's East ","St. John's-Est"," 94","St. John's",N,N,"",0,402,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 94","St. John's",N,N,"",0,402,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,102
+10006,"St. John's East ","St. John's-Est"," 94","St. John's",N,N,"",0,402,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 94","St. John's",N,N,"",0,402,"Stapleton","","Deanne","Conservative","Conservateur",N,N,19
+10006,"St. John's East ","St. John's-Est"," 94","St. John's",N,N,"",0,402,"Whalen","","Nick","Liberal","Libéral",N,Y,124
+10006,"St. John's East ","St. John's-Est"," 95","St. John's",N,N,"",0,452,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 95","St. John's",N,N,"",0,452,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,134
+10006,"St. John's East ","St. John's-Est"," 95","St. John's",N,N,"",0,452,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 95","St. John's",N,N,"",0,452,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 95","St. John's",N,N,"",0,452,"Whalen","","Nick","Liberal","Libéral",N,Y,111
+10006,"St. John's East ","St. John's-Est"," 96","St. John's",N,N,"",0,377,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 96","St. John's",N,N,"",0,377,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10006,"St. John's East ","St. John's-Est"," 96","St. John's",N,N,"",0,377,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 96","St. John's",N,N,"",0,377,"Stapleton","","Deanne","Conservative","Conservateur",N,N,19
+10006,"St. John's East ","St. John's-Est"," 96","St. John's",N,N,"",0,377,"Whalen","","Nick","Liberal","Libéral",N,Y,116
+10006,"St. John's East ","St. John's-Est"," 97","St. John's",N,N,"",0,337,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 97","St. John's",N,N,"",0,337,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10006,"St. John's East ","St. John's-Est"," 97","St. John's",N,N,"",0,337,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 97","St. John's",N,N,"",0,337,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 97","St. John's",N,N,"",0,337,"Whalen","","Nick","Liberal","Libéral",N,Y,79
+10006,"St. John's East ","St. John's-Est"," 98","St. John's",N,N,"",0,381,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 98","St. John's",N,N,"",0,381,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,99
+10006,"St. John's East ","St. John's-Est"," 98","St. John's",N,N,"",0,381,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 98","St. John's",N,N,"",0,381,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 98","St. John's",N,N,"",0,381,"Whalen","","Nick","Liberal","Libéral",N,Y,69
+10006,"St. John's East ","St. John's-Est"," 99","St. John's",N,N,"",2,327,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 99","St. John's",N,N,"",2,327,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,92
+10006,"St. John's East ","St. John's-Est"," 99","St. John's",N,N,"",2,327,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 99","St. John's",N,N,"",2,327,"Stapleton","","Deanne","Conservative","Conservateur",N,N,4
+10006,"St. John's East ","St. John's-Est"," 99","St. John's",N,N,"",2,327,"Whalen","","Nick","Liberal","Libéral",N,Y,45
+10006,"St. John's East ","St. John's-Est"," 100","St. John's",N,N,"",0,399,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 100","St. John's",N,N,"",0,399,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 100","St. John's",N,N,"",0,399,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 100","St. John's",N,N,"",0,399,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 100","St. John's",N,N,"",0,399,"Whalen","","Nick","Liberal","Libéral",N,Y,68
+10006,"St. John's East ","St. John's-Est"," 101","St. John's",N,N,"",0,370,"Burton","","Sean","Communist","Communiste",N,N,4
+10006,"St. John's East ","St. John's-Est"," 101","St. John's",N,N,"",0,370,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,105
+10006,"St. John's East ","St. John's-Est"," 101","St. John's",N,N,"",0,370,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 101","St. John's",N,N,"",0,370,"Stapleton","","Deanne","Conservative","Conservateur",N,N,4
+10006,"St. John's East ","St. John's-Est"," 101","St. John's",N,N,"",0,370,"Whalen","","Nick","Liberal","Libéral",N,Y,60
+10006,"St. John's East ","St. John's-Est"," 102","St. John's",N,N,"",3,385,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 102","St. John's",N,N,"",3,385,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,84
+10006,"St. John's East ","St. John's-Est"," 102","St. John's",N,N,"",3,385,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 102","St. John's",N,N,"",3,385,"Stapleton","","Deanne","Conservative","Conservateur",N,N,18
+10006,"St. John's East ","St. John's-Est"," 102","St. John's",N,N,"",3,385,"Whalen","","Nick","Liberal","Libéral",N,Y,87
+10006,"St. John's East ","St. John's-Est"," 103","Portugal Cove-St. Philips",N,N,"",1,488,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 103","Portugal Cove-St. Philips",N,N,"",1,488,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,114
+10006,"St. John's East ","St. John's-Est"," 103","Portugal Cove-St. Philips",N,N,"",1,488,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 103","Portugal Cove-St. Philips",N,N,"",1,488,"Stapleton","","Deanne","Conservative","Conservateur",N,N,26
+10006,"St. John's East ","St. John's-Est"," 103","Portugal Cove-St. Philips",N,N,"",1,488,"Whalen","","Nick","Liberal","Libéral",N,Y,125
+10006,"St. John's East ","St. John's-Est"," 104","Portugal Cove-St. Philips",N,N,"",0,466,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 104","Portugal Cove-St. Philips",N,N,"",0,466,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,129
+10006,"St. John's East ","St. John's-Est"," 104","Portugal Cove-St. Philips",N,N,"",0,466,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 104","Portugal Cove-St. Philips",N,N,"",0,466,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 104","Portugal Cove-St. Philips",N,N,"",0,466,"Whalen","","Nick","Liberal","Libéral",N,Y,113
+10006,"St. John's East ","St. John's-Est"," 105","Portugal Cove-St. Philips",N,N,"",0,453,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 105","Portugal Cove-St. Philips",N,N,"",0,453,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,130
+10006,"St. John's East ","St. John's-Est"," 105","Portugal Cove-St. Philips",N,N,"",0,453,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 105","Portugal Cove-St. Philips",N,N,"",0,453,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 105","Portugal Cove-St. Philips",N,N,"",0,453,"Whalen","","Nick","Liberal","Libéral",N,Y,114
+10006,"St. John's East ","St. John's-Est"," 106","Portugal Cove-St. Philips",N,N,"",0,396,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 106","Portugal Cove-St. Philips",N,N,"",0,396,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,116
+10006,"St. John's East ","St. John's-Est"," 106","Portugal Cove-St. Philips",N,N,"",0,396,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 106","Portugal Cove-St. Philips",N,N,"",0,396,"Stapleton","","Deanne","Conservative","Conservateur",N,N,20
+10006,"St. John's East ","St. John's-Est"," 106","Portugal Cove-St. Philips",N,N,"",0,396,"Whalen","","Nick","Liberal","Libéral",N,Y,116
+10006,"St. John's East ","St. John's-Est"," 107A","Portugal Cove-St. Philips",N,N,"",0,349,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 107A","Portugal Cove-St. Philips",N,N,"",0,349,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,91
+10006,"St. John's East ","St. John's-Est"," 107A","Portugal Cove-St. Philips",N,N,"",0,349,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 107A","Portugal Cove-St. Philips",N,N,"",0,349,"Stapleton","","Deanne","Conservative","Conservateur",N,N,10
+10006,"St. John's East ","St. John's-Est"," 107A","Portugal Cove-St. Philips",N,N,"",0,349,"Whalen","","Nick","Liberal","Libéral",N,Y,88
+10006,"St. John's East ","St. John's-Est"," 107B","Portugal Cove-St. Philips",N,N,"",0,228,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 107B","Portugal Cove-St. Philips",N,N,"",0,228,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+10006,"St. John's East ","St. John's-Est"," 107B","Portugal Cove-St. Philips",N,N,"",0,228,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 107B","Portugal Cove-St. Philips",N,N,"",0,228,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 107B","Portugal Cove-St. Philips",N,N,"",0,228,"Whalen","","Nick","Liberal","Libéral",N,Y,67
+10006,"St. John's East ","St. John's-Est"," 108","St. John's",N,N,"",0,391,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 108","St. John's",N,N,"",0,391,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+10006,"St. John's East ","St. John's-Est"," 108","St. John's",N,N,"",0,391,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 108","St. John's",N,N,"",0,391,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 108","St. John's",N,N,"",0,391,"Whalen","","Nick","Liberal","Libéral",N,Y,63
+10006,"St. John's East ","St. John's-Est"," 109","St. John's",N,N,"",1,422,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 109","St. John's",N,N,"",1,422,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,104
+10006,"St. John's East ","St. John's-Est"," 109","St. John's",N,N,"",1,422,"Peters","","David Anthony","Green Party","Parti Vert",N,N,8
+10006,"St. John's East ","St. John's-Est"," 109","St. John's",N,N,"",1,422,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 109","St. John's",N,N,"",1,422,"Whalen","","Nick","Liberal","Libéral",N,Y,98
+10006,"St. John's East ","St. John's-Est"," 110","St. John's",N,N,"",1,395,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 110","St. John's",N,N,"",1,395,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10006,"St. John's East ","St. John's-Est"," 110","St. John's",N,N,"",1,395,"Peters","","David Anthony","Green Party","Parti Vert",N,N,9
+10006,"St. John's East ","St. John's-Est"," 110","St. John's",N,N,"",1,395,"Stapleton","","Deanne","Conservative","Conservateur",N,N,4
+10006,"St. John's East ","St. John's-Est"," 110","St. John's",N,N,"",1,395,"Whalen","","Nick","Liberal","Libéral",N,Y,47
+10006,"St. John's East ","St. John's-Est"," 111","St. John's",N,N,"",1,370,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 111","St. John's",N,N,"",1,370,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,128
+10006,"St. John's East ","St. John's-Est"," 111","St. John's",N,N,"",1,370,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 111","St. John's",N,N,"",1,370,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 111","St. John's",N,N,"",1,370,"Whalen","","Nick","Liberal","Libéral",N,Y,72
+10006,"St. John's East ","St. John's-Est"," 112","St. John's",N,N,"",0,395,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 112","St. John's",N,N,"",0,395,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,100
+10006,"St. John's East ","St. John's-Est"," 112","St. John's",N,N,"",0,395,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 112","St. John's",N,N,"",0,395,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 112","St. John's",N,N,"",0,395,"Whalen","","Nick","Liberal","Libéral",N,Y,76
+10006,"St. John's East ","St. John's-Est"," 113","St. John's",N,N,"",1,381,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 113","St. John's",N,N,"",1,381,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,86
+10006,"St. John's East ","St. John's-Est"," 113","St. John's",N,N,"",1,381,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 113","St. John's",N,N,"",1,381,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 113","St. John's",N,N,"",1,381,"Whalen","","Nick","Liberal","Libéral",N,Y,83
+10006,"St. John's East ","St. John's-Est"," 114","St. John's",N,N,"",0,491,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 114","St. John's",N,N,"",0,491,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,121
+10006,"St. John's East ","St. John's-Est"," 114","St. John's",N,N,"",0,491,"Peters","","David Anthony","Green Party","Parti Vert",N,N,10
+10006,"St. John's East ","St. John's-Est"," 114","St. John's",N,N,"",0,491,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 114","St. John's",N,N,"",0,491,"Whalen","","Nick","Liberal","Libéral",N,Y,130
+10006,"St. John's East ","St. John's-Est"," 115","St. John's",N,N,"",0,258,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 115","St. John's",N,N,"",0,258,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+10006,"St. John's East ","St. John's-Est"," 115","St. John's",N,N,"",0,258,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 115","St. John's",N,N,"",0,258,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 115","St. John's",N,N,"",0,258,"Whalen","","Nick","Liberal","Libéral",N,Y,49
+10006,"St. John's East ","St. John's-Est"," 116","St. John's",N,N,"",0,447,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 116","St. John's",N,N,"",0,447,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10006,"St. John's East ","St. John's-Est"," 116","St. John's",N,N,"",0,447,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 116","St. John's",N,N,"",0,447,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 116","St. John's",N,N,"",0,447,"Whalen","","Nick","Liberal","Libéral",N,Y,95
+10006,"St. John's East ","St. John's-Est"," 117","St. John's",N,N,"",1,346,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 117","St. John's",N,N,"",1,346,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10006,"St. John's East ","St. John's-Est"," 117","St. John's",N,N,"",1,346,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 117","St. John's",N,N,"",1,346,"Stapleton","","Deanne","Conservative","Conservateur",N,N,5
+10006,"St. John's East ","St. John's-Est"," 117","St. John's",N,N,"",1,346,"Whalen","","Nick","Liberal","Libéral",N,Y,63
+10006,"St. John's East ","St. John's-Est"," 118","St. John's",N,N,"",2,431,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 118","St. John's",N,N,"",2,431,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,107
+10006,"St. John's East ","St. John's-Est"," 118","St. John's",N,N,"",2,431,"Peters","","David Anthony","Green Party","Parti Vert",N,N,6
+10006,"St. John's East ","St. John's-Est"," 118","St. John's",N,N,"",2,431,"Stapleton","","Deanne","Conservative","Conservateur",N,N,4
+10006,"St. John's East ","St. John's-Est"," 118","St. John's",N,N,"",2,431,"Whalen","","Nick","Liberal","Libéral",N,Y,62
+10006,"St. John's East ","St. John's-Est"," 119","St. John's",N,N,"",1,352,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 119","St. John's",N,N,"",1,352,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10006,"St. John's East ","St. John's-Est"," 119","St. John's",N,N,"",1,352,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 119","St. John's",N,N,"",1,352,"Stapleton","","Deanne","Conservative","Conservateur",N,N,2
+10006,"St. John's East ","St. John's-Est"," 119","St. John's",N,N,"",1,352,"Whalen","","Nick","Liberal","Libéral",N,Y,40
+10006,"St. John's East ","St. John's-Est"," 120","St. John's",N,N,"",0,377,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 120","St. John's",N,N,"",0,377,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,84
+10006,"St. John's East ","St. John's-Est"," 120","St. John's",N,N,"",0,377,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 120","St. John's",N,N,"",0,377,"Stapleton","","Deanne","Conservative","Conservateur",N,N,17
+10006,"St. John's East ","St. John's-Est"," 120","St. John's",N,N,"",0,377,"Whalen","","Nick","Liberal","Libéral",N,Y,81
+10006,"St. John's East ","St. John's-Est"," 121A","St. John's",N,N,"",1,425,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 121A","St. John's",N,N,"",1,425,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,87
+10006,"St. John's East ","St. John's-Est"," 121A","St. John's",N,N,"",1,425,"Peters","","David Anthony","Green Party","Parti Vert",N,N,10
+10006,"St. John's East ","St. John's-Est"," 121A","St. John's",N,N,"",1,425,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 121A","St. John's",N,N,"",1,425,"Whalen","","Nick","Liberal","Libéral",N,Y,96
+10006,"St. John's East ","St. John's-Est"," 121B","St. John's",N,N,"",0,232,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 121B","St. John's",N,N,"",0,232,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+10006,"St. John's East ","St. John's-Est"," 121B","St. John's",N,N,"",0,232,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 121B","St. John's",N,N,"",0,232,"Stapleton","","Deanne","Conservative","Conservateur",N,N,22
+10006,"St. John's East ","St. John's-Est"," 121B","St. John's",N,N,"",0,232,"Whalen","","Nick","Liberal","Libéral",N,Y,163
+10006,"St. John's East ","St. John's-Est"," 122","St. John's",N,N,"",0,429,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 122","St. John's",N,N,"",0,429,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,110
+10006,"St. John's East ","St. John's-Est"," 122","St. John's",N,N,"",0,429,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 122","St. John's",N,N,"",0,429,"Stapleton","","Deanne","Conservative","Conservateur",N,N,21
+10006,"St. John's East ","St. John's-Est"," 122","St. John's",N,N,"",0,429,"Whalen","","Nick","Liberal","Libéral",N,Y,114
+10006,"St. John's East ","St. John's-Est"," 123","St. John's",N,N,"",2,419,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 123","St. John's",N,N,"",2,419,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,93
+10006,"St. John's East ","St. John's-Est"," 123","St. John's",N,N,"",2,419,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 123","St. John's",N,N,"",2,419,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 123","St. John's",N,N,"",2,419,"Whalen","","Nick","Liberal","Libéral",N,Y,124
+10006,"St. John's East ","St. John's-Est"," 124","St. John's",N,N,"",0,404,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 124","St. John's",N,N,"",0,404,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10006,"St. John's East ","St. John's-Est"," 124","St. John's",N,N,"",0,404,"Peters","","David Anthony","Green Party","Parti Vert",N,N,6
+10006,"St. John's East ","St. John's-Est"," 124","St. John's",N,N,"",0,404,"Stapleton","","Deanne","Conservative","Conservateur",N,N,22
+10006,"St. John's East ","St. John's-Est"," 124","St. John's",N,N,"",0,404,"Whalen","","Nick","Liberal","Libéral",N,Y,133
+10006,"St. John's East ","St. John's-Est"," 125","St. John's",N,N,"",1,386,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 125","St. John's",N,N,"",1,386,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 125","St. John's",N,N,"",1,386,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 125","St. John's",N,N,"",1,386,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 125","St. John's",N,N,"",1,386,"Whalen","","Nick","Liberal","Libéral",N,Y,97
+10006,"St. John's East ","St. John's-Est"," 126","Wabana",N,N,"",0,267,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 126","Wabana",N,N,"",0,267,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10006,"St. John's East ","St. John's-Est"," 126","Wabana",N,N,"",0,267,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 126","Wabana",N,N,"",0,267,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 126","Wabana",N,N,"",0,267,"Whalen","","Nick","Liberal","Libéral",N,Y,39
+10006,"St. John's East ","St. John's-Est"," 127","Wabana",N,N,"",1,300,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 127","Wabana",N,N,"",1,300,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+10006,"St. John's East ","St. John's-Est"," 127","Wabana",N,N,"",1,300,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 127","Wabana",N,N,"",1,300,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 127","Wabana",N,N,"",1,300,"Whalen","","Nick","Liberal","Libéral",N,Y,38
+10006,"St. John's East ","St. John's-Est"," 128","Wabana",N,N,"",0,302,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 128","Wabana",N,N,"",0,302,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+10006,"St. John's East ","St. John's-Est"," 128","Wabana",N,N,"",0,302,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 128","Wabana",N,N,"",0,302,"Stapleton","","Deanne","Conservative","Conservateur",N,N,5
+10006,"St. John's East ","St. John's-Est"," 128","Wabana",N,N,"",0,302,"Whalen","","Nick","Liberal","Libéral",N,Y,27
+10006,"St. John's East ","St. John's-Est"," 129","Wabana",N,N,"",0,339,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 129","Wabana",N,N,"",0,339,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+10006,"St. John's East ","St. John's-Est"," 129","Wabana",N,N,"",0,339,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 129","Wabana",N,N,"",0,339,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 129","Wabana",N,N,"",0,339,"Whalen","","Nick","Liberal","Libéral",N,Y,49
+10006,"St. John's East ","St. John's-Est"," 130","St. John's",N,N,"",1,349,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 130","St. John's",N,N,"",1,349,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+10006,"St. John's East ","St. John's-Est"," 130","St. John's",N,N,"",1,349,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 130","St. John's",N,N,"",1,349,"Stapleton","","Deanne","Conservative","Conservateur",N,N,10
+10006,"St. John's East ","St. John's-Est"," 130","St. John's",N,N,"",1,349,"Whalen","","Nick","Liberal","Libéral",N,Y,88
+10006,"St. John's East ","St. John's-Est"," 130-1","St. John's",N,N,"130",0,20,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 130-1","St. John's",N,N,"130",0,20,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+10006,"St. John's East ","St. John's-Est"," 130-1","St. John's",N,N,"130",0,20,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 130-1","St. John's",N,N,"130",0,20,"Stapleton","","Deanne","Conservative","Conservateur",N,N,0
+10006,"St. John's East ","St. John's-Est"," 130-1","St. John's",N,N,"130",0,20,"Whalen","","Nick","Liberal","Libéral",N,Y,0
+10006,"St. John's East ","St. John's-Est"," 131","St. John's",N,N,"",0,401,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 131","St. John's",N,N,"",0,401,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,95
+10006,"St. John's East ","St. John's-Est"," 131","St. John's",N,N,"",0,401,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 131","St. John's",N,N,"",0,401,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 131","St. John's",N,N,"",0,401,"Whalen","","Nick","Liberal","Libéral",N,Y,89
+10006,"St. John's East ","St. John's-Est"," 132A","St. John's",N,N,"",0,340,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 132A","St. John's",N,N,"",0,340,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+10006,"St. John's East ","St. John's-Est"," 132A","St. John's",N,N,"",0,340,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 132A","St. John's",N,N,"",0,340,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 132A","St. John's",N,N,"",0,340,"Whalen","","Nick","Liberal","Libéral",N,Y,119
+10006,"St. John's East ","St. John's-Est"," 132B","St. John's",N,N,"",2,384,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 132B","St. John's",N,N,"",2,384,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+10006,"St. John's East ","St. John's-Est"," 132B","St. John's",N,N,"",2,384,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 132B","St. John's",N,N,"",2,384,"Stapleton","","Deanne","Conservative","Conservateur",N,N,21
+10006,"St. John's East ","St. John's-Est"," 132B","St. John's",N,N,"",2,384,"Whalen","","Nick","Liberal","Libéral",N,Y,124
+10006,"St. John's East ","St. John's-Est"," 133A","St. John's",N,N,"",0,370,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 133A","St. John's",N,N,"",0,370,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+10006,"St. John's East ","St. John's-Est"," 133A","St. John's",N,N,"",0,370,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 133A","St. John's",N,N,"",0,370,"Stapleton","","Deanne","Conservative","Conservateur",N,N,10
+10006,"St. John's East ","St. John's-Est"," 133A","St. John's",N,N,"",0,370,"Whalen","","Nick","Liberal","Libéral",N,Y,125
+10006,"St. John's East ","St. John's-Est"," 133B","St. John's",N,N,"",0,375,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 133B","St. John's",N,N,"",0,375,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+10006,"St. John's East ","St. John's-Est"," 133B","St. John's",N,N,"",0,375,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 133B","St. John's",N,N,"",0,375,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 133B","St. John's",N,N,"",0,375,"Whalen","","Nick","Liberal","Libéral",N,Y,127
+10006,"St. John's East ","St. John's-Est"," 134","St. John's",N,N,"",0,502,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 134","St. John's",N,N,"",0,502,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,80
+10006,"St. John's East ","St. John's-Est"," 134","St. John's",N,N,"",0,502,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 134","St. John's",N,N,"",0,502,"Stapleton","","Deanne","Conservative","Conservateur",N,N,10
+10006,"St. John's East ","St. John's-Est"," 134","St. John's",N,N,"",0,502,"Whalen","","Nick","Liberal","Libéral",N,Y,162
+10006,"St. John's East ","St. John's-Est"," 135","St. John's",N,N,"",0,448,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 135","St. John's",N,N,"",0,448,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,78
+10006,"St. John's East ","St. John's-Est"," 135","St. John's",N,N,"",0,448,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 135","St. John's",N,N,"",0,448,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 135","St. John's",N,N,"",0,448,"Whalen","","Nick","Liberal","Libéral",N,Y,103
+10006,"St. John's East ","St. John's-Est"," 136","St. John's",N,N,"",0,460,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 136","St. John's",N,N,"",0,460,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,74
+10006,"St. John's East ","St. John's-Est"," 136","St. John's",N,N,"",0,460,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 136","St. John's",N,N,"",0,460,"Stapleton","","Deanne","Conservative","Conservateur",N,N,21
+10006,"St. John's East ","St. John's-Est"," 136","St. John's",N,N,"",0,460,"Whalen","","Nick","Liberal","Libéral",N,Y,134
+10006,"St. John's East ","St. John's-Est"," 137","Freshwater",N,N,"",0,347,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 137","Freshwater",N,N,"",0,347,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,67
+10006,"St. John's East ","St. John's-Est"," 137","Freshwater",N,N,"",0,347,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 137","Freshwater",N,N,"",0,347,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 137","Freshwater",N,N,"",0,347,"Whalen","","Nick","Liberal","Libéral",N,Y,48
+10006,"St. John's East ","St. John's-Est"," 138","Wabana",N,N,"",0,299,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 138","Wabana",N,N,"",0,299,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+10006,"St. John's East ","St. John's-Est"," 138","Wabana",N,N,"",0,299,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 138","Wabana",N,N,"",0,299,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 138","Wabana",N,N,"",0,299,"Whalen","","Nick","Liberal","Libéral",N,Y,42
+10006,"St. John's East ","St. John's-Est"," 139","Wabana",N,N,"",2,303,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 139","Wabana",N,N,"",2,303,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+10006,"St. John's East ","St. John's-Est"," 139","Wabana",N,N,"",2,303,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 139","Wabana",N,N,"",2,303,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 139","Wabana",N,N,"",2,303,"Whalen","","Nick","Liberal","Libéral",N,Y,49
+10006,"St. John's East ","St. John's-Est"," 140A","Portugal Cove-St. Philips",N,N,"",0,341,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 140A","Portugal Cove-St. Philips",N,N,"",0,341,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10006,"St. John's East ","St. John's-Est"," 140A","Portugal Cove-St. Philips",N,N,"",0,341,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 140A","Portugal Cove-St. Philips",N,N,"",0,341,"Stapleton","","Deanne","Conservative","Conservateur",N,N,20
+10006,"St. John's East ","St. John's-Est"," 140A","Portugal Cove-St. Philips",N,N,"",0,341,"Whalen","","Nick","Liberal","Libéral",N,Y,120
+10006,"St. John's East ","St. John's-Est"," 140B","Portugal Cove-St. Philips",N,N,"",0,308,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 140B","Portugal Cove-St. Philips",N,N,"",0,308,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+10006,"St. John's East ","St. John's-Est"," 140B","Portugal Cove-St. Philips",N,N,"",0,308,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 140B","Portugal Cove-St. Philips",N,N,"",0,308,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 140B","Portugal Cove-St. Philips",N,N,"",0,308,"Whalen","","Nick","Liberal","Libéral",N,Y,81
+10006,"St. John's East ","St. John's-Est"," 141","Portugal Cove-St. Philips",N,N,"",1,407,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 141","Portugal Cove-St. Philips",N,N,"",1,407,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,98
+10006,"St. John's East ","St. John's-Est"," 141","Portugal Cove-St. Philips",N,N,"",1,407,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 141","Portugal Cove-St. Philips",N,N,"",1,407,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 141","Portugal Cove-St. Philips",N,N,"",1,407,"Whalen","","Nick","Liberal","Libéral",N,Y,98
+10006,"St. John's East ","St. John's-Est"," 142","Portugal Cove-St. Philips",N,N,"",0,449,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 142","Portugal Cove-St. Philips",N,N,"",0,449,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,84
+10006,"St. John's East ","St. John's-Est"," 142","Portugal Cove-St. Philips",N,N,"",0,449,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 142","Portugal Cove-St. Philips",N,N,"",0,449,"Stapleton","","Deanne","Conservative","Conservateur",N,N,24
+10006,"St. John's East ","St. John's-Est"," 142","Portugal Cove-St. Philips",N,N,"",0,449,"Whalen","","Nick","Liberal","Libéral",N,Y,115
+10006,"St. John's East ","St. John's-Est"," 143","Portugal Cove-St. Philips",N,N,"",0,325,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 143","Portugal Cove-St. Philips",N,N,"",0,325,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,88
+10006,"St. John's East ","St. John's-Est"," 143","Portugal Cove-St. Philips",N,N,"",0,325,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 143","Portugal Cove-St. Philips",N,N,"",0,325,"Stapleton","","Deanne","Conservative","Conservateur",N,N,14
+10006,"St. John's East ","St. John's-Est"," 143","Portugal Cove-St. Philips",N,N,"",0,325,"Whalen","","Nick","Liberal","Libéral",N,Y,84
+10006,"St. John's East ","St. John's-Est"," 144","Portugal Cove-St. Philips",N,N,"",0,375,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 144","Portugal Cove-St. Philips",N,N,"",0,375,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10006,"St. John's East ","St. John's-Est"," 144","Portugal Cove-St. Philips",N,N,"",0,375,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 144","Portugal Cove-St. Philips",N,N,"",0,375,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 144","Portugal Cove-St. Philips",N,N,"",0,375,"Whalen","","Nick","Liberal","Libéral",N,Y,93
+10006,"St. John's East ","St. John's-Est"," 145","Portugal Cove-St. Philips",N,N,"",0,458,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 145","Portugal Cove-St. Philips",N,N,"",0,458,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,124
+10006,"St. John's East ","St. John's-Est"," 145","Portugal Cove-St. Philips",N,N,"",0,458,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 145","Portugal Cove-St. Philips",N,N,"",0,458,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 145","Portugal Cove-St. Philips",N,N,"",0,458,"Whalen","","Nick","Liberal","Libéral",N,Y,137
+10006,"St. John's East ","St. John's-Est"," 146","Portugal Cove-St. Philips",N,N,"",0,501,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 146","Portugal Cove-St. Philips",N,N,"",0,501,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,125
+10006,"St. John's East ","St. John's-Est"," 146","Portugal Cove-St. Philips",N,N,"",0,501,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 146","Portugal Cove-St. Philips",N,N,"",0,501,"Stapleton","","Deanne","Conservative","Conservateur",N,N,22
+10006,"St. John's East ","St. John's-Est"," 146","Portugal Cove-St. Philips",N,N,"",0,501,"Whalen","","Nick","Liberal","Libéral",N,Y,125
+10006,"St. John's East ","St. John's-Est"," 147","Paradise",N,N,"",0,266,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 147","Paradise",N,N,"",0,266,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+10006,"St. John's East ","St. John's-Est"," 147","Paradise",N,N,"",0,266,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 147","Paradise",N,N,"",0,266,"Stapleton","","Deanne","Conservative","Conservateur",N,N,9
+10006,"St. John's East ","St. John's-Est"," 147","Paradise",N,N,"",0,266,"Whalen","","Nick","Liberal","Libéral",N,Y,90
+10006,"St. John's East ","St. John's-Est"," 148","Paradise",N,N,"",0,370,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 148","Paradise",N,N,"",0,370,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,61
+10006,"St. John's East ","St. John's-Est"," 148","Paradise",N,N,"",0,370,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 148","Paradise",N,N,"",0,370,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 148","Paradise",N,N,"",0,370,"Whalen","","Nick","Liberal","Libéral",N,Y,127
+10006,"St. John's East ","St. John's-Est"," 149","Paradise",N,N,"",0,544,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 149","Paradise",N,N,"",0,544,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,112
+10006,"St. John's East ","St. John's-Est"," 149","Paradise",N,N,"",0,544,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 149","Paradise",N,N,"",0,544,"Stapleton","","Deanne","Conservative","Conservateur",N,N,32
+10006,"St. John's East ","St. John's-Est"," 149","Paradise",N,N,"",0,544,"Whalen","","Nick","Liberal","Libéral",N,Y,152
+10006,"St. John's East ","St. John's-Est"," 150","Paradise",N,N,"",0,328,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 150","Paradise",N,N,"",0,328,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+10006,"St. John's East ","St. John's-Est"," 150","Paradise",N,N,"",0,328,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 150","Paradise",N,N,"",0,328,"Stapleton","","Deanne","Conservative","Conservateur",N,N,4
+10006,"St. John's East ","St. John's-Est"," 150","Paradise",N,N,"",0,328,"Whalen","","Nick","Liberal","Libéral",N,Y,89
+10006,"St. John's East ","St. John's-Est"," 151","Paradise",N,N,"",0,330,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 151","Paradise",N,N,"",0,330,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,82
+10006,"St. John's East ","St. John's-Est"," 151","Paradise",N,N,"",0,330,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 151","Paradise",N,N,"",0,330,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 151","Paradise",N,N,"",0,330,"Whalen","","Nick","Liberal","Libéral",N,Y,105
+10006,"St. John's East ","St. John's-Est"," 152","Paradise",N,N,"",0,424,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 152","Paradise",N,N,"",0,424,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10006,"St. John's East ","St. John's-Est"," 152","Paradise",N,N,"",0,424,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 152","Paradise",N,N,"",0,424,"Stapleton","","Deanne","Conservative","Conservateur",N,N,23
+10006,"St. John's East ","St. John's-Est"," 152","Paradise",N,N,"",0,424,"Whalen","","Nick","Liberal","Libéral",N,Y,137
+10006,"St. John's East ","St. John's-Est"," 153","Paradise",N,N,"",1,364,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 153","Paradise",N,N,"",1,364,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,78
+10006,"St. John's East ","St. John's-Est"," 153","Paradise",N,N,"",1,364,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 153","Paradise",N,N,"",1,364,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 153","Paradise",N,N,"",1,364,"Whalen","","Nick","Liberal","Libéral",N,Y,98
+10006,"St. John's East ","St. John's-Est"," 154","Paradise",N,N,"",0,437,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 154","Paradise",N,N,"",0,437,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,90
+10006,"St. John's East ","St. John's-Est"," 154","Paradise",N,N,"",0,437,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 154","Paradise",N,N,"",0,437,"Stapleton","","Deanne","Conservative","Conservateur",N,N,16
+10006,"St. John's East ","St. John's-Est"," 154","Paradise",N,N,"",0,437,"Whalen","","Nick","Liberal","Libéral",N,Y,113
+10006,"St. John's East ","St. John's-Est"," 155","Paradise",N,N,"",0,458,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 155","Paradise",N,N,"",0,458,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+10006,"St. John's East ","St. John's-Est"," 155","Paradise",N,N,"",0,458,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 155","Paradise",N,N,"",0,458,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 155","Paradise",N,N,"",0,458,"Whalen","","Nick","Liberal","Libéral",N,Y,138
+10006,"St. John's East ","St. John's-Est"," 156","Paradise",N,N,"",0,293,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 156","Paradise",N,N,"",0,293,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+10006,"St. John's East ","St. John's-Est"," 156","Paradise",N,N,"",0,293,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 156","Paradise",N,N,"",0,293,"Stapleton","","Deanne","Conservative","Conservateur",N,N,13
+10006,"St. John's East ","St. John's-Est"," 156","Paradise",N,N,"",0,293,"Whalen","","Nick","Liberal","Libéral",N,Y,100
+10006,"St. John's East ","St. John's-Est"," 157","Paradise",N,N,"",0,283,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 157","Paradise",N,N,"",0,283,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+10006,"St. John's East ","St. John's-Est"," 157","Paradise",N,N,"",0,283,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 157","Paradise",N,N,"",0,283,"Stapleton","","Deanne","Conservative","Conservateur",N,N,0
+10006,"St. John's East ","St. John's-Est"," 157","Paradise",N,N,"",0,283,"Whalen","","Nick","Liberal","Libéral",N,Y,92
+10006,"St. John's East ","St. John's-Est"," 158","Paradise",N,N,"",0,359,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 158","Paradise",N,N,"",0,359,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,87
+10006,"St. John's East ","St. John's-Est"," 158","Paradise",N,N,"",0,359,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 158","Paradise",N,N,"",0,359,"Stapleton","","Deanne","Conservative","Conservateur",N,N,7
+10006,"St. John's East ","St. John's-Est"," 158","Paradise",N,N,"",0,359,"Whalen","","Nick","Liberal","Libéral",N,Y,124
+10006,"St. John's East ","St. John's-Est"," 159","Paradise",N,N,"",0,338,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 159","Paradise",N,N,"",0,338,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,88
+10006,"St. John's East ","St. John's-Est"," 159","Paradise",N,N,"",0,338,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 159","Paradise",N,N,"",0,338,"Stapleton","","Deanne","Conservative","Conservateur",N,N,15
+10006,"St. John's East ","St. John's-Est"," 159","Paradise",N,N,"",0,338,"Whalen","","Nick","Liberal","Libéral",N,Y,77
+10006,"St. John's East ","St. John's-Est"," 160","St. John's",N,N,"",0,317,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 160","St. John's",N,N,"",0,317,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,77
+10006,"St. John's East ","St. John's-Est"," 160","St. John's",N,N,"",0,317,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 160","St. John's",N,N,"",0,317,"Stapleton","","Deanne","Conservative","Conservateur",N,N,12
+10006,"St. John's East ","St. John's-Est"," 160","St. John's",N,N,"",0,317,"Whalen","","Nick","Liberal","Libéral",N,Y,95
+10006,"St. John's East ","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,91,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,91,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+10006,"St. John's East ","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,91,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,91,"Stapleton","","Deanne","Conservative","Conservateur",N,N,2
+10006,"St. John's East ","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",2,91,"Whalen","","Nick","Liberal","Libéral",N,Y,17
+10006,"St. John's East ","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,255,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,255,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+10006,"St. John's East ","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,255,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,255,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"",1,255,"Whalen","","Nick","Liberal","Libéral",N,Y,41
+10006,"St. John's East ","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+10006,"St. John's East ","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Peters","","David Anthony","Green Party","Parti Vert",N,N,3
+10006,"St. John's East ","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Stapleton","","Deanne","Conservative","Conservateur",N,N,8
+10006,"St. John's East ","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Whalen","","Nick","Liberal","Libéral",N,Y,35
+10006,"St. John's East ","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,275,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,275,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+10006,"St. John's East ","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,275,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,275,"Stapleton","","Deanne","Conservative","Conservateur",N,N,20
+10006,"St. John's East ","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,275,"Whalen","","Nick","Liberal","Libéral",N,Y,76
+10006,"St. John's East ","St. John's-Est"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,2,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,2,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+10006,"St. John's East ","St. John's-Est"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,2,"Peters","","David Anthony","Green Party","Parti Vert",N,N,1
+10006,"St. John's East ","St. John's-Est"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,2,"Stapleton","","Deanne","Conservative","Conservateur",N,N,6
+10006,"St. John's East ","St. John's-Est"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,2,"Whalen","","Nick","Liberal","Libéral",N,Y,22
+10006,"St. John's East ","St. John's-Est"," 504B","St. John's",N,N,"57",0,4,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 504B","St. John's",N,N,"57",0,4,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+10006,"St. John's East ","St. John's-Est"," 504B","St. John's",N,N,"57",0,4,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 504B","St. John's",N,N,"57",0,4,"Stapleton","","Deanne","Conservative","Conservateur",N,N,0
+10006,"St. John's East ","St. John's-Est"," 504B","St. John's",N,N,"57",0,4,"Whalen","","Nick","Liberal","Libéral",N,Y,0
+10006,"St. John's East ","St. John's-Est"," 600","Pouch Cove",N,N,"",0,0,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 600","Pouch Cove",N,N,"",0,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,72
+10006,"St. John's East ","St. John's-Est"," 600","Pouch Cove",N,N,"",0,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 600","Pouch Cove",N,N,"",0,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,11
+10006,"St. John's East ","St. John's-Est"," 600","Pouch Cove",N,N,"",0,0,"Whalen","","Nick","Liberal","Libéral",N,Y,31
+10006,"St. John's East ","St. John's-Est"," 601","Torbay",N,N,"",3,0,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 601","Torbay",N,N,"",3,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,398
+10006,"St. John's East ","St. John's-Est"," 601","Torbay",N,N,"",3,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,7
+10006,"St. John's East ","St. John's-Est"," 601","Torbay",N,N,"",3,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,54
+10006,"St. John's East ","St. John's-Est"," 601","Torbay",N,N,"",3,0,"Whalen","","Nick","Liberal","Libéral",N,Y,289
+10006,"St. John's East ","St. John's-Est"," 602","Logy Bay—Middle Cove—Outer Cove—Flatrock",N,N,"",0,0,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 602","Logy Bay—Middle Cove—Outer Cove—Flatrock",N,N,"",0,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,156
+10006,"St. John's East ","St. John's-Est"," 602","Logy Bay—Middle Cove—Outer Cove—Flatrock",N,N,"",0,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 602","Logy Bay—Middle Cove—Outer Cove—Flatrock",N,N,"",0,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,20
+10006,"St. John's East ","St. John's-Est"," 602","Logy Bay—Middle Cove—Outer Cove—Flatrock",N,N,"",0,0,"Whalen","","Nick","Liberal","Libéral",N,Y,92
+10006,"St. John's East ","St. John's-Est"," 603","St. John's",N,N,"",0,0,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 603","St. John's",N,N,"",0,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,354
+10006,"St. John's East ","St. John's-Est"," 603","St. John's",N,N,"",0,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,6
+10006,"St. John's East ","St. John's-Est"," 603","St. John's",N,N,"",0,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,39
+10006,"St. John's East ","St. John's-Est"," 603","St. John's",N,N,"",0,0,"Whalen","","Nick","Liberal","Libéral",N,Y,311
+10006,"St. John's East ","St. John's-Est"," 604","St. John's",N,N,"",1,0,"Burton","","Sean","Communist","Communiste",N,N,2
+10006,"St. John's East ","St. John's-Est"," 604","St. John's",N,N,"",1,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,372
+10006,"St. John's East ","St. John's-Est"," 604","St. John's",N,N,"",1,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,12
+10006,"St. John's East ","St. John's-Est"," 604","St. John's",N,N,"",1,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,75
+10006,"St. John's East ","St. John's-Est"," 604","St. John's",N,N,"",1,0,"Whalen","","Nick","Liberal","Libéral",N,Y,413
+10006,"St. John's East ","St. John's-Est"," 605","St. John's",N,N,"",2,0,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 605","St. John's",N,N,"",2,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,257
+10006,"St. John's East ","St. John's-Est"," 605","St. John's",N,N,"",2,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,9
+10006,"St. John's East ","St. John's-Est"," 605","St. John's",N,N,"",2,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,54
+10006,"St. John's East ","St. John's-Est"," 605","St. John's",N,N,"",2,0,"Whalen","","Nick","Liberal","Libéral",N,Y,265
+10006,"St. John's East ","St. John's-Est"," 606","St. John's",N,N,"",5,0,"Burton","","Sean","Communist","Communiste",N,N,3
+10006,"St. John's East ","St. John's-Est"," 606","St. John's",N,N,"",5,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,419
+10006,"St. John's East ","St. John's-Est"," 606","St. John's",N,N,"",5,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,11
+10006,"St. John's East ","St. John's-Est"," 606","St. John's",N,N,"",5,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,62
+10006,"St. John's East ","St. John's-Est"," 606","St. John's",N,N,"",5,0,"Whalen","","Nick","Liberal","Libéral",N,Y,384
+10006,"St. John's East ","St. John's-Est"," 607","St. John's",N,N,"",0,0,"Burton","","Sean","Communist","Communiste",N,N,5
+10006,"St. John's East ","St. John's-Est"," 607","St. John's",N,N,"",0,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,302
+10006,"St. John's East ","St. John's-Est"," 607","St. John's",N,N,"",0,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,14
+10006,"St. John's East ","St. John's-Est"," 607","St. John's",N,N,"",0,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,35
+10006,"St. John's East ","St. John's-Est"," 607","St. John's",N,N,"",0,0,"Whalen","","Nick","Liberal","Libéral",N,Y,271
+10006,"St. John's East ","St. John's-Est"," 608","St. John's",N,N,"",1,0,"Burton","","Sean","Communist","Communiste",N,N,8
+10006,"St. John's East ","St. John's-Est"," 608","St. John's",N,N,"",1,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,548
+10006,"St. John's East ","St. John's-Est"," 608","St. John's",N,N,"",1,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,16
+10006,"St. John's East ","St. John's-Est"," 608","St. John's",N,N,"",1,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,35
+10006,"St. John's East ","St. John's-Est"," 608","St. John's",N,N,"",1,0,"Whalen","","Nick","Liberal","Libéral",N,Y,220
+10006,"St. John's East ","St. John's-Est"," 609","St. John's",N,N,"",1,0,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 609","St. John's",N,N,"",1,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,221
+10006,"St. John's East ","St. John's-Est"," 609","St. John's",N,N,"",1,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,2
+10006,"St. John's East ","St. John's-Est"," 609","St. John's",N,N,"",1,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,44
+10006,"St. John's East ","St. John's-Est"," 609","St. John's",N,N,"",1,0,"Whalen","","Nick","Liberal","Libéral",N,Y,182
+10006,"St. John's East ","St. John's-Est"," 610","St. John's",N,N,"",0,0,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 610","St. John's",N,N,"",0,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,187
+10006,"St. John's East ","St. John's-Est"," 610","St. John's",N,N,"",0,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,5
+10006,"St. John's East ","St. John's-Est"," 610","St. John's",N,N,"",0,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,38
+10006,"St. John's East ","St. John's-Est"," 610","St. John's",N,N,"",0,0,"Whalen","","Nick","Liberal","Libéral",N,Y,176
+10006,"St. John's East ","St. John's-Est"," 611","Portugal Cove-St. Philips",N,N,"",1,0,"Burton","","Sean","Communist","Communiste",N,N,1
+10006,"St. John's East ","St. John's-Est"," 611","Portugal Cove-St. Philips",N,N,"",1,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,309
+10006,"St. John's East ","St. John's-Est"," 611","Portugal Cove-St. Philips",N,N,"",1,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,8
+10006,"St. John's East ","St. John's-Est"," 611","Portugal Cove-St. Philips",N,N,"",1,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,40
+10006,"St. John's East ","St. John's-Est"," 611","Portugal Cove-St. Philips",N,N,"",1,0,"Whalen","","Nick","Liberal","Libéral",N,Y,226
+10006,"St. John's East ","St. John's-Est"," 612","Wabana",N,N,"",1,0,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," 612","Wabana",N,N,"",1,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,129
+10006,"St. John's East ","St. John's-Est"," 612","Wabana",N,N,"",1,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,0
+10006,"St. John's East ","St. John's-Est"," 612","Wabana",N,N,"",1,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,24
+10006,"St. John's East ","St. John's-Est"," 612","Wabana",N,N,"",1,0,"Whalen","","Nick","Liberal","Libéral",N,Y,51
+10006,"St. John's East ","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,102,"Burton","","Sean","Communist","Communiste",N,N,0
+10006,"St. John's East ","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,102,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+10006,"St. John's East ","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,102,"Peters","","David Anthony","Green Party","Parti Vert",N,N,4
+10006,"St. John's East ","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,102,"Stapleton","","Deanne","Conservative","Conservateur",N,N,36
+10006,"St. John's East ","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,102,"Whalen","","Nick","Liberal","Libéral",N,Y,76
+10006,"St. John's East ","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Burton","","Sean","Communist","Communiste",N,N,12
+10006,"St. John's East ","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Harris","","Jack","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,1092
+10006,"St. John's East ","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Peters","","David Anthony","Green Party","Parti Vert",N,N,43
+10006,"St. John's East ","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Stapleton","","Deanne","Conservative","Conservateur",N,N,132
+10006,"St. John's East ","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",3,0,"Whalen","","Nick","Liberal","Libéral",N,Y,805

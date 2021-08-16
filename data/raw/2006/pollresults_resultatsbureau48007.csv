@@ -1,0 +1,985 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+48007,"Calgary Southeast","Calgary-Sud-Est"," 1","Calgary",N,N,"",0,308,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 1","Calgary",N,N,"",0,308,"Kenney","","Jason","Conservative","Conservateur",Y,Y,163
+48007,"Calgary Southeast","Calgary-Sud-Est"," 1","Calgary",N,N,"",0,308,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 1","Calgary",N,N,"",0,308,"Ludwar","","James","Liberal","Libéral",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 2","Calgary",N,N,"",0,340,"Gutoski","","Gus","Green Party","Parti Vert",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 2","Calgary",N,N,"",0,340,"Kenney","","Jason","Conservative","Conservateur",Y,Y,161
+48007,"Calgary Southeast","Calgary-Sud-Est"," 2","Calgary",N,N,"",0,340,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 2","Calgary",N,N,"",0,340,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 3","Calgary",N,N,"",3,451,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 3","Calgary",N,N,"",3,451,"Kenney","","Jason","Conservative","Conservateur",Y,Y,198
+48007,"Calgary Southeast","Calgary-Sud-Est"," 3","Calgary",N,N,"",3,451,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 3","Calgary",N,N,"",3,451,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 4","Calgary",N,N,"",2,292,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 4","Calgary",N,N,"",2,292,"Kenney","","Jason","Conservative","Conservateur",Y,Y,125
+48007,"Calgary Southeast","Calgary-Sud-Est"," 4","Calgary",N,N,"",2,292,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 4","Calgary",N,N,"",2,292,"Ludwar","","James","Liberal","Libéral",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 5","Calgary",N,N,"",1,369,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 5","Calgary",N,N,"",1,369,"Kenney","","Jason","Conservative","Conservateur",Y,Y,167
+48007,"Calgary Southeast","Calgary-Sud-Est"," 5","Calgary",N,N,"",1,369,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 5","Calgary",N,N,"",1,369,"Ludwar","","James","Liberal","Libéral",N,N,38
+48007,"Calgary Southeast","Calgary-Sud-Est"," 6","Calgary",N,N,"",0,316,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 6","Calgary",N,N,"",0,316,"Kenney","","Jason","Conservative","Conservateur",Y,Y,154
+48007,"Calgary Southeast","Calgary-Sud-Est"," 6","Calgary",N,N,"",0,316,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 6","Calgary",N,N,"",0,316,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 7","Calgary",N,N,"",1,353,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 7","Calgary",N,N,"",1,353,"Kenney","","Jason","Conservative","Conservateur",Y,Y,136
+48007,"Calgary Southeast","Calgary-Sud-Est"," 7","Calgary",N,N,"",1,353,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 7","Calgary",N,N,"",1,353,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 8","Calgary",N,N,"",1,455,"Gutoski","","Gus","Green Party","Parti Vert",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 8","Calgary",N,N,"",1,455,"Kenney","","Jason","Conservative","Conservateur",Y,Y,107
+48007,"Calgary Southeast","Calgary-Sud-Est"," 8","Calgary",N,N,"",1,455,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 8","Calgary",N,N,"",1,455,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 9","Calgary",N,N,"",0,260,"Gutoski","","Gus","Green Party","Parti Vert",N,N,3
+48007,"Calgary Southeast","Calgary-Sud-Est"," 9","Calgary",N,N,"",0,260,"Kenney","","Jason","Conservative","Conservateur",Y,Y,100
+48007,"Calgary Southeast","Calgary-Sud-Est"," 9","Calgary",N,N,"",0,260,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,4
+48007,"Calgary Southeast","Calgary-Sud-Est"," 9","Calgary",N,N,"",0,260,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 10","Calgary",N,N,"",0,401,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 10","Calgary",N,N,"",0,401,"Kenney","","Jason","Conservative","Conservateur",Y,Y,113
+48007,"Calgary Southeast","Calgary-Sud-Est"," 10","Calgary",N,N,"",0,401,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 10","Calgary",N,N,"",0,401,"Ludwar","","James","Liberal","Libéral",N,N,40
+48007,"Calgary Southeast","Calgary-Sud-Est"," 11","Calgary",N,N,"",1,236,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 11","Calgary",N,N,"",1,236,"Kenney","","Jason","Conservative","Conservateur",Y,Y,67
+48007,"Calgary Southeast","Calgary-Sud-Est"," 11","Calgary",N,N,"",1,236,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 11","Calgary",N,N,"",1,236,"Ludwar","","James","Liberal","Libéral",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 12","Calgary",N,N,"",2,278,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 12","Calgary",N,N,"",2,278,"Kenney","","Jason","Conservative","Conservateur",Y,Y,101
+48007,"Calgary Southeast","Calgary-Sud-Est"," 12","Calgary",N,N,"",2,278,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 12","Calgary",N,N,"",2,278,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 13","Calgary",N,N,"",1,318,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 13","Calgary",N,N,"",1,318,"Kenney","","Jason","Conservative","Conservateur",Y,Y,137
+48007,"Calgary Southeast","Calgary-Sud-Est"," 13","Calgary",N,N,"",1,318,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 13","Calgary",N,N,"",1,318,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 14","Calgary",N,N,"",0,310,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 14","Calgary",N,N,"",0,310,"Kenney","","Jason","Conservative","Conservateur",Y,Y,152
+48007,"Calgary Southeast","Calgary-Sud-Est"," 14","Calgary",N,N,"",0,310,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 14","Calgary",N,N,"",0,310,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 15","Calgary",N,N,"",0,243,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 15","Calgary",N,N,"",0,243,"Kenney","","Jason","Conservative","Conservateur",Y,Y,59
+48007,"Calgary Southeast","Calgary-Sud-Est"," 15","Calgary",N,N,"",0,243,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 15","Calgary",N,N,"",0,243,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 16","Calgary",N,N,"",0,342,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 16","Calgary",N,N,"",0,342,"Kenney","","Jason","Conservative","Conservateur",Y,Y,91
+48007,"Calgary Southeast","Calgary-Sud-Est"," 16","Calgary",N,N,"",0,342,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 16","Calgary",N,N,"",0,342,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 17","Calgary",N,N,"",0,356,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 17","Calgary",N,N,"",0,356,"Kenney","","Jason","Conservative","Conservateur",Y,Y,169
+48007,"Calgary Southeast","Calgary-Sud-Est"," 17","Calgary",N,N,"",0,356,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 17","Calgary",N,N,"",0,356,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 18","Calgary",N,N,"",0,356,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 18","Calgary",N,N,"",0,356,"Kenney","","Jason","Conservative","Conservateur",Y,Y,134
+48007,"Calgary Southeast","Calgary-Sud-Est"," 18","Calgary",N,N,"",0,356,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 18","Calgary",N,N,"",0,356,"Ludwar","","James","Liberal","Libéral",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 19","Calgary",N,N,"",2,506,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 19","Calgary",N,N,"",2,506,"Kenney","","Jason","Conservative","Conservateur",Y,Y,174
+48007,"Calgary Southeast","Calgary-Sud-Est"," 19","Calgary",N,N,"",2,506,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 19","Calgary",N,N,"",2,506,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 20","Calgary",N,N,"",2,300,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 20","Calgary",N,N,"",2,300,"Kenney","","Jason","Conservative","Conservateur",Y,Y,111
+48007,"Calgary Southeast","Calgary-Sud-Est"," 20","Calgary",N,N,"",2,300,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 20","Calgary",N,N,"",2,300,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 21","Calgary",N,N,"",0,352,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 21","Calgary",N,N,"",0,352,"Kenney","","Jason","Conservative","Conservateur",Y,Y,130
+48007,"Calgary Southeast","Calgary-Sud-Est"," 21","Calgary",N,N,"",0,352,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 21","Calgary",N,N,"",0,352,"Ludwar","","James","Liberal","Libéral",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 22","Calgary",N,N,"",1,409,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 22","Calgary",N,N,"",1,409,"Kenney","","Jason","Conservative","Conservateur",Y,Y,182
+48007,"Calgary Southeast","Calgary-Sud-Est"," 22","Calgary",N,N,"",1,409,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 22","Calgary",N,N,"",1,409,"Ludwar","","James","Liberal","Libéral",N,N,32
+48007,"Calgary Southeast","Calgary-Sud-Est"," 23","Calgary",N,N,"24",0,153,"Gutoski","","Gus","Green Party","Parti Vert",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 23","Calgary",N,N,"24",0,153,"Kenney","","Jason","Conservative","Conservateur",Y,Y,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 23","Calgary",N,N,"24",0,153,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 23","Calgary",N,N,"24",0,153,"Ludwar","","James","Liberal","Libéral",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 24","Calgary",N,N,"",1,179,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 24","Calgary",N,N,"",1,179,"Kenney","","Jason","Conservative","Conservateur",Y,Y,97
+48007,"Calgary Southeast","Calgary-Sud-Est"," 24","Calgary",N,N,"",1,179,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 24","Calgary",N,N,"",1,179,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 25","Calgary",N,N,"",2,447,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 25","Calgary",N,N,"",2,447,"Kenney","","Jason","Conservative","Conservateur",Y,Y,104
+48007,"Calgary Southeast","Calgary-Sud-Est"," 25","Calgary",N,N,"",2,447,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 25","Calgary",N,N,"",2,447,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 26","Calgary",N,N,"",0,513,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 26","Calgary",N,N,"",0,513,"Kenney","","Jason","Conservative","Conservateur",Y,Y,129
+48007,"Calgary Southeast","Calgary-Sud-Est"," 26","Calgary",N,N,"",0,513,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 26","Calgary",N,N,"",0,513,"Ludwar","","James","Liberal","Libéral",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 27","Calgary",N,N,"",0,411,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 27","Calgary",N,N,"",0,411,"Kenney","","Jason","Conservative","Conservateur",Y,Y,73
+48007,"Calgary Southeast","Calgary-Sud-Est"," 27","Calgary",N,N,"",0,411,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 27","Calgary",N,N,"",0,411,"Ludwar","","James","Liberal","Libéral",N,N,39
+48007,"Calgary Southeast","Calgary-Sud-Est"," 28","Calgary",N,N,"",0,378,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 28","Calgary",N,N,"",0,378,"Kenney","","Jason","Conservative","Conservateur",Y,Y,175
+48007,"Calgary Southeast","Calgary-Sud-Est"," 28","Calgary",N,N,"",0,378,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 28","Calgary",N,N,"",0,378,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 29","Calgary",N,N,"",1,334,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 29","Calgary",N,N,"",1,334,"Kenney","","Jason","Conservative","Conservateur",Y,Y,145
+48007,"Calgary Southeast","Calgary-Sud-Est"," 29","Calgary",N,N,"",1,334,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 29","Calgary",N,N,"",1,334,"Ludwar","","James","Liberal","Libéral",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 30","Calgary",N,N,"",0,444,"Gutoski","","Gus","Green Party","Parti Vert",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 30","Calgary",N,N,"",0,444,"Kenney","","Jason","Conservative","Conservateur",Y,Y,203
+48007,"Calgary Southeast","Calgary-Sud-Est"," 30","Calgary",N,N,"",0,444,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 30","Calgary",N,N,"",0,444,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 31","Calgary",N,N,"",0,266,"Gutoski","","Gus","Green Party","Parti Vert",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 31","Calgary",N,N,"",0,266,"Kenney","","Jason","Conservative","Conservateur",Y,Y,141
+48007,"Calgary Southeast","Calgary-Sud-Est"," 31","Calgary",N,N,"",0,266,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 31","Calgary",N,N,"",0,266,"Ludwar","","James","Liberal","Libéral",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 32","Calgary",N,N,"",0,561,"Gutoski","","Gus","Green Party","Parti Vert",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 32","Calgary",N,N,"",0,561,"Kenney","","Jason","Conservative","Conservateur",Y,Y,241
+48007,"Calgary Southeast","Calgary-Sud-Est"," 32","Calgary",N,N,"",0,561,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,37
+48007,"Calgary Southeast","Calgary-Sud-Est"," 32","Calgary",N,N,"",0,561,"Ludwar","","James","Liberal","Libéral",N,N,39
+48007,"Calgary Southeast","Calgary-Sud-Est"," 33","Calgary",N,N,"",0,316,"Gutoski","","Gus","Green Party","Parti Vert",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 33","Calgary",N,N,"",0,316,"Kenney","","Jason","Conservative","Conservateur",Y,Y,176
+48007,"Calgary Southeast","Calgary-Sud-Est"," 33","Calgary",N,N,"",0,316,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 33","Calgary",N,N,"",0,316,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 34","Calgary",N,N,"",0,383,"Gutoski","","Gus","Green Party","Parti Vert",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 34","Calgary",N,N,"",0,383,"Kenney","","Jason","Conservative","Conservateur",Y,Y,179
+48007,"Calgary Southeast","Calgary-Sud-Est"," 34","Calgary",N,N,"",0,383,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 34","Calgary",N,N,"",0,383,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 35","Calgary",N,N,"",0,301,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 35","Calgary",N,N,"",0,301,"Kenney","","Jason","Conservative","Conservateur",Y,Y,141
+48007,"Calgary Southeast","Calgary-Sud-Est"," 35","Calgary",N,N,"",0,301,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 35","Calgary",N,N,"",0,301,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 36","Calgary",N,N,"",0,311,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 36","Calgary",N,N,"",0,311,"Kenney","","Jason","Conservative","Conservateur",Y,Y,113
+48007,"Calgary Southeast","Calgary-Sud-Est"," 36","Calgary",N,N,"",0,311,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 36","Calgary",N,N,"",0,311,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 37","Calgary",N,N,"",1,323,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 37","Calgary",N,N,"",1,323,"Kenney","","Jason","Conservative","Conservateur",Y,Y,98
+48007,"Calgary Southeast","Calgary-Sud-Est"," 37","Calgary",N,N,"",1,323,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 37","Calgary",N,N,"",1,323,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 38","Calgary",N,N,"",1,356,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 38","Calgary",N,N,"",1,356,"Kenney","","Jason","Conservative","Conservateur",Y,Y,123
+48007,"Calgary Southeast","Calgary-Sud-Est"," 38","Calgary",N,N,"",1,356,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 38","Calgary",N,N,"",1,356,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 39","Calgary",N,N,"",1,292,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 39","Calgary",N,N,"",1,292,"Kenney","","Jason","Conservative","Conservateur",Y,Y,147
+48007,"Calgary Southeast","Calgary-Sud-Est"," 39","Calgary",N,N,"",1,292,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 39","Calgary",N,N,"",1,292,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 40","Calgary",N,N,"",0,316,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 40","Calgary",N,N,"",0,316,"Kenney","","Jason","Conservative","Conservateur",Y,Y,162
+48007,"Calgary Southeast","Calgary-Sud-Est"," 40","Calgary",N,N,"",0,316,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 40","Calgary",N,N,"",0,316,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 41","Calgary",N,N,"",0,291,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 41","Calgary",N,N,"",0,291,"Kenney","","Jason","Conservative","Conservateur",Y,Y,126
+48007,"Calgary Southeast","Calgary-Sud-Est"," 41","Calgary",N,N,"",0,291,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 41","Calgary",N,N,"",0,291,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 42","Calgary",N,N,"",0,375,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 42","Calgary",N,N,"",0,375,"Kenney","","Jason","Conservative","Conservateur",Y,Y,192
+48007,"Calgary Southeast","Calgary-Sud-Est"," 42","Calgary",N,N,"",0,375,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 42","Calgary",N,N,"",0,375,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 43","Calgary",N,N,"",0,320,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 43","Calgary",N,N,"",0,320,"Kenney","","Jason","Conservative","Conservateur",Y,Y,155
+48007,"Calgary Southeast","Calgary-Sud-Est"," 43","Calgary",N,N,"",0,320,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 43","Calgary",N,N,"",0,320,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 44","Calgary",N,N,"",1,318,"Gutoski","","Gus","Green Party","Parti Vert",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 44","Calgary",N,N,"",1,318,"Kenney","","Jason","Conservative","Conservateur",Y,Y,153
+48007,"Calgary Southeast","Calgary-Sud-Est"," 44","Calgary",N,N,"",1,318,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 44","Calgary",N,N,"",1,318,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 45","Calgary",N,N,"",0,445,"Gutoski","","Gus","Green Party","Parti Vert",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 45","Calgary",N,N,"",0,445,"Kenney","","Jason","Conservative","Conservateur",Y,Y,199
+48007,"Calgary Southeast","Calgary-Sud-Est"," 45","Calgary",N,N,"",0,445,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 45","Calgary",N,N,"",0,445,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 46","Calgary",N,N,"",0,311,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 46","Calgary",N,N,"",0,311,"Kenney","","Jason","Conservative","Conservateur",Y,Y,98
+48007,"Calgary Southeast","Calgary-Sud-Est"," 46","Calgary",N,N,"",0,311,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 46","Calgary",N,N,"",0,311,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 47","Calgary",N,N,"",0,336,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 47","Calgary",N,N,"",0,336,"Kenney","","Jason","Conservative","Conservateur",Y,Y,174
+48007,"Calgary Southeast","Calgary-Sud-Est"," 47","Calgary",N,N,"",0,336,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 47","Calgary",N,N,"",0,336,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 48","Calgary",N,N,"",0,327,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 48","Calgary",N,N,"",0,327,"Kenney","","Jason","Conservative","Conservateur",Y,Y,139
+48007,"Calgary Southeast","Calgary-Sud-Est"," 48","Calgary",N,N,"",0,327,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 48","Calgary",N,N,"",0,327,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 49","Calgary",N,N,"",1,349,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 49","Calgary",N,N,"",1,349,"Kenney","","Jason","Conservative","Conservateur",Y,Y,139
+48007,"Calgary Southeast","Calgary-Sud-Est"," 49","Calgary",N,N,"",1,349,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 49","Calgary",N,N,"",1,349,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 50","Calgary",N,N,"",1,327,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 50","Calgary",N,N,"",1,327,"Kenney","","Jason","Conservative","Conservateur",Y,Y,186
+48007,"Calgary Southeast","Calgary-Sud-Est"," 50","Calgary",N,N,"",1,327,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 50","Calgary",N,N,"",1,327,"Ludwar","","James","Liberal","Libéral",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 51","Calgary",Y,N,"",0,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 51","Calgary",Y,N,"",0,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 51","Calgary",Y,N,"",0,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 51","Calgary",Y,N,"",0,0,"Ludwar","","James","Liberal","Libéral",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52A","Calgary",N,N,"",1,476,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52A","Calgary",N,N,"",1,476,"Kenney","","Jason","Conservative","Conservateur",Y,Y,204
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52A","Calgary",N,N,"",1,476,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52A","Calgary",N,N,"",1,476,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Gutoski","","Gus","Green Party","Parti Vert",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Kenney","","Jason","Conservative","Conservateur",Y,Y,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Ludwar","","James","Liberal","Libéral",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 53","Calgary",N,N,"",0,395,"Gutoski","","Gus","Green Party","Parti Vert",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 53","Calgary",N,N,"",0,395,"Kenney","","Jason","Conservative","Conservateur",Y,Y,170
+48007,"Calgary Southeast","Calgary-Sud-Est"," 53","Calgary",N,N,"",0,395,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 53","Calgary",N,N,"",0,395,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 54","Calgary",N,N,"",0,334,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 54","Calgary",N,N,"",0,334,"Kenney","","Jason","Conservative","Conservateur",Y,Y,149
+48007,"Calgary Southeast","Calgary-Sud-Est"," 54","Calgary",N,N,"",0,334,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 54","Calgary",N,N,"",0,334,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 55","Calgary",N,N,"",1,330,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 55","Calgary",N,N,"",1,330,"Kenney","","Jason","Conservative","Conservateur",Y,Y,153
+48007,"Calgary Southeast","Calgary-Sud-Est"," 55","Calgary",N,N,"",1,330,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 55","Calgary",N,N,"",1,330,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 56","Calgary",N,N,"",1,335,"Gutoski","","Gus","Green Party","Parti Vert",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 56","Calgary",N,N,"",1,335,"Kenney","","Jason","Conservative","Conservateur",Y,Y,153
+48007,"Calgary Southeast","Calgary-Sud-Est"," 56","Calgary",N,N,"",1,335,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 56","Calgary",N,N,"",1,335,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 57","Calgary",N,N,"",2,396,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 57","Calgary",N,N,"",2,396,"Kenney","","Jason","Conservative","Conservateur",Y,Y,174
+48007,"Calgary Southeast","Calgary-Sud-Est"," 57","Calgary",N,N,"",2,396,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 57","Calgary",N,N,"",2,396,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 58","Calgary",N,N,"",2,471,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 58","Calgary",N,N,"",2,471,"Kenney","","Jason","Conservative","Conservateur",Y,Y,206
+48007,"Calgary Southeast","Calgary-Sud-Est"," 58","Calgary",N,N,"",2,471,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 58","Calgary",N,N,"",2,471,"Ludwar","","James","Liberal","Libéral",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 59","Calgary",N,N,"",0,345,"Gutoski","","Gus","Green Party","Parti Vert",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 59","Calgary",N,N,"",0,345,"Kenney","","Jason","Conservative","Conservateur",Y,Y,161
+48007,"Calgary Southeast","Calgary-Sud-Est"," 59","Calgary",N,N,"",0,345,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 59","Calgary",N,N,"",0,345,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 60","Calgary",N,N,"",0,296,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 60","Calgary",N,N,"",0,296,"Kenney","","Jason","Conservative","Conservateur",Y,Y,157
+48007,"Calgary Southeast","Calgary-Sud-Est"," 60","Calgary",N,N,"",0,296,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 60","Calgary",N,N,"",0,296,"Ludwar","","James","Liberal","Libéral",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 61","Calgary",N,N,"",0,395,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 61","Calgary",N,N,"",0,395,"Kenney","","Jason","Conservative","Conservateur",Y,Y,152
+48007,"Calgary Southeast","Calgary-Sud-Est"," 61","Calgary",N,N,"",0,395,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 61","Calgary",N,N,"",0,395,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 62","Calgary",N,N,"",0,337,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 62","Calgary",N,N,"",0,337,"Kenney","","Jason","Conservative","Conservateur",Y,Y,172
+48007,"Calgary Southeast","Calgary-Sud-Est"," 62","Calgary",N,N,"",0,337,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 62","Calgary",N,N,"",0,337,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 63","Calgary",N,N,"",0,345,"Gutoski","","Gus","Green Party","Parti Vert",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 63","Calgary",N,N,"",0,345,"Kenney","","Jason","Conservative","Conservateur",Y,Y,169
+48007,"Calgary Southeast","Calgary-Sud-Est"," 63","Calgary",N,N,"",0,345,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 63","Calgary",N,N,"",0,345,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 64","Calgary",N,N,"",0,473,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 64","Calgary",N,N,"",0,473,"Kenney","","Jason","Conservative","Conservateur",Y,Y,203
+48007,"Calgary Southeast","Calgary-Sud-Est"," 64","Calgary",N,N,"",0,473,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 64","Calgary",N,N,"",0,473,"Ludwar","","James","Liberal","Libéral",N,N,42
+48007,"Calgary Southeast","Calgary-Sud-Est"," 65","Calgary",N,N,"",1,340,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 65","Calgary",N,N,"",1,340,"Kenney","","Jason","Conservative","Conservateur",Y,Y,156
+48007,"Calgary Southeast","Calgary-Sud-Est"," 65","Calgary",N,N,"",1,340,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 65","Calgary",N,N,"",1,340,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 66","Calgary",N,N,"",0,371,"Gutoski","","Gus","Green Party","Parti Vert",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 66","Calgary",N,N,"",0,371,"Kenney","","Jason","Conservative","Conservateur",Y,Y,170
+48007,"Calgary Southeast","Calgary-Sud-Est"," 66","Calgary",N,N,"",0,371,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 66","Calgary",N,N,"",0,371,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 67","Calgary",N,N,"",0,417,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 67","Calgary",N,N,"",0,417,"Kenney","","Jason","Conservative","Conservateur",Y,Y,206
+48007,"Calgary Southeast","Calgary-Sud-Est"," 67","Calgary",N,N,"",0,417,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,5
+48007,"Calgary Southeast","Calgary-Sud-Est"," 67","Calgary",N,N,"",0,417,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 68","Calgary",N,N,"",1,378,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 68","Calgary",N,N,"",1,378,"Kenney","","Jason","Conservative","Conservateur",Y,Y,196
+48007,"Calgary Southeast","Calgary-Sud-Est"," 68","Calgary",N,N,"",1,378,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 68","Calgary",N,N,"",1,378,"Ludwar","","James","Liberal","Libéral",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 69","Calgary",N,N,"",0,393,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 69","Calgary",N,N,"",0,393,"Kenney","","Jason","Conservative","Conservateur",Y,Y,193
+48007,"Calgary Southeast","Calgary-Sud-Est"," 69","Calgary",N,N,"",0,393,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 69","Calgary",N,N,"",0,393,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 70","Calgary",N,N,"",0,386,"Gutoski","","Gus","Green Party","Parti Vert",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 70","Calgary",N,N,"",0,386,"Kenney","","Jason","Conservative","Conservateur",Y,Y,188
+48007,"Calgary Southeast","Calgary-Sud-Est"," 70","Calgary",N,N,"",0,386,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 70","Calgary",N,N,"",0,386,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 71","Calgary",N,N,"",1,407,"Gutoski","","Gus","Green Party","Parti Vert",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 71","Calgary",N,N,"",1,407,"Kenney","","Jason","Conservative","Conservateur",Y,Y,177
+48007,"Calgary Southeast","Calgary-Sud-Est"," 71","Calgary",N,N,"",1,407,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 71","Calgary",N,N,"",1,407,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 72","Calgary",N,N,"",0,344,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 72","Calgary",N,N,"",0,344,"Kenney","","Jason","Conservative","Conservateur",Y,Y,164
+48007,"Calgary Southeast","Calgary-Sud-Est"," 72","Calgary",N,N,"",0,344,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 72","Calgary",N,N,"",0,344,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 73","Calgary",N,N,"",1,375,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 73","Calgary",N,N,"",1,375,"Kenney","","Jason","Conservative","Conservateur",Y,Y,194
+48007,"Calgary Southeast","Calgary-Sud-Est"," 73","Calgary",N,N,"",1,375,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 73","Calgary",N,N,"",1,375,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 74","Calgary",N,N,"",2,487,"Gutoski","","Gus","Green Party","Parti Vert",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 74","Calgary",N,N,"",2,487,"Kenney","","Jason","Conservative","Conservateur",Y,Y,223
+48007,"Calgary Southeast","Calgary-Sud-Est"," 74","Calgary",N,N,"",2,487,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 74","Calgary",N,N,"",2,487,"Ludwar","","James","Liberal","Libéral",N,N,36
+48007,"Calgary Southeast","Calgary-Sud-Est"," 75","Calgary",N,N,"",1,355,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 75","Calgary",N,N,"",1,355,"Kenney","","Jason","Conservative","Conservateur",Y,Y,150
+48007,"Calgary Southeast","Calgary-Sud-Est"," 75","Calgary",N,N,"",1,355,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 75","Calgary",N,N,"",1,355,"Ludwar","","James","Liberal","Libéral",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 76","Calgary",N,N,"",1,312,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 76","Calgary",N,N,"",1,312,"Kenney","","Jason","Conservative","Conservateur",Y,Y,144
+48007,"Calgary Southeast","Calgary-Sud-Est"," 76","Calgary",N,N,"",1,312,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 76","Calgary",N,N,"",1,312,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 77","Calgary",N,N,"",0,460,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 77","Calgary",N,N,"",0,460,"Kenney","","Jason","Conservative","Conservateur",Y,Y,200
+48007,"Calgary Southeast","Calgary-Sud-Est"," 77","Calgary",N,N,"",0,460,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 77","Calgary",N,N,"",0,460,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 78","Calgary",N,N,"",1,451,"Gutoski","","Gus","Green Party","Parti Vert",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 78","Calgary",N,N,"",1,451,"Kenney","","Jason","Conservative","Conservateur",Y,Y,180
+48007,"Calgary Southeast","Calgary-Sud-Est"," 78","Calgary",N,N,"",1,451,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 78","Calgary",N,N,"",1,451,"Ludwar","","James","Liberal","Libéral",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 79","Calgary",N,N,"",0,394,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 79","Calgary",N,N,"",0,394,"Kenney","","Jason","Conservative","Conservateur",Y,Y,158
+48007,"Calgary Southeast","Calgary-Sud-Est"," 79","Calgary",N,N,"",0,394,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 79","Calgary",N,N,"",0,394,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 80","Calgary",N,N,"",0,420,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 80","Calgary",N,N,"",0,420,"Kenney","","Jason","Conservative","Conservateur",Y,Y,134
+48007,"Calgary Southeast","Calgary-Sud-Est"," 80","Calgary",N,N,"",0,420,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,36
+48007,"Calgary Southeast","Calgary-Sud-Est"," 80","Calgary",N,N,"",0,420,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 81","Calgary",N,N,"",0,420,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 81","Calgary",N,N,"",0,420,"Kenney","","Jason","Conservative","Conservateur",Y,Y,171
+48007,"Calgary Southeast","Calgary-Sud-Est"," 81","Calgary",N,N,"",0,420,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 81","Calgary",N,N,"",0,420,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 82","Calgary",N,N,"",0,484,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 82","Calgary",N,N,"",0,484,"Kenney","","Jason","Conservative","Conservateur",Y,Y,226
+48007,"Calgary Southeast","Calgary-Sud-Est"," 82","Calgary",N,N,"",0,484,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 82","Calgary",N,N,"",0,484,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 83","Calgary",N,N,"",1,318,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 83","Calgary",N,N,"",1,318,"Kenney","","Jason","Conservative","Conservateur",Y,Y,133
+48007,"Calgary Southeast","Calgary-Sud-Est"," 83","Calgary",N,N,"",1,318,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 83","Calgary",N,N,"",1,318,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 84","Calgary",N,N,"",0,397,"Gutoski","","Gus","Green Party","Parti Vert",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 84","Calgary",N,N,"",0,397,"Kenney","","Jason","Conservative","Conservateur",Y,Y,163
+48007,"Calgary Southeast","Calgary-Sud-Est"," 84","Calgary",N,N,"",0,397,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 84","Calgary",N,N,"",0,397,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 85","Calgary",N,N,"",0,370,"Gutoski","","Gus","Green Party","Parti Vert",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 85","Calgary",N,N,"",0,370,"Kenney","","Jason","Conservative","Conservateur",Y,Y,112
+48007,"Calgary Southeast","Calgary-Sud-Est"," 85","Calgary",N,N,"",0,370,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 85","Calgary",N,N,"",0,370,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 86","Calgary",N,N,"",0,428,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 86","Calgary",N,N,"",0,428,"Kenney","","Jason","Conservative","Conservateur",Y,Y,220
+48007,"Calgary Southeast","Calgary-Sud-Est"," 86","Calgary",N,N,"",0,428,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 86","Calgary",N,N,"",0,428,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 87","Calgary",N,N,"",2,425,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 87","Calgary",N,N,"",2,425,"Kenney","","Jason","Conservative","Conservateur",Y,Y,178
+48007,"Calgary Southeast","Calgary-Sud-Est"," 87","Calgary",N,N,"",2,425,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 87","Calgary",N,N,"",2,425,"Ludwar","","James","Liberal","Libéral",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 88","Calgary",N,N,"",2,375,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 88","Calgary",N,N,"",2,375,"Kenney","","Jason","Conservative","Conservateur",Y,Y,109
+48007,"Calgary Southeast","Calgary-Sud-Est"," 88","Calgary",N,N,"",2,375,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 88","Calgary",N,N,"",2,375,"Ludwar","","James","Liberal","Libéral",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 89","Calgary",N,N,"",0,298,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 89","Calgary",N,N,"",0,298,"Kenney","","Jason","Conservative","Conservateur",Y,Y,104
+48007,"Calgary Southeast","Calgary-Sud-Est"," 89","Calgary",N,N,"",0,298,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 89","Calgary",N,N,"",0,298,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 90","Calgary",N,N,"",0,339,"Gutoski","","Gus","Green Party","Parti Vert",N,N,5
+48007,"Calgary Southeast","Calgary-Sud-Est"," 90","Calgary",N,N,"",0,339,"Kenney","","Jason","Conservative","Conservateur",Y,Y,118
+48007,"Calgary Southeast","Calgary-Sud-Est"," 90","Calgary",N,N,"",0,339,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 90","Calgary",N,N,"",0,339,"Ludwar","","James","Liberal","Libéral",N,N,37
+48007,"Calgary Southeast","Calgary-Sud-Est"," 91","Calgary",N,N,"",0,299,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 91","Calgary",N,N,"",0,299,"Kenney","","Jason","Conservative","Conservateur",Y,Y,73
+48007,"Calgary Southeast","Calgary-Sud-Est"," 91","Calgary",N,N,"",0,299,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 91","Calgary",N,N,"",0,299,"Ludwar","","James","Liberal","Libéral",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 92","Calgary",N,N,"",1,410,"Gutoski","","Gus","Green Party","Parti Vert",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 92","Calgary",N,N,"",1,410,"Kenney","","Jason","Conservative","Conservateur",Y,Y,142
+48007,"Calgary Southeast","Calgary-Sud-Est"," 92","Calgary",N,N,"",1,410,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 92","Calgary",N,N,"",1,410,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 93","Calgary",N,N,"",0,485,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 93","Calgary",N,N,"",0,485,"Kenney","","Jason","Conservative","Conservateur",Y,Y,204
+48007,"Calgary Southeast","Calgary-Sud-Est"," 93","Calgary",N,N,"",0,485,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 93","Calgary",N,N,"",0,485,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 94","Calgary",N,N,"",1,446,"Gutoski","","Gus","Green Party","Parti Vert",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 94","Calgary",N,N,"",1,446,"Kenney","","Jason","Conservative","Conservateur",Y,Y,193
+48007,"Calgary Southeast","Calgary-Sud-Est"," 94","Calgary",N,N,"",1,446,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 94","Calgary",N,N,"",1,446,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 95","Calgary",N,N,"",0,470,"Gutoski","","Gus","Green Party","Parti Vert",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 95","Calgary",N,N,"",0,470,"Kenney","","Jason","Conservative","Conservateur",Y,Y,171
+48007,"Calgary Southeast","Calgary-Sud-Est"," 95","Calgary",N,N,"",0,470,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 95","Calgary",N,N,"",0,470,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 96","Calgary",N,N,"",0,393,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 96","Calgary",N,N,"",0,393,"Kenney","","Jason","Conservative","Conservateur",Y,Y,138
+48007,"Calgary Southeast","Calgary-Sud-Est"," 96","Calgary",N,N,"",0,393,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 96","Calgary",N,N,"",0,393,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 97","Calgary",N,N,"",0,431,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 97","Calgary",N,N,"",0,431,"Kenney","","Jason","Conservative","Conservateur",Y,Y,183
+48007,"Calgary Southeast","Calgary-Sud-Est"," 97","Calgary",N,N,"",0,431,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 97","Calgary",N,N,"",0,431,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 98","Calgary",N,N,"",0,239,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 98","Calgary",N,N,"",0,239,"Kenney","","Jason","Conservative","Conservateur",Y,Y,97
+48007,"Calgary Southeast","Calgary-Sud-Est"," 98","Calgary",N,N,"",0,239,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 98","Calgary",N,N,"",0,239,"Ludwar","","James","Liberal","Libéral",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 99","Calgary",N,N,"",0,299,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 99","Calgary",N,N,"",0,299,"Kenney","","Jason","Conservative","Conservateur",Y,Y,158
+48007,"Calgary Southeast","Calgary-Sud-Est"," 99","Calgary",N,N,"",0,299,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 99","Calgary",N,N,"",0,299,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 100","Calgary",N,N,"",0,359,"Gutoski","","Gus","Green Party","Parti Vert",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 100","Calgary",N,N,"",0,359,"Kenney","","Jason","Conservative","Conservateur",Y,Y,174
+48007,"Calgary Southeast","Calgary-Sud-Est"," 100","Calgary",N,N,"",0,359,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 100","Calgary",N,N,"",0,359,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 101","Calgary",N,N,"",0,496,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 101","Calgary",N,N,"",0,496,"Kenney","","Jason","Conservative","Conservateur",Y,Y,265
+48007,"Calgary Southeast","Calgary-Sud-Est"," 101","Calgary",N,N,"",0,496,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 101","Calgary",N,N,"",0,496,"Ludwar","","James","Liberal","Libéral",N,N,43
+48007,"Calgary Southeast","Calgary-Sud-Est"," 102","Calgary",N,N,"",0,325,"Gutoski","","Gus","Green Party","Parti Vert",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 102","Calgary",N,N,"",0,325,"Kenney","","Jason","Conservative","Conservateur",Y,Y,163
+48007,"Calgary Southeast","Calgary-Sud-Est"," 102","Calgary",N,N,"",0,325,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 102","Calgary",N,N,"",0,325,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 103","Calgary",N,N,"",0,375,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 103","Calgary",N,N,"",0,375,"Kenney","","Jason","Conservative","Conservateur",Y,Y,192
+48007,"Calgary Southeast","Calgary-Sud-Est"," 103","Calgary",N,N,"",0,375,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 103","Calgary",N,N,"",0,375,"Ludwar","","James","Liberal","Libéral",N,N,32
+48007,"Calgary Southeast","Calgary-Sud-Est"," 104","Calgary",N,N,"",0,557,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 104","Calgary",N,N,"",0,557,"Kenney","","Jason","Conservative","Conservateur",Y,Y,290
+48007,"Calgary Southeast","Calgary-Sud-Est"," 104","Calgary",N,N,"",0,557,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 104","Calgary",N,N,"",0,557,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 105","Calgary",N,N,"",0,472,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 105","Calgary",N,N,"",0,472,"Kenney","","Jason","Conservative","Conservateur",Y,Y,215
+48007,"Calgary Southeast","Calgary-Sud-Est"," 105","Calgary",N,N,"",0,472,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 105","Calgary",N,N,"",0,472,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 106","Calgary",N,N,"",0,436,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 106","Calgary",N,N,"",0,436,"Kenney","","Jason","Conservative","Conservateur",Y,Y,208
+48007,"Calgary Southeast","Calgary-Sud-Est"," 106","Calgary",N,N,"",0,436,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 106","Calgary",N,N,"",0,436,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 107","Calgary",N,N,"",1,408,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 107","Calgary",N,N,"",1,408,"Kenney","","Jason","Conservative","Conservateur",Y,Y,200
+48007,"Calgary Southeast","Calgary-Sud-Est"," 107","Calgary",N,N,"",1,408,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 107","Calgary",N,N,"",1,408,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 108","Calgary",N,N,"",0,562,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 108","Calgary",N,N,"",0,562,"Kenney","","Jason","Conservative","Conservateur",Y,Y,245
+48007,"Calgary Southeast","Calgary-Sud-Est"," 108","Calgary",N,N,"",0,562,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 108","Calgary",N,N,"",0,562,"Ludwar","","James","Liberal","Libéral",N,N,40
+48007,"Calgary Southeast","Calgary-Sud-Est"," 109","Calgary",N,N,"",0,381,"Gutoski","","Gus","Green Party","Parti Vert",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 109","Calgary",N,N,"",0,381,"Kenney","","Jason","Conservative","Conservateur",Y,Y,187
+48007,"Calgary Southeast","Calgary-Sud-Est"," 109","Calgary",N,N,"",0,381,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 109","Calgary",N,N,"",0,381,"Ludwar","","James","Liberal","Libéral",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 110","Calgary",N,N,"",0,391,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 110","Calgary",N,N,"",0,391,"Kenney","","Jason","Conservative","Conservateur",Y,Y,159
+48007,"Calgary Southeast","Calgary-Sud-Est"," 110","Calgary",N,N,"",0,391,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 110","Calgary",N,N,"",0,391,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 111","Calgary",N,N,"",0,359,"Gutoski","","Gus","Green Party","Parti Vert",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 111","Calgary",N,N,"",0,359,"Kenney","","Jason","Conservative","Conservateur",Y,Y,181
+48007,"Calgary Southeast","Calgary-Sud-Est"," 111","Calgary",N,N,"",0,359,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 111","Calgary",N,N,"",0,359,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 112","Calgary",N,N,"",0,550,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 112","Calgary",N,N,"",0,550,"Kenney","","Jason","Conservative","Conservateur",Y,Y,222
+48007,"Calgary Southeast","Calgary-Sud-Est"," 112","Calgary",N,N,"",0,550,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 112","Calgary",N,N,"",0,550,"Ludwar","","James","Liberal","Libéral",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 113","Calgary",N,N,"",0,361,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 113","Calgary",N,N,"",0,361,"Kenney","","Jason","Conservative","Conservateur",Y,Y,189
+48007,"Calgary Southeast","Calgary-Sud-Est"," 113","Calgary",N,N,"",0,361,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 113","Calgary",N,N,"",0,361,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 114","Calgary",N,N,"",0,456,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 114","Calgary",N,N,"",0,456,"Kenney","","Jason","Conservative","Conservateur",Y,Y,215
+48007,"Calgary Southeast","Calgary-Sud-Est"," 114","Calgary",N,N,"",0,456,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 114","Calgary",N,N,"",0,456,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 115","Calgary",N,N,"",1,364,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 115","Calgary",N,N,"",1,364,"Kenney","","Jason","Conservative","Conservateur",Y,Y,132
+48007,"Calgary Southeast","Calgary-Sud-Est"," 115","Calgary",N,N,"",1,364,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 115","Calgary",N,N,"",1,364,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 116","Calgary",N,N,"",2,363,"Gutoski","","Gus","Green Party","Parti Vert",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 116","Calgary",N,N,"",2,363,"Kenney","","Jason","Conservative","Conservateur",Y,Y,186
+48007,"Calgary Southeast","Calgary-Sud-Est"," 116","Calgary",N,N,"",2,363,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,3
+48007,"Calgary Southeast","Calgary-Sud-Est"," 116","Calgary",N,N,"",2,363,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 117","Calgary",N,N,"",0,243,"Gutoski","","Gus","Green Party","Parti Vert",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 117","Calgary",N,N,"",0,243,"Kenney","","Jason","Conservative","Conservateur",Y,Y,88
+48007,"Calgary Southeast","Calgary-Sud-Est"," 117","Calgary",N,N,"",0,243,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 117","Calgary",N,N,"",0,243,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 118","Calgary",N,N,"",1,399,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 118","Calgary",N,N,"",1,399,"Kenney","","Jason","Conservative","Conservateur",Y,Y,182
+48007,"Calgary Southeast","Calgary-Sud-Est"," 118","Calgary",N,N,"",1,399,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 118","Calgary",N,N,"",1,399,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119A","Calgary",N,N,"",0,353,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119A","Calgary",N,N,"",0,353,"Kenney","","Jason","Conservative","Conservateur",Y,Y,136
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119A","Calgary",N,N,"",0,353,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119A","Calgary",N,N,"",0,353,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119B","Calgary",N,N,"",0,382,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119B","Calgary",N,N,"",0,382,"Kenney","","Jason","Conservative","Conservateur",Y,Y,137
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119B","Calgary",N,N,"",0,382,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 119B","Calgary",N,N,"",0,382,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 120","Calgary",N,N,"",2,303,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 120","Calgary",N,N,"",2,303,"Kenney","","Jason","Conservative","Conservateur",Y,Y,132
+48007,"Calgary Southeast","Calgary-Sud-Est"," 120","Calgary",N,N,"",2,303,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 120","Calgary",N,N,"",2,303,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 121","Calgary",N,N,"",0,407,"Gutoski","","Gus","Green Party","Parti Vert",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 121","Calgary",N,N,"",0,407,"Kenney","","Jason","Conservative","Conservateur",Y,Y,113
+48007,"Calgary Southeast","Calgary-Sud-Est"," 121","Calgary",N,N,"",0,407,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 121","Calgary",N,N,"",0,407,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 122","Calgary",N,N,"",0,319,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 122","Calgary",N,N,"",0,319,"Kenney","","Jason","Conservative","Conservateur",Y,Y,133
+48007,"Calgary Southeast","Calgary-Sud-Est"," 122","Calgary",N,N,"",0,319,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 122","Calgary",N,N,"",0,319,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 123","Calgary",N,N,"",1,283,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 123","Calgary",N,N,"",1,283,"Kenney","","Jason","Conservative","Conservateur",Y,Y,116
+48007,"Calgary Southeast","Calgary-Sud-Est"," 123","Calgary",N,N,"",1,283,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 123","Calgary",N,N,"",1,283,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 124","Calgary",N,N,"",0,401,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 124","Calgary",N,N,"",0,401,"Kenney","","Jason","Conservative","Conservateur",Y,Y,136
+48007,"Calgary Southeast","Calgary-Sud-Est"," 124","Calgary",N,N,"",0,401,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 124","Calgary",N,N,"",0,401,"Ludwar","","James","Liberal","Libéral",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 125","Calgary",N,N,"",2,329,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 125","Calgary",N,N,"",2,329,"Kenney","","Jason","Conservative","Conservateur",Y,Y,141
+48007,"Calgary Southeast","Calgary-Sud-Est"," 125","Calgary",N,N,"",2,329,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 125","Calgary",N,N,"",2,329,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 126","Calgary",N,N,"",0,416,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 126","Calgary",N,N,"",0,416,"Kenney","","Jason","Conservative","Conservateur",Y,Y,164
+48007,"Calgary Southeast","Calgary-Sud-Est"," 126","Calgary",N,N,"",0,416,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 126","Calgary",N,N,"",0,416,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127A","Calgary",N,N,"",0,469,"Gutoski","","Gus","Green Party","Parti Vert",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127A","Calgary",N,N,"",0,469,"Kenney","","Jason","Conservative","Conservateur",Y,Y,184
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127A","Calgary",N,N,"",0,469,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127A","Calgary",N,N,"",0,469,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127B","Mobile poll/Bureau itinérant",N,N,"501A",0,57,"Gutoski","","Gus","Green Party","Parti Vert",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127B","Mobile poll/Bureau itinérant",N,N,"501A",0,57,"Kenney","","Jason","Conservative","Conservateur",Y,Y,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127B","Mobile poll/Bureau itinérant",N,N,"501A",0,57,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 127B","Mobile poll/Bureau itinérant",N,N,"501A",0,57,"Ludwar","","James","Liberal","Libéral",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 128","Calgary",N,N,"",1,400,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 128","Calgary",N,N,"",1,400,"Kenney","","Jason","Conservative","Conservateur",Y,Y,206
+48007,"Calgary Southeast","Calgary-Sud-Est"," 128","Calgary",N,N,"",1,400,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 128","Calgary",N,N,"",1,400,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 129","Calgary",N,N,"",0,457,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 129","Calgary",N,N,"",0,457,"Kenney","","Jason","Conservative","Conservateur",Y,Y,206
+48007,"Calgary Southeast","Calgary-Sud-Est"," 129","Calgary",N,N,"",0,457,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,36
+48007,"Calgary Southeast","Calgary-Sud-Est"," 129","Calgary",N,N,"",0,457,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 130","Calgary",N,N,"",0,196,"Gutoski","","Gus","Green Party","Parti Vert",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 130","Calgary",N,N,"",0,196,"Kenney","","Jason","Conservative","Conservateur",Y,Y,90
+48007,"Calgary Southeast","Calgary-Sud-Est"," 130","Calgary",N,N,"",0,196,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 130","Calgary",N,N,"",0,196,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 131","Calgary",N,N,"",0,488,"Gutoski","","Gus","Green Party","Parti Vert",N,N,37
+48007,"Calgary Southeast","Calgary-Sud-Est"," 131","Calgary",N,N,"",0,488,"Kenney","","Jason","Conservative","Conservateur",Y,Y,238
+48007,"Calgary Southeast","Calgary-Sud-Est"," 131","Calgary",N,N,"",0,488,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 131","Calgary",N,N,"",0,488,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 132","Calgary",N,N,"",0,292,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 132","Calgary",N,N,"",0,292,"Kenney","","Jason","Conservative","Conservateur",Y,Y,150
+48007,"Calgary Southeast","Calgary-Sud-Est"," 132","Calgary",N,N,"",0,292,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 132","Calgary",N,N,"",0,292,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 133","Calgary",N,N,"",0,264,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 133","Calgary",N,N,"",0,264,"Kenney","","Jason","Conservative","Conservateur",Y,Y,102
+48007,"Calgary Southeast","Calgary-Sud-Est"," 133","Calgary",N,N,"",0,264,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 133","Calgary",N,N,"",0,264,"Ludwar","","James","Liberal","Libéral",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 134","Calgary",N,N,"",0,443,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 134","Calgary",N,N,"",0,443,"Kenney","","Jason","Conservative","Conservateur",Y,Y,218
+48007,"Calgary Southeast","Calgary-Sud-Est"," 134","Calgary",N,N,"",0,443,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 134","Calgary",N,N,"",0,443,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 135","Calgary",N,N,"",0,330,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 135","Calgary",N,N,"",0,330,"Kenney","","Jason","Conservative","Conservateur",Y,Y,155
+48007,"Calgary Southeast","Calgary-Sud-Est"," 135","Calgary",N,N,"",0,330,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 135","Calgary",N,N,"",0,330,"Ludwar","","James","Liberal","Libéral",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 136","Calgary",N,N,"",1,341,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 136","Calgary",N,N,"",1,341,"Kenney","","Jason","Conservative","Conservateur",Y,Y,171
+48007,"Calgary Southeast","Calgary-Sud-Est"," 136","Calgary",N,N,"",1,341,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 136","Calgary",N,N,"",1,341,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 137","Calgary",N,N,"",0,366,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 137","Calgary",N,N,"",0,366,"Kenney","","Jason","Conservative","Conservateur",Y,Y,203
+48007,"Calgary Southeast","Calgary-Sud-Est"," 137","Calgary",N,N,"",0,366,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 137","Calgary",N,N,"",0,366,"Ludwar","","James","Liberal","Libéral",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 138","Calgary",N,N,"",0,326,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 138","Calgary",N,N,"",0,326,"Kenney","","Jason","Conservative","Conservateur",Y,Y,153
+48007,"Calgary Southeast","Calgary-Sud-Est"," 138","Calgary",N,N,"",0,326,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 138","Calgary",N,N,"",0,326,"Ludwar","","James","Liberal","Libéral",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 139","Calgary",N,N,"",0,423,"Gutoski","","Gus","Green Party","Parti Vert",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 139","Calgary",N,N,"",0,423,"Kenney","","Jason","Conservative","Conservateur",Y,Y,219
+48007,"Calgary Southeast","Calgary-Sud-Est"," 139","Calgary",N,N,"",0,423,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 139","Calgary",N,N,"",0,423,"Ludwar","","James","Liberal","Libéral",N,N,48
+48007,"Calgary Southeast","Calgary-Sud-Est"," 140","Calgary",N,N,"",0,457,"Gutoski","","Gus","Green Party","Parti Vert",N,N,40
+48007,"Calgary Southeast","Calgary-Sud-Est"," 140","Calgary",N,N,"",0,457,"Kenney","","Jason","Conservative","Conservateur",Y,Y,195
+48007,"Calgary Southeast","Calgary-Sud-Est"," 140","Calgary",N,N,"",0,457,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,44
+48007,"Calgary Southeast","Calgary-Sud-Est"," 140","Calgary",N,N,"",0,457,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 141","Calgary",N,N,"",0,546,"Gutoski","","Gus","Green Party","Parti Vert",N,N,32
+48007,"Calgary Southeast","Calgary-Sud-Est"," 141","Calgary",N,N,"",0,546,"Kenney","","Jason","Conservative","Conservateur",Y,Y,271
+48007,"Calgary Southeast","Calgary-Sud-Est"," 141","Calgary",N,N,"",0,546,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 141","Calgary",N,N,"",0,546,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 142","Calgary",N,N,"",0,393,"Gutoski","","Gus","Green Party","Parti Vert",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 142","Calgary",N,N,"",0,393,"Kenney","","Jason","Conservative","Conservateur",Y,Y,190
+48007,"Calgary Southeast","Calgary-Sud-Est"," 142","Calgary",N,N,"",0,393,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 142","Calgary",N,N,"",0,393,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 143","Calgary",N,N,"",0,371,"Gutoski","","Gus","Green Party","Parti Vert",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 143","Calgary",N,N,"",0,371,"Kenney","","Jason","Conservative","Conservateur",Y,Y,145
+48007,"Calgary Southeast","Calgary-Sud-Est"," 143","Calgary",N,N,"",0,371,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,32
+48007,"Calgary Southeast","Calgary-Sud-Est"," 143","Calgary",N,N,"",0,371,"Ludwar","","James","Liberal","Libéral",N,N,40
+48007,"Calgary Southeast","Calgary-Sud-Est"," 144","Calgary",N,N,"",0,406,"Gutoski","","Gus","Green Party","Parti Vert",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 144","Calgary",N,N,"",0,406,"Kenney","","Jason","Conservative","Conservateur",Y,Y,185
+48007,"Calgary Southeast","Calgary-Sud-Est"," 144","Calgary",N,N,"",0,406,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 144","Calgary",N,N,"",0,406,"Ludwar","","James","Liberal","Libéral",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 145","Calgary",N,N,"",0,455,"Gutoski","","Gus","Green Party","Parti Vert",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 145","Calgary",N,N,"",0,455,"Kenney","","Jason","Conservative","Conservateur",Y,Y,208
+48007,"Calgary Southeast","Calgary-Sud-Est"," 145","Calgary",N,N,"",0,455,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 145","Calgary",N,N,"",0,455,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 146","Calgary",N,N,"",0,343,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 146","Calgary",N,N,"",0,343,"Kenney","","Jason","Conservative","Conservateur",Y,Y,139
+48007,"Calgary Southeast","Calgary-Sud-Est"," 146","Calgary",N,N,"",0,343,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 146","Calgary",N,N,"",0,343,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 147","Calgary",N,N,"",0,530,"Gutoski","","Gus","Green Party","Parti Vert",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 147","Calgary",N,N,"",0,530,"Kenney","","Jason","Conservative","Conservateur",Y,Y,232
+48007,"Calgary Southeast","Calgary-Sud-Est"," 147","Calgary",N,N,"",0,530,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,39
+48007,"Calgary Southeast","Calgary-Sud-Est"," 147","Calgary",N,N,"",0,530,"Ludwar","","James","Liberal","Libéral",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 148","Calgary",N,N,"",0,440,"Gutoski","","Gus","Green Party","Parti Vert",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 148","Calgary",N,N,"",0,440,"Kenney","","Jason","Conservative","Conservateur",Y,Y,196
+48007,"Calgary Southeast","Calgary-Sud-Est"," 148","Calgary",N,N,"",0,440,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 148","Calgary",N,N,"",0,440,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 149","Calgary",N,N,"",1,466,"Gutoski","","Gus","Green Party","Parti Vert",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 149","Calgary",N,N,"",1,466,"Kenney","","Jason","Conservative","Conservateur",Y,Y,228
+48007,"Calgary Southeast","Calgary-Sud-Est"," 149","Calgary",N,N,"",1,466,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 149","Calgary",N,N,"",1,466,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 150","Calgary",N,N,"",0,467,"Gutoski","","Gus","Green Party","Parti Vert",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 150","Calgary",N,N,"",0,467,"Kenney","","Jason","Conservative","Conservateur",Y,Y,240
+48007,"Calgary Southeast","Calgary-Sud-Est"," 150","Calgary",N,N,"",0,467,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 150","Calgary",N,N,"",0,467,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151A","Calgary",N,N,"",0,303,"Gutoski","","Gus","Green Party","Parti Vert",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151A","Calgary",N,N,"",0,303,"Kenney","","Jason","Conservative","Conservateur",Y,Y,90
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151A","Calgary",N,N,"",0,303,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151A","Calgary",N,N,"",0,303,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151B","Calgary",N,N,"",0,315,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151B","Calgary",N,N,"",0,315,"Kenney","","Jason","Conservative","Conservateur",Y,Y,117
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151B","Calgary",N,N,"",0,315,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 151B","Calgary",N,N,"",0,315,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 152","Calgary",N,N,"",0,465,"Gutoski","","Gus","Green Party","Parti Vert",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 152","Calgary",N,N,"",0,465,"Kenney","","Jason","Conservative","Conservateur",Y,Y,217
+48007,"Calgary Southeast","Calgary-Sud-Est"," 152","Calgary",N,N,"",0,465,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 152","Calgary",N,N,"",0,465,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153A","Calgary",N,N,"",0,158,"Gutoski","","Gus","Green Party","Parti Vert",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153A","Calgary",N,N,"",0,158,"Kenney","","Jason","Conservative","Conservateur",Y,Y,70
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153A","Calgary",N,N,"",0,158,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153A","Calgary",N,N,"",0,158,"Ludwar","","James","Liberal","Libéral",N,N,4
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153B","Mobile poll/Bureau itinérant",N,N,"501A",0,112,"Gutoski","","Gus","Green Party","Parti Vert",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153B","Mobile poll/Bureau itinérant",N,N,"501A",0,112,"Kenney","","Jason","Conservative","Conservateur",Y,Y,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153B","Mobile poll/Bureau itinérant",N,N,"501A",0,112,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 153B","Mobile poll/Bureau itinérant",N,N,"501A",0,112,"Ludwar","","James","Liberal","Libéral",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 154","Calgary",N,N,"",1,244,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 154","Calgary",N,N,"",1,244,"Kenney","","Jason","Conservative","Conservateur",Y,Y,109
+48007,"Calgary Southeast","Calgary-Sud-Est"," 154","Calgary",N,N,"",1,244,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 154","Calgary",N,N,"",1,244,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 155","Calgary",N,N,"",0,406,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 155","Calgary",N,N,"",0,406,"Kenney","","Jason","Conservative","Conservateur",Y,Y,205
+48007,"Calgary Southeast","Calgary-Sud-Est"," 155","Calgary",N,N,"",0,406,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 155","Calgary",N,N,"",0,406,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 156","Calgary",N,N,"",1,397,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 156","Calgary",N,N,"",1,397,"Kenney","","Jason","Conservative","Conservateur",Y,Y,213
+48007,"Calgary Southeast","Calgary-Sud-Est"," 156","Calgary",N,N,"",1,397,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 156","Calgary",N,N,"",1,397,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 157","Calgary",N,N,"",1,459,"Gutoski","","Gus","Green Party","Parti Vert",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 157","Calgary",N,N,"",1,459,"Kenney","","Jason","Conservative","Conservateur",Y,Y,220
+48007,"Calgary Southeast","Calgary-Sud-Est"," 157","Calgary",N,N,"",1,459,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 157","Calgary",N,N,"",1,459,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 158","Calgary",N,N,"",0,425,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 158","Calgary",N,N,"",0,425,"Kenney","","Jason","Conservative","Conservateur",Y,Y,222
+48007,"Calgary Southeast","Calgary-Sud-Est"," 158","Calgary",N,N,"",0,425,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 158","Calgary",N,N,"",0,425,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 159","Calgary",N,N,"",0,386,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 159","Calgary",N,N,"",0,386,"Kenney","","Jason","Conservative","Conservateur",Y,Y,210
+48007,"Calgary Southeast","Calgary-Sud-Est"," 159","Calgary",N,N,"",0,386,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 159","Calgary",N,N,"",0,386,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 160","Calgary",N,N,"",1,529,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 160","Calgary",N,N,"",1,529,"Kenney","","Jason","Conservative","Conservateur",Y,Y,262
+48007,"Calgary Southeast","Calgary-Sud-Est"," 160","Calgary",N,N,"",1,529,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 160","Calgary",N,N,"",1,529,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 161","Calgary",N,N,"",0,335,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 161","Calgary",N,N,"",0,335,"Kenney","","Jason","Conservative","Conservateur",Y,Y,149
+48007,"Calgary Southeast","Calgary-Sud-Est"," 161","Calgary",N,N,"",0,335,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 161","Calgary",N,N,"",0,335,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 162","Calgary",N,N,"",2,391,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 162","Calgary",N,N,"",2,391,"Kenney","","Jason","Conservative","Conservateur",Y,Y,150
+48007,"Calgary Southeast","Calgary-Sud-Est"," 162","Calgary",N,N,"",2,391,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 162","Calgary",N,N,"",2,391,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 163","Calgary",N,N,"",1,410,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 163","Calgary",N,N,"",1,410,"Kenney","","Jason","Conservative","Conservateur",Y,Y,201
+48007,"Calgary Southeast","Calgary-Sud-Est"," 163","Calgary",N,N,"",1,410,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 163","Calgary",N,N,"",1,410,"Ludwar","","James","Liberal","Libéral",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 164","Calgary",N,N,"",0,353,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 164","Calgary",N,N,"",0,353,"Kenney","","Jason","Conservative","Conservateur",Y,Y,155
+48007,"Calgary Southeast","Calgary-Sud-Est"," 164","Calgary",N,N,"",0,353,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 164","Calgary",N,N,"",0,353,"Ludwar","","James","Liberal","Libéral",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 165","Calgary",N,N,"",0,441,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 165","Calgary",N,N,"",0,441,"Kenney","","Jason","Conservative","Conservateur",Y,Y,232
+48007,"Calgary Southeast","Calgary-Sud-Est"," 165","Calgary",N,N,"",0,441,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 165","Calgary",N,N,"",0,441,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 166","Calgary",N,N,"",0,376,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 166","Calgary",N,N,"",0,376,"Kenney","","Jason","Conservative","Conservateur",Y,Y,187
+48007,"Calgary Southeast","Calgary-Sud-Est"," 166","Calgary",N,N,"",0,376,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 166","Calgary",N,N,"",0,376,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167A","Calgary",N,N,"",0,258,"Gutoski","","Gus","Green Party","Parti Vert",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167A","Calgary",N,N,"",0,258,"Kenney","","Jason","Conservative","Conservateur",Y,Y,124
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167A","Calgary",N,N,"",0,258,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167A","Calgary",N,N,"",0,258,"Ludwar","","James","Liberal","Libéral",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167B","Calgary",N,N,"",0,308,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167B","Calgary",N,N,"",0,308,"Kenney","","Jason","Conservative","Conservateur",Y,Y,158
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167B","Calgary",N,N,"",0,308,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 167B","Calgary",N,N,"",0,308,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 168","Calgary",N,N,"",1,414,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 168","Calgary",N,N,"",1,414,"Kenney","","Jason","Conservative","Conservateur",Y,Y,244
+48007,"Calgary Southeast","Calgary-Sud-Est"," 168","Calgary",N,N,"",1,414,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 168","Calgary",N,N,"",1,414,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 169","Calgary",N,N,"",1,509,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 169","Calgary",N,N,"",1,509,"Kenney","","Jason","Conservative","Conservateur",Y,Y,280
+48007,"Calgary Southeast","Calgary-Sud-Est"," 169","Calgary",N,N,"",1,509,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 169","Calgary",N,N,"",1,509,"Ludwar","","James","Liberal","Libéral",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 170","Calgary",N,N,"",1,484,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 170","Calgary",N,N,"",1,484,"Kenney","","Jason","Conservative","Conservateur",Y,Y,229
+48007,"Calgary Southeast","Calgary-Sud-Est"," 170","Calgary",N,N,"",1,484,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 170","Calgary",N,N,"",1,484,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171A","Calgary",N,N,"",0,358,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171A","Calgary",N,N,"",0,358,"Kenney","","Jason","Conservative","Conservateur",Y,Y,162
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171A","Calgary",N,N,"",0,358,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171A","Calgary",N,N,"",0,358,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171B","Calgary",N,N,"",0,398,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171B","Calgary",N,N,"",0,398,"Kenney","","Jason","Conservative","Conservateur",Y,Y,180
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171B","Calgary",N,N,"",0,398,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 171B","Calgary",N,N,"",0,398,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172A","Calgary",N,N,"",0,402,"Gutoski","","Gus","Green Party","Parti Vert",N,N,4
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172A","Calgary",N,N,"",0,402,"Kenney","","Jason","Conservative","Conservateur",Y,Y,234
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172A","Calgary",N,N,"",0,402,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,5
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172A","Calgary",N,N,"",0,402,"Ludwar","","James","Liberal","Libéral",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172B","Calgary",N,N,"",0,376,"Gutoski","","Gus","Green Party","Parti Vert",N,N,4
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172B","Calgary",N,N,"",0,376,"Kenney","","Jason","Conservative","Conservateur",Y,Y,215
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172B","Calgary",N,N,"",0,376,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 172B","Calgary",N,N,"",0,376,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173A","Calgary",N,N,"",1,491,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173A","Calgary",N,N,"",1,491,"Kenney","","Jason","Conservative","Conservateur",Y,Y,244
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173A","Calgary",N,N,"",1,491,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173A","Calgary",N,N,"",1,491,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173B","Calgary",N,N,"",2,454,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173B","Calgary",N,N,"",2,454,"Kenney","","Jason","Conservative","Conservateur",Y,Y,224
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173B","Calgary",N,N,"",2,454,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173B","Calgary",N,N,"",2,454,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173C","Calgary",N,N,"",0,470,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173C","Calgary",N,N,"",0,470,"Kenney","","Jason","Conservative","Conservateur",Y,Y,232
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173C","Calgary",N,N,"",0,470,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 173C","Calgary",N,N,"",0,470,"Ludwar","","James","Liberal","Libéral",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 174","Calgary",N,N,"",0,585,"Gutoski","","Gus","Green Party","Parti Vert",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 174","Calgary",N,N,"",0,585,"Kenney","","Jason","Conservative","Conservateur",Y,Y,241
+48007,"Calgary Southeast","Calgary-Sud-Est"," 174","Calgary",N,N,"",0,585,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 174","Calgary",N,N,"",0,585,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 175","Calgary",N,N,"",0,476,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 175","Calgary",N,N,"",0,476,"Kenney","","Jason","Conservative","Conservateur",Y,Y,248
+48007,"Calgary Southeast","Calgary-Sud-Est"," 175","Calgary",N,N,"",0,476,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,5
+48007,"Calgary Southeast","Calgary-Sud-Est"," 175","Calgary",N,N,"",0,476,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 176","Calgary",N,N,"",0,583,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 176","Calgary",N,N,"",0,583,"Kenney","","Jason","Conservative","Conservateur",Y,Y,301
+48007,"Calgary Southeast","Calgary-Sud-Est"," 176","Calgary",N,N,"",0,583,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 176","Calgary",N,N,"",0,583,"Ludwar","","James","Liberal","Libéral",N,N,39
+48007,"Calgary Southeast","Calgary-Sud-Est"," 177","Calgary",N,N,"",0,508,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 177","Calgary",N,N,"",0,508,"Kenney","","Jason","Conservative","Conservateur",Y,Y,223
+48007,"Calgary Southeast","Calgary-Sud-Est"," 177","Calgary",N,N,"",0,508,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 177","Calgary",N,N,"",0,508,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 178","Calgary",N,N,"",0,376,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 178","Calgary",N,N,"",0,376,"Kenney","","Jason","Conservative","Conservateur",Y,Y,166
+48007,"Calgary Southeast","Calgary-Sud-Est"," 178","Calgary",N,N,"",0,376,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,4
+48007,"Calgary Southeast","Calgary-Sud-Est"," 178","Calgary",N,N,"",0,376,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 179","Calgary",N,N,"",0,186,"Gutoski","","Gus","Green Party","Parti Vert",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," 179","Calgary",N,N,"",0,186,"Kenney","","Jason","Conservative","Conservateur",Y,Y,88
+48007,"Calgary Southeast","Calgary-Sud-Est"," 179","Calgary",N,N,"",0,186,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 179","Calgary",N,N,"",0,186,"Ludwar","","James","Liberal","Libéral",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 180","Calgary",N,N,"",0,413,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 180","Calgary",N,N,"",0,413,"Kenney","","Jason","Conservative","Conservateur",Y,Y,189
+48007,"Calgary Southeast","Calgary-Sud-Est"," 180","Calgary",N,N,"",0,413,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 180","Calgary",N,N,"",0,413,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 181","Calgary",N,N,"",1,329,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 181","Calgary",N,N,"",1,329,"Kenney","","Jason","Conservative","Conservateur",Y,Y,162
+48007,"Calgary Southeast","Calgary-Sud-Est"," 181","Calgary",N,N,"",1,329,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 181","Calgary",N,N,"",1,329,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 182","Calgary",N,N,"",0,399,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 182","Calgary",N,N,"",0,399,"Kenney","","Jason","Conservative","Conservateur",Y,Y,199
+48007,"Calgary Southeast","Calgary-Sud-Est"," 182","Calgary",N,N,"",0,399,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 182","Calgary",N,N,"",0,399,"Ludwar","","James","Liberal","Libéral",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 183","Calgary",N,N,"",0,400,"Gutoski","","Gus","Green Party","Parti Vert",N,N,5
+48007,"Calgary Southeast","Calgary-Sud-Est"," 183","Calgary",N,N,"",0,400,"Kenney","","Jason","Conservative","Conservateur",Y,Y,219
+48007,"Calgary Southeast","Calgary-Sud-Est"," 183","Calgary",N,N,"",0,400,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 183","Calgary",N,N,"",0,400,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 184","Calgary",N,N,"",1,312,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 184","Calgary",N,N,"",1,312,"Kenney","","Jason","Conservative","Conservateur",Y,Y,150
+48007,"Calgary Southeast","Calgary-Sud-Est"," 184","Calgary",N,N,"",1,312,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 184","Calgary",N,N,"",1,312,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 185","Calgary",N,N,"",0,558,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 185","Calgary",N,N,"",0,558,"Kenney","","Jason","Conservative","Conservateur",Y,Y,223
+48007,"Calgary Southeast","Calgary-Sud-Est"," 185","Calgary",N,N,"",0,558,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 185","Calgary",N,N,"",0,558,"Ludwar","","James","Liberal","Libéral",N,N,51
+48007,"Calgary Southeast","Calgary-Sud-Est"," 186","Calgary",N,N,"",0,295,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 186","Calgary",N,N,"",0,295,"Kenney","","Jason","Conservative","Conservateur",Y,Y,136
+48007,"Calgary Southeast","Calgary-Sud-Est"," 186","Calgary",N,N,"",0,295,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 186","Calgary",N,N,"",0,295,"Ludwar","","James","Liberal","Libéral",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 187","Calgary",N,N,"",0,297,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 187","Calgary",N,N,"",0,297,"Kenney","","Jason","Conservative","Conservateur",Y,Y,129
+48007,"Calgary Southeast","Calgary-Sud-Est"," 187","Calgary",N,N,"",0,297,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 187","Calgary",N,N,"",0,297,"Ludwar","","James","Liberal","Libéral",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 188","Calgary",N,N,"",1,384,"Gutoski","","Gus","Green Party","Parti Vert",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 188","Calgary",N,N,"",1,384,"Kenney","","Jason","Conservative","Conservateur",Y,Y,179
+48007,"Calgary Southeast","Calgary-Sud-Est"," 188","Calgary",N,N,"",1,384,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 188","Calgary",N,N,"",1,384,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 189","Calgary",N,N,"",1,414,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 189","Calgary",N,N,"",1,414,"Kenney","","Jason","Conservative","Conservateur",Y,Y,213
+48007,"Calgary Southeast","Calgary-Sud-Est"," 189","Calgary",N,N,"",1,414,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 189","Calgary",N,N,"",1,414,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 190","Calgary",N,N,"",0,378,"Gutoski","","Gus","Green Party","Parti Vert",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 190","Calgary",N,N,"",0,378,"Kenney","","Jason","Conservative","Conservateur",Y,Y,189
+48007,"Calgary Southeast","Calgary-Sud-Est"," 190","Calgary",N,N,"",0,378,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,10
+48007,"Calgary Southeast","Calgary-Sud-Est"," 190","Calgary",N,N,"",0,378,"Ludwar","","James","Liberal","Libéral",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 191","Calgary",N,N,"",0,460,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 191","Calgary",N,N,"",0,460,"Kenney","","Jason","Conservative","Conservateur",Y,Y,176
+48007,"Calgary Southeast","Calgary-Sud-Est"," 191","Calgary",N,N,"",0,460,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 191","Calgary",N,N,"",0,460,"Ludwar","","James","Liberal","Libéral",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 192","Calgary",N,N,"",1,444,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 192","Calgary",N,N,"",1,444,"Kenney","","Jason","Conservative","Conservateur",Y,Y,204
+48007,"Calgary Southeast","Calgary-Sud-Est"," 192","Calgary",N,N,"",1,444,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 192","Calgary",N,N,"",1,444,"Ludwar","","James","Liberal","Libéral",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193","Calgary",N,N,"",0,853,"Gutoski","","Gus","Green Party","Parti Vert",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193","Calgary",N,N,"",0,853,"Kenney","","Jason","Conservative","Conservateur",Y,Y,340
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193","Calgary",N,N,"",0,853,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193","Calgary",N,N,"",0,853,"Ludwar","","James","Liberal","Libéral",N,N,56
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1A","Calgary",N,N,"",0,442,"Gutoski","","Gus","Green Party","Parti Vert",N,N,7
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1A","Calgary",N,N,"",0,442,"Kenney","","Jason","Conservative","Conservateur",Y,Y,171
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1A","Calgary",N,N,"",0,442,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1A","Calgary",N,N,"",0,442,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1B","Calgary",N,N,"",0,487,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1B","Calgary",N,N,"",0,487,"Kenney","","Jason","Conservative","Conservateur",Y,Y,234
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1B","Calgary",N,N,"",0,487,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-1B","Calgary",N,N,"",0,487,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2A","Calgary",N,N,"",0,472,"Gutoski","","Gus","Green Party","Parti Vert",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2A","Calgary",N,N,"",0,472,"Kenney","","Jason","Conservative","Conservateur",Y,Y,213
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2A","Calgary",N,N,"",0,472,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2A","Calgary",N,N,"",0,472,"Ludwar","","James","Liberal","Libéral",N,N,40
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2B","Calgary",N,N,"",0,406,"Gutoski","","Gus","Green Party","Parti Vert",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2B","Calgary",N,N,"",0,406,"Kenney","","Jason","Conservative","Conservateur",Y,Y,184
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2B","Calgary",N,N,"",0,406,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2B","Calgary",N,N,"",0,406,"Ludwar","","James","Liberal","Libéral",N,N,32
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2C","Calgary",N,N,"",0,477,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2C","Calgary",N,N,"",0,477,"Kenney","","Jason","Conservative","Conservateur",Y,Y,198
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2C","Calgary",N,N,"",0,477,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 193-2C","Calgary",N,N,"",0,477,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194","Calgary",N,N,"195",0,23,"Gutoski","","Gus","Green Party","Parti Vert",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194","Calgary",N,N,"195",0,23,"Kenney","","Jason","Conservative","Conservateur",Y,Y,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194","Calgary",N,N,"195",0,23,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194","Calgary",N,N,"195",0,23,"Ludwar","","James","Liberal","Libéral",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-1","Calgary",N,N,"",0,486,"Gutoski","","Gus","Green Party","Parti Vert",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-1","Calgary",N,N,"",0,486,"Kenney","","Jason","Conservative","Conservateur",Y,Y,207
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-1","Calgary",N,N,"",0,486,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-1","Calgary",N,N,"",0,486,"Ludwar","","James","Liberal","Libéral",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2A","Calgary",N,N,"",0,481,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2A","Calgary",N,N,"",0,481,"Kenney","","Jason","Conservative","Conservateur",Y,Y,219
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2A","Calgary",N,N,"",0,481,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2A","Calgary",N,N,"",0,481,"Ludwar","","James","Liberal","Libéral",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2B","Calgary",N,N,"",1,506,"Gutoski","","Gus","Green Party","Parti Vert",N,N,36
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2B","Calgary",N,N,"",1,506,"Kenney","","Jason","Conservative","Conservateur",Y,Y,235
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2B","Calgary",N,N,"",1,506,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 194-2B","Calgary",N,N,"",1,506,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195","Calgary",N,N,"",0,372,"Gutoski","","Gus","Green Party","Parti Vert",N,N,13
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195","Calgary",N,N,"",0,372,"Kenney","","Jason","Conservative","Conservateur",Y,Y,123
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195","Calgary",N,N,"",0,372,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195","Calgary",N,N,"",0,372,"Ludwar","","James","Liberal","Libéral",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1A","Calgary",N,N,"",0,371,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1A","Calgary",N,N,"",0,371,"Kenney","","Jason","Conservative","Conservateur",Y,Y,142
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1A","Calgary",N,N,"",0,371,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1A","Calgary",N,N,"",0,371,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1B","Calgary",N,N,"",0,386,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1B","Calgary",N,N,"",0,386,"Kenney","","Jason","Conservative","Conservateur",Y,Y,148
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1B","Calgary",N,N,"",0,386,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1B","Calgary",N,N,"",0,386,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1C","Calgary",N,N,"",1,376,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1C","Calgary",N,N,"",1,376,"Kenney","","Jason","Conservative","Conservateur",Y,Y,152
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1C","Calgary",N,N,"",1,376,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-1C","Calgary",N,N,"",1,376,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-2","Calgary",N,N,"",0,413,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-2","Calgary",N,N,"",0,413,"Kenney","","Jason","Conservative","Conservateur",Y,Y,143
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-2","Calgary",N,N,"",0,413,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 195-2","Calgary",N,N,"",0,413,"Ludwar","","James","Liberal","Libéral",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 196","Calgary",N,N,"",0,566,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 196","Calgary",N,N,"",0,566,"Kenney","","Jason","Conservative","Conservateur",Y,Y,249
+48007,"Calgary Southeast","Calgary-Sud-Est"," 196","Calgary",N,N,"",0,566,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 196","Calgary",N,N,"",0,566,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197A","Calgary",N,N,"",0,509,"Gutoski","","Gus","Green Party","Parti Vert",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197A","Calgary",N,N,"",0,509,"Kenney","","Jason","Conservative","Conservateur",Y,Y,211
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197A","Calgary",N,N,"",0,509,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197A","Calgary",N,N,"",0,509,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197B","Calgary",N,N,"",0,496,"Gutoski","","Gus","Green Party","Parti Vert",N,N,21
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197B","Calgary",N,N,"",0,496,"Kenney","","Jason","Conservative","Conservateur",Y,Y,218
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197B","Calgary",N,N,"",0,496,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,37
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197B","Calgary",N,N,"",0,496,"Ludwar","","James","Liberal","Libéral",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197C","Calgary",N,N,"",0,478,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197C","Calgary",N,N,"",0,478,"Kenney","","Jason","Conservative","Conservateur",Y,Y,208
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197C","Calgary",N,N,"",0,478,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 197C","Calgary",N,N,"",0,478,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198A","Calgary",N,N,"",1,522,"Gutoski","","Gus","Green Party","Parti Vert",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198A","Calgary",N,N,"",1,522,"Kenney","","Jason","Conservative","Conservateur",Y,Y,255
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198A","Calgary",N,N,"",1,522,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198A","Calgary",N,N,"",1,522,"Ludwar","","James","Liberal","Libéral",N,N,31
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198B","Calgary",N,N,"",0,425,"Gutoski","","Gus","Green Party","Parti Vert",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198B","Calgary",N,N,"",0,425,"Kenney","","Jason","Conservative","Conservateur",Y,Y,165
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198B","Calgary",N,N,"",0,425,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198B","Calgary",N,N,"",0,425,"Ludwar","","James","Liberal","Libéral",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198C","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Gutoski","","Gus","Green Party","Parti Vert",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198C","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Kenney","","Jason","Conservative","Conservateur",Y,Y,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198C","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 198C","Mobile poll/Bureau itinérant",N,N,"501B",0,146,"Ludwar","","James","Liberal","Libéral",N,N,0
+48007,"Calgary Southeast","Calgary-Sud-Est"," 199","Calgary",N,N,"",1,549,"Gutoski","","Gus","Green Party","Parti Vert",N,N,37
+48007,"Calgary Southeast","Calgary-Sud-Est"," 199","Calgary",N,N,"",1,549,"Kenney","","Jason","Conservative","Conservateur",Y,Y,281
+48007,"Calgary Southeast","Calgary-Sud-Est"," 199","Calgary",N,N,"",1,549,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 199","Calgary",N,N,"",1,549,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200A","Calgary",N,N,"",0,434,"Gutoski","","Gus","Green Party","Parti Vert",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200A","Calgary",N,N,"",0,434,"Kenney","","Jason","Conservative","Conservateur",Y,Y,184
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200A","Calgary",N,N,"",0,434,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200A","Calgary",N,N,"",0,434,"Ludwar","","James","Liberal","Libéral",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200B","Calgary",N,N,"",0,522,"Gutoski","","Gus","Green Party","Parti Vert",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200B","Calgary",N,N,"",0,522,"Kenney","","Jason","Conservative","Conservateur",Y,Y,220
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200B","Calgary",N,N,"",0,522,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200B","Calgary",N,N,"",0,522,"Ludwar","","James","Liberal","Libéral",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200C","Calgary",N,N,"",2,551,"Gutoski","","Gus","Green Party","Parti Vert",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200C","Calgary",N,N,"",2,551,"Kenney","","Jason","Conservative","Conservateur",Y,Y,228
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200C","Calgary",N,N,"",2,551,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200C","Calgary",N,N,"",2,551,"Ludwar","","James","Liberal","Libéral",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200D","Calgary",N,N,"",0,318,"Gutoski","","Gus","Green Party","Parti Vert",N,N,12
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200D","Calgary",N,N,"",0,318,"Kenney","","Jason","Conservative","Conservateur",Y,Y,137
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200D","Calgary",N,N,"",0,318,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,16
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200D","Calgary",N,N,"",0,318,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200E","Calgary",N,N,"",1,518,"Gutoski","","Gus","Green Party","Parti Vert",N,N,20
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200E","Calgary",N,N,"",1,518,"Kenney","","Jason","Conservative","Conservateur",Y,Y,245
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200E","Calgary",N,N,"",1,518,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,17
+48007,"Calgary Southeast","Calgary-Sud-Est"," 200E","Calgary",N,N,"",1,518,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 400","Calgary",N,N,"",0,316,"Gutoski","","Gus","Green Party","Parti Vert",N,N,9
+48007,"Calgary Southeast","Calgary-Sud-Est"," 400","Calgary",N,N,"",0,316,"Kenney","","Jason","Conservative","Conservateur",Y,Y,75
+48007,"Calgary Southeast","Calgary-Sud-Est"," 400","Calgary",N,N,"",0,316,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,19
+48007,"Calgary Southeast","Calgary-Sud-Est"," 400","Calgary",N,N,"",0,316,"Ludwar","","James","Liberal","Libéral",N,N,14
+48007,"Calgary Southeast","Calgary-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",0,200,"Gutoski","","Gus","Green Party","Parti Vert",N,N,2
+48007,"Calgary Southeast","Calgary-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",0,200,"Kenney","","Jason","Conservative","Conservateur",Y,Y,123
+48007,"Calgary Southeast","Calgary-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",0,200,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,15
+48007,"Calgary Southeast","Calgary-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",0,200,"Ludwar","","James","Liberal","Libéral",N,N,28
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,141,"Gutoski","","Gus","Green Party","Parti Vert",N,N,3
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,141,"Kenney","","Jason","Conservative","Conservateur",Y,Y,150
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,141,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,11
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501A","Mobile poll/Bureau itinérant",N,N,"",1,141,"Ludwar","","James","Liberal","Libéral",N,N,27
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,48,"Gutoski","","Gus","Green Party","Parti Vert",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,48,"Kenney","","Jason","Conservative","Conservateur",Y,Y,205
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,48,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,48,"Ludwar","","James","Liberal","Libéral",N,N,40
+48007,"Calgary Southeast","Calgary-Sud-Est"," 600","Calgary",N,N,"",5,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,23
+48007,"Calgary Southeast","Calgary-Sud-Est"," 600","Calgary",N,N,"",5,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,300
+48007,"Calgary Southeast","Calgary-Sud-Est"," 600","Calgary",N,N,"",5,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,26
+48007,"Calgary Southeast","Calgary-Sud-Est"," 600","Calgary",N,N,"",5,0,"Ludwar","","James","Liberal","Libéral",N,N,43
+48007,"Calgary Southeast","Calgary-Sud-Est"," 601","Calgary",N,N,"",0,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 601","Calgary",N,N,"",0,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,468
+48007,"Calgary Southeast","Calgary-Sud-Est"," 601","Calgary",N,N,"",0,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,37
+48007,"Calgary Southeast","Calgary-Sud-Est"," 601","Calgary",N,N,"",0,0,"Ludwar","","James","Liberal","Libéral",N,N,67
+48007,"Calgary Southeast","Calgary-Sud-Est"," 602","Calgary",N,N,"",1,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 602","Calgary",N,N,"",1,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,565
+48007,"Calgary Southeast","Calgary-Sud-Est"," 602","Calgary",N,N,"",1,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 602","Calgary",N,N,"",1,0,"Ludwar","","James","Liberal","Libéral",N,N,89
+48007,"Calgary Southeast","Calgary-Sud-Est"," 603","Calgary",N,N,"",1,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 603","Calgary",N,N,"",1,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,376
+48007,"Calgary Southeast","Calgary-Sud-Est"," 603","Calgary",N,N,"",1,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,30
+48007,"Calgary Southeast","Calgary-Sud-Est"," 603","Calgary",N,N,"",1,0,"Ludwar","","James","Liberal","Libéral",N,N,49
+48007,"Calgary Southeast","Calgary-Sud-Est"," 604","Calgary",N,N,"",1,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 604","Calgary",N,N,"",1,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,436
+48007,"Calgary Southeast","Calgary-Sud-Est"," 604","Calgary",N,N,"",1,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 604","Calgary",N,N,"",1,0,"Ludwar","","James","Liberal","Libéral",N,N,46
+48007,"Calgary Southeast","Calgary-Sud-Est"," 605","Calgary",N,N,"",0,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 605","Calgary",N,N,"",0,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,322
+48007,"Calgary Southeast","Calgary-Sud-Est"," 605","Calgary",N,N,"",0,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,18
+48007,"Calgary Southeast","Calgary-Sud-Est"," 605","Calgary",N,N,"",0,0,"Ludwar","","James","Liberal","Libéral",N,N,34
+48007,"Calgary Southeast","Calgary-Sud-Est"," 606","Calgary",N,N,"",1,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,22
+48007,"Calgary Southeast","Calgary-Sud-Est"," 606","Calgary",N,N,"",1,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,284
+48007,"Calgary Southeast","Calgary-Sud-Est"," 606","Calgary",N,N,"",1,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,29
+48007,"Calgary Southeast","Calgary-Sud-Est"," 606","Calgary",N,N,"",1,0,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," 607","Calgary",N,N,"",0,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 607","Calgary",N,N,"",0,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,583
+48007,"Calgary Southeast","Calgary-Sud-Est"," 607","Calgary",N,N,"",0,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,25
+48007,"Calgary Southeast","Calgary-Sud-Est"," 607","Calgary",N,N,"",0,0,"Ludwar","","James","Liberal","Libéral",N,N,61
+48007,"Calgary Southeast","Calgary-Sud-Est"," 608","Calgary",N,N,"",0,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,33
+48007,"Calgary Southeast","Calgary-Sud-Est"," 608","Calgary",N,N,"",0,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,675
+48007,"Calgary Southeast","Calgary-Sud-Est"," 608","Calgary",N,N,"",0,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,65
+48007,"Calgary Southeast","Calgary-Sud-Est"," 608","Calgary",N,N,"",0,0,"Ludwar","","James","Liberal","Libéral",N,N,73
+48007,"Calgary Southeast","Calgary-Sud-Est"," 609","Calgary",N,N,"",0,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,35
+48007,"Calgary Southeast","Calgary-Sud-Est"," 609","Calgary",N,N,"",0,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,500
+48007,"Calgary Southeast","Calgary-Sud-Est"," 609","Calgary",N,N,"",0,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,41
+48007,"Calgary Southeast","Calgary-Sud-Est"," 609","Calgary",N,N,"",0,0,"Ludwar","","James","Liberal","Libéral",N,N,89
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,177,"Gutoski","","Gus","Green Party","Parti Vert",N,N,8
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,177,"Kenney","","Jason","Conservative","Conservateur",Y,Y,65
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,177,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,6
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,177,"Ludwar","","James","Liberal","Libéral",N,N,24
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Gutoski","","Gus","Green Party","Parti Vert",N,N,67
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Kenney","","Jason","Conservative","Conservateur",Y,Y,1067
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Leavitt","","Eric","N.D.P.","N.P.D.",N,N,89
+48007,"Calgary Southeast","Calgary-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Ludwar","","James","Liberal","Libéral",N,N,136

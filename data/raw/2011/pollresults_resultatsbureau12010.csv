@@ -1,0 +1,845 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,353,"Clarke","","Cecil","Conservative","Conservateur",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,353,"Eyking","","Mark","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,353,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,353,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Pleasant Bay",N,N,"",0,149,"Clarke","","Cecil","Conservative","Conservateur",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Pleasant Bay",N,N,"",0,149,"Eyking","","Mark","Liberal","Libéral",Y,Y,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Pleasant Bay",N,N,"",0,149,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Pleasant Bay",N,N,"",0,149,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,428,"Clarke","","Cecil","Conservative","Conservateur",N,N,97
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,428,"Eyking","","Mark","Liberal","Libéral",Y,Y,89
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,428,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,428,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,144,"Clarke","","Cecil","Conservative","Conservateur",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,144,"Eyking","","Mark","Liberal","Libéral",Y,Y,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,144,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,144,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Neils Harbour",N,N,"",0,255,"Clarke","","Cecil","Conservative","Conservateur",N,N,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Neils Harbour",N,N,"",0,255,"Eyking","","Mark","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Neils Harbour",N,N,"",0,255,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Neils Harbour",N,N,"",0,255,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Ingonish",N,N,"",1,490,"Clarke","","Cecil","Conservative","Conservateur",N,N,106
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Ingonish",N,N,"",1,490,"Eyking","","Mark","Liberal","Libéral",Y,Y,131
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Ingonish",N,N,"",1,490,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Ingonish",N,N,"",1,490,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",2,358,"Clarke","","Cecil","Conservative","Conservateur",N,N,73
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",2,358,"Eyking","","Mark","Liberal","Libéral",Y,Y,124
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",2,358,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",2,358,"Milburn","","Chris","Green Party","Parti Vert",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,347,"Clarke","","Cecil","Conservative","Conservateur",N,N,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,347,"Eyking","","Mark","Liberal","Libéral",Y,Y,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,347,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,347,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Englishtown",N,N,"",0,151,"Clarke","","Cecil","Conservative","Conservateur",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Englishtown",N,N,"",0,151,"Eyking","","Mark","Liberal","Libéral",Y,Y,76
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Englishtown",N,N,"",0,151,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Englishtown",N,N,"",0,151,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","South Haven",N,N,"",0,205,"Clarke","","Cecil","Conservative","Conservateur",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","South Haven",N,N,"",0,205,"Eyking","","Mark","Liberal","Libéral",Y,Y,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","South Haven",N,N,"",0,205,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","South Haven",N,N,"",0,205,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Baddeck",N,N,"",1,425,"Clarke","","Cecil","Conservative","Conservateur",N,N,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Baddeck",N,N,"",1,425,"Eyking","","Mark","Liberal","Libéral",Y,Y,97
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Baddeck",N,N,"",1,425,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Baddeck",N,N,"",1,425,"Milburn","","Chris","Green Party","Parti Vert",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Middle River",N,N,"",0,349,"Clarke","","Cecil","Conservative","Conservateur",N,N,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Middle River",N,N,"",0,349,"Eyking","","Mark","Liberal","Libéral",Y,Y,112
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Middle River",N,N,"",0,349,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Middle River",N,N,"",0,349,"Milburn","","Chris","Green Party","Parti Vert",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Wagmatcook 1",N,N,"",1,306,"Clarke","","Cecil","Conservative","Conservateur",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Wagmatcook 1",N,N,"",1,306,"Eyking","","Mark","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Wagmatcook 1",N,N,"",1,306,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Wagmatcook 1",N,N,"",1,306,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Little Narrows",N,N,"",2,150,"Clarke","","Cecil","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Little Narrows",N,N,"",2,150,"Eyking","","Mark","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Little Narrows",N,N,"",2,150,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Little Narrows",N,N,"",2,150,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Baddeck",N,N,"",0,205,"Clarke","","Cecil","Conservative","Conservateur",N,N,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Baddeck",N,N,"",0,205,"Eyking","","Mark","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Baddeck",N,N,"",0,205,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Baddeck",N,N,"",0,205,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Baddeck",N,N,"",0,250,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Baddeck",N,N,"",0,250,"Eyking","","Mark","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Baddeck",N,N,"",0,250,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Baddeck",N,N,"",0,250,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Baddeck",N,N,"",1,214,"Clarke","","Cecil","Conservative","Conservateur",N,N,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Baddeck",N,N,"",1,214,"Eyking","","Mark","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Baddeck",N,N,"",1,214,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Baddeck",N,N,"",1,214,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Baddeck",N,N,"",0,239,"Clarke","","Cecil","Conservative","Conservateur",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Baddeck",N,N,"",0,239,"Eyking","","Mark","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Baddeck",N,N,"",0,239,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Baddeck",N,N,"",0,239,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Iona",N,N,"",0,269,"Clarke","","Cecil","Conservative","Conservateur",N,N,70
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Iona",N,N,"",0,269,"Eyking","","Mark","Liberal","Libéral",Y,Y,89
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Iona",N,N,"",0,269,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Iona",N,N,"",0,269,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Point Aconi",N,N,"",2,267,"Clarke","","Cecil","Conservative","Conservateur",N,N,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Point Aconi",N,N,"",2,267,"Eyking","","Mark","Liberal","Libéral",Y,Y,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Point Aconi",N,N,"",2,267,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Point Aconi",N,N,"",2,267,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Big Bras d'Or",N,N,"",0,410,"Clarke","","Cecil","Conservative","Conservateur",N,N,107
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Big Bras d'Or",N,N,"",0,410,"Eyking","","Mark","Liberal","Libéral",Y,Y,136
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Big Bras d'Or",N,N,"",0,410,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Big Bras d'Or",N,N,"",0,410,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Boularderie",N,N,"",2,285,"Clarke","","Cecil","Conservative","Conservateur",N,N,77
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Boularderie",N,N,"",2,285,"Eyking","","Mark","Liberal","Libéral",Y,Y,83
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Boularderie",N,N,"",2,285,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Boularderie",N,N,"",2,285,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Millville Boularderie",N,N,"",5,423,"Clarke","","Cecil","Conservative","Conservateur",N,N,87
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Millville Boularderie",N,N,"",5,423,"Eyking","","Mark","Liberal","Libéral",Y,Y,120
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Millville Boularderie",N,N,"",5,423,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Millville Boularderie",N,N,"",5,423,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","New Dominion",N,N,"",1,259,"Clarke","","Cecil","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","New Dominion",N,N,"",1,259,"Eyking","","Mark","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","New Dominion",N,N,"",1,259,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","New Dominion",N,N,"",1,259,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Hillside Boularderie",N,N,"",1,416,"Clarke","","Cecil","Conservative","Conservateur",N,N,104
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Hillside Boularderie",N,N,"",1,416,"Eyking","","Mark","Liberal","Libéral",Y,Y,83
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Hillside Boularderie",N,N,"",1,416,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Hillside Boularderie",N,N,"",1,416,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Alder Point",N,N,"",0,329,"Clarke","","Cecil","Conservative","Conservateur",N,N,90
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Alder Point",N,N,"",0,329,"Eyking","","Mark","Liberal","Libéral",Y,Y,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Alder Point",N,N,"",0,329,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Alder Point",N,N,"",0,329,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Little Bras d'Or South Side",N,N,"",1,358,"Clarke","","Cecil","Conservative","Conservateur",N,N,106
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Little Bras d'Or South Side",N,N,"",1,358,"Eyking","","Mark","Liberal","Libéral",Y,Y,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Little Bras d'Or South Side",N,N,"",1,358,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Little Bras d'Or South Side",N,N,"",1,358,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Mill Creek",N,N,"",2,275,"Clarke","","Cecil","Conservative","Conservateur",N,N,76
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Mill Creek",N,N,"",2,275,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Mill Creek",N,N,"",2,275,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Mill Creek",N,N,"",2,275,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Florence",N,N,"",0,269,"Clarke","","Cecil","Conservative","Conservateur",N,N,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Florence",N,N,"",0,269,"Eyking","","Mark","Liberal","Libéral",Y,Y,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Florence",N,N,"",0,269,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Florence",N,N,"",0,269,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Florence",N,N,"",0,234,"Clarke","","Cecil","Conservative","Conservateur",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Florence",N,N,"",0,234,"Eyking","","Mark","Liberal","Libéral",Y,Y,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Florence",N,N,"",0,234,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Florence",N,N,"",0,234,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Florence",N,N,"",1,328,"Clarke","","Cecil","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Florence",N,N,"",1,328,"Eyking","","Mark","Liberal","Libéral",Y,Y,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Florence",N,N,"",1,328,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Florence",N,N,"",1,328,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Bras d'Or",N,N,"",2,250,"Clarke","","Cecil","Conservative","Conservateur",N,N,81
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Bras d'Or",N,N,"",2,250,"Eyking","","Mark","Liberal","Libéral",Y,Y,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Bras d'Or",N,N,"",2,250,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Bras d'Or",N,N,"",2,250,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Florence",N,N,"",1,413,"Clarke","","Cecil","Conservative","Conservateur",N,N,112
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Florence",N,N,"",1,413,"Eyking","","Mark","Liberal","Libéral",Y,Y,79
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Florence",N,N,"",1,413,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Florence",N,N,"",1,413,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Bras d'Or",N,N,"",3,321,"Clarke","","Cecil","Conservative","Conservateur",N,N,88
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Bras d'Or",N,N,"",3,321,"Eyking","","Mark","Liberal","Libéral",Y,Y,73
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Bras d'Or",N,N,"",3,321,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Bras d'Or",N,N,"",3,321,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 34-1","Cape Breton",N,N,"",1,286,"Clarke","","Cecil","Conservative","Conservateur",N,N,90
+12010,"Sydney--Victoria","Sydney--Victoria"," 34-1","Cape Breton",N,N,"",1,286,"Eyking","","Mark","Liberal","Libéral",Y,Y,71
+12010,"Sydney--Victoria","Sydney--Victoria"," 34-1","Cape Breton",N,N,"",1,286,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 34-1","Cape Breton",N,N,"",1,286,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","Gannon Road",N,N,"",1,373,"Clarke","","Cecil","Conservative","Conservateur",N,N,91
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","Gannon Road",N,N,"",1,373,"Eyking","","Mark","Liberal","Libéral",Y,Y,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","Gannon Road",N,N,"",1,373,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","Gannon Road",N,N,"",1,373,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Gannon Road",N,N,"",1,291,"Clarke","","Cecil","Conservative","Conservateur",N,N,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Gannon Road",N,N,"",1,291,"Eyking","","Mark","Liberal","Libéral",Y,Y,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Gannon Road",N,N,"",1,291,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Gannon Road",N,N,"",1,291,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Georges River",N,N,"",3,329,"Clarke","","Cecil","Conservative","Conservateur",N,N,129
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Georges River",N,N,"",3,329,"Eyking","","Mark","Liberal","Libéral",Y,Y,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Georges River",N,N,"",3,329,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Georges River",N,N,"",3,329,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotch Lake",N,N,"",1,212,"Clarke","","Cecil","Conservative","Conservateur",N,N,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotch Lake",N,N,"",1,212,"Eyking","","Mark","Liberal","Libéral",Y,Y,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotch Lake",N,N,"",1,212,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotch Lake",N,N,"",1,212,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Boisdale",N,N,"",0,180,"Clarke","","Cecil","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Boisdale",N,N,"",0,180,"Eyking","","Mark","Liberal","Libéral",Y,Y,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Boisdale",N,N,"",0,180,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Boisdale",N,N,"",0,180,"Milburn","","Chris","Green Party","Parti Vert",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","Grand Narrows",N,N,"",0,248,"Clarke","","Cecil","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","Grand Narrows",N,N,"",0,248,"Eyking","","Mark","Liberal","Libéral",Y,Y,77
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","Grand Narrows",N,N,"",0,248,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","Grand Narrows",N,N,"",0,248,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","Upper North Sydney",N,N,"",1,308,"Clarke","","Cecil","Conservative","Conservateur",N,N,89
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","Upper North Sydney",N,N,"",1,308,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","Upper North Sydney",N,N,"",1,308,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","Upper North Sydney",N,N,"",1,308,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Leitches Creek",N,N,"",2,356,"Clarke","","Cecil","Conservative","Conservateur",N,N,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Leitches Creek",N,N,"",2,356,"Eyking","","Mark","Liberal","Libéral",Y,Y,90
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Leitches Creek",N,N,"",2,356,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Leitches Creek",N,N,"",2,356,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Sydney Mines",N,N,"",0,260,"Clarke","","Cecil","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Sydney Mines",N,N,"",0,260,"Eyking","","Mark","Liberal","Libéral",Y,Y,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Sydney Mines",N,N,"",0,260,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Sydney Mines",N,N,"",0,260,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Sydney Mines",N,N,"",1,284,"Clarke","","Cecil","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Sydney Mines",N,N,"",1,284,"Eyking","","Mark","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Sydney Mines",N,N,"",1,284,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Sydney Mines",N,N,"",1,284,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Sydney Mines",N,N,"",2,354,"Clarke","","Cecil","Conservative","Conservateur",N,N,96
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Sydney Mines",N,N,"",2,354,"Eyking","","Mark","Liberal","Libéral",Y,Y,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Sydney Mines",N,N,"",2,354,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Sydney Mines",N,N,"",2,354,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 45-1","Sydney Mines",N,N,"",0,205,"Clarke","","Cecil","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 45-1","Sydney Mines",N,N,"",0,205,"Eyking","","Mark","Liberal","Libéral",Y,Y,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 45-1","Sydney Mines",N,N,"",0,205,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 45-1","Sydney Mines",N,N,"",0,205,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Sydney Mines",N,N,"",1,278,"Clarke","","Cecil","Conservative","Conservateur",N,N,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Sydney Mines",N,N,"",1,278,"Eyking","","Mark","Liberal","Libéral",Y,Y,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Sydney Mines",N,N,"",1,278,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Sydney Mines",N,N,"",1,278,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Sydney Mines",N,N,"",2,331,"Clarke","","Cecil","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Sydney Mines",N,N,"",2,331,"Eyking","","Mark","Liberal","Libéral",Y,Y,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Sydney Mines",N,N,"",2,331,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Sydney Mines",N,N,"",2,331,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Sydney Mines",N,N,"",0,512,"Clarke","","Cecil","Conservative","Conservateur",N,N,109
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Sydney Mines",N,N,"",0,512,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Sydney Mines",N,N,"",0,512,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Sydney Mines",N,N,"",0,512,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Sydney Mines",N,N,"",1,246,"Clarke","","Cecil","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Sydney Mines",N,N,"",1,246,"Eyking","","Mark","Liberal","Libéral",Y,Y,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Sydney Mines",N,N,"",1,246,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Sydney Mines",N,N,"",1,246,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Sydney Mines",N,N,"",4,415,"Clarke","","Cecil","Conservative","Conservateur",N,N,105
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Sydney Mines",N,N,"",4,415,"Eyking","","Mark","Liberal","Libéral",Y,Y,63
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Sydney Mines",N,N,"",4,415,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Sydney Mines",N,N,"",4,415,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Sydney Mines",N,N,"",3,347,"Clarke","","Cecil","Conservative","Conservateur",N,N,89
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Sydney Mines",N,N,"",3,347,"Eyking","","Mark","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Sydney Mines",N,N,"",3,347,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Sydney Mines",N,N,"",3,347,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Sydney Mines",N,N,"",0,243,"Clarke","","Cecil","Conservative","Conservateur",N,N,70
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Sydney Mines",N,N,"",0,243,"Eyking","","Mark","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Sydney Mines",N,N,"",0,243,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Sydney Mines",N,N,"",0,243,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Sydney Mines",N,N,"",1,358,"Clarke","","Cecil","Conservative","Conservateur",N,N,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Sydney Mines",N,N,"",1,358,"Eyking","","Mark","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Sydney Mines",N,N,"",1,358,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Sydney Mines",N,N,"",1,358,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Sydney Mines",N,N,"",1,419,"Clarke","","Cecil","Conservative","Conservateur",N,N,109
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Sydney Mines",N,N,"",1,419,"Eyking","","Mark","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Sydney Mines",N,N,"",1,419,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Sydney Mines",N,N,"",1,419,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Sydney Mines",N,N,"",0,61,"Clarke","","Cecil","Conservative","Conservateur",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Sydney Mines",N,N,"",0,61,"Eyking","","Mark","Liberal","Libéral",Y,Y,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Sydney Mines",N,N,"",0,61,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Sydney Mines",N,N,"",0,61,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 55-1","Sydney Mines",N,N,"",8,553,"Clarke","","Cecil","Conservative","Conservateur",N,N,122
+12010,"Sydney--Victoria","Sydney--Victoria"," 55-1","Sydney Mines",N,N,"",8,553,"Eyking","","Mark","Liberal","Libéral",Y,Y,85
+12010,"Sydney--Victoria","Sydney--Victoria"," 55-1","Sydney Mines",N,N,"",8,553,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 55-1","Sydney Mines",N,N,"",8,553,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Sydney Mines",N,N,"",2,319,"Clarke","","Cecil","Conservative","Conservateur",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Sydney Mines",N,N,"",2,319,"Eyking","","Mark","Liberal","Libéral",Y,Y,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Sydney Mines",N,N,"",2,319,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Sydney Mines",N,N,"",2,319,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","North Sydney",N,N,"",1,342,"Clarke","","Cecil","Conservative","Conservateur",N,N,95
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","North Sydney",N,N,"",1,342,"Eyking","","Mark","Liberal","Libéral",Y,Y,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","North Sydney",N,N,"",1,342,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","North Sydney",N,N,"",1,342,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","North Sydney",N,N,"",0,270,"Clarke","","Cecil","Conservative","Conservateur",N,N,71
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","North Sydney",N,N,"",0,270,"Eyking","","Mark","Liberal","Libéral",Y,Y,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","North Sydney",N,N,"",0,270,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","North Sydney",N,N,"",0,270,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","North Sydney",N,N,"",0,195,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","North Sydney",N,N,"",0,195,"Eyking","","Mark","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","North Sydney",N,N,"",0,195,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","North Sydney",N,N,"",0,195,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","North Sydney",N,N,"",0,349,"Clarke","","Cecil","Conservative","Conservateur",N,N,103
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","North Sydney",N,N,"",0,349,"Eyking","","Mark","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","North Sydney",N,N,"",0,349,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","North Sydney",N,N,"",0,349,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","North Sydney",N,N,"",0,340,"Clarke","","Cecil","Conservative","Conservateur",N,N,87
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","North Sydney",N,N,"",0,340,"Eyking","","Mark","Liberal","Libéral",Y,Y,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","North Sydney",N,N,"",0,340,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","North Sydney",N,N,"",0,340,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","North Sydney",N,N,"",1,338,"Clarke","","Cecil","Conservative","Conservateur",N,N,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","North Sydney",N,N,"",1,338,"Eyking","","Mark","Liberal","Libéral",Y,Y,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","North Sydney",N,N,"",1,338,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","North Sydney",N,N,"",1,338,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","North Sydney",N,N,"",0,407,"Clarke","","Cecil","Conservative","Conservateur",N,N,105
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","North Sydney",N,N,"",0,407,"Eyking","","Mark","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","North Sydney",N,N,"",0,407,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","North Sydney",N,N,"",0,407,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","North Sydney",N,N,"",1,375,"Clarke","","Cecil","Conservative","Conservateur",N,N,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","North Sydney",N,N,"",1,375,"Eyking","","Mark","Liberal","Libéral",Y,Y,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","North Sydney",N,N,"",1,375,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","North Sydney",N,N,"",1,375,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","North Sydney",N,N,"",2,412,"Clarke","","Cecil","Conservative","Conservateur",N,N,150
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","North Sydney",N,N,"",2,412,"Eyking","","Mark","Liberal","Libéral",Y,Y,63
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","North Sydney",N,N,"",2,412,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","North Sydney",N,N,"",2,412,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","North Sydney",N,N,"",0,373,"Clarke","","Cecil","Conservative","Conservateur",N,N,131
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","North Sydney",N,N,"",0,373,"Eyking","","Mark","Liberal","Libéral",Y,Y,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","North Sydney",N,N,"",0,373,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","North Sydney",N,N,"",0,373,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","North Sydney",N,N,"",1,273,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","North Sydney",N,N,"",1,273,"Eyking","","Mark","Liberal","Libéral",Y,Y,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","North Sydney",N,N,"",1,273,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","North Sydney",N,N,"",1,273,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","North Sydney",N,N,"",1,296,"Clarke","","Cecil","Conservative","Conservateur",N,N,74
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","North Sydney",N,N,"",1,296,"Eyking","","Mark","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","North Sydney",N,N,"",1,296,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","North Sydney",N,N,"",1,296,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","North Sydney",N,N,"",2,359,"Clarke","","Cecil","Conservative","Conservateur",N,N,109
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","North Sydney",N,N,"",2,359,"Eyking","","Mark","Liberal","Libéral",Y,Y,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","North Sydney",N,N,"",2,359,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","North Sydney",N,N,"",2,359,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","North Sydney",N,N,"",2,369,"Clarke","","Cecil","Conservative","Conservateur",N,N,96
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","North Sydney",N,N,"",2,369,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","North Sydney",N,N,"",2,369,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","North Sydney",N,N,"",2,369,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Westmount",N,N,"",4,280,"Clarke","","Cecil","Conservative","Conservateur",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Westmount",N,N,"",4,280,"Eyking","","Mark","Liberal","Libéral",Y,Y,79
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Westmount",N,N,"",4,280,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Westmount",N,N,"",4,280,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 71-1","Cape Breton",N,N,"",1,311,"Clarke","","Cecil","Conservative","Conservateur",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 71-1","Cape Breton",N,N,"",1,311,"Eyking","","Mark","Liberal","Libéral",Y,Y,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 71-1","Cape Breton",N,N,"",1,311,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 71-1","Cape Breton",N,N,"",1,311,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Westmount",N,N,"",2,397,"Clarke","","Cecil","Conservative","Conservateur",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Westmount",N,N,"",2,397,"Eyking","","Mark","Liberal","Libéral",Y,Y,80
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Westmount",N,N,"",2,397,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Westmount",N,N,"",2,397,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Westmount",N,N,"",2,337,"Clarke","","Cecil","Conservative","Conservateur",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Westmount",N,N,"",2,337,"Eyking","","Mark","Liberal","Libéral",Y,Y,70
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Westmount",N,N,"",2,337,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Westmount",N,N,"",2,337,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Westmount",N,N,"",0,254,"Clarke","","Cecil","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Westmount",N,N,"",0,254,"Eyking","","Mark","Liberal","Libéral",Y,Y,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Westmount",N,N,"",0,254,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Westmount",N,N,"",0,254,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Westmount",N,N,"",0,383,"Clarke","","Cecil","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Westmount",N,N,"",0,383,"Eyking","","Mark","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Westmount",N,N,"",0,383,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Westmount",N,N,"",0,383,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Westmount",N,N,"",6,474,"Clarke","","Cecil","Conservative","Conservateur",N,N,110
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Westmount",N,N,"",6,474,"Eyking","","Mark","Liberal","Libéral",Y,Y,120
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Westmount",N,N,"",6,474,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Westmount",N,N,"",6,474,"Milburn","","Chris","Green Party","Parti Vert",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Coxheath",N,N,"",3,333,"Clarke","","Cecil","Conservative","Conservateur",N,N,63
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Coxheath",N,N,"",3,333,"Eyking","","Mark","Liberal","Libéral",Y,Y,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Coxheath",N,N,"",3,333,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Coxheath",N,N,"",3,333,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Coxheath",N,N,"",0,380,"Clarke","","Cecil","Conservative","Conservateur",N,N,90
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Coxheath",N,N,"",0,380,"Eyking","","Mark","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Coxheath",N,N,"",0,380,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Coxheath",N,N,"",0,380,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Coxheath",N,N,"",1,458,"Clarke","","Cecil","Conservative","Conservateur",N,N,124
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Coxheath",N,N,"",1,458,"Eyking","","Mark","Liberal","Libéral",Y,Y,117
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Coxheath",N,N,"",1,458,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Coxheath",N,N,"",1,458,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Balls Creek",N,N,"",0,291,"Clarke","","Cecil","Conservative","Conservateur",N,N,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Balls Creek",N,N,"",0,291,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Balls Creek",N,N,"",0,291,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Balls Creek",N,N,"",0,291,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Coxheath",N,N,"",1,590,"Clarke","","Cecil","Conservative","Conservateur",N,N,150
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Coxheath",N,N,"",1,590,"Eyking","","Mark","Liberal","Libéral",Y,Y,111
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Coxheath",N,N,"",1,590,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Coxheath",N,N,"",1,590,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Blacketts Lake",N,N,"",1,288,"Clarke","","Cecil","Conservative","Conservateur",N,N,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Blacketts Lake",N,N,"",1,288,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Blacketts Lake",N,N,"",1,288,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Blacketts Lake",N,N,"",1,288,"Milburn","","Chris","Green Party","Parti Vert",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Blacketts Lake",N,N,"",0,304,"Clarke","","Cecil","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Blacketts Lake",N,N,"",0,304,"Eyking","","Mark","Liberal","Libéral",Y,Y,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Blacketts Lake",N,N,"",0,304,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Blacketts Lake",N,N,"",0,304,"Milburn","","Chris","Green Party","Parti Vert",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Frenchvale",N,N,"",5,455,"Clarke","","Cecil","Conservative","Conservateur",N,N,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Frenchvale",N,N,"",5,455,"Eyking","","Mark","Liberal","Libéral",Y,Y,102
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Frenchvale",N,N,"",5,455,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Frenchvale",N,N,"",5,455,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Northside East Bay",N,N,"",2,484,"Clarke","","Cecil","Conservative","Conservateur",N,N,129
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Northside East Bay",N,N,"",2,484,"Eyking","","Mark","Liberal","Libéral",Y,Y,92
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Northside East Bay",N,N,"",2,484,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Northside East Bay",N,N,"",2,484,"Milburn","","Chris","Green Party","Parti Vert",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Eskasoni 3",N,N,"",1,372,"Clarke","","Cecil","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Eskasoni 3",N,N,"",1,372,"Eyking","","Mark","Liberal","Libéral",Y,Y,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Eskasoni 3",N,N,"",1,372,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Eskasoni 3",N,N,"",1,372,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 86-1","Eskasoni 3",N,N,"",0,306,"Clarke","","Cecil","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 86-1","Eskasoni 3",N,N,"",0,306,"Eyking","","Mark","Liberal","Libéral",Y,Y,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 86-1","Eskasoni 3",N,N,"",0,306,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 86-1","Eskasoni 3",N,N,"",0,306,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Eskasoni 3",N,N,"",0,529,"Clarke","","Cecil","Conservative","Conservateur",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Eskasoni 3",N,N,"",0,529,"Eyking","","Mark","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Eskasoni 3",N,N,"",0,529,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Eskasoni 3",N,N,"",0,529,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 87-1","Eskasoni 3",N,N,"",0,580,"Clarke","","Cecil","Conservative","Conservateur",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 87-1","Eskasoni 3",N,N,"",0,580,"Eyking","","Mark","Liberal","Libéral",Y,Y,74
+12010,"Sydney--Victoria","Sydney--Victoria"," 87-1","Eskasoni 3",N,N,"",0,580,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 87-1","Eskasoni 3",N,N,"",0,580,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Sydney",N,N,"",2,475,"Clarke","","Cecil","Conservative","Conservateur",N,N,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Sydney",N,N,"",2,475,"Eyking","","Mark","Liberal","Libéral",Y,Y,88
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Sydney",N,N,"",2,475,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Sydney",N,N,"",2,475,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Sydney",N,N,"",0,425,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Sydney",N,N,"",0,425,"Eyking","","Mark","Liberal","Libéral",Y,Y,97
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Sydney",N,N,"",0,425,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Sydney",N,N,"",0,425,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Sydney",N,N,"",1,354,"Clarke","","Cecil","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Sydney",N,N,"",1,354,"Eyking","","Mark","Liberal","Libéral",Y,Y,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Sydney",N,N,"",1,354,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Sydney",N,N,"",1,354,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Sydney",N,N,"",2,371,"Clarke","","Cecil","Conservative","Conservateur",N,N,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Sydney",N,N,"",2,371,"Eyking","","Mark","Liberal","Libéral",Y,Y,90
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Sydney",N,N,"",2,371,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Sydney",N,N,"",2,371,"Milburn","","Chris","Green Party","Parti Vert",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Sydney",N,N,"",1,333,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Sydney",N,N,"",1,333,"Eyking","","Mark","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Sydney",N,N,"",1,333,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Sydney",N,N,"",1,333,"Milburn","","Chris","Green Party","Parti Vert",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Sydney",N,N,"",1,378,"Clarke","","Cecil","Conservative","Conservateur",N,N,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Sydney",N,N,"",1,378,"Eyking","","Mark","Liberal","Libéral",Y,Y,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Sydney",N,N,"",1,378,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Sydney",N,N,"",1,378,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Sydney",N,N,"",1,335,"Clarke","","Cecil","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Sydney",N,N,"",1,335,"Eyking","","Mark","Liberal","Libéral",Y,Y,85
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Sydney",N,N,"",1,335,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Sydney",N,N,"",1,335,"Milburn","","Chris","Green Party","Parti Vert",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 95A","Sydney",N,N,"",0,308,"Clarke","","Cecil","Conservative","Conservateur",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 95A","Sydney",N,N,"",0,308,"Eyking","","Mark","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 95A","Sydney",N,N,"",0,308,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 95A","Sydney",N,N,"",0,308,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 95B","Mobile poll/Bureau itinérant",N,N,"503",0,35,"Clarke","","Cecil","Conservative","Conservateur",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 95B","Mobile poll/Bureau itinérant",N,N,"503",0,35,"Eyking","","Mark","Liberal","Libéral",Y,Y,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 95B","Mobile poll/Bureau itinérant",N,N,"503",0,35,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 95B","Mobile poll/Bureau itinérant",N,N,"503",0,35,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Sydney",N,N,"",1,344,"Clarke","","Cecil","Conservative","Conservateur",N,N,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Sydney",N,N,"",1,344,"Eyking","","Mark","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Sydney",N,N,"",1,344,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Sydney",N,N,"",1,344,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Membertou 28B",N,N,"",0,523,"Clarke","","Cecil","Conservative","Conservateur",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Membertou 28B",N,N,"",0,523,"Eyking","","Mark","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Membertou 28B",N,N,"",0,523,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Membertou 28B",N,N,"",0,523,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Sydney",N,N,"",0,345,"Clarke","","Cecil","Conservative","Conservateur",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Sydney",N,N,"",0,345,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Sydney",N,N,"",0,345,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Sydney",N,N,"",0,345,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Sydney",N,N,"",0,414,"Clarke","","Cecil","Conservative","Conservateur",N,N,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Sydney",N,N,"",0,414,"Eyking","","Mark","Liberal","Libéral",Y,Y,81
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Sydney",N,N,"",0,414,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Sydney",N,N,"",0,414,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Sydney",N,N,"",0,383,"Clarke","","Cecil","Conservative","Conservateur",N,N,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Sydney",N,N,"",0,383,"Eyking","","Mark","Liberal","Libéral",Y,Y,80
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Sydney",N,N,"",0,383,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Sydney",N,N,"",0,383,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Sydney",N,N,"",1,352,"Clarke","","Cecil","Conservative","Conservateur",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Sydney",N,N,"",1,352,"Eyking","","Mark","Liberal","Libéral",Y,Y,63
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Sydney",N,N,"",1,352,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Sydney",N,N,"",1,352,"Milburn","","Chris","Green Party","Parti Vert",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Sydney",N,N,"",1,316,"Clarke","","Cecil","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Sydney",N,N,"",1,316,"Eyking","","Mark","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Sydney",N,N,"",1,316,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Sydney",N,N,"",1,316,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Sydney",N,N,"",2,274,"Clarke","","Cecil","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Sydney",N,N,"",2,274,"Eyking","","Mark","Liberal","Libéral",Y,Y,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Sydney",N,N,"",2,274,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Sydney",N,N,"",2,274,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Sydney",N,N,"",1,303,"Clarke","","Cecil","Conservative","Conservateur",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Sydney",N,N,"",1,303,"Eyking","","Mark","Liberal","Libéral",Y,Y,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Sydney",N,N,"",1,303,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Sydney",N,N,"",1,303,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Sydney",N,N,"",0,273,"Clarke","","Cecil","Conservative","Conservateur",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Sydney",N,N,"",0,273,"Eyking","","Mark","Liberal","Libéral",Y,Y,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Sydney",N,N,"",0,273,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Sydney",N,N,"",0,273,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Sydney",N,N,"",1,343,"Clarke","","Cecil","Conservative","Conservateur",N,N,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Sydney",N,N,"",1,343,"Eyking","","Mark","Liberal","Libéral",Y,Y,73
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Sydney",N,N,"",1,343,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Sydney",N,N,"",1,343,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Sydney",N,N,"",2,319,"Clarke","","Cecil","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Sydney",N,N,"",2,319,"Eyking","","Mark","Liberal","Libéral",Y,Y,76
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Sydney",N,N,"",2,319,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Sydney",N,N,"",2,319,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Sydney",N,N,"",1,419,"Clarke","","Cecil","Conservative","Conservateur",N,N,79
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Sydney",N,N,"",1,419,"Eyking","","Mark","Liberal","Libéral",Y,Y,103
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Sydney",N,N,"",1,419,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Sydney",N,N,"",1,419,"Milburn","","Chris","Green Party","Parti Vert",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Sydney",N,N,"",1,332,"Clarke","","Cecil","Conservative","Conservateur",N,N,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Sydney",N,N,"",1,332,"Eyking","","Mark","Liberal","Libéral",Y,Y,96
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Sydney",N,N,"",1,332,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Sydney",N,N,"",1,332,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 109-1","Sydney",N,N,"",0,315,"Clarke","","Cecil","Conservative","Conservateur",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 109-1","Sydney",N,N,"",0,315,"Eyking","","Mark","Liberal","Libéral",Y,Y,83
+12010,"Sydney--Victoria","Sydney--Victoria"," 109-1","Sydney",N,N,"",0,315,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 109-1","Sydney",N,N,"",0,315,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Sydney",N,N,"",2,306,"Clarke","","Cecil","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Sydney",N,N,"",2,306,"Eyking","","Mark","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Sydney",N,N,"",2,306,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Sydney",N,N,"",2,306,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Sydney",N,N,"",0,307,"Clarke","","Cecil","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Sydney",N,N,"",0,307,"Eyking","","Mark","Liberal","Libéral",Y,Y,77
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Sydney",N,N,"",0,307,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Sydney",N,N,"",0,307,"Milburn","","Chris","Green Party","Parti Vert",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Sydney",N,N,"",3,419,"Clarke","","Cecil","Conservative","Conservateur",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Sydney",N,N,"",3,419,"Eyking","","Mark","Liberal","Libéral",Y,Y,77
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Sydney",N,N,"",3,419,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Sydney",N,N,"",3,419,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Sydney",N,N,"",0,177,"Clarke","","Cecil","Conservative","Conservateur",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Sydney",N,N,"",0,177,"Eyking","","Mark","Liberal","Libéral",Y,Y,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Sydney",N,N,"",0,177,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Sydney",N,N,"",0,177,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Sydney",N,N,"",0,426,"Clarke","","Cecil","Conservative","Conservateur",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Sydney",N,N,"",0,426,"Eyking","","Mark","Liberal","Libéral",Y,Y,63
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Sydney",N,N,"",0,426,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Sydney",N,N,"",0,426,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Sydney",N,N,"",0,321,"Clarke","","Cecil","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Sydney",N,N,"",0,321,"Eyking","","Mark","Liberal","Libéral",Y,Y,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Sydney",N,N,"",0,321,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Sydney",N,N,"",0,321,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Sydney",N,N,"",2,298,"Clarke","","Cecil","Conservative","Conservateur",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Sydney",N,N,"",2,298,"Eyking","","Mark","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Sydney",N,N,"",2,298,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Sydney",N,N,"",2,298,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Sydney",N,N,"",1,341,"Clarke","","Cecil","Conservative","Conservateur",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Sydney",N,N,"",1,341,"Eyking","","Mark","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Sydney",N,N,"",1,341,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Sydney",N,N,"",1,341,"Milburn","","Chris","Green Party","Parti Vert",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Sydney",N,N,"",0,394,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Sydney",N,N,"",0,394,"Eyking","","Mark","Liberal","Libéral",Y,Y,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Sydney",N,N,"",0,394,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Sydney",N,N,"",0,394,"Milburn","","Chris","Green Party","Parti Vert",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Sydney",N,N,"",3,303,"Clarke","","Cecil","Conservative","Conservateur",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Sydney",N,N,"",3,303,"Eyking","","Mark","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Sydney",N,N,"",3,303,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Sydney",N,N,"",3,303,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Sydney",N,N,"",2,299,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Sydney",N,N,"",2,299,"Eyking","","Mark","Liberal","Libéral",Y,Y,71
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Sydney",N,N,"",2,299,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Sydney",N,N,"",2,299,"Milburn","","Chris","Green Party","Parti Vert",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Sydney",N,N,"",0,362,"Clarke","","Cecil","Conservative","Conservateur",N,N,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Sydney",N,N,"",0,362,"Eyking","","Mark","Liberal","Libéral",Y,Y,85
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Sydney",N,N,"",0,362,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Sydney",N,N,"",0,362,"Milburn","","Chris","Green Party","Parti Vert",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Sydney",N,N,"",1,278,"Clarke","","Cecil","Conservative","Conservateur",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Sydney",N,N,"",1,278,"Eyking","","Mark","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Sydney",N,N,"",1,278,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Sydney",N,N,"",1,278,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Sydney",N,N,"",0,210,"Clarke","","Cecil","Conservative","Conservateur",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Sydney",N,N,"",0,210,"Eyking","","Mark","Liberal","Libéral",Y,Y,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Sydney",N,N,"",0,210,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Sydney",N,N,"",0,210,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Sydney",N,N,"",1,350,"Clarke","","Cecil","Conservative","Conservateur",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Sydney",N,N,"",1,350,"Eyking","","Mark","Liberal","Libéral",Y,Y,70
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Sydney",N,N,"",1,350,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Sydney",N,N,"",1,350,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Sydney",N,N,"",1,341,"Clarke","","Cecil","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Sydney",N,N,"",1,341,"Eyking","","Mark","Liberal","Libéral",Y,Y,79
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Sydney",N,N,"",1,341,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Sydney",N,N,"",1,341,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Sydney",N,N,"",1,334,"Clarke","","Cecil","Conservative","Conservateur",N,N,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Sydney",N,N,"",1,334,"Eyking","","Mark","Liberal","Libéral",Y,Y,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Sydney",N,N,"",1,334,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Sydney",N,N,"",1,334,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Sydney",N,N,"",0,349,"Clarke","","Cecil","Conservative","Conservateur",N,N,75
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Sydney",N,N,"",0,349,"Eyking","","Mark","Liberal","Libéral",Y,Y,83
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Sydney",N,N,"",0,349,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Sydney",N,N,"",0,349,"Milburn","","Chris","Green Party","Parti Vert",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Sydney",N,N,"",2,372,"Clarke","","Cecil","Conservative","Conservateur",N,N,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Sydney",N,N,"",2,372,"Eyking","","Mark","Liberal","Libéral",Y,Y,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Sydney",N,N,"",2,372,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Sydney",N,N,"",2,372,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Sydney",N,N,"",4,367,"Clarke","","Cecil","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Sydney",N,N,"",4,367,"Eyking","","Mark","Liberal","Libéral",Y,Y,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Sydney",N,N,"",4,367,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Sydney",N,N,"",4,367,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Sydney",N,N,"",1,349,"Clarke","","Cecil","Conservative","Conservateur",N,N,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Sydney",N,N,"",1,349,"Eyking","","Mark","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Sydney",N,N,"",1,349,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Sydney",N,N,"",1,349,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Sydney",N,N,"",0,278,"Clarke","","Cecil","Conservative","Conservateur",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Sydney",N,N,"",0,278,"Eyking","","Mark","Liberal","Libéral",Y,Y,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Sydney",N,N,"",0,278,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Sydney",N,N,"",0,278,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Sydney",N,N,"",2,328,"Clarke","","Cecil","Conservative","Conservateur",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Sydney",N,N,"",2,328,"Eyking","","Mark","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Sydney",N,N,"",2,328,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Sydney",N,N,"",2,328,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Sydney",N,N,"",3,308,"Clarke","","Cecil","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Sydney",N,N,"",3,308,"Eyking","","Mark","Liberal","Libéral",Y,Y,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Sydney",N,N,"",3,308,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Sydney",N,N,"",3,308,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Sydney",N,N,"",0,278,"Clarke","","Cecil","Conservative","Conservateur",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Sydney",N,N,"",0,278,"Eyking","","Mark","Liberal","Libéral",Y,Y,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Sydney",N,N,"",0,278,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Sydney",N,N,"",0,278,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Sydney",N,N,"",0,262,"Clarke","","Cecil","Conservative","Conservateur",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Sydney",N,N,"",0,262,"Eyking","","Mark","Liberal","Libéral",Y,Y,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Sydney",N,N,"",0,262,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Sydney",N,N,"",0,262,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Sydney",N,N,"",1,214,"Clarke","","Cecil","Conservative","Conservateur",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Sydney",N,N,"",1,214,"Eyking","","Mark","Liberal","Libéral",Y,Y,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Sydney",N,N,"",1,214,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Sydney",N,N,"",1,214,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Sydney",N,N,"",1,226,"Clarke","","Cecil","Conservative","Conservateur",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Sydney",N,N,"",1,226,"Eyking","","Mark","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Sydney",N,N,"",1,226,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Sydney",N,N,"",1,226,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Sydney",N,N,"",0,345,"Clarke","","Cecil","Conservative","Conservateur",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Sydney",N,N,"",0,345,"Eyking","","Mark","Liberal","Libéral",Y,Y,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Sydney",N,N,"",0,345,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Sydney",N,N,"",0,345,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Sydney",N,N,"",0,315,"Clarke","","Cecil","Conservative","Conservateur",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Sydney",N,N,"",0,315,"Eyking","","Mark","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Sydney",N,N,"",0,315,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Sydney",N,N,"",0,315,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Sydney",N,N,"",1,264,"Clarke","","Cecil","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Sydney",N,N,"",1,264,"Eyking","","Mark","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Sydney",N,N,"",1,264,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Sydney",N,N,"",1,264,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Sydney",N,N,"",1,277,"Clarke","","Cecil","Conservative","Conservateur",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Sydney",N,N,"",1,277,"Eyking","","Mark","Liberal","Libéral",Y,Y,71
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Sydney",N,N,"",1,277,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Sydney",N,N,"",1,277,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Sydney",N,N,"",4,313,"Clarke","","Cecil","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Sydney",N,N,"",4,313,"Eyking","","Mark","Liberal","Libéral",Y,Y,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Sydney",N,N,"",4,313,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Sydney",N,N,"",4,313,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Sydney",N,N,"",3,435,"Clarke","","Cecil","Conservative","Conservateur",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Sydney",N,N,"",3,435,"Eyking","","Mark","Liberal","Libéral",Y,Y,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Sydney",N,N,"",3,435,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Sydney",N,N,"",3,435,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Sydney",N,N,"",0,288,"Clarke","","Cecil","Conservative","Conservateur",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Sydney",N,N,"",0,288,"Eyking","","Mark","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Sydney",N,N,"",0,288,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Sydney",N,N,"",0,288,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Sydney",N,N,"",1,318,"Clarke","","Cecil","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Sydney",N,N,"",1,318,"Eyking","","Mark","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Sydney",N,N,"",1,318,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Sydney",N,N,"",1,318,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","New Victoria",N,N,"",0,435,"Clarke","","Cecil","Conservative","Conservateur",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","New Victoria",N,N,"",0,435,"Eyking","","Mark","Liberal","Libéral",Y,Y,75
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","New Victoria",N,N,"",0,435,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","New Victoria",N,N,"",0,435,"Milburn","","Chris","Green Party","Parti Vert",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","New Victoria",N,N,"",2,273,"Clarke","","Cecil","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","New Victoria",N,N,"",2,273,"Eyking","","Mark","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","New Victoria",N,N,"",2,273,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","New Victoria",N,N,"",2,273,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","New Victoria",N,N,"",3,305,"Clarke","","Cecil","Conservative","Conservateur",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","New Victoria",N,N,"",3,305,"Eyking","","Mark","Liberal","Libéral",Y,Y,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","New Victoria",N,N,"",3,305,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","New Victoria",N,N,"",3,305,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","South Bar",N,N,"",0,230,"Clarke","","Cecil","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","South Bar",N,N,"",0,230,"Eyking","","Mark","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","South Bar",N,N,"",0,230,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","South Bar",N,N,"",0,230,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","South Bar",N,N,"",0,360,"Clarke","","Cecil","Conservative","Conservateur",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","South Bar",N,N,"",0,360,"Eyking","","Mark","Liberal","Libéral",Y,Y,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","South Bar",N,N,"",0,360,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","South Bar",N,N,"",0,360,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Lingan Road",N,N,"",1,386,"Clarke","","Cecil","Conservative","Conservateur",N,N,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Lingan Road",N,N,"",1,386,"Eyking","","Mark","Liberal","Libéral",Y,Y,93
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Lingan Road",N,N,"",1,386,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Lingan Road",N,N,"",1,386,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Scotchtown",N,N,"",1,513,"Clarke","","Cecil","Conservative","Conservateur",N,N,81
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Scotchtown",N,N,"",1,513,"Eyking","","Mark","Liberal","Libéral",Y,Y,98
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Scotchtown",N,N,"",1,513,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Scotchtown",N,N,"",1,513,"Milburn","","Chris","Green Party","Parti Vert",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Scotchtown",N,N,"",0,376,"Clarke","","Cecil","Conservative","Conservateur",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Scotchtown",N,N,"",0,376,"Eyking","","Mark","Liberal","Libéral",Y,Y,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Scotchtown",N,N,"",0,376,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Scotchtown",N,N,"",0,376,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Scotchtown",N,N,"",0,364,"Clarke","","Cecil","Conservative","Conservateur",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Scotchtown",N,N,"",0,364,"Eyking","","Mark","Liberal","Libéral",Y,Y,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Scotchtown",N,N,"",0,364,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Scotchtown",N,N,"",0,364,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Scotchtown",N,N,"",5,393,"Clarke","","Cecil","Conservative","Conservateur",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Scotchtown",N,N,"",5,393,"Eyking","","Mark","Liberal","Libéral",Y,Y,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Scotchtown",N,N,"",5,393,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Scotchtown",N,N,"",5,393,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Lingan",N,N,"",8,466,"Clarke","","Cecil","Conservative","Conservateur",N,N,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Lingan",N,N,"",8,466,"Eyking","","Mark","Liberal","Libéral",Y,Y,107
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Lingan",N,N,"",8,466,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Lingan",N,N,"",8,466,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","New Waterford",N,N,"",3,415,"Clarke","","Cecil","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","New Waterford",N,N,"",3,415,"Eyking","","Mark","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","New Waterford",N,N,"",3,415,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","New Waterford",N,N,"",3,415,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","New Waterford",N,N,"",3,387,"Clarke","","Cecil","Conservative","Conservateur",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","New Waterford",N,N,"",3,387,"Eyking","","Mark","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","New Waterford",N,N,"",3,387,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","New Waterford",N,N,"",3,387,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","New Waterford",N,N,"",0,261,"Clarke","","Cecil","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","New Waterford",N,N,"",0,261,"Eyking","","Mark","Liberal","Libéral",Y,Y,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","New Waterford",N,N,"",0,261,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","New Waterford",N,N,"",0,261,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","New Waterford",N,N,"",1,404,"Clarke","","Cecil","Conservative","Conservateur",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","New Waterford",N,N,"",1,404,"Eyking","","Mark","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","New Waterford",N,N,"",1,404,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","New Waterford",N,N,"",1,404,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","New Waterford",N,N,"",4,342,"Clarke","","Cecil","Conservative","Conservateur",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","New Waterford",N,N,"",4,342,"Eyking","","Mark","Liberal","Libéral",Y,Y,71
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","New Waterford",N,N,"",4,342,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","New Waterford",N,N,"",4,342,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","New Waterford",N,N,"",1,316,"Clarke","","Cecil","Conservative","Conservateur",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","New Waterford",N,N,"",1,316,"Eyking","","Mark","Liberal","Libéral",Y,Y,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","New Waterford",N,N,"",1,316,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","New Waterford",N,N,"",1,316,"Milburn","","Chris","Green Party","Parti Vert",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","New Waterford",N,N,"",0,218,"Clarke","","Cecil","Conservative","Conservateur",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","New Waterford",N,N,"",0,218,"Eyking","","Mark","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","New Waterford",N,N,"",0,218,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","New Waterford",N,N,"",0,218,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","New Waterford",N,N,"",3,355,"Clarke","","Cecil","Conservative","Conservateur",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","New Waterford",N,N,"",3,355,"Eyking","","Mark","Liberal","Libéral",Y,Y,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","New Waterford",N,N,"",3,355,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","New Waterford",N,N,"",3,355,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 165","New Waterford",N,N,"",0,338,"Clarke","","Cecil","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 165","New Waterford",N,N,"",0,338,"Eyking","","Mark","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 165","New Waterford",N,N,"",0,338,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 165","New Waterford",N,N,"",0,338,"Milburn","","Chris","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 166","New Waterford",N,N,"",0,327,"Clarke","","Cecil","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 166","New Waterford",N,N,"",0,327,"Eyking","","Mark","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 166","New Waterford",N,N,"",0,327,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 166","New Waterford",N,N,"",0,327,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 167","New Waterford",N,N,"",0,398,"Clarke","","Cecil","Conservative","Conservateur",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 167","New Waterford",N,N,"",0,398,"Eyking","","Mark","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 167","New Waterford",N,N,"",0,398,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 167","New Waterford",N,N,"",0,398,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 168","New Waterford",N,N,"",0,269,"Clarke","","Cecil","Conservative","Conservateur",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 168","New Waterford",N,N,"",0,269,"Eyking","","Mark","Liberal","Libéral",Y,Y,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 168","New Waterford",N,N,"",0,269,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 168","New Waterford",N,N,"",0,269,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 169","New Waterford",N,N,"",1,382,"Clarke","","Cecil","Conservative","Conservateur",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 169","New Waterford",N,N,"",1,382,"Eyking","","Mark","Liberal","Libéral",Y,Y,77
+12010,"Sydney--Victoria","Sydney--Victoria"," 169","New Waterford",N,N,"",1,382,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 169","New Waterford",N,N,"",1,382,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 170","New Waterford",N,N,"",1,340,"Clarke","","Cecil","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 170","New Waterford",N,N,"",1,340,"Eyking","","Mark","Liberal","Libéral",Y,Y,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 170","New Waterford",N,N,"",1,340,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 170","New Waterford",N,N,"",1,340,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 171","New Waterford",N,N,"",2,376,"Clarke","","Cecil","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 171","New Waterford",N,N,"",2,376,"Eyking","","Mark","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 171","New Waterford",N,N,"",2,376,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 171","New Waterford",N,N,"",2,376,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",Y,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",Y,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",Y,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",Y,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",3,257,"Clarke","","Cecil","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",3,257,"Eyking","","Mark","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",3,257,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",3,257,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Sydney",N,N,"",3,91,"Clarke","","Cecil","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Sydney",N,N,"",3,91,"Eyking","","Mark","Liberal","Libéral",Y,Y,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Sydney",N,N,"",3,91,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Sydney",N,N,"",3,91,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 403","Sydney",N,N,"",2,109,"Clarke","","Cecil","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 403","Sydney",N,N,"",2,109,"Eyking","","Mark","Liberal","Libéral",Y,Y,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 403","Sydney",N,N,"",2,109,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 403","Sydney",N,N,"",2,109,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,77,"Clarke","","Cecil","Conservative","Conservateur",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,77,"Eyking","","Mark","Liberal","Libéral",Y,Y,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,77,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,77,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",1,73,"Clarke","","Cecil","Conservative","Conservateur",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",1,73,"Eyking","","Mark","Liberal","Libéral",Y,Y,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",1,73,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",1,73,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Clarke","","Cecil","Conservative","Conservateur",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Eyking","","Mark","Liberal","Libéral",Y,Y,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,N,"",2,155,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",2,113,"Clarke","","Cecil","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",2,113,"Eyking","","Mark","Liberal","Libéral",Y,Y,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",2,113,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",2,113,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Pleasant Bay",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Pleasant Bay",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Pleasant Bay",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Pleasant Bay",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Ingonish",N,N,"",1,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Ingonish",N,N,"",1,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Ingonish",N,N,"",1,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Ingonish",N,N,"",1,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Englishtown",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Englishtown",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Englishtown",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Englishtown",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Baddeck",N,N,"",5,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,104
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Baddeck",N,N,"",5,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,134
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Baddeck",N,N,"",5,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Baddeck",N,N,"",5,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Florence",N,N,"",2,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,212
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Florence",N,N,"",2,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,110
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Florence",N,N,"",2,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Florence",N,N,"",2,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Gannon Road",N,N,"",2,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,119
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Gannon Road",N,N,"",2,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Gannon Road",N,N,"",2,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Gannon Road",N,N,"",2,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Sydney Mines",N,N,"",1,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,420
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Sydney Mines",N,N,"",1,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,267
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Sydney Mines",N,N,"",1,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Sydney Mines",N,N,"",1,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","North Sydney",N,N,"",1,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,360
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","North Sydney",N,N,"",1,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,172
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","North Sydney",N,N,"",1,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","North Sydney",N,N,"",1,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Westmount",N,N,"",4,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,128
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Westmount",N,N,"",4,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,172
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Westmount",N,N,"",4,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Westmount",N,N,"",4,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Coxheath",N,N,"",7,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,146
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Coxheath",N,N,"",7,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,205
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Coxheath",N,N,"",7,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Coxheath",N,N,"",7,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Membertou 1",N,N,"",3,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,265
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Membertou 1",N,N,"",3,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,326
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Membertou 1",N,N,"",3,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Membertou 1",N,N,"",3,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Membertou 2",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,109
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Membertou 2",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,181
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Membertou 2",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Membertou 2",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Sydney",N,N,"",4,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,137
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Sydney",N,N,"",4,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,311
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Sydney",N,N,"",4,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Sydney",N,N,"",4,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Sydney",N,N,"",4,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,139
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Sydney",N,N,"",4,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,206
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Sydney",N,N,"",4,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Sydney",N,N,"",4,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","New Victoria",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,122
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","New Victoria",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,206
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","New Victoria",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","New Victoria",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","New Waterford",N,N,"",9,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,148
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","New Waterford",N,N,"",9,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,246
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","New Waterford",N,N,"",9,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,130
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","New Waterford",N,N,"",9,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Eskasoni",N,N,"",1,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Eskasoni",N,N,"",1,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Eskasoni",N,N,"",1,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Eskasoni",N,N,"",1,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape North",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape North",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape North",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape North",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Wagmatcook 1",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Wagmatcook 1",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Wagmatcook 1",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Wagmatcook 1",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Millville Boularderie",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,111
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Millville Boularderie",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Millville Boularderie",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Millville Boularderie",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Iona--Boisdale",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Iona--Boisdale",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Iona--Boisdale",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Iona--Boisdale",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","North Sydney",N,N,"",0,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,105
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","North Sydney",N,N,"",0,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","North Sydney",N,N,"",0,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","North Sydney",N,N,"",0,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,598,"Clarke","","Cecil","Conservative","Conservateur",N,N,135
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,598,"Eyking","","Mark","Liberal","Libéral",Y,Y,69
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,598,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,598,"Milburn","","Chris","Green Party","Parti Vert",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Clarke","","Cecil","Conservative","Conservateur",N,N,329
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Eyking","","Mark","Liberal","Libéral",Y,Y,448
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"MacLeod","","Kathy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Milburn","","Chris","Green Party","Parti Vert",N,N,20

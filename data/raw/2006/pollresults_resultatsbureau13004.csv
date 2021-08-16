@@ -1,0 +1,761 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+13004,"Fundy Royal","Fundy Royal"," 1","Cumberland Bay",N,N,"",2,336,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 1","Cumberland Bay",N,N,"",2,336,"Hunter","","Eldon","Liberal","Libéral",N,N,63
+13004,"Fundy Royal","Fundy Royal"," 1","Cumberland Bay",N,N,"",2,336,"Moir","","Rob","N.D.P.","N.P.D.",N,N,51
+13004,"Fundy Royal","Fundy Royal"," 1","Cumberland Bay",N,N,"",2,336,"Moore","","Rob","Conservative","Conservateur",Y,Y,107
+13004,"Fundy Royal","Fundy Royal"," 2","Youngs Cove",N,N,"",2,399,"Donovan","","Patty","Green Party","Parti Vert",N,N,1
+13004,"Fundy Royal","Fundy Royal"," 2","Youngs Cove",N,N,"",2,399,"Hunter","","Eldon","Liberal","Libéral",N,N,67
+13004,"Fundy Royal","Fundy Royal"," 2","Youngs Cove",N,N,"",2,399,"Moir","","Rob","N.D.P.","N.P.D.",N,N,54
+13004,"Fundy Royal","Fundy Royal"," 2","Youngs Cove",N,N,"",2,399,"Moore","","Rob","Conservative","Conservateur",Y,Y,113
+13004,"Fundy Royal","Fundy Royal"," 3","Canaan Forks",N,N,"",1,198,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 3","Canaan Forks",N,N,"",1,198,"Hunter","","Eldon","Liberal","Libéral",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 3","Canaan Forks",N,N,"",1,198,"Moir","","Rob","N.D.P.","N.P.D.",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 3","Canaan Forks",N,N,"",1,198,"Moore","","Rob","Conservative","Conservateur",Y,Y,78
+13004,"Fundy Royal","Fundy Royal"," 4A","Havelock",N,N,"",0,327,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 4A","Havelock",N,N,"",0,327,"Hunter","","Eldon","Liberal","Libéral",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 4A","Havelock",N,N,"",0,327,"Moir","","Rob","N.D.P.","N.P.D.",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 4A","Havelock",N,N,"",0,327,"Moore","","Rob","Conservative","Conservateur",Y,Y,138
+13004,"Fundy Royal","Fundy Royal"," 4B","Havelock",N,N,"",1,256,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 4B","Havelock",N,N,"",1,256,"Hunter","","Eldon","Liberal","Libéral",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 4B","Havelock",N,N,"",1,256,"Moir","","Rob","N.D.P.","N.P.D.",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 4B","Havelock",N,N,"",1,256,"Moore","","Rob","Conservative","Conservateur",Y,Y,90
+13004,"Fundy Royal","Fundy Royal"," 5","Havelock",N,N,"",0,130,"Donovan","","Patty","Green Party","Parti Vert",N,N,0
+13004,"Fundy Royal","Fundy Royal"," 5","Havelock",N,N,"",0,130,"Hunter","","Eldon","Liberal","Libéral",N,N,20
+13004,"Fundy Royal","Fundy Royal"," 5","Havelock",N,N,"",0,130,"Moir","","Rob","N.D.P.","N.P.D.",N,N,23
+13004,"Fundy Royal","Fundy Royal"," 5","Havelock",N,N,"",0,130,"Moore","","Rob","Conservative","Conservateur",Y,Y,32
+13004,"Fundy Royal","Fundy Royal"," 6","Cornhill",N,N,"",0,252,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 6","Cornhill",N,N,"",0,252,"Hunter","","Eldon","Liberal","Libéral",N,N,29
+13004,"Fundy Royal","Fundy Royal"," 6","Cornhill",N,N,"",0,252,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 6","Cornhill",N,N,"",0,252,"Moore","","Rob","Conservative","Conservateur",Y,Y,64
+13004,"Fundy Royal","Fundy Royal"," 7A","Anagance",N,N,"",0,272,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 7A","Anagance",N,N,"",0,272,"Hunter","","Eldon","Liberal","Libéral",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 7A","Anagance",N,N,"",0,272,"Moir","","Rob","N.D.P.","N.P.D.",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 7A","Anagance",N,N,"",0,272,"Moore","","Rob","Conservative","Conservateur",Y,Y,83
+13004,"Fundy Royal","Fundy Royal"," 7B","Anagance",N,N,"",1,246,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 7B","Anagance",N,N,"",1,246,"Hunter","","Eldon","Liberal","Libéral",N,N,40
+13004,"Fundy Royal","Fundy Royal"," 7B","Anagance",N,N,"",1,246,"Moir","","Rob","N.D.P.","N.P.D.",N,N,20
+13004,"Fundy Royal","Fundy Royal"," 7B","Anagance",N,N,"",1,246,"Moore","","Rob","Conservative","Conservateur",Y,Y,68
+13004,"Fundy Royal","Fundy Royal"," 8","Steeves Settlement",N,N,"",3,421,"Donovan","","Patty","Green Party","Parti Vert",N,N,13
+13004,"Fundy Royal","Fundy Royal"," 8","Steeves Settlement",N,N,"",3,421,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 8","Steeves Settlement",N,N,"",3,421,"Moir","","Rob","N.D.P.","N.P.D.",N,N,52
+13004,"Fundy Royal","Fundy Royal"," 8","Steeves Settlement",N,N,"",3,421,"Moore","","Rob","Conservative","Conservateur",Y,Y,145
+13004,"Fundy Royal","Fundy Royal"," 9","Petitcodiac",N,N,"",3,292,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 9","Petitcodiac",N,N,"",3,292,"Hunter","","Eldon","Liberal","Libéral",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 9","Petitcodiac",N,N,"",3,292,"Moir","","Rob","N.D.P.","N.P.D.",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 9","Petitcodiac",N,N,"",3,292,"Moore","","Rob","Conservative","Conservateur",Y,Y,96
+13004,"Fundy Royal","Fundy Royal"," 10","Petitcodiac",N,N,"",4,329,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 10","Petitcodiac",N,N,"",4,329,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 10","Petitcodiac",N,N,"",4,329,"Moir","","Rob","N.D.P.","N.P.D.",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 10","Petitcodiac",N,N,"",4,329,"Moore","","Rob","Conservative","Conservateur",Y,Y,104
+13004,"Fundy Royal","Fundy Royal"," 11","Petitcodiac",N,N,"",0,350,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 11","Petitcodiac",N,N,"",0,350,"Hunter","","Eldon","Liberal","Libéral",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 11","Petitcodiac",N,N,"",0,350,"Moir","","Rob","N.D.P.","N.P.D.",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 11","Petitcodiac",N,N,"",0,350,"Moore","","Rob","Conservative","Conservateur",Y,Y,105
+13004,"Fundy Royal","Fundy Royal"," 12","Petitcodiac",N,N,"",0,335,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 12","Petitcodiac",N,N,"",0,335,"Hunter","","Eldon","Liberal","Libéral",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 12","Petitcodiac",N,N,"",0,335,"Moir","","Rob","N.D.P.","N.P.D.",N,N,45
+13004,"Fundy Royal","Fundy Royal"," 12","Petitcodiac",N,N,"",0,335,"Moore","","Rob","Conservative","Conservateur",Y,Y,111
+13004,"Fundy Royal","Fundy Royal"," 13","Petitcodiac",N,N,"",4,302,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 13","Petitcodiac",N,N,"",4,302,"Hunter","","Eldon","Liberal","Libéral",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 13","Petitcodiac",N,N,"",4,302,"Moir","","Rob","N.D.P.","N.P.D.",N,N,50
+13004,"Fundy Royal","Fundy Royal"," 13","Petitcodiac",N,N,"",4,302,"Moore","","Rob","Conservative","Conservateur",Y,Y,81
+13004,"Fundy Royal","Fundy Royal"," 14A","Elgin",N,N,"",2,245,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 14A","Elgin",N,N,"",2,245,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 14A","Elgin",N,N,"",2,245,"Moir","","Rob","N.D.P.","N.P.D.",N,N,40
+13004,"Fundy Royal","Fundy Royal"," 14A","Elgin",N,N,"",2,245,"Moore","","Rob","Conservative","Conservateur",Y,Y,99
+13004,"Fundy Royal","Fundy Royal"," 14B","Elgin",N,N,"",1,217,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 14B","Elgin",N,N,"",1,217,"Hunter","","Eldon","Liberal","Libéral",N,N,37
+13004,"Fundy Royal","Fundy Royal"," 14B","Elgin",N,N,"",1,217,"Moir","","Rob","N.D.P.","N.P.D.",N,N,21
+13004,"Fundy Royal","Fundy Royal"," 14B","Elgin",N,N,"",1,217,"Moore","","Rob","Conservative","Conservateur",Y,Y,81
+13004,"Fundy Royal","Fundy Royal"," 15","Dobsons Corner",N,N,"",3,405,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 15","Dobsons Corner",N,N,"",3,405,"Hunter","","Eldon","Liberal","Libéral",N,N,40
+13004,"Fundy Royal","Fundy Royal"," 15","Dobsons Corner",N,N,"",3,405,"Moir","","Rob","N.D.P.","N.P.D.",N,N,51
+13004,"Fundy Royal","Fundy Royal"," 15","Dobsons Corner",N,N,"",3,405,"Moore","","Rob","Conservative","Conservateur",Y,Y,146
+13004,"Fundy Royal","Fundy Royal"," 16","River Glade",N,N,"",3,356,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 16","River Glade",N,N,"",3,356,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 16","River Glade",N,N,"",3,356,"Moir","","Rob","N.D.P.","N.P.D.",N,N,58
+13004,"Fundy Royal","Fundy Royal"," 16","River Glade",N,N,"",3,356,"Moore","","Rob","Conservative","Conservateur",Y,Y,97
+13004,"Fundy Royal","Fundy Royal"," 17","River Glade",N,N,"",0,127,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 17","River Glade",N,N,"",0,127,"Hunter","","Eldon","Liberal","Libéral",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 17","River Glade",N,N,"",0,127,"Moir","","Rob","N.D.P.","N.P.D.",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 17","River Glade",N,N,"",0,127,"Moore","","Rob","Conservative","Conservateur",Y,Y,34
+13004,"Fundy Royal","Fundy Royal"," 18","Second North River",N,N,"",5,369,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 18","Second North River",N,N,"",5,369,"Hunter","","Eldon","Liberal","Libéral",N,N,69
+13004,"Fundy Royal","Fundy Royal"," 18","Second North River",N,N,"",5,369,"Moir","","Rob","N.D.P.","N.P.D.",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 18","Second North River",N,N,"",5,369,"Moore","","Rob","Conservative","Conservateur",Y,Y,100
+13004,"Fundy Royal","Fundy Royal"," 19","Salisbury",N,N,"",1,380,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 19","Salisbury",N,N,"",1,380,"Hunter","","Eldon","Liberal","Libéral",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 19","Salisbury",N,N,"",1,380,"Moir","","Rob","N.D.P.","N.P.D.",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 19","Salisbury",N,N,"",1,380,"Moore","","Rob","Conservative","Conservateur",Y,Y,110
+13004,"Fundy Royal","Fundy Royal"," 20A","Salisbury",N,N,"",2,303,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 20A","Salisbury",N,N,"",2,303,"Hunter","","Eldon","Liberal","Libéral",N,N,23
+13004,"Fundy Royal","Fundy Royal"," 20A","Salisbury",N,N,"",2,303,"Moir","","Rob","N.D.P.","N.P.D.",N,N,29
+13004,"Fundy Royal","Fundy Royal"," 20A","Salisbury",N,N,"",2,303,"Moore","","Rob","Conservative","Conservateur",Y,Y,89
+13004,"Fundy Royal","Fundy Royal"," 20B","Salisbury",N,N,"",1,319,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 20B","Salisbury",N,N,"",1,319,"Hunter","","Eldon","Liberal","Libéral",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 20B","Salisbury",N,N,"",1,319,"Moir","","Rob","N.D.P.","N.P.D.",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 20B","Salisbury",N,N,"",1,319,"Moore","","Rob","Conservative","Conservateur",Y,Y,92
+13004,"Fundy Royal","Fundy Royal"," 21","Salisbury",N,N,"",3,311,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 21","Salisbury",N,N,"",3,311,"Hunter","","Eldon","Liberal","Libéral",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 21","Salisbury",N,N,"",3,311,"Moir","","Rob","N.D.P.","N.P.D.",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 21","Salisbury",N,N,"",3,311,"Moore","","Rob","Conservative","Conservateur",Y,Y,91
+13004,"Fundy Royal","Fundy Royal"," 22","Salisbury",N,N,"",1,350,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 22","Salisbury",N,N,"",1,350,"Hunter","","Eldon","Liberal","Libéral",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 22","Salisbury",N,N,"",1,350,"Moir","","Rob","N.D.P.","N.P.D.",N,N,57
+13004,"Fundy Royal","Fundy Royal"," 22","Salisbury",N,N,"",1,350,"Moore","","Rob","Conservative","Conservateur",Y,Y,100
+13004,"Fundy Royal","Fundy Royal"," 23","River Glade",N,N,"",1,240,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 23","River Glade",N,N,"",1,240,"Hunter","","Eldon","Liberal","Libéral",N,N,25
+13004,"Fundy Royal","Fundy Royal"," 23","River Glade",N,N,"",1,240,"Moir","","Rob","N.D.P.","N.P.D.",N,N,29
+13004,"Fundy Royal","Fundy Royal"," 23","River Glade",N,N,"",1,240,"Moore","","Rob","Conservative","Conservateur",Y,Y,78
+13004,"Fundy Royal","Fundy Royal"," 24","Five Points",N,N,"",1,428,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 24","Five Points",N,N,"",1,428,"Hunter","","Eldon","Liberal","Libéral",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 24","Five Points",N,N,"",1,428,"Moir","","Rob","N.D.P.","N.P.D.",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 24","Five Points",N,N,"",1,428,"Moore","","Rob","Conservative","Conservateur",Y,Y,138
+13004,"Fundy Royal","Fundy Royal"," 25","Colpitts Settlement",N,N,"",0,384,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 25","Colpitts Settlement",N,N,"",0,384,"Hunter","","Eldon","Liberal","Libéral",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 25","Colpitts Settlement",N,N,"",0,384,"Moir","","Rob","N.D.P.","N.P.D.",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 25","Colpitts Settlement",N,N,"",0,384,"Moore","","Rob","Conservative","Conservateur",Y,Y,101
+13004,"Fundy Royal","Fundy Royal"," 26","Colpitts Settlement",N,N,"",7,371,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 26","Colpitts Settlement",N,N,"",7,371,"Hunter","","Eldon","Liberal","Libéral",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 26","Colpitts Settlement",N,N,"",7,371,"Moir","","Rob","N.D.P.","N.P.D.",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 26","Colpitts Settlement",N,N,"",7,371,"Moore","","Rob","Conservative","Conservateur",Y,Y,117
+13004,"Fundy Royal","Fundy Royal"," 27","Parkindale",N,N,"",1,346,"Donovan","","Patty","Green Party","Parti Vert",N,N,13
+13004,"Fundy Royal","Fundy Royal"," 27","Parkindale",N,N,"",1,346,"Hunter","","Eldon","Liberal","Libéral",N,N,50
+13004,"Fundy Royal","Fundy Royal"," 27","Parkindale",N,N,"",1,346,"Moir","","Rob","N.D.P.","N.P.D.",N,N,67
+13004,"Fundy Royal","Fundy Royal"," 27","Parkindale",N,N,"",1,346,"Moore","","Rob","Conservative","Conservateur",Y,Y,105
+13004,"Fundy Royal","Fundy Royal"," 28","Synton",N,N,"",1,414,"Donovan","","Patty","Green Party","Parti Vert",N,N,18
+13004,"Fundy Royal","Fundy Royal"," 28","Synton",N,N,"",1,414,"Hunter","","Eldon","Liberal","Libéral",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 28","Synton",N,N,"",1,414,"Moir","","Rob","N.D.P.","N.P.D.",N,N,63
+13004,"Fundy Royal","Fundy Royal"," 28","Synton",N,N,"",1,414,"Moore","","Rob","Conservative","Conservateur",Y,Y,126
+13004,"Fundy Royal","Fundy Royal"," 29","Turtle Creek",N,N,"",1,356,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 29","Turtle Creek",N,N,"",1,356,"Hunter","","Eldon","Liberal","Libéral",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 29","Turtle Creek",N,N,"",1,356,"Moir","","Rob","N.D.P.","N.P.D.",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 29","Turtle Creek",N,N,"",1,356,"Moore","","Rob","Conservative","Conservateur",Y,Y,123
+13004,"Fundy Royal","Fundy Royal"," 30A","Pine Glen",N,N,"",0,242,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 30A","Pine Glen",N,N,"",0,242,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 30A","Pine Glen",N,N,"",0,242,"Moir","","Rob","N.D.P.","N.P.D.",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 30A","Pine Glen",N,N,"",0,242,"Moore","","Rob","Conservative","Conservateur",Y,Y,63
+13004,"Fundy Royal","Fundy Royal"," 30B","Pine Glen",N,N,"",0,276,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 30B","Pine Glen",N,N,"",0,276,"Hunter","","Eldon","Liberal","Libéral",N,N,45
+13004,"Fundy Royal","Fundy Royal"," 30B","Pine Glen",N,N,"",0,276,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 30B","Pine Glen",N,N,"",0,276,"Moore","","Rob","Conservative","Conservateur",Y,Y,82
+13004,"Fundy Royal","Fundy Royal"," 31A","Riverview",N,N,"",3,278,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 31A","Riverview",N,N,"",3,278,"Hunter","","Eldon","Liberal","Libéral",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 31A","Riverview",N,N,"",3,278,"Moir","","Rob","N.D.P.","N.P.D.",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 31A","Riverview",N,N,"",3,278,"Moore","","Rob","Conservative","Conservateur",Y,Y,55
+13004,"Fundy Royal","Fundy Royal"," 31B","Riverview",N,N,"",1,280,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 31B","Riverview",N,N,"",1,280,"Hunter","","Eldon","Liberal","Libéral",N,N,29
+13004,"Fundy Royal","Fundy Royal"," 31B","Riverview",N,N,"",1,280,"Moir","","Rob","N.D.P.","N.P.D.",N,N,25
+13004,"Fundy Royal","Fundy Royal"," 31B","Riverview",N,N,"",1,280,"Moore","","Rob","Conservative","Conservateur",Y,Y,54
+13004,"Fundy Royal","Fundy Royal"," 32","Riverview",N,N,"",0,360,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 32","Riverview",N,N,"",0,360,"Hunter","","Eldon","Liberal","Libéral",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 32","Riverview",N,N,"",0,360,"Moir","","Rob","N.D.P.","N.P.D.",N,N,35
+13004,"Fundy Royal","Fundy Royal"," 32","Riverview",N,N,"",0,360,"Moore","","Rob","Conservative","Conservateur",Y,Y,126
+13004,"Fundy Royal","Fundy Royal"," 33A","Riverview",N,N,"",1,265,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 33A","Riverview",N,N,"",1,265,"Hunter","","Eldon","Liberal","Libéral",N,N,60
+13004,"Fundy Royal","Fundy Royal"," 33A","Riverview",N,N,"",1,265,"Moir","","Rob","N.D.P.","N.P.D.",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 33A","Riverview",N,N,"",1,265,"Moore","","Rob","Conservative","Conservateur",Y,Y,64
+13004,"Fundy Royal","Fundy Royal"," 33B","Riverview",N,N,"",0,239,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 33B","Riverview",N,N,"",0,239,"Hunter","","Eldon","Liberal","Libéral",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 33B","Riverview",N,N,"",0,239,"Moir","","Rob","N.D.P.","N.P.D.",N,N,30
+13004,"Fundy Royal","Fundy Royal"," 33B","Riverview",N,N,"",0,239,"Moore","","Rob","Conservative","Conservateur",Y,Y,68
+13004,"Fundy Royal","Fundy Royal"," 34","Riverview",N,N,"",2,443,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 34","Riverview",N,N,"",2,443,"Hunter","","Eldon","Liberal","Libéral",N,N,95
+13004,"Fundy Royal","Fundy Royal"," 34","Riverview",N,N,"",2,443,"Moir","","Rob","N.D.P.","N.P.D.",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 34","Riverview",N,N,"",2,443,"Moore","","Rob","Conservative","Conservateur",Y,Y,99
+13004,"Fundy Royal","Fundy Royal"," 35","Riverview",N,N,"",0,403,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 35","Riverview",N,N,"",0,403,"Hunter","","Eldon","Liberal","Libéral",N,N,88
+13004,"Fundy Royal","Fundy Royal"," 35","Riverview",N,N,"",0,403,"Moir","","Rob","N.D.P.","N.P.D.",N,N,58
+13004,"Fundy Royal","Fundy Royal"," 35","Riverview",N,N,"",0,403,"Moore","","Rob","Conservative","Conservateur",Y,Y,90
+13004,"Fundy Royal","Fundy Royal"," 36","Riverview",N,N,"",1,446,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 36","Riverview",N,N,"",1,446,"Hunter","","Eldon","Liberal","Libéral",N,N,82
+13004,"Fundy Royal","Fundy Royal"," 36","Riverview",N,N,"",1,446,"Moir","","Rob","N.D.P.","N.P.D.",N,N,63
+13004,"Fundy Royal","Fundy Royal"," 36","Riverview",N,N,"",1,446,"Moore","","Rob","Conservative","Conservateur",Y,Y,107
+13004,"Fundy Royal","Fundy Royal"," 37","Riverview",N,N,"",1,420,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 37","Riverview",N,N,"",1,420,"Hunter","","Eldon","Liberal","Libéral",N,N,71
+13004,"Fundy Royal","Fundy Royal"," 37","Riverview",N,N,"",1,420,"Moir","","Rob","N.D.P.","N.P.D.",N,N,46
+13004,"Fundy Royal","Fundy Royal"," 37","Riverview",N,N,"",1,420,"Moore","","Rob","Conservative","Conservateur",Y,Y,94
+13004,"Fundy Royal","Fundy Royal"," 38","Riverview",N,N,"",0,383,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 38","Riverview",N,N,"",0,383,"Hunter","","Eldon","Liberal","Libéral",N,N,80
+13004,"Fundy Royal","Fundy Royal"," 38","Riverview",N,N,"",0,383,"Moir","","Rob","N.D.P.","N.P.D.",N,N,50
+13004,"Fundy Royal","Fundy Royal"," 38","Riverview",N,N,"",0,383,"Moore","","Rob","Conservative","Conservateur",Y,Y,79
+13004,"Fundy Royal","Fundy Royal"," 39","Riverview",N,N,"",2,372,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 39","Riverview",N,N,"",2,372,"Hunter","","Eldon","Liberal","Libéral",N,N,80
+13004,"Fundy Royal","Fundy Royal"," 39","Riverview",N,N,"",2,372,"Moir","","Rob","N.D.P.","N.P.D.",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 39","Riverview",N,N,"",2,372,"Moore","","Rob","Conservative","Conservateur",Y,Y,86
+13004,"Fundy Royal","Fundy Royal"," 40","Riverview",N,N,"",2,461,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 40","Riverview",N,N,"",2,461,"Hunter","","Eldon","Liberal","Libéral",N,N,109
+13004,"Fundy Royal","Fundy Royal"," 40","Riverview",N,N,"",2,461,"Moir","","Rob","N.D.P.","N.P.D.",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 40","Riverview",N,N,"",2,461,"Moore","","Rob","Conservative","Conservateur",Y,Y,144
+13004,"Fundy Royal","Fundy Royal"," 41","Riverview",N,N,"",2,300,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 41","Riverview",N,N,"",2,300,"Hunter","","Eldon","Liberal","Libéral",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 41","Riverview",N,N,"",2,300,"Moir","","Rob","N.D.P.","N.P.D.",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 41","Riverview",N,N,"",2,300,"Moore","","Rob","Conservative","Conservateur",Y,Y,56
+13004,"Fundy Royal","Fundy Royal"," 42","Riverview",N,N,"",2,410,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 42","Riverview",N,N,"",2,410,"Hunter","","Eldon","Liberal","Libéral",N,N,79
+13004,"Fundy Royal","Fundy Royal"," 42","Riverview",N,N,"",2,410,"Moir","","Rob","N.D.P.","N.P.D.",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 42","Riverview",N,N,"",2,410,"Moore","","Rob","Conservative","Conservateur",Y,Y,104
+13004,"Fundy Royal","Fundy Royal"," 43","Riverview",N,N,"",1,443,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 43","Riverview",N,N,"",1,443,"Hunter","","Eldon","Liberal","Libéral",N,N,94
+13004,"Fundy Royal","Fundy Royal"," 43","Riverview",N,N,"",1,443,"Moir","","Rob","N.D.P.","N.P.D.",N,N,49
+13004,"Fundy Royal","Fundy Royal"," 43","Riverview",N,N,"",1,443,"Moore","","Rob","Conservative","Conservateur",Y,Y,108
+13004,"Fundy Royal","Fundy Royal"," 44","Riverview",N,N,"",1,320,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 44","Riverview",N,N,"",1,320,"Hunter","","Eldon","Liberal","Libéral",N,N,60
+13004,"Fundy Royal","Fundy Royal"," 44","Riverview",N,N,"",1,320,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 44","Riverview",N,N,"",1,320,"Moore","","Rob","Conservative","Conservateur",Y,Y,99
+13004,"Fundy Royal","Fundy Royal"," 45","Lower Coverdale",N,N,"",0,384,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 45","Lower Coverdale",N,N,"",0,384,"Hunter","","Eldon","Liberal","Libéral",N,N,69
+13004,"Fundy Royal","Fundy Royal"," 45","Lower Coverdale",N,N,"",0,384,"Moir","","Rob","N.D.P.","N.P.D.",N,N,49
+13004,"Fundy Royal","Fundy Royal"," 45","Lower Coverdale",N,N,"",0,384,"Moore","","Rob","Conservative","Conservateur",Y,Y,110
+13004,"Fundy Royal","Fundy Royal"," 46","Lower Coverdale",N,N,"",1,402,"Donovan","","Patty","Green Party","Parti Vert",N,N,16
+13004,"Fundy Royal","Fundy Royal"," 46","Lower Coverdale",N,N,"",1,402,"Hunter","","Eldon","Liberal","Libéral",N,N,75
+13004,"Fundy Royal","Fundy Royal"," 46","Lower Coverdale",N,N,"",1,402,"Moir","","Rob","N.D.P.","N.P.D.",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 46","Lower Coverdale",N,N,"",1,402,"Moore","","Rob","Conservative","Conservateur",Y,Y,118
+13004,"Fundy Royal","Fundy Royal"," 47","Lower Coverdale",N,N,"",2,372,"Donovan","","Patty","Green Party","Parti Vert",N,N,16
+13004,"Fundy Royal","Fundy Royal"," 47","Lower Coverdale",N,N,"",2,372,"Hunter","","Eldon","Liberal","Libéral",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 47","Lower Coverdale",N,N,"",2,372,"Moir","","Rob","N.D.P.","N.P.D.",N,N,49
+13004,"Fundy Royal","Fundy Royal"," 47","Lower Coverdale",N,N,"",2,372,"Moore","","Rob","Conservative","Conservateur",Y,Y,106
+13004,"Fundy Royal","Fundy Royal"," 48","Stoney Creek",N,N,"",3,369,"Donovan","","Patty","Green Party","Parti Vert",N,N,12
+13004,"Fundy Royal","Fundy Royal"," 48","Stoney Creek",N,N,"",3,369,"Hunter","","Eldon","Liberal","Libéral",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 48","Stoney Creek",N,N,"",3,369,"Moir","","Rob","N.D.P.","N.P.D.",N,N,52
+13004,"Fundy Royal","Fundy Royal"," 48","Stoney Creek",N,N,"",3,369,"Moore","","Rob","Conservative","Conservateur",Y,Y,118
+13004,"Fundy Royal","Fundy Royal"," 49","Osborne Corner",N,N,"",5,366,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 49","Osborne Corner",N,N,"",5,366,"Hunter","","Eldon","Liberal","Libéral",N,N,51
+13004,"Fundy Royal","Fundy Royal"," 49","Osborne Corner",N,N,"",5,366,"Moir","","Rob","N.D.P.","N.P.D.",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 49","Osborne Corner",N,N,"",5,366,"Moore","","Rob","Conservative","Conservateur",Y,Y,113
+13004,"Fundy Royal","Fundy Royal"," 50","Hillsborough",N,N,"",6,309,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 50","Hillsborough",N,N,"",6,309,"Hunter","","Eldon","Liberal","Libéral",N,N,40
+13004,"Fundy Royal","Fundy Royal"," 50","Hillsborough",N,N,"",6,309,"Moir","","Rob","N.D.P.","N.P.D.",N,N,28
+13004,"Fundy Royal","Fundy Royal"," 50","Hillsborough",N,N,"",6,309,"Moore","","Rob","Conservative","Conservateur",Y,Y,104
+13004,"Fundy Royal","Fundy Royal"," 51","Hillsborough",N,N,"",1,397,"Donovan","","Patty","Green Party","Parti Vert",N,N,13
+13004,"Fundy Royal","Fundy Royal"," 51","Hillsborough",N,N,"",1,397,"Hunter","","Eldon","Liberal","Libéral",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 51","Hillsborough",N,N,"",1,397,"Moir","","Rob","N.D.P.","N.P.D.",N,N,57
+13004,"Fundy Royal","Fundy Royal"," 51","Hillsborough",N,N,"",1,397,"Moore","","Rob","Conservative","Conservateur",Y,Y,154
+13004,"Fundy Royal","Fundy Royal"," 52","Hillsborough",N,N,"",3,312,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 52","Hillsborough",N,N,"",3,312,"Hunter","","Eldon","Liberal","Libéral",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 52","Hillsborough",N,N,"",3,312,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 52","Hillsborough",N,N,"",3,312,"Moore","","Rob","Conservative","Conservateur",Y,Y,118
+13004,"Fundy Royal","Fundy Royal"," 53","Albert Mines",N,N,"",4,337,"Donovan","","Patty","Green Party","Parti Vert",N,N,16
+13004,"Fundy Royal","Fundy Royal"," 53","Albert Mines",N,N,"",4,337,"Hunter","","Eldon","Liberal","Libéral",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 53","Albert Mines",N,N,"",4,337,"Moir","","Rob","N.D.P.","N.P.D.",N,N,68
+13004,"Fundy Royal","Fundy Royal"," 53","Albert Mines",N,N,"",4,337,"Moore","","Rob","Conservative","Conservateur",Y,Y,115
+13004,"Fundy Royal","Fundy Royal"," 54","Hopewell Cape",N,N,"",3,310,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 54","Hopewell Cape",N,N,"",3,310,"Hunter","","Eldon","Liberal","Libéral",N,N,46
+13004,"Fundy Royal","Fundy Royal"," 54","Hopewell Cape",N,N,"",3,310,"Moir","","Rob","N.D.P.","N.P.D.",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 54","Hopewell Cape",N,N,"",3,310,"Moore","","Rob","Conservative","Conservateur",Y,Y,99
+13004,"Fundy Royal","Fundy Royal"," 55","Hopewell Hill",N,N,"",2,266,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 55","Hopewell Hill",N,N,"",2,266,"Hunter","","Eldon","Liberal","Libéral",N,N,46
+13004,"Fundy Royal","Fundy Royal"," 55","Hopewell Hill",N,N,"",2,266,"Moir","","Rob","N.D.P.","N.P.D.",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 55","Hopewell Hill",N,N,"",2,266,"Moore","","Rob","Conservative","Conservateur",Y,Y,86
+13004,"Fundy Royal","Fundy Royal"," 56","Riverside-Albert",N,N,"",2,298,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 56","Riverside-Albert",N,N,"",2,298,"Hunter","","Eldon","Liberal","Libéral",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 56","Riverside-Albert",N,N,"",2,298,"Moir","","Rob","N.D.P.","N.P.D.",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 56","Riverside-Albert",N,N,"",2,298,"Moore","","Rob","Conservative","Conservateur",Y,Y,85
+13004,"Fundy Royal","Fundy Royal"," 57","Harvey",N,N,"",1,335,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 57","Harvey",N,N,"",1,335,"Hunter","","Eldon","Liberal","Libéral",N,N,71
+13004,"Fundy Royal","Fundy Royal"," 57","Harvey",N,N,"",1,335,"Moir","","Rob","N.D.P.","N.P.D.",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 57","Harvey",N,N,"",1,335,"Moore","","Rob","Conservative","Conservateur",Y,Y,71
+13004,"Fundy Royal","Fundy Royal"," 58","Alma",N,N,"",2,226,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 58","Alma",N,N,"",2,226,"Hunter","","Eldon","Liberal","Libéral",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 58","Alma",N,N,"",2,226,"Moir","","Rob","N.D.P.","N.P.D.",N,N,20
+13004,"Fundy Royal","Fundy Royal"," 58","Alma",N,N,"",2,226,"Moore","","Rob","Conservative","Conservateur",Y,Y,84
+13004,"Fundy Royal","Fundy Royal"," 59","Penobsquis",N,N,"",1,319,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 59","Penobsquis",N,N,"",1,319,"Hunter","","Eldon","Liberal","Libéral",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 59","Penobsquis",N,N,"",1,319,"Moir","","Rob","N.D.P.","N.P.D.",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 59","Penobsquis",N,N,"",1,319,"Moore","","Rob","Conservative","Conservateur",Y,Y,87
+13004,"Fundy Royal","Fundy Royal"," 60","Cedar Camp",N,N,"",1,164,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 60","Cedar Camp",N,N,"",1,164,"Hunter","","Eldon","Liberal","Libéral",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 60","Cedar Camp",N,N,"",1,164,"Moir","","Rob","N.D.P.","N.P.D.",N,N,22
+13004,"Fundy Royal","Fundy Royal"," 60","Cedar Camp",N,N,"",1,164,"Moore","","Rob","Conservative","Conservateur",Y,Y,39
+13004,"Fundy Royal","Fundy Royal"," 61","Sussex",N,N,"",1,426,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 61","Sussex",N,N,"",1,426,"Hunter","","Eldon","Liberal","Libéral",N,N,50
+13004,"Fundy Royal","Fundy Royal"," 61","Sussex",N,N,"",1,426,"Moir","","Rob","N.D.P.","N.P.D.",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 61","Sussex",N,N,"",1,426,"Moore","","Rob","Conservative","Conservateur",Y,Y,116
+13004,"Fundy Royal","Fundy Royal"," 62","Waterford",N,N,"",1,407,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 62","Waterford",N,N,"",1,407,"Hunter","","Eldon","Liberal","Libéral",N,N,55
+13004,"Fundy Royal","Fundy Royal"," 62","Waterford",N,N,"",1,407,"Moir","","Rob","N.D.P.","N.P.D.",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 62","Waterford",N,N,"",1,407,"Moore","","Rob","Conservative","Conservateur",Y,Y,103
+13004,"Fundy Royal","Fundy Royal"," 63A","Sussex Corner",N,N,"",0,247,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 63A","Sussex Corner",N,N,"",0,247,"Hunter","","Eldon","Liberal","Libéral",N,N,54
+13004,"Fundy Royal","Fundy Royal"," 63A","Sussex Corner",N,N,"",0,247,"Moir","","Rob","N.D.P.","N.P.D.",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 63A","Sussex Corner",N,N,"",0,247,"Moore","","Rob","Conservative","Conservateur",Y,Y,64
+13004,"Fundy Royal","Fundy Royal"," 63B","Sussex Corner",N,N,"",0,262,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 63B","Sussex Corner",N,N,"",0,262,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 63B","Sussex Corner",N,N,"",0,262,"Moir","","Rob","N.D.P.","N.P.D.",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 63B","Sussex Corner",N,N,"",0,262,"Moore","","Rob","Conservative","Conservateur",Y,Y,79
+13004,"Fundy Royal","Fundy Royal"," 64","Sussex Corner",N,N,"",0,152,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 64","Sussex Corner",N,N,"",0,152,"Hunter","","Eldon","Liberal","Libéral",N,N,25
+13004,"Fundy Royal","Fundy Royal"," 64","Sussex Corner",N,N,"",0,152,"Moir","","Rob","N.D.P.","N.P.D.",N,N,14
+13004,"Fundy Royal","Fundy Royal"," 64","Sussex Corner",N,N,"",0,152,"Moore","","Rob","Conservative","Conservateur",Y,Y,49
+13004,"Fundy Royal","Fundy Royal"," 65","Sussex Corner",N,N,"",1,456,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 65","Sussex Corner",N,N,"",1,456,"Hunter","","Eldon","Liberal","Libéral",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 65","Sussex Corner",N,N,"",1,456,"Moir","","Rob","N.D.P.","N.P.D.",N,N,60
+13004,"Fundy Royal","Fundy Royal"," 65","Sussex Corner",N,N,"",1,456,"Moore","","Rob","Conservative","Conservateur",Y,Y,114
+13004,"Fundy Royal","Fundy Royal"," 66","Mill Brook",N,N,"",0,294,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 66","Mill Brook",N,N,"",0,294,"Hunter","","Eldon","Liberal","Libéral",N,N,40
+13004,"Fundy Royal","Fundy Royal"," 66","Mill Brook",N,N,"",0,294,"Moir","","Rob","N.D.P.","N.P.D.",N,N,46
+13004,"Fundy Royal","Fundy Royal"," 66","Mill Brook",N,N,"",0,294,"Moore","","Rob","Conservative","Conservateur",Y,Y,106
+13004,"Fundy Royal","Fundy Royal"," 67","Wards Creek",N,N,"",0,375,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 67","Wards Creek",N,N,"",0,375,"Hunter","","Eldon","Liberal","Libéral",N,N,49
+13004,"Fundy Royal","Fundy Royal"," 67","Wards Creek",N,N,"",0,375,"Moir","","Rob","N.D.P.","N.P.D.",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 67","Wards Creek",N,N,"",0,375,"Moore","","Rob","Conservative","Conservateur",Y,Y,115
+13004,"Fundy Royal","Fundy Royal"," 68","Hammond",N,N,"",4,435,"Donovan","","Patty","Green Party","Parti Vert",N,N,12
+13004,"Fundy Royal","Fundy Royal"," 68","Hammond",N,N,"",4,435,"Hunter","","Eldon","Liberal","Libéral",N,N,67
+13004,"Fundy Royal","Fundy Royal"," 68","Hammond",N,N,"",4,435,"Moir","","Rob","N.D.P.","N.P.D.",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 68","Hammond",N,N,"",4,435,"Moore","","Rob","Conservative","Conservateur",Y,Y,106
+13004,"Fundy Royal","Fundy Royal"," 69","St. Martins",N,N,"",1,262,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 69","St. Martins",N,N,"",1,262,"Hunter","","Eldon","Liberal","Libéral",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 69","St. Martins",N,N,"",1,262,"Moir","","Rob","N.D.P.","N.P.D.",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 69","St. Martins",N,N,"",1,262,"Moore","","Rob","Conservative","Conservateur",Y,Y,52
+13004,"Fundy Royal","Fundy Royal"," 70","St. Martins",N,N,"",1,278,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 70","St. Martins",N,N,"",1,278,"Hunter","","Eldon","Liberal","Libéral",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 70","St. Martins",N,N,"",1,278,"Moir","","Rob","N.D.P.","N.P.D.",N,N,26
+13004,"Fundy Royal","Fundy Royal"," 70","St. Martins",N,N,"",1,278,"Moore","","Rob","Conservative","Conservateur",Y,Y,57
+13004,"Fundy Royal","Fundy Royal"," 71","Quaco",N,N,"",2,278,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 71","Quaco",N,N,"",2,278,"Hunter","","Eldon","Liberal","Libéral",N,N,54
+13004,"Fundy Royal","Fundy Royal"," 71","Quaco",N,N,"",2,278,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 71","Quaco",N,N,"",2,278,"Moore","","Rob","Conservative","Conservateur",Y,Y,67
+13004,"Fundy Royal","Fundy Royal"," 72","Bains Corner",N,N,"",3,257,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 72","Bains Corner",N,N,"",3,257,"Hunter","","Eldon","Liberal","Libéral",N,N,25
+13004,"Fundy Royal","Fundy Royal"," 72","Bains Corner",N,N,"",3,257,"Moir","","Rob","N.D.P.","N.P.D.",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 72","Bains Corner",N,N,"",3,257,"Moore","","Rob","Conservative","Conservateur",Y,Y,59
+13004,"Fundy Royal","Fundy Royal"," 73","Baxters Corner",N,N,"",1,420,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 73","Baxters Corner",N,N,"",1,420,"Hunter","","Eldon","Liberal","Libéral",N,N,78
+13004,"Fundy Royal","Fundy Royal"," 73","Baxters Corner",N,N,"",1,420,"Moir","","Rob","N.D.P.","N.P.D.",N,N,46
+13004,"Fundy Royal","Fundy Royal"," 73","Baxters Corner",N,N,"",1,420,"Moore","","Rob","Conservative","Conservateur",Y,Y,80
+13004,"Fundy Royal","Fundy Royal"," 74","Loch Lomond",N,N,"",1,204,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 74","Loch Lomond",N,N,"",1,204,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 74","Loch Lomond",N,N,"",1,204,"Moir","","Rob","N.D.P.","N.P.D.",N,N,20
+13004,"Fundy Royal","Fundy Royal"," 74","Loch Lomond",N,N,"",1,204,"Moore","","Rob","Conservative","Conservateur",Y,Y,60
+13004,"Fundy Royal","Fundy Royal"," 75A","Willow Grove",N,N,"",0,288,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 75A","Willow Grove",N,N,"",0,288,"Hunter","","Eldon","Liberal","Libéral",N,N,28
+13004,"Fundy Royal","Fundy Royal"," 75A","Willow Grove",N,N,"",0,288,"Moir","","Rob","N.D.P.","N.P.D.",N,N,45
+13004,"Fundy Royal","Fundy Royal"," 75A","Willow Grove",N,N,"",0,288,"Moore","","Rob","Conservative","Conservateur",Y,Y,70
+13004,"Fundy Royal","Fundy Royal"," 75B","Willow Grove",N,N,"",0,274,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 75B","Willow Grove",N,N,"",0,274,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 75B","Willow Grove",N,N,"",0,274,"Moir","","Rob","N.D.P.","N.P.D.",N,N,45
+13004,"Fundy Royal","Fundy Royal"," 75B","Willow Grove",N,N,"",0,274,"Moore","","Rob","Conservative","Conservateur",Y,Y,47
+13004,"Fundy Royal","Fundy Royal"," 76","Gardner Creek",N,N,"",3,417,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 76","Gardner Creek",N,N,"",3,417,"Hunter","","Eldon","Liberal","Libéral",N,N,47
+13004,"Fundy Royal","Fundy Royal"," 76","Gardner Creek",N,N,"",3,417,"Moir","","Rob","N.D.P.","N.P.D.",N,N,37
+13004,"Fundy Royal","Fundy Royal"," 76","Gardner Creek",N,N,"",3,417,"Moore","","Rob","Conservative","Conservateur",Y,Y,118
+13004,"Fundy Royal","Fundy Royal"," 77A","Garnett Settlement",N,N,"",1,238,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 77A","Garnett Settlement",N,N,"",1,238,"Hunter","","Eldon","Liberal","Libéral",N,N,19
+13004,"Fundy Royal","Fundy Royal"," 77A","Garnett Settlement",N,N,"",1,238,"Moir","","Rob","N.D.P.","N.P.D.",N,N,20
+13004,"Fundy Royal","Fundy Royal"," 77A","Garnett Settlement",N,N,"",1,238,"Moore","","Rob","Conservative","Conservateur",Y,Y,24
+13004,"Fundy Royal","Fundy Royal"," 77B","Garnett Settlement",N,N,"",0,268,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 77B","Garnett Settlement",N,N,"",0,268,"Hunter","","Eldon","Liberal","Libéral",N,N,30
+13004,"Fundy Royal","Fundy Royal"," 77B","Garnett Settlement",N,N,"",0,268,"Moir","","Rob","N.D.P.","N.P.D.",N,N,21
+13004,"Fundy Royal","Fundy Royal"," 77B","Garnett Settlement",N,N,"",0,268,"Moore","","Rob","Conservative","Conservateur",Y,Y,25
+13004,"Fundy Royal","Fundy Royal"," 78","Garnett Settlement",N,N,"",2,388,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 78","Garnett Settlement",N,N,"",2,388,"Hunter","","Eldon","Liberal","Libéral",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 78","Garnett Settlement",N,N,"",2,388,"Moir","","Rob","N.D.P.","N.P.D.",N,N,47
+13004,"Fundy Royal","Fundy Royal"," 78","Garnett Settlement",N,N,"",2,388,"Moore","","Rob","Conservative","Conservateur",Y,Y,90
+13004,"Fundy Royal","Fundy Royal"," 79","Mispec",N,N,"",0,129,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 79","Mispec",N,N,"",0,129,"Hunter","","Eldon","Liberal","Libéral",N,N,15
+13004,"Fundy Royal","Fundy Royal"," 79","Mispec",N,N,"",0,129,"Moir","","Rob","N.D.P.","N.P.D.",N,N,19
+13004,"Fundy Royal","Fundy Royal"," 79","Mispec",N,N,"",0,129,"Moore","","Rob","Conservative","Conservateur",Y,Y,42
+13004,"Fundy Royal","Fundy Royal"," 80","Sussex",N,N,"",1,348,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 80","Sussex",N,N,"",1,348,"Hunter","","Eldon","Liberal","Libéral",N,N,57
+13004,"Fundy Royal","Fundy Royal"," 80","Sussex",N,N,"",1,348,"Moir","","Rob","N.D.P.","N.P.D.",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 80","Sussex",N,N,"",1,348,"Moore","","Rob","Conservative","Conservateur",Y,Y,82
+13004,"Fundy Royal","Fundy Royal"," 81","Sussex",N,N,"",0,321,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 81","Sussex",N,N,"",0,321,"Hunter","","Eldon","Liberal","Libéral",N,N,73
+13004,"Fundy Royal","Fundy Royal"," 81","Sussex",N,N,"",0,321,"Moir","","Rob","N.D.P.","N.P.D.",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 81","Sussex",N,N,"",0,321,"Moore","","Rob","Conservative","Conservateur",Y,Y,88
+13004,"Fundy Royal","Fundy Royal"," 82","Sussex",N,N,"",0,325,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 82","Sussex",N,N,"",0,325,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 82","Sussex",N,N,"",0,325,"Moir","","Rob","N.D.P.","N.P.D.",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 82","Sussex",N,N,"",0,325,"Moore","","Rob","Conservative","Conservateur",Y,Y,137
+13004,"Fundy Royal","Fundy Royal"," 83","Sussex",N,N,"",0,400,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 83","Sussex",N,N,"",0,400,"Hunter","","Eldon","Liberal","Libéral",N,N,59
+13004,"Fundy Royal","Fundy Royal"," 83","Sussex",N,N,"",0,400,"Moir","","Rob","N.D.P.","N.P.D.",N,N,50
+13004,"Fundy Royal","Fundy Royal"," 83","Sussex",N,N,"",0,400,"Moore","","Rob","Conservative","Conservateur",Y,Y,75
+13004,"Fundy Royal","Fundy Royal"," 84","Sussex",N,N,"",2,271,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 84","Sussex",N,N,"",2,271,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 84","Sussex",N,N,"",2,271,"Moir","","Rob","N.D.P.","N.P.D.",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 84","Sussex",N,N,"",2,271,"Moore","","Rob","Conservative","Conservateur",Y,Y,64
+13004,"Fundy Royal","Fundy Royal"," 85","Sussex",N,N,"",0,260,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 85","Sussex",N,N,"",0,260,"Hunter","","Eldon","Liberal","Libéral",N,N,26
+13004,"Fundy Royal","Fundy Royal"," 85","Sussex",N,N,"",0,260,"Moir","","Rob","N.D.P.","N.P.D.",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 85","Sussex",N,N,"",0,260,"Moore","","Rob","Conservative","Conservateur",Y,Y,72
+13004,"Fundy Royal","Fundy Royal"," 86","Sussex",N,N,"",2,415,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 86","Sussex",N,N,"",2,415,"Hunter","","Eldon","Liberal","Libéral",N,N,65
+13004,"Fundy Royal","Fundy Royal"," 86","Sussex",N,N,"",2,415,"Moir","","Rob","N.D.P.","N.P.D.",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 86","Sussex",N,N,"",2,415,"Moore","","Rob","Conservative","Conservateur",Y,Y,119
+13004,"Fundy Royal","Fundy Royal"," 87","Sussex",N,N,"",1,325,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 87","Sussex",N,N,"",1,325,"Hunter","","Eldon","Liberal","Libéral",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 87","Sussex",N,N,"",1,325,"Moir","","Rob","N.D.P.","N.P.D.",N,N,30
+13004,"Fundy Royal","Fundy Royal"," 87","Sussex",N,N,"",1,325,"Moore","","Rob","Conservative","Conservateur",Y,Y,102
+13004,"Fundy Royal","Fundy Royal"," 88","Sussex",N,N,"",1,288,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 88","Sussex",N,N,"",1,288,"Hunter","","Eldon","Liberal","Libéral",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 88","Sussex",N,N,"",1,288,"Moir","","Rob","N.D.P.","N.P.D.",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 88","Sussex",N,N,"",1,288,"Moore","","Rob","Conservative","Conservateur",Y,Y,82
+13004,"Fundy Royal","Fundy Royal"," 89","Sussex",N,N,"",1,306,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 89","Sussex",N,N,"",1,306,"Hunter","","Eldon","Liberal","Libéral",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 89","Sussex",N,N,"",1,306,"Moir","","Rob","N.D.P.","N.P.D.",N,N,35
+13004,"Fundy Royal","Fundy Royal"," 89","Sussex",N,N,"",1,306,"Moore","","Rob","Conservative","Conservateur",Y,Y,82
+13004,"Fundy Royal","Fundy Royal"," 90","Sussex",N,N,"",0,228,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 90","Sussex",N,N,"",0,228,"Hunter","","Eldon","Liberal","Libéral",N,N,35
+13004,"Fundy Royal","Fundy Royal"," 90","Sussex",N,N,"",0,228,"Moir","","Rob","N.D.P.","N.P.D.",N,N,26
+13004,"Fundy Royal","Fundy Royal"," 90","Sussex",N,N,"",0,228,"Moore","","Rob","Conservative","Conservateur",Y,Y,60
+13004,"Fundy Royal","Fundy Royal"," 91","Apohaqui",N,N,"",0,168,"Donovan","","Patty","Green Party","Parti Vert",N,N,1
+13004,"Fundy Royal","Fundy Royal"," 91","Apohaqui",N,N,"",0,168,"Hunter","","Eldon","Liberal","Libéral",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 91","Apohaqui",N,N,"",0,168,"Moir","","Rob","N.D.P.","N.P.D.",N,N,12
+13004,"Fundy Royal","Fundy Royal"," 91","Apohaqui",N,N,"",0,168,"Moore","","Rob","Conservative","Conservateur",Y,Y,53
+13004,"Fundy Royal","Fundy Royal"," 92A","Erb Settlement",N,N,"",0,247,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 92A","Erb Settlement",N,N,"",0,247,"Hunter","","Eldon","Liberal","Libéral",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 92A","Erb Settlement",N,N,"",0,247,"Moir","","Rob","N.D.P.","N.P.D.",N,N,22
+13004,"Fundy Royal","Fundy Royal"," 92A","Erb Settlement",N,N,"",0,247,"Moore","","Rob","Conservative","Conservateur",Y,Y,51
+13004,"Fundy Royal","Fundy Royal"," 92B","Erb Settlement",N,N,"",0,337,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 92B","Erb Settlement",N,N,"",0,337,"Hunter","","Eldon","Liberal","Libéral",N,N,49
+13004,"Fundy Royal","Fundy Royal"," 92B","Erb Settlement",N,N,"",0,337,"Moir","","Rob","N.D.P.","N.P.D.",N,N,52
+13004,"Fundy Royal","Fundy Royal"," 92B","Erb Settlement",N,N,"",0,337,"Moore","","Rob","Conservative","Conservateur",Y,Y,90
+13004,"Fundy Royal","Fundy Royal"," 93A","Norton",N,N,"",1,251,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 93A","Norton",N,N,"",1,251,"Hunter","","Eldon","Liberal","Libéral",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 93A","Norton",N,N,"",1,251,"Moir","","Rob","N.D.P.","N.P.D.",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 93A","Norton",N,N,"",1,251,"Moore","","Rob","Conservative","Conservateur",Y,Y,62
+13004,"Fundy Royal","Fundy Royal"," 93B","Norton",N,N,"",1,286,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 93B","Norton",N,N,"",1,286,"Hunter","","Eldon","Liberal","Libéral",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 93B","Norton",N,N,"",1,286,"Moir","","Rob","N.D.P.","N.P.D.",N,N,28
+13004,"Fundy Royal","Fundy Royal"," 93B","Norton",N,N,"",1,286,"Moore","","Rob","Conservative","Conservateur",Y,Y,72
+13004,"Fundy Royal","Fundy Royal"," 94","Central Norton",N,N,"",0,434,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 94","Central Norton",N,N,"",0,434,"Hunter","","Eldon","Liberal","Libéral",N,N,78
+13004,"Fundy Royal","Fundy Royal"," 94","Central Norton",N,N,"",0,434,"Moir","","Rob","N.D.P.","N.P.D.",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 94","Central Norton",N,N,"",0,434,"Moore","","Rob","Conservative","Conservateur",Y,Y,114
+13004,"Fundy Royal","Fundy Royal"," 95","Bloomfield",N,N,"",3,460,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 95","Bloomfield",N,N,"",3,460,"Hunter","","Eldon","Liberal","Libéral",N,N,60
+13004,"Fundy Royal","Fundy Royal"," 95","Bloomfield",N,N,"",3,460,"Moir","","Rob","N.D.P.","N.P.D.",N,N,75
+13004,"Fundy Royal","Fundy Royal"," 95","Bloomfield",N,N,"",3,460,"Moore","","Rob","Conservative","Conservateur",Y,Y,101
+13004,"Fundy Royal","Fundy Royal"," 96","Salt Springs",N,N,"",1,471,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 96","Salt Springs",N,N,"",1,471,"Hunter","","Eldon","Liberal","Libéral",N,N,40
+13004,"Fundy Royal","Fundy Royal"," 96","Salt Springs",N,N,"",1,471,"Moir","","Rob","N.D.P.","N.P.D.",N,N,67
+13004,"Fundy Royal","Fundy Royal"," 96","Salt Springs",N,N,"",1,471,"Moore","","Rob","Conservative","Conservateur",Y,Y,161
+13004,"Fundy Royal","Fundy Royal"," 97A","Upham",N,N,"",0,271,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 97A","Upham",N,N,"",0,271,"Hunter","","Eldon","Liberal","Libéral",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 97A","Upham",N,N,"",0,271,"Moir","","Rob","N.D.P.","N.P.D.",N,N,47
+13004,"Fundy Royal","Fundy Royal"," 97A","Upham",N,N,"",0,271,"Moore","","Rob","Conservative","Conservateur",Y,Y,67
+13004,"Fundy Royal","Fundy Royal"," 97B","Upham",N,N,"",0,254,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 97B","Upham",N,N,"",0,254,"Hunter","","Eldon","Liberal","Libéral",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 97B","Upham",N,N,"",0,254,"Moir","","Rob","N.D.P.","N.P.D.",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 97B","Upham",N,N,"",0,254,"Moore","","Rob","Conservative","Conservateur",Y,Y,74
+13004,"Fundy Royal","Fundy Royal"," 98A","Hampton",N,N,"",2,318,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 98A","Hampton",N,N,"",2,318,"Hunter","","Eldon","Liberal","Libéral",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 98A","Hampton",N,N,"",2,318,"Moir","","Rob","N.D.P.","N.P.D.",N,N,52
+13004,"Fundy Royal","Fundy Royal"," 98A","Hampton",N,N,"",2,318,"Moore","","Rob","Conservative","Conservateur",Y,Y,76
+13004,"Fundy Royal","Fundy Royal"," 98B","Hampton",N,N,"",1,313,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 98B","Hampton",N,N,"",1,313,"Hunter","","Eldon","Liberal","Libéral",N,N,47
+13004,"Fundy Royal","Fundy Royal"," 98B","Hampton",N,N,"",1,313,"Moir","","Rob","N.D.P.","N.P.D.",N,N,50
+13004,"Fundy Royal","Fundy Royal"," 98B","Hampton",N,N,"",1,313,"Moore","","Rob","Conservative","Conservateur",Y,Y,73
+13004,"Fundy Royal","Fundy Royal"," 99","Hampton",N,N,"",0,347,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 99","Hampton",N,N,"",0,347,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 99","Hampton",N,N,"",0,347,"Moir","","Rob","N.D.P.","N.P.D.",N,N,37
+13004,"Fundy Royal","Fundy Royal"," 99","Hampton",N,N,"",0,347,"Moore","","Rob","Conservative","Conservateur",Y,Y,93
+13004,"Fundy Royal","Fundy Royal"," 100A","Hampton",N,N,"",1,220,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 100A","Hampton",N,N,"",1,220,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 100A","Hampton",N,N,"",1,220,"Moir","","Rob","N.D.P.","N.P.D.",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 100A","Hampton",N,N,"",1,220,"Moore","","Rob","Conservative","Conservateur",Y,Y,57
+13004,"Fundy Royal","Fundy Royal"," 100B","Hampton",N,N,"",1,217,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 100B","Hampton",N,N,"",1,217,"Hunter","","Eldon","Liberal","Libéral",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 100B","Hampton",N,N,"",1,217,"Moir","","Rob","N.D.P.","N.P.D.",N,N,35
+13004,"Fundy Royal","Fundy Royal"," 100B","Hampton",N,N,"",1,217,"Moore","","Rob","Conservative","Conservateur",Y,Y,52
+13004,"Fundy Royal","Fundy Royal"," 101","Hampton",N,N,"",0,228,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 101","Hampton",N,N,"",0,228,"Hunter","","Eldon","Liberal","Libéral",N,N,30
+13004,"Fundy Royal","Fundy Royal"," 101","Hampton",N,N,"",0,228,"Moir","","Rob","N.D.P.","N.P.D.",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 101","Hampton",N,N,"",0,228,"Moore","","Rob","Conservative","Conservateur",Y,Y,72
+13004,"Fundy Royal","Fundy Royal"," 102","Hampton",N,N,"",1,413,"Donovan","","Patty","Green Party","Parti Vert",N,N,12
+13004,"Fundy Royal","Fundy Royal"," 102","Hampton",N,N,"",1,413,"Hunter","","Eldon","Liberal","Libéral",N,N,52
+13004,"Fundy Royal","Fundy Royal"," 102","Hampton",N,N,"",1,413,"Moir","","Rob","N.D.P.","N.P.D.",N,N,60
+13004,"Fundy Royal","Fundy Royal"," 102","Hampton",N,N,"",1,413,"Moore","","Rob","Conservative","Conservateur",Y,Y,91
+13004,"Fundy Royal","Fundy Royal"," 103A","Hampton",N,N,"",2,272,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 103A","Hampton",N,N,"",2,272,"Hunter","","Eldon","Liberal","Libéral",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 103A","Hampton",N,N,"",2,272,"Moir","","Rob","N.D.P.","N.P.D.",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 103A","Hampton",N,N,"",2,272,"Moore","","Rob","Conservative","Conservateur",Y,Y,72
+13004,"Fundy Royal","Fundy Royal"," 103B","Hampton",N,N,"",0,255,"Donovan","","Patty","Green Party","Parti Vert",N,N,0
+13004,"Fundy Royal","Fundy Royal"," 103B","Hampton",N,N,"",0,255,"Hunter","","Eldon","Liberal","Libéral",N,N,19
+13004,"Fundy Royal","Fundy Royal"," 103B","Hampton",N,N,"",0,255,"Moir","","Rob","N.D.P.","N.P.D.",N,N,36
+13004,"Fundy Royal","Fundy Royal"," 103B","Hampton",N,N,"",0,255,"Moore","","Rob","Conservative","Conservateur",Y,Y,71
+13004,"Fundy Royal","Fundy Royal"," 104","Hampton",N,N,"",0,406,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 104","Hampton",N,N,"",0,406,"Hunter","","Eldon","Liberal","Libéral",N,N,72
+13004,"Fundy Royal","Fundy Royal"," 104","Hampton",N,N,"",0,406,"Moir","","Rob","N.D.P.","N.P.D.",N,N,69
+13004,"Fundy Royal","Fundy Royal"," 104","Hampton",N,N,"",0,406,"Moore","","Rob","Conservative","Conservateur",Y,Y,105
+13004,"Fundy Royal","Fundy Royal"," 105","Hampton",N,N,"",0,411,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 105","Hampton",N,N,"",0,411,"Hunter","","Eldon","Liberal","Libéral",N,N,73
+13004,"Fundy Royal","Fundy Royal"," 105","Hampton",N,N,"",0,411,"Moir","","Rob","N.D.P.","N.P.D.",N,N,67
+13004,"Fundy Royal","Fundy Royal"," 105","Hampton",N,N,"",0,411,"Moore","","Rob","Conservative","Conservateur",Y,Y,92
+13004,"Fundy Royal","Fundy Royal"," 106","Hampton",N,N,"",1,369,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 106","Hampton",N,N,"",1,369,"Hunter","","Eldon","Liberal","Libéral",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 106","Hampton",N,N,"",1,369,"Moir","","Rob","N.D.P.","N.P.D.",N,N,63
+13004,"Fundy Royal","Fundy Royal"," 106","Hampton",N,N,"",1,369,"Moore","","Rob","Conservative","Conservateur",Y,Y,87
+13004,"Fundy Royal","Fundy Royal"," 107A","Darlings Island",N,N,"",1,235,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 107A","Darlings Island",N,N,"",1,235,"Hunter","","Eldon","Liberal","Libéral",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 107A","Darlings Island",N,N,"",1,235,"Moir","","Rob","N.D.P.","N.P.D.",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 107A","Darlings Island",N,N,"",1,235,"Moore","","Rob","Conservative","Conservateur",Y,Y,65
+13004,"Fundy Royal","Fundy Royal"," 107B","Darlings Island",N,N,"",1,208,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 107B","Darlings Island",N,N,"",1,208,"Hunter","","Eldon","Liberal","Libéral",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 107B","Darlings Island",N,N,"",1,208,"Moir","","Rob","N.D.P.","N.P.D.",N,N,47
+13004,"Fundy Royal","Fundy Royal"," 107B","Darlings Island",N,N,"",1,208,"Moore","","Rob","Conservative","Conservateur",Y,Y,63
+13004,"Fundy Royal","Fundy Royal"," 108","Nauwigewauk",N,N,"",0,318,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 108","Nauwigewauk",N,N,"",0,318,"Hunter","","Eldon","Liberal","Libéral",N,N,45
+13004,"Fundy Royal","Fundy Royal"," 108","Nauwigewauk",N,N,"",0,318,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 108","Nauwigewauk",N,N,"",0,318,"Moore","","Rob","Conservative","Conservateur",Y,Y,85
+13004,"Fundy Royal","Fundy Royal"," 109","Nauwigewauk",N,N,"",5,446,"Donovan","","Patty","Green Party","Parti Vert",N,N,14
+13004,"Fundy Royal","Fundy Royal"," 109","Nauwigewauk",N,N,"",5,446,"Hunter","","Eldon","Liberal","Libéral",N,N,57
+13004,"Fundy Royal","Fundy Royal"," 109","Nauwigewauk",N,N,"",5,446,"Moir","","Rob","N.D.P.","N.P.D.",N,N,71
+13004,"Fundy Royal","Fundy Royal"," 109","Nauwigewauk",N,N,"",5,446,"Moore","","Rob","Conservative","Conservateur",Y,Y,123
+13004,"Fundy Royal","Fundy Royal"," 110","French Village",N,N,"",1,297,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 110","French Village",N,N,"",1,297,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 110","French Village",N,N,"",1,297,"Moir","","Rob","N.D.P.","N.P.D.",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 110","French Village",N,N,"",1,297,"Moore","","Rob","Conservative","Conservateur",Y,Y,57
+13004,"Fundy Royal","Fundy Royal"," 111","Upper Golden Grove",N,N,"",2,446,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 111","Upper Golden Grove",N,N,"",2,446,"Hunter","","Eldon","Liberal","Libéral",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 111","Upper Golden Grove",N,N,"",2,446,"Moir","","Rob","N.D.P.","N.P.D.",N,N,58
+13004,"Fundy Royal","Fundy Royal"," 111","Upper Golden Grove",N,N,"",2,446,"Moore","","Rob","Conservative","Conservateur",Y,Y,92
+13004,"Fundy Royal","Fundy Royal"," 112A","Lower Norton",N,N,"",2,266,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 112A","Lower Norton",N,N,"",2,266,"Hunter","","Eldon","Liberal","Libéral",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 112A","Lower Norton",N,N,"",2,266,"Moir","","Rob","N.D.P.","N.P.D.",N,N,35
+13004,"Fundy Royal","Fundy Royal"," 112A","Lower Norton",N,N,"",2,266,"Moore","","Rob","Conservative","Conservateur",Y,Y,76
+13004,"Fundy Royal","Fundy Royal"," 112B","Lower Norton",N,N,"",2,233,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 112B","Lower Norton",N,N,"",2,233,"Hunter","","Eldon","Liberal","Libéral",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 112B","Lower Norton",N,N,"",2,233,"Moir","","Rob","N.D.P.","N.P.D.",N,N,37
+13004,"Fundy Royal","Fundy Royal"," 112B","Lower Norton",N,N,"",2,233,"Moore","","Rob","Conservative","Conservateur",Y,Y,74
+13004,"Fundy Royal","Fundy Royal"," 113","Kingston",N,N,"",1,319,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 113","Kingston",N,N,"",1,319,"Hunter","","Eldon","Liberal","Libéral",N,N,60
+13004,"Fundy Royal","Fundy Royal"," 113","Kingston",N,N,"",1,319,"Moir","","Rob","N.D.P.","N.P.D.",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 113","Kingston",N,N,"",1,319,"Moore","","Rob","Conservative","Conservateur",Y,Y,92
+13004,"Fundy Royal","Fundy Royal"," 114A","Kingston",N,N,"",0,288,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 114A","Kingston",N,N,"",0,288,"Hunter","","Eldon","Liberal","Libéral",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 114A","Kingston",N,N,"",0,288,"Moir","","Rob","N.D.P.","N.P.D.",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 114A","Kingston",N,N,"",0,288,"Moore","","Rob","Conservative","Conservateur",Y,Y,72
+13004,"Fundy Royal","Fundy Royal"," 114B","Kingston",N,N,"",2,292,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 114B","Kingston",N,N,"",2,292,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 114B","Kingston",N,N,"",2,292,"Moir","","Rob","N.D.P.","N.P.D.",N,N,58
+13004,"Fundy Royal","Fundy Royal"," 114B","Kingston",N,N,"",2,292,"Moore","","Rob","Conservative","Conservateur",Y,Y,86
+13004,"Fundy Royal","Fundy Royal"," 115","Clifton Royal",N,N,"",1,395,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 115","Clifton Royal",N,N,"",1,395,"Hunter","","Eldon","Liberal","Libéral",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 115","Clifton Royal",N,N,"",1,395,"Moir","","Rob","N.D.P.","N.P.D.",N,N,75
+13004,"Fundy Royal","Fundy Royal"," 115","Clifton Royal",N,N,"",1,395,"Moore","","Rob","Conservative","Conservateur",Y,Y,107
+13004,"Fundy Royal","Fundy Royal"," 116","Long Reach",N,N,"",2,302,"Donovan","","Patty","Green Party","Parti Vert",N,N,12
+13004,"Fundy Royal","Fundy Royal"," 116","Long Reach",N,N,"",2,302,"Hunter","","Eldon","Liberal","Libéral",N,N,54
+13004,"Fundy Royal","Fundy Royal"," 116","Long Reach",N,N,"",2,302,"Moir","","Rob","N.D.P.","N.P.D.",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 116","Long Reach",N,N,"",2,302,"Moore","","Rob","Conservative","Conservateur",Y,Y,79
+13004,"Fundy Royal","Fundy Royal"," 117A","Summerville",N,N,"",0,277,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 117A","Summerville",N,N,"",0,277,"Hunter","","Eldon","Liberal","Libéral",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 117A","Summerville",N,N,"",0,277,"Moir","","Rob","N.D.P.","N.P.D.",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 117A","Summerville",N,N,"",0,277,"Moore","","Rob","Conservative","Conservateur",Y,Y,63
+13004,"Fundy Royal","Fundy Royal"," 117B","Summerville",N,N,"",0,280,"Donovan","","Patty","Green Party","Parti Vert",N,N,0
+13004,"Fundy Royal","Fundy Royal"," 117B","Summerville",N,N,"",0,280,"Hunter","","Eldon","Liberal","Libéral",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 117B","Summerville",N,N,"",0,280,"Moir","","Rob","N.D.P.","N.P.D.",N,N,49
+13004,"Fundy Royal","Fundy Royal"," 117B","Summerville",N,N,"",0,280,"Moore","","Rob","Conservative","Conservateur",Y,Y,77
+13004,"Fundy Royal","Fundy Royal"," 118","Bayswater",N,N,"",0,399,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 118","Bayswater",N,N,"",0,399,"Hunter","","Eldon","Liberal","Libéral",N,N,58
+13004,"Fundy Royal","Fundy Royal"," 118","Bayswater",N,N,"",0,399,"Moir","","Rob","N.D.P.","N.P.D.",N,N,89
+13004,"Fundy Royal","Fundy Royal"," 118","Bayswater",N,N,"",0,399,"Moore","","Rob","Conservative","Conservateur",Y,Y,115
+13004,"Fundy Royal","Fundy Royal"," 119A","Quispamsis",N,N,"",3,235,"Donovan","","Patty","Green Party","Parti Vert",N,N,1
+13004,"Fundy Royal","Fundy Royal"," 119A","Quispamsis",N,N,"",3,235,"Hunter","","Eldon","Liberal","Libéral",N,N,46
+13004,"Fundy Royal","Fundy Royal"," 119A","Quispamsis",N,N,"",3,235,"Moir","","Rob","N.D.P.","N.P.D.",N,N,37
+13004,"Fundy Royal","Fundy Royal"," 119A","Quispamsis",N,N,"",3,235,"Moore","","Rob","Conservative","Conservateur",Y,Y,43
+13004,"Fundy Royal","Fundy Royal"," 119B","Quispamsis",N,N,"",4,272,"Donovan","","Patty","Green Party","Parti Vert",N,N,0
+13004,"Fundy Royal","Fundy Royal"," 119B","Quispamsis",N,N,"",4,272,"Hunter","","Eldon","Liberal","Libéral",N,N,52
+13004,"Fundy Royal","Fundy Royal"," 119B","Quispamsis",N,N,"",4,272,"Moir","","Rob","N.D.P.","N.P.D.",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 119B","Quispamsis",N,N,"",4,272,"Moore","","Rob","Conservative","Conservateur",Y,Y,56
+13004,"Fundy Royal","Fundy Royal"," 120A","Quispamsis",N,N,"",0,227,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 120A","Quispamsis",N,N,"",0,227,"Hunter","","Eldon","Liberal","Libéral",N,N,35
+13004,"Fundy Royal","Fundy Royal"," 120A","Quispamsis",N,N,"",0,227,"Moir","","Rob","N.D.P.","N.P.D.",N,N,25
+13004,"Fundy Royal","Fundy Royal"," 120A","Quispamsis",N,N,"",0,227,"Moore","","Rob","Conservative","Conservateur",Y,Y,48
+13004,"Fundy Royal","Fundy Royal"," 120B","Quispamsis",N,N,"",1,236,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 120B","Quispamsis",N,N,"",1,236,"Hunter","","Eldon","Liberal","Libéral",N,N,44
+13004,"Fundy Royal","Fundy Royal"," 120B","Quispamsis",N,N,"",1,236,"Moir","","Rob","N.D.P.","N.P.D.",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 120B","Quispamsis",N,N,"",1,236,"Moore","","Rob","Conservative","Conservateur",Y,Y,64
+13004,"Fundy Royal","Fundy Royal"," 121A","Quispamsis",N,N,"",0,275,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 121A","Quispamsis",N,N,"",0,275,"Hunter","","Eldon","Liberal","Libéral",N,N,55
+13004,"Fundy Royal","Fundy Royal"," 121A","Quispamsis",N,N,"",0,275,"Moir","","Rob","N.D.P.","N.P.D.",N,N,28
+13004,"Fundy Royal","Fundy Royal"," 121A","Quispamsis",N,N,"",0,275,"Moore","","Rob","Conservative","Conservateur",Y,Y,62
+13004,"Fundy Royal","Fundy Royal"," 121B","Quispamsis",N,N,"",1,253,"Donovan","","Patty","Green Party","Parti Vert",N,N,0
+13004,"Fundy Royal","Fundy Royal"," 121B","Quispamsis",N,N,"",1,253,"Hunter","","Eldon","Liberal","Libéral",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 121B","Quispamsis",N,N,"",1,253,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 121B","Quispamsis",N,N,"",1,253,"Moore","","Rob","Conservative","Conservateur",Y,Y,63
+13004,"Fundy Royal","Fundy Royal"," 122A","Quispamsis",N,N,"",0,339,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 122A","Quispamsis",N,N,"",0,339,"Hunter","","Eldon","Liberal","Libéral",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 122A","Quispamsis",N,N,"",0,339,"Moir","","Rob","N.D.P.","N.P.D.",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 122A","Quispamsis",N,N,"",0,339,"Moore","","Rob","Conservative","Conservateur",Y,Y,83
+13004,"Fundy Royal","Fundy Royal"," 122B","Quispamsis",N,N,"",0,291,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 122B","Quispamsis",N,N,"",0,291,"Hunter","","Eldon","Liberal","Libéral",N,N,55
+13004,"Fundy Royal","Fundy Royal"," 122B","Quispamsis",N,N,"",0,291,"Moir","","Rob","N.D.P.","N.P.D.",N,N,28
+13004,"Fundy Royal","Fundy Royal"," 122B","Quispamsis",N,N,"",0,291,"Moore","","Rob","Conservative","Conservateur",Y,Y,99
+13004,"Fundy Royal","Fundy Royal"," 123","Quispamsis",N,N,"",1,263,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 123","Quispamsis",N,N,"",1,263,"Hunter","","Eldon","Liberal","Libéral",N,N,47
+13004,"Fundy Royal","Fundy Royal"," 123","Quispamsis",N,N,"",1,263,"Moir","","Rob","N.D.P.","N.P.D.",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 123","Quispamsis",N,N,"",1,263,"Moore","","Rob","Conservative","Conservateur",Y,Y,75
+13004,"Fundy Royal","Fundy Royal"," 124","Quispamsis",N,N,"",3,294,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 124","Quispamsis",N,N,"",3,294,"Hunter","","Eldon","Liberal","Libéral",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 124","Quispamsis",N,N,"",3,294,"Moir","","Rob","N.D.P.","N.P.D.",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 124","Quispamsis",N,N,"",3,294,"Moore","","Rob","Conservative","Conservateur",Y,Y,79
+13004,"Fundy Royal","Fundy Royal"," 125","Quispamsis",N,N,"",2,214,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 125","Quispamsis",N,N,"",2,214,"Hunter","","Eldon","Liberal","Libéral",N,N,26
+13004,"Fundy Royal","Fundy Royal"," 125","Quispamsis",N,N,"",2,214,"Moir","","Rob","N.D.P.","N.P.D.",N,N,30
+13004,"Fundy Royal","Fundy Royal"," 125","Quispamsis",N,N,"",2,214,"Moore","","Rob","Conservative","Conservateur",Y,Y,33
+13004,"Fundy Royal","Fundy Royal"," 126","Quispamsis",N,N,"",0,203,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 126","Quispamsis",N,N,"",0,203,"Hunter","","Eldon","Liberal","Libéral",N,N,23
+13004,"Fundy Royal","Fundy Royal"," 126","Quispamsis",N,N,"",0,203,"Moir","","Rob","N.D.P.","N.P.D.",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 126","Quispamsis",N,N,"",0,203,"Moore","","Rob","Conservative","Conservateur",Y,Y,30
+13004,"Fundy Royal","Fundy Royal"," 127","Quispamsis",N,N,"",0,244,"Donovan","","Patty","Green Party","Parti Vert",N,N,1
+13004,"Fundy Royal","Fundy Royal"," 127","Quispamsis",N,N,"",0,244,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 127","Quispamsis",N,N,"",0,244,"Moir","","Rob","N.D.P.","N.P.D.",N,N,30
+13004,"Fundy Royal","Fundy Royal"," 127","Quispamsis",N,N,"",0,244,"Moore","","Rob","Conservative","Conservateur",Y,Y,43
+13004,"Fundy Royal","Fundy Royal"," 128A","Quispamsis",N,N,"",0,323,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 128A","Quispamsis",N,N,"",0,323,"Hunter","","Eldon","Liberal","Libéral",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 128A","Quispamsis",N,N,"",0,323,"Moir","","Rob","N.D.P.","N.P.D.",N,N,28
+13004,"Fundy Royal","Fundy Royal"," 128A","Quispamsis",N,N,"",0,323,"Moore","","Rob","Conservative","Conservateur",Y,Y,90
+13004,"Fundy Royal","Fundy Royal"," 128B","Quispamsis",N,N,"",0,312,"Donovan","","Patty","Green Party","Parti Vert",N,N,7
+13004,"Fundy Royal","Fundy Royal"," 128B","Quispamsis",N,N,"",0,312,"Hunter","","Eldon","Liberal","Libéral",N,N,63
+13004,"Fundy Royal","Fundy Royal"," 128B","Quispamsis",N,N,"",0,312,"Moir","","Rob","N.D.P.","N.P.D.",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 128B","Quispamsis",N,N,"",0,312,"Moore","","Rob","Conservative","Conservateur",Y,Y,88
+13004,"Fundy Royal","Fundy Royal"," 129A","Quispamsis",N,N,"",1,359,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 129A","Quispamsis",N,N,"",1,359,"Hunter","","Eldon","Liberal","Libéral",N,N,51
+13004,"Fundy Royal","Fundy Royal"," 129A","Quispamsis",N,N,"",1,359,"Moir","","Rob","N.D.P.","N.P.D.",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 129A","Quispamsis",N,N,"",1,359,"Moore","","Rob","Conservative","Conservateur",Y,Y,90
+13004,"Fundy Royal","Fundy Royal"," 129B","Quispamsis",N,N,"",3,371,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 129B","Quispamsis",N,N,"",3,371,"Hunter","","Eldon","Liberal","Libéral",N,N,61
+13004,"Fundy Royal","Fundy Royal"," 129B","Quispamsis",N,N,"",3,371,"Moir","","Rob","N.D.P.","N.P.D.",N,N,42
+13004,"Fundy Royal","Fundy Royal"," 129B","Quispamsis",N,N,"",3,371,"Moore","","Rob","Conservative","Conservateur",Y,Y,108
+13004,"Fundy Royal","Fundy Royal"," 130","Quispamsis",N,N,"",0,296,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 130","Quispamsis",N,N,"",0,296,"Hunter","","Eldon","Liberal","Libéral",N,N,71
+13004,"Fundy Royal","Fundy Royal"," 130","Quispamsis",N,N,"",0,296,"Moir","","Rob","N.D.P.","N.P.D.",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 130","Quispamsis",N,N,"",0,296,"Moore","","Rob","Conservative","Conservateur",Y,Y,82
+13004,"Fundy Royal","Fundy Royal"," 131","Quispamsis",N,N,"",2,376,"Donovan","","Patty","Green Party","Parti Vert",N,N,1
+13004,"Fundy Royal","Fundy Royal"," 131","Quispamsis",N,N,"",2,376,"Hunter","","Eldon","Liberal","Libéral",N,N,75
+13004,"Fundy Royal","Fundy Royal"," 131","Quispamsis",N,N,"",2,376,"Moir","","Rob","N.D.P.","N.P.D.",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 131","Quispamsis",N,N,"",2,376,"Moore","","Rob","Conservative","Conservateur",Y,Y,90
+13004,"Fundy Royal","Fundy Royal"," 132A","Quispamsis",N,N,"",2,269,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 132A","Quispamsis",N,N,"",2,269,"Hunter","","Eldon","Liberal","Libéral",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 132A","Quispamsis",N,N,"",2,269,"Moir","","Rob","N.D.P.","N.P.D.",N,N,16
+13004,"Fundy Royal","Fundy Royal"," 132A","Quispamsis",N,N,"",2,269,"Moore","","Rob","Conservative","Conservateur",Y,Y,82
+13004,"Fundy Royal","Fundy Royal"," 132B","Quispamsis",N,N,"",1,321,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 132B","Quispamsis",N,N,"",1,321,"Hunter","","Eldon","Liberal","Libéral",N,N,64
+13004,"Fundy Royal","Fundy Royal"," 132B","Quispamsis",N,N,"",1,321,"Moir","","Rob","N.D.P.","N.P.D.",N,N,27
+13004,"Fundy Royal","Fundy Royal"," 132B","Quispamsis",N,N,"",1,321,"Moore","","Rob","Conservative","Conservateur",Y,Y,91
+13004,"Fundy Royal","Fundy Royal"," 133A","Quispamsis",N,N,"",0,255,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 133A","Quispamsis",N,N,"",0,255,"Hunter","","Eldon","Liberal","Libéral",N,N,54
+13004,"Fundy Royal","Fundy Royal"," 133A","Quispamsis",N,N,"",0,255,"Moir","","Rob","N.D.P.","N.P.D.",N,N,26
+13004,"Fundy Royal","Fundy Royal"," 133A","Quispamsis",N,N,"",0,255,"Moore","","Rob","Conservative","Conservateur",Y,Y,62
+13004,"Fundy Royal","Fundy Royal"," 133B","Quispamsis",N,N,"",0,272,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 133B","Quispamsis",N,N,"",0,272,"Hunter","","Eldon","Liberal","Libéral",N,N,56
+13004,"Fundy Royal","Fundy Royal"," 133B","Quispamsis",N,N,"",0,272,"Moir","","Rob","N.D.P.","N.P.D.",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 133B","Quispamsis",N,N,"",0,272,"Moore","","Rob","Conservative","Conservateur",Y,Y,91
+13004,"Fundy Royal","Fundy Royal"," 134","Quispamsis",N,N,"",0,395,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 134","Quispamsis",N,N,"",0,395,"Hunter","","Eldon","Liberal","Libéral",N,N,90
+13004,"Fundy Royal","Fundy Royal"," 134","Quispamsis",N,N,"",0,395,"Moir","","Rob","N.D.P.","N.P.D.",N,N,28
+13004,"Fundy Royal","Fundy Royal"," 134","Quispamsis",N,N,"",0,395,"Moore","","Rob","Conservative","Conservateur",Y,Y,96
+13004,"Fundy Royal","Fundy Royal"," 135A","Quispamsis",N,N,"",0,375,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 135A","Quispamsis",N,N,"",0,375,"Hunter","","Eldon","Liberal","Libéral",N,N,102
+13004,"Fundy Royal","Fundy Royal"," 135A","Quispamsis",N,N,"",0,375,"Moir","","Rob","N.D.P.","N.P.D.",N,N,39
+13004,"Fundy Royal","Fundy Royal"," 135A","Quispamsis",N,N,"",0,375,"Moore","","Rob","Conservative","Conservateur",Y,Y,101
+13004,"Fundy Royal","Fundy Royal"," 135B","Quispamsis",N,N,"",1,432,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 135B","Quispamsis",N,N,"",1,432,"Hunter","","Eldon","Liberal","Libéral",N,N,99
+13004,"Fundy Royal","Fundy Royal"," 135B","Quispamsis",N,N,"",1,432,"Moir","","Rob","N.D.P.","N.P.D.",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 135B","Quispamsis",N,N,"",1,432,"Moore","","Rob","Conservative","Conservateur",Y,Y,133
+13004,"Fundy Royal","Fundy Royal"," 136","Quispamsis",N,N,"",0,459,"Donovan","","Patty","Green Party","Parti Vert",N,N,12
+13004,"Fundy Royal","Fundy Royal"," 136","Quispamsis",N,N,"",0,459,"Hunter","","Eldon","Liberal","Libéral",N,N,88
+13004,"Fundy Royal","Fundy Royal"," 136","Quispamsis",N,N,"",0,459,"Moir","","Rob","N.D.P.","N.P.D.",N,N,48
+13004,"Fundy Royal","Fundy Royal"," 136","Quispamsis",N,N,"",0,459,"Moore","","Rob","Conservative","Conservateur",Y,Y,128
+13004,"Fundy Royal","Fundy Royal"," 137","Quispamsis",N,N,"",2,433,"Donovan","","Patty","Green Party","Parti Vert",N,N,13
+13004,"Fundy Royal","Fundy Royal"," 137","Quispamsis",N,N,"",2,433,"Hunter","","Eldon","Liberal","Libéral",N,N,111
+13004,"Fundy Royal","Fundy Royal"," 137","Quispamsis",N,N,"",2,433,"Moir","","Rob","N.D.P.","N.P.D.",N,N,50
+13004,"Fundy Royal","Fundy Royal"," 137","Quispamsis",N,N,"",2,433,"Moore","","Rob","Conservative","Conservateur",Y,Y,101
+13004,"Fundy Royal","Fundy Royal"," 138A","Quispamsis",N,N,"",0,250,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 138A","Quispamsis",N,N,"",0,250,"Hunter","","Eldon","Liberal","Libéral",N,N,52
+13004,"Fundy Royal","Fundy Royal"," 138A","Quispamsis",N,N,"",0,250,"Moir","","Rob","N.D.P.","N.P.D.",N,N,29
+13004,"Fundy Royal","Fundy Royal"," 138A","Quispamsis",N,N,"",0,250,"Moore","","Rob","Conservative","Conservateur",Y,Y,70
+13004,"Fundy Royal","Fundy Royal"," 138B","Quispamsis",N,N,"",0,244,"Donovan","","Patty","Green Party","Parti Vert",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 138B","Quispamsis",N,N,"",0,244,"Hunter","","Eldon","Liberal","Libéral",N,N,60
+13004,"Fundy Royal","Fundy Royal"," 138B","Quispamsis",N,N,"",0,244,"Moir","","Rob","N.D.P.","N.P.D.",N,N,24
+13004,"Fundy Royal","Fundy Royal"," 138B","Quispamsis",N,N,"",0,244,"Moore","","Rob","Conservative","Conservateur",Y,Y,56
+13004,"Fundy Royal","Fundy Royal"," 139","Quispamsis",N,N,"",0,429,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 139","Quispamsis",N,N,"",0,429,"Hunter","","Eldon","Liberal","Libéral",N,N,80
+13004,"Fundy Royal","Fundy Royal"," 139","Quispamsis",N,N,"",0,429,"Moir","","Rob","N.D.P.","N.P.D.",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 139","Quispamsis",N,N,"",0,429,"Moore","","Rob","Conservative","Conservateur",Y,Y,116
+13004,"Fundy Royal","Fundy Royal"," 500","Mobile poll/Bureau itinérant",N,N,"",0,120,"Donovan","","Patty","Green Party","Parti Vert",N,N,1
+13004,"Fundy Royal","Fundy Royal"," 500","Mobile poll/Bureau itinérant",N,N,"",0,120,"Hunter","","Eldon","Liberal","Libéral",N,N,31
+13004,"Fundy Royal","Fundy Royal"," 500","Mobile poll/Bureau itinérant",N,N,"",0,120,"Moir","","Rob","N.D.P.","N.P.D.",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 500","Mobile poll/Bureau itinérant",N,N,"",0,120,"Moore","","Rob","Conservative","Conservateur",Y,Y,34
+13004,"Fundy Royal","Fundy Royal"," 501","Mobile poll/Bureau itinérant",N,N,"",0,85,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 501","Mobile poll/Bureau itinérant",N,N,"",0,85,"Hunter","","Eldon","Liberal","Libéral",N,N,10
+13004,"Fundy Royal","Fundy Royal"," 501","Mobile poll/Bureau itinérant",N,N,"",0,85,"Moir","","Rob","N.D.P.","N.P.D.",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 501","Mobile poll/Bureau itinérant",N,N,"",0,85,"Moore","","Rob","Conservative","Conservateur",Y,Y,13
+13004,"Fundy Royal","Fundy Royal"," 502","Mobile poll/Bureau itinérant",N,N,"",3,84,"Donovan","","Patty","Green Party","Parti Vert",N,N,5
+13004,"Fundy Royal","Fundy Royal"," 502","Mobile poll/Bureau itinérant",N,N,"",3,84,"Hunter","","Eldon","Liberal","Libéral",N,N,18
+13004,"Fundy Royal","Fundy Royal"," 502","Mobile poll/Bureau itinérant",N,N,"",3,84,"Moir","","Rob","N.D.P.","N.P.D.",N,N,3
+13004,"Fundy Royal","Fundy Royal"," 502","Mobile poll/Bureau itinérant",N,N,"",3,84,"Moore","","Rob","Conservative","Conservateur",Y,Y,19
+13004,"Fundy Royal","Fundy Royal"," 600","Cumberland Bay",N,N,"",3,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,0
+13004,"Fundy Royal","Fundy Royal"," 600","Cumberland Bay",N,N,"",3,0,"Hunter","","Eldon","Liberal","Libéral",N,N,23
+13004,"Fundy Royal","Fundy Royal"," 600","Cumberland Bay",N,N,"",3,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 600","Cumberland Bay",N,N,"",3,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,34
+13004,"Fundy Royal","Fundy Royal"," 601","Petitcodiac",N,N,"",4,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,6
+13004,"Fundy Royal","Fundy Royal"," 601","Petitcodiac",N,N,"",4,0,"Hunter","","Eldon","Liberal","Libéral",N,N,83
+13004,"Fundy Royal","Fundy Royal"," 601","Petitcodiac",N,N,"",4,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,40
+13004,"Fundy Royal","Fundy Royal"," 601","Petitcodiac",N,N,"",4,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,165
+13004,"Fundy Royal","Fundy Royal"," 602","Salisbury",N,N,"",3,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,14
+13004,"Fundy Royal","Fundy Royal"," 602","Salisbury",N,N,"",3,0,"Hunter","","Eldon","Liberal","Libéral",N,N,92
+13004,"Fundy Royal","Fundy Royal"," 602","Salisbury",N,N,"",3,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,57
+13004,"Fundy Royal","Fundy Royal"," 602","Salisbury",N,N,"",3,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,241
+13004,"Fundy Royal","Fundy Royal"," 603","Riverview",N,N,"",1,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,11
+13004,"Fundy Royal","Fundy Royal"," 603","Riverview",N,N,"",1,0,"Hunter","","Eldon","Liberal","Libéral",N,N,132
+13004,"Fundy Royal","Fundy Royal"," 603","Riverview",N,N,"",1,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,45
+13004,"Fundy Royal","Fundy Royal"," 603","Riverview",N,N,"",1,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,162
+13004,"Fundy Royal","Fundy Royal"," 604","Riverview",N,N,"",2,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 604","Riverview",N,N,"",2,0,"Hunter","","Eldon","Liberal","Libéral",N,N,75
+13004,"Fundy Royal","Fundy Royal"," 604","Riverview",N,N,"",2,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,29
+13004,"Fundy Royal","Fundy Royal"," 604","Riverview",N,N,"",2,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,134
+13004,"Fundy Royal","Fundy Royal"," 605","Hillsborough",N,N,"",1,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 605","Hillsborough",N,N,"",1,0,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," 605","Hillsborough",N,N,"",1,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,25
+13004,"Fundy Royal","Fundy Royal"," 605","Hillsborough",N,N,"",1,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,120
+13004,"Fundy Royal","Fundy Royal"," 606","Riverside-Albert",N,N,"",0,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 606","Riverside-Albert",N,N,"",0,0,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 606","Riverside-Albert",N,N,"",0,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,14
+13004,"Fundy Royal","Fundy Royal"," 606","Riverside-Albert",N,N,"",0,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,81
+13004,"Fundy Royal","Fundy Royal"," 607","Sussex Corner",N,N,"",2,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,4
+13004,"Fundy Royal","Fundy Royal"," 607","Sussex Corner",N,N,"",2,0,"Hunter","","Eldon","Liberal","Libéral",N,N,85
+13004,"Fundy Royal","Fundy Royal"," 607","Sussex Corner",N,N,"",2,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 607","Sussex Corner",N,N,"",2,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,151
+13004,"Fundy Royal","Fundy Royal"," 608","Sussex",N,N,"",2,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,9
+13004,"Fundy Royal","Fundy Royal"," 608","Sussex",N,N,"",2,0,"Hunter","","Eldon","Liberal","Libéral",N,N,94
+13004,"Fundy Royal","Fundy Royal"," 608","Sussex",N,N,"",2,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,32
+13004,"Fundy Royal","Fundy Royal"," 608","Sussex",N,N,"",2,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,239
+13004,"Fundy Royal","Fundy Royal"," 609","St. Martins",N,N,"",1,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 609","St. Martins",N,N,"",1,0,"Hunter","","Eldon","Liberal","Libéral",N,N,43
+13004,"Fundy Royal","Fundy Royal"," 609","St. Martins",N,N,"",1,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,15
+13004,"Fundy Royal","Fundy Royal"," 609","St. Martins",N,N,"",1,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,83
+13004,"Fundy Royal","Fundy Royal"," 610","Simonds",N,N,"",0,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,8
+13004,"Fundy Royal","Fundy Royal"," 610","Simonds",N,N,"",0,0,"Hunter","","Eldon","Liberal","Libéral",N,N,53
+13004,"Fundy Royal","Fundy Royal"," 610","Simonds",N,N,"",0,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,41
+13004,"Fundy Royal","Fundy Royal"," 610","Simonds",N,N,"",0,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,135
+13004,"Fundy Royal","Fundy Royal"," 611","Norton",N,N,"",0,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,2
+13004,"Fundy Royal","Fundy Royal"," 611","Norton",N,N,"",0,0,"Hunter","","Eldon","Liberal","Libéral",N,N,77
+13004,"Fundy Royal","Fundy Royal"," 611","Norton",N,N,"",0,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,13
+13004,"Fundy Royal","Fundy Royal"," 611","Norton",N,N,"",0,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,112
+13004,"Fundy Royal","Fundy Royal"," 612","Hampton",N,N,"",3,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,13
+13004,"Fundy Royal","Fundy Royal"," 612","Hampton",N,N,"",3,0,"Hunter","","Eldon","Liberal","Libéral",N,N,133
+13004,"Fundy Royal","Fundy Royal"," 612","Hampton",N,N,"",3,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,83
+13004,"Fundy Royal","Fundy Royal"," 612","Hampton",N,N,"",3,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,290
+13004,"Fundy Royal","Fundy Royal"," 613","Kingston",N,N,"",0,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,16
+13004,"Fundy Royal","Fundy Royal"," 613","Kingston",N,N,"",0,0,"Hunter","","Eldon","Liberal","Libéral",N,N,38
+13004,"Fundy Royal","Fundy Royal"," 613","Kingston",N,N,"",0,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,34
+13004,"Fundy Royal","Fundy Royal"," 613","Kingston",N,N,"",0,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,94
+13004,"Fundy Royal","Fundy Royal"," 614","Quispamsis",N,N,"",3,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,13
+13004,"Fundy Royal","Fundy Royal"," 614","Quispamsis",N,N,"",3,0,"Hunter","","Eldon","Liberal","Libéral",N,N,156
+13004,"Fundy Royal","Fundy Royal"," 614","Quispamsis",N,N,"",3,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,94
+13004,"Fundy Royal","Fundy Royal"," 614","Quispamsis",N,N,"",3,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,285
+13004,"Fundy Royal","Fundy Royal"," 615","Quispamsis",N,N,"",0,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,16
+13004,"Fundy Royal","Fundy Royal"," 615","Quispamsis",N,N,"",0,0,"Hunter","","Eldon","Liberal","Libéral",N,N,137
+13004,"Fundy Royal","Fundy Royal"," 615","Quispamsis",N,N,"",0,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,62
+13004,"Fundy Royal","Fundy Royal"," 615","Quispamsis",N,N,"",0,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,220
+13004,"Fundy Royal","Fundy Royal"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,284,"Donovan","","Patty","Green Party","Parti Vert",N,N,10
+13004,"Fundy Royal","Fundy Royal"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,284,"Hunter","","Eldon","Liberal","Libéral",N,N,33
+13004,"Fundy Royal","Fundy Royal"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,284,"Moir","","Rob","N.D.P.","N.P.D.",N,N,19
+13004,"Fundy Royal","Fundy Royal"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,284,"Moore","","Rob","Conservative","Conservateur",Y,Y,50
+13004,"Fundy Royal","Fundy Royal"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Donovan","","Patty","Green Party","Parti Vert",N,N,22
+13004,"Fundy Royal","Fundy Royal"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Hunter","","Eldon","Liberal","Libéral",N,N,261
+13004,"Fundy Royal","Fundy Royal"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Moir","","Rob","N.D.P.","N.P.D.",N,N,103
+13004,"Fundy Royal","Fundy Royal"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Moore","","Rob","Conservative","Conservateur",Y,Y,370

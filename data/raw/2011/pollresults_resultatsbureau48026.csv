@@ -1,0 +1,833 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+48026,"Wetaskiwin","Wetaskiwin"," 1","Berrymoor",N,N,"",0,332,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 1","Berrymoor",N,N,"",0,332,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,166
+48026,"Wetaskiwin","Wetaskiwin"," 1","Berrymoor",N,N,"",0,332,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 1","Berrymoor",N,N,"",0,332,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 2","Lindale",N,N,"",0,319,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 2","Lindale",N,N,"",0,319,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,156
+48026,"Wetaskiwin","Wetaskiwin"," 2","Lindale",N,N,"",0,319,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 2","Lindale",N,N,"",0,319,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 3","Genesee",N,N,"",0,237,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 3","Genesee",N,N,"",0,237,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,118
+48026,"Wetaskiwin","Wetaskiwin"," 3","Genesee",N,N,"",0,237,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 3","Genesee",N,N,"",0,237,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 4","Buck Creek",N,N,"",2,417,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 4","Buck Creek",N,N,"",2,417,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,220
+48026,"Wetaskiwin","Wetaskiwin"," 4","Buck Creek",N,N,"",2,417,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 4","Buck Creek",N,N,"",2,417,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 5","Carnwood Hall",N,N,"",0,261,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 5","Carnwood Hall",N,N,"",0,261,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,114
+48026,"Wetaskiwin","Wetaskiwin"," 5","Carnwood Hall",N,N,"",0,261,"Johnston","","Robert","Green Party","Parti Vert",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 5","Carnwood Hall",N,N,"",0,261,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 6","Alsike",N,N,"",0,230,"Anderson","","Christopher","Liberal","Libéral",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 6","Alsike",N,N,"",0,230,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,112
+48026,"Wetaskiwin","Wetaskiwin"," 6","Alsike",N,N,"",0,230,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 6","Alsike",N,N,"",0,230,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 7","Warburg",N,N,"",1,320,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 7","Warburg",N,N,"",1,320,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,168
+48026,"Wetaskiwin","Wetaskiwin"," 7","Warburg",N,N,"",1,320,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 7","Warburg",N,N,"",1,320,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 8","Warburg",N,N,"",0,551,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 8","Warburg",N,N,"",0,551,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,235
+48026,"Wetaskiwin","Wetaskiwin"," 8","Warburg",N,N,"",0,551,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 8","Warburg",N,N,"",0,551,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+48026,"Wetaskiwin","Wetaskiwin"," 9","Breton",N,N,"",0,329,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 9","Breton",N,N,"",0,329,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,163
+48026,"Wetaskiwin","Wetaskiwin"," 9","Breton",N,N,"",0,329,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 9","Breton",N,N,"",0,329,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 10","Breton",N,N,"",1,536,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 10","Breton",N,N,"",1,536,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,179
+48026,"Wetaskiwin","Wetaskiwin"," 10","Breton",N,N,"",1,536,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 10","Breton",N,N,"",1,536,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48026,"Wetaskiwin","Wetaskiwin"," 11","Alder Flats",N,N,"",0,430,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 11","Alder Flats",N,N,"",0,430,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,216
+48026,"Wetaskiwin","Wetaskiwin"," 11","Alder Flats",N,N,"",0,430,"Johnston","","Robert","Green Party","Parti Vert",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 11","Alder Flats",N,N,"",0,430,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 12","Buck Lake",N,N,"",1,506,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 12","Buck Lake",N,N,"",1,506,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,266
+48026,"Wetaskiwin","Wetaskiwin"," 12","Buck Lake",N,N,"",1,506,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 12","Buck Lake",N,N,"",1,506,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 13","Winfield",N,N,"",0,504,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 13","Winfield",N,N,"",0,504,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,255
+48026,"Wetaskiwin","Wetaskiwin"," 13","Winfield",N,N,"",0,504,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 13","Winfield",N,N,"",0,504,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 14","Yeoford",N,N,"",0,198,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 14","Yeoford",N,N,"",0,198,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,119
+48026,"Wetaskiwin","Wetaskiwin"," 14","Yeoford",N,N,"",0,198,"Johnston","","Robert","Green Party","Parti Vert",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 14","Yeoford",N,N,"",0,198,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 15","Winfield",N,N,"",0,290,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 15","Winfield",N,N,"",0,290,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,145
+48026,"Wetaskiwin","Wetaskiwin"," 15","Winfield",N,N,"",0,290,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 15","Winfield",N,N,"",0,290,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 16","Mulhurst",N,N,"",0,289,"Anderson","","Christopher","Liberal","Libéral",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 16","Mulhurst",N,N,"",0,289,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,162
+48026,"Wetaskiwin","Wetaskiwin"," 16","Mulhurst",N,N,"",0,289,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 16","Mulhurst",N,N,"",0,289,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 17","Sunnybrook",N,N,"",1,363,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 17","Sunnybrook",N,N,"",1,363,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,187
+48026,"Wetaskiwin","Wetaskiwin"," 17","Sunnybrook",N,N,"",1,363,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 17","Sunnybrook",N,N,"",1,363,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 18","Telfordville",N,N,"",0,253,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 18","Telfordville",N,N,"",0,253,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,142
+48026,"Wetaskiwin","Wetaskiwin"," 18","Telfordville",N,N,"",0,253,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 18","Telfordville",N,N,"",0,253,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 19","Calmar",N,N,"",0,347,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 19","Calmar",N,N,"",0,347,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,196
+48026,"Wetaskiwin","Wetaskiwin"," 19","Calmar",N,N,"",0,347,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 19","Calmar",N,N,"",0,347,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 20","Thorsby",N,N,"",0,184,"Anderson","","Christopher","Liberal","Libéral",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 20","Thorsby",N,N,"",0,184,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,106
+48026,"Wetaskiwin","Wetaskiwin"," 20","Thorsby",N,N,"",0,184,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 20","Thorsby",N,N,"",0,184,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 21","Thorsby",N,N,"",0,825,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 21","Thorsby",N,N,"",0,825,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,291
+48026,"Wetaskiwin","Wetaskiwin"," 21","Thorsby",N,N,"",0,825,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 21","Thorsby",N,N,"",0,825,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+48026,"Wetaskiwin","Wetaskiwin"," 22","Thorsby",N,N,"",1,354,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 22","Thorsby",N,N,"",1,354,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,163
+48026,"Wetaskiwin","Wetaskiwin"," 22","Thorsby",N,N,"",1,354,"Johnston","","Robert","Green Party","Parti Vert",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 22","Thorsby",N,N,"",1,354,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 23","Glen Park",N,N,"",2,476,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 23","Glen Park",N,N,"",2,476,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,249
+48026,"Wetaskiwin","Wetaskiwin"," 23","Glen Park",N,N,"",2,476,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 23","Glen Park",N,N,"",2,476,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 24","Calmar",N,N,"",2,398,"Anderson","","Christopher","Liberal","Libéral",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 24","Calmar",N,N,"",2,398,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,155
+48026,"Wetaskiwin","Wetaskiwin"," 24","Calmar",N,N,"",2,398,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 24","Calmar",N,N,"",2,398,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 25","Calmar",N,N,"",0,344,"Anderson","","Christopher","Liberal","Libéral",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 25","Calmar",N,N,"",0,344,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,127
+48026,"Wetaskiwin","Wetaskiwin"," 25","Calmar",N,N,"",0,344,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 25","Calmar",N,N,"",0,344,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 26","Calmar",N,N,"",0,225,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 26","Calmar",N,N,"",0,225,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,87
+48026,"Wetaskiwin","Wetaskiwin"," 26","Calmar",N,N,"",0,225,"Johnston","","Robert","Green Party","Parti Vert",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 26","Calmar",N,N,"",0,225,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 27","Calmar",N,N,"",0,403,"Anderson","","Christopher","Liberal","Libéral",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 27","Calmar",N,N,"",0,403,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,151
+48026,"Wetaskiwin","Wetaskiwin"," 27","Calmar",N,N,"",0,403,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 27","Calmar",N,N,"",0,403,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48026,"Wetaskiwin","Wetaskiwin"," 28","Calmar",N,N,"",2,620,"Anderson","","Christopher","Liberal","Libéral",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 28","Calmar",N,N,"",2,620,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,196
+48026,"Wetaskiwin","Wetaskiwin"," 28","Calmar",N,N,"",2,620,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 28","Calmar",N,N,"",2,620,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+48026,"Wetaskiwin","Wetaskiwin"," 29","New Humble",N,N,"",0,327,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 29","New Humble",N,N,"",0,327,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,182
+48026,"Wetaskiwin","Wetaskiwin"," 29","New Humble",N,N,"",0,327,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 29","New Humble",N,N,"",0,327,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 30","Millet",N,N,"",0,333,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 30","Millet",N,N,"",0,333,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,188
+48026,"Wetaskiwin","Wetaskiwin"," 30","Millet",N,N,"",0,333,"Johnston","","Robert","Green Party","Parti Vert",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 30","Millet",N,N,"",0,333,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 31","Cloverlawn",N,N,"",0,260,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 31","Cloverlawn",N,N,"",0,260,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,130
+48026,"Wetaskiwin","Wetaskiwin"," 31","Cloverlawn",N,N,"",0,260,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 31","Cloverlawn",N,N,"",0,260,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 32","Millet",N,N,"",0,280,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 32","Millet",N,N,"",0,280,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,136
+48026,"Wetaskiwin","Wetaskiwin"," 32","Millet",N,N,"",0,280,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 32","Millet",N,N,"",0,280,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 33","Millet",N,N,"",2,219,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 33","Millet",N,N,"",2,219,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,123
+48026,"Wetaskiwin","Wetaskiwin"," 33","Millet",N,N,"",2,219,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 33","Millet",N,N,"",2,219,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 34","Cloverlawn",N,N,"",0,240,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 34","Cloverlawn",N,N,"",0,240,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,136
+48026,"Wetaskiwin","Wetaskiwin"," 34","Cloverlawn",N,N,"",0,240,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 34","Cloverlawn",N,N,"",0,240,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 35","Mulhurst",N,N,"",1,506,"Anderson","","Christopher","Liberal","Libéral",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 35","Mulhurst",N,N,"",1,506,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,289
+48026,"Wetaskiwin","Wetaskiwin"," 35","Mulhurst",N,N,"",1,506,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 35","Mulhurst",N,N,"",1,506,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 36","Port Bello",N,N,"",0,252,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 36","Port Bello",N,N,"",0,252,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,158
+48026,"Wetaskiwin","Wetaskiwin"," 36","Port Bello",N,N,"",0,252,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 36","Port Bello",N,N,"",0,252,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 37","Millet",N,N,"",0,504,"Anderson","","Christopher","Liberal","Libéral",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 37","Millet",N,N,"",0,504,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,237
+48026,"Wetaskiwin","Wetaskiwin"," 37","Millet",N,N,"",0,504,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 37","Millet",N,N,"",0,504,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 38","Millet",N,N,"",0,438,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 38","Millet",N,N,"",0,438,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,179
+48026,"Wetaskiwin","Wetaskiwin"," 38","Millet",N,N,"",0,438,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 38","Millet",N,N,"",0,438,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 39A","Millet",N,N,"",0,599,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 39A","Millet",N,N,"",0,599,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,223
+48026,"Wetaskiwin","Wetaskiwin"," 39A","Millet",N,N,"",0,599,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 39A","Millet",N,N,"",0,599,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 39B","Millet",N,N,"",1,601,"Anderson","","Christopher","Liberal","Libéral",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 39B","Millet",N,N,"",1,601,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,215
+48026,"Wetaskiwin","Wetaskiwin"," 39B","Millet",N,N,"",1,601,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 39B","Millet",N,N,"",1,601,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48026,"Wetaskiwin","Wetaskiwin"," 40","Millet",N,N,"",0,497,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 40","Millet",N,N,"",0,497,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,204
+48026,"Wetaskiwin","Wetaskiwin"," 40","Millet",N,N,"",0,497,"Johnston","","Robert","Green Party","Parti Vert",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 40","Millet",N,N,"",0,497,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48026,"Wetaskiwin","Wetaskiwin"," 41","Millet",N,N,"",0,544,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 41","Millet",N,N,"",0,544,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,260
+48026,"Wetaskiwin","Wetaskiwin"," 41","Millet",N,N,"",0,544,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 41","Millet",N,N,"",0,544,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48026,"Wetaskiwin","Wetaskiwin"," 42","Wetaskiwin",N,N,"",1,497,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 42","Wetaskiwin",N,N,"",1,497,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,243
+48026,"Wetaskiwin","Wetaskiwin"," 42","Wetaskiwin",N,N,"",1,497,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 42","Wetaskiwin",N,N,"",1,497,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 43","Gwynne",N,N,"",0,442,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 43","Gwynne",N,N,"",0,442,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,216
+48026,"Wetaskiwin","Wetaskiwin"," 43","Gwynne",N,N,"",0,442,"Johnston","","Robert","Green Party","Parti Vert",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 43","Gwynne",N,N,"",0,442,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48026,"Wetaskiwin","Wetaskiwin"," 44","Wetaskiwin",N,N,"",1,514,"Anderson","","Christopher","Liberal","Libéral",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 44","Wetaskiwin",N,N,"",1,514,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,162
+48026,"Wetaskiwin","Wetaskiwin"," 44","Wetaskiwin",N,N,"",1,514,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 44","Wetaskiwin",N,N,"",1,514,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+48026,"Wetaskiwin","Wetaskiwin"," 45","Wetaskiwin",N,N,"",1,401,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 45","Wetaskiwin",N,N,"",1,401,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,163
+48026,"Wetaskiwin","Wetaskiwin"," 45","Wetaskiwin",N,N,"",1,401,"Johnston","","Robert","Green Party","Parti Vert",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 45","Wetaskiwin",N,N,"",1,401,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 46","Wetaskiwin",N,N,"",2,501,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 46","Wetaskiwin",N,N,"",2,501,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,162
+48026,"Wetaskiwin","Wetaskiwin"," 46","Wetaskiwin",N,N,"",2,501,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 46","Wetaskiwin",N,N,"",2,501,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+48026,"Wetaskiwin","Wetaskiwin"," 47","Wetaskiwin",N,N,"",0,249,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 47","Wetaskiwin",N,N,"",0,249,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,112
+48026,"Wetaskiwin","Wetaskiwin"," 47","Wetaskiwin",N,N,"",0,249,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 47","Wetaskiwin",N,N,"",0,249,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 48","Wetaskiwin",N,N,"",0,443,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 48","Wetaskiwin",N,N,"",0,443,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,132
+48026,"Wetaskiwin","Wetaskiwin"," 48","Wetaskiwin",N,N,"",0,443,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 48","Wetaskiwin",N,N,"",0,443,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48026,"Wetaskiwin","Wetaskiwin"," 49","Wetaskiwin",N,N,"",0,315,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 49","Wetaskiwin",N,N,"",0,315,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,94
+48026,"Wetaskiwin","Wetaskiwin"," 49","Wetaskiwin",N,N,"",0,315,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 49","Wetaskiwin",N,N,"",0,315,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48026,"Wetaskiwin","Wetaskiwin"," 50","Wetaskiwin",N,N,"",1,365,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 50","Wetaskiwin",N,N,"",1,365,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,125
+48026,"Wetaskiwin","Wetaskiwin"," 50","Wetaskiwin",N,N,"",1,365,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 50","Wetaskiwin",N,N,"",1,365,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+48026,"Wetaskiwin","Wetaskiwin"," 51","Wetaskiwin",N,N,"",0,341,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 51","Wetaskiwin",N,N,"",0,341,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,105
+48026,"Wetaskiwin","Wetaskiwin"," 51","Wetaskiwin",N,N,"",0,341,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 51","Wetaskiwin",N,N,"",0,341,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 52","Wetaskiwin",N,N,"",1,495,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 52","Wetaskiwin",N,N,"",1,495,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,134
+48026,"Wetaskiwin","Wetaskiwin"," 52","Wetaskiwin",N,N,"",1,495,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 52","Wetaskiwin",N,N,"",1,495,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48026,"Wetaskiwin","Wetaskiwin"," 53","Wetaskiwin",N,N,"",0,381,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 53","Wetaskiwin",N,N,"",0,381,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,71
+48026,"Wetaskiwin","Wetaskiwin"," 53","Wetaskiwin",N,N,"",0,381,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 53","Wetaskiwin",N,N,"",0,381,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 54","Wetaskiwin",N,N,"",0,378,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 54","Wetaskiwin",N,N,"",0,378,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,114
+48026,"Wetaskiwin","Wetaskiwin"," 54","Wetaskiwin",N,N,"",0,378,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 54","Wetaskiwin",N,N,"",0,378,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 55","Wetaskiwin",N,N,"",0,481,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 55","Wetaskiwin",N,N,"",0,481,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,135
+48026,"Wetaskiwin","Wetaskiwin"," 55","Wetaskiwin",N,N,"",0,481,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 55","Wetaskiwin",N,N,"",0,481,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48026,"Wetaskiwin","Wetaskiwin"," 56","Wetaskiwin",N,N,"",0,444,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 56","Wetaskiwin",N,N,"",0,444,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,136
+48026,"Wetaskiwin","Wetaskiwin"," 56","Wetaskiwin",N,N,"",0,444,"Johnston","","Robert","Green Party","Parti Vert",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 56","Wetaskiwin",N,N,"",0,444,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48026,"Wetaskiwin","Wetaskiwin"," 57","Wetaskiwin",N,N,"",2,631,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 57","Wetaskiwin",N,N,"",2,631,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,219
+48026,"Wetaskiwin","Wetaskiwin"," 57","Wetaskiwin",N,N,"",2,631,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 57","Wetaskiwin",N,N,"",2,631,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+48026,"Wetaskiwin","Wetaskiwin"," 58","Wetaskiwin",N,N,"",1,467,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 58","Wetaskiwin",N,N,"",1,467,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,206
+48026,"Wetaskiwin","Wetaskiwin"," 58","Wetaskiwin",N,N,"",1,467,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 58","Wetaskiwin",N,N,"",1,467,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+48026,"Wetaskiwin","Wetaskiwin"," 59","Wetaskiwin",N,N,"",1,521,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 59","Wetaskiwin",N,N,"",1,521,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,231
+48026,"Wetaskiwin","Wetaskiwin"," 59","Wetaskiwin",N,N,"",1,521,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 59","Wetaskiwin",N,N,"",1,521,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+48026,"Wetaskiwin","Wetaskiwin"," 60","Wetaskiwin",N,N,"",0,355,"Anderson","","Christopher","Liberal","Libéral",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 60","Wetaskiwin",N,N,"",0,355,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,166
+48026,"Wetaskiwin","Wetaskiwin"," 60","Wetaskiwin",N,N,"",0,355,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 60","Wetaskiwin",N,N,"",0,355,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 61","Wetaskiwin",N,N,"",1,645,"Anderson","","Christopher","Liberal","Libéral",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 61","Wetaskiwin",N,N,"",1,645,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,312
+48026,"Wetaskiwin","Wetaskiwin"," 61","Wetaskiwin",N,N,"",1,645,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 61","Wetaskiwin",N,N,"",1,645,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 62","Wetaskiwin",N,N,"",1,511,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 62","Wetaskiwin",N,N,"",1,511,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,190
+48026,"Wetaskiwin","Wetaskiwin"," 62","Wetaskiwin",N,N,"",1,511,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 62","Wetaskiwin",N,N,"",1,511,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48026,"Wetaskiwin","Wetaskiwin"," 63","Wetaskiwin",N,N,"",0,300,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 63","Wetaskiwin",N,N,"",0,300,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,162
+48026,"Wetaskiwin","Wetaskiwin"," 63","Wetaskiwin",N,N,"",0,300,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 63","Wetaskiwin",N,N,"",0,300,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 64","Wetaskiwin",N,N,"",0,319,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 64","Wetaskiwin",N,N,"",0,319,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,149
+48026,"Wetaskiwin","Wetaskiwin"," 64","Wetaskiwin",N,N,"",0,319,"Johnston","","Robert","Green Party","Parti Vert",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 64","Wetaskiwin",N,N,"",0,319,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 65","Loneridge",N,N,"",1,357,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 65","Loneridge",N,N,"",1,357,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,203
+48026,"Wetaskiwin","Wetaskiwin"," 65","Loneridge",N,N,"",1,357,"Johnston","","Robert","Green Party","Parti Vert",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 65","Loneridge",N,N,"",1,357,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 66","Falun",N,N,"",0,219,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 66","Falun",N,N,"",0,219,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,122
+48026,"Wetaskiwin","Wetaskiwin"," 66","Falun",N,N,"",0,219,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 66","Falun",N,N,"",0,219,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 67","Ma-Me-O Beach",N,N,"",0,947,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 67","Ma-Me-O Beach",N,N,"",0,947,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,129
+48026,"Wetaskiwin","Wetaskiwin"," 67","Ma-Me-O Beach",N,N,"",0,947,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 67","Ma-Me-O Beach",N,N,"",0,947,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48026,"Wetaskiwin","Wetaskiwin"," 68A","Lakedell",N,N,"",0,354,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 68A","Lakedell",N,N,"",0,354,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,178
+48026,"Wetaskiwin","Wetaskiwin"," 68A","Lakedell",N,N,"",0,354,"Johnston","","Robert","Green Party","Parti Vert",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 68A","Lakedell",N,N,"",0,354,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 68B","Lakedell",N,N,"",0,343,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 68B","Lakedell",N,N,"",0,343,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,158
+48026,"Wetaskiwin","Wetaskiwin"," 68B","Lakedell",N,N,"",0,343,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 68B","Lakedell",N,N,"",0,343,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 69","Fletcher",N,N,"",1,282,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 69","Fletcher",N,N,"",1,282,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,149
+48026,"Wetaskiwin","Wetaskiwin"," 69","Fletcher",N,N,"",1,282,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 69","Fletcher",N,N,"",1,282,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 70","Angus Ridge",N,N,"",1,216,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 70","Angus Ridge",N,N,"",1,216,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,131
+48026,"Wetaskiwin","Wetaskiwin"," 70","Angus Ridge",N,N,"",1,216,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 70","Angus Ridge",N,N,"",1,216,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 71","Haultain",N,N,"",0,244,"Anderson","","Christopher","Liberal","Libéral",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 71","Haultain",N,N,"",0,244,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,138
+48026,"Wetaskiwin","Wetaskiwin"," 71","Haultain",N,N,"",0,244,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 71","Haultain",N,N,"",0,244,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 72","Mecca Glen East",N,N,"",0,171,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 72","Mecca Glen East",N,N,"",0,171,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,111
+48026,"Wetaskiwin","Wetaskiwin"," 72","Mecca Glen East",N,N,"",0,171,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 72","Mecca Glen East",N,N,"",0,171,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 73","Mecca Glen",N,N,"",0,461,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 73","Mecca Glen",N,N,"",0,461,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,259
+48026,"Wetaskiwin","Wetaskiwin"," 73","Mecca Glen",N,N,"",0,461,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 73","Mecca Glen",N,N,"",0,461,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 74","Ponoka County No. 3",N,N,"",0,514,"Anderson","","Christopher","Liberal","Libéral",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 74","Ponoka County No. 3",N,N,"",0,514,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,286
+48026,"Wetaskiwin","Wetaskiwin"," 74","Ponoka County No. 3",N,N,"",0,514,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 74","Ponoka County No. 3",N,N,"",0,514,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48026,"Wetaskiwin","Wetaskiwin"," 75","Ponoka County No. 3",N,N,"",0,407,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 75","Ponoka County No. 3",N,N,"",0,407,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,205
+48026,"Wetaskiwin","Wetaskiwin"," 75","Ponoka County No. 3",N,N,"",0,407,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 75","Ponoka County No. 3",N,N,"",0,407,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 76","Ponoka",Y,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 76","Ponoka",Y,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,0
+48026,"Wetaskiwin","Wetaskiwin"," 76","Ponoka",Y,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 76","Ponoka",Y,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 77","Ponoka",N,N,"",3,595,"Anderson","","Christopher","Liberal","Libéral",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 77","Ponoka",N,N,"",3,595,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,210
+48026,"Wetaskiwin","Wetaskiwin"," 77","Ponoka",N,N,"",3,595,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 77","Ponoka",N,N,"",3,595,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+48026,"Wetaskiwin","Wetaskiwin"," 78","Ponoka",N,N,"",0,469,"Anderson","","Christopher","Liberal","Libéral",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 78","Ponoka",N,N,"",0,469,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,178
+48026,"Wetaskiwin","Wetaskiwin"," 78","Ponoka",N,N,"",0,469,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 78","Ponoka",N,N,"",0,469,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+48026,"Wetaskiwin","Wetaskiwin"," 79","Ponoka",N,N,"",0,475,"Anderson","","Christopher","Liberal","Libéral",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 79","Ponoka",N,N,"",0,475,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,170
+48026,"Wetaskiwin","Wetaskiwin"," 79","Ponoka",N,N,"",0,475,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 79","Ponoka",N,N,"",0,475,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+48026,"Wetaskiwin","Wetaskiwin"," 80","Ponoka",N,N,"",0,450,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 80","Ponoka",N,N,"",0,450,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,186
+48026,"Wetaskiwin","Wetaskiwin"," 80","Ponoka",N,N,"",0,450,"Johnston","","Robert","Green Party","Parti Vert",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 80","Ponoka",N,N,"",0,450,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48026,"Wetaskiwin","Wetaskiwin"," 81","Ponoka",N,N,"",0,440,"Anderson","","Christopher","Liberal","Libéral",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 81","Ponoka",N,N,"",0,440,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,182
+48026,"Wetaskiwin","Wetaskiwin"," 81","Ponoka",N,N,"",0,440,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 81","Ponoka",N,N,"",0,440,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48026,"Wetaskiwin","Wetaskiwin"," 82","Ponoka",N,N,"",2,453,"Anderson","","Christopher","Liberal","Libéral",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 82","Ponoka",N,N,"",2,453,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,186
+48026,"Wetaskiwin","Wetaskiwin"," 82","Ponoka",N,N,"",2,453,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 82","Ponoka",N,N,"",2,453,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+48026,"Wetaskiwin","Wetaskiwin"," 83","Ponoka",N,N,"",0,458,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 83","Ponoka",N,N,"",0,458,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,153
+48026,"Wetaskiwin","Wetaskiwin"," 83","Ponoka",N,N,"",0,458,"Johnston","","Robert","Green Party","Parti Vert",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 83","Ponoka",N,N,"",0,458,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+48026,"Wetaskiwin","Wetaskiwin"," 84","Ponoka",N,N,"",1,288,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 84","Ponoka",N,N,"",1,288,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,89
+48026,"Wetaskiwin","Wetaskiwin"," 84","Ponoka",N,N,"",1,288,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 84","Ponoka",N,N,"",1,288,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 85","Ponoka",N,N,"",0,226,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 85","Ponoka",N,N,"",0,226,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,83
+48026,"Wetaskiwin","Wetaskiwin"," 85","Ponoka",N,N,"",0,226,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 85","Ponoka",N,N,"",0,226,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 86","Ponoka",N,N,"",0,477,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 86","Ponoka",N,N,"",0,477,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,173
+48026,"Wetaskiwin","Wetaskiwin"," 86","Ponoka",N,N,"",0,477,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 86","Ponoka",N,N,"",0,477,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+48026,"Wetaskiwin","Wetaskiwin"," 87","Ponoka",N,N,"",1,366,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 87","Ponoka",N,N,"",1,366,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,157
+48026,"Wetaskiwin","Wetaskiwin"," 87","Ponoka",N,N,"",1,366,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 87","Ponoka",N,N,"",1,366,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 88","Ponoka",N,N,"",0,340,"Anderson","","Christopher","Liberal","Libéral",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 88","Ponoka",N,N,"",0,340,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,135
+48026,"Wetaskiwin","Wetaskiwin"," 88","Ponoka",N,N,"",0,340,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 88","Ponoka",N,N,"",0,340,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48026,"Wetaskiwin","Wetaskiwin"," 89","Dakota",N,N,"",0,341,"Anderson","","Christopher","Liberal","Libéral",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 89","Dakota",N,N,"",0,341,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,119
+48026,"Wetaskiwin","Wetaskiwin"," 89","Dakota",N,N,"",0,341,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 89","Dakota",N,N,"",0,341,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 90","Ponoka County No. 3",N,N,"",1,527,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 90","Ponoka County No. 3",N,N,"",1,527,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,268
+48026,"Wetaskiwin","Wetaskiwin"," 90","Ponoka County No. 3",N,N,"",1,527,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 90","Ponoka County No. 3",N,N,"",1,527,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 91","Ponoka County No. 3",N,N,"",0,706,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 91","Ponoka County No. 3",N,N,"",0,706,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,344
+48026,"Wetaskiwin","Wetaskiwin"," 91","Ponoka County No. 3",N,N,"",0,706,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 91","Ponoka County No. 3",N,N,"",0,706,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+48026,"Wetaskiwin","Wetaskiwin"," 92","Crestomere",N,N,"",2,582,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 92","Crestomere",N,N,"",2,582,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,294
+48026,"Wetaskiwin","Wetaskiwin"," 92","Crestomere",N,N,"",2,582,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 92","Crestomere",N,N,"",2,582,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48026,"Wetaskiwin","Wetaskiwin"," 93","Homeglen",N,N,"",0,237,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 93","Homeglen",N,N,"",0,237,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,106
+48026,"Wetaskiwin","Wetaskiwin"," 93","Homeglen",N,N,"",0,237,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 93","Homeglen",N,N,"",0,237,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 94","Hoadley",N,N,"",1,332,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 94","Hoadley",N,N,"",1,332,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,169
+48026,"Wetaskiwin","Wetaskiwin"," 94","Hoadley",N,N,"",1,332,"Johnston","","Robert","Green Party","Parti Vert",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 94","Hoadley",N,N,"",1,332,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 95","Bluffton",N,N,"",0,425,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 95","Bluffton",N,N,"",0,425,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,164
+48026,"Wetaskiwin","Wetaskiwin"," 95","Bluffton",N,N,"",0,425,"Johnston","","Robert","Green Party","Parti Vert",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 95","Bluffton",N,N,"",0,425,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 96","Last West",N,N,"",3,517,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 96","Last West",N,N,"",3,517,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,266
+48026,"Wetaskiwin","Wetaskiwin"," 96","Last West",N,N,"",3,517,"Johnston","","Robert","Green Party","Parti Vert",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 96","Last West",N,N,"",3,517,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 97","Rimbey",N,N,"",0,453,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 97","Rimbey",N,N,"",0,453,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,240
+48026,"Wetaskiwin","Wetaskiwin"," 97","Rimbey",N,N,"",0,453,"Johnston","","Robert","Green Party","Parti Vert",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 97","Rimbey",N,N,"",0,453,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48026,"Wetaskiwin","Wetaskiwin"," 98","Rimbey",N,N,"",1,698,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 98","Rimbey",N,N,"",1,698,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,341
+48026,"Wetaskiwin","Wetaskiwin"," 98","Rimbey",N,N,"",1,698,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 98","Rimbey",N,N,"",1,698,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 99","Rimbey",N,N,"",0,460,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 99","Rimbey",N,N,"",0,460,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,204
+48026,"Wetaskiwin","Wetaskiwin"," 99","Rimbey",N,N,"",0,460,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 99","Rimbey",N,N,"",0,460,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+48026,"Wetaskiwin","Wetaskiwin"," 100","Rimbey",N,N,"",0,372,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 100","Rimbey",N,N,"",0,372,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,143
+48026,"Wetaskiwin","Wetaskiwin"," 100","Rimbey",N,N,"",0,372,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 100","Rimbey",N,N,"",0,372,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 101","Rimbey",N,N,"",2,533,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 101","Rimbey",N,N,"",2,533,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,164
+48026,"Wetaskiwin","Wetaskiwin"," 101","Rimbey",N,N,"",2,533,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 101","Rimbey",N,N,"",2,533,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 102","Rimbey",N,N,"",2,480,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 102","Rimbey",N,N,"",2,480,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,213
+48026,"Wetaskiwin","Wetaskiwin"," 102","Rimbey",N,N,"",2,480,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 102","Rimbey",N,N,"",2,480,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48026,"Wetaskiwin","Wetaskiwin"," 103","Bentley",N,N,"",0,472,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 103","Bentley",N,N,"",0,472,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,235
+48026,"Wetaskiwin","Wetaskiwin"," 103","Bentley",N,N,"",0,472,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 103","Bentley",N,N,"",0,472,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 104A","Bentley",N,N,"",1,392,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 104A","Bentley",N,N,"",1,392,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,160
+48026,"Wetaskiwin","Wetaskiwin"," 104A","Bentley",N,N,"",1,392,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 104A","Bentley",N,N,"",1,392,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48026,"Wetaskiwin","Wetaskiwin"," 104B","Bentley",N,N,"",0,345,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 104B","Bentley",N,N,"",0,345,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,118
+48026,"Wetaskiwin","Wetaskiwin"," 104B","Bentley",N,N,"",0,345,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 104B","Bentley",N,N,"",0,345,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 105","Bentley",N,N,"",0,405,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 105","Bentley",N,N,"",0,405,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,185
+48026,"Wetaskiwin","Wetaskiwin"," 105","Bentley",N,N,"",0,405,"Johnston","","Robert","Green Party","Parti Vert",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 105","Bentley",N,N,"",0,405,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+48026,"Wetaskiwin","Wetaskiwin"," 106","Birchcliff",N,N,"",0,391,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 106","Birchcliff",N,N,"",0,391,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,178
+48026,"Wetaskiwin","Wetaskiwin"," 106","Birchcliff",N,N,"",0,391,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 106","Birchcliff",N,N,"",0,391,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+48026,"Wetaskiwin","Wetaskiwin"," 107","Eckville",N,N,"",1,411,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 107","Eckville",N,N,"",1,411,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,213
+48026,"Wetaskiwin","Wetaskiwin"," 107","Eckville",N,N,"",1,411,"Johnston","","Robert","Green Party","Parti Vert",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 107","Eckville",N,N,"",1,411,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 108","Eckville",N,N,"",0,369,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 108","Eckville",N,N,"",0,369,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,192
+48026,"Wetaskiwin","Wetaskiwin"," 108","Eckville",N,N,"",0,369,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 108","Eckville",N,N,"",0,369,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 109","Eckville",N,N,"",0,536,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 109","Eckville",N,N,"",0,536,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,185
+48026,"Wetaskiwin","Wetaskiwin"," 109","Eckville",N,N,"",0,536,"Johnston","","Robert","Green Party","Parti Vert",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 109","Eckville",N,N,"",0,536,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48026,"Wetaskiwin","Wetaskiwin"," 110","Gilby",N,N,"",1,299,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 110","Gilby",N,N,"",1,299,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,166
+48026,"Wetaskiwin","Wetaskiwin"," 110","Gilby",N,N,"",1,299,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 110","Gilby",N,N,"",1,299,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 111","County of Clearwater",N,N,"",0,326,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 111","County of Clearwater",N,N,"",0,326,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,159
+48026,"Wetaskiwin","Wetaskiwin"," 111","County of Clearwater",N,N,"",0,326,"Johnston","","Robert","Green Party","Parti Vert",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 111","County of Clearwater",N,N,"",0,326,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 112","Leslieville",N,N,"",0,542,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 112","Leslieville",N,N,"",0,542,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,269
+48026,"Wetaskiwin","Wetaskiwin"," 112","Leslieville",N,N,"",0,542,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 112","Leslieville",N,N,"",0,542,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 113","Condor",N,N,"",0,386,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 113","Condor",N,N,"",0,386,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,199
+48026,"Wetaskiwin","Wetaskiwin"," 113","Condor",N,N,"",0,386,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 113","Condor",N,N,"",0,386,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 114","Leslieville",N,N,"",0,431,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 114","Leslieville",N,N,"",0,431,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,239
+48026,"Wetaskiwin","Wetaskiwin"," 114","Leslieville",N,N,"",0,431,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 114","Leslieville",N,N,"",0,431,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 115","County of Clearwater",N,N,"",2,522,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 115","County of Clearwater",N,N,"",2,522,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,199
+48026,"Wetaskiwin","Wetaskiwin"," 115","County of Clearwater",N,N,"",2,522,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 115","County of Clearwater",N,N,"",2,522,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 116","Rocky Mountain House",N,N,"",0,523,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 116","Rocky Mountain House",N,N,"",0,523,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,262
+48026,"Wetaskiwin","Wetaskiwin"," 116","Rocky Mountain House",N,N,"",0,523,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 116","Rocky Mountain House",N,N,"",0,523,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 117","Rocky Mountain House",N,N,"",0,556,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 117","Rocky Mountain House",N,N,"",0,556,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,306
+48026,"Wetaskiwin","Wetaskiwin"," 117","Rocky Mountain House",N,N,"",0,556,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 117","Rocky Mountain House",N,N,"",0,556,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 118A","Rocky Mountain House",N,N,"",3,569,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 118A","Rocky Mountain House",N,N,"",3,569,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,278
+48026,"Wetaskiwin","Wetaskiwin"," 118A","Rocky Mountain House",N,N,"",3,569,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 118A","Rocky Mountain House",N,N,"",3,569,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 118B","Rocky Mountain House",N,N,"",0,513,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 118B","Rocky Mountain House",N,N,"",0,513,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,256
+48026,"Wetaskiwin","Wetaskiwin"," 118B","Rocky Mountain House",N,N,"",0,513,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 118B","Rocky Mountain House",N,N,"",0,513,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 119","Hardindell",N,N,"",1,386,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 119","Hardindell",N,N,"",1,386,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,180
+48026,"Wetaskiwin","Wetaskiwin"," 119","Hardindell",N,N,"",1,386,"Johnston","","Robert","Green Party","Parti Vert",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 119","Hardindell",N,N,"",1,386,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 120","Rocky Mountain House",N,N,"",0,452,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 120","Rocky Mountain House",N,N,"",0,452,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,254
+48026,"Wetaskiwin","Wetaskiwin"," 120","Rocky Mountain House",N,N,"",0,452,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 120","Rocky Mountain House",N,N,"",0,452,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 121","Rocky Mountain House",N,N,"",1,517,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 121","Rocky Mountain House",N,N,"",1,517,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,248
+48026,"Wetaskiwin","Wetaskiwin"," 121","Rocky Mountain House",N,N,"",1,517,"Johnston","","Robert","Green Party","Parti Vert",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 121","Rocky Mountain House",N,N,"",1,517,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 122","Rocky Mountain House",N,N,"",0,566,"Anderson","","Christopher","Liberal","Libéral",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 122","Rocky Mountain House",N,N,"",0,566,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,266
+48026,"Wetaskiwin","Wetaskiwin"," 122","Rocky Mountain House",N,N,"",0,566,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 122","Rocky Mountain House",N,N,"",0,566,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 123","Rocky Mountain House",N,N,"",0,544,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 123","Rocky Mountain House",N,N,"",0,544,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,249
+48026,"Wetaskiwin","Wetaskiwin"," 123","Rocky Mountain House",N,N,"",0,544,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 123","Rocky Mountain House",N,N,"",0,544,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48026,"Wetaskiwin","Wetaskiwin"," 124","Rocky Mountain House",N,N,"",2,409,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 124","Rocky Mountain House",N,N,"",2,409,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,124
+48026,"Wetaskiwin","Wetaskiwin"," 124","Rocky Mountain House",N,N,"",2,409,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 124","Rocky Mountain House",N,N,"",2,409,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 125","Rocky Mountain House",N,N,"",1,495,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 125","Rocky Mountain House",N,N,"",1,495,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,157
+48026,"Wetaskiwin","Wetaskiwin"," 125","Rocky Mountain House",N,N,"",1,495,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 125","Rocky Mountain House",N,N,"",1,495,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 126","Rocky Mountain House",N,N,"",0,201,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 126","Rocky Mountain House",N,N,"",0,201,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,90
+48026,"Wetaskiwin","Wetaskiwin"," 126","Rocky Mountain House",N,N,"",0,201,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 126","Rocky Mountain House",N,N,"",0,201,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 127","Rocky Mountain House",N,N,"",0,522,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 127","Rocky Mountain House",N,N,"",0,522,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,168
+48026,"Wetaskiwin","Wetaskiwin"," 127","Rocky Mountain House",N,N,"",0,522,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 127","Rocky Mountain House",N,N,"",0,522,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48026,"Wetaskiwin","Wetaskiwin"," 128","Rocky Mountain House",N,N,"",1,438,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 128","Rocky Mountain House",N,N,"",1,438,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,113
+48026,"Wetaskiwin","Wetaskiwin"," 128","Rocky Mountain House",N,N,"",1,438,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 128","Rocky Mountain House",N,N,"",1,438,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 129","Rocky Mountain House",N,N,"",0,502,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 129","Rocky Mountain House",N,N,"",0,502,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,120
+48026,"Wetaskiwin","Wetaskiwin"," 129","Rocky Mountain House",N,N,"",0,502,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 129","Rocky Mountain House",N,N,"",0,502,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 130","Rocky Mountain House",N,N,"",0,552,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 130","Rocky Mountain House",N,N,"",0,552,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,190
+48026,"Wetaskiwin","Wetaskiwin"," 130","Rocky Mountain House",N,N,"",0,552,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 130","Rocky Mountain House",N,N,"",0,552,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 131","Rocky Mountain House",N,N,"",0,381,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 131","Rocky Mountain House",N,N,"",0,381,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,102
+48026,"Wetaskiwin","Wetaskiwin"," 131","Rocky Mountain House",N,N,"",0,381,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 131","Rocky Mountain House",N,N,"",0,381,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 132","Rocky Mountain House",N,N,"",0,710,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 132","Rocky Mountain House",N,N,"",0,710,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,224
+48026,"Wetaskiwin","Wetaskiwin"," 132","Rocky Mountain House",N,N,"",0,710,"Johnston","","Robert","Green Party","Parti Vert",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 132","Rocky Mountain House",N,N,"",0,710,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 133","Eckville",N,N,"",2,455,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 133","Eckville",N,N,"",2,455,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,262
+48026,"Wetaskiwin","Wetaskiwin"," 133","Eckville",N,N,"",2,455,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 133","Eckville",N,N,"",2,455,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 134","Gull Lake",N,N,"",4,407,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 134","Gull Lake",N,N,"",4,407,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,193
+48026,"Wetaskiwin","Wetaskiwin"," 134","Gull Lake",N,N,"",4,407,"Johnston","","Robert","Green Party","Parti Vert",N,N,18
+48026,"Wetaskiwin","Wetaskiwin"," 134","Gull Lake",N,N,"",4,407,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 135","Lacombe County",N,N,"",0,394,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 135","Lacombe County",N,N,"",0,394,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,223
+48026,"Wetaskiwin","Wetaskiwin"," 135","Lacombe County",N,N,"",0,394,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 135","Lacombe County",N,N,"",0,394,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 136","Lacombe County",N,N,"",2,548,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 136","Lacombe County",N,N,"",2,548,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,301
+48026,"Wetaskiwin","Wetaskiwin"," 136","Lacombe County",N,N,"",2,548,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 136","Lacombe County",N,N,"",2,548,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 137","Blackfalds",N,N,"",0,300,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 137","Blackfalds",N,N,"",0,300,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,192
+48026,"Wetaskiwin","Wetaskiwin"," 137","Blackfalds",N,N,"",0,300,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 137","Blackfalds",N,N,"",0,300,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 138","Blackfalds",N,N,"",0,508,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 138","Blackfalds",N,N,"",0,508,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,169
+48026,"Wetaskiwin","Wetaskiwin"," 138","Blackfalds",N,N,"",0,508,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 138","Blackfalds",N,N,"",0,508,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 139A","Blackfalds",N,N,"",0,633,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 139A","Blackfalds",N,N,"",0,633,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,177
+48026,"Wetaskiwin","Wetaskiwin"," 139A","Blackfalds",N,N,"",0,633,"Johnston","","Robert","Green Party","Parti Vert",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 139A","Blackfalds",N,N,"",0,633,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+48026,"Wetaskiwin","Wetaskiwin"," 139B","Blackfalds",N,N,"",0,685,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 139B","Blackfalds",N,N,"",0,685,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,207
+48026,"Wetaskiwin","Wetaskiwin"," 139B","Blackfalds",N,N,"",0,685,"Johnston","","Robert","Green Party","Parti Vert",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 139B","Blackfalds",N,N,"",0,685,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48026,"Wetaskiwin","Wetaskiwin"," 140A","Blackfalds",N,N,"",2,764,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 140A","Blackfalds",N,N,"",2,764,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,214
+48026,"Wetaskiwin","Wetaskiwin"," 140A","Blackfalds",N,N,"",2,764,"Johnston","","Robert","Green Party","Parti Vert",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 140A","Blackfalds",N,N,"",2,764,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+48026,"Wetaskiwin","Wetaskiwin"," 140B","Blackfalds",N,N,"",1,708,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 140B","Blackfalds",N,N,"",1,708,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,187
+48026,"Wetaskiwin","Wetaskiwin"," 140B","Blackfalds",N,N,"",1,708,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 140B","Blackfalds",N,N,"",1,708,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+48026,"Wetaskiwin","Wetaskiwin"," 141","Blackfalds",N,N,"",3,851,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 141","Blackfalds",N,N,"",3,851,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,307
+48026,"Wetaskiwin","Wetaskiwin"," 141","Blackfalds",N,N,"",3,851,"Johnston","","Robert","Green Party","Parti Vert",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 141","Blackfalds",N,N,"",3,851,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+48026,"Wetaskiwin","Wetaskiwin"," 142","Blackfalds",N,N,"",0,381,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 142","Blackfalds",N,N,"",0,381,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,168
+48026,"Wetaskiwin","Wetaskiwin"," 142","Blackfalds",N,N,"",0,381,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 142","Blackfalds",N,N,"",0,381,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 143","Lacombe County",N,N,"",0,376,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 143","Lacombe County",N,N,"",0,376,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,198
+48026,"Wetaskiwin","Wetaskiwin"," 143","Lacombe County",N,N,"",0,376,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 143","Lacombe County",N,N,"",0,376,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 144","Lacombe",N,N,"",0,537,"Anderson","","Christopher","Liberal","Libéral",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 144","Lacombe",N,N,"",0,537,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,181
+48026,"Wetaskiwin","Wetaskiwin"," 144","Lacombe",N,N,"",0,537,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 144","Lacombe",N,N,"",0,537,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48026,"Wetaskiwin","Wetaskiwin"," 144-1","Lacombe County",N,N,"",0,397,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 144-1","Lacombe County",N,N,"",0,397,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,164
+48026,"Wetaskiwin","Wetaskiwin"," 144-1","Lacombe County",N,N,"",0,397,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 144-1","Lacombe County",N,N,"",0,397,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 145","Lacombe",N,N,"",0,516,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 145","Lacombe",N,N,"",0,516,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,178
+48026,"Wetaskiwin","Wetaskiwin"," 145","Lacombe",N,N,"",0,516,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 145","Lacombe",N,N,"",0,516,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48026,"Wetaskiwin","Wetaskiwin"," 146","Lacombe",N,N,"",0,366,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 146","Lacombe",N,N,"",0,366,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,195
+48026,"Wetaskiwin","Wetaskiwin"," 146","Lacombe",N,N,"",0,366,"Johnston","","Robert","Green Party","Parti Vert",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 146","Lacombe",N,N,"",0,366,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 147","Lacombe",N,N,"",1,432,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 147","Lacombe",N,N,"",1,432,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,184
+48026,"Wetaskiwin","Wetaskiwin"," 147","Lacombe",N,N,"",1,432,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 147","Lacombe",N,N,"",1,432,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48026,"Wetaskiwin","Wetaskiwin"," 148","Lacombe",N,N,"",1,351,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 148","Lacombe",N,N,"",1,351,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,164
+48026,"Wetaskiwin","Wetaskiwin"," 148","Lacombe",N,N,"",1,351,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 148","Lacombe",N,N,"",1,351,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 149","Lacombe",N,N,"",1,589,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 149","Lacombe",N,N,"",1,589,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,286
+48026,"Wetaskiwin","Wetaskiwin"," 149","Lacombe",N,N,"",1,589,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 149","Lacombe",N,N,"",1,589,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48026,"Wetaskiwin","Wetaskiwin"," 149-1","Lacombe",N,N,"",0,387,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 149-1","Lacombe",N,N,"",0,387,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,157
+48026,"Wetaskiwin","Wetaskiwin"," 149-1","Lacombe",N,N,"",0,387,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 149-1","Lacombe",N,N,"",0,387,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+48026,"Wetaskiwin","Wetaskiwin"," 150","Lacombe",N,N,"",0,489,"Anderson","","Christopher","Liberal","Libéral",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 150","Lacombe",N,N,"",0,489,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,216
+48026,"Wetaskiwin","Wetaskiwin"," 150","Lacombe",N,N,"",0,489,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 150","Lacombe",N,N,"",0,489,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+48026,"Wetaskiwin","Wetaskiwin"," 151","Lacombe",N,N,"",0,506,"Anderson","","Christopher","Liberal","Libéral",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 151","Lacombe",N,N,"",0,506,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,220
+48026,"Wetaskiwin","Wetaskiwin"," 151","Lacombe",N,N,"",0,506,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 151","Lacombe",N,N,"",0,506,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+48026,"Wetaskiwin","Wetaskiwin"," 151-1","Lacombe",N,N,"",0,365,"Anderson","","Christopher","Liberal","Libéral",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 151-1","Lacombe",N,N,"",0,365,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,149
+48026,"Wetaskiwin","Wetaskiwin"," 151-1","Lacombe",N,N,"",0,365,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 151-1","Lacombe",N,N,"",0,365,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 152","Lacombe",N,N,"",0,339,"Anderson","","Christopher","Liberal","Libéral",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 152","Lacombe",N,N,"",0,339,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,154
+48026,"Wetaskiwin","Wetaskiwin"," 152","Lacombe",N,N,"",0,339,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 152","Lacombe",N,N,"",0,339,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 153","Lacombe",N,N,"",0,423,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 153","Lacombe",N,N,"",0,423,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,155
+48026,"Wetaskiwin","Wetaskiwin"," 153","Lacombe",N,N,"",0,423,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 153","Lacombe",N,N,"",0,423,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 154","Lacombe",N,N,"",0,542,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 154","Lacombe",N,N,"",0,542,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,219
+48026,"Wetaskiwin","Wetaskiwin"," 154","Lacombe",N,N,"",0,542,"Johnston","","Robert","Green Party","Parti Vert",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 154","Lacombe",N,N,"",0,542,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48026,"Wetaskiwin","Wetaskiwin"," 155","Lacombe",N,N,"",0,314,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 155","Lacombe",N,N,"",0,314,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,88
+48026,"Wetaskiwin","Wetaskiwin"," 155","Lacombe",N,N,"",0,314,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 155","Lacombe",N,N,"",0,314,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 156","Lacombe",N,N,"",0,371,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 156","Lacombe",N,N,"",0,371,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,134
+48026,"Wetaskiwin","Wetaskiwin"," 156","Lacombe",N,N,"",0,371,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 156","Lacombe",N,N,"",0,371,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48026,"Wetaskiwin","Wetaskiwin"," 157","Lacombe",N,N,"",0,384,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 157","Lacombe",N,N,"",0,384,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,151
+48026,"Wetaskiwin","Wetaskiwin"," 157","Lacombe",N,N,"",0,384,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 157","Lacombe",N,N,"",0,384,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48026,"Wetaskiwin","Wetaskiwin"," 158","Lacombe",N,N,"",0,392,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 158","Lacombe",N,N,"",0,392,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,162
+48026,"Wetaskiwin","Wetaskiwin"," 158","Lacombe",N,N,"",0,392,"Johnston","","Robert","Green Party","Parti Vert",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 158","Lacombe",N,N,"",0,392,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 159","Lacombe",N,N,"",0,642,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 159","Lacombe",N,N,"",0,642,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,246
+48026,"Wetaskiwin","Wetaskiwin"," 159","Lacombe",N,N,"",0,642,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 159","Lacombe",N,N,"",0,642,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+48026,"Wetaskiwin","Wetaskiwin"," 160","Lacombe County",N,N,"",0,660,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 160","Lacombe County",N,N,"",0,660,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,315
+48026,"Wetaskiwin","Wetaskiwin"," 160","Lacombe County",N,N,"",0,660,"Johnston","","Robert","Green Party","Parti Vert",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 160","Lacombe County",N,N,"",0,660,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48026,"Wetaskiwin","Wetaskiwin"," 161","Clive",N,N,"",1,315,"Anderson","","Christopher","Liberal","Libéral",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 161","Clive",N,N,"",1,315,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,156
+48026,"Wetaskiwin","Wetaskiwin"," 161","Clive",N,N,"",1,315,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 161","Clive",N,N,"",1,315,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 162","Clive",N,N,"",1,629,"Anderson","","Christopher","Liberal","Libéral",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 162","Clive",N,N,"",1,629,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,298
+48026,"Wetaskiwin","Wetaskiwin"," 162","Clive",N,N,"",1,629,"Johnston","","Robert","Green Party","Parti Vert",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 162","Clive",N,N,"",1,629,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+48026,"Wetaskiwin","Wetaskiwin"," 163","Haynes",N,N,"",1,389,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 163","Haynes",N,N,"",1,389,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,185
+48026,"Wetaskiwin","Wetaskiwin"," 163","Haynes",N,N,"",1,389,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 163","Haynes",N,N,"",1,389,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 164","Mirror",N,N,"",0,515,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 164","Mirror",N,N,"",0,515,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,290
+48026,"Wetaskiwin","Wetaskiwin"," 164","Mirror",N,N,"",0,515,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 164","Mirror",N,N,"",0,515,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 165","Mirror",N,N,"",0,403,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 165","Mirror",N,N,"",0,403,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,183
+48026,"Wetaskiwin","Wetaskiwin"," 165","Mirror",N,N,"",0,403,"Johnston","","Robert","Green Party","Parti Vert",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 165","Mirror",N,N,"",0,403,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48026,"Wetaskiwin","Wetaskiwin"," 166","Alix",N,N,"",0,291,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 166","Alix",N,N,"",0,291,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,134
+48026,"Wetaskiwin","Wetaskiwin"," 166","Alix",N,N,"",0,291,"Johnston","","Robert","Green Party","Parti Vert",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 166","Alix",N,N,"",0,291,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 167","Alix",N,N,"",0,394,"Anderson","","Christopher","Liberal","Libéral",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 167","Alix",N,N,"",0,394,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,167
+48026,"Wetaskiwin","Wetaskiwin"," 167","Alix",N,N,"",0,394,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 167","Alix",N,N,"",0,394,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48026,"Wetaskiwin","Wetaskiwin"," 168","Alix",N,N,"",0,339,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 168","Alix",N,N,"",0,339,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,186
+48026,"Wetaskiwin","Wetaskiwin"," 168","Alix",N,N,"",0,339,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 168","Alix",N,N,"",0,339,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 169","Louis Bull 138B",N,N,"",0,344,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 169","Louis Bull 138B",N,N,"",0,344,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,20
+48026,"Wetaskiwin","Wetaskiwin"," 169","Louis Bull 138B",N,N,"",0,344,"Johnston","","Robert","Green Party","Parti Vert",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 169","Louis Bull 138B",N,N,"",0,344,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48026,"Wetaskiwin","Wetaskiwin"," 170","Ermineskin 138",N,N,"",0,638,"Anderson","","Christopher","Liberal","Libéral",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," 170","Ermineskin 138",N,N,"",0,638,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,30
+48026,"Wetaskiwin","Wetaskiwin"," 170","Ermineskin 138",N,N,"",0,638,"Johnston","","Robert","Green Party","Parti Vert",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 170","Ermineskin 138",N,N,"",0,638,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,150
+48026,"Wetaskiwin","Wetaskiwin"," 171A","Samson 137",N,N,"",0,685,"Anderson","","Christopher","Liberal","Libéral",N,N,19
+48026,"Wetaskiwin","Wetaskiwin"," 171A","Samson 137",N,N,"",0,685,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,42
+48026,"Wetaskiwin","Wetaskiwin"," 171A","Samson 137",N,N,"",0,685,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 171A","Samson 137",N,N,"",0,685,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,127
+48026,"Wetaskiwin","Wetaskiwin"," 171B","Samson 137",N,N,"",1,710,"Anderson","","Christopher","Liberal","Libéral",N,N,20
+48026,"Wetaskiwin","Wetaskiwin"," 171B","Samson 137",N,N,"",1,710,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,31
+48026,"Wetaskiwin","Wetaskiwin"," 171B","Samson 137",N,N,"",1,710,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 171B","Samson 137",N,N,"",1,710,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+48026,"Wetaskiwin","Wetaskiwin"," 172","Montana 139",N,N,"",0,105,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 172","Montana 139",N,N,"",0,105,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,2
+48026,"Wetaskiwin","Wetaskiwin"," 172","Montana 139",N,N,"",0,105,"Johnston","","Robert","Green Party","Parti Vert",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 172","Montana 139",N,N,"",0,105,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 400","Ponoka",N,N,"",2,116,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 400","Ponoka",N,N,"",2,116,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,30
+48026,"Wetaskiwin","Wetaskiwin"," 400","Ponoka",N,N,"",2,116,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 400","Ponoka",N,N,"",2,116,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 500","Mobile poll/Bureau itinérant",N,N,"",3,176,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 500","Mobile poll/Bureau itinérant",N,N,"",3,176,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,87
+48026,"Wetaskiwin","Wetaskiwin"," 500","Mobile poll/Bureau itinérant",N,N,"",3,176,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 500","Mobile poll/Bureau itinérant",N,N,"",3,176,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 501","Mobile poll/Bureau itinérant",N,N,"",0,142,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 501","Mobile poll/Bureau itinérant",N,N,"",0,142,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,57
+48026,"Wetaskiwin","Wetaskiwin"," 501","Mobile poll/Bureau itinérant",N,N,"",0,142,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 501","Mobile poll/Bureau itinérant",N,N,"",0,142,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 502","Mobile poll/Bureau itinérant",N,N,"",3,108,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 502","Mobile poll/Bureau itinérant",N,N,"",3,108,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,56
+48026,"Wetaskiwin","Wetaskiwin"," 502","Mobile poll/Bureau itinérant",N,N,"",3,108,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 502","Mobile poll/Bureau itinérant",N,N,"",3,108,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 503","Mobile poll/Bureau itinérant",N,N,"",0,195,"Anderson","","Christopher","Liberal","Libéral",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 503","Mobile poll/Bureau itinérant",N,N,"",0,195,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,98
+48026,"Wetaskiwin","Wetaskiwin"," 503","Mobile poll/Bureau itinérant",N,N,"",0,195,"Johnston","","Robert","Green Party","Parti Vert",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 503","Mobile poll/Bureau itinérant",N,N,"",0,195,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 504","Mobile poll/Bureau itinérant",N,N,"",2,199,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 504","Mobile poll/Bureau itinérant",N,N,"",2,199,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,101
+48026,"Wetaskiwin","Wetaskiwin"," 504","Mobile poll/Bureau itinérant",N,N,"",2,199,"Johnston","","Robert","Green Party","Parti Vert",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 504","Mobile poll/Bureau itinérant",N,N,"",2,199,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 505","Mobile poll/Bureau itinérant",N,N,"",0,116,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 505","Mobile poll/Bureau itinérant",N,N,"",0,116,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,55
+48026,"Wetaskiwin","Wetaskiwin"," 505","Mobile poll/Bureau itinérant",N,N,"",0,116,"Johnston","","Robert","Green Party","Parti Vert",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 505","Mobile poll/Bureau itinérant",N,N,"",0,116,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 506","Mobile poll/Bureau itinérant",N,N,"",0,142,"Anderson","","Christopher","Liberal","Libéral",N,N,1
+48026,"Wetaskiwin","Wetaskiwin"," 506","Mobile poll/Bureau itinérant",N,N,"",0,142,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,25
+48026,"Wetaskiwin","Wetaskiwin"," 506","Mobile poll/Bureau itinérant",N,N,"",0,142,"Johnston","","Robert","Green Party","Parti Vert",N,N,0
+48026,"Wetaskiwin","Wetaskiwin"," 506","Mobile poll/Bureau itinérant",N,N,"",0,142,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48026,"Wetaskiwin","Wetaskiwin"," 507","Mobile poll/Bureau itinérant",N,N,"",0,126,"Anderson","","Christopher","Liberal","Libéral",N,N,8
+48026,"Wetaskiwin","Wetaskiwin"," 507","Mobile poll/Bureau itinérant",N,N,"",0,126,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,83
+48026,"Wetaskiwin","Wetaskiwin"," 507","Mobile poll/Bureau itinérant",N,N,"",0,126,"Johnston","","Robert","Green Party","Parti Vert",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 507","Mobile poll/Bureau itinérant",N,N,"",0,126,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 600","Breton",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,7
+48026,"Wetaskiwin","Wetaskiwin"," 600","Breton",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,190
+48026,"Wetaskiwin","Wetaskiwin"," 600","Breton",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 600","Breton",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48026,"Wetaskiwin","Wetaskiwin"," 601","Calmar",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 601","Calmar",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,201
+48026,"Wetaskiwin","Wetaskiwin"," 601","Calmar",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 601","Calmar",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48026,"Wetaskiwin","Wetaskiwin"," 602","Pigeon Lake",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,2
+48026,"Wetaskiwin","Wetaskiwin"," 602","Pigeon Lake",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,156
+48026,"Wetaskiwin","Wetaskiwin"," 602","Pigeon Lake",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 602","Pigeon Lake",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 603","Millet",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 603","Millet",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,313
+48026,"Wetaskiwin","Wetaskiwin"," 603","Millet",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 603","Millet",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48026,"Wetaskiwin","Wetaskiwin"," 604","Wetaskiwin",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," 604","Wetaskiwin",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,291
+48026,"Wetaskiwin","Wetaskiwin"," 604","Wetaskiwin",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 604","Wetaskiwin",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48026,"Wetaskiwin","Wetaskiwin"," 605","Wetaskiwin",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,17
+48026,"Wetaskiwin","Wetaskiwin"," 605","Wetaskiwin",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,398
+48026,"Wetaskiwin","Wetaskiwin"," 605","Wetaskiwin",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 605","Wetaskiwin",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+48026,"Wetaskiwin","Wetaskiwin"," 606","Hobbema",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 606","Hobbema",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,10
+48026,"Wetaskiwin","Wetaskiwin"," 606","Hobbema",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,3
+48026,"Wetaskiwin","Wetaskiwin"," 606","Hobbema",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 607","Ponoka",N,N,"",1,0,"Anderson","","Christopher","Liberal","Libéral",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," 607","Ponoka",N,N,"",1,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,280
+48026,"Wetaskiwin","Wetaskiwin"," 607","Ponoka",N,N,"",1,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 607","Ponoka",N,N,"",1,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+48026,"Wetaskiwin","Wetaskiwin"," 608","Rimbey",N,N,"",2,0,"Anderson","","Christopher","Liberal","Libéral",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 608","Rimbey",N,N,"",2,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,416
+48026,"Wetaskiwin","Wetaskiwin"," 608","Rimbey",N,N,"",2,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," 608","Rimbey",N,N,"",2,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+48026,"Wetaskiwin","Wetaskiwin"," 609","Rocky Mountain House",N,N,"",1,0,"Anderson","","Christopher","Liberal","Libéral",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 609","Rocky Mountain House",N,N,"",1,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,357
+48026,"Wetaskiwin","Wetaskiwin"," 609","Rocky Mountain House",N,N,"",1,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 609","Rocky Mountain House",N,N,"",1,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48026,"Wetaskiwin","Wetaskiwin"," 610","Rocky Mountain House",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,11
+48026,"Wetaskiwin","Wetaskiwin"," 610","Rocky Mountain House",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,313
+48026,"Wetaskiwin","Wetaskiwin"," 610","Rocky Mountain House",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 610","Rocky Mountain House",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48026,"Wetaskiwin","Wetaskiwin"," 611","Blackfalds",N,N,"",1,0,"Anderson","","Christopher","Liberal","Libéral",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 611","Blackfalds",N,N,"",1,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,219
+48026,"Wetaskiwin","Wetaskiwin"," 611","Blackfalds",N,N,"",1,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," 611","Blackfalds",N,N,"",1,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48026,"Wetaskiwin","Wetaskiwin"," 612","Lacombe",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,15
+48026,"Wetaskiwin","Wetaskiwin"," 612","Lacombe",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,357
+48026,"Wetaskiwin","Wetaskiwin"," 612","Lacombe",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,26
+48026,"Wetaskiwin","Wetaskiwin"," 612","Lacombe",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+48026,"Wetaskiwin","Wetaskiwin"," 613","Lacombe",N,N,"",1,0,"Anderson","","Christopher","Liberal","Libéral",N,N,14
+48026,"Wetaskiwin","Wetaskiwin"," 613","Lacombe",N,N,"",1,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,330
+48026,"Wetaskiwin","Wetaskiwin"," 613","Lacombe",N,N,"",1,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,10
+48026,"Wetaskiwin","Wetaskiwin"," 613","Lacombe",N,N,"",1,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48026,"Wetaskiwin","Wetaskiwin"," 614","Ponoka",N,N,"",0,0,"Anderson","","Christopher","Liberal","Libéral",N,N,4
+48026,"Wetaskiwin","Wetaskiwin"," 614","Ponoka",N,N,"",0,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,201
+48026,"Wetaskiwin","Wetaskiwin"," 614","Ponoka",N,N,"",0,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,6
+48026,"Wetaskiwin","Wetaskiwin"," 614","Ponoka",N,N,"",0,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48026,"Wetaskiwin","Wetaskiwin"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,158,"Anderson","","Christopher","Liberal","Libéral",N,N,49
+48026,"Wetaskiwin","Wetaskiwin"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,158,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,39
+48026,"Wetaskiwin","Wetaskiwin"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,158,"Johnston","","Robert","Green Party","Parti Vert",N,N,9
+48026,"Wetaskiwin","Wetaskiwin"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,158,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48026,"Wetaskiwin","Wetaskiwin"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"Anderson","","Christopher","Liberal","Libéral",N,N,27
+48026,"Wetaskiwin","Wetaskiwin"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"Calkins","","Blaine","Conservative","Conservateur",Y,Y,320
+48026,"Wetaskiwin","Wetaskiwin"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"Johnston","","Robert","Green Party","Parti Vert",N,N,23
+48026,"Wetaskiwin","Wetaskiwin"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"Robson","","Tim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39

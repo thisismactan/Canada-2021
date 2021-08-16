@@ -1,0 +1,925 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,311,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,311,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,311,"Kerr","","Greg","Conservative","Conservateur",Y,Y,79
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,311,"Thibault","","Robert","Liberal","Libéral",N,N,43
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",0,275,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",0,275,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",0,275,"Kerr","","Greg","Conservative","Conservateur",Y,Y,72
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",0,275,"Thibault","","Robert","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,316,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,316,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,316,"Kerr","","Greg","Conservative","Conservateur",Y,Y,91
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,316,"Thibault","","Robert","Liberal","Libéral",N,N,27
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",0,376,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",0,376,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",0,376,"Kerr","","Greg","Conservative","Conservateur",Y,Y,102
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",0,376,"Thibault","","Robert","Liberal","Libéral",N,N,90
+12011,"West Nova","Nova-Ouest"," 5","Somerset",N,N,"",0,274,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 5","Somerset",N,N,"",0,274,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 5","Somerset",N,N,"",0,274,"Kerr","","Greg","Conservative","Conservateur",Y,Y,84
+12011,"West Nova","Nova-Ouest"," 5","Somerset",N,N,"",0,274,"Thibault","","Robert","Liberal","Libéral",N,N,36
+12011,"West Nova","Nova-Ouest"," 6","Morristown",N,N,"",1,462,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12011,"West Nova","Nova-Ouest"," 6","Morristown",N,N,"",1,462,"Johnson","","Ross","Green Party","Parti Vert",N,N,14
+12011,"West Nova","Nova-Ouest"," 6","Morristown",N,N,"",1,462,"Kerr","","Greg","Conservative","Conservateur",Y,Y,140
+12011,"West Nova","Nova-Ouest"," 6","Morristown",N,N,"",1,462,"Thibault","","Robert","Liberal","Libéral",N,N,52
+12011,"West Nova","Nova-Ouest"," 7","Berwick West",N,N,"",1,293,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 7","Berwick West",N,N,"",1,293,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 7","Berwick West",N,N,"",1,293,"Kerr","","Greg","Conservative","Conservateur",Y,Y,56
+12011,"West Nova","Nova-Ouest"," 7","Berwick West",N,N,"",1,293,"Thibault","","Robert","Liberal","Libéral",N,N,33
+12011,"West Nova","Nova-Ouest"," 8","South Berwick",N,N,"",0,404,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12011,"West Nova","Nova-Ouest"," 8","South Berwick",N,N,"",0,404,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 8","South Berwick",N,N,"",0,404,"Kerr","","Greg","Conservative","Conservateur",Y,Y,93
+12011,"West Nova","Nova-Ouest"," 8","South Berwick",N,N,"",0,404,"Thibault","","Robert","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",1,340,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",1,340,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",1,340,"Kerr","","Greg","Conservative","Conservateur",Y,Y,83
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",1,340,"Thibault","","Robert","Liberal","Libéral",N,N,25
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",3,408,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",3,408,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",3,408,"Kerr","","Greg","Conservative","Conservateur",Y,Y,80
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",3,408,"Thibault","","Robert","Liberal","Libéral",N,N,35
+12011,"West Nova","Nova-Ouest"," 11","Waterville",Y,N,"",0,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 11","Waterville",Y,N,"",0,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 11","Waterville",Y,N,"",0,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 11","Waterville",Y,N,"",0,0,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 12","Waterville",N,N,"",2,432,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12011,"West Nova","Nova-Ouest"," 12","Waterville",N,N,"",2,432,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 12","Waterville",N,N,"",2,432,"Kerr","","Greg","Conservative","Conservateur",Y,Y,103
+12011,"West Nova","Nova-Ouest"," 12","Waterville",N,N,"",2,432,"Thibault","","Robert","Liberal","Libéral",N,N,51
+12011,"West Nova","Nova-Ouest"," 13","North Alton",Y,N,"",0,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 13","North Alton",Y,N,"",0,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 13","North Alton",Y,N,"",0,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 13","North Alton",Y,N,"",0,0,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 14","East Dalhousie",N,N,"",0,152,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 14","East Dalhousie",N,N,"",0,152,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 14","East Dalhousie",N,N,"",0,152,"Kerr","","Greg","Conservative","Conservateur",Y,Y,41
+12011,"West Nova","Nova-Ouest"," 14","East Dalhousie",N,N,"",0,152,"Thibault","","Robert","Liberal","Libéral",N,N,31
+12011,"West Nova","Nova-Ouest"," 15","Berwick",N,N,"",0,465,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12011,"West Nova","Nova-Ouest"," 15","Berwick",N,N,"",0,465,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," 15","Berwick",N,N,"",0,465,"Kerr","","Greg","Conservative","Conservateur",Y,Y,116
+12011,"West Nova","Nova-Ouest"," 15","Berwick",N,N,"",0,465,"Thibault","","Robert","Liberal","Libéral",N,N,89
+12011,"West Nova","Nova-Ouest"," 16","Berwick",N,N,"",0,373,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12011,"West Nova","Nova-Ouest"," 16","Berwick",N,N,"",0,373,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 16","Berwick",N,N,"",0,373,"Kerr","","Greg","Conservative","Conservateur",Y,Y,88
+12011,"West Nova","Nova-Ouest"," 16","Berwick",N,N,"",0,373,"Thibault","","Robert","Liberal","Libéral",N,N,66
+12011,"West Nova","Nova-Ouest"," 17","Berwick",N,N,"",0,350,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 17","Berwick",N,N,"",0,350,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 17","Berwick",N,N,"",0,350,"Kerr","","Greg","Conservative","Conservateur",Y,Y,79
+12011,"West Nova","Nova-Ouest"," 17","Berwick",N,N,"",0,350,"Thibault","","Robert","Liberal","Libéral",N,N,57
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",0,379,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",0,379,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",0,379,"Kerr","","Greg","Conservative","Conservateur",Y,Y,87
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",0,379,"Thibault","","Robert","Liberal","Libéral",N,N,49
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",1,380,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",1,380,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",1,380,"Kerr","","Greg","Conservative","Conservateur",Y,Y,84
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",1,380,"Thibault","","Robert","Liberal","Libéral",N,N,31
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",5,189,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",5,189,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",5,189,"Kerr","","Greg","Conservative","Conservateur",Y,Y,40
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",5,189,"Thibault","","Robert","Liberal","Libéral",N,N,33
+12011,"West Nova","Nova-Ouest"," 21","Morden",N,N,"",0,398,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 21","Morden",N,N,"",0,398,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 21","Morden",N,N,"",0,398,"Kerr","","Greg","Conservative","Conservateur",Y,Y,100
+12011,"West Nova","Nova-Ouest"," 21","Morden",N,N,"",0,398,"Thibault","","Robert","Liberal","Libéral",N,N,55
+12011,"West Nova","Nova-Ouest"," 22","Aylesford",N,N,"",3,504,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 22","Aylesford",N,N,"",3,504,"Johnson","","Ross","Green Party","Parti Vert",N,N,14
+12011,"West Nova","Nova-Ouest"," 22","Aylesford",N,N,"",3,504,"Kerr","","Greg","Conservative","Conservateur",Y,Y,144
+12011,"West Nova","Nova-Ouest"," 22","Aylesford",N,N,"",3,504,"Thibault","","Robert","Liberal","Libéral",N,N,77
+12011,"West Nova","Nova-Ouest"," 23","Aylesford",N,N,"",1,409,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 23","Aylesford",N,N,"",1,409,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 23","Aylesford",N,N,"",1,409,"Kerr","","Greg","Conservative","Conservateur",Y,Y,102
+12011,"West Nova","Nova-Ouest"," 23","Aylesford",N,N,"",1,409,"Thibault","","Robert","Liberal","Libéral",N,N,69
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",0,360,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",0,360,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",0,360,"Kerr","","Greg","Conservative","Conservateur",Y,Y,85
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",0,360,"Thibault","","Robert","Liberal","Libéral",N,N,67
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",0,278,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",0,278,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",0,278,"Kerr","","Greg","Conservative","Conservateur",Y,Y,76
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",0,278,"Thibault","","Robert","Liberal","Libéral",N,N,49
+12011,"West Nova","Nova-Ouest"," 25-1","Kings Subd. A",N,N,"",0,487,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12011,"West Nova","Nova-Ouest"," 25-1","Kings Subd. A",N,N,"",0,487,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 25-1","Kings Subd. A",N,N,"",0,487,"Kerr","","Greg","Conservative","Conservateur",Y,Y,133
+12011,"West Nova","Nova-Ouest"," 25-1","Kings Subd. A",N,N,"",0,487,"Thibault","","Robert","Liberal","Libéral",N,N,95
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,396,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,396,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,396,"Kerr","","Greg","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,396,"Thibault","","Robert","Liberal","Libéral",N,N,55
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",1,388,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",1,388,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",1,388,"Kerr","","Greg","Conservative","Conservateur",Y,Y,92
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",1,388,"Thibault","","Robert","Liberal","Libéral",N,N,92
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,456,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,456,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,456,"Kerr","","Greg","Conservative","Conservateur",Y,Y,114
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,456,"Thibault","","Robert","Liberal","Libéral",N,N,73
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,455,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,455,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,455,"Kerr","","Greg","Conservative","Conservateur",Y,Y,96
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,455,"Thibault","","Robert","Liberal","Libéral",N,N,72
+12011,"West Nova","Nova-Ouest"," 30","Greenwood",N,N,"",0,288,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12011,"West Nova","Nova-Ouest"," 30","Greenwood",N,N,"",0,288,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 30","Greenwood",N,N,"",0,288,"Kerr","","Greg","Conservative","Conservateur",Y,Y,62
+12011,"West Nova","Nova-Ouest"," 30","Greenwood",N,N,"",0,288,"Thibault","","Robert","Liberal","Libéral",N,N,23
+12011,"West Nova","Nova-Ouest"," 31","Kingston",N,N,"",0,372,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 31","Kingston",N,N,"",0,372,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 31","Kingston",N,N,"",0,372,"Kerr","","Greg","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 31","Kingston",N,N,"",0,372,"Thibault","","Robert","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,481,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,481,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,481,"Kerr","","Greg","Conservative","Conservateur",Y,Y,122
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,481,"Thibault","","Robert","Liberal","Libéral",N,N,18
+12011,"West Nova","Nova-Ouest"," 32-1","Kings Subd. A",Y,N,"",0,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 32-1","Kings Subd. A",Y,N,"",0,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 32-1","Kings Subd. A",Y,N,"",0,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 32-1","Kings Subd. A",Y,N,"",0,0,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 33","Greenwood",N,N,"",1,373,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 33","Greenwood",N,N,"",1,373,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 33","Greenwood",N,N,"",1,373,"Kerr","","Greg","Conservative","Conservateur",Y,Y,78
+12011,"West Nova","Nova-Ouest"," 33","Greenwood",N,N,"",1,373,"Thibault","","Robert","Liberal","Libéral",N,N,35
+12011,"West Nova","Nova-Ouest"," 34","Greenwood",N,N,"",2,291,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 34","Greenwood",N,N,"",2,291,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 34","Greenwood",N,N,"",2,291,"Kerr","","Greg","Conservative","Conservateur",Y,Y,83
+12011,"West Nova","Nova-Ouest"," 34","Greenwood",N,N,"",2,291,"Thibault","","Robert","Liberal","Libéral",N,N,20
+12011,"West Nova","Nova-Ouest"," 35","Greenwood",N,N,"",2,523,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 35","Greenwood",N,N,"",2,523,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 35","Greenwood",N,N,"",2,523,"Kerr","","Greg","Conservative","Conservateur",Y,Y,149
+12011,"West Nova","Nova-Ouest"," 35","Greenwood",N,N,"",2,523,"Thibault","","Robert","Liberal","Libéral",N,N,94
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",2,294,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",2,294,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",2,294,"Kerr","","Greg","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",2,294,"Thibault","","Robert","Liberal","Libéral",N,N,27
+12011,"West Nova","Nova-Ouest"," 37","Greenwood",N,N,"",1,492,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12011,"West Nova","Nova-Ouest"," 37","Greenwood",N,N,"",1,492,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 37","Greenwood",N,N,"",1,492,"Kerr","","Greg","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 37","Greenwood",N,N,"",1,492,"Thibault","","Robert","Liberal","Libéral",N,N,76
+12011,"West Nova","Nova-Ouest"," 38","Auburn",N,N,"",1,421,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12011,"West Nova","Nova-Ouest"," 38","Auburn",N,N,"",1,421,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 38","Auburn",N,N,"",1,421,"Kerr","","Greg","Conservative","Conservateur",Y,Y,116
+12011,"West Nova","Nova-Ouest"," 38","Auburn",N,N,"",1,421,"Thibault","","Robert","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 39","Auburn",N,N,"",0,475,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12011,"West Nova","Nova-Ouest"," 39","Auburn",N,N,"",0,475,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," 39","Auburn",N,N,"",0,475,"Kerr","","Greg","Conservative","Conservateur",Y,Y,117
+12011,"West Nova","Nova-Ouest"," 39","Auburn",N,N,"",0,475,"Thibault","","Robert","Liberal","Libéral",N,N,77
+12011,"West Nova","Nova-Ouest"," 40","Morristown",N,N,"",1,377,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 40","Morristown",N,N,"",1,377,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 40","Morristown",N,N,"",1,377,"Kerr","","Greg","Conservative","Conservateur",Y,Y,103
+12011,"West Nova","Nova-Ouest"," 40","Morristown",N,N,"",1,377,"Thibault","","Robert","Liberal","Libéral",N,N,52
+12011,"West Nova","Nova-Ouest"," 41","Port George",N,N,"",0,310,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12011,"West Nova","Nova-Ouest"," 41","Port George",N,N,"",0,310,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 41","Port George",N,N,"",0,310,"Kerr","","Greg","Conservative","Conservateur",Y,Y,74
+12011,"West Nova","Nova-Ouest"," 41","Port George",N,N,"",0,310,"Thibault","","Robert","Liberal","Libéral",N,N,65
+12011,"West Nova","Nova-Ouest"," 42","Margaretsville",N,N,"",1,379,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12011,"West Nova","Nova-Ouest"," 42","Margaretsville",N,N,"",1,379,"Johnson","","Ross","Green Party","Parti Vert",N,N,14
+12011,"West Nova","Nova-Ouest"," 42","Margaretsville",N,N,"",1,379,"Kerr","","Greg","Conservative","Conservateur",Y,Y,81
+12011,"West Nova","Nova-Ouest"," 42","Margaretsville",N,N,"",1,379,"Thibault","","Robert","Liberal","Libéral",N,N,85
+12011,"West Nova","Nova-Ouest"," 43","Melvern Square",N,N,"",1,350,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 43","Melvern Square",N,N,"",1,350,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 43","Melvern Square",N,N,"",1,350,"Kerr","","Greg","Conservative","Conservateur",Y,Y,95
+12011,"West Nova","Nova-Ouest"," 43","Melvern Square",N,N,"",1,350,"Thibault","","Robert","Liberal","Libéral",N,N,62
+12011,"West Nova","Nova-Ouest"," 44","Melvern Square",N,N,"",0,404,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 44","Melvern Square",N,N,"",0,404,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 44","Melvern Square",N,N,"",0,404,"Kerr","","Greg","Conservative","Conservateur",Y,Y,138
+12011,"West Nova","Nova-Ouest"," 44","Melvern Square",N,N,"",0,404,"Thibault","","Robert","Liberal","Libéral",N,N,79
+12011,"West Nova","Nova-Ouest"," 45","Melvern Square",N,N,"",2,360,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 45","Melvern Square",N,N,"",2,360,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 45","Melvern Square",N,N,"",2,360,"Kerr","","Greg","Conservative","Conservateur",Y,Y,105
+12011,"West Nova","Nova-Ouest"," 45","Melvern Square",N,N,"",2,360,"Thibault","","Robert","Liberal","Libéral",N,N,54
+12011,"West Nova","Nova-Ouest"," 46","Wilmot",N,N,"",2,303,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 46","Wilmot",N,N,"",2,303,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 46","Wilmot",N,N,"",2,303,"Kerr","","Greg","Conservative","Conservateur",Y,Y,71
+12011,"West Nova","Nova-Ouest"," 46","Wilmot",N,N,"",2,303,"Thibault","","Robert","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 47","Wilmot",N,N,"",1,459,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12011,"West Nova","Nova-Ouest"," 47","Wilmot",N,N,"",1,459,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 47","Wilmot",N,N,"",1,459,"Kerr","","Greg","Conservative","Conservateur",Y,Y,83
+12011,"West Nova","Nova-Ouest"," 47","Wilmot",N,N,"",1,459,"Thibault","","Robert","Liberal","Libéral",N,N,67
+12011,"West Nova","Nova-Ouest"," 48","Brooklyn",N,N,"",2,431,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12011,"West Nova","Nova-Ouest"," 48","Brooklyn",N,N,"",2,431,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 48","Brooklyn",N,N,"",2,431,"Kerr","","Greg","Conservative","Conservateur",Y,Y,113
+12011,"West Nova","Nova-Ouest"," 48","Brooklyn",N,N,"",2,431,"Thibault","","Robert","Liberal","Libéral",N,N,58
+12011,"West Nova","Nova-Ouest"," 49","Nictaux West",N,N,"",1,351,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 49","Nictaux West",N,N,"",1,351,"Johnson","","Ross","Green Party","Parti Vert",N,N,17
+12011,"West Nova","Nova-Ouest"," 49","Nictaux West",N,N,"",1,351,"Kerr","","Greg","Conservative","Conservateur",Y,Y,122
+12011,"West Nova","Nova-Ouest"," 49","Nictaux West",N,N,"",1,351,"Thibault","","Robert","Liberal","Libéral",N,N,78
+12011,"West Nova","Nova-Ouest"," 50","Nictaux",N,N,"",1,375,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 50","Nictaux",N,N,"",1,375,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 50","Nictaux",N,N,"",1,375,"Kerr","","Greg","Conservative","Conservateur",Y,Y,114
+12011,"West Nova","Nova-Ouest"," 50","Nictaux",N,N,"",1,375,"Thibault","","Robert","Liberal","Libéral",N,N,66
+12011,"West Nova","Nova-Ouest"," 51","Nictaux Falls",N,N,"",0,279,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 51","Nictaux Falls",N,N,"",0,279,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 51","Nictaux Falls",N,N,"",0,279,"Kerr","","Greg","Conservative","Conservateur",Y,Y,58
+12011,"West Nova","Nova-Ouest"," 51","Nictaux Falls",N,N,"",0,279,"Thibault","","Robert","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 51-1","Annapolis, Subd. C",N,N,"",0,236,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 51-1","Annapolis, Subd. C",N,N,"",0,236,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 51-1","Annapolis, Subd. C",N,N,"",0,236,"Kerr","","Greg","Conservative","Conservateur",Y,Y,53
+12011,"West Nova","Nova-Ouest"," 51-1","Annapolis, Subd. C",N,N,"",0,236,"Thibault","","Robert","Liberal","Libéral",N,N,29
+12011,"West Nova","Nova-Ouest"," 52A","Middleton",N,N,"",0,427,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 52A","Middleton",N,N,"",0,427,"Johnson","","Ross","Green Party","Parti Vert",N,N,14
+12011,"West Nova","Nova-Ouest"," 52A","Middleton",N,N,"",0,427,"Kerr","","Greg","Conservative","Conservateur",Y,Y,75
+12011,"West Nova","Nova-Ouest"," 52A","Middleton",N,N,"",0,427,"Thibault","","Robert","Liberal","Libéral",N,N,81
+12011,"West Nova","Nova-Ouest"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,45,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,45,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,45,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 52B","Mobile poll/Bureau itinérant",N,N,"501B",0,45,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 53","Middleton",N,N,"",0,413,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 53","Middleton",N,N,"",0,413,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 53","Middleton",N,N,"",0,413,"Kerr","","Greg","Conservative","Conservateur",Y,Y,72
+12011,"West Nova","Nova-Ouest"," 53","Middleton",N,N,"",0,413,"Thibault","","Robert","Liberal","Libéral",N,N,96
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",2,339,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",2,339,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",2,339,"Kerr","","Greg","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",2,339,"Thibault","","Robert","Liberal","Libéral",N,N,58
+12011,"West Nova","Nova-Ouest"," 55A","Middleton",N,N,"",2,303,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 55A","Middleton",N,N,"",2,303,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 55A","Middleton",N,N,"",2,303,"Kerr","","Greg","Conservative","Conservateur",Y,Y,62
+12011,"West Nova","Nova-Ouest"," 55A","Middleton",N,N,"",2,303,"Thibault","","Robert","Liberal","Libéral",N,N,57
+12011,"West Nova","Nova-Ouest"," 55B","Mobile poll/Bureau itinérant",N,N,"501B",0,8,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 55B","Mobile poll/Bureau itinérant",N,N,"501B",0,8,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 55B","Mobile poll/Bureau itinérant",N,N,"501B",0,8,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 55B","Mobile poll/Bureau itinérant",N,N,"501B",0,8,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 56","Port Lorne",N,N,"",0,199,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 56","Port Lorne",N,N,"",0,199,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 56","Port Lorne",N,N,"",0,199,"Kerr","","Greg","Conservative","Conservateur",Y,Y,34
+12011,"West Nova","Nova-Ouest"," 56","Port Lorne",N,N,"",0,199,"Thibault","","Robert","Liberal","Libéral",N,N,36
+12011,"West Nova","Nova-Ouest"," 57","Clarence East",N,N,"",0,418,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 57","Clarence East",N,N,"",0,418,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 57","Clarence East",N,N,"",0,418,"Kerr","","Greg","Conservative","Conservateur",Y,Y,100
+12011,"West Nova","Nova-Ouest"," 57","Clarence East",N,N,"",0,418,"Thibault","","Robert","Liberal","Libéral",N,N,102
+12011,"West Nova","Nova-Ouest"," 58","Lawrencetown",N,N,"",0,351,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12011,"West Nova","Nova-Ouest"," 58","Lawrencetown",N,N,"",0,351,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 58","Lawrencetown",N,N,"",0,351,"Kerr","","Greg","Conservative","Conservateur",Y,Y,101
+12011,"West Nova","Nova-Ouest"," 58","Lawrencetown",N,N,"",0,351,"Thibault","","Robert","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 59","South Williamston",N,N,"",0,261,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 59","South Williamston",N,N,"",0,261,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 59","South Williamston",N,N,"",0,261,"Kerr","","Greg","Conservative","Conservateur",Y,Y,77
+12011,"West Nova","Nova-Ouest"," 59","South Williamston",N,N,"",0,261,"Thibault","","Robert","Liberal","Libéral",N,N,48
+12011,"West Nova","Nova-Ouest"," 60","West Lawrencetown",N,N,"",1,266,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 60","West Lawrencetown",N,N,"",1,266,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 60","West Lawrencetown",N,N,"",1,266,"Kerr","","Greg","Conservative","Conservateur",Y,Y,63
+12011,"West Nova","Nova-Ouest"," 60","West Lawrencetown",N,N,"",1,266,"Thibault","","Robert","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 61","Meadowvale",N,N,"",2,281,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 61","Meadowvale",N,N,"",2,281,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 61","Meadowvale",N,N,"",2,281,"Kerr","","Greg","Conservative","Conservateur",Y,Y,93
+12011,"West Nova","Nova-Ouest"," 61","Meadowvale",N,N,"",2,281,"Thibault","","Robert","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 62","Meadowvale",N,N,"",0,301,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 62","Meadowvale",N,N,"",0,301,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 62","Meadowvale",N,N,"",0,301,"Kerr","","Greg","Conservative","Conservateur",Y,Y,64
+12011,"West Nova","Nova-Ouest"," 62","Meadowvale",N,N,"",0,301,"Thibault","","Robert","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 63","Torbrook",N,N,"",3,340,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 63","Torbrook",N,N,"",3,340,"Johnson","","Ross","Green Party","Parti Vert",N,N,13
+12011,"West Nova","Nova-Ouest"," 63","Torbrook",N,N,"",3,340,"Kerr","","Greg","Conservative","Conservateur",Y,Y,92
+12011,"West Nova","Nova-Ouest"," 63","Torbrook",N,N,"",3,340,"Thibault","","Robert","Liberal","Libéral",N,N,52
+12011,"West Nova","Nova-Ouest"," 64","Albany",N,N,"",0,180,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 64","Albany",N,N,"",0,180,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 64","Albany",N,N,"",0,180,"Kerr","","Greg","Conservative","Conservateur",Y,Y,56
+12011,"West Nova","Nova-Ouest"," 64","Albany",N,N,"",0,180,"Thibault","","Robert","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 65","Springfield",N,N,"",1,351,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12011,"West Nova","Nova-Ouest"," 65","Springfield",N,N,"",1,351,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 65","Springfield",N,N,"",1,351,"Kerr","","Greg","Conservative","Conservateur",Y,Y,88
+12011,"West Nova","Nova-Ouest"," 65","Springfield",N,N,"",1,351,"Thibault","","Robert","Liberal","Libéral",N,N,70
+12011,"West Nova","Nova-Ouest"," 66","Hampton",N,N,"",0,232,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 66","Hampton",N,N,"",0,232,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 66","Hampton",N,N,"",0,232,"Kerr","","Greg","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 66","Hampton",N,N,"",0,232,"Thibault","","Robert","Liberal","Libéral",N,N,55
+12011,"West Nova","Nova-Ouest"," 67","Clarence West",N,N,"",2,306,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 67","Clarence West",N,N,"",2,306,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 67","Clarence West",N,N,"",2,306,"Kerr","","Greg","Conservative","Conservateur",Y,Y,58
+12011,"West Nova","Nova-Ouest"," 67","Clarence West",N,N,"",2,306,"Thibault","","Robert","Liberal","Libéral",N,N,85
+12011,"West Nova","Nova-Ouest"," 68","Upper Granville",N,N,"",0,288,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 68","Upper Granville",N,N,"",0,288,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 68","Upper Granville",N,N,"",0,288,"Kerr","","Greg","Conservative","Conservateur",Y,Y,65
+12011,"West Nova","Nova-Ouest"," 68","Upper Granville",N,N,"",0,288,"Thibault","","Robert","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 69","Carleton Corner",N,N,"",0,260,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 69","Carleton Corner",N,N,"",0,260,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 69","Carleton Corner",N,N,"",0,260,"Kerr","","Greg","Conservative","Conservateur",Y,Y,63
+12011,"West Nova","Nova-Ouest"," 69","Carleton Corner",N,N,"",0,260,"Thibault","","Robert","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 70","Carleton Corner",N,N,"",2,291,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 70","Carleton Corner",N,N,"",2,291,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 70","Carleton Corner",N,N,"",2,291,"Kerr","","Greg","Conservative","Conservateur",Y,Y,67
+12011,"West Nova","Nova-Ouest"," 70","Carleton Corner",N,N,"",2,291,"Thibault","","Robert","Liberal","Libéral",N,N,67
+12011,"West Nova","Nova-Ouest"," 71","Bridgetown",N,N,"",0,439,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12011,"West Nova","Nova-Ouest"," 71","Bridgetown",N,N,"",0,439,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 71","Bridgetown",N,N,"",0,439,"Kerr","","Greg","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 71","Bridgetown",N,N,"",0,439,"Thibault","","Robert","Liberal","Libéral",N,N,103
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",0,345,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",0,345,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",0,345,"Kerr","","Greg","Conservative","Conservateur",Y,Y,66
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",0,345,"Thibault","","Robert","Liberal","Libéral",N,N,83
+12011,"West Nova","Nova-Ouest"," 73","Round Hill",N,N,"",1,331,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 73","Round Hill",N,N,"",1,331,"Johnson","","Ross","Green Party","Parti Vert",N,N,13
+12011,"West Nova","Nova-Ouest"," 73","Round Hill",N,N,"",1,331,"Kerr","","Greg","Conservative","Conservateur",Y,Y,64
+12011,"West Nova","Nova-Ouest"," 73","Round Hill",N,N,"",1,331,"Thibault","","Robert","Liberal","Libéral",N,N,89
+12011,"West Nova","Nova-Ouest"," 74","West Dalhousie",N,N,"",1,112,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 74","West Dalhousie",N,N,"",1,112,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 74","West Dalhousie",N,N,"",1,112,"Kerr","","Greg","Conservative","Conservateur",Y,Y,25
+12011,"West Nova","Nova-Ouest"," 74","West Dalhousie",N,N,"",1,112,"Thibault","","Robert","Liberal","Libéral",N,N,14
+12011,"West Nova","Nova-Ouest"," 75","Belleisle",N,N,"",2,432,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 75","Belleisle",N,N,"",2,432,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 75","Belleisle",N,N,"",2,432,"Kerr","","Greg","Conservative","Conservateur",Y,Y,108
+12011,"West Nova","Nova-Ouest"," 75","Belleisle",N,N,"",2,432,"Thibault","","Robert","Liberal","Libéral",N,N,93
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",2,250,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",2,250,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",2,250,"Kerr","","Greg","Conservative","Conservateur",Y,Y,74
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",2,250,"Thibault","","Robert","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 77","Hillsburn",N,N,"",1,339,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 77","Hillsburn",N,N,"",1,339,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 77","Hillsburn",N,N,"",1,339,"Kerr","","Greg","Conservative","Conservateur",Y,Y,109
+12011,"West Nova","Nova-Ouest"," 77","Hillsburn",N,N,"",1,339,"Thibault","","Robert","Liberal","Libéral",N,N,71
+12011,"West Nova","Nova-Ouest"," 78","Granville Ferry",N,N,"",1,423,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 78","Granville Ferry",N,N,"",1,423,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 78","Granville Ferry",N,N,"",1,423,"Kerr","","Greg","Conservative","Conservateur",Y,Y,77
+12011,"West Nova","Nova-Ouest"," 78","Granville Ferry",N,N,"",1,423,"Thibault","","Robert","Liberal","Libéral",N,N,121
+12011,"West Nova","Nova-Ouest"," 79","Port Wade",N,N,"",0,339,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 79","Port Wade",N,N,"",0,339,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 79","Port Wade",N,N,"",0,339,"Kerr","","Greg","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 79","Port Wade",N,N,"",0,339,"Thibault","","Robert","Liberal","Libéral",N,N,102
+12011,"West Nova","Nova-Ouest"," 80","Deep Brook",N,N,"",4,357,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 80","Deep Brook",N,N,"",4,357,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 80","Deep Brook",N,N,"",4,357,"Kerr","","Greg","Conservative","Conservateur",Y,Y,117
+12011,"West Nova","Nova-Ouest"," 80","Deep Brook",N,N,"",4,357,"Thibault","","Robert","Liberal","Libéral",N,N,54
+12011,"West Nova","Nova-Ouest"," 81","Clementsport",N,N,"",0,242,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 81","Clementsport",N,N,"",0,242,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 81","Clementsport",N,N,"",0,242,"Kerr","","Greg","Conservative","Conservateur",Y,Y,43
+12011,"West Nova","Nova-Ouest"," 81","Clementsport",N,N,"",0,242,"Thibault","","Robert","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 81-1","Annapolis, Subd. A",N,N,"",0,340,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12011,"West Nova","Nova-Ouest"," 81-1","Annapolis, Subd. A",N,N,"",0,340,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 81-1","Annapolis, Subd. A",N,N,"",0,340,"Kerr","","Greg","Conservative","Conservateur",Y,Y,88
+12011,"West Nova","Nova-Ouest"," 81-1","Annapolis, Subd. A",N,N,"",0,340,"Thibault","","Robert","Liberal","Libéral",N,N,53
+12011,"West Nova","Nova-Ouest"," 82","Upper Clements",N,N,"",2,414,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 82","Upper Clements",N,N,"",2,414,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 82","Upper Clements",N,N,"",2,414,"Kerr","","Greg","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 82","Upper Clements",N,N,"",2,414,"Thibault","","Robert","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 83","Mochelle",N,N,"",0,352,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 83","Mochelle",N,N,"",0,352,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 83","Mochelle",N,N,"",0,352,"Kerr","","Greg","Conservative","Conservateur",Y,Y,125
+12011,"West Nova","Nova-Ouest"," 83","Mochelle",N,N,"",0,352,"Thibault","","Robert","Liberal","Libéral",N,N,72
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",1,183,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",1,183,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",1,183,"Kerr","","Greg","Conservative","Conservateur",Y,Y,41
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",1,183,"Thibault","","Robert","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 85","Clementsvale",N,N,"",0,342,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 85","Clementsvale",N,N,"",0,342,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 85","Clementsvale",N,N,"",0,342,"Kerr","","Greg","Conservative","Conservateur",Y,Y,98
+12011,"West Nova","Nova-Ouest"," 85","Clementsvale",N,N,"",0,342,"Thibault","","Robert","Liberal","Libéral",N,N,58
+12011,"West Nova","Nova-Ouest"," 86","Bear River East",N,N,"",0,195,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 86","Bear River East",N,N,"",0,195,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 86","Bear River East",N,N,"",0,195,"Kerr","","Greg","Conservative","Conservateur",Y,Y,41
+12011,"West Nova","Nova-Ouest"," 86","Bear River East",N,N,"",0,195,"Thibault","","Robert","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 87","Bear River East",N,N,"",2,307,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 87","Bear River East",N,N,"",2,307,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 87","Bear River East",N,N,"",2,307,"Kerr","","Greg","Conservative","Conservateur",Y,Y,97
+12011,"West Nova","Nova-Ouest"," 87","Bear River East",N,N,"",2,307,"Thibault","","Robert","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 88","South Milford",N,N,"",1,169,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 88","South Milford",N,N,"",1,169,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 88","South Milford",N,N,"",1,169,"Kerr","","Greg","Conservative","Conservateur",Y,Y,52
+12011,"West Nova","Nova-Ouest"," 88","South Milford",N,N,"",1,169,"Thibault","","Robert","Liberal","Libéral",N,N,21
+12011,"West Nova","Nova-Ouest"," 89","Maitland Bridge",N,N,"",1,99,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 89","Maitland Bridge",N,N,"",1,99,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 89","Maitland Bridge",N,N,"",1,99,"Kerr","","Greg","Conservative","Conservateur",Y,Y,28
+12011,"West Nova","Nova-Ouest"," 89","Maitland Bridge",N,N,"",1,99,"Thibault","","Robert","Liberal","Libéral",N,N,35
+12011,"West Nova","Nova-Ouest"," 90","Annapolis Royal",N,N,"",1,225,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 90","Annapolis Royal",N,N,"",1,225,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 90","Annapolis Royal",N,N,"",1,225,"Kerr","","Greg","Conservative","Conservateur",Y,Y,39
+12011,"West Nova","Nova-Ouest"," 90","Annapolis Royal",N,N,"",1,225,"Thibault","","Robert","Liberal","Libéral",N,N,54
+12011,"West Nova","Nova-Ouest"," 91","Annapolis Royal",N,N,"",0,201,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 91","Annapolis Royal",N,N,"",0,201,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 91","Annapolis Royal",N,N,"",0,201,"Kerr","","Greg","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 91","Annapolis Royal",N,N,"",0,201,"Thibault","","Robert","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 92","Westport",N,N,"",1,191,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12011,"West Nova","Nova-Ouest"," 92","Westport",N,N,"",1,191,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 92","Westport",N,N,"",1,191,"Kerr","","Greg","Conservative","Conservateur",Y,Y,52
+12011,"West Nova","Nova-Ouest"," 92","Westport",N,N,"",1,191,"Thibault","","Robert","Liberal","Libéral",N,N,24
+12011,"West Nova","Nova-Ouest"," 93","Freeport",N,N,"",1,242,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12011,"West Nova","Nova-Ouest"," 93","Freeport",N,N,"",1,242,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 93","Freeport",N,N,"",1,242,"Kerr","","Greg","Conservative","Conservateur",Y,Y,71
+12011,"West Nova","Nova-Ouest"," 93","Freeport",N,N,"",1,242,"Thibault","","Robert","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 94","Tiverton",N,N,"",1,183,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 94","Tiverton",N,N,"",1,183,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 94","Tiverton",N,N,"",1,183,"Kerr","","Greg","Conservative","Conservateur",Y,Y,39
+12011,"West Nova","Nova-Ouest"," 94","Tiverton",N,N,"",1,183,"Thibault","","Robert","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 95","East Ferry",N,N,"",0,219,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 95","East Ferry",N,N,"",0,219,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 95","East Ferry",N,N,"",0,219,"Kerr","","Greg","Conservative","Conservateur",Y,Y,62
+12011,"West Nova","Nova-Ouest"," 95","East Ferry",N,N,"",0,219,"Thibault","","Robert","Liberal","Libéral",N,N,55
+12011,"West Nova","Nova-Ouest"," 96","Sandy Cove",N,N,"",1,231,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 96","Sandy Cove",N,N,"",1,231,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 96","Sandy Cove",N,N,"",1,231,"Kerr","","Greg","Conservative","Conservateur",Y,Y,50
+12011,"West Nova","Nova-Ouest"," 96","Sandy Cove",N,N,"",1,231,"Thibault","","Robert","Liberal","Libéral",N,N,56
+12011,"West Nova","Nova-Ouest"," 97","Rossway",N,N,"",0,261,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 97","Rossway",N,N,"",0,261,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 97","Rossway",N,N,"",0,261,"Kerr","","Greg","Conservative","Conservateur",Y,Y,55
+12011,"West Nova","Nova-Ouest"," 97","Rossway",N,N,"",0,261,"Thibault","","Robert","Liberal","Libéral",N,N,28
+12011,"West Nova","Nova-Ouest"," 98","Culloden",N,N,"",2,291,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 98","Culloden",N,N,"",2,291,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 98","Culloden",N,N,"",2,291,"Kerr","","Greg","Conservative","Conservateur",Y,Y,48
+12011,"West Nova","Nova-Ouest"," 98","Culloden",N,N,"",2,291,"Thibault","","Robert","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 99","Mount Pleasant",N,N,"",0,386,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 99","Mount Pleasant",N,N,"",0,386,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 99","Mount Pleasant",N,N,"",0,386,"Kerr","","Greg","Conservative","Conservateur",Y,Y,91
+12011,"West Nova","Nova-Ouest"," 99","Mount Pleasant",N,N,"",0,386,"Thibault","","Robert","Liberal","Libéral",N,N,46
+12011,"West Nova","Nova-Ouest"," 100","Smiths Cove",N,N,"",0,369,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12011,"West Nova","Nova-Ouest"," 100","Smiths Cove",N,N,"",0,369,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 100","Smiths Cove",N,N,"",0,369,"Kerr","","Greg","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 100","Smiths Cove",N,N,"",0,369,"Thibault","","Robert","Liberal","Libéral",N,N,58
+12011,"West Nova","Nova-Ouest"," 101","Bear River",N,N,"",2,389,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+12011,"West Nova","Nova-Ouest"," 101","Bear River",N,N,"",2,389,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 101","Bear River",N,N,"",2,389,"Kerr","","Greg","Conservative","Conservateur",Y,Y,69
+12011,"West Nova","Nova-Ouest"," 101","Bear River",N,N,"",2,389,"Thibault","","Robert","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",0,221,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",0,221,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",0,221,"Kerr","","Greg","Conservative","Conservateur",Y,Y,49
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",0,221,"Thibault","","Robert","Liberal","Libéral",N,N,28
+12011,"West Nova","Nova-Ouest"," 103","Conway",N,N,"",0,285,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 103","Conway",N,N,"",0,285,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 103","Conway",N,N,"",0,285,"Kerr","","Greg","Conservative","Conservateur",Y,Y,61
+12011,"West Nova","Nova-Ouest"," 103","Conway",N,N,"",0,285,"Thibault","","Robert","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 104","Marshalltown",N,N,"",0,243,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 104","Marshalltown",N,N,"",0,243,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 104","Marshalltown",N,N,"",0,243,"Kerr","","Greg","Conservative","Conservateur",Y,Y,56
+12011,"West Nova","Nova-Ouest"," 104","Marshalltown",N,N,"",0,243,"Thibault","","Robert","Liberal","Libéral",N,N,17
+12011,"West Nova","Nova-Ouest"," 105","Brighton",N,N,"",0,242,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12011,"West Nova","Nova-Ouest"," 105","Brighton",N,N,"",0,242,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 105","Brighton",N,N,"",0,242,"Kerr","","Greg","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 105","Brighton",N,N,"",0,242,"Thibault","","Robert","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 106","Plympton",N,N,"",2,400,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12011,"West Nova","Nova-Ouest"," 106","Plympton",N,N,"",2,400,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 106","Plympton",N,N,"",2,400,"Kerr","","Greg","Conservative","Conservateur",Y,Y,89
+12011,"West Nova","Nova-Ouest"," 106","Plympton",N,N,"",2,400,"Thibault","","Robert","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 107","North Range",N,N,"",0,440,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12011,"West Nova","Nova-Ouest"," 107","North Range",N,N,"",0,440,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 107","North Range",N,N,"",0,440,"Kerr","","Greg","Conservative","Conservateur",Y,Y,162
+12011,"West Nova","Nova-Ouest"," 107","North Range",N,N,"",0,440,"Thibault","","Robert","Liberal","Libéral",N,N,36
+12011,"West Nova","Nova-Ouest"," 108","Morganville",N,N,"",3,220,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 108","Morganville",N,N,"",3,220,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 108","Morganville",N,N,"",3,220,"Kerr","","Greg","Conservative","Conservateur",Y,Y,49
+12011,"West Nova","Nova-Ouest"," 108","Morganville",N,N,"",3,220,"Thibault","","Robert","Liberal","Libéral",N,N,41
+12011,"West Nova","Nova-Ouest"," 109","Digby",N,N,"",3,276,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 109","Digby",N,N,"",3,276,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 109","Digby",N,N,"",3,276,"Kerr","","Greg","Conservative","Conservateur",Y,Y,66
+12011,"West Nova","Nova-Ouest"," 109","Digby",N,N,"",3,276,"Thibault","","Robert","Liberal","Libéral",N,N,30
+12011,"West Nova","Nova-Ouest"," 110","Digby",N,N,"",0,304,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12011,"West Nova","Nova-Ouest"," 110","Digby",N,N,"",0,304,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 110","Digby",N,N,"",0,304,"Kerr","","Greg","Conservative","Conservateur",Y,Y,56
+12011,"West Nova","Nova-Ouest"," 110","Digby",N,N,"",0,304,"Thibault","","Robert","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 111","Digby",N,N,"",0,304,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 111","Digby",N,N,"",0,304,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 111","Digby",N,N,"",0,304,"Kerr","","Greg","Conservative","Conservateur",Y,Y,61
+12011,"West Nova","Nova-Ouest"," 111","Digby",N,N,"",0,304,"Thibault","","Robert","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 112","Digby",N,N,"",2,320,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 112","Digby",N,N,"",2,320,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 112","Digby",N,N,"",2,320,"Kerr","","Greg","Conservative","Conservateur",Y,Y,57
+12011,"West Nova","Nova-Ouest"," 112","Digby",N,N,"",2,320,"Thibault","","Robert","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 113A","Digby",N,N,"",0,241,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 113A","Digby",N,N,"",0,241,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 113A","Digby",N,N,"",0,241,"Kerr","","Greg","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 113A","Digby",N,N,"",0,241,"Thibault","","Robert","Liberal","Libéral",N,N,25
+12011,"West Nova","Nova-Ouest"," 113B","Mobile poll/Bureau itinérant",N,N,"500B",0,9,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 113B","Mobile poll/Bureau itinérant",N,N,"500B",0,9,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 113B","Mobile poll/Bureau itinérant",N,N,"500B",0,9,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 113B","Mobile poll/Bureau itinérant",N,N,"500B",0,9,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 114","Digby",N,N,"",0,261,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 114","Digby",N,N,"",0,261,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 114","Digby",N,N,"",0,261,"Kerr","","Greg","Conservative","Conservateur",Y,Y,40
+12011,"West Nova","Nova-Ouest"," 114","Digby",N,N,"",0,261,"Thibault","","Robert","Liberal","Libéral",N,N,54
+12011,"West Nova","Nova-Ouest"," 115","Danvers",N,N,"",0,268,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 115","Danvers",N,N,"",0,268,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 115","Danvers",N,N,"",0,268,"Kerr","","Greg","Conservative","Conservateur",Y,Y,87
+12011,"West Nova","Nova-Ouest"," 115","Danvers",N,N,"",0,268,"Thibault","","Robert","Liberal","Libéral",N,N,36
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,327,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,327,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,327,"Kerr","","Greg","Conservative","Conservateur",Y,Y,91
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,327,"Thibault","","Robert","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 117","Weymouth",N,N,"",0,406,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12011,"West Nova","Nova-Ouest"," 117","Weymouth",N,N,"",0,406,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 117","Weymouth",N,N,"",0,406,"Kerr","","Greg","Conservative","Conservateur",Y,Y,112
+12011,"West Nova","Nova-Ouest"," 117","Weymouth",N,N,"",0,406,"Thibault","","Robert","Liberal","Libéral",N,N,66
+12011,"West Nova","Nova-Ouest"," 118","Ashmore",N,N,"",2,253,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 118","Ashmore",N,N,"",2,253,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 118","Ashmore",N,N,"",2,253,"Kerr","","Greg","Conservative","Conservateur",Y,Y,70
+12011,"West Nova","Nova-Ouest"," 118","Ashmore",N,N,"",2,253,"Thibault","","Robert","Liberal","Libéral",N,N,36
+12011,"West Nova","Nova-Ouest"," 119","Weymouth North",N,N,"",0,162,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 119","Weymouth North",N,N,"",0,162,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 119","Weymouth North",N,N,"",0,162,"Kerr","","Greg","Conservative","Conservateur",Y,Y,56
+12011,"West Nova","Nova-Ouest"," 119","Weymouth North",N,N,"",0,162,"Thibault","","Robert","Liberal","Libéral",N,N,21
+12011,"West Nova","Nova-Ouest"," 120","New Edinburgh",N,N,"",3,428,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 120","New Edinburgh",N,N,"",3,428,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 120","New Edinburgh",N,N,"",3,428,"Kerr","","Greg","Conservative","Conservateur",Y,Y,84
+12011,"West Nova","Nova-Ouest"," 120","New Edinburgh",N,N,"",3,428,"Thibault","","Robert","Liberal","Libéral",N,N,112
+12011,"West Nova","Nova-Ouest"," 121","Belliveaus Cove",N,N,"",4,330,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 121","Belliveaus Cove",N,N,"",4,330,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 121","Belliveaus Cove",N,N,"",4,330,"Kerr","","Greg","Conservative","Conservateur",Y,Y,86
+12011,"West Nova","Nova-Ouest"," 121","Belliveaus Cove",N,N,"",4,330,"Thibault","","Robert","Liberal","Libéral",N,N,113
+12011,"West Nova","Nova-Ouest"," 122","Grosses Coques",N,N,"",2,277,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 122","Grosses Coques",N,N,"",2,277,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 122","Grosses Coques",N,N,"",2,277,"Kerr","","Greg","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 122","Grosses Coques",N,N,"",2,277,"Thibault","","Robert","Liberal","Libéral",N,N,91
+12011,"West Nova","Nova-Ouest"," 123","Church Point",N,N,"",2,282,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 123","Church Point",N,N,"",2,282,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 123","Church Point",N,N,"",2,282,"Kerr","","Greg","Conservative","Conservateur",Y,Y,44
+12011,"West Nova","Nova-Ouest"," 123","Church Point",N,N,"",2,282,"Thibault","","Robert","Liberal","Libéral",N,N,124
+12011,"West Nova","Nova-Ouest"," 124","Little Brook",N,N,"",4,261,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 124","Little Brook",N,N,"",4,261,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 124","Little Brook",N,N,"",4,261,"Kerr","","Greg","Conservative","Conservateur",Y,Y,53
+12011,"West Nova","Nova-Ouest"," 124","Little Brook",N,N,"",4,261,"Thibault","","Robert","Liberal","Libéral",N,N,91
+12011,"West Nova","Nova-Ouest"," 125","Havelock",N,N,"",0,257,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 125","Havelock",N,N,"",0,257,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 125","Havelock",N,N,"",0,257,"Kerr","","Greg","Conservative","Conservateur",Y,Y,98
+12011,"West Nova","Nova-Ouest"," 125","Havelock",N,N,"",0,257,"Thibault","","Robert","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 126","Corberrie",N,N,"",2,184,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 126","Corberrie",N,N,"",2,184,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 126","Corberrie",N,N,"",2,184,"Kerr","","Greg","Conservative","Conservateur",Y,Y,85
+12011,"West Nova","Nova-Ouest"," 126","Corberrie",N,N,"",2,184,"Thibault","","Robert","Liberal","Libéral",N,N,22
+12011,"West Nova","Nova-Ouest"," 127","Concession",N,N,"",2,428,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 127","Concession",N,N,"",2,428,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 127","Concession",N,N,"",2,428,"Kerr","","Greg","Conservative","Conservateur",Y,Y,85
+12011,"West Nova","Nova-Ouest"," 127","Concession",N,N,"",2,428,"Thibault","","Robert","Liberal","Libéral",N,N,177
+12011,"West Nova","Nova-Ouest"," 128","Comeauville",N,N,"",2,319,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 128","Comeauville",N,N,"",2,319,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 128","Comeauville",N,N,"",2,319,"Kerr","","Greg","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 128","Comeauville",N,N,"",2,319,"Thibault","","Robert","Liberal","Libéral",N,N,126
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",0,360,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",0,360,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",0,360,"Kerr","","Greg","Conservative","Conservateur",Y,Y,98
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",0,360,"Thibault","","Robert","Liberal","Libéral",N,N,104
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",7,174,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",7,174,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",7,174,"Kerr","","Greg","Conservative","Conservateur",Y,Y,44
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",7,174,"Thibault","","Robert","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",7,389,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",7,389,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",7,389,"Kerr","","Greg","Conservative","Conservateur",Y,Y,96
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",7,389,"Thibault","","Robert","Liberal","Libéral",N,N,151
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",10,455,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",10,455,"Johnson","","Ross","Green Party","Parti Vert",N,N,20
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",10,455,"Kerr","","Greg","Conservative","Conservateur",Y,Y,126
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",10,455,"Thibault","","Robert","Liberal","Libéral",N,N,127
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",3,242,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",3,242,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",3,242,"Kerr","","Greg","Conservative","Conservateur",Y,Y,55
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",3,242,"Thibault","","Robert","Liberal","Libéral",N,N,77
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",5,281,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",5,281,"Johnson","","Ross","Green Party","Parti Vert",N,N,13
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",5,281,"Kerr","","Greg","Conservative","Conservateur",Y,Y,64
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",5,281,"Thibault","","Robert","Liberal","Libéral",N,N,93
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",6,254,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",6,254,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",6,254,"Kerr","","Greg","Conservative","Conservateur",Y,Y,50
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",6,254,"Thibault","","Robert","Liberal","Libéral",N,N,82
+12011,"West Nova","Nova-Ouest"," 136","Meteghan",N,N,"",5,394,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 136","Meteghan",N,N,"",5,394,"Johnson","","Ross","Green Party","Parti Vert",N,N,17
+12011,"West Nova","Nova-Ouest"," 136","Meteghan",N,N,"",5,394,"Kerr","","Greg","Conservative","Conservateur",Y,Y,111
+12011,"West Nova","Nova-Ouest"," 136","Meteghan",N,N,"",5,394,"Thibault","","Robert","Liberal","Libéral",N,N,109
+12011,"West Nova","Nova-Ouest"," 137","St. Martin",N,N,"",5,315,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 137","St. Martin",N,N,"",5,315,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 137","St. Martin",N,N,"",5,315,"Kerr","","Greg","Conservative","Conservateur",Y,Y,91
+12011,"West Nova","Nova-Ouest"," 137","St. Martin",N,N,"",5,315,"Thibault","","Robert","Liberal","Libéral",N,N,70
+12011,"West Nova","Nova-Ouest"," 138","St. Alphonse",N,N,"",5,274,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 138","St. Alphonse",N,N,"",5,274,"Johnson","","Ross","Green Party","Parti Vert",N,N,14
+12011,"West Nova","Nova-Ouest"," 138","St. Alphonse",N,N,"",5,274,"Kerr","","Greg","Conservative","Conservateur",Y,Y,93
+12011,"West Nova","Nova-Ouest"," 138","St. Alphonse",N,N,"",5,274,"Thibault","","Robert","Liberal","Libéral",N,N,75
+12011,"West Nova","Nova-Ouest"," 139","Cape St. Marys",N,N,"",1,251,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 139","Cape St. Marys",N,N,"",1,251,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 139","Cape St. Marys",N,N,"",1,251,"Kerr","","Greg","Conservative","Conservateur",Y,Y,82
+12011,"West Nova","Nova-Ouest"," 139","Cape St. Marys",N,N,"",1,251,"Thibault","","Robert","Liberal","Libéral",N,N,70
+12011,"West Nova","Nova-Ouest"," 140","Salmon River",N,N,"",5,309,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 140","Salmon River",N,N,"",5,309,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 140","Salmon River",N,N,"",5,309,"Kerr","","Greg","Conservative","Conservateur",Y,Y,66
+12011,"West Nova","Nova-Ouest"," 140","Salmon River",N,N,"",5,309,"Thibault","","Robert","Liberal","Libéral",N,N,104
+12011,"West Nova","Nova-Ouest"," 141","Hectanooga",N,N,"",4,344,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 141","Hectanooga",N,N,"",4,344,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 141","Hectanooga",N,N,"",4,344,"Kerr","","Greg","Conservative","Conservateur",Y,Y,82
+12011,"West Nova","Nova-Ouest"," 141","Hectanooga",N,N,"",4,344,"Thibault","","Robert","Liberal","Libéral",N,N,104
+12011,"West Nova","Nova-Ouest"," 142","Pleasant Valley",N,N,"",1,214,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 142","Pleasant Valley",N,N,"",1,214,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 142","Pleasant Valley",N,N,"",1,214,"Kerr","","Greg","Conservative","Conservateur",Y,Y,89
+12011,"West Nova","Nova-Ouest"," 142","Pleasant Valley",N,N,"",1,214,"Thibault","","Robert","Liberal","Libéral",N,N,49
+12011,"West Nova","Nova-Ouest"," 143","Brazil Lake",N,N,"",2,380,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 143","Brazil Lake",N,N,"",2,380,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 143","Brazil Lake",N,N,"",2,380,"Kerr","","Greg","Conservative","Conservateur",Y,Y,118
+12011,"West Nova","Nova-Ouest"," 143","Brazil Lake",N,N,"",2,380,"Thibault","","Robert","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 144","Brenton",N,N,"",1,494,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 144","Brenton",N,N,"",1,494,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 144","Brenton",N,N,"",1,494,"Kerr","","Greg","Conservative","Conservateur",Y,Y,161
+12011,"West Nova","Nova-Ouest"," 144","Brenton",N,N,"",1,494,"Thibault","","Robert","Liberal","Libéral",N,N,82
+12011,"West Nova","Nova-Ouest"," 145","Port Maitland",N,N,"",1,346,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 145","Port Maitland",N,N,"",1,346,"Johnson","","Ross","Green Party","Parti Vert",N,N,13
+12011,"West Nova","Nova-Ouest"," 145","Port Maitland",N,N,"",1,346,"Kerr","","Greg","Conservative","Conservateur",Y,Y,110
+12011,"West Nova","Nova-Ouest"," 145","Port Maitland",N,N,"",1,346,"Thibault","","Robert","Liberal","Libéral",N,N,84
+12011,"West Nova","Nova-Ouest"," 146","Sandford",N,N,"",2,312,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 146","Sandford",N,N,"",2,312,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 146","Sandford",N,N,"",2,312,"Kerr","","Greg","Conservative","Conservateur",Y,Y,79
+12011,"West Nova","Nova-Ouest"," 146","Sandford",N,N,"",2,312,"Thibault","","Robert","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 147","Pembroke",N,N,"",1,323,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 147","Pembroke",N,N,"",1,323,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 147","Pembroke",N,N,"",1,323,"Kerr","","Greg","Conservative","Conservateur",Y,Y,109
+12011,"West Nova","Nova-Ouest"," 147","Pembroke",N,N,"",1,323,"Thibault","","Robert","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 148","Wellington",N,N,"",4,353,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 148","Wellington",N,N,"",4,353,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 148","Wellington",N,N,"",4,353,"Kerr","","Greg","Conservative","Conservateur",Y,Y,102
+12011,"West Nova","Nova-Ouest"," 148","Wellington",N,N,"",4,353,"Thibault","","Robert","Liberal","Libéral",N,N,67
+12011,"West Nova","Nova-Ouest"," 149","South Ohio",N,N,"",2,384,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 149","South Ohio",N,N,"",2,384,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 149","South Ohio",N,N,"",2,384,"Kerr","","Greg","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 149","South Ohio",N,N,"",2,384,"Thibault","","Robert","Liberal","Libéral",N,N,80
+12011,"West Nova","Nova-Ouest"," 150","Greenville",N,N,"",0,341,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 150","Greenville",N,N,"",0,341,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 150","Greenville",N,N,"",0,341,"Kerr","","Greg","Conservative","Conservateur",Y,Y,99
+12011,"West Nova","Nova-Ouest"," 150","Greenville",N,N,"",0,341,"Thibault","","Robert","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 151","Brooklyn",N,N,"",0,364,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 151","Brooklyn",N,N,"",0,364,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 151","Brooklyn",N,N,"",0,364,"Kerr","","Greg","Conservative","Conservateur",Y,Y,74
+12011,"West Nova","Nova-Ouest"," 151","Brooklyn",N,N,"",0,364,"Thibault","","Robert","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 152","Dayton",N,N,"",3,412,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 152","Dayton",N,N,"",3,412,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 152","Dayton",N,N,"",3,412,"Kerr","","Greg","Conservative","Conservateur",Y,Y,92
+12011,"West Nova","Nova-Ouest"," 152","Dayton",N,N,"",3,412,"Thibault","","Robert","Liberal","Libéral",N,N,106
+12011,"West Nova","Nova-Ouest"," 153","Hebron",N,N,"",5,446,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 153","Hebron",N,N,"",5,446,"Johnson","","Ross","Green Party","Parti Vert",N,N,16
+12011,"West Nova","Nova-Ouest"," 153","Hebron",N,N,"",5,446,"Kerr","","Greg","Conservative","Conservateur",Y,Y,120
+12011,"West Nova","Nova-Ouest"," 153","Hebron",N,N,"",5,446,"Thibault","","Robert","Liberal","Libéral",N,N,95
+12011,"West Nova","Nova-Ouest"," 154","North Chegoggin",N,N,"",3,381,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 154","North Chegoggin",N,N,"",3,381,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 154","North Chegoggin",N,N,"",3,381,"Kerr","","Greg","Conservative","Conservateur",Y,Y,95
+12011,"West Nova","Nova-Ouest"," 154","North Chegoggin",N,N,"",3,381,"Thibault","","Robert","Liberal","Libéral",N,N,71
+12011,"West Nova","Nova-Ouest"," 155","South Chegoggin",N,N,"",1,387,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 155","South Chegoggin",N,N,"",1,387,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 155","South Chegoggin",N,N,"",1,387,"Kerr","","Greg","Conservative","Conservateur",Y,Y,117
+12011,"West Nova","Nova-Ouest"," 155","South Chegoggin",N,N,"",1,387,"Thibault","","Robert","Liberal","Libéral",N,N,78
+12011,"West Nova","Nova-Ouest"," 156","Overton",N,N,"",3,270,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 156","Overton",N,N,"",3,270,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 156","Overton",N,N,"",3,270,"Kerr","","Greg","Conservative","Conservateur",Y,Y,87
+12011,"West Nova","Nova-Ouest"," 156","Overton",N,N,"",3,270,"Thibault","","Robert","Liberal","Libéral",N,N,68
+12011,"West Nova","Nova-Ouest"," 157","Sand Beach",N,N,"",1,451,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 157","Sand Beach",N,N,"",1,451,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 157","Sand Beach",N,N,"",1,451,"Kerr","","Greg","Conservative","Conservateur",Y,Y,108
+12011,"West Nova","Nova-Ouest"," 157","Sand Beach",N,N,"",1,451,"Thibault","","Robert","Liberal","Libéral",N,N,112
+12011,"West Nova","Nova-Ouest"," 158","Kelleys Cove",N,N,"",1,354,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 158","Kelleys Cove",N,N,"",1,354,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 158","Kelleys Cove",N,N,"",1,354,"Kerr","","Greg","Conservative","Conservateur",Y,Y,109
+12011,"West Nova","Nova-Ouest"," 158","Kelleys Cove",N,N,"",1,354,"Thibault","","Robert","Liberal","Libéral",N,N,76
+12011,"West Nova","Nova-Ouest"," 159","Pinkneys Point",N,N,"",1,318,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 159","Pinkneys Point",N,N,"",1,318,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 159","Pinkneys Point",N,N,"",1,318,"Kerr","","Greg","Conservative","Conservateur",Y,Y,138
+12011,"West Nova","Nova-Ouest"," 159","Pinkneys Point",N,N,"",1,318,"Thibault","","Robert","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 160","Arcadia",N,N,"",2,257,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 160","Arcadia",N,N,"",2,257,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 160","Arcadia",N,N,"",2,257,"Kerr","","Greg","Conservative","Conservateur",Y,Y,87
+12011,"West Nova","Nova-Ouest"," 160","Arcadia",N,N,"",2,257,"Thibault","","Robert","Liberal","Libéral",N,N,71
+12011,"West Nova","Nova-Ouest"," 161","Arcadia",N,N,"",2,288,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 161","Arcadia",N,N,"",2,288,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 161","Arcadia",N,N,"",2,288,"Kerr","","Greg","Conservative","Conservateur",Y,Y,109
+12011,"West Nova","Nova-Ouest"," 161","Arcadia",N,N,"",2,288,"Thibault","","Robert","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 162","Yarmouth",N,N,"",2,558,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 162","Yarmouth",N,N,"",2,558,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 162","Yarmouth",N,N,"",2,558,"Kerr","","Greg","Conservative","Conservateur",Y,Y,147
+12011,"West Nova","Nova-Ouest"," 162","Yarmouth",N,N,"",2,558,"Thibault","","Robert","Liberal","Libéral",N,N,136
+12011,"West Nova","Nova-Ouest"," 163","Yarmouth",N,N,"",0,455,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 163","Yarmouth",N,N,"",0,455,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 163","Yarmouth",N,N,"",0,455,"Kerr","","Greg","Conservative","Conservateur",Y,Y,116
+12011,"West Nova","Nova-Ouest"," 163","Yarmouth",N,N,"",0,455,"Thibault","","Robert","Liberal","Libéral",N,N,141
+12011,"West Nova","Nova-Ouest"," 164","Yarmouth",N,N,"",1,389,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 164","Yarmouth",N,N,"",1,389,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 164","Yarmouth",N,N,"",1,389,"Kerr","","Greg","Conservative","Conservateur",Y,Y,97
+12011,"West Nova","Nova-Ouest"," 164","Yarmouth",N,N,"",1,389,"Thibault","","Robert","Liberal","Libéral",N,N,88
+12011,"West Nova","Nova-Ouest"," 165","Yarmouth",N,N,"",3,325,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 165","Yarmouth",N,N,"",3,325,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 165","Yarmouth",N,N,"",3,325,"Kerr","","Greg","Conservative","Conservateur",Y,Y,53
+12011,"West Nova","Nova-Ouest"," 165","Yarmouth",N,N,"",3,325,"Thibault","","Robert","Liberal","Libéral",N,N,79
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",2,339,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",2,339,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",2,339,"Kerr","","Greg","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",2,339,"Thibault","","Robert","Liberal","Libéral",N,N,85
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,399,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,399,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,399,"Kerr","","Greg","Conservative","Conservateur",Y,Y,78
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,399,"Thibault","","Robert","Liberal","Libéral",N,N,94
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,266,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,266,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,266,"Kerr","","Greg","Conservative","Conservateur",Y,Y,40
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,266,"Thibault","","Robert","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 169","Yarmouth",N,N,"",4,366,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 169","Yarmouth",N,N,"",4,366,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 169","Yarmouth",N,N,"",4,366,"Kerr","","Greg","Conservative","Conservateur",Y,Y,62
+12011,"West Nova","Nova-Ouest"," 169","Yarmouth",N,N,"",4,366,"Thibault","","Robert","Liberal","Libéral",N,N,77
+12011,"West Nova","Nova-Ouest"," 170","Yarmouth",N,N,"",2,285,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 170","Yarmouth",N,N,"",2,285,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 170","Yarmouth",N,N,"",2,285,"Kerr","","Greg","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 170","Yarmouth",N,N,"",2,285,"Thibault","","Robert","Liberal","Libéral",N,N,58
+12011,"West Nova","Nova-Ouest"," 171","Yarmouth",N,N,"",0,273,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 171","Yarmouth",N,N,"",0,273,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 171","Yarmouth",N,N,"",0,273,"Kerr","","Greg","Conservative","Conservateur",Y,Y,33
+12011,"West Nova","Nova-Ouest"," 171","Yarmouth",N,N,"",0,273,"Thibault","","Robert","Liberal","Libéral",N,N,43
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",2,303,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",2,303,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",2,303,"Kerr","","Greg","Conservative","Conservateur",Y,Y,58
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",2,303,"Thibault","","Robert","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",3,280,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",3,280,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",3,280,"Kerr","","Greg","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",3,280,"Thibault","","Robert","Liberal","Libéral",N,N,46
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,350,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,350,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,350,"Kerr","","Greg","Conservative","Conservateur",Y,Y,71
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,350,"Thibault","","Robert","Liberal","Libéral",N,N,52
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",1,344,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",1,344,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",1,344,"Kerr","","Greg","Conservative","Conservateur",Y,Y,69
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",1,344,"Thibault","","Robert","Liberal","Libéral",N,N,57
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,453,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,453,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,453,"Kerr","","Greg","Conservative","Conservateur",Y,Y,88
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,453,"Thibault","","Robert","Liberal","Libéral",N,N,70
+12011,"West Nova","Nova-Ouest"," 177","Raynardton",N,N,"",3,420,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 177","Raynardton",N,N,"",3,420,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 177","Raynardton",N,N,"",3,420,"Kerr","","Greg","Conservative","Conservateur",Y,Y,133
+12011,"West Nova","Nova-Ouest"," 177","Raynardton",N,N,"",3,420,"Thibault","","Robert","Liberal","Libéral",N,N,100
+12011,"West Nova","Nova-Ouest"," 178","Carleton",N,N,"",0,355,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 178","Carleton",N,N,"",0,355,"Johnson","","Ross","Green Party","Parti Vert",N,N,13
+12011,"West Nova","Nova-Ouest"," 178","Carleton",N,N,"",0,355,"Kerr","","Greg","Conservative","Conservateur",Y,Y,142
+12011,"West Nova","Nova-Ouest"," 178","Carleton",N,N,"",0,355,"Thibault","","Robert","Liberal","Libéral",N,N,60
+12011,"West Nova","Nova-Ouest"," 179","Kemptville",N,N,"",3,238,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 179","Kemptville",N,N,"",3,238,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 179","Kemptville",N,N,"",3,238,"Kerr","","Greg","Conservative","Conservateur",Y,Y,80
+12011,"West Nova","Nova-Ouest"," 179","Kemptville",N,N,"",3,238,"Thibault","","Robert","Liberal","Libéral",N,N,65
+12011,"West Nova","Nova-Ouest"," 180","Quinan",N,N,"",2,302,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 180","Quinan",N,N,"",2,302,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 180","Quinan",N,N,"",2,302,"Kerr","","Greg","Conservative","Conservateur",Y,Y,98
+12011,"West Nova","Nova-Ouest"," 180","Quinan",N,N,"",2,302,"Thibault","","Robert","Liberal","Libéral",N,N,54
+12011,"West Nova","Nova-Ouest"," 181","Belleville",N,N,"",1,318,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 181","Belleville",N,N,"",1,318,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 181","Belleville",N,N,"",1,318,"Kerr","","Greg","Conservative","Conservateur",Y,Y,109
+12011,"West Nova","Nova-Ouest"," 181","Belleville",N,N,"",1,318,"Thibault","","Robert","Liberal","Libéral",N,N,53
+12011,"West Nova","Nova-Ouest"," 182","Ste. Anne du Ruisseau",N,N,"",1,306,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 182","Ste. Anne du Ruisseau",N,N,"",1,306,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 182","Ste. Anne du Ruisseau",N,N,"",1,306,"Kerr","","Greg","Conservative","Conservateur",Y,Y,84
+12011,"West Nova","Nova-Ouest"," 182","Ste. Anne du Ruisseau",N,N,"",1,306,"Thibault","","Robert","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 183","Tusket",N,N,"",2,363,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 183","Tusket",N,N,"",2,363,"Johnson","","Ross","Green Party","Parti Vert",N,N,8
+12011,"West Nova","Nova-Ouest"," 183","Tusket",N,N,"",2,363,"Kerr","","Greg","Conservative","Conservateur",Y,Y,65
+12011,"West Nova","Nova-Ouest"," 183","Tusket",N,N,"",2,363,"Thibault","","Robert","Liberal","Libéral",N,N,73
+12011,"West Nova","Nova-Ouest"," 184","Hubbards Point",N,N,"",0,416,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 184","Hubbards Point",N,N,"",0,416,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 184","Hubbards Point",N,N,"",0,416,"Kerr","","Greg","Conservative","Conservateur",Y,Y,120
+12011,"West Nova","Nova-Ouest"," 184","Hubbards Point",N,N,"",0,416,"Thibault","","Robert","Liberal","Libéral",N,N,72
+12011,"West Nova","Nova-Ouest"," 185","Sluice Point",N,N,"",2,204,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 185","Sluice Point",N,N,"",2,204,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 185","Sluice Point",N,N,"",2,204,"Kerr","","Greg","Conservative","Conservateur",Y,Y,75
+12011,"West Nova","Nova-Ouest"," 185","Sluice Point",N,N,"",2,204,"Thibault","","Robert","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 186","Amiraults Hill",N,N,"",5,220,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 186","Amiraults Hill",N,N,"",5,220,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 186","Amiraults Hill",N,N,"",5,220,"Kerr","","Greg","Conservative","Conservateur",Y,Y,74
+12011,"West Nova","Nova-Ouest"," 186","Amiraults Hill",N,N,"",5,220,"Thibault","","Robert","Liberal","Libéral",N,N,60
+12011,"West Nova","Nova-Ouest"," 187","Plymouth",N,N,"",1,343,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 187","Plymouth",N,N,"",1,343,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 187","Plymouth",N,N,"",1,343,"Kerr","","Greg","Conservative","Conservateur",Y,Y,140
+12011,"West Nova","Nova-Ouest"," 187","Plymouth",N,N,"",1,343,"Thibault","","Robert","Liberal","Libéral",N,N,69
+12011,"West Nova","Nova-Ouest"," 188","Comeaus Hill",N,N,"",0,237,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 188","Comeaus Hill",N,N,"",0,237,"Johnson","","Ross","Green Party","Parti Vert",N,N,4
+12011,"West Nova","Nova-Ouest"," 188","Comeaus Hill",N,N,"",0,237,"Kerr","","Greg","Conservative","Conservateur",Y,Y,87
+12011,"West Nova","Nova-Ouest"," 188","Comeaus Hill",N,N,"",0,237,"Thibault","","Robert","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 189","Upper Wedgeport",N,N,"",2,268,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 189","Upper Wedgeport",N,N,"",2,268,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 189","Upper Wedgeport",N,N,"",2,268,"Kerr","","Greg","Conservative","Conservateur",Y,Y,115
+12011,"West Nova","Nova-Ouest"," 189","Upper Wedgeport",N,N,"",2,268,"Thibault","","Robert","Liberal","Libéral",N,N,69
+12011,"West Nova","Nova-Ouest"," 190","Wedgeport",N,N,"",5,384,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 190","Wedgeport",N,N,"",5,384,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," 190","Wedgeport",N,N,"",5,384,"Kerr","","Greg","Conservative","Conservateur",Y,Y,103
+12011,"West Nova","Nova-Ouest"," 190","Wedgeport",N,N,"",5,384,"Thibault","","Robert","Liberal","Libéral",N,N,107
+12011,"West Nova","Nova-Ouest"," 191","Lower Wedgeport",N,N,"",3,390,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 191","Lower Wedgeport",N,N,"",3,390,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 191","Lower Wedgeport",N,N,"",3,390,"Kerr","","Greg","Conservative","Conservateur",Y,Y,124
+12011,"West Nova","Nova-Ouest"," 191","Lower Wedgeport",N,N,"",3,390,"Thibault","","Robert","Liberal","Libéral",N,N,111
+12011,"West Nova","Nova-Ouest"," 192","Surettes Island",N,N,"",2,178,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 192","Surettes Island",N,N,"",2,178,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 192","Surettes Island",N,N,"",2,178,"Kerr","","Greg","Conservative","Conservateur",Y,Y,87
+12011,"West Nova","Nova-Ouest"," 192","Surettes Island",N,N,"",2,178,"Thibault","","Robert","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 193","Central Argyle",N,N,"",0,322,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 193","Central Argyle",N,N,"",0,322,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 193","Central Argyle",N,N,"",0,322,"Kerr","","Greg","Conservative","Conservateur",Y,Y,125
+12011,"West Nova","Nova-Ouest"," 193","Central Argyle",N,N,"",0,322,"Thibault","","Robert","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 194","Pubnico",N,N,"",0,348,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 194","Pubnico",N,N,"",0,348,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 194","Pubnico",N,N,"",0,348,"Kerr","","Greg","Conservative","Conservateur",Y,Y,139
+12011,"West Nova","Nova-Ouest"," 194","Pubnico",N,N,"",0,348,"Thibault","","Robert","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 195","Upper West Pubnico",N,N,"",2,370,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 195","Upper West Pubnico",N,N,"",2,370,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 195","Upper West Pubnico",N,N,"",2,370,"Kerr","","Greg","Conservative","Conservateur",Y,Y,102
+12011,"West Nova","Nova-Ouest"," 195","Upper West Pubnico",N,N,"",2,370,"Thibault","","Robert","Liberal","Libéral",N,N,94
+12011,"West Nova","Nova-Ouest"," 196","Middle West Pubnico",N,N,"",1,390,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 196","Middle West Pubnico",N,N,"",1,390,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 196","Middle West Pubnico",N,N,"",1,390,"Kerr","","Greg","Conservative","Conservateur",Y,Y,125
+12011,"West Nova","Nova-Ouest"," 196","Middle West Pubnico",N,N,"",1,390,"Thibault","","Robert","Liberal","Libéral",N,N,106
+12011,"West Nova","Nova-Ouest"," 197","Middle West Pubnico",N,N,"",4,357,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 197","Middle West Pubnico",N,N,"",4,357,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 197","Middle West Pubnico",N,N,"",4,357,"Kerr","","Greg","Conservative","Conservateur",Y,Y,126
+12011,"West Nova","Nova-Ouest"," 197","Middle West Pubnico",N,N,"",4,357,"Thibault","","Robert","Liberal","Libéral",N,N,91
+12011,"West Nova","Nova-Ouest"," 198","Lower West Pubnico",N,N,"",3,386,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 198","Lower West Pubnico",N,N,"",3,386,"Johnson","","Ross","Green Party","Parti Vert",N,N,6
+12011,"West Nova","Nova-Ouest"," 198","Lower West Pubnico",N,N,"",3,386,"Kerr","","Greg","Conservative","Conservateur",Y,Y,151
+12011,"West Nova","Nova-Ouest"," 198","Lower West Pubnico",N,N,"",3,386,"Thibault","","Robert","Liberal","Libéral",N,N,99
+12011,"West Nova","Nova-Ouest"," 199","East Pubnico",N,N,"",2,437,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 199","East Pubnico",N,N,"",2,437,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 199","East Pubnico",N,N,"",2,437,"Kerr","","Greg","Conservative","Conservateur",Y,Y,190
+12011,"West Nova","Nova-Ouest"," 199","East Pubnico",N,N,"",2,437,"Thibault","","Robert","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 400","Waterville",N,N,"",1,168,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 400","Waterville",N,N,"",1,168,"Johnson","","Ross","Green Party","Parti Vert",N,N,5
+12011,"West Nova","Nova-Ouest"," 400","Waterville",N,N,"",1,168,"Kerr","","Greg","Conservative","Conservateur",Y,Y,11
+12011,"West Nova","Nova-Ouest"," 400","Waterville",N,N,"",1,168,"Thibault","","Robert","Liberal","Libéral",N,N,21
+12011,"West Nova","Nova-Ouest"," 500A","Mobile poll/Bureau itinérant",N,N,"501B",0,64,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 500A","Mobile poll/Bureau itinérant",N,N,"501B",0,64,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 500A","Mobile poll/Bureau itinérant",N,N,"501B",0,64,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 500A","Mobile poll/Bureau itinérant",N,N,"501B",0,64,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,78,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,78,"Johnson","","Ross","Green Party","Parti Vert",N,N,1
+12011,"West Nova","Nova-Ouest"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,78,"Kerr","","Greg","Conservative","Conservateur",Y,Y,21
+12011,"West Nova","Nova-Ouest"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,78,"Thibault","","Robert","Liberal","Libéral",N,N,22
+12011,"West Nova","Nova-Ouest"," 501A","Mobile poll/Bureau itinérant",N,N,"500B",0,23,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 501A","Mobile poll/Bureau itinérant",N,N,"500B",0,23,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 501A","Mobile poll/Bureau itinérant",N,N,"500B",0,23,"Kerr","","Greg","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 501A","Mobile poll/Bureau itinérant",N,N,"500B",0,23,"Thibault","","Robert","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,87,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,87,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,87,"Kerr","","Greg","Conservative","Conservateur",Y,Y,38
+12011,"West Nova","Nova-Ouest"," 501B","Mobile poll/Bureau itinérant",N,N,"",0,87,"Thibault","","Robert","Liberal","Libéral",N,N,58
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",1,92,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",1,92,"Johnson","","Ross","Green Party","Parti Vert",N,N,0
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",1,92,"Kerr","","Greg","Conservative","Conservateur",Y,Y,23
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",1,92,"Thibault","","Robert","Liberal","Libéral",N,N,35
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,163,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,163,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,163,"Kerr","","Greg","Conservative","Conservateur",Y,Y,23
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,163,"Thibault","","Robert","Liberal","Libéral",N,N,24
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,84,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,84,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,84,"Kerr","","Greg","Conservative","Conservateur",Y,Y,27
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,84,"Thibault","","Robert","Liberal","Libéral",N,N,27
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",2,108,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",2,108,"Johnson","","Ross","Green Party","Parti Vert",N,N,2
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",2,108,"Kerr","","Greg","Conservative","Conservateur",Y,Y,27
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",2,108,"Thibault","","Robert","Liberal","Libéral",N,N,35
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",6,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",6,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,19
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",6,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,269
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",6,0,"Thibault","","Robert","Liberal","Libéral",N,N,164
+12011,"West Nova","Nova-Ouest"," 601","Aylesford",N,N,"",0,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 601","Aylesford",N,N,"",0,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 601","Aylesford",N,N,"",0,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,123
+12011,"West Nova","Nova-Ouest"," 601","Aylesford",N,N,"",0,0,"Thibault","","Robert","Liberal","Libéral",N,N,139
+12011,"West Nova","Nova-Ouest"," 602","Kingston",N,N,"",1,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12011,"West Nova","Nova-Ouest"," 602","Kingston",N,N,"",1,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 602","Kingston",N,N,"",1,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,138
+12011,"West Nova","Nova-Ouest"," 602","Kingston",N,N,"",1,0,"Thibault","","Robert","Liberal","Libéral",N,N,143
+12011,"West Nova","Nova-Ouest"," 603","Middleton",N,N,"",3,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12011,"West Nova","Nova-Ouest"," 603","Middleton",N,N,"",3,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 603","Middleton",N,N,"",3,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,201
+12011,"West Nova","Nova-Ouest"," 603","Middleton",N,N,"",3,0,"Thibault","","Robert","Liberal","Libéral",N,N,201
+12011,"West Nova","Nova-Ouest"," 604","Bridgetown",N,N,"",2,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 604","Bridgetown",N,N,"",2,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,7
+12011,"West Nova","Nova-Ouest"," 604","Bridgetown",N,N,"",2,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,112
+12011,"West Nova","Nova-Ouest"," 604","Bridgetown",N,N,"",2,0,"Thibault","","Robert","Liberal","Libéral",N,N,121
+12011,"West Nova","Nova-Ouest"," 605","Annapolis Royal",N,N,"",2,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12011,"West Nova","Nova-Ouest"," 605","Annapolis Royal",N,N,"",2,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,12
+12011,"West Nova","Nova-Ouest"," 605","Annapolis Royal",N,N,"",2,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,224
+12011,"West Nova","Nova-Ouest"," 605","Annapolis Royal",N,N,"",2,0,"Thibault","","Robert","Liberal","Libéral",N,N,226
+12011,"West Nova","Nova-Ouest"," 606","Digby",N,N,"",1,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12011,"West Nova","Nova-Ouest"," 606","Digby",N,N,"",1,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,11
+12011,"West Nova","Nova-Ouest"," 606","Digby",N,N,"",1,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,237
+12011,"West Nova","Nova-Ouest"," 606","Digby",N,N,"",1,0,"Thibault","","Robert","Liberal","Libéral",N,N,192
+12011,"West Nova","Nova-Ouest"," 607","Weymouth",N,N,"",0,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 607","Weymouth",N,N,"",0,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,9
+12011,"West Nova","Nova-Ouest"," 607","Weymouth",N,N,"",0,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,99
+12011,"West Nova","Nova-Ouest"," 607","Weymouth",N,N,"",0,0,"Thibault","","Robert","Liberal","Libéral",N,N,74
+12011,"West Nova","Nova-Ouest"," 608","Meteghan",N,N,"",7,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 608","Meteghan",N,N,"",7,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,14
+12011,"West Nova","Nova-Ouest"," 608","Meteghan",N,N,"",7,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,156
+12011,"West Nova","Nova-Ouest"," 608","Meteghan",N,N,"",7,0,"Thibault","","Robert","Liberal","Libéral",N,N,192
+12011,"West Nova","Nova-Ouest"," 609","Arcadia",N,N,"",3,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 609","Arcadia",N,N,"",3,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," 609","Arcadia",N,N,"",3,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,231
+12011,"West Nova","Nova-Ouest"," 609","Arcadia",N,N,"",3,0,"Thibault","","Robert","Liberal","Libéral",N,N,170
+12011,"West Nova","Nova-Ouest"," 610","Yarmouth",N,N,"",1,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 610","Yarmouth",N,N,"",1,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," 610","Yarmouth",N,N,"",1,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,185
+12011,"West Nova","Nova-Ouest"," 610","Yarmouth",N,N,"",1,0,"Thibault","","Robert","Liberal","Libéral",N,N,297
+12011,"West Nova","Nova-Ouest"," 611","Amiraults Hill",N,N,"",1,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 611","Amiraults Hill",N,N,"",1,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 611","Amiraults Hill",N,N,"",1,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 611","Amiraults Hill",N,N,"",1,0,"Thibault","","Robert","Liberal","Libéral",N,N,131
+12011,"West Nova","Nova-Ouest"," 612","Middle West Pubnico",N,N,"",3,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 612","Middle West Pubnico",N,N,"",3,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 612","Middle West Pubnico",N,N,"",3,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,99
+12011,"West Nova","Nova-Ouest"," 612","Middle West Pubnico",N,N,"",3,0,"Thibault","","Robert","Liberal","Libéral",N,N,70
+12011,"West Nova","Nova-Ouest"," 613","Nictaux",N,N,"",0,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 613","Nictaux",N,N,"",0,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,3
+12011,"West Nova","Nova-Ouest"," 613","Nictaux",N,N,"",0,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,84
+12011,"West Nova","Nova-Ouest"," 613","Nictaux",N,N,"",0,0,"Thibault","","Robert","Liberal","Libéral",N,N,71
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,1077,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,1077,"Johnson","","Ross","Green Party","Parti Vert",N,N,10
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,1077,"Kerr","","Greg","Conservative","Conservateur",Y,Y,297
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,1077,"Thibault","","Robert","Liberal","Libéral",N,N,72
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Barron","","George","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Johnson","","Ross","Green Party","Parti Vert",N,N,18
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Kerr","","Greg","Conservative","Conservateur",Y,Y,381
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Thibault","","Robert","Liberal","Libéral",N,N,397

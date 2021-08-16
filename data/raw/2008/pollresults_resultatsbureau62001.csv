@@ -1,0 +1,246 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+62001,Nunavut","Nunavut"," 1","Grise Fiord",N,N,"",0,82,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,6
+62001,Nunavut","Nunavut"," 1","Grise Fiord",N,N,"",0,82,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,18
+62001,Nunavut","Nunavut"," 1","Grise Fiord",N,N,"",0,82,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+62001,Nunavut","Nunavut"," 1","Grise Fiord",N,N,"",0,82,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,6
+62001,Nunavut","Nunavut"," 2","Resolute",N,N,"",0,136,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,29
+62001,Nunavut","Nunavut"," 2","Resolute",N,N,"",0,136,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,22
+62001,Nunavut","Nunavut"," 2","Resolute",N,N,"",0,136,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+62001,Nunavut","Nunavut"," 2","Resolute",N,N,"",0,136,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+62001,Nunavut","Nunavut"," 3","Nanisivik",Y,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,0
+62001,Nunavut","Nunavut"," 3","Nanisivik",Y,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,0
+62001,Nunavut","Nunavut"," 3","Nanisivik",Y,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+62001,Nunavut","Nunavut"," 3","Nanisivik",Y,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 4","Arctic Bay",N,N,"",0,368,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,30
+62001,Nunavut","Nunavut"," 4","Arctic Bay",N,N,"",0,368,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,36
+62001,Nunavut","Nunavut"," 4","Arctic Bay",N,N,"",0,368,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+62001,Nunavut","Nunavut"," 4","Arctic Bay",N,N,"",0,368,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,6
+62001,Nunavut","Nunavut"," 5A","Pond Inlet",N,N,"",1,420,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,46
+62001,Nunavut","Nunavut"," 5A","Pond Inlet",N,N,"",1,420,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,52
+62001,Nunavut","Nunavut"," 5A","Pond Inlet",N,N,"",1,420,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+62001,Nunavut","Nunavut"," 5A","Pond Inlet",N,N,"",1,420,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,9
+62001,Nunavut","Nunavut"," 5B","Pond Inlet",N,N,"",0,312,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,35
+62001,Nunavut","Nunavut"," 5B","Pond Inlet",N,N,"",0,312,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,38
+62001,Nunavut","Nunavut"," 5B","Pond Inlet",N,N,"",0,312,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+62001,Nunavut","Nunavut"," 5B","Pond Inlet",N,N,"",0,312,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,8
+62001,Nunavut","Nunavut"," 6","Clyde River",N,N,"",0,430,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,59
+62001,Nunavut","Nunavut"," 6","Clyde River",N,N,"",0,430,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,104
+62001,Nunavut","Nunavut"," 6","Clyde River",N,N,"",0,430,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+62001,Nunavut","Nunavut"," 6","Clyde River",N,N,"",0,430,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,19
+62001,Nunavut","Nunavut"," 7A","Igloolik",N,N,"",0,436,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,51
+62001,Nunavut","Nunavut"," 7A","Igloolik",N,N,"",0,436,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,60
+62001,Nunavut","Nunavut"," 7A","Igloolik",N,N,"",0,436,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,227
+62001,Nunavut","Nunavut"," 7A","Igloolik",N,N,"",0,436,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,12
+62001,Nunavut","Nunavut"," 7B","Igloolik",N,N,"7A",0,324,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,0
+62001,Nunavut","Nunavut"," 7B","Igloolik",N,N,"7A",0,324,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,0
+62001,Nunavut","Nunavut"," 7B","Igloolik",N,N,"7A",0,324,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+62001,Nunavut","Nunavut"," 7B","Igloolik",N,N,"7A",0,324,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 8","Hall Beach",N,N,"",4,365,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,32
+62001,Nunavut","Nunavut"," 8","Hall Beach",N,N,"",4,365,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,41
+62001,Nunavut","Nunavut"," 8","Hall Beach",N,N,"",4,365,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+62001,Nunavut","Nunavut"," 8","Hall Beach",N,N,"",4,365,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,12
+62001,Nunavut","Nunavut"," 9","Qikiqtarjuaq",N,N,"",0,336,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,50
+62001,Nunavut","Nunavut"," 9","Qikiqtarjuaq",N,N,"",0,336,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,48
+62001,Nunavut","Nunavut"," 9","Qikiqtarjuaq",N,N,"",0,336,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+62001,Nunavut","Nunavut"," 9","Qikiqtarjuaq",N,N,"",0,336,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,10
+62001,Nunavut","Nunavut"," 10A","Pangnirtung",N,N,"",0,450,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,50
+62001,Nunavut","Nunavut"," 10A","Pangnirtung",N,N,"",0,450,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,62
+62001,Nunavut","Nunavut"," 10A","Pangnirtung",N,N,"",0,450,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+62001,Nunavut","Nunavut"," 10A","Pangnirtung",N,N,"",0,450,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,17
+62001,Nunavut","Nunavut"," 10B","Pangnirtung",N,N,"",2,319,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,40
+62001,Nunavut","Nunavut"," 10B","Pangnirtung",N,N,"",2,319,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,41
+62001,Nunavut","Nunavut"," 10B","Pangnirtung",N,N,"",2,319,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+62001,Nunavut","Nunavut"," 10B","Pangnirtung",N,N,"",2,319,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,17
+62001,Nunavut","Nunavut"," 11A","Iqaluit",N,N,"",2,393,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,42
+62001,Nunavut","Nunavut"," 11A","Iqaluit",N,N,"",2,393,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,64
+62001,Nunavut","Nunavut"," 11A","Iqaluit",N,N,"",2,393,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+62001,Nunavut","Nunavut"," 11A","Iqaluit",N,N,"",2,393,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+62001,Nunavut","Nunavut"," 11B","Iqaluit",N,N,"",2,426,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,67
+62001,Nunavut","Nunavut"," 11B","Iqaluit",N,N,"",2,426,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,80
+62001,Nunavut","Nunavut"," 11B","Iqaluit",N,N,"",2,426,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+62001,Nunavut","Nunavut"," 11B","Iqaluit",N,N,"",2,426,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,12
+62001,Nunavut","Nunavut"," 11C","Iqaluit",N,N,"",2,348,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,32
+62001,Nunavut","Nunavut"," 11C","Iqaluit",N,N,"",2,348,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,66
+62001,Nunavut","Nunavut"," 11C","Iqaluit",N,N,"",2,348,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+62001,Nunavut","Nunavut"," 11C","Iqaluit",N,N,"",2,348,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,7
+62001,Nunavut","Nunavut"," 11D","Iqaluit",N,N,"",1,312,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,43
+62001,Nunavut","Nunavut"," 11D","Iqaluit",N,N,"",1,312,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,59
+62001,Nunavut","Nunavut"," 11D","Iqaluit",N,N,"",1,312,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+62001,Nunavut","Nunavut"," 11D","Iqaluit",N,N,"",1,312,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,10
+62001,Nunavut","Nunavut"," 11E","Iqaluit",N,N,"",0,397,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,47
+62001,Nunavut","Nunavut"," 11E","Iqaluit",N,N,"",0,397,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,66
+62001,Nunavut","Nunavut"," 11E","Iqaluit",N,N,"",0,397,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+62001,Nunavut","Nunavut"," 11E","Iqaluit",N,N,"",0,397,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+62001,Nunavut","Nunavut"," 11F","Iqaluit",N,N,"",1,470,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,46
+62001,Nunavut","Nunavut"," 11F","Iqaluit",N,N,"",1,470,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,85
+62001,Nunavut","Nunavut"," 11F","Iqaluit",N,N,"",1,470,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+62001,Nunavut","Nunavut"," 11F","Iqaluit",N,N,"",1,470,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,13
+62001,Nunavut","Nunavut"," 11G","Iqaluit",N,N,"",2,371,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,36
+62001,Nunavut","Nunavut"," 11G","Iqaluit",N,N,"",2,371,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,91
+62001,Nunavut","Nunavut"," 11G","Iqaluit",N,N,"",2,371,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+62001,Nunavut","Nunavut"," 11G","Iqaluit",N,N,"",2,371,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+62001,Nunavut","Nunavut"," 11H","Iqaluit",N,N,"",0,361,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,29
+62001,Nunavut","Nunavut"," 11H","Iqaluit",N,N,"",0,361,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,73
+62001,Nunavut","Nunavut"," 11H","Iqaluit",N,N,"",0,361,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+62001,Nunavut","Nunavut"," 11H","Iqaluit",N,N,"",0,361,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,8
+62001,Nunavut","Nunavut"," 11I","Iqaluit",N,N,"",0,446,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,36
+62001,Nunavut","Nunavut"," 11I","Iqaluit",N,N,"",0,446,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,91
+62001,Nunavut","Nunavut"," 11I","Iqaluit",N,N,"",0,446,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+62001,Nunavut","Nunavut"," 11I","Iqaluit",N,N,"",0,446,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,11
+62001,Nunavut","Nunavut"," 11J","Iqaluit",N,N,"",1,289,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,36
+62001,Nunavut","Nunavut"," 11J","Iqaluit",N,N,"",1,289,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,53
+62001,Nunavut","Nunavut"," 11J","Iqaluit",N,N,"",1,289,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+62001,Nunavut","Nunavut"," 11J","Iqaluit",N,N,"",1,289,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,8
+62001,Nunavut","Nunavut"," 11K","Iqaluit",N,N,"",1,383,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,50
+62001,Nunavut","Nunavut"," 11K","Iqaluit",N,N,"",1,383,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,64
+62001,Nunavut","Nunavut"," 11K","Iqaluit",N,N,"",1,383,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+62001,Nunavut","Nunavut"," 11K","Iqaluit",N,N,"",1,383,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+62001,Nunavut","Nunavut"," 12","Kimmirut",N,N,"",0,232,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,30
+62001,Nunavut","Nunavut"," 12","Kimmirut",N,N,"",0,232,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,55
+62001,Nunavut","Nunavut"," 12","Kimmirut",N,N,"",0,232,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+62001,Nunavut","Nunavut"," 12","Kimmirut",N,N,"",0,232,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,10
+62001,Nunavut","Nunavut"," 13A","Cape Dorset",N,N,"",0,368,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,27
+62001,Nunavut","Nunavut"," 13A","Cape Dorset",N,N,"",0,368,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,47
+62001,Nunavut","Nunavut"," 13A","Cape Dorset",N,N,"",0,368,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+62001,Nunavut","Nunavut"," 13A","Cape Dorset",N,N,"",0,368,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,15
+62001,Nunavut","Nunavut"," 13B","Cape Dorset",N,N,"",0,378,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,32
+62001,Nunavut","Nunavut"," 13B","Cape Dorset",N,N,"",0,378,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,56
+62001,Nunavut","Nunavut"," 13B","Cape Dorset",N,N,"",0,378,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+62001,Nunavut","Nunavut"," 13B","Cape Dorset",N,N,"",0,378,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,11
+62001,Nunavut","Nunavut"," 14","Coral Harbour",N,N,"",0,387,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,66
+62001,Nunavut","Nunavut"," 14","Coral Harbour",N,N,"",0,387,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,23
+62001,Nunavut","Nunavut"," 14","Coral Harbour",N,N,"",0,387,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+62001,Nunavut","Nunavut"," 14","Coral Harbour",N,N,"",0,387,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,11
+62001,Nunavut","Nunavut"," 15","Sanikiluaq",N,N,"",0,414,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,69
+62001,Nunavut","Nunavut"," 15","Sanikiluaq",N,N,"",0,414,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,45
+62001,Nunavut","Nunavut"," 15","Sanikiluaq",N,N,"",0,414,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+62001,Nunavut","Nunavut"," 15","Sanikiluaq",N,N,"",0,414,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,21
+62001,Nunavut","Nunavut"," 16A","Arviat",N,N,"",0,507,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,90
+62001,Nunavut","Nunavut"," 16A","Arviat",N,N,"",0,507,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,42
+62001,Nunavut","Nunavut"," 16A","Arviat",N,N,"",0,507,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+62001,Nunavut","Nunavut"," 16A","Arviat",N,N,"",0,507,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,16
+62001,Nunavut","Nunavut"," 16B","Arviat",N,N,"",0,509,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,118
+62001,Nunavut","Nunavut"," 16B","Arviat",N,N,"",0,509,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,55
+62001,Nunavut","Nunavut"," 16B","Arviat",N,N,"",0,509,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+62001,Nunavut","Nunavut"," 16B","Arviat",N,N,"",0,509,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,30
+62001,Nunavut","Nunavut"," 17","Whale Cove",N,N,"",1,153,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,35
+62001,Nunavut","Nunavut"," 17","Whale Cove",N,N,"",1,153,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,29
+62001,Nunavut","Nunavut"," 17","Whale Cove",N,N,"",1,153,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+62001,Nunavut","Nunavut"," 17","Whale Cove",N,N,"",1,153,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,8
+62001,Nunavut","Nunavut"," 18A","Rankin Inlet",N,N,"",1,686,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,94
+62001,Nunavut","Nunavut"," 18A","Rankin Inlet",N,N,"",1,686,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,68
+62001,Nunavut","Nunavut"," 18A","Rankin Inlet",N,N,"",1,686,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+62001,Nunavut","Nunavut"," 18A","Rankin Inlet",N,N,"",1,686,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,52
+62001,Nunavut","Nunavut"," 18B","Rankin Inlet",N,N,"",1,690,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,115
+62001,Nunavut","Nunavut"," 18B","Rankin Inlet",N,N,"",1,690,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,69
+62001,Nunavut","Nunavut"," 18B","Rankin Inlet",N,N,"",1,690,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+62001,Nunavut","Nunavut"," 18B","Rankin Inlet",N,N,"",1,690,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,30
+62001,Nunavut","Nunavut"," 19","Chesterfield Inlet",N,N,"",1,202,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,26
+62001,Nunavut","Nunavut"," 19","Chesterfield Inlet",N,N,"",1,202,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,28
+62001,Nunavut","Nunavut"," 19","Chesterfield Inlet",N,N,"",1,202,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+62001,Nunavut","Nunavut"," 19","Chesterfield Inlet",N,N,"",1,202,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,32
+62001,Nunavut","Nunavut"," 20A","Baker Lake",N,N,"",0,482,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,76
+62001,Nunavut","Nunavut"," 20A","Baker Lake",N,N,"",0,482,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,41
+62001,Nunavut","Nunavut"," 20A","Baker Lake",N,N,"",0,482,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+62001,Nunavut","Nunavut"," 20A","Baker Lake",N,N,"",0,482,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,25
+62001,Nunavut","Nunavut"," 20B","Baker Lake",N,N,"",0,475,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,66
+62001,Nunavut","Nunavut"," 20B","Baker Lake",N,N,"",0,475,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,33
+62001,Nunavut","Nunavut"," 20B","Baker Lake",N,N,"",0,475,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+62001,Nunavut","Nunavut"," 20B","Baker Lake",N,N,"",0,475,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,23
+62001,Nunavut","Nunavut"," 21","Repulse Bay",N,N,"",0,332,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,81
+62001,Nunavut","Nunavut"," 21","Repulse Bay",N,N,"",0,332,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,24
+62001,Nunavut","Nunavut"," 21","Repulse Bay",N,N,"",0,332,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+62001,Nunavut","Nunavut"," 21","Repulse Bay",N,N,"",0,332,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,4
+62001,Nunavut","Nunavut"," 22","Kugaaruk",N,N,"",0,329,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,114
+62001,Nunavut","Nunavut"," 22","Kugaaruk",N,N,"",0,329,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,19
+62001,Nunavut","Nunavut"," 22","Kugaaruk",N,N,"",0,329,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+62001,Nunavut","Nunavut"," 22","Kugaaruk",N,N,"",0,329,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,14
+62001,Nunavut","Nunavut"," 23","Taloyoak",N,N,"",1,428,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,129
+62001,Nunavut","Nunavut"," 23","Taloyoak",N,N,"",1,428,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,24
+62001,Nunavut","Nunavut"," 23","Taloyoak",N,N,"",1,428,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+62001,Nunavut","Nunavut"," 23","Taloyoak",N,N,"",1,428,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,21
+62001,Nunavut","Nunavut"," 24A","Gjoa Haven",N,N,"24B",0,282,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,0
+62001,Nunavut","Nunavut"," 24A","Gjoa Haven",N,N,"24B",0,282,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,0
+62001,Nunavut","Nunavut"," 24A","Gjoa Haven",N,N,"24B",0,282,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+62001,Nunavut","Nunavut"," 24A","Gjoa Haven",N,N,"24B",0,282,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 24B","Gjoa Haven",N,N,"",2,299,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,305
+62001,Nunavut","Nunavut"," 24B","Gjoa Haven",N,N,"",2,299,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,39
+62001,Nunavut","Nunavut"," 24B","Gjoa Haven",N,N,"",2,299,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+62001,Nunavut","Nunavut"," 24B","Gjoa Haven",N,N,"",2,299,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,20
+62001,Nunavut","Nunavut"," 25A","Cambridge Bay",N,N,"",0,444,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,91
+62001,Nunavut","Nunavut"," 25A","Cambridge Bay",N,N,"",0,444,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,45
+62001,Nunavut","Nunavut"," 25A","Cambridge Bay",N,N,"",0,444,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+62001,Nunavut","Nunavut"," 25A","Cambridge Bay",N,N,"",0,444,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,15
+62001,Nunavut","Nunavut"," 25B","Cambridge Bay",N,N,"",0,458,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,84
+62001,Nunavut","Nunavut"," 25B","Cambridge Bay",N,N,"",0,458,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,36
+62001,Nunavut","Nunavut"," 25B","Cambridge Bay",N,N,"",0,458,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+62001,Nunavut","Nunavut"," 25B","Cambridge Bay",N,N,"",0,458,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,20
+62001,Nunavut","Nunavut"," 26A","Kugluktuk",N,N,"",2,383,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,61
+62001,Nunavut","Nunavut"," 26A","Kugluktuk",N,N,"",2,383,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,29
+62001,Nunavut","Nunavut"," 26A","Kugluktuk",N,N,"",2,383,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+62001,Nunavut","Nunavut"," 26A","Kugluktuk",N,N,"",2,383,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,13
+62001,Nunavut","Nunavut"," 26B","Kugluktuk",N,N,"",1,388,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,62
+62001,Nunavut","Nunavut"," 26B","Kugluktuk",N,N,"",1,388,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,31
+62001,Nunavut","Nunavut"," 26B","Kugluktuk",N,N,"",1,388,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+62001,Nunavut","Nunavut"," 26B","Kugluktuk",N,N,"",1,388,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,13
+62001,Nunavut","Nunavut"," 27","Bathurst Inlet",Y,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,0
+62001,Nunavut","Nunavut"," 27","Bathurst Inlet",Y,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,0
+62001,Nunavut","Nunavut"," 27","Bathurst Inlet",Y,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+62001,Nunavut","Nunavut"," 27","Bathurst Inlet",Y,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 28","Kugluktuk",Y,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,0
+62001,Nunavut","Nunavut"," 28","Kugluktuk",Y,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,0
+62001,Nunavut","Nunavut"," 28","Kugluktuk",Y,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+62001,Nunavut","Nunavut"," 28","Kugluktuk",Y,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 600","Pond Inlet",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,5
+62001,Nunavut","Nunavut"," 600","Pond Inlet",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,3
+62001,Nunavut","Nunavut"," 600","Pond Inlet",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+62001,Nunavut","Nunavut"," 600","Pond Inlet",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,1
+62001,Nunavut","Nunavut"," 601","Igloolik",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,3
+62001,Nunavut","Nunavut"," 601","Igloolik",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,1
+62001,Nunavut","Nunavut"," 601","Igloolik",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+62001,Nunavut","Nunavut"," 601","Igloolik",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 602","Pangnirtung",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,1
+62001,Nunavut","Nunavut"," 602","Pangnirtung",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,6
+62001,Nunavut","Nunavut"," 602","Pangnirtung",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+62001,Nunavut","Nunavut"," 602","Pangnirtung",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,1
+62001,Nunavut","Nunavut"," 603","Iqaluit",N,N,"",1,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,49
+62001,Nunavut","Nunavut"," 603","Iqaluit",N,N,"",1,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,80
+62001,Nunavut","Nunavut"," 603","Iqaluit",N,N,"",1,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+62001,Nunavut","Nunavut"," 603","Iqaluit",N,N,"",1,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,11
+62001,Nunavut","Nunavut"," 604","Cape Dorset",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,2
+62001,Nunavut","Nunavut"," 604","Cape Dorset",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,5
+62001,Nunavut","Nunavut"," 604","Cape Dorset",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+62001,Nunavut","Nunavut"," 604","Cape Dorset",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 605","Baker Lake",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,4
+62001,Nunavut","Nunavut"," 605","Baker Lake",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,2
+62001,Nunavut","Nunavut"," 605","Baker Lake",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+62001,Nunavut","Nunavut"," 605","Baker Lake",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+62001,Nunavut","Nunavut"," 606","Rankin Inlet",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,11
+62001,Nunavut","Nunavut"," 606","Rankin Inlet",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,11
+62001,Nunavut","Nunavut"," 606","Rankin Inlet",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+62001,Nunavut","Nunavut"," 606","Rankin Inlet",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+62001,Nunavut","Nunavut"," 607","Arviat",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,13
+62001,Nunavut","Nunavut"," 607","Arviat",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,14
+62001,Nunavut","Nunavut"," 607","Arviat",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+62001,Nunavut","Nunavut"," 607","Arviat",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,3
+62001,Nunavut","Nunavut"," 608","Gjoa Haven",N,N,"24B",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,0
+62001,Nunavut","Nunavut"," 608","Gjoa Haven",N,N,"24B",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,0
+62001,Nunavut","Nunavut"," 608","Gjoa Haven",N,N,"24B",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+62001,Nunavut","Nunavut"," 608","Gjoa Haven",N,N,"24B",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,0
+62001,Nunavut","Nunavut"," 609","Cambridge Bay",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,7
+62001,Nunavut","Nunavut"," 609","Cambridge Bay",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,5
+62001,Nunavut","Nunavut"," 609","Cambridge Bay",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+62001,Nunavut","Nunavut"," 609","Cambridge Bay",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,2
+62001,Nunavut","Nunavut"," 610","Kugluktuk",N,N,"",0,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,11
+62001,Nunavut","Nunavut"," 610","Kugluktuk",N,N,"",0,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,10
+62001,Nunavut","Nunavut"," 610","Kugluktuk",N,N,"",0,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+62001,Nunavut","Nunavut"," 610","Kugluktuk",N,N,"",0,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,3
+62001,Nunavut","Nunavut"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,89,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,21
+62001,Nunavut","Nunavut"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,89,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,33
+62001,Nunavut","Nunavut"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,89,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+62001,Nunavut","Nunavut"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,89,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,19
+62001,Nunavut","Nunavut"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",1,0,"Aglukkaq","","Leona","Conservative","Conservateur",N,Y,25
+62001,Nunavut","Nunavut"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",1,0,"Ejesiak","","Kirt Kootoo","Liberal","Libéral",N,N,27
+62001,Nunavut","Nunavut"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",1,0,"Irngaut","","Paul","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+62001,Nunavut","Nunavut"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",1,0,"Ittinuar","","Peter","Green Party","Parti Vert",N,N,5
+

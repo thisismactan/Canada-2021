@@ -1,0 +1,665 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",0,357,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",0,357,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",0,357,"Finnigan","","Pat","Liberal","Libéral",N,Y,132
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",0,357,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Alnwick",N,N,"",0,305,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Alnwick",N,N,"",0,305,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Alnwick",N,N,"",0,305,"Finnigan","","Pat","Liberal","Libéral",N,Y,87
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Alnwick",N,N,"",0,305,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Brantville",N,N,"",3,315,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Brantville",N,N,"",3,315,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Brantville",N,N,"",3,315,"Finnigan","","Pat","Liberal","Libéral",N,Y,131
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Brantville",N,N,"",3,315,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",2,272,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",2,272,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",2,272,"Finnigan","","Pat","Liberal","Libéral",N,Y,120
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",2,272,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,288,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,288,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,288,"Finnigan","","Pat","Liberal","Libéral",N,Y,119
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,288,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,362,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,362,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,362,"Finnigan","","Pat","Liberal","Libéral",N,Y,144
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,362,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",0,406,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",0,406,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",0,406,"Finnigan","","Pat","Liberal","Libéral",N,Y,124
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",0,406,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",1,385,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",1,385,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",1,385,"Finnigan","","Pat","Liberal","Libéral",N,Y,133
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",1,385,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",2,315,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",2,315,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",2,315,"Finnigan","","Pat","Liberal","Libéral",N,Y,111
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",2,315,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",0,333,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",0,333,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",0,333,"Finnigan","","Pat","Liberal","Libéral",N,Y,116
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",0,333,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",4,363,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",4,363,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",4,363,"Finnigan","","Pat","Liberal","Libéral",N,Y,152
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",4,363,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",0,346,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",0,346,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",0,346,"Finnigan","","Pat","Liberal","Libéral",N,Y,142
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",0,346,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",0,261,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",0,261,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",0,261,"Finnigan","","Pat","Liberal","Libéral",N,Y,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",0,261,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,380,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,380,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,380,"Finnigan","","Pat","Liberal","Libéral",N,Y,158
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,380,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",1,404,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",1,404,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",1,404,"Finnigan","","Pat","Liberal","Libéral",N,Y,129
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",1,404,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Alnwick",N,N,"",0,368,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Alnwick",N,N,"",0,368,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Alnwick",N,N,"",0,368,"Finnigan","","Pat","Liberal","Libéral",N,Y,137
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Alnwick",N,N,"",0,368,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Lagacéville",N,N,"",2,453,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Lagacéville",N,N,"",2,453,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Lagacéville",N,N,"",2,453,"Finnigan","","Pat","Liberal","Libéral",N,Y,168
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Lagacéville",N,N,"",2,453,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Saint-Wilfred",N,N,"",1,229,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Saint-Wilfred",N,N,"",1,229,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Saint-Wilfred",N,N,"",1,229,"Finnigan","","Pat","Liberal","Libéral",N,Y,94
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Saint-Wilfred",N,N,"",1,229,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Lavillette",N,N,"",1,286,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Lavillette",N,N,"",1,286,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Lavillette",N,N,"",1,286,"Finnigan","","Pat","Liberal","Libéral",N,Y,129
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Lavillette",N,N,"",1,286,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Alnwick",N,N,"",2,306,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Alnwick",N,N,"",2,306,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Alnwick",N,N,"",2,306,"Finnigan","","Pat","Liberal","Libéral",N,Y,128
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Alnwick",N,N,"",2,306,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","Lower Newcastle",N,N,"",1,364,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","Lower Newcastle",N,N,"",1,364,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","Lower Newcastle",N,N,"",1,364,"Finnigan","","Pat","Liberal","Libéral",N,Y,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","Lower Newcastle",N,N,"",1,364,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Bartibog Bridge",N,N,"",2,399,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Bartibog Bridge",N,N,"",2,399,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Bartibog Bridge",N,N,"",2,399,"Finnigan","","Pat","Liberal","Libéral",N,Y,81
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Bartibog Bridge",N,N,"",2,399,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,106
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Lower Newcastle",N,N,"",1,443,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Lower Newcastle",N,N,"",1,443,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Lower Newcastle",N,N,"",1,443,"Finnigan","","Pat","Liberal","Libéral",N,Y,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Lower Newcastle",N,N,"",1,443,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,109
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Miramichi",N,N,"",3,426,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Miramichi",N,N,"",3,426,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Miramichi",N,N,"",3,426,"Finnigan","","Pat","Liberal","Libéral",N,Y,88
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Miramichi",N,N,"",3,426,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,103
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Miramichi",N,N,"",1,411,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Miramichi",N,N,"",1,411,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Miramichi",N,N,"",1,411,"Finnigan","","Pat","Liberal","Libéral",N,Y,88
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Miramichi",N,N,"",1,411,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,87
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Miramichi",N,N,"",0,496,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Miramichi",N,N,"",0,496,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Miramichi",N,N,"",0,496,"Finnigan","","Pat","Liberal","Libéral",N,Y,111
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Miramichi",N,N,"",0,496,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,110
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Miramichi",N,N,"",1,363,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Miramichi",N,N,"",1,363,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Miramichi",N,N,"",1,363,"Finnigan","","Pat","Liberal","Libéral",N,Y,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Miramichi",N,N,"",1,363,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,85
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",1,278,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",1,278,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",1,278,"Finnigan","","Pat","Liberal","Libéral",N,Y,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",1,278,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","New Jersey",N,N,"",0,241,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","New Jersey",N,N,"",0,241,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","New Jersey",N,N,"",0,241,"Finnigan","","Pat","Liberal","Libéral",N,Y,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","New Jersey",N,N,"",0,241,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Escuminac",N,N,"",1,399,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Escuminac",N,N,"",1,399,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Escuminac",N,N,"",1,399,"Finnigan","","Pat","Liberal","Libéral",N,Y,128
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Escuminac",N,N,"",1,399,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Escuminac",N,N,"",3,284,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Escuminac",N,N,"",3,284,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Escuminac",N,N,"",3,284,"Finnigan","","Pat","Liberal","Libéral",N,Y,83
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Escuminac",N,N,"",3,284,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Baie-Sainte-Anne",N,N,"",1,398,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Baie-Sainte-Anne",N,N,"",1,398,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Baie-Sainte-Anne",N,N,"",1,398,"Finnigan","","Pat","Liberal","Libéral",N,Y,133
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Baie-Sainte-Anne",N,N,"",1,398,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Eel River Bridge",N,N,"",0,209,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Eel River Bridge",N,N,"",0,209,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Eel River Bridge",N,N,"",0,209,"Finnigan","","Pat","Liberal","Libéral",N,Y,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Eel River Bridge",N,N,"",0,209,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Hardwicke",N,N,"",1,259,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Hardwicke",N,N,"",1,259,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Hardwicke",N,N,"",1,259,"Finnigan","","Pat","Liberal","Libéral",N,Y,76
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Hardwicke",N,N,"",1,259,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Bay du Vin",N,N,"",2,377,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Bay du Vin",N,N,"",2,377,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Bay du Vin",N,N,"",2,377,"Finnigan","","Pat","Liberal","Libéral",N,Y,83
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Bay du Vin",N,N,"",2,377,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,126
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Pointe-Sapin",N,N,"",3,421,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Pointe-Sapin",N,N,"",3,421,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Pointe-Sapin",N,N,"",3,421,"Finnigan","","Pat","Liberal","Libéral",N,Y,231
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Pointe-Sapin",N,N,"",3,421,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","St. Margarets",N,N,"",1,202,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","St. Margarets",N,N,"",1,202,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","St. Margarets",N,N,"",1,202,"Finnigan","","Pat","Liberal","Libéral",N,Y,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","St. Margarets",N,N,"",1,202,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,48
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","St. Margarets",N,N,"",0,369,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","St. Margarets",N,N,"",0,369,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","St. Margarets",N,N,"",0,369,"Finnigan","","Pat","Liberal","Libéral",N,Y,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","St. Margarets",N,N,"",0,369,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,124
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Centre Napan",N,N,"",1,345,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Centre Napan",N,N,"",1,345,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Centre Napan",N,N,"",1,345,"Finnigan","","Pat","Liberal","Libéral",N,Y,99
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Centre Napan",N,N,"",1,345,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,95
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Lower Napan",N,N,"",1,319,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Lower Napan",N,N,"",1,319,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Lower Napan",N,N,"",1,319,"Finnigan","","Pat","Liberal","Libéral",N,Y,76
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Lower Napan",N,N,"",1,319,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,84
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Glenwood",N,N,"",3,435,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Glenwood",N,N,"",3,435,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Glenwood",N,N,"",3,435,"Finnigan","","Pat","Liberal","Libéral",N,Y,92
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Glenwood",N,N,"",3,435,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,123
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Chatham",N,N,"",2,348,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Chatham",N,N,"",2,348,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Chatham",N,N,"",2,348,"Finnigan","","Pat","Liberal","Libéral",N,Y,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Chatham",N,N,"",2,348,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,96
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,342,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,342,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,342,"Finnigan","","Pat","Liberal","Libéral",N,Y,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,342,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,91
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Miramichi",N,N,"",0,352,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Miramichi",N,N,"",0,352,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Miramichi",N,N,"",0,352,"Finnigan","","Pat","Liberal","Libéral",N,Y,67
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Miramichi",N,N,"",0,352,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,99
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Miramichi",N,N,"",2,434,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Miramichi",N,N,"",2,434,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Miramichi",N,N,"",2,434,"Finnigan","","Pat","Liberal","Libéral",N,Y,94
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Miramichi",N,N,"",2,434,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,96
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Miramichi",N,N,"",0,439,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Miramichi",N,N,"",0,439,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Miramichi",N,N,"",0,439,"Finnigan","","Pat","Liberal","Libéral",N,Y,86
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Miramichi",N,N,"",0,439,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Miramichi",N,N,"",0,389,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Miramichi",N,N,"",0,389,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Miramichi",N,N,"",0,389,"Finnigan","","Pat","Liberal","Libéral",N,Y,81
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Miramichi",N,N,"",0,389,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Miramichi",N,N,"",1,414,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Miramichi",N,N,"",1,414,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Miramichi",N,N,"",1,414,"Finnigan","","Pat","Liberal","Libéral",N,Y,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Miramichi",N,N,"",1,414,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",0,428,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",0,428,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",0,428,"Finnigan","","Pat","Liberal","Libéral",N,Y,88
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",0,428,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",0,448,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",0,448,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",0,448,"Finnigan","","Pat","Liberal","Libéral",N,Y,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",0,448,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,94
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",0,416,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",0,416,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",0,416,"Finnigan","","Pat","Liberal","Libéral",N,Y,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",0,416,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,426,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,426,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,426,"Finnigan","","Pat","Liberal","Libéral",N,Y,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,426,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,70
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",2,405,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",2,405,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",2,405,"Finnigan","","Pat","Liberal","Libéral",N,Y,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",2,405,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,89
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","Miramichi",N,N,"",1,354,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","Miramichi",N,N,"",1,354,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","Miramichi",N,N,"",1,354,"Finnigan","","Pat","Liberal","Libéral",N,Y,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","Miramichi",N,N,"",1,354,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",1,445,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",1,445,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",1,445,"Finnigan","","Pat","Liberal","Libéral",N,Y,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",1,445,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,111
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,364,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,364,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,364,"Finnigan","","Pat","Liberal","Libéral",N,Y,107
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,364,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,348,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,348,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,348,"Finnigan","","Pat","Liberal","Libéral",N,Y,84
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,348,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,108
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",0,457,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",0,457,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",0,457,"Finnigan","","Pat","Liberal","Libéral",N,Y,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",0,457,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Miramichi",N,N,"",1,456,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Miramichi",N,N,"",1,456,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Miramichi",N,N,"",1,456,"Finnigan","","Pat","Liberal","Libéral",N,Y,95
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Miramichi",N,N,"",1,456,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,77
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",2,481,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",2,481,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",2,481,"Finnigan","","Pat","Liberal","Libéral",N,Y,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",2,481,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",0,446,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",0,446,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",0,446,"Finnigan","","Pat","Liberal","Libéral",N,Y,85
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",0,446,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,71
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Bellefond--Beaver Brook",N,N,"",5,414,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Bellefond--Beaver Brook",N,N,"",5,414,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Bellefond--Beaver Brook",N,N,"",5,414,"Finnigan","","Pat","Liberal","Libéral",N,Y,136
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Bellefond--Beaver Brook",N,N,"",5,414,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,86
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Curventon",N,N,"",2,409,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Curventon",N,N,"",2,409,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Curventon",N,N,"",2,409,"Finnigan","","Pat","Liberal","Libéral",N,Y,63
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Curventon",N,N,"",2,409,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,102
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Maple Glen",N,N,"",1,264,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Maple Glen",N,N,"",1,264,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Maple Glen",N,N,"",1,264,"Finnigan","","Pat","Liberal","Libéral",N,Y,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Maple Glen",N,N,"",1,264,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Maple Glen",N,N,"",0,254,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Maple Glen",N,N,"",0,254,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Maple Glen",N,N,"",0,254,"Finnigan","","Pat","Liberal","Libéral",N,Y,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Maple Glen",N,N,"",0,254,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,455,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,455,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,455,"Finnigan","","Pat","Liberal","Libéral",N,Y,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,455,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,387,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,387,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,387,"Finnigan","","Pat","Liberal","Libéral",N,Y,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,387,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,87
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",4,346,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",4,346,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",4,346,"Finnigan","","Pat","Liberal","Libéral",N,Y,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",4,346,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,349,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,349,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,349,"Finnigan","","Pat","Liberal","Libéral",N,Y,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,349,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,94
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",1,388,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",1,388,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",1,388,"Finnigan","","Pat","Liberal","Libéral",N,Y,72
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",1,388,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Miramichi",N,N,"",0,366,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Miramichi",N,N,"",0,366,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Miramichi",N,N,"",0,366,"Finnigan","","Pat","Liberal","Libéral",N,Y,72
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Miramichi",N,N,"",0,366,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",3,423,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",3,423,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",3,423,"Finnigan","","Pat","Liberal","Libéral",N,Y,202
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",3,423,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Whitney",N,N,"",1,349,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Whitney",N,N,"",1,349,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Whitney",N,N,"",1,349,"Finnigan","","Pat","Liberal","Libéral",N,Y,72
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Whitney",N,N,"",1,349,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Whitney",N,N,"",0,351,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Whitney",N,N,"",0,351,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Whitney",N,N,"",0,351,"Finnigan","","Pat","Liberal","Libéral",N,Y,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Whitney",N,N,"",0,351,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,85
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Exmoor",N,N,"",6,293,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Exmoor",N,N,"",6,293,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Exmoor",N,N,"",6,293,"Finnigan","","Pat","Liberal","Libéral",N,Y,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Exmoor",N,N,"",6,293,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Boom Road",N,N,"",1,311,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Boom Road",N,N,"",1,311,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Boom Road",N,N,"",1,311,"Finnigan","","Pat","Liberal","Libéral",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Boom Road",N,N,"",1,311,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Millerton",N,N,"",1,342,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Millerton",N,N,"",1,342,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Millerton",N,N,"",1,342,"Finnigan","","Pat","Liberal","Libéral",N,Y,70
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Millerton",N,N,"",1,342,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,113
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Williamstown",N,N,"",2,408,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Williamstown",N,N,"",2,408,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Williamstown",N,N,"",2,408,"Finnigan","","Pat","Liberal","Libéral",N,Y,77
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Williamstown",N,N,"",2,408,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,129
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Williamstown",N,N,"",1,393,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Williamstown",N,N,"",1,393,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Williamstown",N,N,"",1,393,"Finnigan","","Pat","Liberal","Libéral",N,Y,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Williamstown",N,N,"",1,393,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,94
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Williamstown",N,N,"",4,360,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Williamstown",N,N,"",4,360,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Williamstown",N,N,"",4,360,"Finnigan","","Pat","Liberal","Libéral",N,Y,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Williamstown",N,N,"",4,360,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Miramichi",N,N,"",1,298,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Miramichi",N,N,"",1,298,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Miramichi",N,N,"",1,298,"Finnigan","","Pat","Liberal","Libéral",N,Y,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Miramichi",N,N,"",1,298,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,83
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","Miramichi",N,N,"",3,376,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","Miramichi",N,N,"",3,376,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","Miramichi",N,N,"",3,376,"Finnigan","","Pat","Liberal","Libéral",N,Y,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","Miramichi",N,N,"",3,376,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,108
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Miramichi",N,N,"",0,347,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Miramichi",N,N,"",0,347,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Miramichi",N,N,"",0,347,"Finnigan","","Pat","Liberal","Libéral",N,Y,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Miramichi",N,N,"",0,347,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,95
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Nelson",N,N,"",1,221,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Nelson",N,N,"",1,221,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Nelson",N,N,"",1,221,"Finnigan","","Pat","Liberal","Libéral",N,Y,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Nelson",N,N,"",1,221,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","Barnaby River",N,N,"",2,251,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","Barnaby River",N,N,"",2,251,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","Barnaby River",N,N,"",2,251,"Finnigan","","Pat","Liberal","Libéral",N,Y,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","Barnaby River",N,N,"",2,251,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Barnaby River",N,N,"",2,246,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Barnaby River",N,N,"",2,246,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Barnaby River",N,N,"",2,246,"Finnigan","","Pat","Liberal","Libéral",N,Y,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Barnaby River",N,N,"",2,246,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","East Collette",N,N,"",0,191,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","East Collette",N,N,"",0,191,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","East Collette",N,N,"",0,191,"Finnigan","","Pat","Liberal","Libéral",N,Y,102
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","East Collette",N,N,"",0,191,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Collette",N,N,"",1,207,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Collette",N,N,"",1,207,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Collette",N,N,"",1,207,"Finnigan","","Pat","Liberal","Libéral",N,Y,88
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Collette",N,N,"",1,207,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",0,245,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",0,245,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",0,245,"Finnigan","","Pat","Liberal","Libéral",N,Y,76
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",0,245,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",0,335,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",0,335,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",0,335,"Finnigan","","Pat","Liberal","Libéral",N,Y,125
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",0,335,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",1,321,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",1,321,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",1,321,"Finnigan","","Pat","Liberal","Libéral",N,Y,129
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",1,321,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",1,276,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",1,276,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",1,276,"Finnigan","","Pat","Liberal","Libéral",N,Y,92
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",1,276,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",3,319,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",3,319,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",3,319,"Finnigan","","Pat","Liberal","Libéral",N,Y,109
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",3,319,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Acadieville",N,N,"",3,280,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Acadieville",N,N,"",3,280,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Acadieville",N,N,"",3,280,"Finnigan","","Pat","Liberal","Libéral",N,Y,126
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Acadieville",N,N,"",3,280,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Acadieville",N,N,"",1,330,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Acadieville",N,N,"",1,330,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Acadieville",N,N,"",1,330,"Finnigan","","Pat","Liberal","Libéral",N,Y,125
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Acadieville",N,N,"",1,330,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Kouchibouguac",N,N,"",1,213,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Kouchibouguac",N,N,"",1,213,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Kouchibouguac",N,N,"",1,213,"Finnigan","","Pat","Liberal","Libéral",N,Y,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Kouchibouguac",N,N,"",1,213,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Bass River",N,N,"",0,301,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Bass River",N,N,"",0,301,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Bass River",N,N,"",0,301,"Finnigan","","Pat","Liberal","Libéral",N,Y,129
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Bass River",N,N,"",0,301,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Elsipogtog",N,N,"",0,465,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Elsipogtog",N,N,"",0,465,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Elsipogtog",N,N,"",0,465,"Finnigan","","Pat","Liberal","Libéral",N,Y,91
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Elsipogtog",N,N,"",0,465,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Elsipogtog",N,N,"",0,288,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Elsipogtog",N,N,"",0,288,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Elsipogtog",N,N,"",0,288,"Finnigan","","Pat","Liberal","Libéral",N,Y,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Elsipogtog",N,N,"",0,288,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Elsipogtog",N,N,"",0,222,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Elsipogtog",N,N,"",0,222,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Elsipogtog",N,N,"",0,222,"Finnigan","","Pat","Liberal","Libéral",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Elsipogtog",N,N,"",0,222,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Elsipogtog",N,N,"",0,442,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Elsipogtog",N,N,"",0,442,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Elsipogtog",N,N,"",0,442,"Finnigan","","Pat","Liberal","Libéral",N,Y,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Elsipogtog",N,N,"",0,442,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",2,245,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",2,245,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",2,245,"Finnigan","","Pat","Liberal","Libéral",N,Y,91
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",2,245,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","South Branch--West Branch",N,N,"",1,246,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","South Branch--West Branch",N,N,"",1,246,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","South Branch--West Branch",N,N,"",1,246,"Finnigan","","Pat","Liberal","Libéral",N,Y,100
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","South Branch--West Branch",N,N,"",1,246,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Beersville",N,N,"",1,311,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Beersville",N,N,"",1,311,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Beersville",N,N,"",1,311,"Finnigan","","Pat","Liberal","Libéral",N,Y,111
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Beersville",N,N,"",1,311,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Harcourt",N,N,"",0,313,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Harcourt",N,N,"",0,313,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Harcourt",N,N,"",0,313,"Finnigan","","Pat","Liberal","Libéral",N,Y,111
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Harcourt",N,N,"",0,313,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","Blackville",N,N,"",2,337,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","Blackville",N,N,"",2,337,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","Blackville",N,N,"",2,337,"Finnigan","","Pat","Liberal","Libéral",N,Y,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","Blackville",N,N,"",2,337,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,92
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","Blackville",N,N,"",0,374,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","Blackville",N,N,"",0,374,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","Blackville",N,N,"",0,374,"Finnigan","","Pat","Liberal","Libéral",N,Y,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","Blackville",N,N,"",0,374,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,108
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Blackville",N,N,"",4,375,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Blackville",N,N,"",4,375,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Blackville",N,N,"",4,375,"Finnigan","","Pat","Liberal","Libéral",N,Y,62
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Blackville",N,N,"",4,375,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Upper Blackville",N,N,"",0,306,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Upper Blackville",N,N,"",0,306,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Upper Blackville",N,N,"",0,306,"Finnigan","","Pat","Liberal","Libéral",N,Y,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Upper Blackville",N,N,"",0,306,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,70
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","White Rapids",N,N,"",2,371,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","White Rapids",N,N,"",2,371,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","White Rapids",N,N,"",2,371,"Finnigan","","Pat","Liberal","Libéral",N,Y,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","White Rapids",N,N,"",2,371,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,97
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Renous",N,N,"",2,347,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Renous",N,N,"",2,347,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Renous",N,N,"",2,347,"Finnigan","","Pat","Liberal","Libéral",N,Y,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Renous",N,N,"",2,347,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Renous",N,N,"",1,379,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Renous",N,N,"",1,379,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Renous",N,N,"",1,379,"Finnigan","","Pat","Liberal","Libéral",N,Y,138
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Renous",N,N,"",1,379,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Warwick Settlement",N,N,"",1,218,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Warwick Settlement",N,N,"",1,218,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Warwick Settlement",N,N,"",1,218,"Finnigan","","Pat","Liberal","Libéral",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Warwick Settlement",N,N,"",1,218,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Warwick Settlement",N,N,"",0,248,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Warwick Settlement",N,N,"",0,248,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Warwick Settlement",N,N,"",0,248,"Finnigan","","Pat","Liberal","Libéral",N,Y,79
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Warwick Settlement",N,N,"",0,248,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Red Bank 4",N,N,"",0,319,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Red Bank 4",N,N,"",0,319,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Red Bank 4",N,N,"",0,319,"Finnigan","","Pat","Liberal","Libéral",N,Y,111
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Red Bank 4",N,N,"",0,319,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Matthews",N,N,"",0,321,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Matthews",N,N,"",0,321,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Matthews",N,N,"",0,321,"Finnigan","","Pat","Liberal","Libéral",N,Y,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Matthews",N,N,"",0,321,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,102
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Blissfield",N,N,"",0,383,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Blissfield",N,N,"",0,383,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Blissfield",N,N,"",0,383,"Finnigan","","Pat","Liberal","Libéral",N,Y,67
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Blissfield",N,N,"",0,383,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,117
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Storeytown",N,N,"",1,349,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Storeytown",N,N,"",1,349,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Storeytown",N,N,"",1,349,"Finnigan","","Pat","Liberal","Libéral",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Storeytown",N,N,"",1,349,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Blissfield",N,N,"",1,374,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Blissfield",N,N,"",1,374,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Blissfield",N,N,"",1,374,"Finnigan","","Pat","Liberal","Libéral",N,Y,67
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Blissfield",N,N,"",1,374,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Holtville",N,N,"",1,385,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Holtville",N,N,"",1,385,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Holtville",N,N,"",1,385,"Finnigan","","Pat","Liberal","Libéral",N,Y,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Holtville",N,N,"",1,385,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,108
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Bloomfield Ridge",N,N,"",0,379,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Bloomfield Ridge",N,N,"",0,379,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Bloomfield Ridge",N,N,"",0,379,"Finnigan","","Pat","Liberal","Libéral",N,Y,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Bloomfield Ridge",N,N,"",0,379,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,143
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Parker Ridge",N,N,"",0,426,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Parker Ridge",N,N,"",0,426,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Parker Ridge",N,N,"",0,426,"Finnigan","","Pat","Liberal","Libéral",N,Y,101
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Parker Ridge",N,N,"",0,426,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,109
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Ludlow",N,N,"",2,335,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Ludlow",N,N,"",2,335,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Ludlow",N,N,"",2,335,"Finnigan","","Pat","Liberal","Libéral",N,Y,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Ludlow",N,N,"",2,335,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,100
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Ludlow",N,N,"",0,287,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Ludlow",N,N,"",0,287,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Ludlow",N,N,"",0,287,"Finnigan","","Pat","Liberal","Libéral",N,Y,70
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Ludlow",N,N,"",0,287,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",7,257,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",7,257,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",7,257,"Finnigan","","Pat","Liberal","Libéral",N,Y,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",7,257,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,292,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,292,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,292,"Finnigan","","Pat","Liberal","Libéral",N,Y,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,292,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Chipman",N,N,"",3,368,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Chipman",N,N,"",3,368,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Chipman",N,N,"",3,368,"Finnigan","","Pat","Liberal","Libéral",N,Y,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Chipman",N,N,"",3,368,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",0,310,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",0,310,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",0,310,"Finnigan","","Pat","Liberal","Libéral",N,Y,58
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",0,310,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,262,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,262,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,262,"Finnigan","","Pat","Liberal","Libéral",N,Y,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,262,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Northfield",N,N,"",0,312,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Northfield",N,N,"",0,312,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Northfield",N,N,"",0,312,"Finnigan","","Pat","Liberal","Libéral",N,Y,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Northfield",N,N,"",0,312,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Chipman",N,N,"",1,294,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Chipman",N,N,"",1,294,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Chipman",N,N,"",1,294,"Finnigan","","Pat","Liberal","Libéral",N,Y,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Chipman",N,N,"",1,294,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Minto",N,N,"",1,275,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Minto",N,N,"",1,275,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Minto",N,N,"",1,275,"Finnigan","","Pat","Liberal","Libéral",N,Y,61
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Minto",N,N,"",1,275,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,299,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,299,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,299,"Finnigan","","Pat","Liberal","Libéral",N,Y,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,299,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",3,264,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",3,264,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",3,264,"Finnigan","","Pat","Liberal","Libéral",N,Y,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",3,264,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",2,263,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",2,263,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",2,263,"Finnigan","","Pat","Liberal","Libéral",N,Y,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",2,263,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,305,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,305,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,305,"Finnigan","","Pat","Liberal","Libéral",N,Y,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,305,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,41
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Northfield",N,N,"",0,252,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Northfield",N,N,"",0,252,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Northfield",N,N,"",0,252,"Finnigan","","Pat","Liberal","Libéral",N,Y,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Northfield",N,N,"",0,252,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,273,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,273,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,273,"Finnigan","","Pat","Liberal","Libéral",N,Y,58
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,273,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Minto",N,N,"",0,296,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Minto",N,N,"",0,296,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Minto",N,N,"",0,296,"Finnigan","","Pat","Liberal","Libéral",N,Y,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Minto",N,N,"",0,296,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 140","Newcastle Creek",N,N,"",0,335,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 140","Newcastle Creek",N,N,"",0,335,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 140","Newcastle Creek",N,N,"",0,335,"Finnigan","","Pat","Liberal","Libéral",N,Y,83
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 140","Newcastle Creek",N,N,"",0,335,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"",0,94,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"",0,94,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"",0,94,"Finnigan","","Pat","Liberal","Libéral",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"",0,94,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"",1,132,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"",1,132,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"",1,132,"Finnigan","","Pat","Liberal","Libéral",N,Y,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"",1,132,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"",2,121,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"",2,121,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"",2,121,"Finnigan","","Pat","Liberal","Libéral",N,Y,32
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"",2,121,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503A","Mobile poll/Bureau itinérant",N,N,"",0,108,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503A","Mobile poll/Bureau itinérant",N,N,"",0,108,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503A","Mobile poll/Bureau itinérant",N,N,"",0,108,"Finnigan","","Pat","Liberal","Libéral",N,Y,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503A","Mobile poll/Bureau itinérant",N,N,"",0,108,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503B","Mobile poll/Bureau itinérant",N,N,"504A",0,30,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503B","Mobile poll/Bureau itinérant",N,N,"504A",0,30,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503B","Mobile poll/Bureau itinérant",N,N,"504A",0,30,"Finnigan","","Pat","Liberal","Libéral",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503B","Mobile poll/Bureau itinérant",N,N,"504A",0,30,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,57,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,57,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,57,"Finnigan","","Pat","Liberal","Libéral",N,Y,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504A","Mobile poll/Bureau itinérant",N,N,"",0,57,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504B","Minto",N,N,"134",0,10,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504B","Minto",N,N,"134",0,10,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504B","Minto",N,N,"134",0,10,"Finnigan","","Pat","Liberal","Libéral",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504B","Minto",N,N,"134",0,10,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504C","Chipman",N,N,"126",0,9,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504C","Chipman",N,N,"126",0,9,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504C","Chipman",N,N,"126",0,9,"Finnigan","","Pat","Liberal","Libéral",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504C","Chipman",N,N,"126",0,9,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504D","Chipman",N,N,"127",0,19,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504D","Chipman",N,N,"127",0,19,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504D","Chipman",N,N,"127",0,19,"Finnigan","","Pat","Liberal","Libéral",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504D","Chipman",N,N,"127",0,19,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",0,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",0,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",0,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,225
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",0,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,371
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",0,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",0,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",0,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,71
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",0,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",2,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",2,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",2,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,267
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",2,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,421
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Neguac",N,N,"",2,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Neguac",N,N,"",2,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Neguac",N,N,"",2,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,251
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Neguac",N,N,"",2,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Neguac",N,N,"",4,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Neguac",N,N,"",4,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Neguac",N,N,"",4,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,423
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Neguac",N,N,"",4,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,94
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Baie-Sainte-Anne",N,N,"",6,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Baie-Sainte-Anne",N,N,"",6,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Baie-Sainte-Anne",N,N,"",6,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,364
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Baie-Sainte-Anne",N,N,"",6,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,110
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Miramichi",N,N,"",7,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Miramichi",N,N,"",7,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,132
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Miramichi",N,N,"",7,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,437
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Miramichi",N,N,"",7,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,610
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Miramichi",N,N,"",5,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,32
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Miramichi",N,N,"",5,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,127
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Miramichi",N,N,"",5,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,416
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Miramichi",N,N,"",5,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,552
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",1,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",1,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",1,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,171
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",1,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,187
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,580
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,52
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Blackville",N,N,"",5,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Blackville",N,N,"",5,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Blackville",N,N,"",5,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,196
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Blackville",N,N,"",5,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,279
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Rexton",N,N,"",1,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Rexton",N,N,"",1,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,207
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Rexton",N,N,"",1,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,219
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Rexton",N,N,"",1,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Deaktown",N,N,"",9,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Deaktown",N,N,"",9,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Deaktown",N,N,"",9,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,123
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Deaktown",N,N,"",9,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,220
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Chipman",N,N,"",2,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,36
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Chipman",N,N,"",2,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Chipman",N,N,"",2,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,264
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Chipman",N,N,"",2,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,267
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Minto",N,N,"",7,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Minto",N,N,"",7,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Minto",N,N,"",7,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,287
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Minto",N,N,"",7,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,218
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,66,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,66,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,66,"Finnigan","","Pat","Liberal","Libéral",N,Y,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,66,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",29,0,"Clark","","Matthew Ian","Green Party","Parti Vert",N,N,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",29,0,"Colford","","Patrick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,186
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",29,0,"Finnigan","","Pat","Liberal","Libéral",N,Y,674
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",29,0,"O'Neill-Gordon","","Tilly","Conservative","Conservateur",Y,N,618

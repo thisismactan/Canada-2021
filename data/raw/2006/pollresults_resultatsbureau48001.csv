@@ -1,0 +1,991 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 1","Garden Creek",N,N,"4",0,20,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 1","Garden Creek",N,N,"4",0,20,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 1","Garden Creek",N,N,"4",0,20,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 1","Garden Creek",N,N,"4",0,20,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 1","Garden Creek",N,N,"4",0,20,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 2","Chipewyan Lakes ",N,N,"4",0,7,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 2","Chipewyan Lakes ",N,N,"4",0,7,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 2","Chipewyan Lakes ",N,N,"4",0,7,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 2","Chipewyan Lakes ",N,N,"4",0,7,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 2","Chipewyan Lakes ",N,N,"4",0,7,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 3","Peerless Lake ",Y,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 3","Peerless Lake ",Y,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 3","Peerless Lake ",Y,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 3","Peerless Lake ",Y,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 3","Peerless Lake ",Y,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 4","Peerless Lake ",N,N,"",0,221,"Buffalo","","Mel H.","Liberal","Libéral",N,N,53
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 4","Peerless Lake ",N,N,"",0,221,"Hopfe","","Ian","Green Party","Parti Vert",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 4","Peerless Lake ",N,N,"",0,221,"Jean","","Brian","Conservative","Conservateur",Y,Y,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 4","Peerless Lake ",N,N,"",0,221,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 4","Peerless Lake ",N,N,"",0,221,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 5","Red Earth Creek ",N,N,"",1,338,"Buffalo","","Mel H.","Liberal","Libéral",N,N,47
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 5","Red Earth Creek ",N,N,"",1,338,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 5","Red Earth Creek ",N,N,"",1,338,"Jean","","Brian","Conservative","Conservateur",Y,Y,126
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 5","Red Earth Creek ",N,N,"",1,338,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 5","Red Earth Creek ",N,N,"",1,338,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 6","Red Earth Creek ",N,N,"5",0,103,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 6","Red Earth Creek ",N,N,"5",0,103,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 6","Red Earth Creek ",N,N,"5",0,103,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 6","Red Earth Creek ",N,N,"5",0,103,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 6","Red Earth Creek ",N,N,"5",0,103,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 7","Trout Lake",N,N,"",3,174,"Buffalo","","Mel H.","Liberal","Libéral",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 7","Trout Lake",N,N,"",3,174,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 7","Trout Lake",N,N,"",3,174,"Jean","","Brian","Conservative","Conservateur",Y,Y,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 7","Trout Lake",N,N,"",3,174,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 7","Trout Lake",N,N,"",3,174,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 8","Atikameg",N,N,"",0,430,"Buffalo","","Mel H.","Liberal","Libéral",N,N,84
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 8","Atikameg",N,N,"",0,430,"Hopfe","","Ian","Green Party","Parti Vert",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 8","Atikameg",N,N,"",0,430,"Jean","","Brian","Conservative","Conservateur",Y,Y,33
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 8","Atikameg",N,N,"",0,430,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 8","Atikameg",N,N,"",0,430,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9A","Wabasca",N,N,"",1,486,"Buffalo","","Mel H.","Liberal","Libéral",N,N,129
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9A","Wabasca",N,N,"",1,486,"Hopfe","","Ian","Green Party","Parti Vert",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9A","Wabasca",N,N,"",1,486,"Jean","","Brian","Conservative","Conservateur",Y,Y,67
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9A","Wabasca",N,N,"",1,486,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9A","Wabasca",N,N,"",1,486,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9B","Wabasca",N,N,"",0,654,"Buffalo","","Mel H.","Liberal","Libéral",N,N,153
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9B","Wabasca",N,N,"",0,654,"Hopfe","","Ian","Green Party","Parti Vert",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9B","Wabasca",N,N,"",0,654,"Jean","","Brian","Conservative","Conservateur",Y,Y,74
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9B","Wabasca",N,N,"",0,654,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 9B","Wabasca",N,N,"",0,654,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 10","Wabasca",N,N,"",1,445,"Buffalo","","Mel H.","Liberal","Libéral",N,N,129
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 10","Wabasca",N,N,"",1,445,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 10","Wabasca",N,N,"",1,445,"Jean","","Brian","Conservative","Conservateur",Y,Y,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 10","Wabasca",N,N,"",1,445,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 10","Wabasca",N,N,"",1,445,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 11","Sandy Lake ",N,N,"",0,280,"Buffalo","","Mel H.","Liberal","Libéral",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 11","Sandy Lake ",N,N,"",0,280,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 11","Sandy Lake ",N,N,"",0,280,"Jean","","Brian","Conservative","Conservateur",Y,Y,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 11","Sandy Lake ",N,N,"",0,280,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 11","Sandy Lake ",N,N,"",0,280,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 12","Calling Lake ",N,N,"",0,387,"Buffalo","","Mel H.","Liberal","Libéral",N,N,92
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 12","Calling Lake ",N,N,"",0,387,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 12","Calling Lake ",N,N,"",0,387,"Jean","","Brian","Conservative","Conservateur",Y,Y,65
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 12","Calling Lake ",N,N,"",0,387,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 12","Calling Lake ",N,N,"",0,387,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 13","Fitzgerald",N,N,"",3,250,"Buffalo","","Mel H.","Liberal","Libéral",N,N,126
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 13","Fitzgerald",N,N,"",3,250,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 13","Fitzgerald",N,N,"",3,250,"Jean","","Brian","Conservative","Conservateur",Y,Y,67
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 13","Fitzgerald",N,N,"",3,250,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 13","Fitzgerald",N,N,"",3,250,"Malcolm","","John","FPNP","FPNP",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 14","Fort Chipewyan",N,N,"13",0,205,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 14","Fort Chipewyan",N,N,"13",0,205,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 14","Fort Chipewyan",N,N,"13",0,205,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 14","Fort Chipewyan",N,N,"13",0,205,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 14","Fort Chipewyan",N,N,"13",0,205,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 15","Fort Chipewyan",N,N,"13",0,154,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 15","Fort Chipewyan",N,N,"13",0,154,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 15","Fort Chipewyan",N,N,"13",0,154,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 15","Fort Chipewyan",N,N,"13",0,154,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 15","Fort Chipewyan",N,N,"13",0,154,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 16","Fort McKay",N,N,"",0,184,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 16","Fort McKay",N,N,"",0,184,"Hopfe","","Ian","Green Party","Parti Vert",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 16","Fort McKay",N,N,"",0,184,"Jean","","Brian","Conservative","Conservateur",Y,Y,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 16","Fort McKay",N,N,"",0,184,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 16","Fort McKay",N,N,"",0,184,"Malcolm","","John","FPNP","FPNP",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 17","Saprae Creek--Wood Buffalo",N,N,"",0,529,"Buffalo","","Mel H.","Liberal","Libéral",N,N,24
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 17","Saprae Creek--Wood Buffalo",N,N,"",0,529,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 17","Saprae Creek--Wood Buffalo",N,N,"",0,529,"Jean","","Brian","Conservative","Conservateur",Y,Y,219
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 17","Saprae Creek--Wood Buffalo",N,N,"",0,529,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 17","Saprae Creek--Wood Buffalo",N,N,"",0,529,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 18","Anzac ",N,N,"",0,557,"Buffalo","","Mel H.","Liberal","Libéral",N,N,34
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 18","Anzac ",N,N,"",0,557,"Hopfe","","Ian","Green Party","Parti Vert",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 18","Anzac ",N,N,"",0,557,"Jean","","Brian","Conservative","Conservateur",Y,Y,170
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 18","Anzac ",N,N,"",0,557,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,44
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 18","Anzac ",N,N,"",0,557,"Malcolm","","John","FPNP","FPNP",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 19","Janvier--Chard",N,N,"",0,215,"Buffalo","","Mel H.","Liberal","Libéral",N,N,33
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 19","Janvier--Chard",N,N,"",0,215,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 19","Janvier--Chard",N,N,"",0,215,"Jean","","Brian","Conservative","Conservateur",Y,Y,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 19","Janvier--Chard",N,N,"",0,215,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 19","Janvier--Chard",N,N,"",0,215,"Malcolm","","John","FPNP","FPNP",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 20","Conklin",N,N,"",0,166,"Buffalo","","Mel H.","Liberal","Libéral",N,N,25
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 20","Conklin",N,N,"",0,166,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 20","Conklin",N,N,"",0,166,"Jean","","Brian","Conservative","Conservateur",Y,Y,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 20","Conklin",N,N,"",0,166,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 20","Conklin",N,N,"",0,166,"Malcolm","","John","FPNP","FPNP",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21A","Fort McMurray",N,N,"",1,328,"Buffalo","","Mel H.","Liberal","Libéral",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21A","Fort McMurray",N,N,"",1,328,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21A","Fort McMurray",N,N,"",1,328,"Jean","","Brian","Conservative","Conservateur",Y,Y,77
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21A","Fort McMurray",N,N,"",1,328,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21A","Fort McMurray",N,N,"",1,328,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21B","Fort McMurray",N,N,"",0,447,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21B","Fort McMurray",N,N,"",0,447,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21B","Fort McMurray",N,N,"",0,447,"Jean","","Brian","Conservative","Conservateur",Y,Y,124
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21B","Fort McMurray",N,N,"",0,447,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21B","Fort McMurray",N,N,"",0,447,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21C","Fort McMurray",N,N,"",1,402,"Buffalo","","Mel H.","Liberal","Libéral",N,N,31
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21C","Fort McMurray",N,N,"",1,402,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21C","Fort McMurray",N,N,"",1,402,"Jean","","Brian","Conservative","Conservateur",Y,Y,95
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21C","Fort McMurray",N,N,"",1,402,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 21C","Fort McMurray",N,N,"",1,402,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22A","Fort McMurray",N,N,"",0,442,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22A","Fort McMurray",N,N,"",0,442,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22A","Fort McMurray",N,N,"",0,442,"Jean","","Brian","Conservative","Conservateur",Y,Y,87
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22A","Fort McMurray",N,N,"",0,442,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22A","Fort McMurray",N,N,"",0,442,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22B","Fort McMurray",N,N,"",0,528,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22B","Fort McMurray",N,N,"",0,528,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22B","Fort McMurray",N,N,"",0,528,"Jean","","Brian","Conservative","Conservateur",Y,Y,114
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22B","Fort McMurray",N,N,"",0,528,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22B","Fort McMurray",N,N,"",0,528,"Malcolm","","John","FPNP","FPNP",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22C","Fort McMurray",N,N,"",0,494,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22C","Fort McMurray",N,N,"",0,494,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22C","Fort McMurray",N,N,"",0,494,"Jean","","Brian","Conservative","Conservateur",Y,Y,92
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22C","Fort McMurray",N,N,"",0,494,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,40
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 22C","Fort McMurray",N,N,"",0,494,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23A","Fort McMurray",N,N,"",0,431,"Buffalo","","Mel H.","Liberal","Libéral",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23A","Fort McMurray",N,N,"",0,431,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23A","Fort McMurray",N,N,"",0,431,"Jean","","Brian","Conservative","Conservateur",Y,Y,128
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23A","Fort McMurray",N,N,"",0,431,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23A","Fort McMurray",N,N,"",0,431,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23B","Fort McMurray",N,N,"",0,356,"Buffalo","","Mel H.","Liberal","Libéral",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23B","Fort McMurray",N,N,"",0,356,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23B","Fort McMurray",N,N,"",0,356,"Jean","","Brian","Conservative","Conservateur",Y,Y,99
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23B","Fort McMurray",N,N,"",0,356,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 23B","Fort McMurray",N,N,"",0,356,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 24","Fort McMurray",N,N,"",0,585,"Buffalo","","Mel H.","Liberal","Libéral",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 24","Fort McMurray",N,N,"",0,585,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 24","Fort McMurray",N,N,"",0,585,"Jean","","Brian","Conservative","Conservateur",Y,Y,113
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 24","Fort McMurray",N,N,"",0,585,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 24","Fort McMurray",N,N,"",0,585,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 25","Fort McMurray",N,N,"",0,608,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 25","Fort McMurray",N,N,"",0,608,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 25","Fort McMurray",N,N,"",0,608,"Jean","","Brian","Conservative","Conservateur",Y,Y,207
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 25","Fort McMurray",N,N,"",0,608,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,45
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 25","Fort McMurray",N,N,"",0,608,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 26","Fort McMurray",N,N,"",1,437,"Buffalo","","Mel H.","Liberal","Libéral",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 26","Fort McMurray",N,N,"",1,437,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 26","Fort McMurray",N,N,"",1,437,"Jean","","Brian","Conservative","Conservateur",Y,Y,155
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 26","Fort McMurray",N,N,"",1,437,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,32
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 26","Fort McMurray",N,N,"",1,437,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 27","Fort McMurray",N,N,"",0,331,"Buffalo","","Mel H.","Liberal","Libéral",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 27","Fort McMurray",N,N,"",0,331,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 27","Fort McMurray",N,N,"",0,331,"Jean","","Brian","Conservative","Conservateur",Y,Y,124
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 27","Fort McMurray",N,N,"",0,331,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 27","Fort McMurray",N,N,"",0,331,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 28","Fort McMurray",N,N,"",1,234,"Buffalo","","Mel H.","Liberal","Libéral",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 28","Fort McMurray",N,N,"",1,234,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 28","Fort McMurray",N,N,"",1,234,"Jean","","Brian","Conservative","Conservateur",Y,Y,87
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 28","Fort McMurray",N,N,"",1,234,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 28","Fort McMurray",N,N,"",1,234,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 29","Fort McMurray",N,N,"",1,488,"Buffalo","","Mel H.","Liberal","Libéral",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 29","Fort McMurray",N,N,"",1,488,"Hopfe","","Ian","Green Party","Parti Vert",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 29","Fort McMurray",N,N,"",1,488,"Jean","","Brian","Conservative","Conservateur",Y,Y,168
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 29","Fort McMurray",N,N,"",1,488,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,46
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 29","Fort McMurray",N,N,"",1,488,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30A","Fort McMurray",N,N,"",0,325,"Buffalo","","Mel H.","Liberal","Libéral",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30A","Fort McMurray",N,N,"",0,325,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30A","Fort McMurray",N,N,"",0,325,"Jean","","Brian","Conservative","Conservateur",Y,Y,104
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30A","Fort McMurray",N,N,"",0,325,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30A","Fort McMurray",N,N,"",0,325,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30B","Fort McMurray",N,N,"",0,393,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30B","Fort McMurray",N,N,"",0,393,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30B","Fort McMurray",N,N,"",0,393,"Jean","","Brian","Conservative","Conservateur",Y,Y,118
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30B","Fort McMurray",N,N,"",0,393,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30B","Fort McMurray",N,N,"",0,393,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30C","Fort McMurray",N,N,"",2,332,"Buffalo","","Mel H.","Liberal","Libéral",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30C","Fort McMurray",N,N,"",2,332,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30C","Fort McMurray",N,N,"",2,332,"Jean","","Brian","Conservative","Conservateur",Y,Y,99
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30C","Fort McMurray",N,N,"",2,332,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 30C","Fort McMurray",N,N,"",2,332,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 31","Fort McMurray",N,N,"",0,227,"Buffalo","","Mel H.","Liberal","Libéral",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 31","Fort McMurray",N,N,"",0,227,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 31","Fort McMurray",N,N,"",0,227,"Jean","","Brian","Conservative","Conservateur",Y,Y,77
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 31","Fort McMurray",N,N,"",0,227,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 31","Fort McMurray",N,N,"",0,227,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 32","Fort McMurray",N,N,"",1,563,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 32","Fort McMurray",N,N,"",1,563,"Hopfe","","Ian","Green Party","Parti Vert",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 32","Fort McMurray",N,N,"",1,563,"Jean","","Brian","Conservative","Conservateur",Y,Y,165
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 32","Fort McMurray",N,N,"",1,563,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,46
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 32","Fort McMurray",N,N,"",1,563,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 33","Fort McMurray",N,N,"",1,351,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 33","Fort McMurray",N,N,"",1,351,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 33","Fort McMurray",N,N,"",1,351,"Jean","","Brian","Conservative","Conservateur",Y,Y,122
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 33","Fort McMurray",N,N,"",1,351,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,33
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 33","Fort McMurray",N,N,"",1,351,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 34","Fort McMurray",N,N,"",0,538,"Buffalo","","Mel H.","Liberal","Libéral",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 34","Fort McMurray",N,N,"",0,538,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 34","Fort McMurray",N,N,"",0,538,"Jean","","Brian","Conservative","Conservateur",Y,Y,168
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 34","Fort McMurray",N,N,"",0,538,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,65
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 34","Fort McMurray",N,N,"",0,538,"Malcolm","","John","FPNP","FPNP",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 35","Fort McMurray",N,N,"",0,432,"Buffalo","","Mel H.","Liberal","Libéral",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 35","Fort McMurray",N,N,"",0,432,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 35","Fort McMurray",N,N,"",0,432,"Jean","","Brian","Conservative","Conservateur",Y,Y,143
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 35","Fort McMurray",N,N,"",0,432,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,51
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 35","Fort McMurray",N,N,"",0,432,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 36","Fort McMurray",N,N,"",0,353,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 36","Fort McMurray",N,N,"",0,353,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 36","Fort McMurray",N,N,"",0,353,"Jean","","Brian","Conservative","Conservateur",Y,Y,89
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 36","Fort McMurray",N,N,"",0,353,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 36","Fort McMurray",N,N,"",0,353,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 37","Fort McMurray",N,N,"",2,732,"Buffalo","","Mel H.","Liberal","Libéral",N,N,31
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 37","Fort McMurray",N,N,"",2,732,"Hopfe","","Ian","Green Party","Parti Vert",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 37","Fort McMurray",N,N,"",2,732,"Jean","","Brian","Conservative","Conservateur",Y,Y,227
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 37","Fort McMurray",N,N,"",2,732,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,51
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 37","Fort McMurray",N,N,"",2,732,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 38","Fort McMurray",N,N,"",0,387,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 38","Fort McMurray",N,N,"",0,387,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 38","Fort McMurray",N,N,"",0,387,"Jean","","Brian","Conservative","Conservateur",Y,Y,92
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 38","Fort McMurray",N,N,"",0,387,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,33
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 38","Fort McMurray",N,N,"",0,387,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 39","Fort McMurray",N,N,"",0,477,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 39","Fort McMurray",N,N,"",0,477,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 39","Fort McMurray",N,N,"",0,477,"Jean","","Brian","Conservative","Conservateur",Y,Y,125
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 39","Fort McMurray",N,N,"",0,477,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 39","Fort McMurray",N,N,"",0,477,"Malcolm","","John","FPNP","FPNP",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 40","Fort McMurray",N,N,"",0,454,"Buffalo","","Mel H.","Liberal","Libéral",N,N,31
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 40","Fort McMurray",N,N,"",0,454,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 40","Fort McMurray",N,N,"",0,454,"Jean","","Brian","Conservative","Conservateur",Y,Y,142
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 40","Fort McMurray",N,N,"",0,454,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 40","Fort McMurray",N,N,"",0,454,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 41","Fort McMurray",N,N,"",0,407,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 41","Fort McMurray",N,N,"",0,407,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 41","Fort McMurray",N,N,"",0,407,"Jean","","Brian","Conservative","Conservateur",Y,Y,137
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 41","Fort McMurray",N,N,"",0,407,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,37
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 41","Fort McMurray",N,N,"",0,407,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 42","Fort McMurray",N,N,"",1,428,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 42","Fort McMurray",N,N,"",1,428,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 42","Fort McMurray",N,N,"",1,428,"Jean","","Brian","Conservative","Conservateur",Y,Y,90
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 42","Fort McMurray",N,N,"",1,428,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,71
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 42","Fort McMurray",N,N,"",1,428,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 43","Fort McMurray",N,N,"",0,445,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 43","Fort McMurray",N,N,"",0,445,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 43","Fort McMurray",N,N,"",0,445,"Jean","","Brian","Conservative","Conservateur",Y,Y,113
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 43","Fort McMurray",N,N,"",0,445,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,49
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 43","Fort McMurray",N,N,"",0,445,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 44","Fort McMurray",N,N,"",0,408,"Buffalo","","Mel H.","Liberal","Libéral",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 44","Fort McMurray",N,N,"",0,408,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 44","Fort McMurray",N,N,"",0,408,"Jean","","Brian","Conservative","Conservateur",Y,Y,46
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 44","Fort McMurray",N,N,"",0,408,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 44","Fort McMurray",N,N,"",0,408,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 45","Fort McMurray",N,N,"",1,486,"Buffalo","","Mel H.","Liberal","Libéral",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 45","Fort McMurray",N,N,"",1,486,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 45","Fort McMurray",N,N,"",1,486,"Jean","","Brian","Conservative","Conservateur",Y,Y,162
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 45","Fort McMurray",N,N,"",1,486,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,55
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 45","Fort McMurray",N,N,"",1,486,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 46","Fort McMurray",N,N,"",0,299,"Buffalo","","Mel H.","Liberal","Libéral",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 46","Fort McMurray",N,N,"",0,299,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 46","Fort McMurray",N,N,"",0,299,"Jean","","Brian","Conservative","Conservateur",Y,Y,62
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 46","Fort McMurray",N,N,"",0,299,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 46","Fort McMurray",N,N,"",0,299,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 47","Fort McMurray",N,N,"",1,395,"Buffalo","","Mel H.","Liberal","Libéral",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 47","Fort McMurray",N,N,"",1,395,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 47","Fort McMurray",N,N,"",1,395,"Jean","","Brian","Conservative","Conservateur",Y,Y,111
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 47","Fort McMurray",N,N,"",1,395,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,34
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 47","Fort McMurray",N,N,"",1,395,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 48","Fort McMurray",N,N,"",0,344,"Buffalo","","Mel H.","Liberal","Libéral",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 48","Fort McMurray",N,N,"",0,344,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 48","Fort McMurray",N,N,"",0,344,"Jean","","Brian","Conservative","Conservateur",Y,Y,89
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 48","Fort McMurray",N,N,"",0,344,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,40
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 48","Fort McMurray",N,N,"",0,344,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 49","Fort McMurray",N,N,"",0,392,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 49","Fort McMurray",N,N,"",0,392,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 49","Fort McMurray",N,N,"",0,392,"Jean","","Brian","Conservative","Conservateur",Y,Y,58
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 49","Fort McMurray",N,N,"",0,392,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,34
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 49","Fort McMurray",N,N,"",0,392,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 50","Fort McMurray",N,N,"",0,360,"Buffalo","","Mel H.","Liberal","Libéral",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 50","Fort McMurray",N,N,"",0,360,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 50","Fort McMurray",N,N,"",0,360,"Jean","","Brian","Conservative","Conservateur",Y,Y,72
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 50","Fort McMurray",N,N,"",0,360,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 50","Fort McMurray",N,N,"",0,360,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 51","Fort McMurray",N,N,"",0,413,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 51","Fort McMurray",N,N,"",0,413,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 51","Fort McMurray",N,N,"",0,413,"Jean","","Brian","Conservative","Conservateur",Y,Y,66
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 51","Fort McMurray",N,N,"",0,413,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 51","Fort McMurray",N,N,"",0,413,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 52","Fort McMurray",N,N,"",2,445,"Buffalo","","Mel H.","Liberal","Libéral",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 52","Fort McMurray",N,N,"",2,445,"Hopfe","","Ian","Green Party","Parti Vert",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 52","Fort McMurray",N,N,"",2,445,"Jean","","Brian","Conservative","Conservateur",Y,Y,135
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 52","Fort McMurray",N,N,"",2,445,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,49
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 52","Fort McMurray",N,N,"",2,445,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 53","Fort McMurray",N,N,"",1,462,"Buffalo","","Mel H.","Liberal","Libéral",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 53","Fort McMurray",N,N,"",1,462,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 53","Fort McMurray",N,N,"",1,462,"Jean","","Brian","Conservative","Conservateur",Y,Y,138
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 53","Fort McMurray",N,N,"",1,462,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,50
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 53","Fort McMurray",N,N,"",1,462,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 54","Fort McMurray",N,N,"",1,434,"Buffalo","","Mel H.","Liberal","Libéral",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 54","Fort McMurray",N,N,"",1,434,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 54","Fort McMurray",N,N,"",1,434,"Jean","","Brian","Conservative","Conservateur",Y,Y,115
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 54","Fort McMurray",N,N,"",1,434,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 54","Fort McMurray",N,N,"",1,434,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 55","Fort McMurray",N,N,"",1,454,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 55","Fort McMurray",N,N,"",1,454,"Hopfe","","Ian","Green Party","Parti Vert",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 55","Fort McMurray",N,N,"",1,454,"Jean","","Brian","Conservative","Conservateur",Y,Y,146
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 55","Fort McMurray",N,N,"",1,454,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,47
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 55","Fort McMurray",N,N,"",1,454,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 56","Fort McMurray",N,N,"",0,166,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 56","Fort McMurray",N,N,"",0,166,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 56","Fort McMurray",N,N,"",0,166,"Jean","","Brian","Conservative","Conservateur",Y,Y,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 56","Fort McMurray",N,N,"",0,166,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 56","Fort McMurray",N,N,"",0,166,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 57","Fort McMurray",N,N,"",0,371,"Buffalo","","Mel H.","Liberal","Libéral",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 57","Fort McMurray",N,N,"",0,371,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 57","Fort McMurray",N,N,"",0,371,"Jean","","Brian","Conservative","Conservateur",Y,Y,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 57","Fort McMurray",N,N,"",0,371,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 57","Fort McMurray",N,N,"",0,371,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 58","Fort McMurray",N,N,"",1,682,"Buffalo","","Mel H.","Liberal","Libéral",N,N,25
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 58","Fort McMurray",N,N,"",1,682,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 58","Fort McMurray",N,N,"",1,682,"Jean","","Brian","Conservative","Conservateur",Y,Y,119
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 58","Fort McMurray",N,N,"",1,682,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,46
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 58","Fort McMurray",N,N,"",1,682,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 59","Fort McMurray",N,N,"",0,187,"Buffalo","","Mel H.","Liberal","Libéral",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 59","Fort McMurray",N,N,"",0,187,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 59","Fort McMurray",N,N,"",0,187,"Jean","","Brian","Conservative","Conservateur",Y,Y,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 59","Fort McMurray",N,N,"",0,187,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 59","Fort McMurray",N,N,"",0,187,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 60","Fort McMurray",N,N,"",0,413,"Buffalo","","Mel H.","Liberal","Libéral",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 60","Fort McMurray",N,N,"",0,413,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 60","Fort McMurray",N,N,"",0,413,"Jean","","Brian","Conservative","Conservateur",Y,Y,78
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 60","Fort McMurray",N,N,"",0,413,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 60","Fort McMurray",N,N,"",0,413,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 61","Fort McMurray",N,N,"",0,348,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 61","Fort McMurray",N,N,"",0,348,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 61","Fort McMurray",N,N,"",0,348,"Jean","","Brian","Conservative","Conservateur",Y,Y,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 61","Fort McMurray",N,N,"",0,348,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 61","Fort McMurray",N,N,"",0,348,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 62","Fort McMurray",N,N,"",2,341,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 62","Fort McMurray",N,N,"",2,341,"Hopfe","","Ian","Green Party","Parti Vert",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 62","Fort McMurray",N,N,"",2,341,"Jean","","Brian","Conservative","Conservateur",Y,Y,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 62","Fort McMurray",N,N,"",2,341,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 62","Fort McMurray",N,N,"",2,341,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 63","Fort McMurray",N,N,"",0,402,"Buffalo","","Mel H.","Liberal","Libéral",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 63","Fort McMurray",N,N,"",0,402,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 63","Fort McMurray",N,N,"",0,402,"Jean","","Brian","Conservative","Conservateur",Y,Y,64
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 63","Fort McMurray",N,N,"",0,402,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,32
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 63","Fort McMurray",N,N,"",0,402,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 64","Fort McMurray",N,N,"",0,432,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 64","Fort McMurray",N,N,"",0,432,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 64","Fort McMurray",N,N,"",0,432,"Jean","","Brian","Conservative","Conservateur",Y,Y,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 64","Fort McMurray",N,N,"",0,432,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 64","Fort McMurray",N,N,"",0,432,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 65","Fort McMurray",N,N,"",1,285,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 65","Fort McMurray",N,N,"",1,285,"Hopfe","","Ian","Green Party","Parti Vert",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 65","Fort McMurray",N,N,"",1,285,"Jean","","Brian","Conservative","Conservateur",Y,Y,43
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 65","Fort McMurray",N,N,"",1,285,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 65","Fort McMurray",N,N,"",1,285,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 66","Fort McMurray",N,N,"",1,473,"Buffalo","","Mel H.","Liberal","Libéral",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 66","Fort McMurray",N,N,"",1,473,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 66","Fort McMurray",N,N,"",1,473,"Jean","","Brian","Conservative","Conservateur",Y,Y,103
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 66","Fort McMurray",N,N,"",1,473,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,37
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 66","Fort McMurray",N,N,"",1,473,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 67","Fort McMurray",N,N,"",1,369,"Buffalo","","Mel H.","Liberal","Libéral",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 67","Fort McMurray",N,N,"",1,369,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 67","Fort McMurray",N,N,"",1,369,"Jean","","Brian","Conservative","Conservateur",Y,Y,53
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 67","Fort McMurray",N,N,"",1,369,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 67","Fort McMurray",N,N,"",1,369,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68A","Fort McMurray",N,N,"",0,377,"Buffalo","","Mel H.","Liberal","Libéral",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68A","Fort McMurray",N,N,"",0,377,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68A","Fort McMurray",N,N,"",0,377,"Jean","","Brian","Conservative","Conservateur",Y,Y,37
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68A","Fort McMurray",N,N,"",0,377,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68A","Fort McMurray",N,N,"",0,377,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68B","Fort McMurray",N,N,"",0,313,"Buffalo","","Mel H.","Liberal","Libéral",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68B","Fort McMurray",N,N,"",0,313,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68B","Fort McMurray",N,N,"",0,313,"Jean","","Brian","Conservative","Conservateur",Y,Y,33
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68B","Fort McMurray",N,N,"",0,313,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 68B","Fort McMurray",N,N,"",0,313,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 69","Fort McMurray",N,N,"",0,400,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 69","Fort McMurray",N,N,"",0,400,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 69","Fort McMurray",N,N,"",0,400,"Jean","","Brian","Conservative","Conservateur",Y,Y,105
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 69","Fort McMurray",N,N,"",0,400,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,37
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 69","Fort McMurray",N,N,"",0,400,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 70","Fort McMurray",N,N,"",1,415,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 70","Fort McMurray",N,N,"",1,415,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 70","Fort McMurray",N,N,"",1,415,"Jean","","Brian","Conservative","Conservateur",Y,Y,105
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 70","Fort McMurray",N,N,"",1,415,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 70","Fort McMurray",N,N,"",1,415,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 71","Fort McMurray",N,N,"",0,513,"Buffalo","","Mel H.","Liberal","Libéral",N,N,25
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 71","Fort McMurray",N,N,"",0,513,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 71","Fort McMurray",N,N,"",0,513,"Jean","","Brian","Conservative","Conservateur",Y,Y,103
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 71","Fort McMurray",N,N,"",0,513,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,60
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 71","Fort McMurray",N,N,"",0,513,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72A","Fort McMurray",N,N,"",0,437,"Buffalo","","Mel H.","Liberal","Libéral",N,N,24
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72A","Fort McMurray",N,N,"",0,437,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72A","Fort McMurray",N,N,"",0,437,"Jean","","Brian","Conservative","Conservateur",Y,Y,116
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72A","Fort McMurray",N,N,"",0,437,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,37
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72A","Fort McMurray",N,N,"",0,437,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72B","Fort McMurray",N,N,"",1,388,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72B","Fort McMurray",N,N,"",1,388,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72B","Fort McMurray",N,N,"",1,388,"Jean","","Brian","Conservative","Conservateur",Y,Y,97
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72B","Fort McMurray",N,N,"",1,388,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,24
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 72B","Fort McMurray",N,N,"",1,388,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 73","Fort McMurray",N,N,"",0,466,"Buffalo","","Mel H.","Liberal","Libéral",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 73","Fort McMurray",N,N,"",0,466,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 73","Fort McMurray",N,N,"",0,466,"Jean","","Brian","Conservative","Conservateur",Y,Y,68
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 73","Fort McMurray",N,N,"",0,466,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 73","Fort McMurray",N,N,"",0,466,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 74","Fort McMurray",N,N,"",1,434,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 74","Fort McMurray",N,N,"",1,434,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 74","Fort McMurray",N,N,"",1,434,"Jean","","Brian","Conservative","Conservateur",Y,Y,41
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 74","Fort McMurray",N,N,"",1,434,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 74","Fort McMurray",N,N,"",1,434,"Malcolm","","John","FPNP","FPNP",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 75","Fort McMurray",N,N,"",1,435,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 75","Fort McMurray",N,N,"",1,435,"Hopfe","","Ian","Green Party","Parti Vert",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 75","Fort McMurray",N,N,"",1,435,"Jean","","Brian","Conservative","Conservateur",Y,Y,84
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 75","Fort McMurray",N,N,"",1,435,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,36
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 75","Fort McMurray",N,N,"",1,435,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 76","Fort McMurray",N,N,"",0,401,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 76","Fort McMurray",N,N,"",0,401,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 76","Fort McMurray",N,N,"",0,401,"Jean","","Brian","Conservative","Conservateur",Y,Y,102
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 76","Fort McMurray",N,N,"",0,401,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 76","Fort McMurray",N,N,"",0,401,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 77","Fort McMurray",N,N,"",1,435,"Buffalo","","Mel H.","Liberal","Libéral",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 77","Fort McMurray",N,N,"",1,435,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 77","Fort McMurray",N,N,"",1,435,"Jean","","Brian","Conservative","Conservateur",Y,Y,157
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 77","Fort McMurray",N,N,"",1,435,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,32
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 77","Fort McMurray",N,N,"",1,435,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 78","Fort McMurray",N,N,"",1,290,"Buffalo","","Mel H.","Liberal","Libéral",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 78","Fort McMurray",N,N,"",1,290,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 78","Fort McMurray",N,N,"",1,290,"Jean","","Brian","Conservative","Conservateur",Y,Y,87
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 78","Fort McMurray",N,N,"",1,290,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 78","Fort McMurray",N,N,"",1,290,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 79","Fort McMurray",N,N,"",1,366,"Buffalo","","Mel H.","Liberal","Libéral",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 79","Fort McMurray",N,N,"",1,366,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 79","Fort McMurray",N,N,"",1,366,"Jean","","Brian","Conservative","Conservateur",Y,Y,97
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 79","Fort McMurray",N,N,"",1,366,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 79","Fort McMurray",N,N,"",1,366,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 80","Fort McMurray",N,N,"",1,521,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 80","Fort McMurray",N,N,"",1,521,"Hopfe","","Ian","Green Party","Parti Vert",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 80","Fort McMurray",N,N,"",1,521,"Jean","","Brian","Conservative","Conservateur",Y,Y,109
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 80","Fort McMurray",N,N,"",1,521,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,35
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 80","Fort McMurray",N,N,"",1,521,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 81","Fort McMurray",N,N,"",0,480,"Buffalo","","Mel H.","Liberal","Libéral",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 81","Fort McMurray",N,N,"",0,480,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 81","Fort McMurray",N,N,"",0,480,"Jean","","Brian","Conservative","Conservateur",Y,Y,109
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 81","Fort McMurray",N,N,"",0,480,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,33
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 81","Fort McMurray",N,N,"",0,480,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 82","Fort McMurray",N,N,"",0,511,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 82","Fort McMurray",N,N,"",0,511,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 82","Fort McMurray",N,N,"",0,511,"Jean","","Brian","Conservative","Conservateur",Y,Y,99
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 82","Fort McMurray",N,N,"",0,511,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 82","Fort McMurray",N,N,"",0,511,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 83","Fort McMurray",N,N,"",2,595,"Buffalo","","Mel H.","Liberal","Libéral",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 83","Fort McMurray",N,N,"",2,595,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 83","Fort McMurray",N,N,"",2,595,"Jean","","Brian","Conservative","Conservateur",Y,Y,105
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 83","Fort McMurray",N,N,"",2,595,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 83","Fort McMurray",N,N,"",2,595,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 84","Fort McMurray",N,N,"",1,511,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 84","Fort McMurray",N,N,"",1,511,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 84","Fort McMurray",N,N,"",1,511,"Jean","","Brian","Conservative","Conservateur",Y,Y,85
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 84","Fort McMurray",N,N,"",1,511,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 84","Fort McMurray",N,N,"",1,511,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 85","Fort McMurray",N,N,"",1,645,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 85","Fort McMurray",N,N,"",1,645,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 85","Fort McMurray",N,N,"",1,645,"Jean","","Brian","Conservative","Conservateur",Y,Y,114
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 85","Fort McMurray",N,N,"",1,645,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,47
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 85","Fort McMurray",N,N,"",1,645,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 86","Fort McMurray",N,N,"",0,607,"Buffalo","","Mel H.","Liberal","Libéral",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 86","Fort McMurray",N,N,"",0,607,"Hopfe","","Ian","Green Party","Parti Vert",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 86","Fort McMurray",N,N,"",0,607,"Jean","","Brian","Conservative","Conservateur",Y,Y,160
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 86","Fort McMurray",N,N,"",0,607,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,29
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 86","Fort McMurray",N,N,"",0,607,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 87","Prairie Echo ",N,N,"",1,231,"Buffalo","","Mel H.","Liberal","Libéral",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 87","Prairie Echo ",N,N,"",1,231,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 87","Prairie Echo ",N,N,"",1,231,"Jean","","Brian","Conservative","Conservateur",Y,Y,107
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 87","Prairie Echo ",N,N,"",1,231,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 87","Prairie Echo ",N,N,"",1,231,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 88","Peavine",N,N,"",0,370,"Buffalo","","Mel H.","Liberal","Libéral",N,N,76
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 88","Peavine",N,N,"",0,370,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 88","Peavine",N,N,"",0,370,"Jean","","Brian","Conservative","Conservateur",Y,Y,32
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 88","Peavine",N,N,"",0,370,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 88","Peavine",N,N,"",0,370,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 89","Gift Lake ",N,N,"",0,405,"Buffalo","","Mel H.","Liberal","Libéral",N,N,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 89","Gift Lake ",N,N,"",0,405,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 89","Gift Lake ",N,N,"",0,405,"Jean","","Brian","Conservative","Conservateur",Y,Y,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 89","Gift Lake ",N,N,"",0,405,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 89","Gift Lake ",N,N,"",0,405,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 90","Grouard ",N,N,"",0,305,"Buffalo","","Mel H.","Liberal","Libéral",N,N,45
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 90","Grouard ",N,N,"",0,305,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 90","Grouard ",N,N,"",0,305,"Jean","","Brian","Conservative","Conservateur",Y,Y,68
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 90","Grouard ",N,N,"",0,305,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 90","Grouard ",N,N,"",0,305,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 91","Triangle",N,N,"",0,368,"Buffalo","","Mel H.","Liberal","Libéral",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 91","Triangle",N,N,"",0,368,"Hopfe","","Ian","Green Party","Parti Vert",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 91","Triangle",N,N,"",0,368,"Jean","","Brian","Conservative","Conservateur",Y,Y,258
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 91","Triangle",N,N,"",0,368,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 91","Triangle",N,N,"",0,368,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 92","High Prairie",N,N,"",0,374,"Buffalo","","Mel H.","Liberal","Libéral",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 92","High Prairie",N,N,"",0,374,"Hopfe","","Ian","Green Party","Parti Vert",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 92","High Prairie",N,N,"",0,374,"Jean","","Brian","Conservative","Conservateur",Y,Y,122
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 92","High Prairie",N,N,"",0,374,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,29
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 92","High Prairie",N,N,"",0,374,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 93","High Prairie",N,N,"",0,385,"Buffalo","","Mel H.","Liberal","Libéral",N,N,34
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 93","High Prairie",N,N,"",0,385,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 93","High Prairie",N,N,"",0,385,"Jean","","Brian","Conservative","Conservateur",Y,Y,114
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 93","High Prairie",N,N,"",0,385,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 93","High Prairie",N,N,"",0,385,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94A","High Prairie",N,N,"",0,246,"Buffalo","","Mel H.","Liberal","Libéral",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94A","High Prairie",N,N,"",0,246,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94A","High Prairie",N,N,"",0,246,"Jean","","Brian","Conservative","Conservateur",Y,Y,84
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94A","High Prairie",N,N,"",0,246,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94A","High Prairie",N,N,"",0,246,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94B","Mobile poll/Bureau itinérant",N,N,"501",0,35,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94B","Mobile poll/Bureau itinérant",N,N,"501",0,35,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94B","Mobile poll/Bureau itinérant",N,N,"501",0,35,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94B","Mobile poll/Bureau itinérant",N,N,"501",0,35,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 94B","Mobile poll/Bureau itinérant",N,N,"501",0,35,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 95","High Prairie",N,N,"",1,345,"Buffalo","","Mel H.","Liberal","Libéral",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 95","High Prairie",N,N,"",1,345,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 95","High Prairie",N,N,"",1,345,"Jean","","Brian","Conservative","Conservateur",Y,Y,121
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 95","High Prairie",N,N,"",1,345,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 95","High Prairie",N,N,"",1,345,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 96","High Prairie",N,N,"",1,287,"Buffalo","","Mel H.","Liberal","Libéral",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 96","High Prairie",N,N,"",1,287,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 96","High Prairie",N,N,"",1,287,"Jean","","Brian","Conservative","Conservateur",Y,Y,92
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 96","High Prairie",N,N,"",1,287,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 96","High Prairie",N,N,"",1,287,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 97","High Prairie",N,N,"",1,458,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 97","High Prairie",N,N,"",1,458,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 97","High Prairie",N,N,"",1,458,"Jean","","Brian","Conservative","Conservateur",Y,Y,96
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 97","High Prairie",N,N,"",1,458,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 97","High Prairie",N,N,"",1,458,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 98","High Prairie",N,N,"",0,339,"Buffalo","","Mel H.","Liberal","Libéral",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 98","High Prairie",N,N,"",0,339,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 98","High Prairie",N,N,"",0,339,"Jean","","Brian","Conservative","Conservateur",Y,Y,172
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 98","High Prairie",N,N,"",0,339,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 98","High Prairie",N,N,"",0,339,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 99","Enilda",N,N,"",2,387,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 99","Enilda",N,N,"",2,387,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 99","Enilda",N,N,"",2,387,"Jean","","Brian","Conservative","Conservateur",Y,Y,154
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 99","Enilda",N,N,"",2,387,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,31
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 99","Enilda",N,N,"",2,387,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 100","Sucker Creek",N,N,"",0,329,"Buffalo","","Mel H.","Liberal","Libéral",N,N,75
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 100","Sucker Creek",N,N,"",0,329,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 100","Sucker Creek",N,N,"",0,329,"Jean","","Brian","Conservative","Conservateur",Y,Y,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 100","Sucker Creek",N,N,"",0,329,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 100","Sucker Creek",N,N,"",0,329,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 101","Big Lakes",N,N,"91",0,187,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 101","Big Lakes",N,N,"91",0,187,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 101","Big Lakes",N,N,"91",0,187,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 101","Big Lakes",N,N,"91",0,187,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 101","Big Lakes",N,N,"91",0,187,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 102","Big Lakes",N,N,"",0,90,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 102","Big Lakes",N,N,"",0,90,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 102","Big Lakes",N,N,"",0,90,"Jean","","Brian","Conservative","Conservateur",Y,Y,41
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 102","Big Lakes",N,N,"",0,90,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 102","Big Lakes",N,N,"",0,90,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 103","East Prairie",N,N,"",0,216,"Buffalo","","Mel H.","Liberal","Libéral",N,N,31
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 103","East Prairie",N,N,"",0,216,"Hopfe","","Ian","Green Party","Parti Vert",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 103","East Prairie",N,N,"",0,216,"Jean","","Brian","Conservative","Conservateur",Y,Y,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 103","East Prairie",N,N,"",0,216,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 103","East Prairie",N,N,"",0,216,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 104","Joussard",N,N,"",1,277,"Buffalo","","Mel H.","Liberal","Libéral",N,N,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 104","Joussard",N,N,"",1,277,"Hopfe","","Ian","Green Party","Parti Vert",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 104","Joussard",N,N,"",1,277,"Jean","","Brian","Conservative","Conservateur",Y,Y,58
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 104","Joussard",N,N,"",1,277,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 104","Joussard",N,N,"",1,277,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 105","Drift Pile River 150 ",N,N,"",1,379,"Buffalo","","Mel H.","Liberal","Libéral",N,N,169
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 105","Drift Pile River 150 ",N,N,"",1,379,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 105","Drift Pile River 150 ",N,N,"",1,379,"Jean","","Brian","Conservative","Conservateur",Y,Y,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 105","Drift Pile River 150 ",N,N,"",1,379,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 105","Drift Pile River 150 ",N,N,"",1,379,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 106","Faust",N,N,"",1,224,"Buffalo","","Mel H.","Liberal","Libéral",N,N,36
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 106","Faust",N,N,"",1,224,"Hopfe","","Ian","Green Party","Parti Vert",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 106","Faust",N,N,"",1,224,"Jean","","Brian","Conservative","Conservateur",Y,Y,76
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 106","Faust",N,N,"",1,224,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 106","Faust",N,N,"",1,224,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 107","Kinuso",N,N,"",0,116,"Buffalo","","Mel H.","Liberal","Libéral",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 107","Kinuso",N,N,"",0,116,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 107","Kinuso",N,N,"",0,116,"Jean","","Brian","Conservative","Conservateur",Y,Y,49
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 107","Kinuso",N,N,"",0,116,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 107","Kinuso",N,N,"",0,116,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 108","Kinuso",N,N,"107",0,74,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 108","Kinuso",N,N,"107",0,74,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 108","Kinuso",N,N,"107",0,74,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 108","Kinuso",N,N,"107",0,74,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 108","Kinuso",N,N,"107",0,74,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 109","Kinuso",N,N,"",1,262,"Buffalo","","Mel H.","Liberal","Libéral",N,N,52
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 109","Kinuso",N,N,"",1,262,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 109","Kinuso",N,N,"",1,262,"Jean","","Brian","Conservative","Conservateur",Y,Y,76
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 109","Kinuso",N,N,"",1,262,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 109","Kinuso",N,N,"",1,262,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 110","Kinuso",N,N,"",0,275,"Buffalo","","Mel H.","Liberal","Libéral",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 110","Kinuso",N,N,"",0,275,"Hopfe","","Ian","Green Party","Parti Vert",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 110","Kinuso",N,N,"",0,275,"Jean","","Brian","Conservative","Conservateur",Y,Y,97
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 110","Kinuso",N,N,"",0,275,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 110","Kinuso",N,N,"",0,275,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 111","Widewater",N,N,"",0,573,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 111","Widewater",N,N,"",0,573,"Hopfe","","Ian","Green Party","Parti Vert",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 111","Widewater",N,N,"",0,573,"Jean","","Brian","Conservative","Conservateur",Y,Y,243
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 111","Widewater",N,N,"",0,573,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 111","Widewater",N,N,"",0,573,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 112","Slave Lake",N,N,"",0,295,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 112","Slave Lake",N,N,"",0,295,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 112","Slave Lake",N,N,"",0,295,"Jean","","Brian","Conservative","Conservateur",Y,Y,45
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 112","Slave Lake",N,N,"",0,295,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 112","Slave Lake",N,N,"",0,295,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113A","Slave Lake",N,N,"",1,264,"Buffalo","","Mel H.","Liberal","Libéral",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113A","Slave Lake",N,N,"",1,264,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113A","Slave Lake",N,N,"",1,264,"Jean","","Brian","Conservative","Conservateur",Y,Y,98
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113A","Slave Lake",N,N,"",1,264,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113A","Slave Lake",N,N,"",1,264,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113B","Mobile poll/Bureau itinérant",N,N,"502",0,19,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113B","Mobile poll/Bureau itinérant",N,N,"502",0,19,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113B","Mobile poll/Bureau itinérant",N,N,"502",0,19,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113B","Mobile poll/Bureau itinérant",N,N,"502",0,19,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 113B","Mobile poll/Bureau itinérant",N,N,"502",0,19,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 114","Slave Lake",N,N,"",2,418,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 114","Slave Lake",N,N,"",2,418,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 114","Slave Lake",N,N,"",2,418,"Jean","","Brian","Conservative","Conservateur",Y,Y,103
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 114","Slave Lake",N,N,"",2,418,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 114","Slave Lake",N,N,"",2,418,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 115","Slave Lake",N,N,"",2,304,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 115","Slave Lake",N,N,"",2,304,"Hopfe","","Ian","Green Party","Parti Vert",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 115","Slave Lake",N,N,"",2,304,"Jean","","Brian","Conservative","Conservateur",Y,Y,118
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 115","Slave Lake",N,N,"",2,304,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 115","Slave Lake",N,N,"",2,304,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 116","Slave Lake",N,N,"",0,287,"Buffalo","","Mel H.","Liberal","Libéral",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 116","Slave Lake",N,N,"",0,287,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 116","Slave Lake",N,N,"",0,287,"Jean","","Brian","Conservative","Conservateur",Y,Y,78
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 116","Slave Lake",N,N,"",0,287,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 116","Slave Lake",N,N,"",0,287,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 117","Slave Lake",N,N,"",0,408,"Buffalo","","Mel H.","Liberal","Libéral",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 117","Slave Lake",N,N,"",0,408,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 117","Slave Lake",N,N,"",0,408,"Jean","","Brian","Conservative","Conservateur",Y,Y,97
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 117","Slave Lake",N,N,"",0,408,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 117","Slave Lake",N,N,"",0,408,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 118","Slave Lake",N,N,"",1,295,"Buffalo","","Mel H.","Liberal","Libéral",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 118","Slave Lake",N,N,"",1,295,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 118","Slave Lake",N,N,"",1,295,"Jean","","Brian","Conservative","Conservateur",Y,Y,82
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 118","Slave Lake",N,N,"",1,295,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 118","Slave Lake",N,N,"",1,295,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 119","Slave Lake",N,N,"",0,524,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 119","Slave Lake",N,N,"",0,524,"Hopfe","","Ian","Green Party","Parti Vert",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 119","Slave Lake",N,N,"",0,524,"Jean","","Brian","Conservative","Conservateur",Y,Y,171
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 119","Slave Lake",N,N,"",0,524,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 119","Slave Lake",N,N,"",0,524,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 120","Slave Lake",N,N,"",0,250,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 120","Slave Lake",N,N,"",0,250,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 120","Slave Lake",N,N,"",0,250,"Jean","","Brian","Conservative","Conservateur",Y,Y,94
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 120","Slave Lake",N,N,"",0,250,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 120","Slave Lake",N,N,"",0,250,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 121","Slave Lake",N,N,"",0,402,"Buffalo","","Mel H.","Liberal","Libéral",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 121","Slave Lake",N,N,"",0,402,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 121","Slave Lake",N,N,"",0,402,"Jean","","Brian","Conservative","Conservateur",Y,Y,95
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 121","Slave Lake",N,N,"",0,402,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 121","Slave Lake",N,N,"",0,402,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 122","Slave Lake",N,N,"",1,608,"Buffalo","","Mel H.","Liberal","Libéral",N,N,32
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 122","Slave Lake",N,N,"",1,608,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 122","Slave Lake",N,N,"",1,608,"Jean","","Brian","Conservative","Conservateur",Y,Y,213
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 122","Slave Lake",N,N,"",1,608,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 122","Slave Lake",N,N,"",1,608,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 123","Slave Lake",N,N,"",0,393,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 123","Slave Lake",N,N,"",0,393,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 123","Slave Lake",N,N,"",0,393,"Jean","","Brian","Conservative","Conservateur",Y,Y,145
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 123","Slave Lake",N,N,"",0,393,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 123","Slave Lake",N,N,"",0,393,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 124","Slave Lake",N,N,"",1,304,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 124","Slave Lake",N,N,"",1,304,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 124","Slave Lake",N,N,"",1,304,"Jean","","Brian","Conservative","Conservateur",Y,Y,122
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 124","Slave Lake",N,N,"",1,304,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 124","Slave Lake",N,N,"",1,304,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 125","Moose Portage",N,N,"126",0,131,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 125","Moose Portage",N,N,"126",0,131,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 125","Moose Portage",N,N,"126",0,131,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 125","Moose Portage",N,N,"126",0,131,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 125","Moose Portage",N,N,"126",0,131,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 126","Smith",N,N,"",2,351,"Buffalo","","Mel H.","Liberal","Libéral",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 126","Smith",N,N,"",2,351,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 126","Smith",N,N,"",2,351,"Jean","","Brian","Conservative","Conservateur",Y,Y,254
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 126","Smith",N,N,"",2,351,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 126","Smith",N,N,"",2,351,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 127","Flatbush",N,N,"",1,384,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 127","Flatbush",N,N,"",1,384,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 127","Flatbush",N,N,"",1,384,"Jean","","Brian","Conservative","Conservateur",Y,Y,183
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 127","Flatbush",N,N,"",1,384,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 127","Flatbush",N,N,"",1,384,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 128","Grosmont",N,N,"",0,507,"Buffalo","","Mel H.","Liberal","Libéral",N,N,25
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 128","Grosmont",N,N,"",0,507,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 128","Grosmont",N,N,"",0,507,"Jean","","Brian","Conservative","Conservateur",Y,Y,224
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 128","Grosmont",N,N,"",0,507,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,41
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 128","Grosmont",N,N,"",0,507,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 129","Athabasca",N,N,"",0,541,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 129","Athabasca",N,N,"",0,541,"Hopfe","","Ian","Green Party","Parti Vert",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 129","Athabasca",N,N,"",0,541,"Jean","","Brian","Conservative","Conservateur",Y,Y,247
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 129","Athabasca",N,N,"",0,541,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,31
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 129","Athabasca",N,N,"",0,541,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 130","Athabasca",N,N,"",2,508,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 130","Athabasca",N,N,"",2,508,"Hopfe","","Ian","Green Party","Parti Vert",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 130","Athabasca",N,N,"",2,508,"Jean","","Brian","Conservative","Conservateur",Y,Y,223
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 130","Athabasca",N,N,"",2,508,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 130","Athabasca",N,N,"",2,508,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 131","Amber Valley",N,N,"",0,330,"Buffalo","","Mel H.","Liberal","Libéral",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 131","Amber Valley",N,N,"",0,330,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 131","Amber Valley",N,N,"",0,330,"Jean","","Brian","Conservative","Conservateur",Y,Y,155
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 131","Amber Valley",N,N,"",0,330,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 131","Amber Valley",N,N,"",0,330,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 132","Grassland",N,N,"",0,522,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 132","Grassland",N,N,"",0,522,"Hopfe","","Ian","Green Party","Parti Vert",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 132","Grassland",N,N,"",0,522,"Jean","","Brian","Conservative","Conservateur",Y,Y,248
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 132","Grassland",N,N,"",0,522,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 132","Grassland",N,N,"",0,522,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 133","Athabasca",N,N,"",0,435,"Buffalo","","Mel H.","Liberal","Libéral",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 133","Athabasca",N,N,"",0,435,"Hopfe","","Ian","Green Party","Parti Vert",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 133","Athabasca",N,N,"",0,435,"Jean","","Brian","Conservative","Conservateur",Y,Y,179
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 133","Athabasca",N,N,"",0,435,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 133","Athabasca",N,N,"",0,435,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 134","Athabasca",N,N,"",0,303,"Buffalo","","Mel H.","Liberal","Libéral",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 134","Athabasca",N,N,"",0,303,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 134","Athabasca",N,N,"",0,303,"Jean","","Brian","Conservative","Conservateur",Y,Y,103
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 134","Athabasca",N,N,"",0,303,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 134","Athabasca",N,N,"",0,303,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 135","Athabasca",N,N,"",0,396,"Buffalo","","Mel H.","Liberal","Libéral",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 135","Athabasca",N,N,"",0,396,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 135","Athabasca",N,N,"",0,396,"Jean","","Brian","Conservative","Conservateur",Y,Y,106
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 135","Athabasca",N,N,"",0,396,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 135","Athabasca",N,N,"",0,396,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 136","Athabasca",N,N,"",0,322,"Buffalo","","Mel H.","Liberal","Libéral",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 136","Athabasca",N,N,"",0,322,"Hopfe","","Ian","Green Party","Parti Vert",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 136","Athabasca",N,N,"",0,322,"Jean","","Brian","Conservative","Conservateur",Y,Y,116
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 136","Athabasca",N,N,"",0,322,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 136","Athabasca",N,N,"",0,322,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 137","Athabasca",N,N,"",0,530,"Buffalo","","Mel H.","Liberal","Libéral",N,N,29
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 137","Athabasca",N,N,"",0,530,"Hopfe","","Ian","Green Party","Parti Vert",N,N,40
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 137","Athabasca",N,N,"",0,530,"Jean","","Brian","Conservative","Conservateur",Y,Y,167
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 137","Athabasca",N,N,"",0,530,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,37
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 137","Athabasca",N,N,"",0,530,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 138","Athabasca",N,N,"",0,750,"Buffalo","","Mel H.","Liberal","Libéral",N,N,41
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 138","Athabasca",N,N,"",0,750,"Hopfe","","Ian","Green Party","Parti Vert",N,N,25
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 138","Athabasca",N,N,"",0,750,"Jean","","Brian","Conservative","Conservateur",Y,Y,235
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 138","Athabasca",N,N,"",0,750,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,55
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 138","Athabasca",N,N,"",0,750,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 139","Athabasca",N,N,"",0,398,"Buffalo","","Mel H.","Liberal","Libéral",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 139","Athabasca",N,N,"",0,398,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 139","Athabasca",N,N,"",0,398,"Jean","","Brian","Conservative","Conservateur",Y,Y,170
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 139","Athabasca",N,N,"",0,398,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 139","Athabasca",N,N,"",0,398,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 140","Colinton",N,N,"",0,331,"Buffalo","","Mel H.","Liberal","Libéral",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 140","Colinton",N,N,"",0,331,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 140","Colinton",N,N,"",0,331,"Jean","","Brian","Conservative","Conservateur",Y,Y,139
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 140","Colinton",N,N,"",0,331,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 140","Colinton",N,N,"",0,331,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 141","Colinton",N,N,"",0,311,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 141","Colinton",N,N,"",0,311,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 141","Colinton",N,N,"",0,311,"Jean","","Brian","Conservative","Conservateur",Y,Y,129
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 141","Colinton",N,N,"",0,311,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 141","Colinton",N,N,"",0,311,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 142","Boyle",N,N,"",0,594,"Buffalo","","Mel H.","Liberal","Libéral",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 142","Boyle",N,N,"",0,594,"Hopfe","","Ian","Green Party","Parti Vert",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 142","Boyle",N,N,"",0,594,"Jean","","Brian","Conservative","Conservateur",Y,Y,279
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 142","Boyle",N,N,"",0,594,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,39
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 142","Boyle",N,N,"",0,594,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143A","Boyle",N,N,"",0,298,"Buffalo","","Mel H.","Liberal","Libéral",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143A","Boyle",N,N,"",0,298,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143A","Boyle",N,N,"",0,298,"Jean","","Brian","Conservative","Conservateur",Y,Y,103
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143A","Boyle",N,N,"",0,298,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143A","Boyle",N,N,"",0,298,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143B","Boyle",N,N,"",0,273,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143B","Boyle",N,N,"",0,273,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143B","Boyle",N,N,"",0,273,"Jean","","Brian","Conservative","Conservateur",Y,Y,100
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143B","Boyle",N,N,"",0,273,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 143B","Boyle",N,N,"",0,273,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144A","Boyle",N,N,"",1,207,"Buffalo","","Mel H.","Liberal","Libéral",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144A","Boyle",N,N,"",1,207,"Hopfe","","Ian","Green Party","Parti Vert",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144A","Boyle",N,N,"",1,207,"Jean","","Brian","Conservative","Conservateur",Y,Y,96
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144A","Boyle",N,N,"",1,207,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144A","Boyle",N,N,"",1,207,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144B","Mobile poll/Bureau itinérant",N,N,"504",0,36,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144B","Mobile poll/Bureau itinérant",N,N,"504",0,36,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144B","Mobile poll/Bureau itinérant",N,N,"504",0,36,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144B","Mobile poll/Bureau itinérant",N,N,"504",0,36,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 144B","Mobile poll/Bureau itinérant",N,N,"504",0,36,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 145","Perryvale",N,N,"",0,362,"Buffalo","","Mel H.","Liberal","Libéral",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 145","Perryvale",N,N,"",0,362,"Hopfe","","Ian","Green Party","Parti Vert",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 145","Perryvale",N,N,"",0,362,"Jean","","Brian","Conservative","Conservateur",Y,Y,156
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 145","Perryvale",N,N,"",0,362,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 145","Perryvale",N,N,"",0,362,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 146","Ellscott",N,N,"",0,349,"Buffalo","","Mel H.","Liberal","Libéral",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 146","Ellscott",N,N,"",0,349,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 146","Ellscott",N,N,"",0,349,"Jean","","Brian","Conservative","Conservateur",Y,Y,147
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 146","Ellscott",N,N,"",0,349,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,24
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 146","Ellscott",N,N,"",0,349,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 147","Rochester",N,N,"",0,349,"Buffalo","","Mel H.","Liberal","Libéral",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 147","Rochester",N,N,"",0,349,"Hopfe","","Ian","Green Party","Parti Vert",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 147","Rochester",N,N,"",0,349,"Jean","","Brian","Conservative","Conservateur",Y,Y,146
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 147","Rochester",N,N,"",0,349,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 147","Rochester",N,N,"",0,349,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 148","Breynat",N,N,"",2,265,"Buffalo","","Mel H.","Liberal","Libéral",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 148","Breynat",N,N,"",2,265,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 148","Breynat",N,N,"",2,265,"Jean","","Brian","Conservative","Conservateur",Y,Y,118
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 148","Breynat",N,N,"",2,265,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 148","Breynat",N,N,"",2,265,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 149","Plamondon",N,N,"",0,567,"Buffalo","","Mel H.","Liberal","Libéral",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 149","Plamondon",N,N,"",0,567,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 149","Plamondon",N,N,"",0,567,"Jean","","Brian","Conservative","Conservateur",Y,Y,235
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 149","Plamondon",N,N,"",0,567,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,43
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 149","Plamondon",N,N,"",0,567,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 150","Owl River",N,N,"",0,258,"Buffalo","","Mel H.","Liberal","Libéral",N,N,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 150","Owl River",N,N,"",0,258,"Hopfe","","Ian","Green Party","Parti Vert",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 150","Owl River",N,N,"",0,258,"Jean","","Brian","Conservative","Conservateur",Y,Y,64
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 150","Owl River",N,N,"",0,258,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 150","Owl River",N,N,"",0,258,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 151","Plamondon",Y,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 151","Plamondon",Y,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 151","Plamondon",Y,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 151","Plamondon",Y,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 151","Plamondon",Y,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 152","Plamondon",Y,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 152","Plamondon",Y,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 152","Plamondon",Y,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 152","Plamondon",Y,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 152","Plamondon",Y,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 153","Plamondon",Y,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 153","Plamondon",Y,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 153","Plamondon",Y,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 153","Plamondon",Y,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 153","Plamondon",Y,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 154","Plamondon",N,N,"",1,265,"Buffalo","","Mel H.","Liberal","Libéral",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 154","Plamondon",N,N,"",1,265,"Hopfe","","Ian","Green Party","Parti Vert",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 154","Plamondon",N,N,"",1,265,"Jean","","Brian","Conservative","Conservateur",Y,Y,97
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 154","Plamondon",N,N,"",1,265,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 154","Plamondon",N,N,"",1,265,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 155","Lac La Biche Mission",N,N,"",1,374,"Buffalo","","Mel H.","Liberal","Libéral",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 155","Lac La Biche Mission",N,N,"",1,374,"Hopfe","","Ian","Green Party","Parti Vert",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 155","Lac La Biche Mission",N,N,"",1,374,"Jean","","Brian","Conservative","Conservateur",Y,Y,155
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 155","Lac La Biche Mission",N,N,"",1,374,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,25
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 155","Lac La Biche Mission",N,N,"",1,374,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 156","Lac La Biche Mission",N,N,"",0,277,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 156","Lac La Biche Mission",N,N,"",0,277,"Hopfe","","Ian","Green Party","Parti Vert",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 156","Lac La Biche Mission",N,N,"",0,277,"Jean","","Brian","Conservative","Conservateur",Y,Y,109
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 156","Lac La Biche Mission",N,N,"",0,277,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 156","Lac La Biche Mission",N,N,"",0,277,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 157","Lac La Biche",N,N,"",0,434,"Buffalo","","Mel H.","Liberal","Libéral",N,N,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 157","Lac La Biche",N,N,"",0,434,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 157","Lac La Biche",N,N,"",0,434,"Jean","","Brian","Conservative","Conservateur",Y,Y,81
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 157","Lac La Biche",N,N,"",0,434,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 157","Lac La Biche",N,N,"",0,434,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 158","Lac La Biche",N,N,"",2,367,"Buffalo","","Mel H.","Liberal","Libéral",N,N,41
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 158","Lac La Biche",N,N,"",2,367,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 158","Lac La Biche",N,N,"",2,367,"Jean","","Brian","Conservative","Conservateur",Y,Y,60
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 158","Lac La Biche",N,N,"",2,367,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,24
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 158","Lac La Biche",N,N,"",2,367,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 159","Lac La Biche",N,N,"",1,280,"Buffalo","","Mel H.","Liberal","Libéral",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 159","Lac La Biche",N,N,"",1,280,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 159","Lac La Biche",N,N,"",1,280,"Jean","","Brian","Conservative","Conservateur",Y,Y,84
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 159","Lac La Biche",N,N,"",1,280,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,21
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 159","Lac La Biche",N,N,"",1,280,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 160","Lac La Biche",N,N,"",0,250,"Buffalo","","Mel H.","Liberal","Libéral",N,N,37
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 160","Lac La Biche",N,N,"",0,250,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 160","Lac La Biche",N,N,"",0,250,"Jean","","Brian","Conservative","Conservateur",Y,Y,34
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 160","Lac La Biche",N,N,"",0,250,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,18
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 160","Lac La Biche",N,N,"",0,250,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 161","Lac La Biche",N,N,"",0,589,"Buffalo","","Mel H.","Liberal","Libéral",N,N,36
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 161","Lac La Biche",N,N,"",0,589,"Hopfe","","Ian","Green Party","Parti Vert",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 161","Lac La Biche",N,N,"",0,589,"Jean","","Brian","Conservative","Conservateur",Y,Y,170
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 161","Lac La Biche",N,N,"",0,589,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,41
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 161","Lac La Biche",N,N,"",0,589,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 162","Lac La Biche",N,N,"163",0,193,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 162","Lac La Biche",N,N,"163",0,193,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 162","Lac La Biche",N,N,"163",0,193,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 162","Lac La Biche",N,N,"163",0,193,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 162","Lac La Biche",N,N,"163",0,193,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 163","Barnegat",N,N,"",2,296,"Buffalo","","Mel H.","Liberal","Libéral",N,N,34
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 163","Barnegat",N,N,"",2,296,"Hopfe","","Ian","Green Party","Parti Vert",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 163","Barnegat",N,N,"",2,296,"Jean","","Brian","Conservative","Conservateur",Y,Y,184
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 163","Barnegat",N,N,"",2,296,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,27
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 163","Barnegat",N,N,"",2,296,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 164","Lac La Biche",N,N,"",0,448,"Buffalo","","Mel H.","Liberal","Libéral",N,N,44
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 164","Lac La Biche",N,N,"",0,448,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 164","Lac La Biche",N,N,"",0,448,"Jean","","Brian","Conservative","Conservateur",Y,Y,158
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 164","Lac La Biche",N,N,"",0,448,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,29
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 164","Lac La Biche",N,N,"",0,448,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 165","Hylo",N,N,"",0,332,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 165","Hylo",N,N,"",0,332,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 165","Hylo",N,N,"",0,332,"Jean","","Brian","Conservative","Conservateur",Y,Y,139
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 165","Hylo",N,N,"",0,332,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 165","Hylo",N,N,"",0,332,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 166","Beaver Lake 131",N,N,"",0,307,"Buffalo","","Mel H.","Liberal","Libéral",N,N,23
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 166","Beaver Lake 131",N,N,"",0,307,"Hopfe","","Ian","Green Party","Parti Vert",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 166","Beaver Lake 131",N,N,"",0,307,"Jean","","Brian","Conservative","Conservateur",Y,Y,82
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 166","Beaver Lake 131",N,N,"",0,307,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 166","Beaver Lake 131",N,N,"",0,307,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 400","Fort McMurray",Y,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 400","Fort McMurray",Y,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 400","Fort McMurray",Y,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 400","Fort McMurray",Y,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 400","Fort McMurray",Y,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 500","Mobile poll/Bureau itinérant",N,N,"",0,116,"Buffalo","","Mel H.","Liberal","Libéral",N,N,16
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 500","Mobile poll/Bureau itinérant",N,N,"",0,116,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 500","Mobile poll/Bureau itinérant",N,N,"",0,116,"Jean","","Brian","Conservative","Conservateur",Y,Y,29
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 500","Mobile poll/Bureau itinérant",N,N,"",0,116,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,9
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 500","Mobile poll/Bureau itinérant",N,N,"",0,116,"Malcolm","","John","FPNP","FPNP",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 501","Mobile poll/Bureau itinérant",N,N,"",2,58,"Buffalo","","Mel H.","Liberal","Libéral",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 501","Mobile poll/Bureau itinérant",N,N,"",2,58,"Hopfe","","Ian","Green Party","Parti Vert",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 501","Mobile poll/Bureau itinérant",N,N,"",2,58,"Jean","","Brian","Conservative","Conservateur",Y,Y,26
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 501","Mobile poll/Bureau itinérant",N,N,"",2,58,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 501","Mobile poll/Bureau itinérant",N,N,"",2,58,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 502","Mobile poll/Bureau itinérant",N,N,"",1,50,"Buffalo","","Mel H.","Liberal","Libéral",N,N,13
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 502","Mobile poll/Bureau itinérant",N,N,"",1,50,"Hopfe","","Ian","Green Party","Parti Vert",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 502","Mobile poll/Bureau itinérant",N,N,"",1,50,"Jean","","Brian","Conservative","Conservateur",Y,Y,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 502","Mobile poll/Bureau itinérant",N,N,"",1,50,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 502","Mobile poll/Bureau itinérant",N,N,"",1,50,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 503","Mobile poll/Bureau itinérant",N,N,"",0,82,"Buffalo","","Mel H.","Liberal","Libéral",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 503","Mobile poll/Bureau itinérant",N,N,"",0,82,"Hopfe","","Ian","Green Party","Parti Vert",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 503","Mobile poll/Bureau itinérant",N,N,"",0,82,"Jean","","Brian","Conservative","Conservateur",Y,Y,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 503","Mobile poll/Bureau itinérant",N,N,"",0,82,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 503","Mobile poll/Bureau itinérant",N,N,"",0,82,"Malcolm","","John","FPNP","FPNP",N,N,6
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 504","Mobile poll/Bureau itinérant",N,N,"",2,68,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 504","Mobile poll/Bureau itinérant",N,N,"",2,68,"Hopfe","","Ian","Green Party","Parti Vert",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 504","Mobile poll/Bureau itinérant",N,N,"",2,68,"Jean","","Brian","Conservative","Conservateur",Y,Y,36
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 504","Mobile poll/Bureau itinérant",N,N,"",2,68,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 504","Mobile poll/Bureau itinérant",N,N,"",2,68,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 600","Wabasca-Desmarais",N,N,"",2,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,20
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 600","Wabasca-Desmarais",N,N,"",2,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 600","Wabasca-Desmarais",N,N,"",2,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 600","Wabasca-Desmarais",N,N,"",2,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 600","Wabasca-Desmarais",N,N,"",2,0,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 601","Fort Chipewyan",N,N,"",1,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 601","Fort Chipewyan",N,N,"",1,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,12
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 601","Fort Chipewyan",N,N,"",1,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,130
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 601","Fort Chipewyan",N,N,"",1,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 601","Fort Chipewyan",N,N,"",1,0,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 602","Fort McMurray",N,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,19
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 602","Fort McMurray",N,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,15
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 602","Fort McMurray",N,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,191
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 602","Fort McMurray",N,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,39
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 602","Fort McMurray",N,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 603","Fort McMurray",N,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,30
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 603","Fort McMurray",N,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,17
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 603","Fort McMurray",N,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,210
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 603","Fort McMurray",N,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,42
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 603","Fort McMurray",N,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 604","Fort McMurray",N,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 604","Fort McMurray",N,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 604","Fort McMurray",N,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,139
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 604","Fort McMurray",N,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,44
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 604","Fort McMurray",N,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,0
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 605","Fort McMurray",N,N,"",1,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,22
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 605","Fort McMurray",N,N,"",1,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,11
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 605","Fort McMurray",N,N,"",1,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,145
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 605","Fort McMurray",N,N,"",1,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,38
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 605","Fort McMurray",N,N,"",1,0,"Malcolm","","John","FPNP","FPNP",N,N,2
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 606","Big Lakes",N,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,36
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 606","Big Lakes",N,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 606","Big Lakes",N,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,168
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 606","Big Lakes",N,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,14
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 606","Big Lakes",N,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 607","Lesser Slave River 124",N,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,28
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 607","Lesser Slave River 124",N,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,8
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 607","Lesser Slave River 124",N,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,264
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 607","Lesser Slave River 124",N,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,24
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 607","Lesser Slave River 124",N,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,4
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 608","Athabasca County No. 12",N,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,50
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 608","Athabasca County No. 12",N,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,32
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 608","Athabasca County No. 12",N,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,542
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 608","Athabasca County No. 12",N,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,58
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 608","Athabasca County No. 12",N,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,5
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 609","Lakeland County",N,N,"",0,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,33
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 609","Lakeland County",N,N,"",0,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,10
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 609","Lakeland County",N,N,"",0,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,222
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 609","Lakeland County",N,N,"",0,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,34
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," 609","Lakeland County",N,N,"",0,0,"Malcolm","","John","FPNP","FPNP",N,N,1
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,133,"Buffalo","","Mel H.","Liberal","Libéral",N,N,46
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,133,"Hopfe","","Ian","Green Party","Parti Vert",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,133,"Jean","","Brian","Conservative","Conservateur",Y,Y,24
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,133,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,7
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,133,"Malcolm","","John","FPNP","FPNP",N,N,3
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Buffalo","","Mel H.","Liberal","Libéral",N,N,59
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Hopfe","","Ian","Green Party","Parti Vert",N,N,25
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Jean","","Brian","Conservative","Conservateur",Y,Y,442
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Lefort","","Roland","N.D.P.","N.P.D.",N,N,85
+48001,"Fort McMurray--Athabasca","Fort McMurray--Athabasca"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",7,0,"Malcolm","","John","FPNP","FPNP",N,N,6

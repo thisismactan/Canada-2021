@@ -1,0 +1,801 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 1","Winnipeg",N,N,"",1,491,"Catellier","","François","Conservative","Conservateur",N,N,36
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 1","Winnipeg",N,N,"",1,491,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 1","Winnipeg",N,N,"",1,491,"Vandal","","Dan","Liberal","Libéral",N,Y,215
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 1","Winnipeg",N,N,"",1,491,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",0,425,"Catellier","","François","Conservative","Conservateur",N,N,31
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",0,425,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",0,425,"Vandal","","Dan","Liberal","Libéral",N,Y,169
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",0,425,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",1,476,"Catellier","","François","Conservative","Conservateur",N,N,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",1,476,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",1,476,"Vandal","","Dan","Liberal","Libéral",N,Y,179
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",1,476,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",1,375,"Catellier","","François","Conservative","Conservateur",N,N,35
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",1,375,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",1,375,"Vandal","","Dan","Liberal","Libéral",N,Y,135
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",1,375,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5A","Winnipeg",N,N,"",2,312,"Catellier","","François","Conservative","Conservateur",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5A","Winnipeg",N,N,"",2,312,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5A","Winnipeg",N,N,"",2,312,"Vandal","","Dan","Liberal","Libéral",N,Y,166
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5A","Winnipeg",N,N,"",2,312,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5B","Winnipeg",N,N,"",0,150,"Catellier","","François","Conservative","Conservateur",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5B","Winnipeg",N,N,"",0,150,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5B","Winnipeg",N,N,"",0,150,"Vandal","","Dan","Liberal","Libéral",N,Y,97
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 5B","Winnipeg",N,N,"",0,150,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",0,208,"Catellier","","François","Conservative","Conservateur",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",0,208,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",0,208,"Vandal","","Dan","Liberal","Libéral",N,Y,84
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",0,208,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",2,268,"Catellier","","François","Conservative","Conservateur",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",2,268,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",2,268,"Vandal","","Dan","Liberal","Libéral",N,Y,86
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",2,268,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,149,"Catellier","","François","Conservative","Conservateur",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,149,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,149,"Vandal","","Dan","Liberal","Libéral",N,Y,50
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,149,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,427,"Catellier","","François","Conservative","Conservateur",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,427,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,427,"Vandal","","Dan","Liberal","Libéral",N,Y,162
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,427,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,346,"Catellier","","François","Conservative","Conservateur",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,346,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,346,"Vandal","","Dan","Liberal","Libéral",N,Y,118
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,346,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",1,337,"Catellier","","François","Conservative","Conservateur",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",1,337,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",1,337,"Vandal","","Dan","Liberal","Libéral",N,Y,107
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",1,337,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",0,330,"Catellier","","François","Conservative","Conservateur",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",0,330,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",0,330,"Vandal","","Dan","Liberal","Libéral",N,Y,121
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",0,330,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",0,345,"Catellier","","François","Conservative","Conservateur",N,N,28
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",0,345,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",0,345,"Vandal","","Dan","Liberal","Libéral",N,Y,124
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",0,345,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,439,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,439,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,439,"Vandal","","Dan","Liberal","Libéral",N,Y,118
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,439,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,321,"Catellier","","François","Conservative","Conservateur",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,321,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,321,"Vandal","","Dan","Liberal","Libéral",N,Y,134
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,321,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,331,"Catellier","","François","Conservative","Conservateur",N,N,35
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,331,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,331,"Vandal","","Dan","Liberal","Libéral",N,Y,142
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,331,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,450,"Catellier","","François","Conservative","Conservateur",N,N,34
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,450,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,450,"Vandal","","Dan","Liberal","Libéral",N,Y,155
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,450,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",2,456,"Catellier","","François","Conservative","Conservateur",N,N,53
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",2,456,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",2,456,"Vandal","","Dan","Liberal","Libéral",N,Y,135
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",2,456,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",2,396,"Catellier","","François","Conservative","Conservateur",N,N,40
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",2,396,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",2,396,"Vandal","","Dan","Liberal","Libéral",N,Y,157
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",2,396,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",2,433,"Catellier","","François","Conservative","Conservateur",N,N,50
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",2,433,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",2,433,"Vandal","","Dan","Liberal","Libéral",N,Y,186
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",2,433,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",2,335,"Catellier","","François","Conservative","Conservateur",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",2,335,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",2,335,"Vandal","","Dan","Liberal","Libéral",N,Y,139
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",2,335,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,352,"Catellier","","François","Conservative","Conservateur",N,N,33
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,352,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,352,"Vandal","","Dan","Liberal","Libéral",N,Y,173
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,352,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",2,316,"Catellier","","François","Conservative","Conservateur",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",2,316,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",2,316,"Vandal","","Dan","Liberal","Libéral",N,Y,101
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",2,316,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,329,"Catellier","","François","Conservative","Conservateur",N,N,33
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,329,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,329,"Vandal","","Dan","Liberal","Libéral",N,Y,147
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,329,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",1,302,"Catellier","","François","Conservative","Conservateur",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",1,302,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",1,302,"Vandal","","Dan","Liberal","Libéral",N,Y,97
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",1,302,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,373,"Catellier","","François","Conservative","Conservateur",N,N,46
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,373,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,373,"Vandal","","Dan","Liberal","Libéral",N,Y,154
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,373,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",0,170,"Catellier","","François","Conservative","Conservateur",N,N,15
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",0,170,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",0,170,"Vandal","","Dan","Liberal","Libéral",N,Y,62
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",0,170,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",0,423,"Catellier","","François","Conservative","Conservateur",N,N,55
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",0,423,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",0,423,"Vandal","","Dan","Liberal","Libéral",N,Y,186
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",0,423,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",0,279,"Catellier","","François","Conservative","Conservateur",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",0,279,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",0,279,"Vandal","","Dan","Liberal","Libéral",N,Y,131
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",0,279,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",2,446,"Catellier","","François","Conservative","Conservateur",N,N,37
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",2,446,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",2,446,"Vandal","","Dan","Liberal","Libéral",N,Y,167
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",2,446,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",3,409,"Catellier","","François","Conservative","Conservateur",N,N,39
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",3,409,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",3,409,"Vandal","","Dan","Liberal","Libéral",N,Y,169
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",3,409,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",4,440,"Catellier","","François","Conservative","Conservateur",N,N,55
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",4,440,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",4,440,"Vandal","","Dan","Liberal","Libéral",N,Y,177
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",4,440,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,418,"Catellier","","François","Conservative","Conservateur",N,N,64
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,418,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,418,"Vandal","","Dan","Liberal","Libéral",N,Y,160
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,418,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",0,409,"Catellier","","François","Conservative","Conservateur",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",0,409,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",0,409,"Vandal","","Dan","Liberal","Libéral",N,Y,144
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",0,409,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",0,514,"Catellier","","François","Conservative","Conservateur",N,N,39
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",0,514,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",0,514,"Vandal","","Dan","Liberal","Libéral",N,Y,205
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",0,514,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",1,468,"Catellier","","François","Conservative","Conservateur",N,N,42
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",1,468,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",1,468,"Vandal","","Dan","Liberal","Libéral",N,Y,171
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",1,468,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",2,391,"Catellier","","François","Conservative","Conservateur",N,N,28
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",2,391,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",2,391,"Vandal","","Dan","Liberal","Libéral",N,Y,148
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",2,391,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,352,"Catellier","","François","Conservative","Conservateur",N,N,40
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,352,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,352,"Vandal","","Dan","Liberal","Libéral",N,Y,108
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,352,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",0,415,"Catellier","","François","Conservative","Conservateur",N,N,52
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",0,415,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",0,415,"Vandal","","Dan","Liberal","Libéral",N,Y,167
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",0,415,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",1,395,"Catellier","","François","Conservative","Conservateur",N,N,57
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",1,395,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",1,395,"Vandal","","Dan","Liberal","Libéral",N,Y,144
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",1,395,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,336,"Catellier","","François","Conservative","Conservateur",N,N,50
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,336,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,336,"Vandal","","Dan","Liberal","Libéral",N,Y,111
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,336,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",0,561,"Catellier","","François","Conservative","Conservateur",N,N,47
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",0,561,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",0,561,"Vandal","","Dan","Liberal","Libéral",N,Y,157
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",0,561,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,341,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,341,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,341,"Vandal","","Dan","Liberal","Libéral",N,Y,120
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,341,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",1,401,"Catellier","","François","Conservative","Conservateur",N,N,67
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",1,401,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",1,401,"Vandal","","Dan","Liberal","Libéral",N,Y,144
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",1,401,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,383,"Catellier","","François","Conservative","Conservateur",N,N,48
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,383,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,383,"Vandal","","Dan","Liberal","Libéral",N,Y,134
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,383,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,385,"Catellier","","François","Conservative","Conservateur",N,N,55
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,385,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,385,"Vandal","","Dan","Liberal","Libéral",N,Y,173
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,385,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",0,280,"Catellier","","François","Conservative","Conservateur",N,N,34
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",0,280,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",0,280,"Vandal","","Dan","Liberal","Libéral",N,Y,117
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",0,280,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",1,298,"Catellier","","François","Conservative","Conservateur",N,N,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",1,298,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",1,298,"Vandal","","Dan","Liberal","Libéral",N,Y,107
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",1,298,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48A","Winnipeg",N,N,"",0,266,"Catellier","","François","Conservative","Conservateur",N,N,56
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48A","Winnipeg",N,N,"",0,266,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48A","Winnipeg",N,N,"",0,266,"Vandal","","Dan","Liberal","Libéral",N,Y,76
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48A","Winnipeg",N,N,"",0,266,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48B","Winnipeg",N,N,"",2,244,"Catellier","","François","Conservative","Conservateur",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48B","Winnipeg",N,N,"",2,244,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48B","Winnipeg",N,N,"",2,244,"Vandal","","Dan","Liberal","Libéral",N,Y,82
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 48B","Winnipeg",N,N,"",2,244,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",1,449,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",1,449,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",1,449,"Vandal","","Dan","Liberal","Libéral",N,Y,155
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",1,449,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",1,454,"Catellier","","François","Conservative","Conservateur",N,N,95
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",1,454,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",1,454,"Vandal","","Dan","Liberal","Libéral",N,Y,157
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",1,454,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",0,371,"Catellier","","François","Conservative","Conservateur",N,N,68
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",0,371,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",0,371,"Vandal","","Dan","Liberal","Libéral",N,Y,134
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",0,371,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,445,"Catellier","","François","Conservative","Conservateur",N,N,80
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,445,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,445,"Vandal","","Dan","Liberal","Libéral",N,Y,124
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,445,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"12",0,13,"Catellier","","François","Conservative","Conservateur",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"12",0,13,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"12",0,13,"Vandal","","Dan","Liberal","Libéral",N,Y,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"12",0,13,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53B","Winnipeg",N,N,"",0,428,"Catellier","","François","Conservative","Conservateur",N,N,144
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53B","Winnipeg",N,N,"",0,428,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53B","Winnipeg",N,N,"",0,428,"Vandal","","Dan","Liberal","Libéral",N,Y,142
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 53B","Winnipeg",N,N,"",0,428,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,411,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,411,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,411,"Vandal","","Dan","Liberal","Libéral",N,Y,134
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,411,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",1,443,"Catellier","","François","Conservative","Conservateur",N,N,64
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",1,443,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",1,443,"Vandal","","Dan","Liberal","Libéral",N,Y,113
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",1,443,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,437,"Catellier","","François","Conservative","Conservateur",N,N,59
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,437,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,437,"Vandal","","Dan","Liberal","Libéral",N,Y,151
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,437,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,457,"Catellier","","François","Conservative","Conservateur",N,N,58
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,457,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,457,"Vandal","","Dan","Liberal","Libéral",N,Y,169
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,457,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",1,332,"Catellier","","François","Conservative","Conservateur",N,N,60
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",1,332,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",1,332,"Vandal","","Dan","Liberal","Libéral",N,Y,115
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",1,332,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,391,"Catellier","","François","Conservative","Conservateur",N,N,64
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,391,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,391,"Vandal","","Dan","Liberal","Libéral",N,Y,128
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,391,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,466,"Catellier","","François","Conservative","Conservateur",N,N,64
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,466,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,466,"Vandal","","Dan","Liberal","Libéral",N,Y,157
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,466,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",1,367,"Catellier","","François","Conservative","Conservateur",N,N,56
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",1,367,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",1,367,"Vandal","","Dan","Liberal","Libéral",N,Y,137
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",1,367,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,354,"Catellier","","François","Conservative","Conservateur",N,N,52
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,354,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,354,"Vandal","","Dan","Liberal","Libéral",N,Y,129
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,354,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",0,380,"Catellier","","François","Conservative","Conservateur",N,N,57
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",0,380,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",0,380,"Vandal","","Dan","Liberal","Libéral",N,Y,145
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",0,380,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,360,"Catellier","","François","Conservative","Conservateur",N,N,42
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,360,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,360,"Vandal","","Dan","Liberal","Libéral",N,Y,107
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,360,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,472,"Catellier","","François","Conservative","Conservateur",N,N,94
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,472,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,472,"Vandal","","Dan","Liberal","Libéral",N,Y,166
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,472,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66A","Winnipeg",N,N,"",0,256,"Catellier","","François","Conservative","Conservateur",N,N,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66A","Winnipeg",N,N,"",0,256,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66A","Winnipeg",N,N,"",0,256,"Vandal","","Dan","Liberal","Libéral",N,Y,65
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66A","Winnipeg",N,N,"",0,256,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66B","Winnipeg",N,N,"",0,250,"Catellier","","François","Conservative","Conservateur",N,N,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66B","Winnipeg",N,N,"",0,250,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66B","Winnipeg",N,N,"",0,250,"Vandal","","Dan","Liberal","Libéral",N,Y,56
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 66B","Winnipeg",N,N,"",0,250,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67A","Winnipeg",N,N,"",1,297,"Catellier","","François","Conservative","Conservateur",N,N,60
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67A","Winnipeg",N,N,"",1,297,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67A","Winnipeg",N,N,"",1,297,"Vandal","","Dan","Liberal","Libéral",N,Y,127
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67A","Winnipeg",N,N,"",1,297,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67B","Winnipeg",N,N,"",0,294,"Catellier","","François","Conservative","Conservateur",N,N,61
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67B","Winnipeg",N,N,"",0,294,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67B","Winnipeg",N,N,"",0,294,"Vandal","","Dan","Liberal","Libéral",N,Y,114
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 67B","Winnipeg",N,N,"",0,294,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",0,364,"Catellier","","François","Conservative","Conservateur",N,N,82
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",0,364,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",0,364,"Vandal","","Dan","Liberal","Libéral",N,Y,125
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",0,364,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",0,346,"Catellier","","François","Conservative","Conservateur",N,N,106
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",0,346,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",0,346,"Vandal","","Dan","Liberal","Libéral",N,Y,121
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",0,346,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",1,423,"Catellier","","François","Conservative","Conservateur",N,N,101
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",1,423,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",1,423,"Vandal","","Dan","Liberal","Libéral",N,Y,134
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",1,423,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",1,259,"Catellier","","François","Conservative","Conservateur",N,N,54
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",1,259,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",1,259,"Vandal","","Dan","Liberal","Libéral",N,Y,106
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",1,259,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72A","Winnipeg",N,N,"",1,139,"Catellier","","François","Conservative","Conservateur",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72A","Winnipeg",N,N,"",1,139,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72A","Winnipeg",N,N,"",1,139,"Vandal","","Dan","Liberal","Libéral",N,Y,54
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72A","Winnipeg",N,N,"",1,139,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72B","Winnipeg",N,N,"401",0,267,"Catellier","","François","Conservative","Conservateur",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72B","Winnipeg",N,N,"401",0,267,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72B","Winnipeg",N,N,"401",0,267,"Vandal","","Dan","Liberal","Libéral",N,Y,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 72B","Winnipeg",N,N,"401",0,267,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",0,162,"Catellier","","François","Conservative","Conservateur",N,N,26
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",0,162,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",0,162,"Vandal","","Dan","Liberal","Libéral",N,Y,53
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",0,162,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",0,349,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",0,349,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",0,349,"Vandal","","Dan","Liberal","Libéral",N,Y,105
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",0,349,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",0,414,"Catellier","","François","Conservative","Conservateur",N,N,42
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",0,414,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",0,414,"Vandal","","Dan","Liberal","Libéral",N,Y,154
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",0,414,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",0,434,"Catellier","","François","Conservative","Conservateur",N,N,61
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",0,434,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",0,434,"Vandal","","Dan","Liberal","Libéral",N,Y,168
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",0,434,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",1,387,"Catellier","","François","Conservative","Conservateur",N,N,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",1,387,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",1,387,"Vandal","","Dan","Liberal","Libéral",N,Y,120
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",1,387,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,379,"Catellier","","François","Conservative","Conservateur",N,N,53
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,379,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,379,"Vandal","","Dan","Liberal","Libéral",N,Y,117
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,379,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,374,"Catellier","","François","Conservative","Conservateur",N,N,58
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,374,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,374,"Vandal","","Dan","Liberal","Libéral",N,Y,111
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,374,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",0,387,"Catellier","","François","Conservative","Conservateur",N,N,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",0,387,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",0,387,"Vandal","","Dan","Liberal","Libéral",N,Y,117
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",0,387,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",2,325,"Catellier","","François","Conservative","Conservateur",N,N,43
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",2,325,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",2,325,"Vandal","","Dan","Liberal","Libéral",N,Y,132
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",2,325,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,396,"Catellier","","François","Conservative","Conservateur",N,N,52
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,396,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,396,"Vandal","","Dan","Liberal","Libéral",N,Y,145
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,396,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",1,402,"Catellier","","François","Conservative","Conservateur",N,N,57
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",1,402,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",1,402,"Vandal","","Dan","Liberal","Libéral",N,Y,84
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",1,402,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",0,395,"Catellier","","François","Conservative","Conservateur",N,N,52
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",0,395,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",0,395,"Vandal","","Dan","Liberal","Libéral",N,Y,117
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",0,395,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 85","Winnipeg",N,N,"",1,290,"Catellier","","François","Conservative","Conservateur",N,N,48
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 85","Winnipeg",N,N,"",1,290,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 85","Winnipeg",N,N,"",1,290,"Vandal","","Dan","Liberal","Libéral",N,Y,102
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 85","Winnipeg",N,N,"",1,290,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86A","Winnipeg",N,N,"",0,297,"Catellier","","François","Conservative","Conservateur",N,N,52
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86A","Winnipeg",N,N,"",0,297,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86A","Winnipeg",N,N,"",0,297,"Vandal","","Dan","Liberal","Libéral",N,Y,94
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86A","Winnipeg",N,N,"",0,297,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86B","Winnipeg",N,N,"",0,293,"Catellier","","François","Conservative","Conservateur",N,N,40
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86B","Winnipeg",N,N,"",0,293,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86B","Winnipeg",N,N,"",0,293,"Vandal","","Dan","Liberal","Libéral",N,Y,96
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 86B","Winnipeg",N,N,"",0,293,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,330,"Catellier","","François","Conservative","Conservateur",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,330,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,330,"Vandal","","Dan","Liberal","Libéral",N,Y,77
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,330,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,275,"Catellier","","François","Conservative","Conservateur",N,N,41
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,275,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,275,"Vandal","","Dan","Liberal","Libéral",N,Y,79
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,275,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,417,"Catellier","","François","Conservative","Conservateur",N,N,69
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,417,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,417,"Vandal","","Dan","Liberal","Libéral",N,Y,92
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,417,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90A","Winnipeg",N,N,"",0,132,"Catellier","","François","Conservative","Conservateur",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90A","Winnipeg",N,N,"",0,132,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90A","Winnipeg",N,N,"",0,132,"Vandal","","Dan","Liberal","Libéral",N,Y,45
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90A","Winnipeg",N,N,"",0,132,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90B","Winnipeg",N,N,"",1,162,"Catellier","","François","Conservative","Conservateur",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90B","Winnipeg",N,N,"",1,162,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90B","Winnipeg",N,N,"",1,162,"Vandal","","Dan","Liberal","Libéral",N,Y,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90B","Winnipeg",N,N,"",1,162,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90C","Winnipeg",N,N,"",0,124,"Catellier","","François","Conservative","Conservateur",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90C","Winnipeg",N,N,"",0,124,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90C","Winnipeg",N,N,"",0,124,"Vandal","","Dan","Liberal","Libéral",N,Y,61
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 90C","Winnipeg",N,N,"",0,124,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",2,579,"Catellier","","François","Conservative","Conservateur",N,N,91
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",2,579,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",2,579,"Vandal","","Dan","Liberal","Libéral",N,Y,152
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",2,579,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",1,210,"Catellier","","François","Conservative","Conservateur",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",1,210,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",1,210,"Vandal","","Dan","Liberal","Libéral",N,Y,44
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",1,210,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",2,348,"Catellier","","François","Conservative","Conservateur",N,N,58
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",2,348,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",2,348,"Vandal","","Dan","Liberal","Libéral",N,Y,118
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",2,348,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,405,"Catellier","","François","Conservative","Conservateur",N,N,58
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,405,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,405,"Vandal","","Dan","Liberal","Libéral",N,Y,129
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,405,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",0,372,"Catellier","","François","Conservative","Conservateur",N,N,33
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",0,372,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",0,372,"Vandal","","Dan","Liberal","Libéral",N,Y,126
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",0,372,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",2,508,"Catellier","","François","Conservative","Conservateur",N,N,89
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",2,508,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",2,508,"Vandal","","Dan","Liberal","Libéral",N,Y,122
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",2,508,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,404,"Catellier","","François","Conservative","Conservateur",N,N,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,404,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,404,"Vandal","","Dan","Liberal","Libéral",N,Y,148
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,404,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,420,"Catellier","","François","Conservative","Conservateur",N,N,95
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,420,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,420,"Vandal","","Dan","Liberal","Libéral",N,Y,133
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,420,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",0,431,"Catellier","","François","Conservative","Conservateur",N,N,68
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",0,431,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",0,431,"Vandal","","Dan","Liberal","Libéral",N,Y,145
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",0,431,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",1,396,"Catellier","","François","Conservative","Conservateur",N,N,45
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",1,396,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",1,396,"Vandal","","Dan","Liberal","Libéral",N,Y,144
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",1,396,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",1,490,"Catellier","","François","Conservative","Conservateur",N,N,100
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",1,490,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",1,490,"Vandal","","Dan","Liberal","Libéral",N,Y,183
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",1,490,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,454,"Catellier","","François","Conservative","Conservateur",N,N,81
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,454,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,454,"Vandal","","Dan","Liberal","Libéral",N,Y,135
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,454,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",0,259,"Catellier","","François","Conservative","Conservateur",N,N,60
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",0,259,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",0,259,"Vandal","","Dan","Liberal","Libéral",N,Y,83
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",0,259,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103B","Winnipeg",N,N,"",0,264,"Catellier","","François","Conservative","Conservateur",N,N,66
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103B","Winnipeg",N,N,"",0,264,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103B","Winnipeg",N,N,"",0,264,"Vandal","","Dan","Liberal","Libéral",N,Y,75
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 103B","Winnipeg",N,N,"",0,264,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",1,321,"Catellier","","François","Conservative","Conservateur",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",1,321,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",1,321,"Vandal","","Dan","Liberal","Libéral",N,Y,104
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",1,321,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,359,"Catellier","","François","Conservative","Conservateur",N,N,47
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,359,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,359,"Vandal","","Dan","Liberal","Libéral",N,Y,129
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,359,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",1,332,"Catellier","","François","Conservative","Conservateur",N,N,34
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",1,332,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",1,332,"Vandal","","Dan","Liberal","Libéral",N,Y,102
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",1,332,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,404,"Catellier","","François","Conservative","Conservateur",N,N,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,404,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,404,"Vandal","","Dan","Liberal","Libéral",N,Y,146
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,404,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",1,194,"Catellier","","François","Conservative","Conservateur",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",1,194,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",1,194,"Vandal","","Dan","Liberal","Libéral",N,Y,57
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",1,194,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",0,299,"Catellier","","François","Conservative","Conservateur",N,N,58
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",0,299,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",0,299,"Vandal","","Dan","Liberal","Libéral",N,Y,115
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",0,299,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,445,"Catellier","","François","Conservative","Conservateur",N,N,64
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,445,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,445,"Vandal","","Dan","Liberal","Libéral",N,Y,146
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,445,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",2,384,"Catellier","","François","Conservative","Conservateur",N,N,70
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",2,384,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",2,384,"Vandal","","Dan","Liberal","Libéral",N,Y,148
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",2,384,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,462,"Catellier","","François","Conservative","Conservateur",N,N,92
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,462,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,462,"Vandal","","Dan","Liberal","Libéral",N,Y,173
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,462,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,11
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",0,268,"Catellier","","François","Conservative","Conservateur",N,N,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",0,268,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",0,268,"Vandal","","Dan","Liberal","Libéral",N,Y,105
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",0,268,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 114","Winnipeg",N,N,"",0,305,"Catellier","","François","Conservative","Conservateur",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 114","Winnipeg",N,N,"",0,305,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 114","Winnipeg",N,N,"",0,305,"Vandal","","Dan","Liberal","Libéral",N,Y,99
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 114","Winnipeg",N,N,"",0,305,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",0,223,"Catellier","","François","Conservative","Conservateur",N,N,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",0,223,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",0,223,"Vandal","","Dan","Liberal","Libéral",N,Y,87
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",0,223,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116A","Winnipeg",N,N,"",1,256,"Catellier","","François","Conservative","Conservateur",N,N,57
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116A","Winnipeg",N,N,"",1,256,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116A","Winnipeg",N,N,"",1,256,"Vandal","","Dan","Liberal","Libéral",N,Y,99
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116A","Winnipeg",N,N,"",1,256,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116B","Winnipeg",N,N,"",0,255,"Catellier","","François","Conservative","Conservateur",N,N,47
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116B","Winnipeg",N,N,"",0,255,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116B","Winnipeg",N,N,"",0,255,"Vandal","","Dan","Liberal","Libéral",N,Y,106
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 116B","Winnipeg",N,N,"",0,255,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,466,"Catellier","","François","Conservative","Conservateur",N,N,82
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,466,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,466,"Vandal","","Dan","Liberal","Libéral",N,Y,128
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,466,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",0,273,"Catellier","","François","Conservative","Conservateur",N,N,41
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",0,273,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",0,273,"Vandal","","Dan","Liberal","Libéral",N,Y,71
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",0,273,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",1,415,"Catellier","","François","Conservative","Conservateur",N,N,98
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",1,415,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",1,415,"Vandal","","Dan","Liberal","Libéral",N,Y,120
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",1,415,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,453,"Catellier","","François","Conservative","Conservateur",N,N,70
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,453,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,453,"Vandal","","Dan","Liberal","Libéral",N,Y,159
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,453,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 121","Winnipeg",N,N,"",0,402,"Catellier","","François","Conservative","Conservateur",N,N,63
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 121","Winnipeg",N,N,"",0,402,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 121","Winnipeg",N,N,"",0,402,"Vandal","","Dan","Liberal","Libéral",N,Y,130
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 121","Winnipeg",N,N,"",0,402,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,360,"Catellier","","François","Conservative","Conservateur",N,N,55
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,360,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,360,"Vandal","","Dan","Liberal","Libéral",N,Y,93
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,360,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",0,433,"Catellier","","François","Conservative","Conservateur",N,N,100
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",0,433,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",0,433,"Vandal","","Dan","Liberal","Libéral",N,Y,126
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",0,433,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,430,"Catellier","","François","Conservative","Conservateur",N,N,61
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,430,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,430,"Vandal","","Dan","Liberal","Libéral",N,Y,127
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,430,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,435,"Catellier","","François","Conservative","Conservateur",N,N,101
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,435,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,435,"Vandal","","Dan","Liberal","Libéral",N,Y,132
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,435,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,417,"Catellier","","François","Conservative","Conservateur",N,N,105
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,417,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,417,"Vandal","","Dan","Liberal","Libéral",N,Y,122
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,417,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 127","Winnipeg",N,N,"",0,476,"Catellier","","François","Conservative","Conservateur",N,N,78
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 127","Winnipeg",N,N,"",0,476,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 127","Winnipeg",N,N,"",0,476,"Vandal","","Dan","Liberal","Libéral",N,Y,135
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 127","Winnipeg",N,N,"",0,476,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128A","Winnipeg",N,N,"",0,249,"Catellier","","François","Conservative","Conservateur",N,N,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128A","Winnipeg",N,N,"",0,249,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128A","Winnipeg",N,N,"",0,249,"Vandal","","Dan","Liberal","Libéral",N,Y,78
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128A","Winnipeg",N,N,"",0,249,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128B","Winnipeg",N,N,"",0,254,"Catellier","","François","Conservative","Conservateur",N,N,53
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128B","Winnipeg",N,N,"",0,254,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128B","Winnipeg",N,N,"",0,254,"Vandal","","Dan","Liberal","Libéral",N,Y,79
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 128B","Winnipeg",N,N,"",0,254,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",1,463,"Catellier","","François","Conservative","Conservateur",N,N,76
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",1,463,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",1,463,"Vandal","","Dan","Liberal","Libéral",N,Y,174
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",1,463,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",1,394,"Catellier","","François","Conservative","Conservateur",N,N,87
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",1,394,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",1,394,"Vandal","","Dan","Liberal","Libéral",N,Y,116
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",1,394,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131A","Winnipeg",N,N,"",0,407,"Catellier","","François","Conservative","Conservateur",N,N,98
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131A","Winnipeg",N,N,"",0,407,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131A","Winnipeg",N,N,"",0,407,"Vandal","","Dan","Liberal","Libéral",N,Y,129
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131A","Winnipeg",N,N,"",0,407,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131B","Winnipeg",N,N,"",0,358,"Catellier","","François","Conservative","Conservateur",N,N,76
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131B","Winnipeg",N,N,"",0,358,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131B","Winnipeg",N,N,"",0,358,"Vandal","","Dan","Liberal","Libéral",N,Y,101
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131B","Winnipeg",N,N,"",0,358,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131C","Winnipeg",N,N,"",1,482,"Catellier","","François","Conservative","Conservateur",N,N,113
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131C","Winnipeg",N,N,"",1,482,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131C","Winnipeg",N,N,"",1,482,"Vandal","","Dan","Liberal","Libéral",N,Y,136
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 131C","Winnipeg",N,N,"",1,482,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132A","Winnipeg",N,N,"",0,274,"Catellier","","François","Conservative","Conservateur",N,N,48
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132A","Winnipeg",N,N,"",0,274,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132A","Winnipeg",N,N,"",0,274,"Vandal","","Dan","Liberal","Libéral",N,Y,75
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132A","Winnipeg",N,N,"",0,274,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132B","Winnipeg",N,N,"",0,256,"Catellier","","François","Conservative","Conservateur",N,N,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132B","Winnipeg",N,N,"",0,256,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132B","Winnipeg",N,N,"",0,256,"Vandal","","Dan","Liberal","Libéral",N,Y,75
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 132B","Winnipeg",N,N,"",0,256,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",0,434,"Catellier","","François","Conservative","Conservateur",N,N,76
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",0,434,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",0,434,"Vandal","","Dan","Liberal","Libéral",N,Y,123
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",0,434,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,448,"Catellier","","François","Conservative","Conservateur",N,N,108
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,448,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,448,"Vandal","","Dan","Liberal","Libéral",N,Y,130
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,448,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",1,456,"Catellier","","François","Conservative","Conservateur",N,N,103
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",1,456,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",1,456,"Vandal","","Dan","Liberal","Libéral",N,Y,117
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",1,456,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",0,359,"Catellier","","François","Conservative","Conservateur",N,N,86
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",0,359,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",0,359,"Vandal","","Dan","Liberal","Libéral",N,Y,87
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",0,359,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",2,341,"Catellier","","François","Conservative","Conservateur",N,N,95
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",2,341,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",2,341,"Vandal","","Dan","Liberal","Libéral",N,Y,110
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",2,341,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,400,"Catellier","","François","Conservative","Conservateur",N,N,85
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,400,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,400,"Vandal","","Dan","Liberal","Libéral",N,Y,140
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,400,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,433,"Catellier","","François","Conservative","Conservateur",N,N,104
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,433,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,433,"Vandal","","Dan","Liberal","Libéral",N,Y,119
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,433,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,8
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",0,376,"Catellier","","François","Conservative","Conservateur",N,N,77
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",0,376,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",0,376,"Vandal","","Dan","Liberal","Libéral",N,Y,119
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",0,376,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,260,"Catellier","","François","Conservative","Conservateur",N,N,48
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,260,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,260,"Vandal","","Dan","Liberal","Libéral",N,Y,83
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,260,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",0,469,"Catellier","","François","Conservative","Conservateur",N,N,93
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",0,469,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",0,469,"Vandal","","Dan","Liberal","Libéral",N,Y,150
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",0,469,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",0,101,"Catellier","","François","Conservative","Conservateur",N,N,23
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",0,101,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",0,101,"Vandal","","Dan","Liberal","Libéral",N,Y,30
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",0,101,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,467,"Catellier","","François","Conservative","Conservateur",N,N,121
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,467,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,467,"Vandal","","Dan","Liberal","Libéral",N,Y,104
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,467,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,355,"Catellier","","François","Conservative","Conservateur",N,N,81
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,355,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,355,"Vandal","","Dan","Liberal","Libéral",N,Y,90
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,355,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",0,414,"Catellier","","François","Conservative","Conservateur",N,N,94
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",0,414,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",0,414,"Vandal","","Dan","Liberal","Libéral",N,Y,113
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",0,414,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 147","Winnipeg",N,N,"",0,422,"Catellier","","François","Conservative","Conservateur",N,N,85
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 147","Winnipeg",N,N,"",0,422,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 147","Winnipeg",N,N,"",0,422,"Vandal","","Dan","Liberal","Libéral",N,Y,118
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 147","Winnipeg",N,N,"",0,422,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",0,437,"Catellier","","François","Conservative","Conservateur",N,N,81
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",0,437,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",0,437,"Vandal","","Dan","Liberal","Libéral",N,Y,133
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",0,437,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",0,239,"Catellier","","François","Conservative","Conservateur",N,N,56
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",0,239,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",0,239,"Vandal","","Dan","Liberal","Libéral",N,Y,65
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",0,239,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,264,"Catellier","","François","Conservative","Conservateur",N,N,66
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,264,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,264,"Vandal","","Dan","Liberal","Libéral",N,Y,93
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,264,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 150","Winnipeg",N,N,"",3,524,"Catellier","","François","Conservative","Conservateur",N,N,71
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 150","Winnipeg",N,N,"",3,524,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 150","Winnipeg",N,N,"",3,524,"Vandal","","Dan","Liberal","Libéral",N,Y,127
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 150","Winnipeg",N,N,"",3,524,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",0,377,"Catellier","","François","Conservative","Conservateur",N,N,88
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",0,377,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",0,377,"Vandal","","Dan","Liberal","Libéral",N,Y,109
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",0,377,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152A","Winnipeg",N,N,"",0,282,"Catellier","","François","Conservative","Conservateur",N,N,70
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152A","Winnipeg",N,N,"",0,282,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152A","Winnipeg",N,N,"",0,282,"Vandal","","Dan","Liberal","Libéral",N,Y,66
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152A","Winnipeg",N,N,"",0,282,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152B","Winnipeg",N,N,"",0,287,"Catellier","","François","Conservative","Conservateur",N,N,59
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152B","Winnipeg",N,N,"",0,287,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152B","Winnipeg",N,N,"",0,287,"Vandal","","Dan","Liberal","Libéral",N,Y,99
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 152B","Winnipeg",N,N,"",0,287,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",1,524,"Catellier","","François","Conservative","Conservateur",N,N,103
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",1,524,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",1,524,"Vandal","","Dan","Liberal","Libéral",N,Y,159
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",1,524,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,257,"Catellier","","François","Conservative","Conservateur",N,N,25
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,257,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,257,"Vandal","","Dan","Liberal","Libéral",N,Y,68
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,257,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155A","Winnipeg",N,N,"",1,241,"Catellier","","François","Conservative","Conservateur",N,N,67
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155A","Winnipeg",N,N,"",1,241,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155A","Winnipeg",N,N,"",1,241,"Vandal","","Dan","Liberal","Libéral",N,Y,51
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155A","Winnipeg",N,N,"",1,241,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155B","Winnipeg",N,N,"",0,264,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155B","Winnipeg",N,N,"",0,264,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155B","Winnipeg",N,N,"",0,264,"Vandal","","Dan","Liberal","Libéral",N,Y,59
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 155B","Winnipeg",N,N,"",0,264,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,449,"Catellier","","François","Conservative","Conservateur",N,N,97
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,449,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,449,"Vandal","","Dan","Liberal","Libéral",N,Y,104
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,449,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,350,"Catellier","","François","Conservative","Conservateur",N,N,87
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,350,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,350,"Vandal","","Dan","Liberal","Libéral",N,Y,73
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,350,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,231,"Catellier","","François","Conservative","Conservateur",N,N,43
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,231,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,231,"Vandal","","Dan","Liberal","Libéral",N,Y,57
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,231,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159A","Winnipeg",N,N,"",0,297,"Catellier","","François","Conservative","Conservateur",N,N,66
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159A","Winnipeg",N,N,"",0,297,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159A","Winnipeg",N,N,"",0,297,"Vandal","","Dan","Liberal","Libéral",N,Y,80
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159A","Winnipeg",N,N,"",0,297,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159B","Winnipeg",N,N,"",1,355,"Catellier","","François","Conservative","Conservateur",N,N,70
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159B","Winnipeg",N,N,"",1,355,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159B","Winnipeg",N,N,"",1,355,"Vandal","","Dan","Liberal","Libéral",N,Y,101
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159B","Winnipeg",N,N,"",1,355,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159C","Winnipeg",N,N,"",2,185,"Catellier","","François","Conservative","Conservateur",N,N,66
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159C","Winnipeg",N,N,"",2,185,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159C","Winnipeg",N,N,"",2,185,"Vandal","","Dan","Liberal","Libéral",N,Y,57
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 159C","Winnipeg",N,N,"",2,185,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160A","Winnipeg",N,N,"",0,329,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160A","Winnipeg",N,N,"",0,329,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160A","Winnipeg",N,N,"",0,329,"Vandal","","Dan","Liberal","Libéral",N,Y,89
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160A","Winnipeg",N,N,"",0,329,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,1
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160B","Winnipeg",N,N,"",0,234,"Catellier","","François","Conservative","Conservateur",N,N,34
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160B","Winnipeg",N,N,"",0,234,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160B","Winnipeg",N,N,"",0,234,"Vandal","","Dan","Liberal","Libéral",N,Y,58
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 160B","Winnipeg",N,N,"",0,234,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,3
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 400","Winnipeg",N,N,"",0,201,"Catellier","","François","Conservative","Conservateur",N,N,22
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 400","Winnipeg",N,N,"",0,201,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 400","Winnipeg",N,N,"",0,201,"Vandal","","Dan","Liberal","Libéral",N,Y,58
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 400","Winnipeg",N,N,"",0,201,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"",5,262,"Catellier","","François","Conservative","Conservateur",N,N,125
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"",5,262,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"",5,262,"Vandal","","Dan","Liberal","Libéral",N,Y,195
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"",5,262,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"",0,184,"Catellier","","François","Conservative","Conservateur",N,N,49
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"",0,184,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"",0,184,"Vandal","","Dan","Liberal","Libéral",N,Y,73
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"",0,184,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",0,242,"Catellier","","François","Conservative","Conservateur",N,N,59
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",0,242,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",0,242,"Vandal","","Dan","Liberal","Libéral",N,Y,97
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",0,242,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,4
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",1,254,"Catellier","","François","Conservative","Conservateur",N,N,38
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",1,254,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",1,254,"Vandal","","Dan","Liberal","Libéral",N,Y,130
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",1,254,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,0
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"",0,198,"Catellier","","François","Conservative","Conservateur",N,N,31
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"",0,198,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"",0,198,"Vandal","","Dan","Liberal","Libéral",N,Y,97
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"",0,198,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",3,0,"Catellier","","François","Conservative","Conservateur",N,N,128
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",3,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",3,0,"Vandal","","Dan","Liberal","Libéral",N,Y,593
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",3,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Catellier","","François","Conservative","Conservateur",N,N,153
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Vandal","","Dan","Liberal","Libéral",N,Y,635
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,19
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",4,0,"Catellier","","François","Conservative","Conservateur",N,N,159
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",4,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",4,0,"Vandal","","Dan","Liberal","Libéral",N,Y,505
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",4,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",0,0,"Catellier","","François","Conservative","Conservateur",N,N,262
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",0,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",0,0,"Vandal","","Dan","Liberal","Libéral",N,Y,538
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",0,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",3,0,"Catellier","","François","Conservative","Conservateur",N,N,252
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",3,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",3,0,"Vandal","","Dan","Liberal","Libéral",N,Y,521
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",3,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",2,0,"Catellier","","François","Conservative","Conservateur",N,N,327
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",2,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",2,0,"Vandal","","Dan","Liberal","Libéral",N,Y,533
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",2,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,16
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",2,0,"Catellier","","François","Conservative","Conservateur",N,N,165
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",2,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",2,0,"Vandal","","Dan","Liberal","Libéral",N,Y,310
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",2,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,13
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",1,0,"Catellier","","François","Conservative","Conservateur",N,N,462
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",1,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,136
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",1,0,"Vandal","","Dan","Liberal","Libéral",N,Y,572
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",1,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,5
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",1,0,"Catellier","","François","Conservative","Conservateur",N,N,548
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",1,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",1,0,"Vandal","","Dan","Liberal","Libéral",N,Y,645
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",1,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",2,0,"Catellier","","François","Conservative","Conservateur",N,N,627
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",2,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",2,0,"Vandal","","Dan","Liberal","Libéral",N,Y,600
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",2,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,12
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,114,"Catellier","","François","Conservative","Conservateur",N,N,31
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,114,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,114,"Vandal","","Dan","Liberal","Libéral",N,Y,96
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,114,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,2
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Catellier","","François","Conservative","Conservateur",N,N,471
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Selby","","Erin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,195
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Vandal","","Dan","Liberal","Libéral",N,Y,1009
+46009,"Saint Boniface--Saint Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Zaretski","","Glenn","Green Party","Parti Vert",N,N,47

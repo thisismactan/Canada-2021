@@ -1,0 +1,451 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+61001,"Western Arctic","Western Arctic"," 1","Sachs Harbour",N,N,"",0,62,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 1","Sachs Harbour",N,N,"",0,62,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,13
+61001,"Western Arctic","Western Arctic"," 1","Sachs Harbour",N,N,"",0,62,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,26
+61001,"Western Arctic","Western Arctic"," 1","Sachs Harbour",N,N,"",0,62,"Edjericon","","Richard","Conservative","Conservateur",N,N,5
+61001,"Western Arctic","Western Arctic"," 1","Sachs Harbour",N,N,"",0,62,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 2","Holman",N,N,"",0,241,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 2","Holman",N,N,"",0,241,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,59
+61001,"Western Arctic","Western Arctic"," 2","Holman",N,N,"",0,241,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,35
+61001,"Western Arctic","Western Arctic"," 2","Holman",N,N,"",0,241,"Edjericon","","Richard","Conservative","Conservateur",N,N,6
+61001,"Western Arctic","Western Arctic"," 2","Holman",N,N,"",0,241,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 3","Aklavik",N,N,"",0,277,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 3","Aklavik",N,N,"",0,277,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,30
+61001,"Western Arctic","Western Arctic"," 3","Aklavik",N,N,"",0,277,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,58
+61001,"Western Arctic","Western Arctic"," 3","Aklavik",N,N,"",0,277,"Edjericon","","Richard","Conservative","Conservateur",N,N,14
+61001,"Western Arctic","Western Arctic"," 3","Aklavik",N,N,"",0,277,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 4","Aklavik",N,N,"",1,125,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 4","Aklavik",N,N,"",1,125,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,17
+61001,"Western Arctic","Western Arctic"," 4","Aklavik",N,N,"",1,125,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,40
+61001,"Western Arctic","Western Arctic"," 4","Aklavik",N,N,"",1,125,"Edjericon","","Richard","Conservative","Conservateur",N,N,10
+61001,"Western Arctic","Western Arctic"," 4","Aklavik",N,N,"",1,125,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 5","Tuktoyaktuk",N,N,"",3,580,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,9
+61001,"Western Arctic","Western Arctic"," 5","Tuktoyaktuk",N,N,"",3,580,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,43
+61001,"Western Arctic","Western Arctic"," 5","Tuktoyaktuk",N,N,"",3,580,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,171
+61001,"Western Arctic","Western Arctic"," 5","Tuktoyaktuk",N,N,"",3,580,"Edjericon","","Richard","Conservative","Conservateur",N,N,24
+61001,"Western Arctic","Western Arctic"," 5","Tuktoyaktuk",N,N,"",3,580,"van der Veen","","Jan H.","Independent","Indépendant",N,N,3
+61001,"Western Arctic","Western Arctic"," 6","Tuktoyaktuk",Y,N,"",0,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 6","Tuktoyaktuk",Y,N,"",0,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,0
+61001,"Western Arctic","Western Arctic"," 6","Tuktoyaktuk",Y,N,"",0,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,0
+61001,"Western Arctic","Western Arctic"," 6","Tuktoyaktuk",Y,N,"",0,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,0
+61001,"Western Arctic","Western Arctic"," 6","Tuktoyaktuk",Y,N,"",0,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 7","Paulatuk",N,N,"",0,174,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 7","Paulatuk",N,N,"",0,174,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,9
+61001,"Western Arctic","Western Arctic"," 7","Paulatuk",N,N,"",0,174,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,85
+61001,"Western Arctic","Western Arctic"," 7","Paulatuk",N,N,"",0,174,"Edjericon","","Richard","Conservative","Conservateur",N,N,4
+61001,"Western Arctic","Western Arctic"," 7","Paulatuk",N,N,"",0,174,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 8","Inuvik",N,N,"",2,810,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,7
+61001,"Western Arctic","Western Arctic"," 8","Inuvik",N,N,"",2,810,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,104
+61001,"Western Arctic","Western Arctic"," 8","Inuvik",N,N,"",2,810,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,157
+61001,"Western Arctic","Western Arctic"," 8","Inuvik",N,N,"",2,810,"Edjericon","","Richard","Conservative","Conservateur",N,N,64
+61001,"Western Arctic","Western Arctic"," 8","Inuvik",N,N,"",2,810,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 9","Inuvik",N,N,"",2,578,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 9","Inuvik",N,N,"",2,578,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,78
+61001,"Western Arctic","Western Arctic"," 9","Inuvik",N,N,"",2,578,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,132
+61001,"Western Arctic","Western Arctic"," 9","Inuvik",N,N,"",2,578,"Edjericon","","Richard","Conservative","Conservateur",N,N,36
+61001,"Western Arctic","Western Arctic"," 9","Inuvik",N,N,"",2,578,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 10","Inuvik",N,N,"",1,248,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 10","Inuvik",N,N,"",1,248,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,35
+61001,"Western Arctic","Western Arctic"," 10","Inuvik",N,N,"",1,248,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,55
+61001,"Western Arctic","Western Arctic"," 10","Inuvik",N,N,"",1,248,"Edjericon","","Richard","Conservative","Conservateur",N,N,21
+61001,"Western Arctic","Western Arctic"," 10","Inuvik",N,N,"",1,248,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 11","Inuvik",N,N,"",0,277,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,7
+61001,"Western Arctic","Western Arctic"," 11","Inuvik",N,N,"",0,277,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,77
+61001,"Western Arctic","Western Arctic"," 11","Inuvik",N,N,"",0,277,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,52
+61001,"Western Arctic","Western Arctic"," 11","Inuvik",N,N,"",0,277,"Edjericon","","Richard","Conservative","Conservateur",N,N,25
+61001,"Western Arctic","Western Arctic"," 11","Inuvik",N,N,"",0,277,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 12","Inuvik",N,N,"",0,252,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,6
+61001,"Western Arctic","Western Arctic"," 12","Inuvik",N,N,"",0,252,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,61
+61001,"Western Arctic","Western Arctic"," 12","Inuvik",N,N,"",0,252,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,50
+61001,"Western Arctic","Western Arctic"," 12","Inuvik",N,N,"",0,252,"Edjericon","","Richard","Conservative","Conservateur",N,N,24
+61001,"Western Arctic","Western Arctic"," 12","Inuvik",N,N,"",0,252,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 13","Fort McPherson",N,N,"",0,326,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 13","Fort McPherson",N,N,"",0,326,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,41
+61001,"Western Arctic","Western Arctic"," 13","Fort McPherson",N,N,"",0,326,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,70
+61001,"Western Arctic","Western Arctic"," 13","Fort McPherson",N,N,"",0,326,"Edjericon","","Richard","Conservative","Conservateur",N,N,19
+61001,"Western Arctic","Western Arctic"," 13","Fort McPherson",N,N,"",0,326,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 14","Fort McPherson",N,N,"",1,195,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 14","Fort McPherson",N,N,"",1,195,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,22
+61001,"Western Arctic","Western Arctic"," 14","Fort McPherson",N,N,"",1,195,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,50
+61001,"Western Arctic","Western Arctic"," 14","Fort McPherson",N,N,"",1,195,"Edjericon","","Richard","Conservative","Conservateur",N,N,12
+61001,"Western Arctic","Western Arctic"," 14","Fort McPherson",N,N,"",1,195,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 15","Tsiigehtchic",N,N,"",0,103,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 15","Tsiigehtchic",N,N,"",0,103,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,4
+61001,"Western Arctic","Western Arctic"," 15","Tsiigehtchic",N,N,"",0,103,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,31
+61001,"Western Arctic","Western Arctic"," 15","Tsiigehtchic",N,N,"",0,103,"Edjericon","","Richard","Conservative","Conservateur",N,N,4
+61001,"Western Arctic","Western Arctic"," 15","Tsiigehtchic",N,N,"",0,103,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 16","Fort Good Hope",N,N,"",0,387,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,9
+61001,"Western Arctic","Western Arctic"," 16","Fort Good Hope",N,N,"",0,387,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,51
+61001,"Western Arctic","Western Arctic"," 16","Fort Good Hope",N,N,"",0,387,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,90
+61001,"Western Arctic","Western Arctic"," 16","Fort Good Hope",N,N,"",0,387,"Edjericon","","Richard","Conservative","Conservateur",N,N,16
+61001,"Western Arctic","Western Arctic"," 16","Fort Good Hope",N,N,"",0,387,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 17","Colville Lake",N,N,"",0,72,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 17","Colville Lake",N,N,"",0,72,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,5
+61001,"Western Arctic","Western Arctic"," 17","Colville Lake",N,N,"",0,72,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,40
+61001,"Western Arctic","Western Arctic"," 17","Colville Lake",N,N,"",0,72,"Edjericon","","Richard","Conservative","Conservateur",N,N,5
+61001,"Western Arctic","Western Arctic"," 17","Colville Lake",N,N,"",0,72,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 18","Norman Wells",N,N,"",1,541,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,15
+61001,"Western Arctic","Western Arctic"," 18","Norman Wells",N,N,"",1,541,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,96
+61001,"Western Arctic","Western Arctic"," 18","Norman Wells",N,N,"",1,541,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,89
+61001,"Western Arctic","Western Arctic"," 18","Norman Wells",N,N,"",1,541,"Edjericon","","Richard","Conservative","Conservateur",N,N,57
+61001,"Western Arctic","Western Arctic"," 18","Norman Wells",N,N,"",1,541,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 19","Deline",N,N,"",0,379,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 19","Deline",N,N,"",0,379,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,14
+61001,"Western Arctic","Western Arctic"," 19","Deline",N,N,"",0,379,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,166
+61001,"Western Arctic","Western Arctic"," 19","Deline",N,N,"",0,379,"Edjericon","","Richard","Conservative","Conservateur",N,N,24
+61001,"Western Arctic","Western Arctic"," 19","Deline",N,N,"",0,379,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 20","Tulita",N,N,"",0,299,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 20","Tulita",N,N,"",0,299,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,22
+61001,"Western Arctic","Western Arctic"," 20","Tulita",N,N,"",0,299,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,107
+61001,"Western Arctic","Western Arctic"," 20","Tulita",N,N,"",0,299,"Edjericon","","Richard","Conservative","Conservateur",N,N,10
+61001,"Western Arctic","Western Arctic"," 20","Tulita",N,N,"",0,299,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 21","Wrigley",N,N,"",1,99,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 21","Wrigley",N,N,"",1,99,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,15
+61001,"Western Arctic","Western Arctic"," 21","Wrigley",N,N,"",1,99,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,17
+61001,"Western Arctic","Western Arctic"," 21","Wrigley",N,N,"",1,99,"Edjericon","","Richard","Conservative","Conservateur",N,N,7
+61001,"Western Arctic","Western Arctic"," 21","Wrigley",N,N,"",1,99,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 22","Nahanni Butte",N,N,"",1,55,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 22","Nahanni Butte",N,N,"",1,55,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,9
+61001,"Western Arctic","Western Arctic"," 22","Nahanni Butte",N,N,"",1,55,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,13
+61001,"Western Arctic","Western Arctic"," 22","Nahanni Butte",N,N,"",1,55,"Edjericon","","Richard","Conservative","Conservateur",N,N,11
+61001,"Western Arctic","Western Arctic"," 22","Nahanni Butte",N,N,"",1,55,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 23","Gameti",N,N,"",0,181,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 23","Gameti",N,N,"",0,181,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,5
+61001,"Western Arctic","Western Arctic"," 23","Gameti",N,N,"",0,181,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,100
+61001,"Western Arctic","Western Arctic"," 23","Gameti",N,N,"",0,181,"Edjericon","","Richard","Conservative","Conservateur",N,N,8
+61001,"Western Arctic","Western Arctic"," 23","Gameti",N,N,"",0,181,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 24","Wekweti",N,N,"",0,87,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 24","Wekweti",N,N,"",0,87,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,3
+61001,"Western Arctic","Western Arctic"," 24","Wekweti",N,N,"",0,87,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,37
+61001,"Western Arctic","Western Arctic"," 24","Wekweti",N,N,"",0,87,"Edjericon","","Richard","Conservative","Conservateur",N,N,2
+61001,"Western Arctic","Western Arctic"," 24","Wekweti",N,N,"",0,87,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 25","Fort Simpson",N,N,"",0,246,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 25","Fort Simpson",N,N,"",0,246,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,64
+61001,"Western Arctic","Western Arctic"," 25","Fort Simpson",N,N,"",0,246,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,56
+61001,"Western Arctic","Western Arctic"," 25","Fort Simpson",N,N,"",0,246,"Edjericon","","Richard","Conservative","Conservateur",N,N,5
+61001,"Western Arctic","Western Arctic"," 25","Fort Simpson",N,N,"",0,246,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 26","Fort Simpson",N,N,"",0,771,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 26","Fort Simpson",N,N,"",0,771,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,137
+61001,"Western Arctic","Western Arctic"," 26","Fort Simpson",N,N,"",0,771,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,138
+61001,"Western Arctic","Western Arctic"," 26","Fort Simpson",N,N,"",0,771,"Edjericon","","Richard","Conservative","Conservateur",N,N,38
+61001,"Western Arctic","Western Arctic"," 26","Fort Simpson",N,N,"",0,771,"van der Veen","","Jan H.","Independent","Indépendant",N,N,16
+61001,"Western Arctic","Western Arctic"," 27","Jean Marie River",N,N,"",0,43,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 27","Jean Marie River",N,N,"",0,43,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,5
+61001,"Western Arctic","Western Arctic"," 27","Jean Marie River",N,N,"",0,43,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,24
+61001,"Western Arctic","Western Arctic"," 27","Jean Marie River",N,N,"",0,43,"Edjericon","","Richard","Conservative","Conservateur",N,N,5
+61001,"Western Arctic","Western Arctic"," 27","Jean Marie River",N,N,"",0,43,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 28","Fort Liard",N,N,"",1,384,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 28","Fort Liard",N,N,"",1,384,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,43
+61001,"Western Arctic","Western Arctic"," 28","Fort Liard",N,N,"",1,384,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,54
+61001,"Western Arctic","Western Arctic"," 28","Fort Liard",N,N,"",1,384,"Edjericon","","Richard","Conservative","Conservateur",N,N,18
+61001,"Western Arctic","Western Arctic"," 28","Fort Liard",N,N,"",1,384,"van der Veen","","Jan H.","Independent","Indépendant",N,N,3
+61001,"Western Arctic","Western Arctic"," 29","Trout Lake",N,N,"",0,65,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 29","Trout Lake",N,N,"",0,65,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,3
+61001,"Western Arctic","Western Arctic"," 29","Trout Lake",N,N,"",0,65,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,24
+61001,"Western Arctic","Western Arctic"," 29","Trout Lake",N,N,"",0,65,"Edjericon","","Richard","Conservative","Conservateur",N,N,0
+61001,"Western Arctic","Western Arctic"," 29","Trout Lake",N,N,"",0,65,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 30","Wha Ti",N,N,"",1,310,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 30","Wha Ti",N,N,"",1,310,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,20
+61001,"Western Arctic","Western Arctic"," 30","Wha Ti",N,N,"",1,310,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,166
+61001,"Western Arctic","Western Arctic"," 30","Wha Ti",N,N,"",1,310,"Edjericon","","Richard","Conservative","Conservateur",N,N,11
+61001,"Western Arctic","Western Arctic"," 30","Wha Ti",N,N,"",1,310,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 31","Rae",N,N,"",0,826,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 31","Rae",N,N,"",0,826,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,21
+61001,"Western Arctic","Western Arctic"," 31","Rae",N,N,"",0,826,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,317
+61001,"Western Arctic","Western Arctic"," 31","Rae",N,N,"",0,826,"Edjericon","","Richard","Conservative","Conservateur",N,N,22
+61001,"Western Arctic","Western Arctic"," 31","Rae",N,N,"",0,826,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 32","Rae",N,N,"",0,194,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 32","Rae",N,N,"",0,194,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,5
+61001,"Western Arctic","Western Arctic"," 32","Rae",N,N,"",0,194,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,133
+61001,"Western Arctic","Western Arctic"," 32","Rae",N,N,"",0,194,"Edjericon","","Richard","Conservative","Conservateur",N,N,10
+61001,"Western Arctic","Western Arctic"," 32","Rae",N,N,"",0,194,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 33","Edzo",N,N,"",0,157,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 33","Edzo",N,N,"",0,157,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,20
+61001,"Western Arctic","Western Arctic"," 33","Edzo",N,N,"",0,157,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,59
+61001,"Western Arctic","Western Arctic"," 33","Edzo",N,N,"",0,157,"Edjericon","","Richard","Conservative","Conservateur",N,N,12
+61001,"Western Arctic","Western Arctic"," 33","Edzo",N,N,"",0,157,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 34","Fort Providence",N,N,"",1,561,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 34","Fort Providence",N,N,"",1,561,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,160
+61001,"Western Arctic","Western Arctic"," 34","Fort Providence",N,N,"",1,561,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,180
+61001,"Western Arctic","Western Arctic"," 34","Fort Providence",N,N,"",1,561,"Edjericon","","Richard","Conservative","Conservateur",N,N,17
+61001,"Western Arctic","Western Arctic"," 34","Fort Providence",N,N,"",1,561,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 35","Camlaren",N,N,"24",0,19,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 35","Camlaren",N,N,"24",0,19,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,0
+61001,"Western Arctic","Western Arctic"," 35","Camlaren",N,N,"24",0,19,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,0
+61001,"Western Arctic","Western Arctic"," 35","Camlaren",N,N,"24",0,19,"Edjericon","","Richard","Conservative","Conservateur",N,N,0
+61001,"Western Arctic","Western Arctic"," 35","Camlaren",N,N,"24",0,19,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 36","Yellowknife",N,N,"",0,48,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 36","Yellowknife",N,N,"",0,48,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,16
+61001,"Western Arctic","Western Arctic"," 36","Yellowknife",N,N,"",0,48,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,2
+61001,"Western Arctic","Western Arctic"," 36","Yellowknife",N,N,"",0,48,"Edjericon","","Richard","Conservative","Conservateur",N,N,5
+61001,"Western Arctic","Western Arctic"," 36","Yellowknife",N,N,"",0,48,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 37","Yellowknife",N,N,"",3,910,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 37","Yellowknife",N,N,"",3,910,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,240
+61001,"Western Arctic","Western Arctic"," 37","Yellowknife",N,N,"",3,910,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,111
+61001,"Western Arctic","Western Arctic"," 37","Yellowknife",N,N,"",3,910,"Edjericon","","Richard","Conservative","Conservateur",N,N,114
+61001,"Western Arctic","Western Arctic"," 37","Yellowknife",N,N,"",3,910,"van der Veen","","Jan H.","Independent","Indépendant",N,N,5
+61001,"Western Arctic","Western Arctic"," 38","Yellowknife",N,N,"",1,643,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 38","Yellowknife",N,N,"",1,643,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,206
+61001,"Western Arctic","Western Arctic"," 38","Yellowknife",N,N,"",1,643,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,85
+61001,"Western Arctic","Western Arctic"," 38","Yellowknife",N,N,"",1,643,"Edjericon","","Richard","Conservative","Conservateur",N,N,70
+61001,"Western Arctic","Western Arctic"," 38","Yellowknife",N,N,"",1,643,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 39","Yellowknife",N,N,"",1,405,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,7
+61001,"Western Arctic","Western Arctic"," 39","Yellowknife",N,N,"",1,405,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,99
+61001,"Western Arctic","Western Arctic"," 39","Yellowknife",N,N,"",1,405,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,58
+61001,"Western Arctic","Western Arctic"," 39","Yellowknife",N,N,"",1,405,"Edjericon","","Richard","Conservative","Conservateur",N,N,72
+61001,"Western Arctic","Western Arctic"," 39","Yellowknife",N,N,"",1,405,"van der Veen","","Jan H.","Independent","Indépendant",N,N,3
+61001,"Western Arctic","Western Arctic"," 40","Yellowknife",N,N,"",1,332,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,11
+61001,"Western Arctic","Western Arctic"," 40","Yellowknife",N,N,"",1,332,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,74
+61001,"Western Arctic","Western Arctic"," 40","Yellowknife",N,N,"",1,332,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,30
+61001,"Western Arctic","Western Arctic"," 40","Yellowknife",N,N,"",1,332,"Edjericon","","Richard","Conservative","Conservateur",N,N,48
+61001,"Western Arctic","Western Arctic"," 40","Yellowknife",N,N,"",1,332,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 41","Yellowknife",N,N,"",0,429,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 41","Yellowknife",N,N,"",0,429,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,148
+61001,"Western Arctic","Western Arctic"," 41","Yellowknife",N,N,"",0,429,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,28
+61001,"Western Arctic","Western Arctic"," 41","Yellowknife",N,N,"",0,429,"Edjericon","","Richard","Conservative","Conservateur",N,N,56
+61001,"Western Arctic","Western Arctic"," 41","Yellowknife",N,N,"",0,429,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 42","Yellowknife",N,N,"",0,437,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 42","Yellowknife",N,N,"",0,437,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,133
+61001,"Western Arctic","Western Arctic"," 42","Yellowknife",N,N,"",0,437,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,57
+61001,"Western Arctic","Western Arctic"," 42","Yellowknife",N,N,"",0,437,"Edjericon","","Richard","Conservative","Conservateur",N,N,48
+61001,"Western Arctic","Western Arctic"," 42","Yellowknife",N,N,"",0,437,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 43","Yellowknife",N,N,"",1,447,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 43","Yellowknife",N,N,"",1,447,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,123
+61001,"Western Arctic","Western Arctic"," 43","Yellowknife",N,N,"",1,447,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,53
+61001,"Western Arctic","Western Arctic"," 43","Yellowknife",N,N,"",1,447,"Edjericon","","Richard","Conservative","Conservateur",N,N,61
+61001,"Western Arctic","Western Arctic"," 43","Yellowknife",N,N,"",1,447,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 44","Yellowknife",N,N,"",0,414,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 44","Yellowknife",N,N,"",0,414,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,135
+61001,"Western Arctic","Western Arctic"," 44","Yellowknife",N,N,"",0,414,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,45
+61001,"Western Arctic","Western Arctic"," 44","Yellowknife",N,N,"",0,414,"Edjericon","","Richard","Conservative","Conservateur",N,N,32
+61001,"Western Arctic","Western Arctic"," 44","Yellowknife",N,N,"",0,414,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 45","Yellowknife",N,N,"",1,641,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 45","Yellowknife",N,N,"",1,641,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,137
+61001,"Western Arctic","Western Arctic"," 45","Yellowknife",N,N,"",1,641,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,71
+61001,"Western Arctic","Western Arctic"," 45","Yellowknife",N,N,"",1,641,"Edjericon","","Richard","Conservative","Conservateur",N,N,96
+61001,"Western Arctic","Western Arctic"," 45","Yellowknife",N,N,"",1,641,"van der Veen","","Jan H.","Independent","Indépendant",N,N,3
+61001,"Western Arctic","Western Arctic"," 46","Yellowknife",N,N,"",0,372,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 46","Yellowknife",N,N,"",0,372,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,124
+61001,"Western Arctic","Western Arctic"," 46","Yellowknife",N,N,"",0,372,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,31
+61001,"Western Arctic","Western Arctic"," 46","Yellowknife",N,N,"",0,372,"Edjericon","","Richard","Conservative","Conservateur",N,N,45
+61001,"Western Arctic","Western Arctic"," 46","Yellowknife",N,N,"",0,372,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 47","Yellowknife",N,N,"",0,459,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 47","Yellowknife",N,N,"",0,459,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,102
+61001,"Western Arctic","Western Arctic"," 47","Yellowknife",N,N,"",0,459,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,33
+61001,"Western Arctic","Western Arctic"," 47","Yellowknife",N,N,"",0,459,"Edjericon","","Richard","Conservative","Conservateur",N,N,41
+61001,"Western Arctic","Western Arctic"," 47","Yellowknife",N,N,"",0,459,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 48","Yellowknife",N,N,"",0,722,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,8
+61001,"Western Arctic","Western Arctic"," 48","Yellowknife",N,N,"",0,722,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,193
+61001,"Western Arctic","Western Arctic"," 48","Yellowknife",N,N,"",0,722,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,72
+61001,"Western Arctic","Western Arctic"," 48","Yellowknife",N,N,"",0,722,"Edjericon","","Richard","Conservative","Conservateur",N,N,68
+61001,"Western Arctic","Western Arctic"," 48","Yellowknife",N,N,"",0,722,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 49","Yellowknife",N,N,"",0,351,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 49","Yellowknife",N,N,"",0,351,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,80
+61001,"Western Arctic","Western Arctic"," 49","Yellowknife",N,N,"",0,351,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,40
+61001,"Western Arctic","Western Arctic"," 49","Yellowknife",N,N,"",0,351,"Edjericon","","Richard","Conservative","Conservateur",N,N,31
+61001,"Western Arctic","Western Arctic"," 49","Yellowknife",N,N,"",0,351,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 50","Yellowknife",N,N,"",2,416,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 50","Yellowknife",N,N,"",2,416,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,82
+61001,"Western Arctic","Western Arctic"," 50","Yellowknife",N,N,"",2,416,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,38
+61001,"Western Arctic","Western Arctic"," 50","Yellowknife",N,N,"",2,416,"Edjericon","","Richard","Conservative","Conservateur",N,N,35
+61001,"Western Arctic","Western Arctic"," 50","Yellowknife",N,N,"",2,416,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 51","Yellowknife",N,N,"",0,424,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,7
+61001,"Western Arctic","Western Arctic"," 51","Yellowknife",N,N,"",0,424,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,67
+61001,"Western Arctic","Western Arctic"," 51","Yellowknife",N,N,"",0,424,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,51
+61001,"Western Arctic","Western Arctic"," 51","Yellowknife",N,N,"",0,424,"Edjericon","","Richard","Conservative","Conservateur",N,N,38
+61001,"Western Arctic","Western Arctic"," 51","Yellowknife",N,N,"",0,424,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 52","Yellowknife",N,N,"",1,382,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 52","Yellowknife",N,N,"",1,382,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,60
+61001,"Western Arctic","Western Arctic"," 52","Yellowknife",N,N,"",1,382,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,33
+61001,"Western Arctic","Western Arctic"," 52","Yellowknife",N,N,"",1,382,"Edjericon","","Richard","Conservative","Conservateur",N,N,35
+61001,"Western Arctic","Western Arctic"," 52","Yellowknife",N,N,"",1,382,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 53","Yellowknife",N,N,"",0,403,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 53","Yellowknife",N,N,"",0,403,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,74
+61001,"Western Arctic","Western Arctic"," 53","Yellowknife",N,N,"",0,403,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,39
+61001,"Western Arctic","Western Arctic"," 53","Yellowknife",N,N,"",0,403,"Edjericon","","Richard","Conservative","Conservateur",N,N,35
+61001,"Western Arctic","Western Arctic"," 53","Yellowknife",N,N,"",0,403,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 54","Yellowknife",N,N,"",1,433,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 54","Yellowknife",N,N,"",1,433,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,80
+61001,"Western Arctic","Western Arctic"," 54","Yellowknife",N,N,"",1,433,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,60
+61001,"Western Arctic","Western Arctic"," 54","Yellowknife",N,N,"",1,433,"Edjericon","","Richard","Conservative","Conservateur",N,N,34
+61001,"Western Arctic","Western Arctic"," 54","Yellowknife",N,N,"",1,433,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 55","Yellowknife",N,N,"",1,420,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 55","Yellowknife",N,N,"",1,420,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,107
+61001,"Western Arctic","Western Arctic"," 55","Yellowknife",N,N,"",1,420,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,55
+61001,"Western Arctic","Western Arctic"," 55","Yellowknife",N,N,"",1,420,"Edjericon","","Richard","Conservative","Conservateur",N,N,44
+61001,"Western Arctic","Western Arctic"," 55","Yellowknife",N,N,"",1,420,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 56","Yellowknife",N,N,"",0,423,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 56","Yellowknife",N,N,"",0,423,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,138
+61001,"Western Arctic","Western Arctic"," 56","Yellowknife",N,N,"",0,423,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,33
+61001,"Western Arctic","Western Arctic"," 56","Yellowknife",N,N,"",0,423,"Edjericon","","Richard","Conservative","Conservateur",N,N,38
+61001,"Western Arctic","Western Arctic"," 56","Yellowknife",N,N,"",0,423,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 57","Yellowknife",N,N,"",0,407,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 57","Yellowknife",N,N,"",0,407,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,97
+61001,"Western Arctic","Western Arctic"," 57","Yellowknife",N,N,"",0,407,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,45
+61001,"Western Arctic","Western Arctic"," 57","Yellowknife",N,N,"",0,407,"Edjericon","","Richard","Conservative","Conservateur",N,N,29
+61001,"Western Arctic","Western Arctic"," 57","Yellowknife",N,N,"",0,407,"van der Veen","","Jan H.","Independent","Indépendant",N,N,4
+61001,"Western Arctic","Western Arctic"," 58","Yellowknife",N,N,"",1,457,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 58","Yellowknife",N,N,"",1,457,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,106
+61001,"Western Arctic","Western Arctic"," 58","Yellowknife",N,N,"",1,457,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,36
+61001,"Western Arctic","Western Arctic"," 58","Yellowknife",N,N,"",1,457,"Edjericon","","Richard","Conservative","Conservateur",N,N,25
+61001,"Western Arctic","Western Arctic"," 58","Yellowknife",N,N,"",1,457,"van der Veen","","Jan H.","Independent","Indépendant",N,N,4
+61001,"Western Arctic","Western Arctic"," 59","Yellowknife",N,N,"",0,350,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 59","Yellowknife",N,N,"",0,350,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,61
+61001,"Western Arctic","Western Arctic"," 59","Yellowknife",N,N,"",0,350,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,41
+61001,"Western Arctic","Western Arctic"," 59","Yellowknife",N,N,"",0,350,"Edjericon","","Richard","Conservative","Conservateur",N,N,21
+61001,"Western Arctic","Western Arctic"," 59","Yellowknife",N,N,"",0,350,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 60","Yellowknife",N,N,"",1,569,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,7
+61001,"Western Arctic","Western Arctic"," 60","Yellowknife",N,N,"",1,569,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,142
+61001,"Western Arctic","Western Arctic"," 60","Yellowknife",N,N,"",1,569,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,84
+61001,"Western Arctic","Western Arctic"," 60","Yellowknife",N,N,"",1,569,"Edjericon","","Richard","Conservative","Conservateur",N,N,50
+61001,"Western Arctic","Western Arctic"," 60","Yellowknife",N,N,"",1,569,"van der Veen","","Jan H.","Independent","Indépendant",N,N,3
+61001,"Western Arctic","Western Arctic"," 61","Yellowknife",N,N,"",0,276,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 61","Yellowknife",N,N,"",0,276,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,56
+61001,"Western Arctic","Western Arctic"," 61","Yellowknife",N,N,"",0,276,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,23
+61001,"Western Arctic","Western Arctic"," 61","Yellowknife",N,N,"",0,276,"Edjericon","","Richard","Conservative","Conservateur",N,N,19
+61001,"Western Arctic","Western Arctic"," 61","Yellowknife",N,N,"",0,276,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 62","Yellowknife",N,N,"",0,314,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 62","Yellowknife",N,N,"",0,314,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,89
+61001,"Western Arctic","Western Arctic"," 62","Yellowknife",N,N,"",0,314,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,26
+61001,"Western Arctic","Western Arctic"," 62","Yellowknife",N,N,"",0,314,"Edjericon","","Richard","Conservative","Conservateur",N,N,36
+61001,"Western Arctic","Western Arctic"," 62","Yellowknife",N,N,"",0,314,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 63","Yellowknife",N,N,"",0,414,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,14
+61001,"Western Arctic","Western Arctic"," 63","Yellowknife",N,N,"",0,414,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,136
+61001,"Western Arctic","Western Arctic"," 63","Yellowknife",N,N,"",0,414,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,49
+61001,"Western Arctic","Western Arctic"," 63","Yellowknife",N,N,"",0,414,"Edjericon","","Richard","Conservative","Conservateur",N,N,44
+61001,"Western Arctic","Western Arctic"," 63","Yellowknife",N,N,"",0,414,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 64","Yellowknife",N,N,"",0,565,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,9
+61001,"Western Arctic","Western Arctic"," 64","Yellowknife",N,N,"",0,565,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,118
+61001,"Western Arctic","Western Arctic"," 64","Yellowknife",N,N,"",0,565,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,83
+61001,"Western Arctic","Western Arctic"," 64","Yellowknife",N,N,"",0,565,"Edjericon","","Richard","Conservative","Conservateur",N,N,83
+61001,"Western Arctic","Western Arctic"," 64","Yellowknife",N,N,"",0,565,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 65","Yellowknife",N,N,"",0,310,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 65","Yellowknife",N,N,"",0,310,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,57
+61001,"Western Arctic","Western Arctic"," 65","Yellowknife",N,N,"",0,310,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,27
+61001,"Western Arctic","Western Arctic"," 65","Yellowknife",N,N,"",0,310,"Edjericon","","Richard","Conservative","Conservateur",N,N,22
+61001,"Western Arctic","Western Arctic"," 65","Yellowknife",N,N,"",0,310,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 66","Detah",N,N,"",0,130,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,5
+61001,"Western Arctic","Western Arctic"," 66","Detah",N,N,"",0,130,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,8
+61001,"Western Arctic","Western Arctic"," 66","Detah",N,N,"",0,130,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,43
+61001,"Western Arctic","Western Arctic"," 66","Detah",N,N,"",0,130,"Edjericon","","Richard","Conservative","Conservateur",N,N,34
+61001,"Western Arctic","Western Arctic"," 66","Detah",N,N,"",0,130,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 67","Kakisa",N,N,"",0,37,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 67","Kakisa",N,N,"",0,37,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,4
+61001,"Western Arctic","Western Arctic"," 67","Kakisa",N,N,"",0,37,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,23
+61001,"Western Arctic","Western Arctic"," 67","Kakisa",N,N,"",0,37,"Edjericon","","Richard","Conservative","Conservateur",N,N,3
+61001,"Western Arctic","Western Arctic"," 67","Kakisa",N,N,"",0,37,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 68","Enterprise",N,N,"",0,78,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 68","Enterprise",N,N,"",0,78,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,19
+61001,"Western Arctic","Western Arctic"," 68","Enterprise",N,N,"",0,78,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,8
+61001,"Western Arctic","Western Arctic"," 68","Enterprise",N,N,"",0,78,"Edjericon","","Richard","Conservative","Conservateur",N,N,14
+61001,"Western Arctic","Western Arctic"," 68","Enterprise",N,N,"",0,78,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 69","Hay River",N,N,"",2,448,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,7
+61001,"Western Arctic","Western Arctic"," 69","Hay River",N,N,"",2,448,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,88
+61001,"Western Arctic","Western Arctic"," 69","Hay River",N,N,"",2,448,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,54
+61001,"Western Arctic","Western Arctic"," 69","Hay River",N,N,"",2,448,"Edjericon","","Richard","Conservative","Conservateur",N,N,73
+61001,"Western Arctic","Western Arctic"," 69","Hay River",N,N,"",2,448,"van der Veen","","Jan H.","Independent","Indépendant",N,N,6
+61001,"Western Arctic","Western Arctic"," 70","Hay River",N,N,"",0,373,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 70","Hay River",N,N,"",0,373,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,85
+61001,"Western Arctic","Western Arctic"," 70","Hay River",N,N,"",0,373,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,32
+61001,"Western Arctic","Western Arctic"," 70","Hay River",N,N,"",0,373,"Edjericon","","Richard","Conservative","Conservateur",N,N,60
+61001,"Western Arctic","Western Arctic"," 70","Hay River",N,N,"",0,373,"van der Veen","","Jan H.","Independent","Indépendant",N,N,4
+61001,"Western Arctic","Western Arctic"," 71","Hay River",N,N,"",0,672,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,8
+61001,"Western Arctic","Western Arctic"," 71","Hay River",N,N,"",0,672,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,154
+61001,"Western Arctic","Western Arctic"," 71","Hay River",N,N,"",0,672,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,72
+61001,"Western Arctic","Western Arctic"," 71","Hay River",N,N,"",0,672,"Edjericon","","Richard","Conservative","Conservateur",N,N,117
+61001,"Western Arctic","Western Arctic"," 71","Hay River",N,N,"",0,672,"van der Veen","","Jan H.","Independent","Indépendant",N,N,6
+61001,"Western Arctic","Western Arctic"," 72","Hay River",N,N,"",0,412,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,6
+61001,"Western Arctic","Western Arctic"," 72","Hay River",N,N,"",0,412,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,79
+61001,"Western Arctic","Western Arctic"," 72","Hay River",N,N,"",0,412,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,39
+61001,"Western Arctic","Western Arctic"," 72","Hay River",N,N,"",0,412,"Edjericon","","Richard","Conservative","Conservateur",N,N,85
+61001,"Western Arctic","Western Arctic"," 72","Hay River",N,N,"",0,412,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 73","Hay River",N,N,"",2,743,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," 73","Hay River",N,N,"",2,743,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,169
+61001,"Western Arctic","Western Arctic"," 73","Hay River",N,N,"",2,743,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,88
+61001,"Western Arctic","Western Arctic"," 73","Hay River",N,N,"",2,743,"Edjericon","","Richard","Conservative","Conservateur",N,N,153
+61001,"Western Arctic","Western Arctic"," 73","Hay River",N,N,"",2,743,"van der Veen","","Jan H.","Independent","Indépendant",N,N,3
+61001,"Western Arctic","Western Arctic"," 74","Hay River",N,N,"",0,184,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 74","Hay River",N,N,"",0,184,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,8
+61001,"Western Arctic","Western Arctic"," 74","Hay River",N,N,"",0,184,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,75
+61001,"Western Arctic","Western Arctic"," 74","Hay River",N,N,"",0,184,"Edjericon","","Richard","Conservative","Conservateur",N,N,30
+61001,"Western Arctic","Western Arctic"," 74","Hay River",N,N,"",0,184,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 75","Fort Resolution",N,N,"",0,375,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 75","Fort Resolution",N,N,"",0,375,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,50
+61001,"Western Arctic","Western Arctic"," 75","Fort Resolution",N,N,"",0,375,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,96
+61001,"Western Arctic","Western Arctic"," 75","Fort Resolution",N,N,"",0,375,"Edjericon","","Richard","Conservative","Conservateur",N,N,65
+61001,"Western Arctic","Western Arctic"," 75","Fort Resolution",N,N,"",0,375,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 76","Fort Smith",N,N,"",0,318,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 76","Fort Smith",N,N,"",0,318,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,109
+61001,"Western Arctic","Western Arctic"," 76","Fort Smith",N,N,"",0,318,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,39
+61001,"Western Arctic","Western Arctic"," 76","Fort Smith",N,N,"",0,318,"Edjericon","","Richard","Conservative","Conservateur",N,N,14
+61001,"Western Arctic","Western Arctic"," 76","Fort Smith",N,N,"",0,318,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 77","Fort Smith",N,N,"",0,550,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 77","Fort Smith",N,N,"",0,550,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,176
+61001,"Western Arctic","Western Arctic"," 77","Fort Smith",N,N,"",0,550,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,58
+61001,"Western Arctic","Western Arctic"," 77","Fort Smith",N,N,"",0,550,"Edjericon","","Richard","Conservative","Conservateur",N,N,29
+61001,"Western Arctic","Western Arctic"," 77","Fort Smith",N,N,"",0,550,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 78","Fort Smith",N,N,"",1,244,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 78","Fort Smith",N,N,"",1,244,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,72
+61001,"Western Arctic","Western Arctic"," 78","Fort Smith",N,N,"",1,244,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,33
+61001,"Western Arctic","Western Arctic"," 78","Fort Smith",N,N,"",1,244,"Edjericon","","Richard","Conservative","Conservateur",N,N,15
+61001,"Western Arctic","Western Arctic"," 78","Fort Smith",N,N,"",1,244,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 79","Fort Smith",N,N,"",0,391,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 79","Fort Smith",N,N,"",0,391,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,112
+61001,"Western Arctic","Western Arctic"," 79","Fort Smith",N,N,"",0,391,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,62
+61001,"Western Arctic","Western Arctic"," 79","Fort Smith",N,N,"",0,391,"Edjericon","","Richard","Conservative","Conservateur",N,N,16
+61001,"Western Arctic","Western Arctic"," 79","Fort Smith",N,N,"",0,391,"van der Veen","","Jan H.","Independent","Indépendant",N,N,1
+61001,"Western Arctic","Western Arctic"," 80","Fort Smith",N,N,"",1,320,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,6
+61001,"Western Arctic","Western Arctic"," 80","Fort Smith",N,N,"",1,320,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,113
+61001,"Western Arctic","Western Arctic"," 80","Fort Smith",N,N,"",1,320,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,29
+61001,"Western Arctic","Western Arctic"," 80","Fort Smith",N,N,"",1,320,"Edjericon","","Richard","Conservative","Conservateur",N,N,22
+61001,"Western Arctic","Western Arctic"," 80","Fort Smith",N,N,"",1,320,"van der Veen","","Jan H.","Independent","Indépendant",N,N,2
+61001,"Western Arctic","Western Arctic"," 81","Lutselk'e",N,N,"",0,225,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,1
+61001,"Western Arctic","Western Arctic"," 81","Lutselk'e",N,N,"",0,225,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,20
+61001,"Western Arctic","Western Arctic"," 81","Lutselk'e",N,N,"",0,225,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,27
+61001,"Western Arctic","Western Arctic"," 81","Lutselk'e",N,N,"",0,225,"Edjericon","","Richard","Conservative","Conservateur",N,N,57
+61001,"Western Arctic","Western Arctic"," 81","Lutselk'e",N,N,"",0,225,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 600","Mould Bay",N,N,"",0,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,2
+61001,"Western Arctic","Western Arctic"," 600","Mould Bay",N,N,"",0,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,4
+61001,"Western Arctic","Western Arctic"," 600","Mould Bay",N,N,"",0,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,21
+61001,"Western Arctic","Western Arctic"," 600","Mould Bay",N,N,"",0,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,1
+61001,"Western Arctic","Western Arctic"," 600","Mould Bay",N,N,"",0,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 601","Mould Bay",N,N,"",0,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,3
+61001,"Western Arctic","Western Arctic"," 601","Mould Bay",N,N,"",0,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,26
+61001,"Western Arctic","Western Arctic"," 601","Mould Bay",N,N,"",0,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,39
+61001,"Western Arctic","Western Arctic"," 601","Mould Bay",N,N,"",0,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,22
+61001,"Western Arctic","Western Arctic"," 601","Mould Bay",N,N,"",0,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 602","Mould Bay",N,N,"",0,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 602","Mould Bay",N,N,"",0,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,20
+61001,"Western Arctic","Western Arctic"," 602","Mould Bay",N,N,"",0,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,10
+61001,"Western Arctic","Western Arctic"," 602","Mould Bay",N,N,"",0,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,5
+61001,"Western Arctic","Western Arctic"," 602","Mould Bay",N,N,"",0,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,4
+61001,"Western Arctic","Western Arctic"," 603","Mould Bay",N,N,"",0,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 603","Mould Bay",N,N,"",0,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,2
+61001,"Western Arctic","Western Arctic"," 603","Mould Bay",N,N,"",0,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,9
+61001,"Western Arctic","Western Arctic"," 603","Mould Bay",N,N,"",0,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,2
+61001,"Western Arctic","Western Arctic"," 603","Mould Bay",N,N,"",0,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," 604","Mould Bay",N,N,"",1,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,16
+61001,"Western Arctic","Western Arctic"," 604","Mould Bay",N,N,"",1,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,367
+61001,"Western Arctic","Western Arctic"," 604","Mould Bay",N,N,"",1,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,159
+61001,"Western Arctic","Western Arctic"," 604","Mould Bay",N,N,"",1,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,195
+61001,"Western Arctic","Western Arctic"," 604","Mould Bay",N,N,"",1,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,7
+61001,"Western Arctic","Western Arctic"," 605","Mould Bay",N,N,"",0,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 605","Mould Bay",N,N,"",0,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,53
+61001,"Western Arctic","Western Arctic"," 605","Mould Bay",N,N,"",0,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,29
+61001,"Western Arctic","Western Arctic"," 605","Mould Bay",N,N,"",0,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,49
+61001,"Western Arctic","Western Arctic"," 605","Mould Bay",N,N,"",0,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,3
+61001,"Western Arctic","Western Arctic"," 606","Mould Bay",N,N,"",3,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,0
+61001,"Western Arctic","Western Arctic"," 606","Mould Bay",N,N,"",3,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,93
+61001,"Western Arctic","Western Arctic"," 606","Mould Bay",N,N,"",3,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,48
+61001,"Western Arctic","Western Arctic"," 606","Mould Bay",N,N,"",3,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,16
+61001,"Western Arctic","Western Arctic"," 606","Mould Bay",N,N,"",3,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,0
+61001,"Western Arctic","Western Arctic"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,195,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,4
+61001,"Western Arctic","Western Arctic"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,195,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,49
+61001,"Western Arctic","Western Arctic"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,195,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,81
+61001,"Western Arctic","Western Arctic"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,195,"Edjericon","","Richard","Conservative","Conservateur",N,N,25
+61001,"Western Arctic","Western Arctic"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,195,"van der Veen","","Jan H.","Independent","Indépendant",N,N,4
+61001,"Western Arctic","Western Arctic"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Beaudin","","Alexandre","Green Party","Parti Vert",N,N,25
+61001,"Western Arctic","Western Arctic"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Bevington","","Dennis","N.D.P.","N.P.D.",N,Y,351
+61001,"Western Arctic","Western Arctic"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Blondin-Andrew","","Ethel","Liberal","Libéral",Y,N,208
+61001,"Western Arctic","Western Arctic"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"Edjericon","","Richard","Conservative","Conservateur",N,N,177
+61001,"Western Arctic","Western Arctic"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",5,0,"van der Veen","","Jan H.","Independent","Indépendant",N,N,5

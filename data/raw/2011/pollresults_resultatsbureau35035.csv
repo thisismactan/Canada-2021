@@ -1,0 +1,831 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,166,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,166,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,166,"Rickford","","Greg","Conservative","Conservateur",Y,Y,25
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,166,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,166,"Valley","","Roger","Liberal","Libéral",N,N,8
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,242,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,242,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,242,"Rickford","","Greg","Conservative","Conservateur",Y,Y,2
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,242,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,242,"Valley","","Roger","Liberal","Libéral",N,N,14
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",1,415,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",1,415,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",1,415,"Rickford","","Greg","Conservative","Conservateur",Y,Y,6
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",1,415,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",1,415,"Valley","","Roger","Liberal","Libéral",N,N,10
+35035,"Kenora","Kenora"," 4","Wapekeka 2",N,N,"",4,156,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35035,"Kenora","Kenora"," 4","Wapekeka 2",N,N,"",4,156,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 4","Wapekeka 2",N,N,"",4,156,"Rickford","","Greg","Conservative","Conservateur",Y,Y,2
+35035,"Kenora","Kenora"," 4","Wapekeka 2",N,N,"",4,156,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 4","Wapekeka 2",N,N,"",4,156,"Valley","","Roger","Liberal","Libéral",N,N,29
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",2,324,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",2,324,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",2,324,"Rickford","","Greg","Conservative","Conservateur",Y,Y,6
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",2,324,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",2,324,"Valley","","Roger","Liberal","Libéral",N,N,40
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",0,387,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,114
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",0,387,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",0,387,"Rickford","","Greg","Conservative","Conservateur",Y,Y,4
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",0,387,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",0,387,"Valley","","Roger","Liberal","Libéral",N,N,116
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,208,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,208,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,208,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,208,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,208,"Valley","","Roger","Liberal","Libéral",N,N,41
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,283,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,283,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,283,"Rickford","","Greg","Conservative","Conservateur",Y,Y,8
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,283,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,283,"Valley","","Roger","Liberal","Libéral",N,N,75
+35035,"Kenora","Kenora"," 9","Wawakapewin",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 9","Wawakapewin",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 9","Wawakapewin",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 9","Wawakapewin",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 9","Wawakapewin",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",1,234,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,134
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",1,234,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",1,234,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",1,234,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",1,234,"Valley","","Roger","Liberal","Libéral",N,N,6
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",1,424,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,117
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",1,424,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",1,424,"Rickford","","Greg","Conservative","Conservateur",Y,Y,7
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",1,424,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",1,424,"Valley","","Roger","Liberal","Libéral",N,N,52
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,282,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,282,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,282,"Rickford","","Greg","Conservative","Conservateur",Y,Y,84
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,282,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,282,"Valley","","Roger","Liberal","Libéral",N,N,29
+35035,"Kenora","Kenora"," 13","Neskantaga",N,N,"",1,142,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35035,"Kenora","Kenora"," 13","Neskantaga",N,N,"",1,142,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 13","Neskantaga",N,N,"",1,142,"Rickford","","Greg","Conservative","Conservateur",Y,Y,8
+35035,"Kenora","Kenora"," 13","Neskantaga",N,N,"",1,142,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 13","Neskantaga",N,N,"",1,142,"Valley","","Roger","Liberal","Libéral",N,N,24
+35035,"Kenora","Kenora"," 14","Fort Hope 64",N,N,"",1,506,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35035,"Kenora","Kenora"," 14","Fort Hope 64",N,N,"",1,506,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 14","Fort Hope 64",N,N,"",1,506,"Rickford","","Greg","Conservative","Conservateur",Y,Y,34
+35035,"Kenora","Kenora"," 14","Fort Hope 64",N,N,"",1,506,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 14","Fort Hope 64",N,N,"",1,506,"Valley","","Roger","Liberal","Libéral",N,N,44
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,62,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,62,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,62,"Rickford","","Greg","Conservative","Conservateur",Y,Y,7
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,62,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,62,"Valley","","Roger","Liberal","Libéral",N,N,10
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,64,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,64,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,64,"Rickford","","Greg","Conservative","Conservateur",Y,Y,9
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,64,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,64,"Valley","","Roger","Liberal","Libéral",N,N,1
+35035,"Kenora","Kenora"," 16-1","Saugeen First Nation",N,N,"",0,13,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35035,"Kenora","Kenora"," 16-1","Saugeen First Nation",N,N,"",0,13,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 16-1","Saugeen First Nation",N,N,"",0,13,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 16-1","Saugeen First Nation",N,N,"",0,13,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 16-1","Saugeen First Nation",N,N,"",0,13,"Valley","","Roger","Liberal","Libéral",N,N,1
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,184,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,184,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,184,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,184,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,184,"Valley","","Roger","Liberal","Libéral",N,N,23
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 19A","Sandy Lake First Nation",N,N,"",1,395,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35035,"Kenora","Kenora"," 19A","Sandy Lake First Nation",N,N,"",1,395,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 19A","Sandy Lake First Nation",N,N,"",1,395,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 19A","Sandy Lake First Nation",N,N,"",1,395,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 19A","Sandy Lake First Nation",N,N,"",1,395,"Valley","","Roger","Liberal","Libéral",N,N,242
+35035,"Kenora","Kenora"," 19B","Sandy Lake First Nation",N,N,"",0,278,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35035,"Kenora","Kenora"," 19B","Sandy Lake First Nation",N,N,"",0,278,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 19B","Sandy Lake First Nation",N,N,"",0,278,"Rickford","","Greg","Conservative","Conservateur",Y,Y,4
+35035,"Kenora","Kenora"," 19B","Sandy Lake First Nation",N,N,"",0,278,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 19B","Sandy Lake First Nation",N,N,"",0,278,"Valley","","Roger","Liberal","Libéral",N,N,178
+35035,"Kenora","Kenora"," 20","Kee-Way-Win",N,N,"",1,143,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35035,"Kenora","Kenora"," 20","Kee-Way-Win",N,N,"",1,143,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 20","Kee-Way-Win",N,N,"",1,143,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 20","Kee-Way-Win",N,N,"",1,143,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 20","Kee-Way-Win",N,N,"",1,143,"Valley","","Roger","Liberal","Libéral",N,N,73
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,122,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,122,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,122,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,122,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,122,"Valley","","Roger","Liberal","Libéral",N,N,16
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,144,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,144,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,144,"Rickford","","Greg","Conservative","Conservateur",Y,Y,4
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,144,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,144,"Valley","","Roger","Liberal","Libéral",N,N,24
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,364,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,364,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,364,"Rickford","","Greg","Conservative","Conservateur",Y,Y,8
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,364,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,364,"Valley","","Roger","Liberal","Libéral",N,N,79
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,208,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,208,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,208,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,208,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,208,"Valley","","Roger","Liberal","Libéral",N,N,75
+35035,"Kenora","Kenora"," 25A","Pikangikum 14",N,N,"",0,285,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35035,"Kenora","Kenora"," 25A","Pikangikum 14",N,N,"",0,285,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 25A","Pikangikum 14",N,N,"",0,285,"Rickford","","Greg","Conservative","Conservateur",Y,Y,18
+35035,"Kenora","Kenora"," 25A","Pikangikum 14",N,N,"",0,285,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 25A","Pikangikum 14",N,N,"",0,285,"Valley","","Roger","Liberal","Libéral",N,N,6
+35035,"Kenora","Kenora"," 25B","Pikangikum 14",N,N,"",4,367,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35035,"Kenora","Kenora"," 25B","Pikangikum 14",N,N,"",4,367,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 25B","Pikangikum 14",N,N,"",4,367,"Rickford","","Greg","Conservative","Conservateur",Y,Y,10
+35035,"Kenora","Kenora"," 25B","Pikangikum 14",N,N,"",4,367,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 25B","Pikangikum 14",N,N,"",4,367,"Valley","","Roger","Liberal","Libéral",N,N,4
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,141,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,141,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,141,"Rickford","","Greg","Conservative","Conservateur",Y,Y,22
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,141,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,141,"Valley","","Roger","Liberal","Libéral",N,N,5
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"30",0,75,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"30",0,75,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"30",0,75,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"30",0,75,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"30",0,75,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,443,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,443,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,443,"Rickford","","Greg","Conservative","Conservateur",Y,Y,105
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,443,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,443,"Valley","","Roger","Liberal","Libéral",N,N,31
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,441,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,441,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,441,"Rickford","","Greg","Conservative","Conservateur",Y,Y,88
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,441,"Schwindt","","Mike","Green Party","Parti Vert",N,N,12
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,441,"Valley","","Roger","Liberal","Libéral",N,N,51
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",0,371,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",0,371,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",0,371,"Rickford","","Greg","Conservative","Conservateur",Y,Y,89
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",0,371,"Schwindt","","Mike","Green Party","Parti Vert",N,N,10
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",0,371,"Valley","","Roger","Liberal","Libéral",N,N,35
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",0,206,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",0,206,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",0,206,"Rickford","","Greg","Conservative","Conservateur",Y,Y,56
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",0,206,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",0,206,"Valley","","Roger","Liberal","Libéral",N,N,19
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,349,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,349,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,349,"Rickford","","Greg","Conservative","Conservateur",Y,Y,83
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,349,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,349,"Valley","","Roger","Liberal","Libéral",N,N,34
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",3,372,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",3,372,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",3,372,"Rickford","","Greg","Conservative","Conservateur",Y,Y,79
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",3,372,"Schwindt","","Mike","Green Party","Parti Vert",N,N,13
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",3,372,"Valley","","Roger","Liberal","Libéral",N,N,11
+35035,"Kenora","Kenora"," 34","Balmertown",N,N,"",0,571,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35035,"Kenora","Kenora"," 34","Balmertown",N,N,"",0,571,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 34","Balmertown",N,N,"",0,571,"Rickford","","Greg","Conservative","Conservateur",Y,Y,146
+35035,"Kenora","Kenora"," 34","Balmertown",N,N,"",0,571,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 34","Balmertown",N,N,"",0,571,"Valley","","Roger","Liberal","Libéral",N,N,42
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",0,253,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",0,253,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",0,253,"Rickford","","Greg","Conservative","Conservateur",Y,Y,55
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",0,253,"Schwindt","","Mike","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",0,253,"Valley","","Roger","Liberal","Libéral",N,N,18
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,207,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,207,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,207,"Rickford","","Greg","Conservative","Conservateur",Y,Y,99
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,207,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,207,"Valley","","Roger","Liberal","Libéral",N,N,15
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,442,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,442,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,442,"Rickford","","Greg","Conservative","Conservateur",Y,Y,115
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,442,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,442,"Valley","","Roger","Liberal","Libéral",N,N,14
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"36",0,118,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"36",0,118,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"36",0,118,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"36",0,118,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"36",0,118,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",2,216,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",2,216,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",2,216,"Rickford","","Greg","Conservative","Conservateur",Y,Y,13
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",2,216,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",2,216,"Valley","","Roger","Liberal","Libéral",N,N,33
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,107,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,107,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,107,"Rickford","","Greg","Conservative","Conservateur",Y,Y,2
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,107,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,107,"Valley","","Roger","Liberal","Libéral",N,N,15
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",1,288,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",1,288,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",1,288,"Rickford","","Greg","Conservative","Conservateur",Y,Y,8
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",1,288,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",1,288,"Valley","","Roger","Liberal","Libéral",N,N,25
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",0,372,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",0,372,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",0,372,"Rickford","","Greg","Conservative","Conservateur",Y,Y,10
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",0,372,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",0,372,"Valley","","Roger","Liberal","Libéral",N,N,18
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",1,120,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",1,120,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,4
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",1,120,"Rickford","","Greg","Conservative","Conservateur",Y,Y,40
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",1,120,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",1,120,"Valley","","Roger","Liberal","Libéral",N,N,10
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,208,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,208,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,208,"Rickford","","Greg","Conservative","Conservateur",Y,Y,81
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,208,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,208,"Valley","","Roger","Liberal","Libéral",N,N,15
+35035,"Kenora","Kenora"," 45","Kenora",N,N,"",2,519,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35035,"Kenora","Kenora"," 45","Kenora",N,N,"",2,519,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 45","Kenora",N,N,"",2,519,"Rickford","","Greg","Conservative","Conservateur",Y,Y,158
+35035,"Kenora","Kenora"," 45","Kenora",N,N,"",2,519,"Schwindt","","Mike","Green Party","Parti Vert",N,N,16
+35035,"Kenora","Kenora"," 45","Kenora",N,N,"",2,519,"Valley","","Roger","Liberal","Libéral",N,N,34
+35035,"Kenora","Kenora"," 45-1","The Dalles 38C",N,N,"",0,69,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35035,"Kenora","Kenora"," 45-1","The Dalles 38C",N,N,"",0,69,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 45-1","The Dalles 38C",N,N,"",0,69,"Rickford","","Greg","Conservative","Conservateur",Y,Y,3
+35035,"Kenora","Kenora"," 45-1","The Dalles 38C",N,N,"",0,69,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 45-1","The Dalles 38C",N,N,"",0,69,"Valley","","Roger","Liberal","Libéral",N,N,10
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",0,89,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",0,89,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",0,89,"Rickford","","Greg","Conservative","Conservateur",Y,Y,42
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",0,89,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",0,89,"Valley","","Roger","Liberal","Libéral",N,N,7
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",1,362,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",1,362,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",1,362,"Rickford","","Greg","Conservative","Conservateur",Y,Y,138
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",1,362,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",1,362,"Valley","","Roger","Liberal","Libéral",N,N,25
+35035,"Kenora","Kenora"," 48","Machin",N,N,"",2,353,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35035,"Kenora","Kenora"," 48","Machin",N,N,"",2,353,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 48","Machin",N,N,"",2,353,"Rickford","","Greg","Conservative","Conservateur",Y,Y,146
+35035,"Kenora","Kenora"," 48","Machin",N,N,"",2,353,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 48","Machin",N,N,"",2,353,"Valley","","Roger","Liberal","Libéral",N,N,29
+35035,"Kenora","Kenora"," 49","Machin",N,N,"",0,258,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35035,"Kenora","Kenora"," 49","Machin",N,N,"",0,258,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 49","Machin",N,N,"",0,258,"Rickford","","Greg","Conservative","Conservateur",Y,Y,106
+35035,"Kenora","Kenora"," 49","Machin",N,N,"",0,258,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 49","Machin",N,N,"",0,258,"Valley","","Roger","Liberal","Libéral",N,N,21
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",0,476,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",0,476,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",0,476,"Rickford","","Greg","Conservative","Conservateur",Y,Y,183
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",0,476,"Schwindt","","Mike","Green Party","Parti Vert",N,N,20
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",0,476,"Valley","","Roger","Liberal","Libéral",N,N,44
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,326,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,326,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,326,"Rickford","","Greg","Conservative","Conservateur",Y,Y,108
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,326,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,326,"Valley","","Roger","Liberal","Libéral",N,N,9
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,506,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,506,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,506,"Rickford","","Greg","Conservative","Conservateur",Y,Y,185
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,506,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,506,"Valley","","Roger","Liberal","Libéral",N,N,18
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",2,453,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",2,453,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",2,453,"Rickford","","Greg","Conservative","Conservateur",Y,Y,148
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",2,453,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",2,453,"Valley","","Roger","Liberal","Libéral",N,N,28
+35035,"Kenora","Kenora"," 54","Jaffray and Melick",N,N,"",0,266,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35035,"Kenora","Kenora"," 54","Jaffray and Melick",N,N,"",0,266,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 54","Jaffray and Melick",N,N,"",0,266,"Rickford","","Greg","Conservative","Conservateur",Y,Y,103
+35035,"Kenora","Kenora"," 54","Jaffray and Melick",N,N,"",0,266,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 54","Jaffray and Melick",N,N,"",0,266,"Valley","","Roger","Liberal","Libéral",N,N,14
+35035,"Kenora","Kenora"," 54-1","Kenora",N,N,"",0,254,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35035,"Kenora","Kenora"," 54-1","Kenora",N,N,"",0,254,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 54-1","Kenora",N,N,"",0,254,"Rickford","","Greg","Conservative","Conservateur",Y,Y,113
+35035,"Kenora","Kenora"," 54-1","Kenora",N,N,"",0,254,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 54-1","Kenora",N,N,"",0,254,"Valley","","Roger","Liberal","Libéral",N,N,13
+35035,"Kenora","Kenora"," 55","Jaffray and Melick",N,N,"",2,396,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35035,"Kenora","Kenora"," 55","Jaffray and Melick",N,N,"",2,396,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 55","Jaffray and Melick",N,N,"",2,396,"Rickford","","Greg","Conservative","Conservateur",Y,Y,112
+35035,"Kenora","Kenora"," 55","Jaffray and Melick",N,N,"",2,396,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 55","Jaffray and Melick",N,N,"",2,396,"Valley","","Roger","Liberal","Libéral",N,N,22
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",1,399,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",1,399,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",1,399,"Rickford","","Greg","Conservative","Conservateur",Y,Y,136
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",1,399,"Schwindt","","Mike","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",1,399,"Valley","","Roger","Liberal","Libéral",N,N,31
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,336,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,336,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,4
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,336,"Rickford","","Greg","Conservative","Conservateur",Y,Y,120
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,336,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,336,"Valley","","Roger","Liberal","Libéral",N,N,27
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,332,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,332,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,332,"Rickford","","Greg","Conservative","Conservateur",Y,Y,98
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,332,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,332,"Valley","","Roger","Liberal","Libéral",N,N,28
+35035,"Kenora","Kenora"," 57-1","Keewatin",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 57-1","Keewatin",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 57-1","Keewatin",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 57-1","Keewatin",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 57-1","Keewatin",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 58","Keewatin",N,N,"",1,246,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35035,"Kenora","Kenora"," 58","Keewatin",N,N,"",1,246,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 58","Keewatin",N,N,"",1,246,"Rickford","","Greg","Conservative","Conservateur",Y,Y,93
+35035,"Kenora","Kenora"," 58","Keewatin",N,N,"",1,246,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 58","Keewatin",N,N,"",1,246,"Valley","","Roger","Liberal","Libéral",N,N,21
+35035,"Kenora","Kenora"," 58-1","Kenora",N,N,"",1,225,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35035,"Kenora","Kenora"," 58-1","Kenora",N,N,"",1,225,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 58-1","Kenora",N,N,"",1,225,"Rickford","","Greg","Conservative","Conservateur",Y,Y,95
+35035,"Kenora","Kenora"," 58-1","Kenora",N,N,"",1,225,"Schwindt","","Mike","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 58-1","Kenora",N,N,"",1,225,"Valley","","Roger","Liberal","Libéral",N,N,21
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",1,334,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",1,334,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",1,334,"Rickford","","Greg","Conservative","Conservateur",Y,Y,93
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",1,334,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",1,334,"Valley","","Roger","Liberal","Libéral",N,N,13
+35035,"Kenora","Kenora"," 60","Iskutewiskayagun 39",N,N,"",1,251,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35035,"Kenora","Kenora"," 60","Iskutewiskayagun 39",N,N,"",1,251,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 60","Iskutewiskayagun 39",N,N,"",1,251,"Rickford","","Greg","Conservative","Conservateur",Y,Y,11
+35035,"Kenora","Kenora"," 60","Iskutewiskayagun 39",N,N,"",1,251,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 60","Iskutewiskayagun 39",N,N,"",1,251,"Valley","","Roger","Liberal","Libéral",N,N,8
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,157,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,157,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,157,"Rickford","","Greg","Conservative","Conservateur",Y,Y,68
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,157,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,157,"Valley","","Roger","Liberal","Libéral",N,N,11
+35035,"Kenora","Kenora"," 60-2","Shoal Lake 40",N,N,"",0,61,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35035,"Kenora","Kenora"," 60-2","Shoal Lake 40",N,N,"",0,61,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 60-2","Shoal Lake 40",N,N,"",0,61,"Rickford","","Greg","Conservative","Conservateur",Y,Y,5
+35035,"Kenora","Kenora"," 60-2","Shoal Lake 40",N,N,"",0,61,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 60-2","Shoal Lake 40",N,N,"",0,61,"Valley","","Roger","Liberal","Libéral",N,N,7
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,359,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,359,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,359,"Rickford","","Greg","Conservative","Conservateur",Y,Y,134
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,359,"Schwindt","","Mike","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,359,"Valley","","Roger","Liberal","Libéral",N,N,34
+35035,"Kenora","Kenora"," 61-1","Washagamis Bay",N,N,"",0,55,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35035,"Kenora","Kenora"," 61-1","Washagamis Bay",N,N,"",0,55,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 61-1","Washagamis Bay",N,N,"",0,55,"Rickford","","Greg","Conservative","Conservateur",Y,Y,8
+35035,"Kenora","Kenora"," 61-1","Washagamis Bay",N,N,"",0,55,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 61-1","Washagamis Bay",N,N,"",0,55,"Valley","","Roger","Liberal","Libéral",N,N,2
+35035,"Kenora","Kenora"," 62","Rat Portage 38B",N,N,"",0,148,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35035,"Kenora","Kenora"," 62","Rat Portage 38B",N,N,"",0,148,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,6
+35035,"Kenora","Kenora"," 62","Rat Portage 38B",N,N,"",0,148,"Rickford","","Greg","Conservative","Conservateur",Y,Y,10
+35035,"Kenora","Kenora"," 62","Rat Portage 38B",N,N,"",0,148,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 62","Rat Portage 38B",N,N,"",0,148,"Valley","","Roger","Liberal","Libéral",N,N,18
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,47,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,47,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,47,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,47,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,47,"Valley","","Roger","Liberal","Libéral",N,N,7
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,18,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,18,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,18,"Rickford","","Greg","Conservative","Conservateur",Y,Y,4
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,18,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,18,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,369,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,369,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,369,"Rickford","","Greg","Conservative","Conservateur",Y,Y,117
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,369,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,369,"Valley","","Roger","Liberal","Libéral",N,N,24
+35035,"Kenora","Kenora"," 65","Whitefish Bay 32A",N,N,"",2,220,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35035,"Kenora","Kenora"," 65","Whitefish Bay 32A",N,N,"",2,220,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 65","Whitefish Bay 32A",N,N,"",2,220,"Rickford","","Greg","Conservative","Conservateur",Y,Y,7
+35035,"Kenora","Kenora"," 65","Whitefish Bay 32A",N,N,"",2,220,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 65","Whitefish Bay 32A",N,N,"",2,220,"Valley","","Roger","Liberal","Libéral",N,N,8
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,235,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,235,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,235,"Rickford","","Greg","Conservative","Conservateur",Y,Y,96
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,235,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,235,"Valley","","Roger","Liberal","Libéral",N,N,12
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",0,188,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",0,188,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",0,188,"Rickford","","Greg","Conservative","Conservateur",Y,Y,2
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",0,188,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",0,188,"Valley","","Roger","Liberal","Libéral",N,N,16
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,363,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,363,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,363,"Rickford","","Greg","Conservative","Conservateur",Y,Y,124
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,363,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,363,"Valley","","Roger","Liberal","Libéral",N,N,16
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,226,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,226,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,226,"Rickford","","Greg","Conservative","Conservateur",Y,Y,65
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,226,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,226,"Valley","","Roger","Liberal","Libéral",N,N,13
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",1,314,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",1,314,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",1,314,"Rickford","","Greg","Conservative","Conservateur",Y,Y,83
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",1,314,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",1,314,"Valley","","Roger","Liberal","Libéral",N,N,17
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",3,368,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",3,368,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",3,368,"Rickford","","Greg","Conservative","Conservateur",Y,Y,78
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",3,368,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",3,368,"Valley","","Roger","Liberal","Libéral",N,N,26
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",1,344,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",1,344,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",1,344,"Rickford","","Greg","Conservative","Conservateur",Y,Y,79
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",1,344,"Schwindt","","Mike","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",1,344,"Valley","","Roger","Liberal","Libéral",N,N,22
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",1,351,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",1,351,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",1,351,"Rickford","","Greg","Conservative","Conservateur",Y,Y,91
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",1,351,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",1,351,"Valley","","Roger","Liberal","Libéral",N,N,20
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,448,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,448,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,448,"Rickford","","Greg","Conservative","Conservateur",Y,Y,128
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,448,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,448,"Valley","","Roger","Liberal","Libéral",N,N,34
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",0,328,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",0,328,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",0,328,"Rickford","","Greg","Conservative","Conservateur",Y,Y,75
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",0,328,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",0,328,"Valley","","Roger","Liberal","Libéral",N,N,19
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",1,330,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",1,330,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",1,330,"Rickford","","Greg","Conservative","Conservateur",Y,Y,60
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",1,330,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",1,330,"Valley","","Roger","Liberal","Libéral",N,N,14
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",1,370,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",1,370,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",1,370,"Rickford","","Greg","Conservative","Conservateur",Y,Y,150
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",1,370,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",1,370,"Valley","","Roger","Liberal","Libéral",N,N,32
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",0,385,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",0,385,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",0,385,"Rickford","","Greg","Conservative","Conservateur",Y,Y,125
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",0,385,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",0,385,"Valley","","Roger","Liberal","Libéral",N,N,29
+35035,"Kenora","Kenora"," 79","Kenora",N,N,"",1,455,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35035,"Kenora","Kenora"," 79","Kenora",N,N,"",1,455,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 79","Kenora",N,N,"",1,455,"Rickford","","Greg","Conservative","Conservateur",Y,Y,132
+35035,"Kenora","Kenora"," 79","Kenora",N,N,"",1,455,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 79","Kenora",N,N,"",1,455,"Valley","","Roger","Liberal","Libéral",N,N,38
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",1,213,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",1,213,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",1,213,"Rickford","","Greg","Conservative","Conservateur",Y,Y,43
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",1,213,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",1,213,"Valley","","Roger","Liberal","Libéral",N,N,21
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,328,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,328,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,328,"Rickford","","Greg","Conservative","Conservateur",Y,Y,87
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,328,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,328,"Valley","","Roger","Liberal","Libéral",N,N,26
+35035,"Kenora","Kenora"," 82","Kenora",N,N,"",1,242,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35035,"Kenora","Kenora"," 82","Kenora",N,N,"",1,242,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 82","Kenora",N,N,"",1,242,"Rickford","","Greg","Conservative","Conservateur",Y,Y,44
+35035,"Kenora","Kenora"," 82","Kenora",N,N,"",1,242,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 82","Kenora",N,N,"",1,242,"Valley","","Roger","Liberal","Libéral",N,N,12
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",0,353,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",0,353,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",0,353,"Rickford","","Greg","Conservative","Conservateur",Y,Y,95
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",0,353,"Schwindt","","Mike","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",0,353,"Valley","","Roger","Liberal","Libéral",N,N,45
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",1,328,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",1,328,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",1,328,"Rickford","","Greg","Conservative","Conservateur",Y,Y,100
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",1,328,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",1,328,"Valley","","Roger","Liberal","Libéral",N,N,15
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,303,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,303,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,303,"Rickford","","Greg","Conservative","Conservateur",Y,Y,108
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,303,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,303,"Valley","","Roger","Liberal","Libéral",N,N,20
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,326,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,326,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,326,"Rickford","","Greg","Conservative","Conservateur",Y,Y,100
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,326,"Schwindt","","Mike","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,326,"Valley","","Roger","Liberal","Libéral",N,N,26
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",0,297,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",0,297,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",0,297,"Rickford","","Greg","Conservative","Conservateur",Y,Y,99
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",0,297,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",0,297,"Valley","","Roger","Liberal","Libéral",N,N,21
+35035,"Kenora","Kenora"," 86-1","Kenora",N,N,"",0,333,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35035,"Kenora","Kenora"," 86-1","Kenora",N,N,"",0,333,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 86-1","Kenora",N,N,"",0,333,"Rickford","","Greg","Conservative","Conservateur",Y,Y,95
+35035,"Kenora","Kenora"," 86-1","Kenora",N,N,"",0,333,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 86-1","Kenora",N,N,"",0,333,"Valley","","Roger","Liberal","Libéral",N,N,24
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,152,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,152,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,152,"Rickford","","Greg","Conservative","Conservateur",Y,Y,49
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,152,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,152,"Valley","","Roger","Liberal","Libéral",N,N,10
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",1,269,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",1,269,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",1,269,"Rickford","","Greg","Conservative","Conservateur",Y,Y,73
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",1,269,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",1,269,"Valley","","Roger","Liberal","Libéral",N,N,22
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",1,297,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",1,297,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",1,297,"Rickford","","Greg","Conservative","Conservateur",Y,Y,78
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",1,297,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",1,297,"Valley","","Roger","Liberal","Libéral",N,N,29
+35035,"Kenora","Kenora"," 89","Dryden",N,N,"93",0,122,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 89","Dryden",N,N,"93",0,122,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 89","Dryden",N,N,"93",0,122,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 89","Dryden",N,N,"93",0,122,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 89","Dryden",N,N,"93",0,122,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",2,461,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",2,461,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",2,461,"Rickford","","Greg","Conservative","Conservateur",Y,Y,64
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",2,461,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",2,461,"Valley","","Roger","Liberal","Libéral",N,N,36
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",2,329,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",2,329,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",2,329,"Rickford","","Greg","Conservative","Conservateur",Y,Y,73
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",2,329,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",2,329,"Valley","","Roger","Liberal","Libéral",N,N,31
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,385,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,385,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,385,"Rickford","","Greg","Conservative","Conservateur",Y,Y,114
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,385,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,385,"Valley","","Roger","Liberal","Libéral",N,N,51
+35035,"Kenora","Kenora"," 91-1","Dryden",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 91-1","Dryden",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 91-1","Dryden",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 91-1","Dryden",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 91-1","Dryden",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 92","Dryden",N,N,"",0,494,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35035,"Kenora","Kenora"," 92","Dryden",N,N,"",0,494,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 92","Dryden",N,N,"",0,494,"Rickford","","Greg","Conservative","Conservateur",Y,Y,143
+35035,"Kenora","Kenora"," 92","Dryden",N,N,"",0,494,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 92","Dryden",N,N,"",0,494,"Valley","","Roger","Liberal","Libéral",N,N,59
+35035,"Kenora","Kenora"," 92-1","Dryden",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 92-1","Dryden",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 92-1","Dryden",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 92-1","Dryden",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 92-1","Dryden",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,247,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,247,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,247,"Rickford","","Greg","Conservative","Conservateur",Y,Y,126
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,247,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,247,"Valley","","Roger","Liberal","Libéral",N,N,49
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,333,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,333,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,333,"Rickford","","Greg","Conservative","Conservateur",Y,Y,89
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,333,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,333,"Valley","","Roger","Liberal","Libéral",N,N,42
+35035,"Kenora","Kenora"," 95","Dryden",N,N,"",0,350,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35035,"Kenora","Kenora"," 95","Dryden",N,N,"",0,350,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 95","Dryden",N,N,"",0,350,"Rickford","","Greg","Conservative","Conservateur",Y,Y,75
+35035,"Kenora","Kenora"," 95","Dryden",N,N,"",0,350,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 95","Dryden",N,N,"",0,350,"Valley","","Roger","Liberal","Libéral",N,N,55
+35035,"Kenora","Kenora"," 95-1","Dryden",N,N,"",0,220,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 95-1","Dryden",N,N,"",0,220,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 95-1","Dryden",N,N,"",0,220,"Rickford","","Greg","Conservative","Conservateur",Y,Y,33
+35035,"Kenora","Kenora"," 95-1","Dryden",N,N,"",0,220,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 95-1","Dryden",N,N,"",0,220,"Valley","","Roger","Liberal","Libéral",N,N,32
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,430,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,430,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,430,"Rickford","","Greg","Conservative","Conservateur",Y,Y,123
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,430,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,430,"Valley","","Roger","Liberal","Libéral",N,N,60
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",0,324,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",0,324,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",0,324,"Rickford","","Greg","Conservative","Conservateur",Y,Y,93
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",0,324,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",0,324,"Valley","","Roger","Liberal","Libéral",N,N,60
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",2,281,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",2,281,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",2,281,"Rickford","","Greg","Conservative","Conservateur",Y,Y,64
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",2,281,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",2,281,"Valley","","Roger","Liberal","Libéral",N,N,48
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,385,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,385,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,385,"Rickford","","Greg","Conservative","Conservateur",Y,Y,106
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,385,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,385,"Valley","","Roger","Liberal","Libéral",N,N,48
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",2,340,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",2,340,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",2,340,"Rickford","","Greg","Conservative","Conservateur",Y,Y,106
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",2,340,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",2,340,"Valley","","Roger","Liberal","Libéral",N,N,65
+35035,"Kenora","Kenora"," 101","Dryden",N,N,"",0,287,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35035,"Kenora","Kenora"," 101","Dryden",N,N,"",0,287,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 101","Dryden",N,N,"",0,287,"Rickford","","Greg","Conservative","Conservateur",Y,Y,75
+35035,"Kenora","Kenora"," 101","Dryden",N,N,"",0,287,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 101","Dryden",N,N,"",0,287,"Valley","","Roger","Liberal","Libéral",N,N,51
+35035,"Kenora","Kenora"," 101-1","Dryden",N,N,"",0,325,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35035,"Kenora","Kenora"," 101-1","Dryden",N,N,"",0,325,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 101-1","Dryden",N,N,"",0,325,"Rickford","","Greg","Conservative","Conservateur",Y,Y,79
+35035,"Kenora","Kenora"," 101-1","Dryden",N,N,"",0,325,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 101-1","Dryden",N,N,"",0,325,"Valley","","Roger","Liberal","Libéral",N,N,62
+35035,"Kenora","Kenora"," 102","Dryden",N,N,"",0,433,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35035,"Kenora","Kenora"," 102","Dryden",N,N,"",0,433,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 102","Dryden",N,N,"",0,433,"Rickford","","Greg","Conservative","Conservateur",Y,Y,107
+35035,"Kenora","Kenora"," 102","Dryden",N,N,"",0,433,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 102","Dryden",N,N,"",0,433,"Valley","","Roger","Liberal","Libéral",N,N,76
+35035,"Kenora","Kenora"," 103","Dryden",N,N,"",0,249,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35035,"Kenora","Kenora"," 103","Dryden",N,N,"",0,249,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 103","Dryden",N,N,"",0,249,"Rickford","","Greg","Conservative","Conservateur",Y,Y,54
+35035,"Kenora","Kenora"," 103","Dryden",N,N,"",0,249,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 103","Dryden",N,N,"",0,249,"Valley","","Roger","Liberal","Libéral",N,N,43
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",2,308,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",2,308,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",2,308,"Rickford","","Greg","Conservative","Conservateur",Y,Y,51
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",2,308,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",2,308,"Valley","","Roger","Liberal","Libéral",N,N,33
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",0,364,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",0,364,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",0,364,"Rickford","","Greg","Conservative","Conservateur",Y,Y,88
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",0,364,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",0,364,"Valley","","Roger","Liberal","Libéral",N,N,57
+35035,"Kenora","Kenora"," 106","Dryden",N,N,"",3,422,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35035,"Kenora","Kenora"," 106","Dryden",N,N,"",3,422,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 106","Dryden",N,N,"",3,422,"Rickford","","Greg","Conservative","Conservateur",Y,Y,99
+35035,"Kenora","Kenora"," 106","Dryden",N,N,"",3,422,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 106","Dryden",N,N,"",3,422,"Valley","","Roger","Liberal","Libéral",N,N,52
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,275,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,275,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,275,"Rickford","","Greg","Conservative","Conservateur",Y,Y,64
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,275,"Schwindt","","Mike","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,275,"Valley","","Roger","Liberal","Libéral",N,N,29
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",1,325,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",1,325,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",1,325,"Rickford","","Greg","Conservative","Conservateur",Y,Y,88
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",1,325,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",1,325,"Valley","","Roger","Liberal","Libéral",N,N,34
+35035,"Kenora","Kenora"," 107-1","Dryden",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 107-1","Dryden",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 107-1","Dryden",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 107-1","Dryden",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 107-1","Dryden",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,162,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,162,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,162,"Rickford","","Greg","Conservative","Conservateur",Y,Y,51
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,162,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,162,"Valley","","Roger","Liberal","Libéral",N,N,19
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",0,366,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",0,366,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",0,366,"Rickford","","Greg","Conservative","Conservateur",Y,Y,131
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",0,366,"Schwindt","","Mike","Green Party","Parti Vert",N,N,10
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",0,366,"Valley","","Roger","Liberal","Libéral",N,N,36
+35035,"Kenora","Kenora"," 110","Eagle Lake 27",N,N,"",1,143,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35035,"Kenora","Kenora"," 110","Eagle Lake 27",N,N,"",1,143,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,4
+35035,"Kenora","Kenora"," 110","Eagle Lake 27",N,N,"",1,143,"Rickford","","Greg","Conservative","Conservateur",Y,Y,7
+35035,"Kenora","Kenora"," 110","Eagle Lake 27",N,N,"",1,143,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 110","Eagle Lake 27",N,N,"",1,143,"Valley","","Roger","Liberal","Libéral",N,N,43
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",1,408,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",1,408,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",1,408,"Rickford","","Greg","Conservative","Conservateur",Y,Y,144
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",1,408,"Schwindt","","Mike","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",1,408,"Valley","","Roger","Liberal","Libéral",N,N,44
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",2,113,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",2,113,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",2,113,"Rickford","","Greg","Conservative","Conservateur",Y,Y,31
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",2,113,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",2,113,"Valley","","Roger","Liberal","Libéral",N,N,15
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,76,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,76,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,76,"Rickford","","Greg","Conservative","Conservateur",Y,Y,4
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,76,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,76,"Valley","","Roger","Liberal","Libéral",N,N,28
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,209,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,209,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,209,"Rickford","","Greg","Conservative","Conservateur",Y,Y,39
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,209,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,209,"Valley","","Roger","Liberal","Libéral",N,N,26
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",1,461,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",1,461,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",1,461,"Rickford","","Greg","Conservative","Conservateur",Y,Y,93
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",1,461,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",1,461,"Valley","","Roger","Liberal","Libéral",N,N,59
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",1,155,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",1,155,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",1,155,"Rickford","","Greg","Conservative","Conservateur",Y,Y,9
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",1,155,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",1,155,"Valley","","Roger","Liberal","Libéral",N,N,22
+35035,"Kenora","Kenora"," 116","Sioux Lookout",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 116","Sioux Lookout",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 116","Sioux Lookout",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 116","Sioux Lookout",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 116","Sioux Lookout",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,401,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,401,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,401,"Rickford","","Greg","Conservative","Conservateur",Y,Y,85
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,401,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,401,"Valley","","Roger","Liberal","Libéral",N,N,39
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",0,243,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",0,243,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",0,243,"Rickford","","Greg","Conservative","Conservateur",Y,Y,37
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",0,243,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",0,243,"Valley","","Roger","Liberal","Libéral",N,N,25
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,263,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,263,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,263,"Rickford","","Greg","Conservative","Conservateur",Y,Y,61
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,263,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,263,"Valley","","Roger","Liberal","Libéral",N,N,37
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",0,250,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",0,250,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",0,250,"Rickford","","Greg","Conservative","Conservateur",Y,Y,51
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",0,250,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",0,250,"Valley","","Roger","Liberal","Libéral",N,N,23
+35035,"Kenora","Kenora"," 119-1","Sioux Lookout",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 119-1","Sioux Lookout",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 119-1","Sioux Lookout",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 119-1","Sioux Lookout",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 119-1","Sioux Lookout",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",0,292,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",0,292,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",0,292,"Rickford","","Greg","Conservative","Conservateur",Y,Y,47
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",0,292,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",0,292,"Valley","","Roger","Liberal","Libéral",N,N,44
+35035,"Kenora","Kenora"," 121","Sioux Lookout",N,N,"",1,478,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+35035,"Kenora","Kenora"," 121","Sioux Lookout",N,N,"",1,478,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 121","Sioux Lookout",N,N,"",1,478,"Rickford","","Greg","Conservative","Conservateur",Y,Y,84
+35035,"Kenora","Kenora"," 121","Sioux Lookout",N,N,"",1,478,"Schwindt","","Mike","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 121","Sioux Lookout",N,N,"",1,478,"Valley","","Roger","Liberal","Libéral",N,N,33
+35035,"Kenora","Kenora"," 122","Sioux Lookout",N,N,"",0,256,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35035,"Kenora","Kenora"," 122","Sioux Lookout",N,N,"",0,256,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 122","Sioux Lookout",N,N,"",0,256,"Rickford","","Greg","Conservative","Conservateur",Y,Y,51
+35035,"Kenora","Kenora"," 122","Sioux Lookout",N,N,"",0,256,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 122","Sioux Lookout",N,N,"",0,256,"Valley","","Roger","Liberal","Libéral",N,N,22
+35035,"Kenora","Kenora"," 122-1","Sioux Lookout",N,N,"",0,265,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35035,"Kenora","Kenora"," 122-1","Sioux Lookout",N,N,"",0,265,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 122-1","Sioux Lookout",N,N,"",0,265,"Rickford","","Greg","Conservative","Conservateur",Y,Y,42
+35035,"Kenora","Kenora"," 122-1","Sioux Lookout",N,N,"",0,265,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 122-1","Sioux Lookout",N,N,"",0,265,"Valley","","Roger","Liberal","Libéral",N,N,32
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",0,810,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",0,810,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",0,810,"Rickford","","Greg","Conservative","Conservateur",Y,Y,184
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",0,810,"Schwindt","","Mike","Green Party","Parti Vert",N,N,12
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",0,810,"Valley","","Roger","Liberal","Libéral",N,N,105
+35035,"Kenora","Kenora"," 124","Ignace",Y,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35035,"Kenora","Kenora"," 124","Ignace",Y,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 124","Ignace",Y,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,0
+35035,"Kenora","Kenora"," 124","Ignace",Y,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 124","Ignace",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,0
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,150,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,150,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,150,"Rickford","","Greg","Conservative","Conservateur",Y,Y,38
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,150,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,150,"Valley","","Roger","Liberal","Libéral",N,N,5
+35035,"Kenora","Kenora"," 126","Ignace",N,N,"",3,389,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35035,"Kenora","Kenora"," 126","Ignace",N,N,"",3,389,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 126","Ignace",N,N,"",3,389,"Rickford","","Greg","Conservative","Conservateur",Y,Y,62
+35035,"Kenora","Kenora"," 126","Ignace",N,N,"",3,389,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 126","Ignace",N,N,"",3,389,"Valley","","Roger","Liberal","Libéral",N,N,13
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,249,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,249,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,249,"Rickford","","Greg","Conservative","Conservateur",Y,Y,52
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,249,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,249,"Valley","","Roger","Liberal","Libéral",N,N,20
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,177,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,177,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,177,"Rickford","","Greg","Conservative","Conservateur",Y,Y,32
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,177,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,177,"Valley","","Roger","Liberal","Libéral",N,N,4
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",2,147,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",2,147,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,1
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",2,147,"Rickford","","Greg","Conservative","Conservateur",Y,Y,43
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",2,147,"Schwindt","","Mike","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",2,147,"Valley","","Roger","Liberal","Libéral",N,N,25
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,177
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,110
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,132
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,11
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,38
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",1,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",1,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",1,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,90
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",1,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",1,0,"Valley","","Roger","Liberal","Libéral",N,N,11
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",2,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",2,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,4
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",2,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,245
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",2,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",2,0,"Valley","","Roger","Liberal","Libéral",N,N,59
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",2,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",2,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,4
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",2,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,277
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",2,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,17
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",2,0,"Valley","","Roger","Liberal","Libéral",N,N,88
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",2,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",2,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,2
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",2,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,295
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",2,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",2,0,"Valley","","Roger","Liberal","Libéral",N,N,148
+35035,"Kenora","Kenora"," 606","Dryden",N,N,"",1,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35035,"Kenora","Kenora"," 606","Dryden",N,N,"",1,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 606","Dryden",N,N,"",1,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,185
+35035,"Kenora","Kenora"," 606","Dryden",N,N,"",1,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 606","Dryden",N,N,"",1,0,"Valley","","Roger","Liberal","Libéral",N,N,92
+35035,"Kenora","Kenora"," 607","Ignace",N,N,"",0,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35035,"Kenora","Kenora"," 607","Ignace",N,N,"",0,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,0
+35035,"Kenora","Kenora"," 607","Ignace",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,88
+35035,"Kenora","Kenora"," 607","Ignace",N,N,"",0,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 607","Ignace",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",N,N,32
+35035,"Kenora","Kenora"," 608","Kenora",N,N,"",2,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35035,"Kenora","Kenora"," 608","Kenora",N,N,"",2,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," 608","Kenora",N,N,"",2,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,188
+35035,"Kenora","Kenora"," 608","Kenora",N,N,"",2,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 608","Kenora",N,N,"",2,0,"Valley","","Roger","Liberal","Libéral",N,N,69
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,156,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,156,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,3
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,156,"Rickford","","Greg","Conservative","Conservateur",Y,Y,30
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,156,"Schwindt","","Mike","Green Party","Parti Vert",N,N,10
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,156,"Valley","","Roger","Liberal","Libéral",N,N,34
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Cameron","","Tania","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,109
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Chicago-Boucher","","Kelvin","Independent","Indépendant",N,N,7
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Rickford","","Greg","Conservative","Conservateur",Y,Y,407
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Schwindt","","Mike","Green Party","Parti Vert",N,N,13
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Valley","","Roger","Liberal","Libéral",N,N,184

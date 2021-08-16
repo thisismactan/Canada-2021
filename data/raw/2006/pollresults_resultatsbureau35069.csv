@@ -1,0 +1,861 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 1","Henvey Inlet 2",N,N,"",0,88,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 1","Henvey Inlet 2",N,N,"",0,88,"Clement","","Tony","Conservative","Conservateur",N,Y,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 1","Henvey Inlet 2",N,N,"",0,88,"Hodgson","","Glen","Green Party","Parti Vert",N,N,3
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 1","Henvey Inlet 2",N,N,"",0,88,"Mitchell","","Andy","Liberal","Libéral",Y,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 2","Key Junction",N,N,"",0,488,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 2","Key Junction",N,N,"",0,488,"Clement","","Tony","Conservative","Conservateur",N,Y,84
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 2","Key Junction",N,N,"",0,488,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 2","Key Junction",N,N,"",0,488,"Mitchell","","Andy","Liberal","Libéral",Y,N,113
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 3","Magnetawan 1",N,N,"",0,52,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 3","Magnetawan 1",N,N,"",0,52,"Clement","","Tony","Conservative","Conservateur",N,Y,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 3","Magnetawan 1",N,N,"",0,52,"Hodgson","","Glen","Green Party","Parti Vert",N,N,0
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 3","Magnetawan 1",N,N,"",0,52,"Mitchell","","Andy","Liberal","Libéral",Y,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 4","Pointe au Baril Station",N,N,"",2,306,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 4","Pointe au Baril Station",N,N,"",2,306,"Clement","","Tony","Conservative","Conservateur",N,Y,82
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 4","Pointe au Baril Station",N,N,"",2,306,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 4","Pointe au Baril Station",N,N,"",2,306,"Mitchell","","Andy","Liberal","Libéral",Y,N,65
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 5","Shawanaga 17",N,N,"",0,115,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 5","Shawanaga 17",N,N,"",0,115,"Clement","","Tony","Conservative","Conservateur",N,Y,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 5","Shawanaga 17",N,N,"",0,115,"Hodgson","","Glen","Green Party","Parti Vert",N,N,1
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 5","Shawanaga 17",N,N,"",0,115,"Mitchell","","Andy","Liberal","Libéral",Y,N,59
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 6","Loring",N,N,"",0,267,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 6","Loring",N,N,"",0,267,"Clement","","Tony","Conservative","Conservateur",N,Y,91
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 6","Loring",N,N,"",0,267,"Hodgson","","Glen","Green Party","Parti Vert",N,N,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 6","Loring",N,N,"",0,267,"Mitchell","","Andy","Liberal","Libéral",Y,N,53
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 7","Dokis 9",N,N,"",0,145,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 7","Dokis 9",N,N,"",0,145,"Clement","","Tony","Conservative","Conservateur",N,Y,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 7","Dokis 9",N,N,"",0,145,"Hodgson","","Glen","Green Party","Parti Vert",N,N,1
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 7","Dokis 9",N,N,"",0,145,"Mitchell","","Andy","Liberal","Libéral",Y,N,82
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 8","Restoule",N,N,"",1,356,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,40
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 8","Restoule",N,N,"",1,356,"Clement","","Tony","Conservative","Conservateur",N,Y,111
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 8","Restoule",N,N,"",1,356,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 8","Restoule",N,N,"",1,356,"Mitchell","","Andy","Liberal","Libéral",Y,N,69
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 9","Arnstein",N,N,"",0,347,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 9","Arnstein",N,N,"",0,347,"Clement","","Tony","Conservative","Conservateur",N,Y,125
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 9","Arnstein",N,N,"",0,347,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 9","Arnstein",N,N,"",0,347,"Mitchell","","Andy","Liberal","Libéral",Y,N,78
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 10","Port Loring",N,N,"",0,209,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 10","Port Loring",N,N,"",0,209,"Clement","","Tony","Conservative","Conservateur",N,Y,75
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 10","Port Loring",N,N,"",0,209,"Hodgson","","Glen","Green Party","Parti Vert",N,N,4
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 10","Port Loring",N,N,"",0,209,"Mitchell","","Andy","Liberal","Libéral",Y,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 11","Whitestone",N,N,"",0,176,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 11","Whitestone",N,N,"",0,176,"Clement","","Tony","Conservative","Conservateur",N,Y,68
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 11","Whitestone",N,N,"",0,176,"Hodgson","","Glen","Green Party","Parti Vert",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 11","Whitestone",N,N,"",0,176,"Mitchell","","Andy","Liberal","Libéral",Y,N,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 12","Hagerman",N,N,"",0,483,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,65
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 12","Hagerman",N,N,"",0,483,"Clement","","Tony","Conservative","Conservateur",N,Y,111
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 12","Hagerman",N,N,"",0,483,"Hodgson","","Glen","Green Party","Parti Vert",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 12","Hagerman",N,N,"",0,483,"Mitchell","","Andy","Liberal","Libéral",Y,N,125
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 13","Ahmic Harbour",N,N,"",0,320,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 13","Ahmic Harbour",N,N,"",0,320,"Clement","","Tony","Conservative","Conservateur",N,Y,66
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 13","Ahmic Harbour",N,N,"",0,320,"Hodgson","","Glen","Green Party","Parti Vert",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 13","Ahmic Harbour",N,N,"",0,320,"Mitchell","","Andy","Liberal","Libéral",Y,N,88
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14A","Magnetawan",N,N,"",1,306,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14A","Magnetawan",N,N,"",1,306,"Clement","","Tony","Conservative","Conservateur",N,Y,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14A","Magnetawan",N,N,"",1,306,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14A","Magnetawan",N,N,"",1,306,"Mitchell","","Andy","Liberal","Libéral",Y,N,86
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14B","Magnetawan",N,N,"",0,253,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14B","Magnetawan",N,N,"",0,253,"Clement","","Tony","Conservative","Conservateur",N,Y,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14B","Magnetawan",N,N,"",0,253,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 14B","Magnetawan",N,N,"",0,253,"Mitchell","","Andy","Liberal","Libéral",Y,N,68
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 15","Eagle Lake",N,N,"",0,350,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 15","Eagle Lake",N,N,"",0,350,"Clement","","Tony","Conservative","Conservateur",N,Y,89
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 15","Eagle Lake",N,N,"",0,350,"Hodgson","","Glen","Green Party","Parti Vert",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 15","Eagle Lake",N,N,"",0,350,"Mitchell","","Andy","Liberal","Libéral",Y,N,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 16","Machar",N,N,"",1,288,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 16","Machar",N,N,"",1,288,"Clement","","Tony","Conservative","Conservateur",N,Y,74
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 16","Machar",N,N,"",1,288,"Hodgson","","Glen","Green Party","Parti Vert",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 16","Machar",N,N,"",1,288,"Mitchell","","Andy","Liberal","Libéral",Y,N,51
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 17","South River",N,N,"",1,355,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 17","South River",N,N,"",1,355,"Clement","","Tony","Conservative","Conservateur",N,Y,77
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 17","South River",N,N,"",1,355,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 17","South River",N,N,"",1,355,"Mitchell","","Andy","Liberal","Libéral",Y,N,50
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18A","South River",N,N,"",0,295,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18A","South River",N,N,"",0,295,"Clement","","Tony","Conservative","Conservateur",N,Y,61
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18A","South River",N,N,"",0,295,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18A","South River",N,N,"",0,295,"Mitchell","","Andy","Liberal","Libéral",Y,N,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18B","South River",N,N,"",1,292,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,28
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18B","South River",N,N,"",1,292,"Clement","","Tony","Conservative","Conservateur",N,Y,61
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18B","South River",N,N,"",1,292,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 18B","South River",N,N,"",1,292,"Mitchell","","Andy","Liberal","Libéral",Y,N,39
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 19","South River",Y,N,"",0,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,0
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 19","South River",Y,N,"",0,0,"Clement","","Tony","Conservative","Conservateur",N,Y,0
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 19","South River",Y,N,"",0,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,0
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 19","South River",Y,N,"",0,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,0
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 20","Joly",N,N,"",1,337,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 20","Joly",N,N,"",1,337,"Clement","","Tony","Conservative","Conservateur",N,Y,82
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 20","Joly",N,N,"",1,337,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 20","Joly",N,N,"",1,337,"Mitchell","","Andy","Liberal","Libéral",Y,N,56
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 21","Strong",N,N,"",1,294,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,42
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 21","Strong",N,N,"",1,294,"Clement","","Tony","Conservative","Conservateur",N,Y,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 21","Strong",N,N,"",1,294,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 21","Strong",N,N,"",1,294,"Mitchell","","Andy","Liberal","Libéral",Y,N,58
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 22","Sundridge",N,N,"",3,438,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,34
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 22","Sundridge",N,N,"",3,438,"Clement","","Tony","Conservative","Conservateur",N,Y,115
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 22","Sundridge",N,N,"",3,438,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 22","Sundridge",N,N,"",3,438,"Mitchell","","Andy","Liberal","Libéral",Y,N,86
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 23","Sundridge",N,N,"",0,287,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 23","Sundridge",N,N,"",0,287,"Clement","","Tony","Conservative","Conservateur",N,Y,73
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 23","Sundridge",N,N,"",0,287,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 23","Sundridge",N,N,"",0,287,"Mitchell","","Andy","Liberal","Libéral",Y,N,53
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 24","Sundridge",N,N,"",3,181,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 24","Sundridge",N,N,"",3,181,"Clement","","Tony","Conservative","Conservateur",N,Y,54
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 24","Sundridge",N,N,"",3,181,"Hodgson","","Glen","Green Party","Parti Vert",N,N,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 24","Sundridge",N,N,"",3,181,"Mitchell","","Andy","Liberal","Libéral",Y,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 25","Strong",N,N,"",1,321,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 25","Strong",N,N,"",1,321,"Clement","","Tony","Conservative","Conservateur",N,Y,97
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 25","Strong",N,N,"",1,321,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 25","Strong",N,N,"",1,321,"Mitchell","","Andy","Liberal","Libéral",Y,N,65
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 26","Strong",N,N,"",0,367,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,37
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 26","Strong",N,N,"",0,367,"Clement","","Tony","Conservative","Conservateur",N,Y,130
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 26","Strong",N,N,"",0,367,"Hodgson","","Glen","Green Party","Parti Vert",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 26","Strong",N,N,"",0,367,"Mitchell","","Andy","Liberal","Libéral",Y,N,66
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 27","Chapman",N,N,"",0,232,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 27","Chapman",N,N,"",0,232,"Clement","","Tony","Conservative","Conservateur",N,Y,69
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 27","Chapman",N,N,"",0,232,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 27","Chapman",N,N,"",0,232,"Mitchell","","Andy","Liberal","Libéral",Y,N,37
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 28","Chapman",N,N,"",0,100,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 28","Chapman",N,N,"",0,100,"Clement","","Tony","Conservative","Conservateur",N,Y,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 28","Chapman",N,N,"",0,100,"Hodgson","","Glen","Green Party","Parti Vert",N,N,1
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 28","Chapman",N,N,"",0,100,"Mitchell","","Andy","Liberal","Libéral",Y,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 29","Ryerson",N,N,"",0,426,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 29","Ryerson",N,N,"",0,426,"Clement","","Tony","Conservative","Conservateur",N,Y,98
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 29","Ryerson",N,N,"",0,426,"Hodgson","","Glen","Green Party","Parti Vert",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 29","Ryerson",N,N,"",0,426,"Mitchell","","Andy","Liberal","Libéral",Y,N,69
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 30","Armour",N,N,"",0,285,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 30","Armour",N,N,"",0,285,"Clement","","Tony","Conservative","Conservateur",N,Y,66
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 30","Armour",N,N,"",0,285,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 30","Armour",N,N,"",0,285,"Mitchell","","Andy","Liberal","Libéral",Y,N,68
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31A","Burk's Falls",N,N,"",2,296,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31A","Burk's Falls",N,N,"",2,296,"Clement","","Tony","Conservative","Conservateur",N,Y,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31A","Burk's Falls",N,N,"",2,296,"Hodgson","","Glen","Green Party","Parti Vert",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31A","Burk's Falls",N,N,"",2,296,"Mitchell","","Andy","Liberal","Libéral",Y,N,52
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31B","Burk's Falls",N,N,"",1,288,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31B","Burk's Falls",N,N,"",1,288,"Clement","","Tony","Conservative","Conservateur",N,Y,37
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31B","Burk's Falls",N,N,"",1,288,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 31B","Burk's Falls",N,N,"",1,288,"Mitchell","","Andy","Liberal","Libéral",Y,N,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 32","Burk's Falls",N,N,"",0,373,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,37
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 32","Burk's Falls",N,N,"",0,373,"Clement","","Tony","Conservative","Conservateur",N,Y,54
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 32","Burk's Falls",N,N,"",0,373,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 32","Burk's Falls",N,N,"",0,373,"Mitchell","","Andy","Liberal","Libéral",Y,N,58
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 33","Armour",N,N,"",0,251,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 33","Armour",N,N,"",0,251,"Clement","","Tony","Conservative","Conservateur",N,Y,63
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 33","Armour",N,N,"",0,251,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 33","Armour",N,N,"",0,251,"Mitchell","","Andy","Liberal","Libéral",Y,N,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 34","Armour",N,N,"",0,416,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,42
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 34","Armour",N,N,"",0,416,"Clement","","Tony","Conservative","Conservateur",N,Y,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 34","Armour",N,N,"",0,416,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 34","Armour",N,N,"",0,416,"Mitchell","","Andy","Liberal","Libéral",Y,N,87
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 35","Kearney",N,N,"",0,299,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 35","Kearney",N,N,"",0,299,"Clement","","Tony","Conservative","Conservateur",N,Y,71
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 35","Kearney",N,N,"",0,299,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 35","Kearney",N,N,"",0,299,"Mitchell","","Andy","Liberal","Libéral",Y,N,74
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 36","Perry",N,N,"",1,387,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,37
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 36","Perry",N,N,"",1,387,"Clement","","Tony","Conservative","Conservateur",N,Y,99
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 36","Perry",N,N,"",1,387,"Hodgson","","Glen","Green Party","Parti Vert",N,N,28
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 36","Perry",N,N,"",1,387,"Mitchell","","Andy","Liberal","Libéral",Y,N,82
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 37","McMurrich/Monteith",N,N,"",1,577,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,71
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 37","McMurrich/Monteith",N,N,"",1,577,"Clement","","Tony","Conservative","Conservateur",N,Y,124
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 37","McMurrich/Monteith",N,N,"",1,577,"Hodgson","","Glen","Green Party","Parti Vert",N,N,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 37","McMurrich/Monteith",N,N,"",1,577,"Mitchell","","Andy","Liberal","Libéral",Y,N,122
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 38","Scotia",N,N,"",0,413,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 38","Scotia",N,N,"",0,413,"Clement","","Tony","Conservative","Conservateur",N,Y,89
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 38","Scotia",N,N,"",0,413,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 38","Scotia",N,N,"",0,413,"Mitchell","","Andy","Liberal","Libéral",Y,N,84
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 39","Novar",N,N,"",1,499,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,50
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 39","Novar",N,N,"",1,499,"Clement","","Tony","Conservative","Conservateur",N,Y,156
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 39","Novar",N,N,"",1,499,"Hodgson","","Glen","Green Party","Parti Vert",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 39","Novar",N,N,"",1,499,"Mitchell","","Andy","Liberal","Libéral",Y,N,80
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 40","Novar",N,N,"",1,317,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 40","Novar",N,N,"",1,317,"Clement","","Tony","Conservative","Conservateur",N,Y,73
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 40","Novar",N,N,"",1,317,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 40","Novar",N,N,"",1,317,"Mitchell","","Andy","Liberal","Libéral",Y,N,73
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 41","Sand Lake",N,N,"",0,488,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 41","Sand Lake",N,N,"",0,488,"Clement","","Tony","Conservative","Conservateur",N,Y,100
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 41","Sand Lake",N,N,"",0,488,"Hodgson","","Glen","Green Party","Parti Vert",N,N,28
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 41","Sand Lake",N,N,"",0,488,"Mitchell","","Andy","Liberal","Libéral",Y,N,103
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 42","Carling",N,N,"",0,439,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,42
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 42","Carling",N,N,"",0,439,"Clement","","Tony","Conservative","Conservateur",N,Y,111
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 42","Carling",N,N,"",0,439,"Hodgson","","Glen","Green Party","Parti Vert",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 42","Carling",N,N,"",0,439,"Mitchell","","Andy","Liberal","Libéral",Y,N,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 43","Carling",N,N,"",3,433,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 43","Carling",N,N,"",3,433,"Clement","","Tony","Conservative","Conservateur",N,Y,93
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 43","Carling",N,N,"",3,433,"Hodgson","","Glen","Green Party","Parti Vert",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 43","Carling",N,N,"",3,433,"Mitchell","","Andy","Liberal","Libéral",Y,N,78
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 44","McDougall",N,N,"",0,416,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 44","McDougall",N,N,"",0,416,"Clement","","Tony","Conservative","Conservateur",N,Y,120
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 44","McDougall",N,N,"",0,416,"Hodgson","","Glen","Green Party","Parti Vert",N,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 44","McDougall",N,N,"",0,416,"Mitchell","","Andy","Liberal","Libéral",Y,N,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 45","McDougall",N,N,"",2,332,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 45","McDougall",N,N,"",2,332,"Clement","","Tony","Conservative","Conservateur",N,Y,82
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 45","McDougall",N,N,"",2,332,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 45","McDougall",N,N,"",2,332,"Mitchell","","Andy","Liberal","Libéral",Y,N,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 46","McDougall",N,N,"",1,257,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 46","McDougall",N,N,"",1,257,"Clement","","Tony","Conservative","Conservateur",N,Y,78
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 46","McDougall",N,N,"",1,257,"Hodgson","","Glen","Green Party","Parti Vert",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 46","McDougall",N,N,"",1,257,"Mitchell","","Andy","Liberal","Libéral",Y,N,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 47","McDougall",N,N,"",0,417,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 47","McDougall",N,N,"",0,417,"Clement","","Tony","Conservative","Conservateur",N,Y,97
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 47","McDougall",N,N,"",0,417,"Hodgson","","Glen","Green Party","Parti Vert",N,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 47","McDougall",N,N,"",0,417,"Mitchell","","Andy","Liberal","Libéral",Y,N,71
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 48","McDougall",N,N,"",0,113,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 48","McDougall",N,N,"",0,113,"Clement","","Tony","Conservative","Conservateur",N,Y,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 48","McDougall",N,N,"",0,113,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 48","McDougall",N,N,"",0,113,"Mitchell","","Andy","Liberal","Libéral",Y,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 49","McDougall",N,N,"",0,388,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 49","McDougall",N,N,"",0,388,"Clement","","Tony","Conservative","Conservateur",N,Y,88
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 49","McDougall",N,N,"",0,388,"Hodgson","","Glen","Green Party","Parti Vert",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 49","McDougall",N,N,"",0,388,"Mitchell","","Andy","Liberal","Libéral",Y,N,92
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 50","McKellar",N,N,"",2,317,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,28
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 50","McKellar",N,N,"",2,317,"Clement","","Tony","Conservative","Conservateur",N,Y,86
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 50","McKellar",N,N,"",2,317,"Hodgson","","Glen","Green Party","Parti Vert",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 50","McKellar",N,N,"",2,317,"Mitchell","","Andy","Liberal","Libéral",Y,N,97
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 51","McKellar",N,N,"",0,501,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,38
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 51","McKellar",N,N,"",0,501,"Clement","","Tony","Conservative","Conservateur",N,Y,127
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 51","McKellar",N,N,"",0,501,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 51","McKellar",N,N,"",0,501,"Mitchell","","Andy","Liberal","Libéral",Y,N,86
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 52","Parry Sound",N,N,"",2,361,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 52","Parry Sound",N,N,"",2,361,"Clement","","Tony","Conservative","Conservateur",N,Y,77
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 52","Parry Sound",N,N,"",2,361,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 52","Parry Sound",N,N,"",2,361,"Mitchell","","Andy","Liberal","Libéral",Y,N,48
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 53","Parry Sound",N,N,"",0,396,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 53","Parry Sound",N,N,"",0,396,"Clement","","Tony","Conservative","Conservateur",N,Y,63
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 53","Parry Sound",N,N,"",0,396,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 53","Parry Sound",N,N,"",0,396,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 54","Parry Sound",N,N,"",0,363,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,45
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 54","Parry Sound",N,N,"",0,363,"Clement","","Tony","Conservative","Conservateur",N,Y,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 54","Parry Sound",N,N,"",0,363,"Hodgson","","Glen","Green Party","Parti Vert",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 54","Parry Sound",N,N,"",0,363,"Mitchell","","Andy","Liberal","Libéral",Y,N,65
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 55","Parry Sound",N,N,"",1,425,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 55","Parry Sound",N,N,"",1,425,"Clement","","Tony","Conservative","Conservateur",N,Y,64
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 55","Parry Sound",N,N,"",1,425,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 55","Parry Sound",N,N,"",1,425,"Mitchell","","Andy","Liberal","Libéral",Y,N,78
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 56","Parry Sound",N,N,"",0,499,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 56","Parry Sound",N,N,"",0,499,"Clement","","Tony","Conservative","Conservateur",N,Y,95
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 56","Parry Sound",N,N,"",0,499,"Hodgson","","Glen","Green Party","Parti Vert",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 56","Parry Sound",N,N,"",0,499,"Mitchell","","Andy","Liberal","Libéral",Y,N,84
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 57","Parry Sound",N,N,"",0,308,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 57","Parry Sound",N,N,"",0,308,"Clement","","Tony","Conservative","Conservateur",N,Y,53
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 57","Parry Sound",N,N,"",0,308,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 57","Parry Sound",N,N,"",0,308,"Mitchell","","Andy","Liberal","Libéral",Y,N,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 58","Parry Sound",N,N,"",0,283,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 58","Parry Sound",N,N,"",0,283,"Clement","","Tony","Conservative","Conservateur",N,Y,48
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 58","Parry Sound",N,N,"",0,283,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 58","Parry Sound",N,N,"",0,283,"Mitchell","","Andy","Liberal","Libéral",Y,N,65
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 59","Parry Sound",N,N,"",0,436,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 59","Parry Sound",N,N,"",0,436,"Clement","","Tony","Conservative","Conservateur",N,Y,85
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 59","Parry Sound",N,N,"",0,436,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 59","Parry Sound",N,N,"",0,436,"Mitchell","","Andy","Liberal","Libéral",Y,N,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 60","Parry Sound",N,N,"",0,367,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 60","Parry Sound",N,N,"",0,367,"Clement","","Tony","Conservative","Conservateur",N,Y,58
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 60","Parry Sound",N,N,"",0,367,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 60","Parry Sound",N,N,"",0,367,"Mitchell","","Andy","Liberal","Libéral",Y,N,77
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 61","Parry Sound",N,N,"",0,428,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 61","Parry Sound",N,N,"",0,428,"Clement","","Tony","Conservative","Conservateur",N,Y,79
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 61","Parry Sound",N,N,"",0,428,"Hodgson","","Glen","Green Party","Parti Vert",N,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 61","Parry Sound",N,N,"",0,428,"Mitchell","","Andy","Liberal","Libéral",Y,N,92
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 62","Parry Sound",N,N,"",0,282,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 62","Parry Sound",N,N,"",0,282,"Clement","","Tony","Conservative","Conservateur",N,Y,51
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 62","Parry Sound",N,N,"",0,282,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 62","Parry Sound",N,N,"",0,282,"Mitchell","","Andy","Liberal","Libéral",Y,N,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 63","Parry Sound",N,N,"",0,315,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 63","Parry Sound",N,N,"",0,315,"Clement","","Tony","Conservative","Conservateur",N,Y,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 63","Parry Sound",N,N,"",0,315,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 63","Parry Sound",N,N,"",0,315,"Mitchell","","Andy","Liberal","Libéral",Y,N,39
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 64","Parry Sound",N,N,"",0,423,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 64","Parry Sound",N,N,"",0,423,"Clement","","Tony","Conservative","Conservateur",N,Y,57
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 64","Parry Sound",N,N,"",0,423,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 64","Parry Sound",N,N,"",0,423,"Mitchell","","Andy","Liberal","Libéral",Y,N,59
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 65","The Archipelago",N,N,"",0,130,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,3
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 65","The Archipelago",N,N,"",0,130,"Clement","","Tony","Conservative","Conservateur",N,Y,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 65","The Archipelago",N,N,"",0,130,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 65","The Archipelago",N,N,"",0,130,"Mitchell","","Andy","Liberal","Libéral",Y,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 66","Parry Island 16",N,N,"",1,333,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 66","Parry Island 16",N,N,"",1,333,"Clement","","Tony","Conservative","Conservateur",N,Y,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 66","Parry Island 16",N,N,"",1,333,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 66","Parry Island 16",N,N,"",1,333,"Mitchell","","Andy","Liberal","Libéral",Y,N,93
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 67","Seguin",N,N,"",0,396,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 67","Seguin",N,N,"",0,396,"Clement","","Tony","Conservative","Conservateur",N,Y,77
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 67","Seguin",N,N,"",0,396,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 67","Seguin",N,N,"",0,396,"Mitchell","","Andy","Liberal","Libéral",Y,N,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 68","Seguin",N,N,"",1,397,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,34
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 68","Seguin",N,N,"",1,397,"Clement","","Tony","Conservative","Conservateur",N,Y,59
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 68","Seguin",N,N,"",1,397,"Hodgson","","Glen","Green Party","Parti Vert",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 68","Seguin",N,N,"",1,397,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 69","Seguin",N,N,"",0,392,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,41
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 69","Seguin",N,N,"",0,392,"Clement","","Tony","Conservative","Conservateur",N,Y,100
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 69","Seguin",N,N,"",0,392,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 69","Seguin",N,N,"",0,392,"Mitchell","","Andy","Liberal","Libéral",Y,N,84
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 70","Christie",N,N,"",0,422,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 70","Christie",N,N,"",0,422,"Clement","","Tony","Conservative","Conservateur",N,Y,119
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 70","Christie",N,N,"",0,422,"Hodgson","","Glen","Green Party","Parti Vert",N,N,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 70","Christie",N,N,"",0,422,"Mitchell","","Andy","Liberal","Libéral",Y,N,100
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 71","Seguin",N,N,"",1,339,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 71","Seguin",N,N,"",1,339,"Clement","","Tony","Conservative","Conservateur",N,Y,80
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 71","Seguin",N,N,"",1,339,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 71","Seguin",N,N,"",1,339,"Mitchell","","Andy","Liberal","Libéral",Y,N,78
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 72","Humphrey",N,N,"",0,347,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 72","Humphrey",N,N,"",0,347,"Clement","","Tony","Conservative","Conservateur",N,Y,102
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 72","Humphrey",N,N,"",0,347,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 72","Humphrey",N,N,"",0,347,"Mitchell","","Andy","Liberal","Libéral",Y,N,80
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 73","Rosseau",N,N,"",0,423,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 73","Rosseau",N,N,"",0,423,"Clement","","Tony","Conservative","Conservateur",N,Y,99
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 73","Rosseau",N,N,"",0,423,"Hodgson","","Glen","Green Party","Parti Vert",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 73","Rosseau",N,N,"",0,423,"Mitchell","","Andy","Liberal","Libéral",Y,N,112
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 74","Hekkla",N,N,"",0,96,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,4
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 74","Hekkla",N,N,"",0,96,"Clement","","Tony","Conservative","Conservateur",N,Y,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 74","Hekkla",N,N,"",0,96,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 74","Hekkla",N,N,"",0,96,"Mitchell","","Andy","Liberal","Libéral",Y,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 75","Huntsville",N,N,"",0,251,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,28
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 75","Huntsville",N,N,"",0,251,"Clement","","Tony","Conservative","Conservateur",N,Y,36
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 75","Huntsville",N,N,"",0,251,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 75","Huntsville",N,N,"",0,251,"Mitchell","","Andy","Liberal","Libéral",Y,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 76","Huntsville",N,N,"",0,545,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 76","Huntsville",N,N,"",0,545,"Clement","","Tony","Conservative","Conservateur",N,Y,106
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 76","Huntsville",N,N,"",0,545,"Hodgson","","Glen","Green Party","Parti Vert",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 76","Huntsville",N,N,"",0,545,"Mitchell","","Andy","Liberal","Libéral",Y,N,92
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 77","Huntsville",N,N,"",1,305,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 77","Huntsville",N,N,"",1,305,"Clement","","Tony","Conservative","Conservateur",N,Y,63
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 77","Huntsville",N,N,"",1,305,"Hodgson","","Glen","Green Party","Parti Vert",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 77","Huntsville",N,N,"",1,305,"Mitchell","","Andy","Liberal","Libéral",Y,N,61
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 78","Huntsville",N,N,"",0,578,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 78","Huntsville",N,N,"",0,578,"Clement","","Tony","Conservative","Conservateur",N,Y,118
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 78","Huntsville",N,N,"",0,578,"Hodgson","","Glen","Green Party","Parti Vert",N,N,44
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 78","Huntsville",N,N,"",0,578,"Mitchell","","Andy","Liberal","Libéral",Y,N,96
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 79","Huntsville",N,N,"",1,508,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,40
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 79","Huntsville",N,N,"",1,508,"Clement","","Tony","Conservative","Conservateur",N,Y,89
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 79","Huntsville",N,N,"",1,508,"Hodgson","","Glen","Green Party","Parti Vert",N,N,38
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 79","Huntsville",N,N,"",1,508,"Mitchell","","Andy","Liberal","Libéral",Y,N,108
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 80","Huntsville",N,N,"",0,498,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 80","Huntsville",N,N,"",0,498,"Clement","","Tony","Conservative","Conservateur",N,Y,104
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 80","Huntsville",N,N,"",0,498,"Hodgson","","Glen","Green Party","Parti Vert",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 80","Huntsville",N,N,"",0,498,"Mitchell","","Andy","Liberal","Libéral",Y,N,101
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 81","Huntsville",N,N,"",0,377,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 81","Huntsville",N,N,"",0,377,"Clement","","Tony","Conservative","Conservateur",N,Y,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 81","Huntsville",N,N,"",0,377,"Hodgson","","Glen","Green Party","Parti Vert",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 81","Huntsville",N,N,"",0,377,"Mitchell","","Andy","Liberal","Libéral",Y,N,73
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 82","Huntsville",N,N,"",0,253,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 82","Huntsville",N,N,"",0,253,"Clement","","Tony","Conservative","Conservateur",N,Y,57
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 82","Huntsville",N,N,"",0,253,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 82","Huntsville",N,N,"",0,253,"Mitchell","","Andy","Liberal","Libéral",Y,N,55
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 83","Huntsville",N,N,"",2,382,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 83","Huntsville",N,N,"",2,382,"Clement","","Tony","Conservative","Conservateur",N,Y,60
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 83","Huntsville",N,N,"",2,382,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 83","Huntsville",N,N,"",2,382,"Mitchell","","Andy","Liberal","Libéral",Y,N,55
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 84","Huntsville",N,N,"",0,373,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 84","Huntsville",N,N,"",0,373,"Clement","","Tony","Conservative","Conservateur",N,Y,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 84","Huntsville",N,N,"",0,373,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 84","Huntsville",N,N,"",0,373,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85A","Huntsville",N,N,"",2,439,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85A","Huntsville",N,N,"",2,439,"Clement","","Tony","Conservative","Conservateur",N,Y,89
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85A","Huntsville",N,N,"",2,439,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85A","Huntsville",N,N,"",2,439,"Mitchell","","Andy","Liberal","Libéral",Y,N,71
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85B","Huntsville",N,N,"",0,381,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,23
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85B","Huntsville",N,N,"",0,381,"Clement","","Tony","Conservative","Conservateur",N,Y,75
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85B","Huntsville",N,N,"",0,381,"Hodgson","","Glen","Green Party","Parti Vert",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 85B","Huntsville",N,N,"",0,381,"Mitchell","","Andy","Liberal","Libéral",Y,N,55
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 86","Huntsville",N,N,"",0,401,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 86","Huntsville",N,N,"",0,401,"Clement","","Tony","Conservative","Conservateur",N,Y,66
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 86","Huntsville",N,N,"",0,401,"Hodgson","","Glen","Green Party","Parti Vert",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 86","Huntsville",N,N,"",0,401,"Mitchell","","Andy","Liberal","Libéral",Y,N,79
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 87","Hillside",N,N,"",1,515,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 87","Hillside",N,N,"",1,515,"Clement","","Tony","Conservative","Conservateur",N,Y,110
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 87","Hillside",N,N,"",1,515,"Hodgson","","Glen","Green Party","Parti Vert",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 87","Hillside",N,N,"",1,515,"Mitchell","","Andy","Liberal","Libéral",Y,N,126
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 88","Huntsville",N,N,"",1,535,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,38
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 88","Huntsville",N,N,"",1,535,"Clement","","Tony","Conservative","Conservateur",N,Y,93
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 88","Huntsville",N,N,"",1,535,"Hodgson","","Glen","Green Party","Parti Vert",N,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 88","Huntsville",N,N,"",1,535,"Mitchell","","Andy","Liberal","Libéral",Y,N,88
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 89","Huntsville",N,N,"",0,334,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 89","Huntsville",N,N,"",0,334,"Clement","","Tony","Conservative","Conservateur",N,Y,38
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 89","Huntsville",N,N,"",0,334,"Hodgson","","Glen","Green Party","Parti Vert",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 89","Huntsville",N,N,"",0,334,"Mitchell","","Andy","Liberal","Libéral",Y,N,54
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 90","Huntsville",N,N,"",1,335,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 90","Huntsville",N,N,"",1,335,"Clement","","Tony","Conservative","Conservateur",N,Y,56
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 90","Huntsville",N,N,"",1,335,"Hodgson","","Glen","Green Party","Parti Vert",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 90","Huntsville",N,N,"",1,335,"Mitchell","","Andy","Liberal","Libéral",Y,N,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 91","Huntsville",N,N,"",1,447,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,34
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 91","Huntsville",N,N,"",1,447,"Clement","","Tony","Conservative","Conservateur",N,Y,82
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 91","Huntsville",N,N,"",1,447,"Hodgson","","Glen","Green Party","Parti Vert",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 91","Huntsville",N,N,"",1,447,"Mitchell","","Andy","Liberal","Libéral",Y,N,95
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 92","Huntsville",N,N,"",1,362,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 92","Huntsville",N,N,"",1,362,"Clement","","Tony","Conservative","Conservateur",N,Y,48
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 92","Huntsville",N,N,"",1,362,"Hodgson","","Glen","Green Party","Parti Vert",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 92","Huntsville",N,N,"",1,362,"Mitchell","","Andy","Liberal","Libéral",Y,N,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 93","Huntsville",N,N,"",1,461,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 93","Huntsville",N,N,"",1,461,"Clement","","Tony","Conservative","Conservateur",N,Y,99
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 93","Huntsville",N,N,"",1,461,"Hodgson","","Glen","Green Party","Parti Vert",N,N,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 93","Huntsville",N,N,"",1,461,"Mitchell","","Andy","Liberal","Libéral",Y,N,97
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 94","Huntsville",N,N,"",0,289,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 94","Huntsville",N,N,"",0,289,"Clement","","Tony","Conservative","Conservateur",N,Y,55
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 94","Huntsville",N,N,"",0,289,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 94","Huntsville",N,N,"",0,289,"Mitchell","","Andy","Liberal","Libéral",Y,N,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 95","Huntsville",N,N,"",1,305,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 95","Huntsville",N,N,"",1,305,"Clement","","Tony","Conservative","Conservateur",N,Y,54
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 95","Huntsville",N,N,"",1,305,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 95","Huntsville",N,N,"",1,305,"Mitchell","","Andy","Liberal","Libéral",Y,N,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 96","Huntsville",N,N,"",0,306,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 96","Huntsville",N,N,"",0,306,"Clement","","Tony","Conservative","Conservateur",N,Y,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 96","Huntsville",N,N,"",0,306,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 96","Huntsville",N,N,"",0,306,"Mitchell","","Andy","Liberal","Libéral",Y,N,69
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 97","Ullswater",N,N,"",0,290,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 97","Ullswater",N,N,"",0,290,"Clement","","Tony","Conservative","Conservateur",N,Y,63
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 97","Ullswater",N,N,"",0,290,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 97","Ullswater",N,N,"",0,290,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 98","Windermere",N,N,"",2,548,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,42
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 98","Windermere",N,N,"",2,548,"Clement","","Tony","Conservative","Conservateur",N,Y,146
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 98","Windermere",N,N,"",2,548,"Hodgson","","Glen","Green Party","Parti Vert",N,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 98","Windermere",N,N,"",2,548,"Mitchell","","Andy","Liberal","Libéral",Y,N,150
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99A","Huntsville",N,N,"",0,281,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99A","Huntsville",N,N,"",0,281,"Clement","","Tony","Conservative","Conservateur",N,Y,46
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99A","Huntsville",N,N,"",0,281,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99A","Huntsville",N,N,"",0,281,"Mitchell","","Andy","Liberal","Libéral",Y,N,45
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99B","Huntsville",N,N,"",1,273,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99B","Huntsville",N,N,"",1,273,"Clement","","Tony","Conservative","Conservateur",N,Y,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99B","Huntsville",N,N,"",1,273,"Hodgson","","Glen","Green Party","Parti Vert",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 99B","Huntsville",N,N,"",1,273,"Mitchell","","Andy","Liberal","Libéral",Y,N,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 100","Huntsville",N,N,"",1,466,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 100","Huntsville",N,N,"",1,466,"Clement","","Tony","Conservative","Conservateur",N,Y,97
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 100","Huntsville",N,N,"",1,466,"Hodgson","","Glen","Green Party","Parti Vert",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 100","Huntsville",N,N,"",1,466,"Mitchell","","Andy","Liberal","Libéral",Y,N,113
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101A","Huntsville",N,N,"",0,360,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101A","Huntsville",N,N,"",0,360,"Clement","","Tony","Conservative","Conservateur",N,Y,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101A","Huntsville",N,N,"",0,360,"Hodgson","","Glen","Green Party","Parti Vert",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101A","Huntsville",N,N,"",0,360,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101B","Huntsville",N,N,"",3,307,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101B","Huntsville",N,N,"",3,307,"Clement","","Tony","Conservative","Conservateur",N,Y,78
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101B","Huntsville",N,N,"",3,307,"Hodgson","","Glen","Green Party","Parti Vert",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 101B","Huntsville",N,N,"",3,307,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 102","Huntsville",N,N,"",0,534,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,41
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 102","Huntsville",N,N,"",0,534,"Clement","","Tony","Conservative","Conservateur",N,Y,99
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 102","Huntsville",N,N,"",0,534,"Hodgson","","Glen","Green Party","Parti Vert",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 102","Huntsville",N,N,"",0,534,"Mitchell","","Andy","Liberal","Libéral",Y,N,133
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 103","Huntsville",N,N,"",1,534,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,60
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 103","Huntsville",N,N,"",1,534,"Clement","","Tony","Conservative","Conservateur",N,Y,114
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 103","Huntsville",N,N,"",1,534,"Hodgson","","Glen","Green Party","Parti Vert",N,N,38
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 103","Huntsville",N,N,"",1,534,"Mitchell","","Andy","Liberal","Libéral",Y,N,140
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 104","Huntsville",N,N,"",0,582,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 104","Huntsville",N,N,"",0,582,"Clement","","Tony","Conservative","Conservateur",N,Y,162
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 104","Huntsville",N,N,"",0,582,"Hodgson","","Glen","Green Party","Parti Vert",N,N,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 104","Huntsville",N,N,"",0,582,"Mitchell","","Andy","Liberal","Libéral",Y,N,94
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 105","Huntsville",N,N,"",0,248,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 105","Huntsville",N,N,"",0,248,"Clement","","Tony","Conservative","Conservateur",N,Y,37
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 105","Huntsville",N,N,"",0,248,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 105","Huntsville",N,N,"",0,248,"Mitchell","","Andy","Liberal","Libéral",Y,N,65
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 106","Huntsville",N,N,"",0,263,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 106","Huntsville",N,N,"",0,263,"Clement","","Tony","Conservative","Conservateur",N,Y,40
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 106","Huntsville",N,N,"",0,263,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 106","Huntsville",N,N,"",0,263,"Mitchell","","Andy","Liberal","Libéral",Y,N,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 107","Huntsville",N,N,"",0,248,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 107","Huntsville",N,N,"",0,248,"Clement","","Tony","Conservative","Conservateur",N,Y,44
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 107","Huntsville",N,N,"",0,248,"Hodgson","","Glen","Green Party","Parti Vert",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 107","Huntsville",N,N,"",0,248,"Mitchell","","Andy","Liberal","Libéral",Y,N,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 108","Huntsville",N,N,"",1,313,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 108","Huntsville",N,N,"",1,313,"Clement","","Tony","Conservative","Conservateur",N,Y,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 108","Huntsville",N,N,"",1,313,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 108","Huntsville",N,N,"",1,313,"Mitchell","","Andy","Liberal","Libéral",Y,N,79
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 109","Huntsville",N,N,"",0,611,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,40
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 109","Huntsville",N,N,"",0,611,"Clement","","Tony","Conservative","Conservateur",N,Y,120
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 109","Huntsville",N,N,"",0,611,"Hodgson","","Glen","Green Party","Parti Vert",N,N,51
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 109","Huntsville",N,N,"",0,611,"Mitchell","","Andy","Liberal","Libéral",Y,N,101
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 110","Dwight",N,N,"",0,316,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 110","Dwight",N,N,"",0,316,"Clement","","Tony","Conservative","Conservateur",N,Y,78
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 110","Dwight",N,N,"",0,316,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 110","Dwight",N,N,"",0,316,"Mitchell","","Andy","Liberal","Libéral",Y,N,70
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 111","Lake of Bays",N,N,"",0,226,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 111","Lake of Bays",N,N,"",0,226,"Clement","","Tony","Conservative","Conservateur",N,Y,57
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 111","Lake of Bays",N,N,"",0,226,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 111","Lake of Bays",N,N,"",0,226,"Mitchell","","Andy","Liberal","Libéral",Y,N,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 112","Lake of Bays",N,N,"",0,269,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 112","Lake of Bays",N,N,"",0,269,"Clement","","Tony","Conservative","Conservateur",N,Y,71
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 112","Lake of Bays",N,N,"",0,269,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 112","Lake of Bays",N,N,"",0,269,"Mitchell","","Andy","Liberal","Libéral",Y,N,60
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 113","MacTier",N,N,"",0,255,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 113","MacTier",N,N,"",0,255,"Clement","","Tony","Conservative","Conservateur",N,Y,44
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 113","MacTier",N,N,"",0,255,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 113","MacTier",N,N,"",0,255,"Mitchell","","Andy","Liberal","Libéral",Y,N,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 114","Moose Point 79",N,N,"",0,124,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 114","Moose Point 79",N,N,"",0,124,"Clement","","Tony","Conservative","Conservateur",N,Y,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 114","Moose Point 79",N,N,"",0,124,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 114","Moose Point 79",N,N,"",0,124,"Mitchell","","Andy","Liberal","Libéral",Y,N,52
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115A","MacTier",N,N,"",1,267,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115A","MacTier",N,N,"",1,267,"Clement","","Tony","Conservative","Conservateur",N,Y,61
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115A","MacTier",N,N,"",1,267,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115A","MacTier",N,N,"",1,267,"Mitchell","","Andy","Liberal","Libéral",Y,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115B","MacTier",N,N,"",0,224,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115B","MacTier",N,N,"",0,224,"Clement","","Tony","Conservative","Conservateur",N,Y,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115B","MacTier",N,N,"",0,224,"Hodgson","","Glen","Green Party","Parti Vert",N,N,4
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 115B","MacTier",N,N,"",0,224,"Mitchell","","Andy","Liberal","Libéral",Y,N,36
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 116","Minett",N,N,"",1,327,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 116","Minett",N,N,"",1,327,"Clement","","Tony","Conservative","Conservateur",N,Y,48
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 116","Minett",N,N,"",1,327,"Hodgson","","Glen","Green Party","Parti Vert",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 116","Minett",N,N,"",1,327,"Mitchell","","Andy","Liberal","Libéral",Y,N,67
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 117","Port Carling",N,N,"",0,525,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 117","Port Carling",N,N,"",0,525,"Clement","","Tony","Conservative","Conservateur",N,Y,123
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 117","Port Carling",N,N,"",0,525,"Hodgson","","Glen","Green Party","Parti Vert",N,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 117","Port Carling",N,N,"",0,525,"Mitchell","","Andy","Liberal","Libéral",Y,N,149
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 118","Port Carling",N,N,"",1,521,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,23
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 118","Port Carling",N,N,"",1,521,"Clement","","Tony","Conservative","Conservateur",N,Y,142
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 118","Port Carling",N,N,"",1,521,"Hodgson","","Glen","Green Party","Parti Vert",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 118","Port Carling",N,N,"",1,521,"Mitchell","","Andy","Liberal","Libéral",Y,N,121
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 119","Glen Orchard",N,N,"",0,295,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 119","Glen Orchard",N,N,"",0,295,"Clement","","Tony","Conservative","Conservateur",N,Y,80
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 119","Glen Orchard",N,N,"",0,295,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 119","Glen Orchard",N,N,"",0,295,"Mitchell","","Andy","Liberal","Libéral",Y,N,59
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 120","Whata",N,N,"",0,67,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 120","Whata",N,N,"",0,67,"Clement","","Tony","Conservative","Conservateur",N,Y,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 120","Whata",N,N,"",0,67,"Hodgson","","Glen","Green Party","Parti Vert",N,N,2
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 120","Whata",N,N,"",0,67,"Mitchell","","Andy","Liberal","Libéral",Y,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 121","Baxter",N,N,"",1,517,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 121","Baxter",N,N,"",1,517,"Clement","","Tony","Conservative","Conservateur",N,Y,144
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 121","Baxter",N,N,"",1,517,"Hodgson","","Glen","Green Party","Parti Vert",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 121","Baxter",N,N,"",1,517,"Mitchell","","Andy","Liberal","Libéral",Y,N,108
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 122","Baxter",N,N,"",0,434,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 122","Baxter",N,N,"",0,434,"Clement","","Tony","Conservative","Conservateur",N,Y,103
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 122","Baxter",N,N,"",0,434,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 122","Baxter",N,N,"",0,434,"Mitchell","","Andy","Liberal","Libéral",Y,N,112
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 123","Honey Harbour",N,N,"",1,346,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 123","Honey Harbour",N,N,"",1,346,"Clement","","Tony","Conservative","Conservateur",N,Y,52
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 123","Honey Harbour",N,N,"",1,346,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 123","Honey Harbour",N,N,"",1,346,"Mitchell","","Andy","Liberal","Libéral",Y,N,85
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 124","Gravenhurst",N,N,"",1,309,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,9
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 124","Gravenhurst",N,N,"",1,309,"Clement","","Tony","Conservative","Conservateur",N,Y,53
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 124","Gravenhurst",N,N,"",1,309,"Hodgson","","Glen","Green Party","Parti Vert",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 124","Gravenhurst",N,N,"",1,309,"Mitchell","","Andy","Liberal","Libéral",Y,N,92
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 125","Gravenhurst",N,N,"",0,450,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 125","Gravenhurst",N,N,"",0,450,"Clement","","Tony","Conservative","Conservateur",N,Y,70
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 125","Gravenhurst",N,N,"",0,450,"Hodgson","","Glen","Green Party","Parti Vert",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 125","Gravenhurst",N,N,"",0,450,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126A","Gravenhurst",N,N,"",0,284,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126A","Gravenhurst",N,N,"",0,284,"Clement","","Tony","Conservative","Conservateur",N,Y,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126A","Gravenhurst",N,N,"",0,284,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126A","Gravenhurst",N,N,"",0,284,"Mitchell","","Andy","Liberal","Libéral",Y,N,66
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126B","Gravenhurst",N,N,"",0,263,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126B","Gravenhurst",N,N,"",0,263,"Clement","","Tony","Conservative","Conservateur",N,Y,42
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126B","Gravenhurst",N,N,"",0,263,"Hodgson","","Glen","Green Party","Parti Vert",N,N,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 126B","Gravenhurst",N,N,"",0,263,"Mitchell","","Andy","Liberal","Libéral",Y,N,61
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 127","Gravenhurst",N,N,"",0,397,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 127","Gravenhurst",N,N,"",0,397,"Clement","","Tony","Conservative","Conservateur",N,Y,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 127","Gravenhurst",N,N,"",0,397,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 127","Gravenhurst",N,N,"",0,397,"Mitchell","","Andy","Liberal","Libéral",Y,N,70
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 128","Gravenhurst",N,N,"",0,451,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 128","Gravenhurst",N,N,"",0,451,"Clement","","Tony","Conservative","Conservateur",N,Y,65
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 128","Gravenhurst",N,N,"",0,451,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 128","Gravenhurst",N,N,"",0,451,"Mitchell","","Andy","Liberal","Libéral",Y,N,89
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 129","Gravenhurst",N,N,"",0,405,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 129","Gravenhurst",N,N,"",0,405,"Clement","","Tony","Conservative","Conservateur",N,Y,51
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 129","Gravenhurst",N,N,"",0,405,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 129","Gravenhurst",N,N,"",0,405,"Mitchell","","Andy","Liberal","Libéral",Y,N,53
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 130","Gravenhurst",N,N,"",0,415,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 130","Gravenhurst",N,N,"",0,415,"Clement","","Tony","Conservative","Conservateur",N,Y,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 130","Gravenhurst",N,N,"",0,415,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 130","Gravenhurst",N,N,"",0,415,"Mitchell","","Andy","Liberal","Libéral",Y,N,98
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131A","Bala",N,N,"",0,332,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131A","Bala",N,N,"",0,332,"Clement","","Tony","Conservative","Conservateur",N,Y,74
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131A","Bala",N,N,"",0,332,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131A","Bala",N,N,"",0,332,"Mitchell","","Andy","Liberal","Libéral",Y,N,87
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131B","Bala",N,N,"",1,262,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131B","Bala",N,N,"",1,262,"Clement","","Tony","Conservative","Conservateur",N,Y,57
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131B","Bala",N,N,"",1,262,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 131B","Bala",N,N,"",1,262,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 132","Bala",N,N,"",0,315,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 132","Bala",N,N,"",0,315,"Clement","","Tony","Conservative","Conservateur",N,Y,74
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 132","Bala",N,N,"",0,315,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 132","Bala",N,N,"",0,315,"Mitchell","","Andy","Liberal","Libéral",Y,N,96
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 133","Walkers Point",N,N,"",0,245,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 133","Walkers Point",N,N,"",0,245,"Clement","","Tony","Conservative","Conservateur",N,Y,41
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 133","Walkers Point",N,N,"",0,245,"Hodgson","","Glen","Green Party","Parti Vert",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 133","Walkers Point",N,N,"",0,245,"Mitchell","","Andy","Liberal","Libéral",Y,N,57
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 134","Gravenhurst",N,N,"",1,660,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 134","Gravenhurst",N,N,"",1,660,"Clement","","Tony","Conservative","Conservateur",N,Y,95
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 134","Gravenhurst",N,N,"",1,660,"Hodgson","","Glen","Green Party","Parti Vert",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 134","Gravenhurst",N,N,"",1,660,"Mitchell","","Andy","Liberal","Libéral",Y,N,137
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 135","Gravenhurst",N,N,"",0,178,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 135","Gravenhurst",N,N,"",0,178,"Clement","","Tony","Conservative","Conservateur",N,Y,40
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 135","Gravenhurst",N,N,"",0,178,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 135","Gravenhurst",N,N,"",0,178,"Mitchell","","Andy","Liberal","Libéral",Y,N,41
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 136","Gravenhurst",N,N,"",0,368,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 136","Gravenhurst",N,N,"",0,368,"Clement","","Tony","Conservative","Conservateur",N,Y,59
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 136","Gravenhurst",N,N,"",0,368,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 136","Gravenhurst",N,N,"",0,368,"Mitchell","","Andy","Liberal","Libéral",Y,N,104
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137A","Gravenhurst",N,N,"",0,387,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137A","Gravenhurst",N,N,"",0,387,"Clement","","Tony","Conservative","Conservateur",N,Y,74
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137A","Gravenhurst",N,N,"",0,387,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137A","Gravenhurst",N,N,"",0,387,"Mitchell","","Andy","Liberal","Libéral",Y,N,88
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137B","Gravenhurst",N,N,"",1,342,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137B","Gravenhurst",N,N,"",1,342,"Clement","","Tony","Conservative","Conservateur",N,Y,74
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137B","Gravenhurst",N,N,"",1,342,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 137B","Gravenhurst",N,N,"",1,342,"Mitchell","","Andy","Liberal","Libéral",Y,N,68
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138A","Gravenhurst",N,N,"",1,322,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138A","Gravenhurst",N,N,"",1,322,"Clement","","Tony","Conservative","Conservateur",N,Y,73
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138A","Gravenhurst",N,N,"",1,322,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138A","Gravenhurst",N,N,"",1,322,"Mitchell","","Andy","Liberal","Libéral",Y,N,69
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138B","Gravenhurst",N,N,"",0,244,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138B","Gravenhurst",N,N,"",0,244,"Clement","","Tony","Conservative","Conservateur",N,Y,39
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138B","Gravenhurst",N,N,"",0,244,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 138B","Gravenhurst",N,N,"",0,244,"Mitchell","","Andy","Liberal","Libéral",Y,N,51
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 139","Gravenhurst",N,N,"",0,477,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 139","Gravenhurst",N,N,"",0,477,"Clement","","Tony","Conservative","Conservateur",N,Y,90
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 139","Gravenhurst",N,N,"",0,477,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 139","Gravenhurst",N,N,"",0,477,"Mitchell","","Andy","Liberal","Libéral",Y,N,104
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 140","Gravenhurst",N,N,"",1,197,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 140","Gravenhurst",N,N,"",1,197,"Clement","","Tony","Conservative","Conservateur",N,Y,40
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 140","Gravenhurst",N,N,"",1,197,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 140","Gravenhurst",N,N,"",1,197,"Mitchell","","Andy","Liberal","Libéral",Y,N,48
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 141","Southwood",N,N,"",0,229,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 141","Southwood",N,N,"",0,229,"Clement","","Tony","Conservative","Conservateur",N,Y,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 141","Southwood",N,N,"",0,229,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 141","Southwood",N,N,"",0,229,"Mitchell","","Andy","Liberal","Libéral",Y,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 142","Gravenhurst",N,N,"",0,479,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 142","Gravenhurst",N,N,"",0,479,"Clement","","Tony","Conservative","Conservateur",N,Y,91
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 142","Gravenhurst",N,N,"",0,479,"Hodgson","","Glen","Green Party","Parti Vert",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 142","Gravenhurst",N,N,"",0,479,"Mitchell","","Andy","Liberal","Libéral",Y,N,93
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 143","Gravenhurst",N,N,"",0,236,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 143","Gravenhurst",N,N,"",0,236,"Clement","","Tony","Conservative","Conservateur",N,Y,46
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 143","Gravenhurst",N,N,"",0,236,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 143","Gravenhurst",N,N,"",0,236,"Mitchell","","Andy","Liberal","Libéral",Y,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 144","Gravenhurst",N,N,"",0,445,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 144","Gravenhurst",N,N,"",0,445,"Clement","","Tony","Conservative","Conservateur",N,Y,124
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 144","Gravenhurst",N,N,"",0,445,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 144","Gravenhurst",N,N,"",0,445,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145A","Gravenhurst",N,N,"",0,319,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145A","Gravenhurst",N,N,"",0,319,"Clement","","Tony","Conservative","Conservateur",N,Y,70
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145A","Gravenhurst",N,N,"",0,319,"Hodgson","","Glen","Green Party","Parti Vert",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145A","Gravenhurst",N,N,"",0,319,"Mitchell","","Andy","Liberal","Libéral",Y,N,63
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145B","Gravenhurst",N,N,"",0,292,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145B","Gravenhurst",N,N,"",0,292,"Clement","","Tony","Conservative","Conservateur",N,Y,59
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145B","Gravenhurst",N,N,"",0,292,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 145B","Gravenhurst",N,N,"",0,292,"Mitchell","","Andy","Liberal","Libéral",Y,N,57
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 146","Gravenhurst",N,N,"",0,373,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,36
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 146","Gravenhurst",N,N,"",0,373,"Clement","","Tony","Conservative","Conservateur",N,Y,102
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 146","Gravenhurst",N,N,"",0,373,"Hodgson","","Glen","Green Party","Parti Vert",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 146","Gravenhurst",N,N,"",0,373,"Mitchell","","Andy","Liberal","Libéral",Y,N,68
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 147","Bracebridge",N,N,"",0,524,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,28
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 147","Bracebridge",N,N,"",0,524,"Clement","","Tony","Conservative","Conservateur",N,Y,66
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 147","Bracebridge",N,N,"",0,524,"Hodgson","","Glen","Green Party","Parti Vert",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 147","Bracebridge",N,N,"",0,524,"Mitchell","","Andy","Liberal","Libéral",Y,N,116
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 148","Bracebridge",N,N,"",0,436,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,36
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 148","Bracebridge",N,N,"",0,436,"Clement","","Tony","Conservative","Conservateur",N,Y,56
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 148","Bracebridge",N,N,"",0,436,"Hodgson","","Glen","Green Party","Parti Vert",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 148","Bracebridge",N,N,"",0,436,"Mitchell","","Andy","Liberal","Libéral",Y,N,112
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 149","Bracebridge",N,N,"",0,436,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 149","Bracebridge",N,N,"",0,436,"Clement","","Tony","Conservative","Conservateur",N,Y,60
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 149","Bracebridge",N,N,"",0,436,"Hodgson","","Glen","Green Party","Parti Vert",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 149","Bracebridge",N,N,"",0,436,"Mitchell","","Andy","Liberal","Libéral",Y,N,83
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 150","Bracebridge",N,N,"",1,488,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 150","Bracebridge",N,N,"",1,488,"Clement","","Tony","Conservative","Conservateur",N,Y,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 150","Bracebridge",N,N,"",1,488,"Hodgson","","Glen","Green Party","Parti Vert",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 150","Bracebridge",N,N,"",1,488,"Mitchell","","Andy","Liberal","Libéral",Y,N,109
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 151","Bracebridge",N,N,"",0,440,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,34
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 151","Bracebridge",N,N,"",0,440,"Clement","","Tony","Conservative","Conservateur",N,Y,70
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 151","Bracebridge",N,N,"",0,440,"Hodgson","","Glen","Green Party","Parti Vert",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 151","Bracebridge",N,N,"",0,440,"Mitchell","","Andy","Liberal","Libéral",Y,N,86
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 152","Bracebridge",N,N,"",1,527,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 152","Bracebridge",N,N,"",1,527,"Clement","","Tony","Conservative","Conservateur",N,Y,70
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 152","Bracebridge",N,N,"",1,527,"Hodgson","","Glen","Green Party","Parti Vert",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 152","Bracebridge",N,N,"",1,527,"Mitchell","","Andy","Liberal","Libéral",Y,N,132
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153A","Bracebridge",N,N,"",0,332,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153A","Bracebridge",N,N,"",0,332,"Clement","","Tony","Conservative","Conservateur",N,Y,44
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153A","Bracebridge",N,N,"",0,332,"Hodgson","","Glen","Green Party","Parti Vert",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153A","Bracebridge",N,N,"",0,332,"Mitchell","","Andy","Liberal","Libéral",Y,N,67
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153B","Bracebridge",N,N,"",0,291,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,23
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153B","Bracebridge",N,N,"",0,291,"Clement","","Tony","Conservative","Conservateur",N,Y,42
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153B","Bracebridge",N,N,"",0,291,"Hodgson","","Glen","Green Party","Parti Vert",N,N,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 153B","Bracebridge",N,N,"",0,291,"Mitchell","","Andy","Liberal","Libéral",Y,N,67
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 154","Beaumaris",N,N,"",3,416,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 154","Beaumaris",N,N,"",3,416,"Clement","","Tony","Conservative","Conservateur",N,Y,99
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 154","Beaumaris",N,N,"",3,416,"Hodgson","","Glen","Green Party","Parti Vert",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 154","Beaumaris",N,N,"",3,416,"Mitchell","","Andy","Liberal","Libéral",Y,N,135
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 155","Muskoka Lakes",N,N,"",1,151,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,8
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 155","Muskoka Lakes",N,N,"",1,151,"Clement","","Tony","Conservative","Conservateur",N,Y,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 155","Muskoka Lakes",N,N,"",1,151,"Hodgson","","Glen","Green Party","Parti Vert",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 155","Muskoka Lakes",N,N,"",1,151,"Mitchell","","Andy","Liberal","Libéral",Y,N,36
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 156","Bracebridge",N,N,"",0,537,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 156","Bracebridge",N,N,"",0,537,"Clement","","Tony","Conservative","Conservateur",N,Y,79
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 156","Bracebridge",N,N,"",0,537,"Hodgson","","Glen","Green Party","Parti Vert",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 156","Bracebridge",N,N,"",0,537,"Mitchell","","Andy","Liberal","Libéral",Y,N,126
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 157","Bracebridge",N,N,"",1,429,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 157","Bracebridge",N,N,"",1,429,"Clement","","Tony","Conservative","Conservateur",N,Y,75
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 157","Bracebridge",N,N,"",1,429,"Hodgson","","Glen","Green Party","Parti Vert",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 157","Bracebridge",N,N,"",1,429,"Mitchell","","Andy","Liberal","Libéral",Y,N,100
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 158","Baysville",N,N,"",0,322,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 158","Baysville",N,N,"",0,322,"Clement","","Tony","Conservative","Conservateur",N,Y,82
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 158","Baysville",N,N,"",0,322,"Hodgson","","Glen","Green Party","Parti Vert",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 158","Baysville",N,N,"",0,322,"Mitchell","","Andy","Liberal","Libéral",Y,N,105
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 159","Dorset",N,N,"",0,308,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,38
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 159","Dorset",N,N,"",0,308,"Clement","","Tony","Conservative","Conservateur",N,Y,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 159","Dorset",N,N,"",0,308,"Hodgson","","Glen","Green Party","Parti Vert",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 159","Dorset",N,N,"",0,308,"Mitchell","","Andy","Liberal","Libéral",Y,N,76
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 160","Baysville",N,N,"",0,407,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 160","Baysville",N,N,"",0,407,"Clement","","Tony","Conservative","Conservateur",N,Y,93
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 160","Baysville",N,N,"",0,407,"Hodgson","","Glen","Green Party","Parti Vert",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 160","Baysville",N,N,"",0,407,"Mitchell","","Andy","Liberal","Libéral",Y,N,114
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161A","Bracebridge",N,N,"",0,439,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161A","Bracebridge",N,N,"",0,439,"Clement","","Tony","Conservative","Conservateur",N,Y,77
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161A","Bracebridge",N,N,"",0,439,"Hodgson","","Glen","Green Party","Parti Vert",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161A","Bracebridge",N,N,"",0,439,"Mitchell","","Andy","Liberal","Libéral",Y,N,91
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161B","Bracebridge",N,N,"",0,406,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161B","Bracebridge",N,N,"",0,406,"Clement","","Tony","Conservative","Conservateur",N,Y,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161B","Bracebridge",N,N,"",0,406,"Hodgson","","Glen","Green Party","Parti Vert",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 161B","Bracebridge",N,N,"",0,406,"Mitchell","","Andy","Liberal","Libéral",Y,N,67
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 162","Bracebridge",N,N,"",1,407,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 162","Bracebridge",N,N,"",1,407,"Clement","","Tony","Conservative","Conservateur",N,Y,56
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 162","Bracebridge",N,N,"",1,407,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 162","Bracebridge",N,N,"",1,407,"Mitchell","","Andy","Liberal","Libéral",Y,N,100
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 163","Bracebridge",N,N,"",0,295,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 163","Bracebridge",N,N,"",0,295,"Clement","","Tony","Conservative","Conservateur",N,Y,46
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 163","Bracebridge",N,N,"",0,295,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 163","Bracebridge",N,N,"",0,295,"Mitchell","","Andy","Liberal","Libéral",Y,N,73
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 164","Bracebridge",N,N,"",0,462,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 164","Bracebridge",N,N,"",0,462,"Clement","","Tony","Conservative","Conservateur",N,Y,100
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 164","Bracebridge",N,N,"",0,462,"Hodgson","","Glen","Green Party","Parti Vert",N,N,23
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 164","Bracebridge",N,N,"",0,462,"Mitchell","","Andy","Liberal","Libéral",Y,N,112
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 165","Bracebridge",N,N,"",0,324,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 165","Bracebridge",N,N,"",0,324,"Clement","","Tony","Conservative","Conservateur",N,Y,57
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 165","Bracebridge",N,N,"",0,324,"Hodgson","","Glen","Green Party","Parti Vert",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 165","Bracebridge",N,N,"",0,324,"Mitchell","","Andy","Liberal","Libéral",Y,N,77
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 166","Bracebridge",N,N,"",1,283,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 166","Bracebridge",N,N,"",1,283,"Clement","","Tony","Conservative","Conservateur",N,Y,48
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 166","Bracebridge",N,N,"",1,283,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 166","Bracebridge",N,N,"",1,283,"Mitchell","","Andy","Liberal","Libéral",Y,N,73
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 167","Muskoka Lakes",N,N,"",0,178,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 167","Muskoka Lakes",N,N,"",0,178,"Clement","","Tony","Conservative","Conservateur",N,Y,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 167","Muskoka Lakes",N,N,"",0,178,"Hodgson","","Glen","Green Party","Parti Vert",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 167","Muskoka Lakes",N,N,"",0,178,"Mitchell","","Andy","Liberal","Libéral",Y,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 168","Bracebridge",N,N,"",0,434,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 168","Bracebridge",N,N,"",0,434,"Clement","","Tony","Conservative","Conservateur",N,Y,75
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 168","Bracebridge",N,N,"",0,434,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 168","Bracebridge",N,N,"",0,434,"Mitchell","","Andy","Liberal","Libéral",Y,N,109
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169A","Bracebridge",N,N,"",0,447,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,36
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169A","Bracebridge",N,N,"",0,447,"Clement","","Tony","Conservative","Conservateur",N,Y,86
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169A","Bracebridge",N,N,"",0,447,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169A","Bracebridge",N,N,"",0,447,"Mitchell","","Andy","Liberal","Libéral",Y,N,129
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169B","Bracebridge",N,N,"",2,374,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169B","Bracebridge",N,N,"",2,374,"Clement","","Tony","Conservative","Conservateur",N,Y,91
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169B","Bracebridge",N,N,"",2,374,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 169B","Bracebridge",N,N,"",2,374,"Mitchell","","Andy","Liberal","Libéral",Y,N,75
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 170","Bracebridge",N,N,"",1,377,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 170","Bracebridge",N,N,"",1,377,"Clement","","Tony","Conservative","Conservateur",N,Y,51
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 170","Bracebridge",N,N,"",1,377,"Hodgson","","Glen","Green Party","Parti Vert",N,N,14
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 170","Bracebridge",N,N,"",1,377,"Mitchell","","Andy","Liberal","Libéral",Y,N,79
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 171","Bracebridge",N,N,"",0,221,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 171","Bracebridge",N,N,"",0,221,"Clement","","Tony","Conservative","Conservateur",N,Y,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 171","Bracebridge",N,N,"",0,221,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 171","Bracebridge",N,N,"",0,221,"Mitchell","","Andy","Liberal","Libéral",Y,N,61
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 172","Bracebridge",N,N,"",1,384,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 172","Bracebridge",N,N,"",1,384,"Clement","","Tony","Conservative","Conservateur",N,Y,72
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 172","Bracebridge",N,N,"",1,384,"Hodgson","","Glen","Green Party","Parti Vert",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 172","Bracebridge",N,N,"",1,384,"Mitchell","","Andy","Liberal","Libéral",Y,N,88
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173A","Bracebridge",N,N,"",0,257,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173A","Bracebridge",N,N,"",0,257,"Clement","","Tony","Conservative","Conservateur",N,Y,50
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173A","Bracebridge",N,N,"",0,257,"Hodgson","","Glen","Green Party","Parti Vert",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173A","Bracebridge",N,N,"",0,257,"Mitchell","","Andy","Liberal","Libéral",Y,N,52
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173B","Bracebridge",N,N,"",0,207,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,12
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173B","Bracebridge",N,N,"",0,207,"Clement","","Tony","Conservative","Conservateur",N,Y,41
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173B","Bracebridge",N,N,"",0,207,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 173B","Bracebridge",N,N,"",0,207,"Mitchell","","Andy","Liberal","Libéral",Y,N,51
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 174","Bracebridge",N,N,"",1,542,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,44
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 174","Bracebridge",N,N,"",1,542,"Clement","","Tony","Conservative","Conservateur",N,Y,113
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 174","Bracebridge",N,N,"",1,542,"Hodgson","","Glen","Green Party","Parti Vert",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 174","Bracebridge",N,N,"",1,542,"Mitchell","","Andy","Liberal","Libéral",Y,N,120
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 175","Bracebridge",N,N,"",1,358,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,39
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 175","Bracebridge",N,N,"",1,358,"Clement","","Tony","Conservative","Conservateur",N,Y,54
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 175","Bracebridge",N,N,"",1,358,"Hodgson","","Glen","Green Party","Parti Vert",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 175","Bracebridge",N,N,"",1,358,"Mitchell","","Andy","Liberal","Libéral",Y,N,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 176","Bracebridge",N,N,"",0,345,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,39
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 176","Bracebridge",N,N,"",0,345,"Clement","","Tony","Conservative","Conservateur",N,Y,62
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 176","Bracebridge",N,N,"",0,345,"Hodgson","","Glen","Green Party","Parti Vert",N,N,20
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 176","Bracebridge",N,N,"",0,345,"Mitchell","","Andy","Liberal","Libéral",Y,N,84
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 400","Bracebridge",N,N,"",1,161,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,2
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 400","Bracebridge",N,N,"",1,161,"Clement","","Tony","Conservative","Conservateur",N,Y,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 400","Bracebridge",N,N,"",1,161,"Hodgson","","Glen","Green Party","Parti Vert",N,N,1
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 400","Bracebridge",N,N,"",1,161,"Mitchell","","Andy","Liberal","Libéral",Y,N,22
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 500","Mobile poll/Bureau itinérant",N,N,"",1,182,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 500","Mobile poll/Bureau itinérant",N,N,"",1,182,"Clement","","Tony","Conservative","Conservateur",N,Y,45
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 500","Mobile poll/Bureau itinérant",N,N,"",1,182,"Hodgson","","Glen","Green Party","Parti Vert",N,N,2
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 500","Mobile poll/Bureau itinérant",N,N,"",1,182,"Mitchell","","Andy","Liberal","Libéral",Y,N,40
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 501","Mobile poll/Bureau itinérant",N,N,"",4,182,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,7
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 501","Mobile poll/Bureau itinérant",N,N,"",4,182,"Clement","","Tony","Conservative","Conservateur",N,Y,33
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 501","Mobile poll/Bureau itinérant",N,N,"",4,182,"Hodgson","","Glen","Green Party","Parti Vert",N,N,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 501","Mobile poll/Bureau itinérant",N,N,"",4,182,"Mitchell","","Andy","Liberal","Libéral",Y,N,32
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 502","Mobile poll/Bureau itinérant",N,N,"",1,147,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 502","Mobile poll/Bureau itinérant",N,N,"",1,147,"Clement","","Tony","Conservative","Conservateur",N,Y,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 502","Mobile poll/Bureau itinérant",N,N,"",1,147,"Hodgson","","Glen","Green Party","Parti Vert",N,N,4
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 502","Mobile poll/Bureau itinérant",N,N,"",1,147,"Mitchell","","Andy","Liberal","Libéral",Y,N,60
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 503","Mobile poll/Bureau itinérant",N,N,"",0,230,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 503","Mobile poll/Bureau itinérant",N,N,"",0,230,"Clement","","Tony","Conservative","Conservateur",N,Y,24
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 503","Mobile poll/Bureau itinérant",N,N,"",0,230,"Hodgson","","Glen","Green Party","Parti Vert",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 503","Mobile poll/Bureau itinérant",N,N,"",0,230,"Mitchell","","Andy","Liberal","Libéral",Y,N,52
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 504","Mobile poll/Bureau itinérant",N,N,"",0,124,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,6
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 504","Mobile poll/Bureau itinérant",N,N,"",0,124,"Clement","","Tony","Conservative","Conservateur",N,Y,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 504","Mobile poll/Bureau itinérant",N,N,"",0,124,"Hodgson","","Glen","Green Party","Parti Vert",N,N,3
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 504","Mobile poll/Bureau itinérant",N,N,"",0,124,"Mitchell","","Andy","Liberal","Libéral",Y,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 600","Britt",N,N,"",0,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,5
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 600","Britt",N,N,"",0,0,"Clement","","Tony","Conservative","Conservateur",N,Y,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 600","Britt",N,N,"",0,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,2
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 600","Britt",N,N,"",0,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,25
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 601","Port Loring",N,N,"",0,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,11
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 601","Port Loring",N,N,"",0,0,"Clement","","Tony","Conservative","Conservateur",N,Y,41
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 601","Port Loring",N,N,"",0,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,4
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 601","Port Loring",N,N,"",0,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,31
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 602","Sundridge",N,N,"",0,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,37
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 602","Sundridge",N,N,"",0,0,"Clement","","Tony","Conservative","Conservateur",N,Y,253
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 602","Sundridge",N,N,"",0,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,15
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 602","Sundridge",N,N,"",0,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,136
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 603","Burk's Falls",N,N,"",2,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,49
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 603","Burk's Falls",N,N,"",2,0,"Clement","","Tony","Conservative","Conservateur",N,Y,271
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 603","Burk's Falls",N,N,"",2,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,30
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 603","Burk's Falls",N,N,"",2,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,173
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 604","McDougall",N,N,"",3,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,19
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 604","McDougall",N,N,"",3,0,"Clement","","Tony","Conservative","Conservateur",N,Y,173
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 604","McDougall",N,N,"",3,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,18
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 604","McDougall",N,N,"",3,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,96
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 605","Parry Sound",N,N,"",0,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,47
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 605","Parry Sound",N,N,"",0,0,"Clement","","Tony","Conservative","Conservateur",N,Y,265
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 605","Parry Sound",N,N,"",0,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,53
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 605","Parry Sound",N,N,"",0,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,270
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 606","The Archipelago--Seguin",N,N,"",3,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,26
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 606","The Archipelago--Seguin",N,N,"",3,0,"Clement","","Tony","Conservative","Conservateur",N,Y,128
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 606","The Archipelago--Seguin",N,N,"",3,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,21
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 606","The Archipelago--Seguin",N,N,"",3,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,97
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 607","Huntsville",N,N,"",1,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,56
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 607","Huntsville",N,N,"",1,0,"Clement","","Tony","Conservative","Conservateur",N,Y,364
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 607","Huntsville",N,N,"",1,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,60
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 607","Huntsville",N,N,"",1,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,298
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 608","Huntsville",N,N,"",1,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,39
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 608","Huntsville",N,N,"",1,0,"Clement","","Tony","Conservative","Conservateur",N,Y,165
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 608","Huntsville",N,N,"",1,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,23
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 608","Huntsville",N,N,"",1,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,178
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 609","Huntsville",N,N,"",2,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,52
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 609","Huntsville",N,N,"",2,0,"Clement","","Tony","Conservative","Conservateur",N,Y,245
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 609","Huntsville",N,N,"",2,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,46
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 609","Huntsville",N,N,"",2,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,210
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 610","Georgian Bay",N,N,"",1,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,17
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 610","Georgian Bay",N,N,"",1,0,"Clement","","Tony","Conservative","Conservateur",N,Y,191
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 610","Georgian Bay",N,N,"",1,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,13
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 610","Georgian Bay",N,N,"",1,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,106
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 611","Gravenhurst",N,N,"",1,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,53
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 611","Gravenhurst",N,N,"",1,0,"Clement","","Tony","Conservative","Conservateur",N,Y,210
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 611","Gravenhurst",N,N,"",1,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,27
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 611","Gravenhurst",N,N,"",1,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,194
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 612","Gravenhurst",N,N,"",2,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,50
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 612","Gravenhurst",N,N,"",2,0,"Clement","","Tony","Conservative","Conservateur",N,Y,315
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 612","Gravenhurst",N,N,"",2,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,35
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 612","Gravenhurst",N,N,"",2,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,370
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 613","Bracebridge",N,N,"",3,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,52
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 613","Bracebridge",N,N,"",3,0,"Clement","","Tony","Conservative","Conservateur",N,Y,405
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 613","Bracebridge",N,N,"",3,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,34
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 613","Bracebridge",N,N,"",3,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,310
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 614","Bracebridge",N,N,"",2,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,80
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 614","Bracebridge",N,N,"",2,0,"Clement","","Tony","Conservative","Conservateur",N,Y,479
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 614","Bracebridge",N,N,"",2,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,59
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," 614","Bracebridge",N,N,"",2,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,481
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,203,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,10
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,203,"Clement","","Tony","Conservative","Conservateur",N,Y,43
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,203,"Hodgson","","Glen","Green Party","Parti Vert",N,N,16
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,203,"Mitchell","","Andy","Liberal","Libéral",Y,N,29
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"Boulding","","Jo-Anne","N.D.P.","N.P.D.",N,N,170
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"Clement","","Tony","Conservative","Conservateur",N,Y,1112
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"Hodgson","","Glen","Green Party","Parti Vert",N,N,165
+35069,"Parry Sound--Muskoka","Parry Sound--Muskoka"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"Mitchell","","Andy","Liberal","Libéral",Y,N,997

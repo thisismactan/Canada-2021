@@ -1,0 +1,886 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35106,"York West","York-Ouest"," 1","North York",N,N,"",1,432,"Capra","","Nick","Green Party","Parti Vert",N,N,9
+35106,"York West","York-Ouest"," 1","North York",N,N,"",1,432,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 1","North York",N,N,"",1,432,"Gill","","Parm","Conservative","Conservateur",N,N,47
+35106,"York West","York-Ouest"," 1","North York",N,N,"",1,432,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,31
+35106,"York West","York-Ouest"," 1","North York",N,N,"",1,432,"Sgro","","Judy","Liberal","Libéral",Y,Y,189
+35106,"York West","York-Ouest"," 2","North York",N,N,"",1,463,"Capra","","Nick","Green Party","Parti Vert",N,N,13
+35106,"York West","York-Ouest"," 2","North York",N,N,"",1,463,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 2","North York",N,N,"",1,463,"Gill","","Parm","Conservative","Conservateur",N,N,41
+35106,"York West","York-Ouest"," 2","North York",N,N,"",1,463,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,12
+35106,"York West","York-Ouest"," 2","North York",N,N,"",1,463,"Sgro","","Judy","Liberal","Libéral",Y,Y,209
+35106,"York West","York-Ouest"," 3","North York",N,N,"",3,343,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 3","North York",N,N,"",3,343,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 3","North York",N,N,"",3,343,"Gill","","Parm","Conservative","Conservateur",N,N,30
+35106,"York West","York-Ouest"," 3","North York",N,N,"",3,343,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,17
+35106,"York West","York-Ouest"," 3","North York",N,N,"",3,343,"Sgro","","Judy","Liberal","Libéral",Y,Y,139
+35106,"York West","York-Ouest"," 4A","North York",N,N,"",0,320,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 4A","North York",N,N,"",0,320,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 4A","North York",N,N,"",0,320,"Gill","","Parm","Conservative","Conservateur",N,N,35
+35106,"York West","York-Ouest"," 4A","North York",N,N,"",0,320,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 4A","North York",N,N,"",0,320,"Sgro","","Judy","Liberal","Libéral",Y,Y,110
+35106,"York West","York-Ouest"," 4B","North York",N,N,"",2,307,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 4B","North York",N,N,"",2,307,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 4B","North York",N,N,"",2,307,"Gill","","Parm","Conservative","Conservateur",N,N,29
+35106,"York West","York-Ouest"," 4B","North York",N,N,"",2,307,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,25
+35106,"York West","York-Ouest"," 4B","North York",N,N,"",2,307,"Sgro","","Judy","Liberal","Libéral",Y,Y,92
+35106,"York West","York-Ouest"," 5","North York",N,N,"",0,314,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 5","North York",N,N,"",0,314,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 5","North York",N,N,"",0,314,"Gill","","Parm","Conservative","Conservateur",N,N,38
+35106,"York West","York-Ouest"," 5","North York",N,N,"",0,314,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,16
+35106,"York West","York-Ouest"," 5","North York",N,N,"",0,314,"Sgro","","Judy","Liberal","Libéral",Y,Y,136
+35106,"York West","York-Ouest"," 6","North York",N,N,"",1,345,"Capra","","Nick","Green Party","Parti Vert",N,N,19
+35106,"York West","York-Ouest"," 6","North York",N,N,"",1,345,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 6","North York",N,N,"",1,345,"Gill","","Parm","Conservative","Conservateur",N,N,47
+35106,"York West","York-Ouest"," 6","North York",N,N,"",1,345,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,27
+35106,"York West","York-Ouest"," 6","North York",N,N,"",1,345,"Sgro","","Judy","Liberal","Libéral",Y,Y,146
+35106,"York West","York-Ouest"," 7","North York",N,N,"",0,361,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 7","North York",N,N,"",0,361,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 7","North York",N,N,"",0,361,"Gill","","Parm","Conservative","Conservateur",N,N,48
+35106,"York West","York-Ouest"," 7","North York",N,N,"",0,361,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 7","North York",N,N,"",0,361,"Sgro","","Judy","Liberal","Libéral",Y,Y,137
+35106,"York West","York-Ouest"," 8","North York",N,N,"",6,355,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 8","North York",N,N,"",6,355,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 8","North York",N,N,"",6,355,"Gill","","Parm","Conservative","Conservateur",N,N,46
+35106,"York West","York-Ouest"," 8","North York",N,N,"",6,355,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,30
+35106,"York West","York-Ouest"," 8","North York",N,N,"",6,355,"Sgro","","Judy","Liberal","Libéral",Y,Y,138
+35106,"York West","York-Ouest"," 9","North York",N,N,"",4,317,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 9","North York",N,N,"",4,317,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 9","North York",N,N,"",4,317,"Gill","","Parm","Conservative","Conservateur",N,N,27
+35106,"York West","York-Ouest"," 9","North York",N,N,"",4,317,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,14
+35106,"York West","York-Ouest"," 9","North York",N,N,"",4,317,"Sgro","","Judy","Liberal","Libéral",Y,Y,105
+35106,"York West","York-Ouest"," 10","North York",N,N,"",0,355,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 10","North York",N,N,"",0,355,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 10","North York",N,N,"",0,355,"Gill","","Parm","Conservative","Conservateur",N,N,47
+35106,"York West","York-Ouest"," 10","North York",N,N,"",0,355,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 10","North York",N,N,"",0,355,"Sgro","","Judy","Liberal","Libéral",Y,Y,149
+35106,"York West","York-Ouest"," 11","North York",N,N,"",0,509,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 11","North York",N,N,"",0,509,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 11","North York",N,N,"",0,509,"Gill","","Parm","Conservative","Conservateur",N,N,77
+35106,"York West","York-Ouest"," 11","North York",N,N,"",0,509,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,23
+35106,"York West","York-Ouest"," 11","North York",N,N,"",0,509,"Sgro","","Judy","Liberal","Libéral",Y,Y,169
+35106,"York West","York-Ouest"," 12","North York",N,N,"",2,499,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 12","North York",N,N,"",2,499,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 12","North York",N,N,"",2,499,"Gill","","Parm","Conservative","Conservateur",N,N,62
+35106,"York West","York-Ouest"," 12","North York",N,N,"",2,499,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,47
+35106,"York West","York-Ouest"," 12","North York",N,N,"",2,499,"Sgro","","Judy","Liberal","Libéral",Y,Y,149
+35106,"York West","York-Ouest"," 13","North York",N,N,"",0,295,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 13","North York",N,N,"",0,295,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 13","North York",N,N,"",0,295,"Gill","","Parm","Conservative","Conservateur",N,N,22
+35106,"York West","York-Ouest"," 13","North York",N,N,"",0,295,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 13","North York",N,N,"",0,295,"Sgro","","Judy","Liberal","Libéral",Y,Y,147
+35106,"York West","York-Ouest"," 14","North York",N,N,"",0,234,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 14","North York",N,N,"",0,234,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 14","North York",N,N,"",0,234,"Gill","","Parm","Conservative","Conservateur",N,N,30
+35106,"York West","York-Ouest"," 14","North York",N,N,"",0,234,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,14
+35106,"York West","York-Ouest"," 14","North York",N,N,"",0,234,"Sgro","","Judy","Liberal","Libéral",Y,Y,93
+35106,"York West","York-Ouest"," 15A","North York",N,N,"",0,295,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 15A","North York",N,N,"",0,295,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 15A","North York",N,N,"",0,295,"Gill","","Parm","Conservative","Conservateur",N,N,21
+35106,"York West","York-Ouest"," 15A","North York",N,N,"",0,295,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,10
+35106,"York West","York-Ouest"," 15A","North York",N,N,"",0,295,"Sgro","","Judy","Liberal","Libéral",Y,Y,98
+35106,"York West","York-Ouest"," 15B","North York",N,N,"",0,300,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 15B","North York",N,N,"",0,300,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 15B","North York",N,N,"",0,300,"Gill","","Parm","Conservative","Conservateur",N,N,16
+35106,"York West","York-Ouest"," 15B","North York",N,N,"",0,300,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,11
+35106,"York West","York-Ouest"," 15B","North York",N,N,"",0,300,"Sgro","","Judy","Liberal","Libéral",Y,Y,111
+35106,"York West","York-Ouest"," 16","North York",N,N,"",1,389,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 16","North York",N,N,"",1,389,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 16","North York",N,N,"",1,389,"Gill","","Parm","Conservative","Conservateur",N,N,34
+35106,"York West","York-Ouest"," 16","North York",N,N,"",1,389,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,19
+35106,"York West","York-Ouest"," 16","North York",N,N,"",1,389,"Sgro","","Judy","Liberal","Libéral",Y,Y,151
+35106,"York West","York-Ouest"," 17","North York",N,N,"",3,545,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 17","North York",N,N,"",3,545,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 17","North York",N,N,"",3,545,"Gill","","Parm","Conservative","Conservateur",N,N,45
+35106,"York West","York-Ouest"," 17","North York",N,N,"",3,545,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,32
+35106,"York West","York-Ouest"," 17","North York",N,N,"",3,545,"Sgro","","Judy","Liberal","Libéral",Y,Y,181
+35106,"York West","York-Ouest"," 18","North York",N,N,"",1,370,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 18","North York",N,N,"",1,370,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 18","North York",N,N,"",1,370,"Gill","","Parm","Conservative","Conservateur",N,N,42
+35106,"York West","York-Ouest"," 18","North York",N,N,"",1,370,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,20
+35106,"York West","York-Ouest"," 18","North York",N,N,"",1,370,"Sgro","","Judy","Liberal","Libéral",Y,Y,86
+35106,"York West","York-Ouest"," 19","North York",Y,N,"",0,0,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 19","North York",Y,N,"",0,0,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 19","North York",Y,N,"",0,0,"Gill","","Parm","Conservative","Conservateur",N,N,0
+35106,"York West","York-Ouest"," 19","North York",Y,N,"",0,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,0
+35106,"York West","York-Ouest"," 19","North York",Y,N,"",0,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,0
+35106,"York West","York-Ouest"," 20","North York",N,N,"",0,248,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 20","North York",N,N,"",0,248,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 20","North York",N,N,"",0,248,"Gill","","Parm","Conservative","Conservateur",N,N,26
+35106,"York West","York-Ouest"," 20","North York",N,N,"",0,248,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,13
+35106,"York West","York-Ouest"," 20","North York",N,N,"",0,248,"Sgro","","Judy","Liberal","Libéral",Y,Y,91
+35106,"York West","York-Ouest"," 21","North York",N,N,"",0,307,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 21","North York",N,N,"",0,307,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 21","North York",N,N,"",0,307,"Gill","","Parm","Conservative","Conservateur",N,N,21
+35106,"York West","York-Ouest"," 21","North York",N,N,"",0,307,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,15
+35106,"York West","York-Ouest"," 21","North York",N,N,"",0,307,"Sgro","","Judy","Liberal","Libéral",Y,Y,68
+35106,"York West","York-Ouest"," 22","North York",N,N,"",1,383,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 22","North York",N,N,"",1,383,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 22","North York",N,N,"",1,383,"Gill","","Parm","Conservative","Conservateur",N,N,40
+35106,"York West","York-Ouest"," 22","North York",N,N,"",1,383,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,23
+35106,"York West","York-Ouest"," 22","North York",N,N,"",1,383,"Sgro","","Judy","Liberal","Libéral",Y,Y,93
+35106,"York West","York-Ouest"," 23","North York",N,N,"",5,507,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 23","North York",N,N,"",5,507,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 23","North York",N,N,"",5,507,"Gill","","Parm","Conservative","Conservateur",N,N,61
+35106,"York West","York-Ouest"," 23","North York",N,N,"",5,507,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,42
+35106,"York West","York-Ouest"," 23","North York",N,N,"",5,507,"Sgro","","Judy","Liberal","Libéral",Y,Y,136
+35106,"York West","York-Ouest"," 24A","North York",N,N,"",1,285,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 24A","North York",N,N,"",1,285,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 24A","North York",N,N,"",1,285,"Gill","","Parm","Conservative","Conservateur",N,N,26
+35106,"York West","York-Ouest"," 24A","North York",N,N,"",1,285,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 24A","North York",N,N,"",1,285,"Sgro","","Judy","Liberal","Libéral",Y,Y,62
+35106,"York West","York-Ouest"," 24B","North York",N,N,"",0,326,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 24B","North York",N,N,"",0,326,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 24B","North York",N,N,"",0,326,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 24B","North York",N,N,"",0,326,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,17
+35106,"York West","York-Ouest"," 24B","North York",N,N,"",0,326,"Sgro","","Judy","Liberal","Libéral",Y,Y,69
+35106,"York West","York-Ouest"," 25","North York",N,N,"",0,313,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 25","North York",N,N,"",0,313,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 25","North York",N,N,"",0,313,"Gill","","Parm","Conservative","Conservateur",N,N,37
+35106,"York West","York-Ouest"," 25","North York",N,N,"",0,313,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,9
+35106,"York West","York-Ouest"," 25","North York",N,N,"",0,313,"Sgro","","Judy","Liberal","Libéral",Y,Y,132
+35106,"York West","York-Ouest"," 26","North York",N,N,"",0,443,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 26","North York",N,N,"",0,443,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 26","North York",N,N,"",0,443,"Gill","","Parm","Conservative","Conservateur",N,N,47
+35106,"York West","York-Ouest"," 26","North York",N,N,"",0,443,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,20
+35106,"York West","York-Ouest"," 26","North York",N,N,"",0,443,"Sgro","","Judy","Liberal","Libéral",Y,Y,209
+35106,"York West","York-Ouest"," 27","North York",N,N,"",2,459,"Capra","","Nick","Green Party","Parti Vert",N,N,14
+35106,"York West","York-Ouest"," 27","North York",N,N,"",2,459,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 27","North York",N,N,"",2,459,"Gill","","Parm","Conservative","Conservateur",N,N,43
+35106,"York West","York-Ouest"," 27","North York",N,N,"",2,459,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,40
+35106,"York West","York-Ouest"," 27","North York",N,N,"",2,459,"Sgro","","Judy","Liberal","Libéral",Y,Y,174
+35106,"York West","York-Ouest"," 28","North York",N,N,"",1,525,"Capra","","Nick","Green Party","Parti Vert",N,N,10
+35106,"York West","York-Ouest"," 28","North York",N,N,"",1,525,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 28","North York",N,N,"",1,525,"Gill","","Parm","Conservative","Conservateur",N,N,40
+35106,"York West","York-Ouest"," 28","North York",N,N,"",1,525,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,59
+35106,"York West","York-Ouest"," 28","North York",N,N,"",1,525,"Sgro","","Judy","Liberal","Libéral",Y,Y,164
+35106,"York West","York-Ouest"," 29","North York",N,N,"",3,486,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 29","North York",N,N,"",3,486,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 29","North York",N,N,"",3,486,"Gill","","Parm","Conservative","Conservateur",N,N,38
+35106,"York West","York-Ouest"," 29","North York",N,N,"",3,486,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,27
+35106,"York West","York-Ouest"," 29","North York",N,N,"",3,486,"Sgro","","Judy","Liberal","Libéral",Y,Y,148
+35106,"York West","York-Ouest"," 30","North York",N,N,"",3,557,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 30","North York",N,N,"",3,557,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 30","North York",N,N,"",3,557,"Gill","","Parm","Conservative","Conservateur",N,N,16
+35106,"York West","York-Ouest"," 30","North York",N,N,"",3,557,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,45
+35106,"York West","York-Ouest"," 30","North York",N,N,"",3,557,"Sgro","","Judy","Liberal","Libéral",Y,Y,193
+35106,"York West","York-Ouest"," 31","North York",N,N,"",1,427,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 31","North York",N,N,"",1,427,"Cocon","","Axcel","Independent","Indépendant",N,N,7
+35106,"York West","York-Ouest"," 31","North York",N,N,"",1,427,"Gill","","Parm","Conservative","Conservateur",N,N,37
+35106,"York West","York-Ouest"," 31","North York",N,N,"",1,427,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,15
+35106,"York West","York-Ouest"," 31","North York",N,N,"",1,427,"Sgro","","Judy","Liberal","Libéral",Y,Y,96
+35106,"York West","York-Ouest"," 32","North York",N,N,"",3,427,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 32","North York",N,N,"",3,427,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 32","North York",N,N,"",3,427,"Gill","","Parm","Conservative","Conservateur",N,N,35
+35106,"York West","York-Ouest"," 32","North York",N,N,"",3,427,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,32
+35106,"York West","York-Ouest"," 32","North York",N,N,"",3,427,"Sgro","","Judy","Liberal","Libéral",Y,Y,114
+35106,"York West","York-Ouest"," 33","North York",N,N,"",1,480,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 33","North York",N,N,"",1,480,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 33","North York",N,N,"",1,480,"Gill","","Parm","Conservative","Conservateur",N,N,21
+35106,"York West","York-Ouest"," 33","North York",N,N,"",1,480,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 33","North York",N,N,"",1,480,"Sgro","","Judy","Liberal","Libéral",Y,Y,151
+35106,"York West","York-Ouest"," 34","North York",N,N,"",0,153,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 34","North York",N,N,"",0,153,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 34","North York",N,N,"",0,153,"Gill","","Parm","Conservative","Conservateur",N,N,16
+35106,"York West","York-Ouest"," 34","North York",N,N,"",0,153,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,13
+35106,"York West","York-Ouest"," 34","North York",N,N,"",0,153,"Sgro","","Judy","Liberal","Libéral",Y,Y,41
+35106,"York West","York-Ouest"," 35","North York",N,N,"",3,395,"Capra","","Nick","Green Party","Parti Vert",N,N,17
+35106,"York West","York-Ouest"," 35","North York",N,N,"",3,395,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 35","North York",N,N,"",3,395,"Gill","","Parm","Conservative","Conservateur",N,N,57
+35106,"York West","York-Ouest"," 35","North York",N,N,"",3,395,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 35","North York",N,N,"",3,395,"Sgro","","Judy","Liberal","Libéral",Y,Y,135
+35106,"York West","York-Ouest"," 36","North York",N,N,"",0,410,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 36","North York",N,N,"",0,410,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 36","North York",N,N,"",0,410,"Gill","","Parm","Conservative","Conservateur",N,N,39
+35106,"York West","York-Ouest"," 36","North York",N,N,"",0,410,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,33
+35106,"York West","York-Ouest"," 36","North York",N,N,"",0,410,"Sgro","","Judy","Liberal","Libéral",Y,Y,124
+35106,"York West","York-Ouest"," 37","North York",N,N,"",0,279,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 37","North York",N,N,"",0,279,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 37","North York",N,N,"",0,279,"Gill","","Parm","Conservative","Conservateur",N,N,26
+35106,"York West","York-Ouest"," 37","North York",N,N,"",0,279,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,17
+35106,"York West","York-Ouest"," 37","North York",N,N,"",0,279,"Sgro","","Judy","Liberal","Libéral",Y,Y,99
+35106,"York West","York-Ouest"," 38","North York",N,N,"",2,307,"Capra","","Nick","Green Party","Parti Vert",N,N,13
+35106,"York West","York-Ouest"," 38","North York",N,N,"",2,307,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 38","North York",N,N,"",2,307,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 38","North York",N,N,"",2,307,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,27
+35106,"York West","York-Ouest"," 38","North York",N,N,"",2,307,"Sgro","","Judy","Liberal","Libéral",Y,Y,107
+35106,"York West","York-Ouest"," 39","North York",N,N,"",1,343,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 39","North York",N,N,"",1,343,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 39","North York",N,N,"",1,343,"Gill","","Parm","Conservative","Conservateur",N,N,30
+35106,"York West","York-Ouest"," 39","North York",N,N,"",1,343,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 39","North York",N,N,"",1,343,"Sgro","","Judy","Liberal","Libéral",Y,Y,94
+35106,"York West","York-Ouest"," 40","North York",N,N,"",0,312,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 40","North York",N,N,"",0,312,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 40","North York",N,N,"",0,312,"Gill","","Parm","Conservative","Conservateur",N,N,19
+35106,"York West","York-Ouest"," 40","North York",N,N,"",0,312,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,15
+35106,"York West","York-Ouest"," 40","North York",N,N,"",0,312,"Sgro","","Judy","Liberal","Libéral",Y,Y,85
+35106,"York West","York-Ouest"," 41","North York",N,N,"",2,405,"Capra","","Nick","Green Party","Parti Vert",N,N,11
+35106,"York West","York-Ouest"," 41","North York",N,N,"",2,405,"Cocon","","Axcel","Independent","Indépendant",N,N,4
+35106,"York West","York-Ouest"," 41","North York",N,N,"",2,405,"Gill","","Parm","Conservative","Conservateur",N,N,19
+35106,"York West","York-Ouest"," 41","North York",N,N,"",2,405,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,25
+35106,"York West","York-Ouest"," 41","North York",N,N,"",2,405,"Sgro","","Judy","Liberal","Libéral",Y,Y,167
+35106,"York West","York-Ouest"," 42A","North York",N,N,"",3,403,"Capra","","Nick","Green Party","Parti Vert",N,N,13
+35106,"York West","York-Ouest"," 42A","North York",N,N,"",3,403,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 42A","North York",N,N,"",3,403,"Gill","","Parm","Conservative","Conservateur",N,N,19
+35106,"York West","York-Ouest"," 42A","North York",N,N,"",3,403,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,39
+35106,"York West","York-Ouest"," 42A","North York",N,N,"",3,403,"Sgro","","Judy","Liberal","Libéral",Y,Y,128
+35106,"York West","York-Ouest"," 42B","Mobile poll/Bureau itinérant",N,N,"85B",0,52,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 42B","Mobile poll/Bureau itinérant",N,N,"85B",0,52,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 42B","Mobile poll/Bureau itinérant",N,N,"85B",0,52,"Gill","","Parm","Conservative","Conservateur",N,N,0
+35106,"York West","York-Ouest"," 42B","Mobile poll/Bureau itinérant",N,N,"85B",0,52,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,0
+35106,"York West","York-Ouest"," 42B","Mobile poll/Bureau itinérant",N,N,"85B",0,52,"Sgro","","Judy","Liberal","Libéral",Y,Y,0
+35106,"York West","York-Ouest"," 43","North York",N,N,"",0,262,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 43","North York",N,N,"",0,262,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 43","North York",N,N,"",0,262,"Gill","","Parm","Conservative","Conservateur",N,N,12
+35106,"York West","York-Ouest"," 43","North York",N,N,"",0,262,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,12
+35106,"York West","York-Ouest"," 43","North York",N,N,"",0,262,"Sgro","","Judy","Liberal","Libéral",Y,Y,86
+35106,"York West","York-Ouest"," 44A","North York",N,N,"",2,413,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 44A","North York",N,N,"",2,413,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 44A","North York",N,N,"",2,413,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 44A","North York",N,N,"",2,413,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,20
+35106,"York West","York-Ouest"," 44A","North York",N,N,"",2,413,"Sgro","","Judy","Liberal","Libéral",Y,Y,145
+35106,"York West","York-Ouest"," 44B","North York",N,N,"",1,410,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 44B","North York",N,N,"",1,410,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 44B","North York",N,N,"",1,410,"Gill","","Parm","Conservative","Conservateur",N,N,21
+35106,"York West","York-Ouest"," 44B","North York",N,N,"",1,410,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 44B","North York",N,N,"",1,410,"Sgro","","Judy","Liberal","Libéral",Y,Y,141
+35106,"York West","York-Ouest"," 45","North York",N,N,"",0,520,"Capra","","Nick","Green Party","Parti Vert",N,N,10
+35106,"York West","York-Ouest"," 45","North York",N,N,"",0,520,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 45","North York",N,N,"",0,520,"Gill","","Parm","Conservative","Conservateur",N,N,36
+35106,"York West","York-Ouest"," 45","North York",N,N,"",0,520,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,46
+35106,"York West","York-Ouest"," 45","North York",N,N,"",0,520,"Sgro","","Judy","Liberal","Libéral",Y,Y,134
+35106,"York West","York-Ouest"," 46","North York",N,N,"",0,357,"Capra","","Nick","Green Party","Parti Vert",N,N,19
+35106,"York West","York-Ouest"," 46","North York",N,N,"",0,357,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 46","North York",N,N,"",0,357,"Gill","","Parm","Conservative","Conservateur",N,N,35
+35106,"York West","York-Ouest"," 46","North York",N,N,"",0,357,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,78
+35106,"York West","York-Ouest"," 46","North York",N,N,"",0,357,"Sgro","","Judy","Liberal","Libéral",Y,Y,76
+35106,"York West","York-Ouest"," 47","North York",N,N,"",0,262,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 47","North York",N,N,"",0,262,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 47","North York",N,N,"",0,262,"Gill","","Parm","Conservative","Conservateur",N,N,14
+35106,"York West","York-Ouest"," 47","North York",N,N,"",0,262,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,50
+35106,"York West","York-Ouest"," 47","North York",N,N,"",0,262,"Sgro","","Judy","Liberal","Libéral",Y,Y,81
+35106,"York West","York-Ouest"," 48","North York",N,N,"",0,623,"Capra","","Nick","Green Party","Parti Vert",N,N,54
+35106,"York West","York-Ouest"," 48","North York",N,N,"",0,623,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 48","North York",N,N,"",0,623,"Gill","","Parm","Conservative","Conservateur",N,N,51
+35106,"York West","York-Ouest"," 48","North York",N,N,"",0,623,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,196
+35106,"York West","York-Ouest"," 48","North York",N,N,"",0,623,"Sgro","","Judy","Liberal","Libéral",Y,Y,199
+35106,"York West","York-Ouest"," 49","North York",N,N,"",1,476,"Capra","","Nick","Green Party","Parti Vert",N,N,12
+35106,"York West","York-Ouest"," 49","North York",N,N,"",1,476,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 49","North York",N,N,"",1,476,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 49","North York",N,N,"",1,476,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,74
+35106,"York West","York-Ouest"," 49","North York",N,N,"",1,476,"Sgro","","Judy","Liberal","Libéral",Y,Y,95
+35106,"York West","York-Ouest"," 50","North York",Y,N,"",0,0,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 50","North York",Y,N,"",0,0,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 50","North York",Y,N,"",0,0,"Gill","","Parm","Conservative","Conservateur",N,N,0
+35106,"York West","York-Ouest"," 50","North York",Y,N,"",0,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,0
+35106,"York West","York-Ouest"," 50","North York",Y,N,"",0,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,0
+35106,"York West","York-Ouest"," 51","North York",N,N,"",1,325,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 51","North York",N,N,"",1,325,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 51","North York",N,N,"",1,325,"Gill","","Parm","Conservative","Conservateur",N,N,41
+35106,"York West","York-Ouest"," 51","North York",N,N,"",1,325,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 51","North York",N,N,"",1,325,"Sgro","","Judy","Liberal","Libéral",Y,Y,75
+35106,"York West","York-Ouest"," 52","North York",N,N,"",0,391,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 52","North York",N,N,"",0,391,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 52","North York",N,N,"",0,391,"Gill","","Parm","Conservative","Conservateur",N,N,43
+35106,"York West","York-Ouest"," 52","North York",N,N,"",0,391,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,31
+35106,"York West","York-Ouest"," 52","North York",N,N,"",0,391,"Sgro","","Judy","Liberal","Libéral",Y,Y,103
+35106,"York West","York-Ouest"," 53","North York",N,N,"",2,340,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 53","North York",N,N,"",2,340,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 53","North York",N,N,"",2,340,"Gill","","Parm","Conservative","Conservateur",N,N,32
+35106,"York West","York-Ouest"," 53","North York",N,N,"",2,340,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,31
+35106,"York West","York-Ouest"," 53","North York",N,N,"",2,340,"Sgro","","Judy","Liberal","Libéral",Y,Y,91
+35106,"York West","York-Ouest"," 54A","North York",N,N,"",2,310,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 54A","North York",N,N,"",2,310,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 54A","North York",N,N,"",2,310,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 54A","North York",N,N,"",2,310,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,30
+35106,"York West","York-Ouest"," 54A","North York",N,N,"",2,310,"Sgro","","Judy","Liberal","Libéral",Y,Y,89
+35106,"York West","York-Ouest"," 54B","North York",N,N,"",1,287,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 54B","North York",N,N,"",1,287,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 54B","North York",N,N,"",1,287,"Gill","","Parm","Conservative","Conservateur",N,N,19
+35106,"York West","York-Ouest"," 54B","North York",N,N,"",1,287,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,20
+35106,"York West","York-Ouest"," 54B","North York",N,N,"",1,287,"Sgro","","Judy","Liberal","Libéral",Y,Y,89
+35106,"York West","York-Ouest"," 55A","North York",N,N,"",0,333,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 55A","North York",N,N,"",0,333,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 55A","North York",N,N,"",0,333,"Gill","","Parm","Conservative","Conservateur",N,N,23
+35106,"York West","York-Ouest"," 55A","North York",N,N,"",0,333,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 55A","North York",N,N,"",0,333,"Sgro","","Judy","Liberal","Libéral",Y,Y,120
+35106,"York West","York-Ouest"," 55B","North York",N,N,"",0,328,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 55B","North York",N,N,"",0,328,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 55B","North York",N,N,"",0,328,"Gill","","Parm","Conservative","Conservateur",N,N,32
+35106,"York West","York-Ouest"," 55B","North York",N,N,"",0,328,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,44
+35106,"York West","York-Ouest"," 55B","North York",N,N,"",0,328,"Sgro","","Judy","Liberal","Libéral",Y,Y,114
+35106,"York West","York-Ouest"," 56","North York",N,N,"",0,261,"Capra","","Nick","Green Party","Parti Vert",N,N,9
+35106,"York West","York-Ouest"," 56","North York",N,N,"",0,261,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 56","North York",N,N,"",0,261,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 56","North York",N,N,"",0,261,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 56","North York",N,N,"",0,261,"Sgro","","Judy","Liberal","Libéral",Y,Y,108
+35106,"York West","York-Ouest"," 57","North York",N,N,"",3,273,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 57","North York",N,N,"",3,273,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 57","North York",N,N,"",3,273,"Gill","","Parm","Conservative","Conservateur",N,N,20
+35106,"York West","York-Ouest"," 57","North York",N,N,"",3,273,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,17
+35106,"York West","York-Ouest"," 57","North York",N,N,"",3,273,"Sgro","","Judy","Liberal","Libéral",Y,Y,109
+35106,"York West","York-Ouest"," 58","North York",N,N,"",1,377,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 58","North York",N,N,"",1,377,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 58","North York",N,N,"",1,377,"Gill","","Parm","Conservative","Conservateur",N,N,43
+35106,"York West","York-Ouest"," 58","North York",N,N,"",1,377,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,34
+35106,"York West","York-Ouest"," 58","North York",N,N,"",1,377,"Sgro","","Judy","Liberal","Libéral",Y,Y,145
+35106,"York West","York-Ouest"," 59","North York",N,N,"",1,276,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 59","North York",N,N,"",1,276,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 59","North York",N,N,"",1,276,"Gill","","Parm","Conservative","Conservateur",N,N,39
+35106,"York West","York-Ouest"," 59","North York",N,N,"",1,276,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 59","North York",N,N,"",1,276,"Sgro","","Judy","Liberal","Libéral",Y,Y,78
+35106,"York West","York-Ouest"," 60","North York",N,N,"",0,399,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 60","North York",N,N,"",0,399,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 60","North York",N,N,"",0,399,"Gill","","Parm","Conservative","Conservateur",N,N,39
+35106,"York West","York-Ouest"," 60","North York",N,N,"",0,399,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,31
+35106,"York West","York-Ouest"," 60","North York",N,N,"",0,399,"Sgro","","Judy","Liberal","Libéral",Y,Y,87
+35106,"York West","York-Ouest"," 61","North York",N,N,"",0,278,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 61","North York",N,N,"",0,278,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 61","North York",N,N,"",0,278,"Gill","","Parm","Conservative","Conservateur",N,N,53
+35106,"York West","York-Ouest"," 61","North York",N,N,"",0,278,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,16
+35106,"York West","York-Ouest"," 61","North York",N,N,"",0,278,"Sgro","","Judy","Liberal","Libéral",Y,Y,85
+35106,"York West","York-Ouest"," 62","North York",N,N,"",0,364,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 62","North York",N,N,"",0,364,"Cocon","","Axcel","Independent","Indépendant",N,N,10
+35106,"York West","York-Ouest"," 62","North York",N,N,"",0,364,"Gill","","Parm","Conservative","Conservateur",N,N,33
+35106,"York West","York-Ouest"," 62","North York",N,N,"",0,364,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,35
+35106,"York West","York-Ouest"," 62","North York",N,N,"",0,364,"Sgro","","Judy","Liberal","Libéral",Y,Y,118
+35106,"York West","York-Ouest"," 63","North York",N,N,"",1,356,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 63","North York",N,N,"",1,356,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 63","North York",N,N,"",1,356,"Gill","","Parm","Conservative","Conservateur",N,N,36
+35106,"York West","York-Ouest"," 63","North York",N,N,"",1,356,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 63","North York",N,N,"",1,356,"Sgro","","Judy","Liberal","Libéral",Y,Y,130
+35106,"York West","York-Ouest"," 64","North York",N,N,"",4,408,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 64","North York",N,N,"",4,408,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 64","North York",N,N,"",4,408,"Gill","","Parm","Conservative","Conservateur",N,N,27
+35106,"York West","York-Ouest"," 64","North York",N,N,"",4,408,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,42
+35106,"York West","York-Ouest"," 64","North York",N,N,"",4,408,"Sgro","","Judy","Liberal","Libéral",Y,Y,145
+35106,"York West","York-Ouest"," 65","North York",N,N,"",0,393,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 65","North York",N,N,"",0,393,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 65","North York",N,N,"",0,393,"Gill","","Parm","Conservative","Conservateur",N,N,23
+35106,"York West","York-Ouest"," 65","North York",N,N,"",0,393,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,28
+35106,"York West","York-Ouest"," 65","North York",N,N,"",0,393,"Sgro","","Judy","Liberal","Libéral",Y,Y,139
+35106,"York West","York-Ouest"," 66","North York",N,N,"",1,311,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 66","North York",N,N,"",1,311,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 66","North York",N,N,"",1,311,"Gill","","Parm","Conservative","Conservateur",N,N,13
+35106,"York West","York-Ouest"," 66","North York",N,N,"",1,311,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,20
+35106,"York West","York-Ouest"," 66","North York",N,N,"",1,311,"Sgro","","Judy","Liberal","Libéral",Y,Y,79
+35106,"York West","York-Ouest"," 67","North York",N,N,"",2,545,"Capra","","Nick","Green Party","Parti Vert",N,N,14
+35106,"York West","York-Ouest"," 67","North York",N,N,"",2,545,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 67","North York",N,N,"",2,545,"Gill","","Parm","Conservative","Conservateur",N,N,43
+35106,"York West","York-Ouest"," 67","North York",N,N,"",2,545,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,44
+35106,"York West","York-Ouest"," 67","North York",N,N,"",2,545,"Sgro","","Judy","Liberal","Libéral",Y,Y,144
+35106,"York West","York-Ouest"," 68","North York",N,N,"",5,462,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 68","North York",N,N,"",5,462,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 68","North York",N,N,"",5,462,"Gill","","Parm","Conservative","Conservateur",N,N,41
+35106,"York West","York-Ouest"," 68","North York",N,N,"",5,462,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,41
+35106,"York West","York-Ouest"," 68","North York",N,N,"",5,462,"Sgro","","Judy","Liberal","Libéral",Y,Y,154
+35106,"York West","York-Ouest"," 69","North York",N,N,"",4,363,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 69","North York",N,N,"",4,363,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 69","North York",N,N,"",4,363,"Gill","","Parm","Conservative","Conservateur",N,N,24
+35106,"York West","York-Ouest"," 69","North York",N,N,"",4,363,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,29
+35106,"York West","York-Ouest"," 69","North York",N,N,"",4,363,"Sgro","","Judy","Liberal","Libéral",Y,Y,134
+35106,"York West","York-Ouest"," 70","North York",N,N,"",5,326,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 70","North York",N,N,"",5,326,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 70","North York",N,N,"",5,326,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 70","North York",N,N,"",5,326,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 70","North York",N,N,"",5,326,"Sgro","","Judy","Liberal","Libéral",Y,Y,131
+35106,"York West","York-Ouest"," 71","North York",N,N,"",2,441,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 71","North York",N,N,"",2,441,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 71","North York",N,N,"",2,441,"Gill","","Parm","Conservative","Conservateur",N,N,36
+35106,"York West","York-Ouest"," 71","North York",N,N,"",2,441,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,38
+35106,"York West","York-Ouest"," 71","North York",N,N,"",2,441,"Sgro","","Judy","Liberal","Libéral",Y,Y,153
+35106,"York West","York-Ouest"," 72","North York",N,N,"",0,305,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 72","North York",N,N,"",0,305,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 72","North York",N,N,"",0,305,"Gill","","Parm","Conservative","Conservateur",N,N,6
+35106,"York West","York-Ouest"," 72","North York",N,N,"",0,305,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 72","North York",N,N,"",0,305,"Sgro","","Judy","Liberal","Libéral",Y,Y,107
+35106,"York West","York-Ouest"," 73","North York",N,N,"",0,369,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 73","North York",N,N,"",0,369,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 73","North York",N,N,"",0,369,"Gill","","Parm","Conservative","Conservateur",N,N,20
+35106,"York West","York-Ouest"," 73","North York",N,N,"",0,369,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 73","North York",N,N,"",0,369,"Sgro","","Judy","Liberal","Libéral",Y,Y,106
+35106,"York West","York-Ouest"," 74","North York",N,N,"",0,344,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 74","North York",N,N,"",0,344,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 74","North York",N,N,"",0,344,"Gill","","Parm","Conservative","Conservateur",N,N,18
+35106,"York West","York-Ouest"," 74","North York",N,N,"",0,344,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,20
+35106,"York West","York-Ouest"," 74","North York",N,N,"",0,344,"Sgro","","Judy","Liberal","Libéral",Y,Y,76
+35106,"York West","York-Ouest"," 75","North York",N,N,"",3,506,"Capra","","Nick","Green Party","Parti Vert",N,N,10
+35106,"York West","York-Ouest"," 75","North York",N,N,"",3,506,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 75","North York",N,N,"",3,506,"Gill","","Parm","Conservative","Conservateur",N,N,58
+35106,"York West","York-Ouest"," 75","North York",N,N,"",3,506,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,44
+35106,"York West","York-Ouest"," 75","North York",N,N,"",3,506,"Sgro","","Judy","Liberal","Libéral",Y,Y,196
+35106,"York West","York-Ouest"," 76","North York",N,N,"",2,429,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 76","North York",N,N,"",2,429,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 76","North York",N,N,"",2,429,"Gill","","Parm","Conservative","Conservateur",N,N,35
+35106,"York West","York-Ouest"," 76","North York",N,N,"",2,429,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,34
+35106,"York West","York-Ouest"," 76","North York",N,N,"",2,429,"Sgro","","Judy","Liberal","Libéral",Y,Y,191
+35106,"York West","York-Ouest"," 77","North York",N,N,"",2,273,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 77","North York",N,N,"",2,273,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 77","North York",N,N,"",2,273,"Gill","","Parm","Conservative","Conservateur",N,N,20
+35106,"York West","York-Ouest"," 77","North York",N,N,"",2,273,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,19
+35106,"York West","York-Ouest"," 77","North York",N,N,"",2,273,"Sgro","","Judy","Liberal","Libéral",Y,Y,99
+35106,"York West","York-Ouest"," 78","North York",N,N,"",5,377,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 78","North York",N,N,"",5,377,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 78","North York",N,N,"",5,377,"Gill","","Parm","Conservative","Conservateur",N,N,36
+35106,"York West","York-Ouest"," 78","North York",N,N,"",5,377,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,34
+35106,"York West","York-Ouest"," 78","North York",N,N,"",5,377,"Sgro","","Judy","Liberal","Libéral",Y,Y,160
+35106,"York West","York-Ouest"," 79","North York",N,N,"",3,384,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 79","North York",N,N,"",3,384,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 79","North York",N,N,"",3,384,"Gill","","Parm","Conservative","Conservateur",N,N,37
+35106,"York West","York-Ouest"," 79","North York",N,N,"",3,384,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,33
+35106,"York West","York-Ouest"," 79","North York",N,N,"",3,384,"Sgro","","Judy","Liberal","Libéral",Y,Y,142
+35106,"York West","York-Ouest"," 80","North York",N,N,"",0,348,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 80","North York",N,N,"",0,348,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 80","North York",N,N,"",0,348,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 80","North York",N,N,"",0,348,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,29
+35106,"York West","York-Ouest"," 80","North York",N,N,"",0,348,"Sgro","","Judy","Liberal","Libéral",Y,Y,125
+35106,"York West","York-Ouest"," 81","North York",N,N,"",0,311,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 81","North York",N,N,"",0,311,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 81","North York",N,N,"",0,311,"Gill","","Parm","Conservative","Conservateur",N,N,24
+35106,"York West","York-Ouest"," 81","North York",N,N,"",0,311,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,16
+35106,"York West","York-Ouest"," 81","North York",N,N,"",0,311,"Sgro","","Judy","Liberal","Libéral",Y,Y,109
+35106,"York West","York-Ouest"," 82","North York",N,N,"",0,331,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 82","North York",N,N,"",0,331,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 82","North York",N,N,"",0,331,"Gill","","Parm","Conservative","Conservateur",N,N,32
+35106,"York West","York-Ouest"," 82","North York",N,N,"",0,331,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,28
+35106,"York West","York-Ouest"," 82","North York",N,N,"",0,331,"Sgro","","Judy","Liberal","Libéral",Y,Y,135
+35106,"York West","York-Ouest"," 83A","North York",N,N,"",3,341,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 83A","North York",N,N,"",3,341,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 83A","North York",N,N,"",3,341,"Gill","","Parm","Conservative","Conservateur",N,N,30
+35106,"York West","York-Ouest"," 83A","North York",N,N,"",3,341,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,33
+35106,"York West","York-Ouest"," 83A","North York",N,N,"",3,341,"Sgro","","Judy","Liberal","Libéral",Y,Y,111
+35106,"York West","York-Ouest"," 83B","North York",N,N,"",3,348,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 83B","North York",N,N,"",3,348,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 83B","North York",N,N,"",3,348,"Gill","","Parm","Conservative","Conservateur",N,N,39
+35106,"York West","York-Ouest"," 83B","North York",N,N,"",3,348,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,25
+35106,"York West","York-Ouest"," 83B","North York",N,N,"",3,348,"Sgro","","Judy","Liberal","Libéral",Y,Y,134
+35106,"York West","York-Ouest"," 84","North York",N,N,"",0,183,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 84","North York",N,N,"",0,183,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 84","North York",N,N,"",0,183,"Gill","","Parm","Conservative","Conservateur",N,N,19
+35106,"York West","York-Ouest"," 84","North York",N,N,"",0,183,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,14
+35106,"York West","York-Ouest"," 84","North York",N,N,"",0,183,"Sgro","","Judy","Liberal","Libéral",Y,Y,73
+35106,"York West","York-Ouest"," 85A","North York",N,N,"",5,465,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 85A","North York",N,N,"",5,465,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 85A","North York",N,N,"",5,465,"Gill","","Parm","Conservative","Conservateur",N,N,26
+35106,"York West","York-Ouest"," 85A","North York",N,N,"",5,465,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,35
+35106,"York West","York-Ouest"," 85A","North York",N,N,"",5,465,"Sgro","","Judy","Liberal","Libéral",Y,Y,160
+35106,"York West","York-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",2,96,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",2,96,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",2,96,"Gill","","Parm","Conservative","Conservateur",N,N,14
+35106,"York West","York-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",2,96,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,5
+35106,"York West","York-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",2,96,"Sgro","","Judy","Liberal","Libéral",Y,Y,41
+35106,"York West","York-Ouest"," 86","North York",N,N,"",3,436,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 86","North York",N,N,"",3,436,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 86","North York",N,N,"",3,436,"Gill","","Parm","Conservative","Conservateur",N,N,43
+35106,"York West","York-Ouest"," 86","North York",N,N,"",3,436,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 86","North York",N,N,"",3,436,"Sgro","","Judy","Liberal","Libéral",Y,Y,159
+35106,"York West","York-Ouest"," 87","North York",N,N,"",2,436,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 87","North York",N,N,"",2,436,"Cocon","","Axcel","Independent","Indépendant",N,N,4
+35106,"York West","York-Ouest"," 87","North York",N,N,"",2,436,"Gill","","Parm","Conservative","Conservateur",N,N,18
+35106,"York West","York-Ouest"," 87","North York",N,N,"",2,436,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,31
+35106,"York West","York-Ouest"," 87","North York",N,N,"",2,436,"Sgro","","Judy","Liberal","Libéral",Y,Y,169
+35106,"York West","York-Ouest"," 88","North York",N,N,"",2,453,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 88","North York",N,N,"",2,453,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 88","North York",N,N,"",2,453,"Gill","","Parm","Conservative","Conservateur",N,N,30
+35106,"York West","York-Ouest"," 88","North York",N,N,"",2,453,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,30
+35106,"York West","York-Ouest"," 88","North York",N,N,"",2,453,"Sgro","","Judy","Liberal","Libéral",Y,Y,170
+35106,"York West","York-Ouest"," 89","North York",N,N,"",0,348,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 89","North York",N,N,"",0,348,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 89","North York",N,N,"",0,348,"Gill","","Parm","Conservative","Conservateur",N,N,29
+35106,"York West","York-Ouest"," 89","North York",N,N,"",0,348,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 89","North York",N,N,"",0,348,"Sgro","","Judy","Liberal","Libéral",Y,Y,96
+35106,"York West","York-Ouest"," 90","North York",N,N,"",2,316,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 90","North York",N,N,"",2,316,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 90","North York",N,N,"",2,316,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 90","North York",N,N,"",2,316,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,23
+35106,"York West","York-Ouest"," 90","North York",N,N,"",2,316,"Sgro","","Judy","Liberal","Libéral",Y,Y,125
+35106,"York West","York-Ouest"," 91","North York",N,N,"",4,416,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 91","North York",N,N,"",4,416,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 91","North York",N,N,"",4,416,"Gill","","Parm","Conservative","Conservateur",N,N,35
+35106,"York West","York-Ouest"," 91","North York",N,N,"",4,416,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,29
+35106,"York West","York-Ouest"," 91","North York",N,N,"",4,416,"Sgro","","Judy","Liberal","Libéral",Y,Y,103
+35106,"York West","York-Ouest"," 92","North York",N,N,"",0,424,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 92","North York",N,N,"",0,424,"Cocon","","Axcel","Independent","Indépendant",N,N,4
+35106,"York West","York-Ouest"," 92","North York",N,N,"",0,424,"Gill","","Parm","Conservative","Conservateur",N,N,18
+35106,"York West","York-Ouest"," 92","North York",N,N,"",0,424,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,33
+35106,"York West","York-Ouest"," 92","North York",N,N,"",0,424,"Sgro","","Judy","Liberal","Libéral",Y,Y,105
+35106,"York West","York-Ouest"," 93","North York",N,N,"",0,544,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 93","North York",N,N,"",0,544,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 93","North York",N,N,"",0,544,"Gill","","Parm","Conservative","Conservateur",N,N,36
+35106,"York West","York-Ouest"," 93","North York",N,N,"",0,544,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,43
+35106,"York West","York-Ouest"," 93","North York",N,N,"",0,544,"Sgro","","Judy","Liberal","Libéral",Y,Y,161
+35106,"York West","York-Ouest"," 94","North York",N,N,"",0,370,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 94","North York",N,N,"",0,370,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 94","North York",N,N,"",0,370,"Gill","","Parm","Conservative","Conservateur",N,N,29
+35106,"York West","York-Ouest"," 94","North York",N,N,"",0,370,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 94","North York",N,N,"",0,370,"Sgro","","Judy","Liberal","Libéral",Y,Y,127
+35106,"York West","York-Ouest"," 95","North York",N,N,"",1,390,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 95","North York",N,N,"",1,390,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 95","North York",N,N,"",1,390,"Gill","","Parm","Conservative","Conservateur",N,N,25
+35106,"York West","York-Ouest"," 95","North York",N,N,"",1,390,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,19
+35106,"York West","York-Ouest"," 95","North York",N,N,"",1,390,"Sgro","","Judy","Liberal","Libéral",Y,Y,115
+35106,"York West","York-Ouest"," 96","North York",N,N,"",0,176,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 96","North York",N,N,"",0,176,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 96","North York",N,N,"",0,176,"Gill","","Parm","Conservative","Conservateur",N,N,5
+35106,"York West","York-Ouest"," 96","North York",N,N,"",0,176,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,9
+35106,"York West","York-Ouest"," 96","North York",N,N,"",0,176,"Sgro","","Judy","Liberal","Libéral",Y,Y,79
+35106,"York West","York-Ouest"," 97","North York",Y,N,"",0,0,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 97","North York",Y,N,"",0,0,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 97","North York",Y,N,"",0,0,"Gill","","Parm","Conservative","Conservateur",N,N,0
+35106,"York West","York-Ouest"," 97","North York",Y,N,"",0,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,0
+35106,"York West","York-Ouest"," 97","North York",Y,N,"",0,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,0
+35106,"York West","York-Ouest"," 98A","North York",N,N,"",0,260,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 98A","North York",N,N,"",0,260,"Cocon","","Axcel","Independent","Indépendant",N,N,4
+35106,"York West","York-Ouest"," 98A","North York",N,N,"",0,260,"Gill","","Parm","Conservative","Conservateur",N,N,20
+35106,"York West","York-Ouest"," 98A","North York",N,N,"",0,260,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,8
+35106,"York West","York-Ouest"," 98A","North York",N,N,"",0,260,"Sgro","","Judy","Liberal","Libéral",Y,Y,69
+35106,"York West","York-Ouest"," 98B","North York",N,N,"",0,285,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 98B","North York",N,N,"",0,285,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 98B","North York",N,N,"",0,285,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 98B","North York",N,N,"",0,285,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,10
+35106,"York West","York-Ouest"," 98B","North York",N,N,"",0,285,"Sgro","","Judy","Liberal","Libéral",Y,Y,77
+35106,"York West","York-Ouest"," 99","North York",N,N,"",1,292,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 99","North York",N,N,"",1,292,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 99","North York",N,N,"",1,292,"Gill","","Parm","Conservative","Conservateur",N,N,24
+35106,"York West","York-Ouest"," 99","North York",N,N,"",1,292,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,14
+35106,"York West","York-Ouest"," 99","North York",N,N,"",1,292,"Sgro","","Judy","Liberal","Libéral",Y,Y,96
+35106,"York West","York-Ouest"," 100","North York",N,N,"",1,451,"Capra","","Nick","Green Party","Parti Vert",N,N,11
+35106,"York West","York-Ouest"," 100","North York",N,N,"",1,451,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 100","North York",N,N,"",1,451,"Gill","","Parm","Conservative","Conservateur",N,N,45
+35106,"York West","York-Ouest"," 100","North York",N,N,"",1,451,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 100","North York",N,N,"",1,451,"Sgro","","Judy","Liberal","Libéral",Y,Y,138
+35106,"York West","York-Ouest"," 101","North York",N,N,"",3,316,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 101","North York",N,N,"",3,316,"Cocon","","Axcel","Independent","Indépendant",N,N,6
+35106,"York West","York-Ouest"," 101","North York",N,N,"",3,316,"Gill","","Parm","Conservative","Conservateur",N,N,27
+35106,"York West","York-Ouest"," 101","North York",N,N,"",3,316,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,23
+35106,"York West","York-Ouest"," 101","North York",N,N,"",3,316,"Sgro","","Judy","Liberal","Libéral",Y,Y,110
+35106,"York West","York-Ouest"," 102","North York",N,N,"",1,259,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 102","North York",N,N,"",1,259,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 102","North York",N,N,"",1,259,"Gill","","Parm","Conservative","Conservateur",N,N,24
+35106,"York West","York-Ouest"," 102","North York",N,N,"",1,259,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,16
+35106,"York West","York-Ouest"," 102","North York",N,N,"",1,259,"Sgro","","Judy","Liberal","Libéral",Y,Y,134
+35106,"York West","York-Ouest"," 103","North York",N,N,"",0,323,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 103","North York",N,N,"",0,323,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 103","North York",N,N,"",0,323,"Gill","","Parm","Conservative","Conservateur",N,N,36
+35106,"York West","York-Ouest"," 103","North York",N,N,"",0,323,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 103","North York",N,N,"",0,323,"Sgro","","Judy","Liberal","Libéral",Y,Y,141
+35106,"York West","York-Ouest"," 104","North York",N,N,"",3,354,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 104","North York",N,N,"",3,354,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 104","North York",N,N,"",3,354,"Gill","","Parm","Conservative","Conservateur",N,N,30
+35106,"York West","York-Ouest"," 104","North York",N,N,"",3,354,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,28
+35106,"York West","York-Ouest"," 104","North York",N,N,"",3,354,"Sgro","","Judy","Liberal","Libéral",Y,Y,144
+35106,"York West","York-Ouest"," 105","North York",N,N,"",3,317,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 105","North York",N,N,"",3,317,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 105","North York",N,N,"",3,317,"Gill","","Parm","Conservative","Conservateur",N,N,24
+35106,"York West","York-Ouest"," 105","North York",N,N,"",3,317,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 105","North York",N,N,"",3,317,"Sgro","","Judy","Liberal","Libéral",Y,Y,65
+35106,"York West","York-Ouest"," 106","North York",N,N,"",4,469,"Capra","","Nick","Green Party","Parti Vert",N,N,11
+35106,"York West","York-Ouest"," 106","North York",N,N,"",4,469,"Cocon","","Axcel","Independent","Indépendant",N,N,4
+35106,"York West","York-Ouest"," 106","North York",N,N,"",4,469,"Gill","","Parm","Conservative","Conservateur",N,N,50
+35106,"York West","York-Ouest"," 106","North York",N,N,"",4,469,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,34
+35106,"York West","York-Ouest"," 106","North York",N,N,"",4,469,"Sgro","","Judy","Liberal","Libéral",Y,Y,166
+35106,"York West","York-Ouest"," 107","North York",N,N,"",1,378,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 107","North York",N,N,"",1,378,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 107","North York",N,N,"",1,378,"Gill","","Parm","Conservative","Conservateur",N,N,30
+35106,"York West","York-Ouest"," 107","North York",N,N,"",1,378,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 107","North York",N,N,"",1,378,"Sgro","","Judy","Liberal","Libéral",Y,Y,172
+35106,"York West","York-Ouest"," 108A","North York",N,N,"",2,398,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 108A","North York",N,N,"",2,398,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 108A","North York",N,N,"",2,398,"Gill","","Parm","Conservative","Conservateur",N,N,43
+35106,"York West","York-Ouest"," 108A","North York",N,N,"",2,398,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,19
+35106,"York West","York-Ouest"," 108A","North York",N,N,"",2,398,"Sgro","","Judy","Liberal","Libéral",Y,Y,125
+35106,"York West","York-Ouest"," 108B","North York",N,N,"",0,352,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 108B","North York",N,N,"",0,352,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 108B","North York",N,N,"",0,352,"Gill","","Parm","Conservative","Conservateur",N,N,33
+35106,"York West","York-Ouest"," 108B","North York",N,N,"",0,352,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,23
+35106,"York West","York-Ouest"," 108B","North York",N,N,"",0,352,"Sgro","","Judy","Liberal","Libéral",Y,Y,125
+35106,"York West","York-Ouest"," 109","North York",Y,N,"",0,0,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 109","North York",Y,N,"",0,0,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 109","North York",Y,N,"",0,0,"Gill","","Parm","Conservative","Conservateur",N,N,0
+35106,"York West","York-Ouest"," 109","North York",Y,N,"",0,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,0
+35106,"York West","York-Ouest"," 109","North York",Y,N,"",0,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,0
+35106,"York West","York-Ouest"," 110","North York",N,N,"",0,557,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 110","North York",N,N,"",0,557,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 110","North York",N,N,"",0,557,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 110","North York",N,N,"",0,557,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,18
+35106,"York West","York-Ouest"," 110","North York",N,N,"",0,557,"Sgro","","Judy","Liberal","Libéral",Y,Y,230
+35106,"York West","York-Ouest"," 111","North York",N,N,"",1,384,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 111","North York",N,N,"",1,384,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 111","North York",N,N,"",1,384,"Gill","","Parm","Conservative","Conservateur",N,N,53
+35106,"York West","York-Ouest"," 111","North York",N,N,"",1,384,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,15
+35106,"York West","York-Ouest"," 111","North York",N,N,"",1,384,"Sgro","","Judy","Liberal","Libéral",Y,Y,148
+35106,"York West","York-Ouest"," 112","North York",N,N,"",3,294,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 112","North York",N,N,"",3,294,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 112","North York",N,N,"",3,294,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 112","North York",N,N,"",3,294,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,13
+35106,"York West","York-Ouest"," 112","North York",N,N,"",3,294,"Sgro","","Judy","Liberal","Libéral",Y,Y,127
+35106,"York West","York-Ouest"," 113","North York",N,N,"",4,367,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 113","North York",N,N,"",4,367,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 113","North York",N,N,"",4,367,"Gill","","Parm","Conservative","Conservateur",N,N,39
+35106,"York West","York-Ouest"," 113","North York",N,N,"",4,367,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 113","North York",N,N,"",4,367,"Sgro","","Judy","Liberal","Libéral",Y,Y,133
+35106,"York West","York-Ouest"," 114","North York",N,N,"",2,543,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 114","North York",N,N,"",2,543,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 114","North York",N,N,"",2,543,"Gill","","Parm","Conservative","Conservateur",N,N,53
+35106,"York West","York-Ouest"," 114","North York",N,N,"",2,543,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 114","North York",N,N,"",2,543,"Sgro","","Judy","Liberal","Libéral",Y,Y,173
+35106,"York West","York-Ouest"," 115","North York",N,N,"",3,448,"Capra","","Nick","Green Party","Parti Vert",N,N,12
+35106,"York West","York-Ouest"," 115","North York",N,N,"",3,448,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 115","North York",N,N,"",3,448,"Gill","","Parm","Conservative","Conservateur",N,N,57
+35106,"York West","York-Ouest"," 115","North York",N,N,"",3,448,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 115","North York",N,N,"",3,448,"Sgro","","Judy","Liberal","Libéral",Y,Y,137
+35106,"York West","York-Ouest"," 116","North York",N,N,"",0,217,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 116","North York",N,N,"",0,217,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 116","North York",N,N,"",0,217,"Gill","","Parm","Conservative","Conservateur",N,N,14
+35106,"York West","York-Ouest"," 116","North York",N,N,"",0,217,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,18
+35106,"York West","York-Ouest"," 116","North York",N,N,"",0,217,"Sgro","","Judy","Liberal","Libéral",Y,Y,81
+35106,"York West","York-Ouest"," 117A","North York",N,N,"",0,375,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 117A","North York",N,N,"",0,375,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 117A","North York",N,N,"",0,375,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 117A","North York",N,N,"",0,375,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,19
+35106,"York West","York-Ouest"," 117A","North York",N,N,"",0,375,"Sgro","","Judy","Liberal","Libéral",Y,Y,78
+35106,"York West","York-Ouest"," 117B","North York",N,N,"",1,352,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 117B","North York",N,N,"",1,352,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 117B","North York",N,N,"",1,352,"Gill","","Parm","Conservative","Conservateur",N,N,21
+35106,"York West","York-Ouest"," 117B","North York",N,N,"",1,352,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,30
+35106,"York West","York-Ouest"," 117B","North York",N,N,"",1,352,"Sgro","","Judy","Liberal","Libéral",Y,Y,84
+35106,"York West","York-Ouest"," 118","North York",N,N,"",0,444,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 118","North York",N,N,"",0,444,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 118","North York",N,N,"",0,444,"Gill","","Parm","Conservative","Conservateur",N,N,49
+35106,"York West","York-Ouest"," 118","North York",N,N,"",0,444,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,36
+35106,"York West","York-Ouest"," 118","North York",N,N,"",0,444,"Sgro","","Judy","Liberal","Libéral",Y,Y,173
+35106,"York West","York-Ouest"," 119","North York",N,N,"",1,251,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 119","North York",N,N,"",1,251,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 119","North York",N,N,"",1,251,"Gill","","Parm","Conservative","Conservateur",N,N,25
+35106,"York West","York-Ouest"," 119","North York",N,N,"",1,251,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,23
+35106,"York West","York-Ouest"," 119","North York",N,N,"",1,251,"Sgro","","Judy","Liberal","Libéral",Y,Y,43
+35106,"York West","York-Ouest"," 120","North York",N,N,"",1,335,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 120","North York",N,N,"",1,335,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 120","North York",N,N,"",1,335,"Gill","","Parm","Conservative","Conservateur",N,N,32
+35106,"York West","York-Ouest"," 120","North York",N,N,"",1,335,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,14
+35106,"York West","York-Ouest"," 120","North York",N,N,"",1,335,"Sgro","","Judy","Liberal","Libéral",Y,Y,106
+35106,"York West","York-Ouest"," 121","North York",N,N,"",0,390,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 121","North York",N,N,"",0,390,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 121","North York",N,N,"",0,390,"Gill","","Parm","Conservative","Conservateur",N,N,32
+35106,"York West","York-Ouest"," 121","North York",N,N,"",0,390,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 121","North York",N,N,"",0,390,"Sgro","","Judy","Liberal","Libéral",Y,Y,129
+35106,"York West","York-Ouest"," 122","North York",N,N,"",0,363,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 122","North York",N,N,"",0,363,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 122","North York",N,N,"",0,363,"Gill","","Parm","Conservative","Conservateur",N,N,38
+35106,"York West","York-Ouest"," 122","North York",N,N,"",0,363,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,31
+35106,"York West","York-Ouest"," 122","North York",N,N,"",0,363,"Sgro","","Judy","Liberal","Libéral",Y,Y,113
+35106,"York West","York-Ouest"," 123","North York",N,N,"",2,315,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 123","North York",N,N,"",2,315,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 123","North York",N,N,"",2,315,"Gill","","Parm","Conservative","Conservateur",N,N,37
+35106,"York West","York-Ouest"," 123","North York",N,N,"",2,315,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 123","North York",N,N,"",2,315,"Sgro","","Judy","Liberal","Libéral",Y,Y,106
+35106,"York West","York-Ouest"," 124","North York",N,N,"",4,369,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 124","North York",N,N,"",4,369,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 124","North York",N,N,"",4,369,"Gill","","Parm","Conservative","Conservateur",N,N,62
+35106,"York West","York-Ouest"," 124","North York",N,N,"",4,369,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 124","North York",N,N,"",4,369,"Sgro","","Judy","Liberal","Libéral",Y,Y,84
+35106,"York West","York-Ouest"," 125","North York",N,N,"",3,320,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 125","North York",N,N,"",3,320,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 125","North York",N,N,"",3,320,"Gill","","Parm","Conservative","Conservateur",N,N,48
+35106,"York West","York-Ouest"," 125","North York",N,N,"",3,320,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,24
+35106,"York West","York-Ouest"," 125","North York",N,N,"",3,320,"Sgro","","Judy","Liberal","Libéral",Y,Y,109
+35106,"York West","York-Ouest"," 126","North York",N,N,"",0,293,"Capra","","Nick","Green Party","Parti Vert",N,N,10
+35106,"York West","York-Ouest"," 126","North York",N,N,"",0,293,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 126","North York",N,N,"",0,293,"Gill","","Parm","Conservative","Conservateur",N,N,33
+35106,"York West","York-Ouest"," 126","North York",N,N,"",0,293,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,30
+35106,"York West","York-Ouest"," 126","North York",N,N,"",0,293,"Sgro","","Judy","Liberal","Libéral",Y,Y,120
+35106,"York West","York-Ouest"," 127","North York",N,N,"",2,429,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 127","North York",N,N,"",2,429,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 127","North York",N,N,"",2,429,"Gill","","Parm","Conservative","Conservateur",N,N,60
+35106,"York West","York-Ouest"," 127","North York",N,N,"",2,429,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,53
+35106,"York West","York-Ouest"," 127","North York",N,N,"",2,429,"Sgro","","Judy","Liberal","Libéral",Y,Y,136
+35106,"York West","York-Ouest"," 128","North York",N,N,"",0,399,"Capra","","Nick","Green Party","Parti Vert",N,N,10
+35106,"York West","York-Ouest"," 128","North York",N,N,"",0,399,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 128","North York",N,N,"",0,399,"Gill","","Parm","Conservative","Conservateur",N,N,43
+35106,"York West","York-Ouest"," 128","North York",N,N,"",0,399,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,30
+35106,"York West","York-Ouest"," 128","North York",N,N,"",0,399,"Sgro","","Judy","Liberal","Libéral",Y,Y,136
+35106,"York West","York-Ouest"," 129A","North York",N,N,"",0,308,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 129A","North York",N,N,"",0,308,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 129A","North York",N,N,"",0,308,"Gill","","Parm","Conservative","Conservateur",N,N,29
+35106,"York West","York-Ouest"," 129A","North York",N,N,"",0,308,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,10
+35106,"York West","York-Ouest"," 129A","North York",N,N,"",0,308,"Sgro","","Judy","Liberal","Libéral",Y,Y,89
+35106,"York West","York-Ouest"," 129B","North York",N,N,"",0,301,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 129B","North York",N,N,"",0,301,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 129B","North York",N,N,"",0,301,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 129B","North York",N,N,"",0,301,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,19
+35106,"York West","York-Ouest"," 129B","North York",N,N,"",0,301,"Sgro","","Judy","Liberal","Libéral",Y,Y,68
+35106,"York West","York-Ouest"," 130","North York",N,N,"",2,297,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 130","North York",N,N,"",2,297,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 130","North York",N,N,"",2,297,"Gill","","Parm","Conservative","Conservateur",N,N,46
+35106,"York West","York-Ouest"," 130","North York",N,N,"",2,297,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 130","North York",N,N,"",2,297,"Sgro","","Judy","Liberal","Libéral",Y,Y,96
+35106,"York West","York-Ouest"," 131","North York",N,N,"",0,253,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 131","North York",N,N,"",0,253,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 131","North York",N,N,"",0,253,"Gill","","Parm","Conservative","Conservateur",N,N,32
+35106,"York West","York-Ouest"," 131","North York",N,N,"",0,253,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 131","North York",N,N,"",0,253,"Sgro","","Judy","Liberal","Libéral",Y,Y,80
+35106,"York West","York-Ouest"," 132","North York",N,N,"",1,249,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 132","North York",N,N,"",1,249,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 132","North York",N,N,"",1,249,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 132","North York",N,N,"",1,249,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,19
+35106,"York West","York-Ouest"," 132","North York",N,N,"",1,249,"Sgro","","Judy","Liberal","Libéral",Y,Y,102
+35106,"York West","York-Ouest"," 133","North York",N,N,"",0,354,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 133","North York",N,N,"",0,354,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 133","North York",N,N,"",0,354,"Gill","","Parm","Conservative","Conservateur",N,N,40
+35106,"York West","York-Ouest"," 133","North York",N,N,"",0,354,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,20
+35106,"York West","York-Ouest"," 133","North York",N,N,"",0,354,"Sgro","","Judy","Liberal","Libéral",Y,Y,126
+35106,"York West","York-Ouest"," 134","North York",N,N,"",2,349,"Capra","","Nick","Green Party","Parti Vert",N,N,9
+35106,"York West","York-Ouest"," 134","North York",N,N,"",2,349,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 134","North York",N,N,"",2,349,"Gill","","Parm","Conservative","Conservateur",N,N,48
+35106,"York West","York-Ouest"," 134","North York",N,N,"",2,349,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 134","North York",N,N,"",2,349,"Sgro","","Judy","Liberal","Libéral",Y,Y,152
+35106,"York West","York-Ouest"," 135","North York",N,N,"",0,230,"Capra","","Nick","Green Party","Parti Vert",N,N,7
+35106,"York West","York-Ouest"," 135","North York",N,N,"",0,230,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 135","North York",N,N,"",0,230,"Gill","","Parm","Conservative","Conservateur",N,N,26
+35106,"York West","York-Ouest"," 135","North York",N,N,"",0,230,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,18
+35106,"York West","York-Ouest"," 135","North York",N,N,"",0,230,"Sgro","","Judy","Liberal","Libéral",Y,Y,81
+35106,"York West","York-Ouest"," 136","North York",N,N,"",0,394,"Capra","","Nick","Green Party","Parti Vert",N,N,12
+35106,"York West","York-Ouest"," 136","North York",N,N,"",0,394,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 136","North York",N,N,"",0,394,"Gill","","Parm","Conservative","Conservateur",N,N,53
+35106,"York West","York-Ouest"," 136","North York",N,N,"",0,394,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,36
+35106,"York West","York-Ouest"," 136","North York",N,N,"",0,394,"Sgro","","Judy","Liberal","Libéral",Y,Y,159
+35106,"York West","York-Ouest"," 137","North York",N,N,"",1,320,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 137","North York",N,N,"",1,320,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 137","North York",N,N,"",1,320,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 137","North York",N,N,"",1,320,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,25
+35106,"York West","York-Ouest"," 137","North York",N,N,"",1,320,"Sgro","","Judy","Liberal","Libéral",Y,Y,121
+35106,"York West","York-Ouest"," 138","North York",N,N,"",4,321,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 138","North York",N,N,"",4,321,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 138","North York",N,N,"",4,321,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 138","North York",N,N,"",4,321,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,22
+35106,"York West","York-Ouest"," 138","North York",N,N,"",4,321,"Sgro","","Judy","Liberal","Libéral",Y,Y,143
+35106,"York West","York-Ouest"," 139","North York",N,N,"",1,302,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 139","North York",N,N,"",1,302,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 139","North York",N,N,"",1,302,"Gill","","Parm","Conservative","Conservateur",N,N,29
+35106,"York West","York-Ouest"," 139","North York",N,N,"",1,302,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,27
+35106,"York West","York-Ouest"," 139","North York",N,N,"",1,302,"Sgro","","Judy","Liberal","Libéral",Y,Y,140
+35106,"York West","York-Ouest"," 140","North York",N,N,"",2,267,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," 140","North York",N,N,"",2,267,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 140","North York",N,N,"",2,267,"Gill","","Parm","Conservative","Conservateur",N,N,21
+35106,"York West","York-Ouest"," 140","North York",N,N,"",2,267,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,8
+35106,"York West","York-Ouest"," 140","North York",N,N,"",2,267,"Sgro","","Judy","Liberal","Libéral",Y,Y,95
+35106,"York West","York-Ouest"," 141A","North York",N,N,"",2,356,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 141A","North York",N,N,"",2,356,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 141A","North York",N,N,"",2,356,"Gill","","Parm","Conservative","Conservateur",N,N,26
+35106,"York West","York-Ouest"," 141A","North York",N,N,"",2,356,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 141A","North York",N,N,"",2,356,"Sgro","","Judy","Liberal","Libéral",Y,Y,108
+35106,"York West","York-Ouest"," 141B","North York",N,N,"",0,327,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 141B","North York",N,N,"",0,327,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 141B","North York",N,N,"",0,327,"Gill","","Parm","Conservative","Conservateur",N,N,16
+35106,"York West","York-Ouest"," 141B","North York",N,N,"",0,327,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,16
+35106,"York West","York-Ouest"," 141B","North York",N,N,"",0,327,"Sgro","","Judy","Liberal","Libéral",Y,Y,94
+35106,"York West","York-Ouest"," 142","North York",N,N,"",1,315,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 142","North York",N,N,"",1,315,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 142","North York",N,N,"",1,315,"Gill","","Parm","Conservative","Conservateur",N,N,31
+35106,"York West","York-Ouest"," 142","North York",N,N,"",1,315,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,17
+35106,"York West","York-Ouest"," 142","North York",N,N,"",1,315,"Sgro","","Judy","Liberal","Libéral",Y,Y,78
+35106,"York West","York-Ouest"," 143","North York",N,N,"",4,346,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 143","North York",N,N,"",4,346,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 143","North York",N,N,"",4,346,"Gill","","Parm","Conservative","Conservateur",N,N,51
+35106,"York West","York-Ouest"," 143","North York",N,N,"",4,346,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,17
+35106,"York West","York-Ouest"," 143","North York",N,N,"",4,346,"Sgro","","Judy","Liberal","Libéral",Y,Y,90
+35106,"York West","York-Ouest"," 144","North York",N,N,"",0,247,"Capra","","Nick","Green Party","Parti Vert",N,N,4
+35106,"York West","York-Ouest"," 144","North York",N,N,"",0,247,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 144","North York",N,N,"",0,247,"Gill","","Parm","Conservative","Conservateur",N,N,33
+35106,"York West","York-Ouest"," 144","North York",N,N,"",0,247,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,26
+35106,"York West","York-Ouest"," 144","North York",N,N,"",0,247,"Sgro","","Judy","Liberal","Libéral",Y,Y,73
+35106,"York West","York-Ouest"," 145","North York",N,N,"",0,226,"Capra","","Nick","Green Party","Parti Vert",N,N,5
+35106,"York West","York-Ouest"," 145","North York",N,N,"",0,226,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 145","North York",N,N,"",0,226,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 145","North York",N,N,"",0,226,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,15
+35106,"York West","York-Ouest"," 145","North York",N,N,"",0,226,"Sgro","","Judy","Liberal","Libéral",Y,Y,74
+35106,"York West","York-Ouest"," 400","North York",N,N,"",0,477,"Capra","","Nick","Green Party","Parti Vert",N,N,18
+35106,"York West","York-Ouest"," 400","North York",N,N,"",0,477,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 400","North York",N,N,"",0,477,"Gill","","Parm","Conservative","Conservateur",N,N,62
+35106,"York West","York-Ouest"," 400","North York",N,N,"",0,477,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,74
+35106,"York West","York-Ouest"," 400","North York",N,N,"",0,477,"Sgro","","Judy","Liberal","Libéral",Y,Y,134
+35106,"York West","York-Ouest"," 401","North York",N,N,"",0,340,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 401","North York",N,N,"",0,340,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 401","North York",N,N,"",0,340,"Gill","","Parm","Conservative","Conservateur",N,N,28
+35106,"York West","York-Ouest"," 401","North York",N,N,"",0,340,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,62
+35106,"York West","York-Ouest"," 401","North York",N,N,"",0,340,"Sgro","","Judy","Liberal","Libéral",Y,Y,94
+35106,"York West","York-Ouest"," 402","North York",N,N,"",0,335,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 402","North York",N,N,"",0,335,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 402","North York",N,N,"",0,335,"Gill","","Parm","Conservative","Conservateur",N,N,27
+35106,"York West","York-Ouest"," 402","North York",N,N,"",0,335,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,42
+35106,"York West","York-Ouest"," 402","North York",N,N,"",0,335,"Sgro","","Judy","Liberal","Libéral",Y,Y,63
+35106,"York West","York-Ouest"," 403","North York",N,N,"",0,323,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 403","North York",N,N,"",0,323,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 403","North York",N,N,"",0,323,"Gill","","Parm","Conservative","Conservateur",N,N,37
+35106,"York West","York-Ouest"," 403","North York",N,N,"",0,323,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,36
+35106,"York West","York-Ouest"," 403","North York",N,N,"",0,323,"Sgro","","Judy","Liberal","Libéral",Y,Y,93
+35106,"York West","York-Ouest"," 404","North York",N,N,"",6,494,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 404","North York",N,N,"",6,494,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 404","North York",N,N,"",6,494,"Gill","","Parm","Conservative","Conservateur",N,N,18
+35106,"York West","York-Ouest"," 404","North York",N,N,"",6,494,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,38
+35106,"York West","York-Ouest"," 404","North York",N,N,"",6,494,"Sgro","","Judy","Liberal","Libéral",Y,Y,221
+35106,"York West","York-Ouest"," 405","North York",N,N,"",0,275,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 405","North York",N,N,"",0,275,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 405","North York",N,N,"",0,275,"Gill","","Parm","Conservative","Conservateur",N,N,27
+35106,"York West","York-Ouest"," 405","North York",N,N,"",0,275,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,5
+35106,"York West","York-Ouest"," 405","North York",N,N,"",0,275,"Sgro","","Judy","Liberal","Libéral",Y,Y,69
+35106,"York West","York-Ouest"," 406","North York",N,N,"",1,351,"Capra","","Nick","Green Party","Parti Vert",N,N,1
+35106,"York West","York-Ouest"," 406","North York",N,N,"",1,351,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 406","North York",N,N,"",1,351,"Gill","","Parm","Conservative","Conservateur",N,N,50
+35106,"York West","York-Ouest"," 406","North York",N,N,"",1,351,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,9
+35106,"York West","York-Ouest"," 406","North York",N,N,"",1,351,"Sgro","","Judy","Liberal","Libéral",Y,Y,66
+35106,"York West","York-Ouest"," 407","North York",N,N,"",2,333,"Capra","","Nick","Green Party","Parti Vert",N,N,0
+35106,"York West","York-Ouest"," 407","North York",N,N,"",2,333,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 407","North York",N,N,"",2,333,"Gill","","Parm","Conservative","Conservateur",N,N,24
+35106,"York West","York-Ouest"," 407","North York",N,N,"",2,333,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,29
+35106,"York West","York-Ouest"," 407","North York",N,N,"",2,333,"Sgro","","Judy","Liberal","Libéral",Y,Y,92
+35106,"York West","York-Ouest"," 600","Toronto",N,N,"",3,0,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 600","Toronto",N,N,"",3,0,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 600","Toronto",N,N,"",3,0,"Gill","","Parm","Conservative","Conservateur",N,N,188
+35106,"York West","York-Ouest"," 600","Toronto",N,N,"",3,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,41
+35106,"York West","York-Ouest"," 600","Toronto",N,N,"",3,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,238
+35106,"York West","York-Ouest"," 601","Toronto",N,N,"",8,0,"Capra","","Nick","Green Party","Parti Vert",N,N,18
+35106,"York West","York-Ouest"," 601","Toronto",N,N,"",8,0,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 601","Toronto",N,N,"",8,0,"Gill","","Parm","Conservative","Conservateur",N,N,93
+35106,"York West","York-Ouest"," 601","Toronto",N,N,"",8,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,35
+35106,"York West","York-Ouest"," 601","Toronto",N,N,"",8,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,286
+35106,"York West","York-Ouest"," 602","Toronto",N,N,"",2,0,"Capra","","Nick","Green Party","Parti Vert",N,N,15
+35106,"York West","York-Ouest"," 602","Toronto",N,N,"",2,0,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 602","Toronto",N,N,"",2,0,"Gill","","Parm","Conservative","Conservateur",N,N,56
+35106,"York West","York-Ouest"," 602","Toronto",N,N,"",2,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,55
+35106,"York West","York-Ouest"," 602","Toronto",N,N,"",2,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,118
+35106,"York West","York-Ouest"," 603","Toronto",N,N,"",2,0,"Capra","","Nick","Green Party","Parti Vert",N,N,14
+35106,"York West","York-Ouest"," 603","Toronto",N,N,"",2,0,"Cocon","","Axcel","Independent","Indépendant",N,N,3
+35106,"York West","York-Ouest"," 603","Toronto",N,N,"",2,0,"Gill","","Parm","Conservative","Conservateur",N,N,77
+35106,"York West","York-Ouest"," 603","Toronto",N,N,"",2,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,35
+35106,"York West","York-Ouest"," 603","Toronto",N,N,"",2,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,223
+35106,"York West","York-Ouest"," 604","Toronto",N,N,"",1,0,"Capra","","Nick","Green Party","Parti Vert",N,N,6
+35106,"York West","York-Ouest"," 604","Toronto",N,N,"",1,0,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 604","Toronto",N,N,"",1,0,"Gill","","Parm","Conservative","Conservateur",N,N,64
+35106,"York West","York-Ouest"," 604","Toronto",N,N,"",1,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,33
+35106,"York West","York-Ouest"," 604","Toronto",N,N,"",1,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,132
+35106,"York West","York-Ouest"," 605","Toronto",N,N,"",6,0,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," 605","Toronto",N,N,"",6,0,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," 605","Toronto",N,N,"",6,0,"Gill","","Parm","Conservative","Conservateur",N,N,70
+35106,"York West","York-Ouest"," 605","Toronto",N,N,"",6,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,21
+35106,"York West","York-Ouest"," 605","Toronto",N,N,"",6,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,203
+35106,"York West","York-Ouest"," 606","Toronto",N,N,"",8,0,"Capra","","Nick","Green Party","Parti Vert",N,N,18
+35106,"York West","York-Ouest"," 606","Toronto",N,N,"",8,0,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," 606","Toronto",N,N,"",8,0,"Gill","","Parm","Conservative","Conservateur",N,N,154
+35106,"York West","York-Ouest"," 606","Toronto",N,N,"",8,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,48
+35106,"York West","York-Ouest"," 606","Toronto",N,N,"",8,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,290
+35106,"York West","York-Ouest"," 607","Toronto",N,N,"",0,0,"Capra","","Nick","Green Party","Parti Vert",N,N,3
+35106,"York West","York-Ouest"," 607","Toronto",N,N,"",0,0,"Cocon","","Axcel","Independent","Indépendant",N,N,0
+35106,"York West","York-Ouest"," 607","Toronto",N,N,"",0,0,"Gill","","Parm","Conservative","Conservateur",N,N,53
+35106,"York West","York-Ouest"," 607","Toronto",N,N,"",0,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,23
+35106,"York West","York-Ouest"," 607","Toronto",N,N,"",0,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,112
+35106,"York West","York-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,92,"Capra","","Nick","Green Party","Parti Vert",N,N,2
+35106,"York West","York-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,92,"Cocon","","Axcel","Independent","Indépendant",N,N,2
+35106,"York West","York-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,92,"Gill","","Parm","Conservative","Conservateur",N,N,8
+35106,"York West","York-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,92,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,10
+35106,"York West","York-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",7,92,"Sgro","","Judy","Liberal","Libéral",Y,Y,29
+35106,"York West","York-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Capra","","Nick","Green Party","Parti Vert",N,N,8
+35106,"York West","York-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Cocon","","Axcel","Independent","Indépendant",N,N,1
+35106,"York West","York-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Gill","","Parm","Conservative","Conservateur",N,N,112
+35106,"York West","York-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Romano Anthony","","Sandra","N.D.P.","N.P.D.",N,N,46
+35106,"York West","York-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Sgro","","Judy","Liberal","Libéral",Y,Y,412

@@ -1,0 +1,781 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,214,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,214,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,214,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,214,"Nault","","Bob","Liberal","Libéral",N,Y,42
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,214,"Rickford","","Greg","Conservative","Conservateur",Y,N,5
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",1,220,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",1,220,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,167
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",1,220,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",1,220,"Nault","","Bob","Liberal","Libéral",N,Y,6
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",1,220,"Rickford","","Greg","Conservative","Conservateur",Y,N,1
+35042,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",3,479,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",3,479,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,218
+35042,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",3,479,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",3,479,"Nault","","Bob","Liberal","Libéral",N,Y,34
+35042,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",3,479,"Rickford","","Greg","Conservative","Conservateur",Y,N,3
+35042,"Kenora","Kenora"," 4","Bearskin Lake",N,N,"",2,234,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 4","Bearskin Lake",N,N,"",2,234,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,157
+35042,"Kenora","Kenora"," 4","Bearskin Lake",N,N,"",2,234,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 4","Bearskin Lake",N,N,"",2,234,"Nault","","Bob","Liberal","Libéral",N,Y,13
+35042,"Kenora","Kenora"," 4","Bearskin Lake",N,N,"",2,234,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",1,228,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",1,228,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,125
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",1,228,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",1,228,"Nault","","Bob","Liberal","Libéral",N,Y,40
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",1,228,"Rickford","","Greg","Conservative","Conservateur",Y,N,3
+35042,"Kenora","Kenora"," 6","Muskrat Dam Lake",N,N,"",0,149,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 6","Muskrat Dam Lake",N,N,"",0,149,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35042,"Kenora","Kenora"," 6","Muskrat Dam Lake",N,N,"",0,149,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 6","Muskrat Dam Lake",N,N,"",0,149,"Nault","","Bob","Liberal","Libéral",N,Y,26
+35042,"Kenora","Kenora"," 6","Muskrat Dam Lake",N,N,"",0,149,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 7","Kee-Way-Win",N,N,"",0,175,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 7","Kee-Way-Win",N,N,"",0,175,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35042,"Kenora","Kenora"," 7","Kee-Way-Win",N,N,"",0,175,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 7","Kee-Way-Win",N,N,"",0,175,"Nault","","Bob","Liberal","Libéral",N,Y,111
+35042,"Kenora","Kenora"," 7","Kee-Way-Win",N,N,"",0,175,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 8A","Sandy Lake First Nation",N,N,"",0,529,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 8A","Sandy Lake First Nation",N,N,"",0,529,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35042,"Kenora","Kenora"," 8A","Sandy Lake First Nation",N,N,"",0,529,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 8A","Sandy Lake First Nation",N,N,"",0,529,"Nault","","Bob","Liberal","Libéral",N,Y,258
+35042,"Kenora","Kenora"," 8A","Sandy Lake First Nation",N,N,"",0,529,"Rickford","","Greg","Conservative","Conservateur",Y,N,5
+35042,"Kenora","Kenora"," 8B","Sandy Lake First Nation",N,N,"",0,393,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 8B","Sandy Lake First Nation",N,N,"",0,393,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35042,"Kenora","Kenora"," 8B","Sandy Lake First Nation",N,N,"",0,393,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 8B","Sandy Lake First Nation",N,N,"",0,393,"Nault","","Bob","Liberal","Libéral",N,Y,341
+35042,"Kenora","Kenora"," 8B","Sandy Lake First Nation",N,N,"",0,393,"Rickford","","Greg","Conservative","Conservateur",Y,N,2
+35042,"Kenora","Kenora"," 9","North Spirit Lake",N,N,"",0,148,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 9","North Spirit Lake",N,N,"",0,148,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 9","North Spirit Lake",N,N,"",0,148,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 9","North Spirit Lake",N,N,"",0,148,"Nault","","Bob","Liberal","Libéral",N,Y,60
+35042,"Kenora","Kenora"," 9","North Spirit Lake",N,N,"",0,148,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 10","Weagamow Lake 87",N,N,"",1,398,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 10","Weagamow Lake 87",N,N,"",1,398,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,310
+35042,"Kenora","Kenora"," 10","Weagamow Lake 87",N,N,"",1,398,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 10","Weagamow Lake 87",N,N,"",1,398,"Nault","","Bob","Liberal","Libéral",N,Y,28
+35042,"Kenora","Kenora"," 10","Weagamow Lake 87",N,N,"",1,398,"Rickford","","Greg","Conservative","Conservateur",Y,N,8
+35042,"Kenora","Kenora"," 11","Kingfisher Lake 1",N,N,"",8,281,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 11","Kingfisher Lake 1",N,N,"",8,281,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,170
+35042,"Kenora","Kenora"," 11","Kingfisher Lake 1",N,N,"",8,281,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 11","Kingfisher Lake 1",N,N,"",8,281,"Nault","","Bob","Liberal","Libéral",N,Y,5
+35042,"Kenora","Kenora"," 11","Kingfisher Lake 1",N,N,"",8,281,"Rickford","","Greg","Conservative","Conservateur",Y,N,2
+35042,"Kenora","Kenora"," 12","Kasabonika Lake",N,N,"",1,331,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 12","Kasabonika Lake",N,N,"",1,331,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,294
+35042,"Kenora","Kenora"," 12","Kasabonika Lake",N,N,"",1,331,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 12","Kasabonika Lake",N,N,"",1,331,"Nault","","Bob","Liberal","Libéral",N,Y,9
+35042,"Kenora","Kenora"," 12","Kasabonika Lake",N,N,"",1,331,"Rickford","","Greg","Conservative","Conservateur",Y,N,6
+35042,"Kenora","Kenora"," 13","Summer Beaver",N,N,"",0,207,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 13","Summer Beaver",N,N,"",0,207,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+35042,"Kenora","Kenora"," 13","Summer Beaver",N,N,"",0,207,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 13","Summer Beaver",N,N,"",0,207,"Nault","","Bob","Liberal","Libéral",N,Y,29
+35042,"Kenora","Kenora"," 13","Summer Beaver",N,N,"",0,207,"Rickford","","Greg","Conservative","Conservateur",Y,N,1
+35042,"Kenora","Kenora"," 14","Webequie",N,N,"",3,387,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 14","Webequie",N,N,"",3,387,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,178
+35042,"Kenora","Kenora"," 14","Webequie",N,N,"",3,387,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 14","Webequie",N,N,"",3,387,"Nault","","Bob","Liberal","Libéral",N,Y,105
+35042,"Kenora","Kenora"," 14","Webequie",N,N,"",3,387,"Rickford","","Greg","Conservative","Conservateur",Y,N,3
+35042,"Kenora","Kenora"," 15","Neskantaga",N,N,"",0,143,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 15","Neskantaga",N,N,"",0,143,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35042,"Kenora","Kenora"," 15","Neskantaga",N,N,"",0,143,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 15","Neskantaga",N,N,"",0,143,"Nault","","Bob","Liberal","Libéral",N,Y,51
+35042,"Kenora","Kenora"," 15","Neskantaga",N,N,"",0,143,"Rickford","","Greg","Conservative","Conservateur",Y,N,2
+35042,"Kenora","Kenora"," 16","Wunnummin Lake",N,N,"",15,301,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 16","Wunnummin Lake",N,N,"",15,301,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,179
+35042,"Kenora","Kenora"," 16","Wunnummin Lake",N,N,"",15,301,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 16","Wunnummin Lake",N,N,"",15,301,"Nault","","Bob","Liberal","Libéral",N,Y,45
+35042,"Kenora","Kenora"," 16","Wunnummin Lake",N,N,"",15,301,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 17","Pickle Lake",N,N,"",0,287,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 17","Pickle Lake",N,N,"",0,287,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35042,"Kenora","Kenora"," 17","Pickle Lake",N,N,"",0,287,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 17","Pickle Lake",N,N,"",0,287,"Nault","","Bob","Liberal","Libéral",N,Y,54
+35042,"Kenora","Kenora"," 17","Pickle Lake",N,N,"",0,287,"Rickford","","Greg","Conservative","Conservateur",Y,N,66
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,336,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,336,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,134
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,336,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,336,"Nault","","Bob","Liberal","Libéral",N,Y,31
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,336,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 19","Deer Lake",N,N,"",0,418,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 19","Deer Lake",N,N,"",0,418,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35042,"Kenora","Kenora"," 19","Deer Lake",N,N,"",0,418,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 19","Deer Lake",N,N,"",0,418,"Nault","","Bob","Liberal","Libéral",N,Y,258
+35042,"Kenora","Kenora"," 19","Deer Lake",N,N,"",0,418,"Rickford","","Greg","Conservative","Conservateur",Y,N,9
+35042,"Kenora","Kenora"," 20","Cat Lake 63C",N,N,"",3,199,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 20","Cat Lake 63C",N,N,"",3,199,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+35042,"Kenora","Kenora"," 20","Cat Lake 63C",N,N,"",3,199,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 20","Cat Lake 63C",N,N,"",3,199,"Nault","","Bob","Liberal","Libéral",N,Y,27
+35042,"Kenora","Kenora"," 20","Cat Lake 63C",N,N,"",3,199,"Rickford","","Greg","Conservative","Conservateur",Y,N,6
+35042,"Kenora","Kenora"," 21","Ear Falls",N,N,"",2,351,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 21","Ear Falls",N,N,"",2,351,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35042,"Kenora","Kenora"," 21","Ear Falls",N,N,"",2,351,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 21","Ear Falls",N,N,"",2,351,"Nault","","Bob","Liberal","Libéral",N,Y,59
+35042,"Kenora","Kenora"," 21","Ear Falls",N,N,"",2,351,"Rickford","","Greg","Conservative","Conservateur",Y,N,70
+35042,"Kenora","Kenora"," 22","Ear Falls",N,N,"",2,418,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 22","Ear Falls",N,N,"",2,418,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 22","Ear Falls",N,N,"",2,418,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 22","Ear Falls",N,N,"",2,418,"Nault","","Bob","Liberal","Libéral",N,Y,66
+35042,"Kenora","Kenora"," 22","Ear Falls",N,N,"",2,418,"Rickford","","Greg","Conservative","Conservateur",Y,N,92
+35042,"Kenora","Kenora"," 23","Pikangikum 14",N,N,"",0,683,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 23","Pikangikum 14",N,N,"",0,683,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,235
+35042,"Kenora","Kenora"," 23","Pikangikum 14",N,N,"",0,683,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 23","Pikangikum 14",N,N,"",0,683,"Nault","","Bob","Liberal","Libéral",N,Y,34
+35042,"Kenora","Kenora"," 23","Pikangikum 14",N,N,"",0,683,"Rickford","","Greg","Conservative","Conservateur",Y,N,9
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,447,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,447,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,447,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,14
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,447,"Nault","","Bob","Liberal","Libéral",N,Y,124
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,447,"Rickford","","Greg","Conservative","Conservateur",Y,N,56
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,287,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,3
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,287,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,287,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,287,"Nault","","Bob","Liberal","Libéral",N,Y,84
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,287,"Rickford","","Greg","Conservative","Conservateur",Y,N,46
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",1,525,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,5
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",1,525,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",1,525,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",1,525,"Nault","","Bob","Liberal","Libéral",N,Y,113
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",1,525,"Rickford","","Greg","Conservative","Conservateur",Y,N,91
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",0,316,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",0,316,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",0,316,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",0,316,"Nault","","Bob","Liberal","Libéral",N,Y,70
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",0,316,"Rickford","","Greg","Conservative","Conservateur",Y,N,49
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",0,423,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",0,423,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",0,423,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",0,423,"Nault","","Bob","Liberal","Libéral",N,Y,121
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",0,423,"Rickford","","Greg","Conservative","Conservateur",Y,N,46
+35042,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,467,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,467,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35042,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,467,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,467,"Nault","","Bob","Liberal","Libéral",N,Y,103
+35042,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,467,"Rickford","","Greg","Conservative","Conservateur",Y,N,56
+35042,"Kenora","Kenora"," 30","Red Lake",N,N,"",0,350,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 30","Red Lake",N,N,"",0,350,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35042,"Kenora","Kenora"," 30","Red Lake",N,N,"",0,350,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,9
+35042,"Kenora","Kenora"," 30","Red Lake",N,N,"",0,350,"Nault","","Bob","Liberal","Libéral",N,Y,61
+35042,"Kenora","Kenora"," 30","Red Lake",N,N,"",0,350,"Rickford","","Greg","Conservative","Conservateur",Y,N,47
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,413,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,413,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,413,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,8
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,413,"Nault","","Bob","Liberal","Libéral",N,Y,80
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,413,"Rickford","","Greg","Conservative","Conservateur",Y,N,65
+35042,"Kenora","Kenora"," 32","Madsen",N,N,"",0,146,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 32","Madsen",N,N,"",0,146,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35042,"Kenora","Kenora"," 32","Madsen",N,N,"",0,146,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 32","Madsen",N,N,"",0,146,"Nault","","Bob","Liberal","Libéral",N,Y,22
+35042,"Kenora","Kenora"," 32","Madsen",N,N,"",0,146,"Rickford","","Greg","Conservative","Conservateur",Y,N,17
+35042,"Kenora","Kenora"," 33","Islington 29",N,N,"",1,378,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,3
+35042,"Kenora","Kenora"," 33","Islington 29",N,N,"",1,378,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,125
+35042,"Kenora","Kenora"," 33","Islington 29",N,N,"",1,378,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 33","Islington 29",N,N,"",1,378,"Nault","","Bob","Liberal","Libéral",N,Y,71
+35042,"Kenora","Kenora"," 33","Islington 29",N,N,"",1,378,"Rickford","","Greg","Conservative","Conservateur",Y,N,3
+35042,"Kenora","Kenora"," 34","Quibell",N,N,"",1,178,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 34","Quibell",N,N,"",1,178,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," 34","Quibell",N,N,"",1,178,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 34","Quibell",N,N,"",1,178,"Nault","","Bob","Liberal","Libéral",N,Y,9
+35042,"Kenora","Kenora"," 34","Quibell",N,N,"",1,178,"Rickford","","Greg","Conservative","Conservateur",Y,N,46
+35042,"Kenora","Kenora"," 35","Rugby Township",N,N,"",0,405,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 35","Rugby Township",N,N,"",0,405,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35042,"Kenora","Kenora"," 35","Rugby Township",N,N,"",0,405,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 35","Rugby Township",N,N,"",0,405,"Nault","","Bob","Liberal","Libéral",N,Y,49
+35042,"Kenora","Kenora"," 35","Rugby Township",N,N,"",0,405,"Rickford","","Greg","Conservative","Conservateur",Y,N,51
+35042,"Kenora","Kenora"," 36","Oxdrift",N,N,"",1,417,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 36","Oxdrift",N,N,"",1,417,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35042,"Kenora","Kenora"," 36","Oxdrift",N,N,"",1,417,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 36","Oxdrift",N,N,"",1,417,"Nault","","Bob","Liberal","Libéral",N,Y,67
+35042,"Kenora","Kenora"," 36","Oxdrift",N,N,"",1,417,"Rickford","","Greg","Conservative","Conservateur",Y,N,119
+35042,"Kenora","Kenora"," 37","Two Mile Corner",N,N,"",0,420,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 37","Two Mile Corner",N,N,"",0,420,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35042,"Kenora","Kenora"," 37","Two Mile Corner",N,N,"",0,420,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 37","Two Mile Corner",N,N,"",0,420,"Nault","","Bob","Liberal","Libéral",N,Y,59
+35042,"Kenora","Kenora"," 37","Two Mile Corner",N,N,"",0,420,"Rickford","","Greg","Conservative","Conservateur",Y,N,83
+35042,"Kenora","Kenora"," 38","Lac Seul 28",N,N,"",3,374,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 38","Lac Seul 28",N,N,"",3,374,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35042,"Kenora","Kenora"," 38","Lac Seul 28",N,N,"",3,374,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 38","Lac Seul 28",N,N,"",3,374,"Nault","","Bob","Liberal","Libéral",N,Y,74
+35042,"Kenora","Kenora"," 38","Lac Seul 28",N,N,"",3,374,"Rickford","","Greg","Conservative","Conservateur",Y,N,56
+35042,"Kenora","Kenora"," 39","Sioux Lookout",N,N,"",1,419,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 39","Sioux Lookout",N,N,"",1,419,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35042,"Kenora","Kenora"," 39","Sioux Lookout",N,N,"",1,419,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 39","Sioux Lookout",N,N,"",1,419,"Nault","","Bob","Liberal","Libéral",N,Y,92
+35042,"Kenora","Kenora"," 39","Sioux Lookout",N,N,"",1,419,"Rickford","","Greg","Conservative","Conservateur",Y,N,49
+35042,"Kenora","Kenora"," 40A","Sioux Lookout",N,N,"",0,522,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 40A","Sioux Lookout",N,N,"",0,522,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35042,"Kenora","Kenora"," 40A","Sioux Lookout",N,N,"",0,522,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 40A","Sioux Lookout",N,N,"",0,522,"Nault","","Bob","Liberal","Libéral",N,Y,100
+35042,"Kenora","Kenora"," 40A","Sioux Lookout",N,N,"",0,522,"Rickford","","Greg","Conservative","Conservateur",Y,N,81
+35042,"Kenora","Kenora"," 40B","Sioux Lookout",N,N,"",0,481,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 40B","Sioux Lookout",N,N,"",0,481,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35042,"Kenora","Kenora"," 40B","Sioux Lookout",N,N,"",0,481,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 40B","Sioux Lookout",N,N,"",0,481,"Nault","","Bob","Liberal","Libéral",N,Y,101
+35042,"Kenora","Kenora"," 40B","Sioux Lookout",N,N,"",0,481,"Rickford","","Greg","Conservative","Conservateur",Y,N,81
+35042,"Kenora","Kenora"," 41","Sioux Lookout",N,N,"",0,285,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 41","Sioux Lookout",N,N,"",0,285,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35042,"Kenora","Kenora"," 41","Sioux Lookout",N,N,"",0,285,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 41","Sioux Lookout",N,N,"",0,285,"Nault","","Bob","Liberal","Libéral",N,Y,60
+35042,"Kenora","Kenora"," 41","Sioux Lookout",N,N,"",0,285,"Rickford","","Greg","Conservative","Conservateur",Y,N,29
+35042,"Kenora","Kenora"," 42","Sioux Lookout",N,N,"",0,162,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 42","Sioux Lookout",N,N,"",0,162,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35042,"Kenora","Kenora"," 42","Sioux Lookout",N,N,"",0,162,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 42","Sioux Lookout",N,N,"",0,162,"Nault","","Bob","Liberal","Libéral",N,Y,41
+35042,"Kenora","Kenora"," 42","Sioux Lookout",N,N,"",0,162,"Rickford","","Greg","Conservative","Conservateur",Y,N,17
+35042,"Kenora","Kenora"," 43","Sioux Lookout",N,N,"",0,292,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 43","Sioux Lookout",N,N,"",0,292,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35042,"Kenora","Kenora"," 43","Sioux Lookout",N,N,"",0,292,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 43","Sioux Lookout",N,N,"",0,292,"Nault","","Bob","Liberal","Libéral",N,Y,45
+35042,"Kenora","Kenora"," 43","Sioux Lookout",N,N,"",0,292,"Rickford","","Greg","Conservative","Conservateur",Y,N,25
+35042,"Kenora","Kenora"," 44","Sioux Lookout",N,N,"",0,476,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 44","Sioux Lookout",N,N,"",0,476,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+35042,"Kenora","Kenora"," 44","Sioux Lookout",N,N,"",0,476,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 44","Sioux Lookout",N,N,"",0,476,"Nault","","Bob","Liberal","Libéral",N,Y,91
+35042,"Kenora","Kenora"," 44","Sioux Lookout",N,N,"",0,476,"Rickford","","Greg","Conservative","Conservateur",Y,N,32
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,290,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,290,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,290,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,290,"Nault","","Bob","Liberal","Libéral",N,Y,60
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,290,"Rickford","","Greg","Conservative","Conservateur",Y,N,24
+35042,"Kenora","Kenora"," 46","Slate Falls",N,N,"",0,104,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 46","Slate Falls",N,N,"",0,104,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35042,"Kenora","Kenora"," 46","Slate Falls",N,N,"",0,104,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 46","Slate Falls",N,N,"",0,104,"Nault","","Bob","Liberal","Libéral",N,Y,19
+35042,"Kenora","Kenora"," 46","Slate Falls",N,N,"",0,104,"Rickford","","Greg","Conservative","Conservateur",Y,N,2
+35042,"Kenora","Kenora"," 47","Saugeen First Nation",N,N,"49",0,26,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 47","Saugeen First Nation",N,N,"49",0,26,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 47","Saugeen First Nation",N,N,"49",0,26,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 47","Saugeen First Nation",N,N,"49",0,26,"Nault","","Bob","Liberal","Libéral",N,Y,0
+35042,"Kenora","Kenora"," 47","Saugeen First Nation",N,N,"49",0,26,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 48A","Osnaburgh 63A",N,N,"",1,79,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 48A","Osnaburgh 63A",N,N,"",1,79,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35042,"Kenora","Kenora"," 48A","Osnaburgh 63A",N,N,"",1,79,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 48A","Osnaburgh 63A",N,N,"",1,79,"Nault","","Bob","Liberal","Libéral",N,Y,12
+35042,"Kenora","Kenora"," 48A","Osnaburgh 63A",N,N,"",1,79,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 48B","Osnaburgh 63A",N,N,"",0,147,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 48B","Osnaburgh 63A",N,N,"",0,147,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35042,"Kenora","Kenora"," 48B","Osnaburgh 63A",N,N,"",0,147,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 48B","Osnaburgh 63A",N,N,"",0,147,"Nault","","Bob","Liberal","Libéral",N,Y,20
+35042,"Kenora","Kenora"," 48B","Osnaburgh 63A",N,N,"",0,147,"Rickford","","Greg","Conservative","Conservateur",Y,N,1
+35042,"Kenora","Kenora"," 49","Savant Lake",N,N,"",0,42,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 49","Savant Lake",N,N,"",0,42,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35042,"Kenora","Kenora"," 49","Savant Lake",N,N,"",0,42,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 49","Savant Lake",N,N,"",0,42,"Nault","","Bob","Liberal","Libéral",N,Y,8
+35042,"Kenora","Kenora"," 49","Savant Lake",N,N,"",0,42,"Rickford","","Greg","Conservative","Conservateur",Y,N,8
+35042,"Kenora","Kenora"," 50A","Lac Seul 28",N,N,"",4,210,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 50A","Lac Seul 28",N,N,"",4,210,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+35042,"Kenora","Kenora"," 50A","Lac Seul 28",N,N,"",4,210,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 50A","Lac Seul 28",N,N,"",4,210,"Nault","","Bob","Liberal","Libéral",N,Y,77
+35042,"Kenora","Kenora"," 50A","Lac Seul 28",N,N,"",4,210,"Rickford","","Greg","Conservative","Conservateur",Y,N,4
+35042,"Kenora","Kenora"," 50B","Lac Seul 28",N,N,"",0,189,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 50B","Lac Seul 28",N,N,"",0,189,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35042,"Kenora","Kenora"," 50B","Lac Seul 28",N,N,"",0,189,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 50B","Lac Seul 28",N,N,"",0,189,"Nault","","Bob","Liberal","Libéral",N,Y,28
+35042,"Kenora","Kenora"," 50B","Lac Seul 28",N,N,"",0,189,"Rickford","","Greg","Conservative","Conservateur",Y,N,8
+35042,"Kenora","Kenora"," 51","Kenora, Unorganized",N,N,"",0,295,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 51","Kenora, Unorganized",N,N,"",0,295,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35042,"Kenora","Kenora"," 51","Kenora, Unorganized",N,N,"",0,295,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 51","Kenora, Unorganized",N,N,"",0,295,"Nault","","Bob","Liberal","Libéral",N,Y,72
+35042,"Kenora","Kenora"," 51","Kenora, Unorganized",N,N,"",0,295,"Rickford","","Greg","Conservative","Conservateur",Y,N,48
+35042,"Kenora","Kenora"," 52","Wabigoon",N,N,"",0,425,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 52","Wabigoon",N,N,"",0,425,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35042,"Kenora","Kenora"," 52","Wabigoon",N,N,"",0,425,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 52","Wabigoon",N,N,"",0,425,"Nault","","Bob","Liberal","Libéral",N,Y,84
+35042,"Kenora","Kenora"," 52","Wabigoon",N,N,"",0,425,"Rickford","","Greg","Conservative","Conservateur",Y,N,32
+35042,"Kenora","Kenora"," 53","Dinorwic",N,N,"",1,177,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 53","Dinorwic",N,N,"",1,177,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35042,"Kenora","Kenora"," 53","Dinorwic",N,N,"",1,177,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 53","Dinorwic",N,N,"",1,177,"Nault","","Bob","Liberal","Libéral",N,Y,26
+35042,"Kenora","Kenora"," 53","Dinorwic",N,N,"",1,177,"Rickford","","Greg","Conservative","Conservateur",Y,N,21
+35042,"Kenora","Kenora"," 54","Machin",N,N,"",0,219,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 54","Machin",N,N,"",0,219,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35042,"Kenora","Kenora"," 54","Machin",N,N,"",0,219,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 54","Machin",N,N,"",0,219,"Nault","","Bob","Liberal","Libéral",N,Y,32
+35042,"Kenora","Kenora"," 54","Machin",N,N,"",0,219,"Rickford","","Greg","Conservative","Conservateur",Y,N,66
+35042,"Kenora","Kenora"," 55","Machin",N,N,"",0,327,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 55","Machin",N,N,"",0,327,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35042,"Kenora","Kenora"," 55","Machin",N,N,"",0,327,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 55","Machin",N,N,"",0,327,"Nault","","Bob","Liberal","Libéral",N,Y,79
+35042,"Kenora","Kenora"," 55","Machin",N,N,"",0,327,"Rickford","","Greg","Conservative","Conservateur",Y,N,82
+35042,"Kenora","Kenora"," 56","Eagle River",N,N,"",1,507,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 56","Eagle River",N,N,"",1,507,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35042,"Kenora","Kenora"," 56","Eagle River",N,N,"",1,507,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 56","Eagle River",N,N,"",1,507,"Nault","","Bob","Liberal","Libéral",N,Y,87
+35042,"Kenora","Kenora"," 56","Eagle River",N,N,"",1,507,"Rickford","","Greg","Conservative","Conservateur",Y,N,121
+35042,"Kenora","Kenora"," 57","Eagle Lake 27",N,N,"",0,167,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 57","Eagle Lake 27",N,N,"",0,167,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35042,"Kenora","Kenora"," 57","Eagle Lake 27",N,N,"",0,167,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 57","Eagle Lake 27",N,N,"",0,167,"Nault","","Bob","Liberal","Libéral",N,Y,45
+35042,"Kenora","Kenora"," 57","Eagle Lake 27",N,N,"",0,167,"Rickford","","Greg","Conservative","Conservateur",Y,N,4
+35042,"Kenora","Kenora"," 58","Longbow Lake",N,N,"",0,480,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,4
+35042,"Kenora","Kenora"," 58","Longbow Lake",N,N,"",0,480,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35042,"Kenora","Kenora"," 58","Longbow Lake",N,N,"",0,480,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 58","Longbow Lake",N,N,"",0,480,"Nault","","Bob","Liberal","Libéral",N,Y,92
+35042,"Kenora","Kenora"," 58","Longbow Lake",N,N,"",0,480,"Rickford","","Greg","Conservative","Conservateur",Y,N,142
+35042,"Kenora","Kenora"," 59","Jaffray and Melick",N,N,"",0,459,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,7
+35042,"Kenora","Kenora"," 59","Jaffray and Melick",N,N,"",0,459,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35042,"Kenora","Kenora"," 59","Jaffray and Melick",N,N,"",0,459,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,9
+35042,"Kenora","Kenora"," 59","Jaffray and Melick",N,N,"",0,459,"Nault","","Bob","Liberal","Libéral",N,Y,89
+35042,"Kenora","Kenora"," 59","Jaffray and Melick",N,N,"",0,459,"Rickford","","Greg","Conservative","Conservateur",Y,N,95
+35042,"Kenora","Kenora"," 60","Kenora",N,N,"",0,492,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 60","Kenora",N,N,"",0,492,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35042,"Kenora","Kenora"," 60","Kenora",N,N,"",0,492,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 60","Kenora",N,N,"",0,492,"Nault","","Bob","Liberal","Libéral",N,Y,91
+35042,"Kenora","Kenora"," 60","Kenora",N,N,"",0,492,"Rickford","","Greg","Conservative","Conservateur",Y,N,122
+35042,"Kenora","Kenora"," 61","Redditt",N,N,"",0,102,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 61","Redditt",N,N,"",0,102,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35042,"Kenora","Kenora"," 61","Redditt",N,N,"",0,102,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 61","Redditt",N,N,"",0,102,"Nault","","Bob","Liberal","Libéral",N,Y,24
+35042,"Kenora","Kenora"," 61","Redditt",N,N,"",0,102,"Rickford","","Greg","Conservative","Conservateur",Y,N,23
+35042,"Kenora","Kenora"," 62","Minaki",N,N,"",0,108,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 62","Minaki",N,N,"",0,108,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35042,"Kenora","Kenora"," 62","Minaki",N,N,"",0,108,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 62","Minaki",N,N,"",0,108,"Nault","","Bob","Liberal","Libéral",N,Y,27
+35042,"Kenora","Kenora"," 62","Minaki",N,N,"",0,108,"Rickford","","Greg","Conservative","Conservateur",Y,N,31
+35042,"Kenora","Kenora"," 63","The Dalles 38C",N,N,"",0,122,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 63","The Dalles 38C",N,N,"",0,122,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35042,"Kenora","Kenora"," 63","The Dalles 38C",N,N,"",0,122,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 63","The Dalles 38C",N,N,"",0,122,"Nault","","Bob","Liberal","Libéral",N,Y,15
+35042,"Kenora","Kenora"," 63","The Dalles 38C",N,N,"",0,122,"Rickford","","Greg","Conservative","Conservateur",Y,N,4
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,383,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,383,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,383,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,383,"Nault","","Bob","Liberal","Libéral",N,Y,75
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,383,"Rickford","","Greg","Conservative","Conservateur",Y,N,73
+35042,"Kenora","Kenora"," 65","Kenora",N,N,"",1,377,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 65","Kenora",N,N,"",1,377,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," 65","Kenora",N,N,"",1,377,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 65","Kenora",N,N,"",1,377,"Nault","","Bob","Liberal","Libéral",N,Y,64
+35042,"Kenora","Kenora"," 65","Kenora",N,N,"",1,377,"Rickford","","Greg","Conservative","Conservateur",Y,N,95
+35042,"Kenora","Kenora"," 66","Kenora",N,N,"",3,372,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 66","Kenora",N,N,"",3,372,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35042,"Kenora","Kenora"," 66","Kenora",N,N,"",3,372,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 66","Kenora",N,N,"",3,372,"Nault","","Bob","Liberal","Libéral",N,Y,62
+35042,"Kenora","Kenora"," 66","Kenora",N,N,"",3,372,"Rickford","","Greg","Conservative","Conservateur",Y,N,50
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,370,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,370,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,370,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,370,"Nault","","Bob","Liberal","Libéral",N,Y,73
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,370,"Rickford","","Greg","Conservative","Conservateur",Y,N,67
+35042,"Kenora","Kenora"," 68","Pellatt",N,N,"",0,213,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,3
+35042,"Kenora","Kenora"," 68","Pellatt",N,N,"",0,213,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35042,"Kenora","Kenora"," 68","Pellatt",N,N,"",0,213,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 68","Pellatt",N,N,"",0,213,"Nault","","Bob","Liberal","Libéral",N,Y,36
+35042,"Kenora","Kenora"," 68","Pellatt",N,N,"",0,213,"Rickford","","Greg","Conservative","Conservateur",Y,N,49
+35042,"Kenora","Kenora"," 69","Laclu",N,N,"",0,381,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,5
+35042,"Kenora","Kenora"," 69","Laclu",N,N,"",0,381,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35042,"Kenora","Kenora"," 69","Laclu",N,N,"",0,381,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 69","Laclu",N,N,"",0,381,"Nault","","Bob","Liberal","Libéral",N,Y,69
+35042,"Kenora","Kenora"," 69","Laclu",N,N,"",0,381,"Rickford","","Greg","Conservative","Conservateur",Y,N,90
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",1,430,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",1,430,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",1,430,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,9
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",1,430,"Nault","","Bob","Liberal","Libéral",N,Y,66
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",1,430,"Rickford","","Greg","Conservative","Conservateur",Y,N,105
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",2,415,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",2,415,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",2,415,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",2,415,"Nault","","Bob","Liberal","Libéral",N,Y,104
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",2,415,"Rickford","","Greg","Conservative","Conservateur",Y,N,69
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,310,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,310,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,310,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,310,"Nault","","Bob","Liberal","Libéral",N,Y,51
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,310,"Rickford","","Greg","Conservative","Conservateur",Y,N,68
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",0,384,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",0,384,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",0,384,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",0,384,"Nault","","Bob","Liberal","Libéral",N,Y,66
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",0,384,"Rickford","","Greg","Conservative","Conservateur",Y,N,59
+35042,"Kenora","Kenora"," 74","Kenora",N,N,"",0,336,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 74","Kenora",N,N,"",0,336,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35042,"Kenora","Kenora"," 74","Kenora",N,N,"",0,336,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 74","Kenora",N,N,"",0,336,"Nault","","Bob","Liberal","Libéral",N,Y,67
+35042,"Kenora","Kenora"," 74","Kenora",N,N,"",0,336,"Rickford","","Greg","Conservative","Conservateur",Y,N,40
+35042,"Kenora","Kenora"," 75","Kenora",N,N,"",2,385,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 75","Kenora",N,N,"",2,385,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35042,"Kenora","Kenora"," 75","Kenora",N,N,"",2,385,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 75","Kenora",N,N,"",2,385,"Nault","","Bob","Liberal","Libéral",N,Y,75
+35042,"Kenora","Kenora"," 75","Kenora",N,N,"",2,385,"Rickford","","Greg","Conservative","Conservateur",Y,N,67
+35042,"Kenora","Kenora"," 76","Kenora",N,N,"",0,283,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 76","Kenora",N,N,"",0,283,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 76","Kenora",N,N,"",0,283,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 76","Kenora",N,N,"",0,283,"Nault","","Bob","Liberal","Libéral",N,Y,55
+35042,"Kenora","Kenora"," 76","Kenora",N,N,"",0,283,"Rickford","","Greg","Conservative","Conservateur",Y,N,58
+35042,"Kenora","Kenora"," 77","Kenora",N,N,"",1,265,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 77","Kenora",N,N,"",1,265,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35042,"Kenora","Kenora"," 77","Kenora",N,N,"",1,265,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 77","Kenora",N,N,"",1,265,"Nault","","Bob","Liberal","Libéral",N,Y,51
+35042,"Kenora","Kenora"," 77","Kenora",N,N,"",1,265,"Rickford","","Greg","Conservative","Conservateur",Y,N,62
+35042,"Kenora","Kenora"," 78","Kenora",N,N,"",0,271,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 78","Kenora",N,N,"",0,271,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35042,"Kenora","Kenora"," 78","Kenora",N,N,"",0,271,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 78","Kenora",N,N,"",0,271,"Nault","","Bob","Liberal","Libéral",N,Y,48
+35042,"Kenora","Kenora"," 78","Kenora",N,N,"",0,271,"Rickford","","Greg","Conservative","Conservateur",Y,N,35
+35042,"Kenora","Kenora"," 79","Kenora",N,N,"",1,491,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,4
+35042,"Kenora","Kenora"," 79","Kenora",N,N,"",1,491,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35042,"Kenora","Kenora"," 79","Kenora",N,N,"",1,491,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 79","Kenora",N,N,"",1,491,"Nault","","Bob","Liberal","Libéral",N,Y,84
+35042,"Kenora","Kenora"," 79","Kenora",N,N,"",1,491,"Rickford","","Greg","Conservative","Conservateur",Y,N,119
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",1,459,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",1,459,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",1,459,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",1,459,"Nault","","Bob","Liberal","Libéral",N,Y,83
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",1,459,"Rickford","","Greg","Conservative","Conservateur",Y,N,43
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,336,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,336,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,336,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,336,"Nault","","Bob","Liberal","Libéral",N,Y,76
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,336,"Rickford","","Greg","Conservative","Conservateur",Y,N,83
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",2,440,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,5
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",2,440,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",2,440,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",2,440,"Nault","","Bob","Liberal","Libéral",N,Y,98
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",2,440,"Rickford","","Greg","Conservative","Conservateur",Y,N,86
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",1,457,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",1,457,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",1,457,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,7
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",1,457,"Nault","","Bob","Liberal","Libéral",N,Y,105
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",1,457,"Rickford","","Greg","Conservative","Conservateur",Y,N,76
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,324,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,324,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,324,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,324,"Nault","","Bob","Liberal","Libéral",N,Y,58
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,324,"Rickford","","Greg","Conservative","Conservateur",Y,N,33
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",0,280,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",0,280,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",0,280,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",0,280,"Nault","","Bob","Liberal","Libéral",N,Y,33
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",0,280,"Rickford","","Greg","Conservative","Conservateur",Y,N,45
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",3,354,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",3,354,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",3,354,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",3,354,"Nault","","Bob","Liberal","Libéral",N,Y,81
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",3,354,"Rickford","","Greg","Conservative","Conservateur",Y,N,62
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,336,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,336,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,336,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,336,"Nault","","Bob","Liberal","Libéral",N,Y,76
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,336,"Rickford","","Greg","Conservative","Conservateur",Y,N,88
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",1,348,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,6
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",1,348,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",1,348,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",1,348,"Nault","","Bob","Liberal","Libéral",N,Y,63
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",1,348,"Rickford","","Greg","Conservative","Conservateur",Y,N,74
+35042,"Kenora","Kenora"," 89","Kenora",N,N,"",0,301,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 89","Kenora",N,N,"",0,301,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35042,"Kenora","Kenora"," 89","Kenora",N,N,"",0,301,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 89","Kenora",N,N,"",0,301,"Nault","","Bob","Liberal","Libéral",N,Y,68
+35042,"Kenora","Kenora"," 89","Kenora",N,N,"",0,301,"Rickford","","Greg","Conservative","Conservateur",Y,N,65
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",0,378,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",0,378,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",0,378,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",0,378,"Nault","","Bob","Liberal","Libéral",N,Y,63
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",0,378,"Rickford","","Greg","Conservative","Conservateur",Y,N,82
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",0,355,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",0,355,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",0,355,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",0,355,"Nault","","Bob","Liberal","Libéral",N,Y,56
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",0,355,"Rickford","","Greg","Conservative","Conservateur",Y,N,80
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",0,269,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",0,269,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",0,269,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",0,269,"Nault","","Bob","Liberal","Libéral",N,Y,39
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",0,269,"Rickford","","Greg","Conservative","Conservateur",Y,N,74
+35042,"Kenora","Kenora"," 93","Rat Portage 38B",N,N,"",0,206,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 93","Rat Portage 38B",N,N,"",0,206,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,125
+35042,"Kenora","Kenora"," 93","Rat Portage 38B",N,N,"",0,206,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 93","Rat Portage 38B",N,N,"",0,206,"Nault","","Bob","Liberal","Libéral",N,Y,40
+35042,"Kenora","Kenora"," 93","Rat Portage 38B",N,N,"",0,206,"Rickford","","Greg","Conservative","Conservateur",Y,N,1
+35042,"Kenora","Kenora"," 94","Kenora",N,N,"",0,448,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,4
+35042,"Kenora","Kenora"," 94","Kenora",N,N,"",0,448,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 94","Kenora",N,N,"",0,448,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 94","Kenora",N,N,"",0,448,"Nault","","Bob","Liberal","Libéral",N,Y,97
+35042,"Kenora","Kenora"," 94","Kenora",N,N,"",0,448,"Rickford","","Greg","Conservative","Conservateur",Y,N,106
+35042,"Kenora","Kenora"," 95","Washagamis Bay",N,N,"",1,455,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 95","Washagamis Bay",N,N,"",1,455,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35042,"Kenora","Kenora"," 95","Washagamis Bay",N,N,"",1,455,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 95","Washagamis Bay",N,N,"",1,455,"Nault","","Bob","Liberal","Libéral",N,Y,98
+35042,"Kenora","Kenora"," 95","Washagamis Bay",N,N,"",1,455,"Rickford","","Greg","Conservative","Conservateur",Y,N,98
+35042,"Kenora","Kenora"," 96","Washagamis Bay",N,N,"",1,100,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 96","Washagamis Bay",N,N,"",1,100,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35042,"Kenora","Kenora"," 96","Washagamis Bay",N,N,"",1,100,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 96","Washagamis Bay",N,N,"",1,100,"Nault","","Bob","Liberal","Libéral",N,Y,38
+35042,"Kenora","Kenora"," 96","Washagamis Bay",N,N,"",1,100,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,479,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,3
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,479,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,479,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,479,"Nault","","Bob","Liberal","Libéral",N,Y,91
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,479,"Rickford","","Greg","Conservative","Conservateur",Y,N,87
+35042,"Kenora","Kenora"," 98","Clearwater Bay--Granite Lake",N,N,"",0,149,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 98","Clearwater Bay--Granite Lake",N,N,"",0,149,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35042,"Kenora","Kenora"," 98","Clearwater Bay--Granite Lake",N,N,"",0,149,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 98","Clearwater Bay--Granite Lake",N,N,"",0,149,"Nault","","Bob","Liberal","Libéral",N,Y,31
+35042,"Kenora","Kenora"," 98","Clearwater Bay--Granite Lake",N,N,"",0,149,"Rickford","","Greg","Conservative","Conservateur",Y,N,35
+35042,"Kenora","Kenora"," 99","Iskutewiskayagun 39",N,N,"",0,223,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 99","Iskutewiskayagun 39",N,N,"",0,223,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35042,"Kenora","Kenora"," 99","Iskutewiskayagun 39",N,N,"",0,223,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 99","Iskutewiskayagun 39",N,N,"",0,223,"Nault","","Bob","Liberal","Libéral",N,Y,38
+35042,"Kenora","Kenora"," 99","Iskutewiskayagun 39",N,N,"",0,223,"Rickford","","Greg","Conservative","Conservateur",Y,N,1
+35042,"Kenora","Kenora"," 100","Shoal Lake 40",N,N,"",1,125,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 100","Shoal Lake 40",N,N,"",1,125,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35042,"Kenora","Kenora"," 100","Shoal Lake 40",N,N,"",1,125,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 100","Shoal Lake 40",N,N,"",1,125,"Nault","","Bob","Liberal","Libéral",N,Y,44
+35042,"Kenora","Kenora"," 100","Shoal Lake 40",N,N,"",1,125,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 101A","Northwest Angle 34C & 37B",N,N,"",0,32,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 101A","Northwest Angle 34C & 37B",N,N,"",0,32,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35042,"Kenora","Kenora"," 101A","Northwest Angle 34C & 37B",N,N,"",0,32,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 101A","Northwest Angle 34C & 37B",N,N,"",0,32,"Nault","","Bob","Liberal","Libéral",N,Y,7
+35042,"Kenora","Kenora"," 101A","Northwest Angle 34C & 37B",N,N,"",0,32,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 101B","Northwest Angle 34C & 37B",N,N,"",0,43,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 101B","Northwest Angle 34C & 37B",N,N,"",0,43,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35042,"Kenora","Kenora"," 101B","Northwest Angle 34C & 37B",N,N,"",0,43,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 101B","Northwest Angle 34C & 37B",N,N,"",0,43,"Nault","","Bob","Liberal","Libéral",N,Y,8
+35042,"Kenora","Kenora"," 101B","Northwest Angle 34C & 37B",N,N,"",0,43,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 102","Sioux Narrows",N,N,"",0,332,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 102","Sioux Narrows",N,N,"",0,332,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35042,"Kenora","Kenora"," 102","Sioux Narrows",N,N,"",0,332,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 102","Sioux Narrows",N,N,"",0,332,"Nault","","Bob","Liberal","Libéral",N,Y,82
+35042,"Kenora","Kenora"," 102","Sioux Narrows",N,N,"",0,332,"Rickford","","Greg","Conservative","Conservateur",Y,N,91
+35042,"Kenora","Kenora"," 103A","Whitefish Bay 32A",N,N,"",4,247,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 103A","Whitefish Bay 32A",N,N,"",4,247,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,139
+35042,"Kenora","Kenora"," 103A","Whitefish Bay 32A",N,N,"",4,247,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 103A","Whitefish Bay 32A",N,N,"",4,247,"Nault","","Bob","Liberal","Libéral",N,Y,37
+35042,"Kenora","Kenora"," 103A","Whitefish Bay 32A",N,N,"",4,247,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 103B","Whitefish Bay 32A",N,N,"",1,158,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 103B","Whitefish Bay 32A",N,N,"",1,158,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35042,"Kenora","Kenora"," 103B","Whitefish Bay 32A",N,N,"",1,158,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 103B","Whitefish Bay 32A",N,N,"",1,158,"Nault","","Bob","Liberal","Libéral",N,Y,10
+35042,"Kenora","Kenora"," 103B","Whitefish Bay 32A",N,N,"",1,158,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 103C","Whitefish Bay 32A",N,N,"",0,54,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 103C","Whitefish Bay 32A",N,N,"",0,54,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 103C","Whitefish Bay 32A",N,N,"",0,54,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 103C","Whitefish Bay 32A",N,N,"",0,54,"Nault","","Bob","Liberal","Libéral",N,Y,6
+35042,"Kenora","Kenora"," 103C","Whitefish Bay 32A",N,N,"",0,54,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 104","Nestor Falls",N,N,"",0,238,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 104","Nestor Falls",N,N,"",0,238,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35042,"Kenora","Kenora"," 104","Nestor Falls",N,N,"",0,238,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 104","Nestor Falls",N,N,"",0,238,"Nault","","Bob","Liberal","Libéral",N,Y,32
+35042,"Kenora","Kenora"," 104","Nestor Falls",N,N,"",0,238,"Rickford","","Greg","Conservative","Conservateur",Y,N,69
+35042,"Kenora","Kenora"," 105","Onegaming",N,N,"",0,199,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 105","Onegaming",N,N,"",0,199,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,161
+35042,"Kenora","Kenora"," 105","Onegaming",N,N,"",0,199,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 105","Onegaming",N,N,"",0,199,"Nault","","Bob","Liberal","Libéral",N,Y,13
+35042,"Kenora","Kenora"," 105","Onegaming",N,N,"",0,199,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,149,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,149,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,149,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,149,"Nault","","Bob","Liberal","Libéral",N,Y,10
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,149,"Rickford","","Greg","Conservative","Conservateur",Y,N,45
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",2,545,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",2,545,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",2,545,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",2,545,"Nault","","Bob","Liberal","Libéral",N,Y,84
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",2,545,"Rickford","","Greg","Conservative","Conservateur",Y,N,104
+35042,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",1,261,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",1,261,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35042,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",1,261,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",1,261,"Nault","","Bob","Liberal","Libéral",N,Y,31
+35042,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",1,261,"Rickford","","Greg","Conservative","Conservateur",Y,N,34
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",2,351,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",2,351,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",2,351,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",2,351,"Nault","","Bob","Liberal","Libéral",N,Y,50
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",2,351,"Rickford","","Greg","Conservative","Conservateur",Y,N,55
+35042,"Kenora","Kenora"," 110A","Kenora, Unorganized",N,N,"",1,332,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 110A","Kenora, Unorganized",N,N,"",1,332,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," 110A","Kenora, Unorganized",N,N,"",1,332,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 110A","Kenora, Unorganized",N,N,"",1,332,"Nault","","Bob","Liberal","Libéral",N,Y,40
+35042,"Kenora","Kenora"," 110A","Kenora, Unorganized",N,N,"",1,332,"Rickford","","Greg","Conservative","Conservateur",Y,N,60
+35042,"Kenora","Kenora"," 110B","Kenora, Unorganized",N,N,"",0,358,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 110B","Kenora, Unorganized",N,N,"",0,358,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35042,"Kenora","Kenora"," 110B","Kenora, Unorganized",N,N,"",0,358,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 110B","Kenora, Unorganized",N,N,"",0,358,"Nault","","Bob","Liberal","Libéral",N,Y,57
+35042,"Kenora","Kenora"," 110B","Kenora, Unorganized",N,N,"",0,358,"Rickford","","Greg","Conservative","Conservateur",Y,N,81
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",3,348,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",3,348,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",3,348,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",3,348,"Nault","","Bob","Liberal","Libéral",N,Y,41
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",3,348,"Rickford","","Greg","Conservative","Conservateur",Y,N,57
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",0,348,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",0,348,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",0,348,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",0,348,"Nault","","Bob","Liberal","Libéral",N,Y,45
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",0,348,"Rickford","","Greg","Conservative","Conservateur",Y,N,39
+35042,"Kenora","Kenora"," 113","Dryden",N,N,"",0,255,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 113","Dryden",N,N,"",0,255,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35042,"Kenora","Kenora"," 113","Dryden",N,N,"",0,255,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 113","Dryden",N,N,"",0,255,"Nault","","Bob","Liberal","Libéral",N,Y,44
+35042,"Kenora","Kenora"," 113","Dryden",N,N,"",0,255,"Rickford","","Greg","Conservative","Conservateur",Y,N,39
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,453,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,453,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,453,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,453,"Nault","","Bob","Liberal","Libéral",N,Y,73
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,453,"Rickford","","Greg","Conservative","Conservateur",Y,N,80
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,437,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,437,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,437,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,437,"Nault","","Bob","Liberal","Libéral",N,Y,71
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,437,"Rickford","","Greg","Conservative","Conservateur",Y,N,79
+35042,"Kenora","Kenora"," 116","Dryden",N,N,"",0,334,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 116","Dryden",N,N,"",0,334,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35042,"Kenora","Kenora"," 116","Dryden",N,N,"",0,334,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 116","Dryden",N,N,"",0,334,"Nault","","Bob","Liberal","Libéral",N,Y,56
+35042,"Kenora","Kenora"," 116","Dryden",N,N,"",0,334,"Rickford","","Greg","Conservative","Conservateur",Y,N,47
+35042,"Kenora","Kenora"," 117","Dryden",N,N,"",0,288,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 117","Dryden",N,N,"",0,288,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," 117","Dryden",N,N,"",0,288,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 117","Dryden",N,N,"",0,288,"Nault","","Bob","Liberal","Libéral",N,Y,41
+35042,"Kenora","Kenora"," 117","Dryden",N,N,"",0,288,"Rickford","","Greg","Conservative","Conservateur",Y,N,55
+35042,"Kenora","Kenora"," 118","Dryden",N,N,"",3,404,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 118","Dryden",N,N,"",3,404,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35042,"Kenora","Kenora"," 118","Dryden",N,N,"",3,404,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 118","Dryden",N,N,"",3,404,"Nault","","Bob","Liberal","Libéral",N,Y,84
+35042,"Kenora","Kenora"," 118","Dryden",N,N,"",3,404,"Rickford","","Greg","Conservative","Conservateur",Y,N,69
+35042,"Kenora","Kenora"," 119","Dryden",N,N,"",0,369,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 119","Dryden",N,N,"",0,369,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35042,"Kenora","Kenora"," 119","Dryden",N,N,"",0,369,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 119","Dryden",N,N,"",0,369,"Nault","","Bob","Liberal","Libéral",N,Y,82
+35042,"Kenora","Kenora"," 119","Dryden",N,N,"",0,369,"Rickford","","Greg","Conservative","Conservateur",Y,N,84
+35042,"Kenora","Kenora"," 120","Dryden",N,N,"",0,382,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 120","Dryden",N,N,"",0,382,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 120","Dryden",N,N,"",0,382,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 120","Dryden",N,N,"",0,382,"Nault","","Bob","Liberal","Libéral",N,Y,97
+35042,"Kenora","Kenora"," 120","Dryden",N,N,"",0,382,"Rickford","","Greg","Conservative","Conservateur",Y,N,85
+35042,"Kenora","Kenora"," 121","Dryden",N,N,"",0,367,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 121","Dryden",N,N,"",0,367,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35042,"Kenora","Kenora"," 121","Dryden",N,N,"",0,367,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 121","Dryden",N,N,"",0,367,"Nault","","Bob","Liberal","Libéral",N,Y,58
+35042,"Kenora","Kenora"," 121","Dryden",N,N,"",0,367,"Rickford","","Greg","Conservative","Conservateur",Y,N,58
+35042,"Kenora","Kenora"," 122","Dryden",N,N,"",0,293,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 122","Dryden",N,N,"",0,293,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35042,"Kenora","Kenora"," 122","Dryden",N,N,"",0,293,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 122","Dryden",N,N,"",0,293,"Nault","","Bob","Liberal","Libéral",N,Y,47
+35042,"Kenora","Kenora"," 122","Dryden",N,N,"",0,293,"Rickford","","Greg","Conservative","Conservateur",Y,N,65
+35042,"Kenora","Kenora"," 123","Dryden",N,N,"",0,371,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 123","Dryden",N,N,"",0,371,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 123","Dryden",N,N,"",0,371,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 123","Dryden",N,N,"",0,371,"Nault","","Bob","Liberal","Libéral",N,Y,51
+35042,"Kenora","Kenora"," 123","Dryden",N,N,"",0,371,"Rickford","","Greg","Conservative","Conservateur",Y,N,65
+35042,"Kenora","Kenora"," 124A","Dryden",N,N,"",0,241,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 124A","Dryden",N,N,"",0,241,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35042,"Kenora","Kenora"," 124A","Dryden",N,N,"",0,241,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 124A","Dryden",N,N,"",0,241,"Nault","","Bob","Liberal","Libéral",N,Y,33
+35042,"Kenora","Kenora"," 124A","Dryden",N,N,"",0,241,"Rickford","","Greg","Conservative","Conservateur",Y,N,53
+35042,"Kenora","Kenora"," 124B","Dryden",N,N,"",0,302,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 124B","Dryden",N,N,"",0,302,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35042,"Kenora","Kenora"," 124B","Dryden",N,N,"",0,302,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 124B","Dryden",N,N,"",0,302,"Nault","","Bob","Liberal","Libéral",N,Y,38
+35042,"Kenora","Kenora"," 124B","Dryden",N,N,"",0,302,"Rickford","","Greg","Conservative","Conservateur",Y,N,57
+35042,"Kenora","Kenora"," 125","Wabigoon Lake 27",N,N,"",0,85,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 125","Wabigoon Lake 27",N,N,"",0,85,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35042,"Kenora","Kenora"," 125","Wabigoon Lake 27",N,N,"",0,85,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 125","Wabigoon Lake 27",N,N,"",0,85,"Nault","","Bob","Liberal","Libéral",N,Y,39
+35042,"Kenora","Kenora"," 125","Wabigoon Lake 27",N,N,"",0,85,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"127",0,99,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"127",0,99,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"127",0,99,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"127",0,99,"Nault","","Bob","Liberal","Libéral",N,Y,0
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"127",0,99,"Rickford","","Greg","Conservative","Conservateur",Y,N,0
+35042,"Kenora","Kenora"," 127","Ignace",N,N,"",0,287,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 127","Ignace",N,N,"",0,287,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35042,"Kenora","Kenora"," 127","Ignace",N,N,"",0,287,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 127","Ignace",N,N,"",0,287,"Nault","","Bob","Liberal","Libéral",N,Y,54
+35042,"Kenora","Kenora"," 127","Ignace",N,N,"",0,287,"Rickford","","Greg","Conservative","Conservateur",Y,N,65
+35042,"Kenora","Kenora"," 128","Ignace",N,N,"",0,457,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 128","Ignace",N,N,"",0,457,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35042,"Kenora","Kenora"," 128","Ignace",N,N,"",0,457,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,7
+35042,"Kenora","Kenora"," 128","Ignace",N,N,"",0,457,"Nault","","Bob","Liberal","Libéral",N,Y,47
+35042,"Kenora","Kenora"," 128","Ignace",N,N,"",0,457,"Rickford","","Greg","Conservative","Conservateur",Y,N,50
+35042,"Kenora","Kenora"," 129","Ignace",N,N,"",0,141,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 129","Ignace",N,N,"",0,141,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35042,"Kenora","Kenora"," 129","Ignace",N,N,"",0,141,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 129","Ignace",N,N,"",0,141,"Nault","","Bob","Liberal","Libéral",N,Y,16
+35042,"Kenora","Kenora"," 129","Ignace",N,N,"",0,141,"Rickford","","Greg","Conservative","Conservateur",Y,N,15
+35042,"Kenora","Kenora"," 130","Sioux Lookout",N,N,"",1,275,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 130","Sioux Lookout",N,N,"",1,275,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35042,"Kenora","Kenora"," 130","Sioux Lookout",N,N,"",1,275,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 130","Sioux Lookout",N,N,"",1,275,"Nault","","Bob","Liberal","Libéral",N,Y,65
+35042,"Kenora","Kenora"," 130","Sioux Lookout",N,N,"",1,275,"Rickford","","Greg","Conservative","Conservateur",Y,N,26
+35042,"Kenora","Kenora"," 131","Sioux Lookout",N,N,"",0,259,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 131","Sioux Lookout",N,N,"",0,259,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35042,"Kenora","Kenora"," 131","Sioux Lookout",N,N,"",0,259,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 131","Sioux Lookout",N,N,"",0,259,"Nault","","Bob","Liberal","Libéral",N,Y,64
+35042,"Kenora","Kenora"," 131","Sioux Lookout",N,N,"",0,259,"Rickford","","Greg","Conservative","Conservateur",Y,N,26
+35042,"Kenora","Kenora"," 132","Grassy Narrows",N,N,"",5,416,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,1
+35042,"Kenora","Kenora"," 132","Grassy Narrows",N,N,"",5,416,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+35042,"Kenora","Kenora"," 132","Grassy Narrows",N,N,"",5,416,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 132","Grassy Narrows",N,N,"",5,416,"Nault","","Bob","Liberal","Libéral",N,Y,129
+35042,"Kenora","Kenora"," 132","Grassy Narrows",N,N,"",5,416,"Rickford","","Greg","Conservative","Conservateur",Y,N,1
+35042,"Kenora","Kenora"," 133","Fort Hope 64",N,N,"",9,287,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,5
+35042,"Kenora","Kenora"," 133","Fort Hope 64",N,N,"",9,287,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,158
+35042,"Kenora","Kenora"," 133","Fort Hope 64",N,N,"",9,287,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 133","Fort Hope 64",N,N,"",9,287,"Nault","","Bob","Liberal","Libéral",N,Y,123
+35042,"Kenora","Kenora"," 133","Fort Hope 64",N,N,"",9,287,"Rickford","","Greg","Conservative","Conservateur",Y,N,8
+35042,"Kenora","Kenora"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,131,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,3
+35042,"Kenora","Kenora"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,131,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35042,"Kenora","Kenora"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,131,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,131,"Nault","","Bob","Liberal","Libéral",N,Y,26
+35042,"Kenora","Kenora"," 500A","Mobile poll/Bureau itinérant",N,N,"",0,131,"Rickford","","Greg","Conservative","Conservateur",Y,N,21
+35042,"Kenora","Kenora"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35042,"Kenora","Kenora"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,77,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Nault","","Bob","Liberal","Libéral",N,Y,18
+35042,"Kenora","Kenora"," 500B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Rickford","","Greg","Conservative","Conservateur",Y,N,35
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",3,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",3,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,173
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",3,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,8
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",3,0,"Nault","","Bob","Liberal","Libéral",N,Y,225
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",3,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,167
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Nault","","Bob","Liberal","Libéral",N,Y,200
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,127
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Nault","","Bob","Liberal","Libéral",N,Y,36
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,54
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",0,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",0,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,140
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",0,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,13
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",0,0,"Nault","","Bob","Liberal","Libéral",N,Y,204
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,285
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Nault","","Bob","Liberal","Libéral",N,Y,45
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,47
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",5,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,2
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",5,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,158
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",5,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,7
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",5,0,"Nault","","Bob","Liberal","Libéral",N,Y,210
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",5,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,261
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",1,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,9
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",1,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,206
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",1,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,7
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",1,0,"Nault","","Bob","Liberal","Libéral",N,Y,245
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",1,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,306
+35042,"Kenora","Kenora"," 607","Kenora",N,N,"",0,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 607","Kenora",N,N,"",0,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35042,"Kenora","Kenora"," 607","Kenora",N,N,"",0,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 607","Kenora",N,N,"",0,0,"Nault","","Bob","Liberal","Libéral",N,Y,59
+35042,"Kenora","Kenora"," 607","Kenora",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,72
+35042,"Kenora","Kenora"," 608","Dryden",N,N,"",0,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 608","Dryden",N,N,"",0,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+35042,"Kenora","Kenora"," 608","Dryden",N,N,"",0,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,13
+35042,"Kenora","Kenora"," 608","Dryden",N,N,"",0,0,"Nault","","Bob","Liberal","Libéral",N,Y,209
+35042,"Kenora","Kenora"," 608","Dryden",N,N,"",0,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,235
+35042,"Kenora","Kenora"," 609","Ignace",N,N,"",1,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,0
+35042,"Kenora","Kenora"," 609","Ignace",N,N,"",1,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35042,"Kenora","Kenora"," 609","Ignace",N,N,"",1,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,9
+35042,"Kenora","Kenora"," 609","Ignace",N,N,"",1,0,"Nault","","Bob","Liberal","Libéral",N,Y,79
+35042,"Kenora","Kenora"," 609","Ignace",N,N,"",1,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,98
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,154,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,6
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,154,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,154,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,154,"Nault","","Bob","Liberal","Libéral",N,Y,101
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,154,"Rickford","","Greg","Conservative","Conservateur",Y,N,21
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Boucher-Chicago","","Kelvin","Independent","Indépendant",N,N,9
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Hampton","","Howard","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,602
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"McKillop","","Ember C.","Green Party","Parti Vert",N,N,43
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Nault","","Bob","Liberal","Libéral",N,Y,618
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Rickford","","Greg","Conservative","Conservateur",Y,N,759

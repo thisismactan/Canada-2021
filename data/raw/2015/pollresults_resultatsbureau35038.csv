@@ -1,0 +1,921 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 1","Dundas",N,N,"",1,379,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 1","Dundas",N,N,"",1,379,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 1","Dundas",N,N,"",1,379,"Samuel","","Vincent","Conservative","Conservateur",N,N,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 1","Dundas",N,N,"",1,379,"Tassi","","Filomena","Liberal","Libéral",N,Y,100
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 2","Dundas",N,N,"",2,459,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 2","Dundas",N,N,"",2,459,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 2","Dundas",N,N,"",2,459,"Samuel","","Vincent","Conservative","Conservateur",N,N,85
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 2","Dundas",N,N,"",2,459,"Tassi","","Filomena","Liberal","Libéral",N,Y,150
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 3","Dundas",N,N,"",0,448,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 3","Dundas",N,N,"",0,448,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 3","Dundas",N,N,"",0,448,"Samuel","","Vincent","Conservative","Conservateur",N,N,89
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 3","Dundas",N,N,"",0,448,"Tassi","","Filomena","Liberal","Libéral",N,Y,157
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 4","Dundas",N,N,"",1,437,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 4","Dundas",N,N,"",1,437,"Ormond","","Peter","Green Party","Parti Vert",N,N,22
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 4","Dundas",N,N,"",1,437,"Samuel","","Vincent","Conservative","Conservateur",N,N,82
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 4","Dundas",N,N,"",1,437,"Tassi","","Filomena","Liberal","Libéral",N,Y,133
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 5","Dundas",N,N,"",0,339,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 5","Dundas",N,N,"",0,339,"Ormond","","Peter","Green Party","Parti Vert",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 5","Dundas",N,N,"",0,339,"Samuel","","Vincent","Conservative","Conservateur",N,N,68
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 5","Dundas",N,N,"",0,339,"Tassi","","Filomena","Liberal","Libéral",N,Y,116
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 6","Dundas",N,N,"",0,465,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 6","Dundas",N,N,"",0,465,"Ormond","","Peter","Green Party","Parti Vert",N,N,19
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 6","Dundas",N,N,"",0,465,"Samuel","","Vincent","Conservative","Conservateur",N,N,87
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 6","Dundas",N,N,"",0,465,"Tassi","","Filomena","Liberal","Libéral",N,Y,148
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 7","Dundas",N,N,"",0,391,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 7","Dundas",N,N,"",0,391,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 7","Dundas",N,N,"",0,391,"Samuel","","Vincent","Conservative","Conservateur",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 7","Dundas",N,N,"",0,391,"Tassi","","Filomena","Liberal","Libéral",N,Y,131
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 8","Dundas",N,N,"",0,309,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 8","Dundas",N,N,"",0,309,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 8","Dundas",N,N,"",0,309,"Samuel","","Vincent","Conservative","Conservateur",N,N,53
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 8","Dundas",N,N,"",0,309,"Tassi","","Filomena","Liberal","Libéral",N,Y,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 9","Dundas",N,N,"",0,310,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 9","Dundas",N,N,"",0,310,"Ormond","","Peter","Green Party","Parti Vert",N,N,23
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 9","Dundas",N,N,"",0,310,"Samuel","","Vincent","Conservative","Conservateur",N,N,65
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 9","Dundas",N,N,"",0,310,"Tassi","","Filomena","Liberal","Libéral",N,Y,68
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 10","Dundas",N,N,"",1,405,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 10","Dundas",N,N,"",1,405,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 10","Dundas",N,N,"",1,405,"Samuel","","Vincent","Conservative","Conservateur",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 10","Dundas",N,N,"",1,405,"Tassi","","Filomena","Liberal","Libéral",N,Y,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 11","Hamilton ",N,N,"",1,390,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 11","Hamilton ",N,N,"",1,390,"Ormond","","Peter","Green Party","Parti Vert",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 11","Hamilton ",N,N,"",1,390,"Samuel","","Vincent","Conservative","Conservateur",N,N,34
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 11","Hamilton ",N,N,"",1,390,"Tassi","","Filomena","Liberal","Libéral",N,Y,158
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 12","Hamilton ",N,N,"",0,376,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 12","Hamilton ",N,N,"",0,376,"Ormond","","Peter","Green Party","Parti Vert",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 12","Hamilton ",N,N,"",0,376,"Samuel","","Vincent","Conservative","Conservateur",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 12","Hamilton ",N,N,"",0,376,"Tassi","","Filomena","Liberal","Libéral",N,Y,131
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 13","Hamilton ",N,N,"",0,412,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 13","Hamilton ",N,N,"",0,412,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 13","Hamilton ",N,N,"",0,412,"Samuel","","Vincent","Conservative","Conservateur",N,N,35
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 13","Hamilton ",N,N,"",0,412,"Tassi","","Filomena","Liberal","Libéral",N,Y,149
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 14","Hamilton ",N,N,"",1,473,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 14","Hamilton ",N,N,"",1,473,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 14","Hamilton ",N,N,"",1,473,"Samuel","","Vincent","Conservative","Conservateur",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 14","Hamilton ",N,N,"",1,473,"Tassi","","Filomena","Liberal","Libéral",N,Y,181
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 15","Hamilton ",N,N,"",1,477,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 15","Hamilton ",N,N,"",1,477,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 15","Hamilton ",N,N,"",1,477,"Samuel","","Vincent","Conservative","Conservateur",N,N,54
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 15","Hamilton ",N,N,"",1,477,"Tassi","","Filomena","Liberal","Libéral",N,Y,126
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 16","Hamilton ",N,N,"",0,357,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 16","Hamilton ",N,N,"",0,357,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 16","Hamilton ",N,N,"",0,357,"Samuel","","Vincent","Conservative","Conservateur",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 16","Hamilton ",N,N,"",0,357,"Tassi","","Filomena","Liberal","Libéral",N,Y,119
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 17","Hamilton ",N,N,"",0,380,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 17","Hamilton ",N,N,"",0,380,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 17","Hamilton ",N,N,"",0,380,"Samuel","","Vincent","Conservative","Conservateur",N,N,34
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 17","Hamilton ",N,N,"",0,380,"Tassi","","Filomena","Liberal","Libéral",N,Y,174
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 18","Hamilton ",N,N,"",0,373,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 18","Hamilton ",N,N,"",0,373,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 18","Hamilton ",N,N,"",0,373,"Samuel","","Vincent","Conservative","Conservateur",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 18","Hamilton ",N,N,"",0,373,"Tassi","","Filomena","Liberal","Libéral",N,Y,118
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 19","Hamilton ",N,N,"",1,428,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 19","Hamilton ",N,N,"",1,428,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 19","Hamilton ",N,N,"",1,428,"Samuel","","Vincent","Conservative","Conservateur",N,N,40
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 19","Hamilton ",N,N,"",1,428,"Tassi","","Filomena","Liberal","Libéral",N,Y,130
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 20","Hamilton ",N,N,"",2,410,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 20","Hamilton ",N,N,"",2,410,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 20","Hamilton ",N,N,"",2,410,"Samuel","","Vincent","Conservative","Conservateur",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 20","Hamilton ",N,N,"",2,410,"Tassi","","Filomena","Liberal","Libéral",N,Y,118
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 21","Hamilton ",N,N,"",2,405,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 21","Hamilton ",N,N,"",2,405,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 21","Hamilton ",N,N,"",2,405,"Samuel","","Vincent","Conservative","Conservateur",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 21","Hamilton ",N,N,"",2,405,"Tassi","","Filomena","Liberal","Libéral",N,Y,111
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 22","Hamilton ",N,N,"",4,508,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 22","Hamilton ",N,N,"",4,508,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 22","Hamilton ",N,N,"",4,508,"Samuel","","Vincent","Conservative","Conservateur",N,N,40
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 22","Hamilton ",N,N,"",4,508,"Tassi","","Filomena","Liberal","Libéral",N,Y,154
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 23","Hamilton ",N,N,"",3,474,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 23","Hamilton ",N,N,"",3,474,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 23","Hamilton ",N,N,"",3,474,"Samuel","","Vincent","Conservative","Conservateur",N,N,60
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 23","Hamilton ",N,N,"",3,474,"Tassi","","Filomena","Liberal","Libéral",N,Y,153
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 24","Hamilton ",N,N,"",2,375,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 24","Hamilton ",N,N,"",2,375,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 24","Hamilton ",N,N,"",2,375,"Samuel","","Vincent","Conservative","Conservateur",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 24","Hamilton ",N,N,"",2,375,"Tassi","","Filomena","Liberal","Libéral",N,Y,75
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 25","Dundas",N,N,"",0,448,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 25","Dundas",N,N,"",0,448,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 25","Dundas",N,N,"",0,448,"Samuel","","Vincent","Conservative","Conservateur",N,N,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 25","Dundas",N,N,"",0,448,"Tassi","","Filomena","Liberal","Libéral",N,Y,123
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 26","Dundas",N,N,"",3,409,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 26","Dundas",N,N,"",3,409,"Ormond","","Peter","Green Party","Parti Vert",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 26","Dundas",N,N,"",3,409,"Samuel","","Vincent","Conservative","Conservateur",N,N,55
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 26","Dundas",N,N,"",3,409,"Tassi","","Filomena","Liberal","Libéral",N,Y,114
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 27","Dundas",N,N,"",0,443,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 27","Dundas",N,N,"",0,443,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 27","Dundas",N,N,"",0,443,"Samuel","","Vincent","Conservative","Conservateur",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 27","Dundas",N,N,"",0,443,"Tassi","","Filomena","Liberal","Libéral",N,Y,128
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 28","Dundas",N,N,"",0,469,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 28","Dundas",N,N,"",0,469,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 28","Dundas",N,N,"",0,469,"Samuel","","Vincent","Conservative","Conservateur",N,N,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 28","Dundas",N,N,"",0,469,"Tassi","","Filomena","Liberal","Libéral",N,Y,165
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 29","Dundas",N,N,"",0,432,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 29","Dundas",N,N,"",0,432,"Ormond","","Peter","Green Party","Parti Vert",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 29","Dundas",N,N,"",0,432,"Samuel","","Vincent","Conservative","Conservateur",N,N,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 29","Dundas",N,N,"",0,432,"Tassi","","Filomena","Liberal","Libéral",N,Y,139
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 30","Hamilton ",N,N,"",0,320,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 30","Hamilton ",N,N,"",0,320,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 30","Hamilton ",N,N,"",0,320,"Samuel","","Vincent","Conservative","Conservateur",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 30","Hamilton ",N,N,"",0,320,"Tassi","","Filomena","Liberal","Libéral",N,Y,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 31","Hamilton ",N,N,"",2,331,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 31","Hamilton ",N,N,"",2,331,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 31","Hamilton ",N,N,"",2,331,"Samuel","","Vincent","Conservative","Conservateur",N,N,35
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 31","Hamilton ",N,N,"",2,331,"Tassi","","Filomena","Liberal","Libéral",N,Y,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 32","Hamilton ",N,N,"",4,358,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 32","Hamilton ",N,N,"",4,358,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 32","Hamilton ",N,N,"",4,358,"Samuel","","Vincent","Conservative","Conservateur",N,N,53
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 32","Hamilton ",N,N,"",4,358,"Tassi","","Filomena","Liberal","Libéral",N,Y,82
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 33","Hamilton ",N,N,"",1,364,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 33","Hamilton ",N,N,"",1,364,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 33","Hamilton ",N,N,"",1,364,"Samuel","","Vincent","Conservative","Conservateur",N,N,64
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 33","Hamilton ",N,N,"",1,364,"Tassi","","Filomena","Liberal","Libéral",N,Y,129
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 34","Hamilton ",N,N,"",3,495,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 34","Hamilton ",N,N,"",3,495,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 34","Hamilton ",N,N,"",3,495,"Samuel","","Vincent","Conservative","Conservateur",N,N,59
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 34","Hamilton ",N,N,"",3,495,"Tassi","","Filomena","Liberal","Libéral",N,Y,138
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 35","Hamilton ",N,N,"",1,291,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 35","Hamilton ",N,N,"",1,291,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 35","Hamilton ",N,N,"",1,291,"Samuel","","Vincent","Conservative","Conservateur",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 35","Hamilton ",N,N,"",1,291,"Tassi","","Filomena","Liberal","Libéral",N,Y,62
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 36","Hamilton ",N,N,"",1,442,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 36","Hamilton ",N,N,"",1,442,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 36","Hamilton ",N,N,"",1,442,"Samuel","","Vincent","Conservative","Conservateur",N,N,46
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 36","Hamilton ",N,N,"",1,442,"Tassi","","Filomena","Liberal","Libéral",N,Y,135
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 37","Hamilton ",N,N,"",0,492,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 37","Hamilton ",N,N,"",0,492,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 37","Hamilton ",N,N,"",0,492,"Samuel","","Vincent","Conservative","Conservateur",N,N,61
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 37","Hamilton ",N,N,"",0,492,"Tassi","","Filomena","Liberal","Libéral",N,Y,137
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 38","Hamilton ",N,N,"",0,333,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 38","Hamilton ",N,N,"",0,333,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 38","Hamilton ",N,N,"",0,333,"Samuel","","Vincent","Conservative","Conservateur",N,N,34
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 38","Hamilton ",N,N,"",0,333,"Tassi","","Filomena","Liberal","Libéral",N,Y,72
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 39","Hamilton ",N,N,"",0,188,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 39","Hamilton ",N,N,"",0,188,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 39","Hamilton ",N,N,"",0,188,"Samuel","","Vincent","Conservative","Conservateur",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 39","Hamilton ",N,N,"",0,188,"Tassi","","Filomena","Liberal","Libéral",N,Y,60
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 40","Hamilton ",N,N,"",2,458,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 40","Hamilton ",N,N,"",2,458,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 40","Hamilton ",N,N,"",2,458,"Samuel","","Vincent","Conservative","Conservateur",N,N,79
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 40","Hamilton ",N,N,"",2,458,"Tassi","","Filomena","Liberal","Libéral",N,Y,154
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 41","Ancaster",N,N,"",2,430,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 41","Ancaster",N,N,"",2,430,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 41","Ancaster",N,N,"",2,430,"Samuel","","Vincent","Conservative","Conservateur",N,N,131
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 41","Ancaster",N,N,"",2,430,"Tassi","","Filomena","Liberal","Libéral",N,Y,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 42","Ancaster",N,N,"",0,464,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 42","Ancaster",N,N,"",0,464,"Ormond","","Peter","Green Party","Parti Vert",N,N,23
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 42","Ancaster",N,N,"",0,464,"Samuel","","Vincent","Conservative","Conservateur",N,N,87
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 42","Ancaster",N,N,"",0,464,"Tassi","","Filomena","Liberal","Libéral",N,Y,149
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 43","Ancaster",N,N,"",0,398,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 43","Ancaster",N,N,"",0,398,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 43","Ancaster",N,N,"",0,398,"Samuel","","Vincent","Conservative","Conservateur",N,N,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 43","Ancaster",N,N,"",0,398,"Tassi","","Filomena","Liberal","Libéral",N,Y,92
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 44","Ancaster",N,N,"",0,339,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 44","Ancaster",N,N,"",0,339,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 44","Ancaster",N,N,"",0,339,"Samuel","","Vincent","Conservative","Conservateur",N,N,74
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 44","Ancaster",N,N,"",0,339,"Tassi","","Filomena","Liberal","Libéral",N,Y,91
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 45","Ancaster",N,N,"",2,641,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 45","Ancaster",N,N,"",2,641,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 45","Ancaster",N,N,"",2,641,"Samuel","","Vincent","Conservative","Conservateur",N,N,153
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 45","Ancaster",N,N,"",2,641,"Tassi","","Filomena","Liberal","Libéral",N,Y,140
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 46","Ancaster",N,N,"",3,332,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 46","Ancaster",N,N,"",3,332,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 46","Ancaster",N,N,"",3,332,"Samuel","","Vincent","Conservative","Conservateur",N,N,90
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 46","Ancaster",N,N,"",3,332,"Tassi","","Filomena","Liberal","Libéral",N,Y,91
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 47","Ancaster",N,N,"",1,369,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 47","Ancaster",N,N,"",1,369,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 47","Ancaster",N,N,"",1,369,"Samuel","","Vincent","Conservative","Conservateur",N,N,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 47","Ancaster",N,N,"",1,369,"Tassi","","Filomena","Liberal","Libéral",N,Y,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 48","Dundas",N,N,"",2,381,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 48","Dundas",N,N,"",2,381,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 48","Dundas",N,N,"",2,381,"Samuel","","Vincent","Conservative","Conservateur",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 48","Dundas",N,N,"",2,381,"Tassi","","Filomena","Liberal","Libéral",N,Y,96
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 49","Dundas",N,N,"",1,378,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 49","Dundas",N,N,"",1,378,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 49","Dundas",N,N,"",1,378,"Samuel","","Vincent","Conservative","Conservateur",N,N,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 49","Dundas",N,N,"",1,378,"Tassi","","Filomena","Liberal","Libéral",N,Y,116
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 50","Dundas",N,N,"",0,422,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 50","Dundas",N,N,"",0,422,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 50","Dundas",N,N,"",0,422,"Samuel","","Vincent","Conservative","Conservateur",N,N,54
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 50","Dundas",N,N,"",0,422,"Tassi","","Filomena","Liberal","Libéral",N,Y,144
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 51","Dundas",N,N,"",0,510,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 51","Dundas",N,N,"",0,510,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 51","Dundas",N,N,"",0,510,"Samuel","","Vincent","Conservative","Conservateur",N,N,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 51","Dundas",N,N,"",0,510,"Tassi","","Filomena","Liberal","Libéral",N,Y,156
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 52","Dundas",N,N,"",0,464,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 52","Dundas",N,N,"",0,464,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 52","Dundas",N,N,"",0,464,"Samuel","","Vincent","Conservative","Conservateur",N,N,103
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 52","Dundas",N,N,"",0,464,"Tassi","","Filomena","Liberal","Libéral",N,Y,100
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 53","Dundas",N,N,"",0,438,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 53","Dundas",N,N,"",0,438,"Ormond","","Peter","Green Party","Parti Vert",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 53","Dundas",N,N,"",0,438,"Samuel","","Vincent","Conservative","Conservateur",N,N,58
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 53","Dundas",N,N,"",0,438,"Tassi","","Filomena","Liberal","Libéral",N,Y,106
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 54","Dundas",N,N,"",0,394,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 54","Dundas",N,N,"",0,394,"Ormond","","Peter","Green Party","Parti Vert",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 54","Dundas",N,N,"",0,394,"Samuel","","Vincent","Conservative","Conservateur",N,N,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 54","Dundas",N,N,"",0,394,"Tassi","","Filomena","Liberal","Libéral",N,Y,94
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 55","Dundas",N,N,"",0,421,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 55","Dundas",N,N,"",0,421,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 55","Dundas",N,N,"",0,421,"Samuel","","Vincent","Conservative","Conservateur",N,N,59
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 55","Dundas",N,N,"",0,421,"Tassi","","Filomena","Liberal","Libéral",N,Y,113
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 56","Dundas",N,N,"",1,428,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 56","Dundas",N,N,"",1,428,"Ormond","","Peter","Green Party","Parti Vert",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 56","Dundas",N,N,"",1,428,"Samuel","","Vincent","Conservative","Conservateur",N,N,59
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 56","Dundas",N,N,"",1,428,"Tassi","","Filomena","Liberal","Libéral",N,Y,101
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 57","Dundas",N,N,"",2,375,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 57","Dundas",N,N,"",2,375,"Ormond","","Peter","Green Party","Parti Vert",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 57","Dundas",N,N,"",2,375,"Samuel","","Vincent","Conservative","Conservateur",N,N,68
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 57","Dundas",N,N,"",2,375,"Tassi","","Filomena","Liberal","Libéral",N,Y,102
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 58","Dundas",N,N,"",0,571,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 58","Dundas",N,N,"",0,571,"Ormond","","Peter","Green Party","Parti Vert",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 58","Dundas",N,N,"",0,571,"Samuel","","Vincent","Conservative","Conservateur",N,N,103
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 58","Dundas",N,N,"",0,571,"Tassi","","Filomena","Liberal","Libéral",N,Y,187
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 59","Dundas",N,N,"",0,272,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 59","Dundas",N,N,"",0,272,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 59","Dundas",N,N,"",0,272,"Samuel","","Vincent","Conservative","Conservateur",N,N,35
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 59","Dundas",N,N,"",0,272,"Tassi","","Filomena","Liberal","Libéral",N,Y,107
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 60","Dundas",N,N,"",0,299,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 60","Dundas",N,N,"",0,299,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 60","Dundas",N,N,"",0,299,"Samuel","","Vincent","Conservative","Conservateur",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 60","Dundas",N,N,"",0,299,"Tassi","","Filomena","Liberal","Libéral",N,Y,112
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 61","Dundas",N,N,"",0,371,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 61","Dundas",N,N,"",0,371,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 61","Dundas",N,N,"",0,371,"Samuel","","Vincent","Conservative","Conservateur",N,N,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 61","Dundas",N,N,"",0,371,"Tassi","","Filomena","Liberal","Libéral",N,Y,118
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 62","Dundas",N,N,"",1,364,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 62","Dundas",N,N,"",1,364,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 62","Dundas",N,N,"",1,364,"Samuel","","Vincent","Conservative","Conservateur",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 62","Dundas",N,N,"",1,364,"Tassi","","Filomena","Liberal","Libéral",N,Y,77
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 63","Dundas",N,N,"",0,354,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 63","Dundas",N,N,"",0,354,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 63","Dundas",N,N,"",0,354,"Samuel","","Vincent","Conservative","Conservateur",N,N,35
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 63","Dundas",N,N,"",0,354,"Tassi","","Filomena","Liberal","Libéral",N,Y,71
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 64","Dundas",N,N,"",3,418,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 64","Dundas",N,N,"",3,418,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 64","Dundas",N,N,"",3,418,"Samuel","","Vincent","Conservative","Conservateur",N,N,54
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 64","Dundas",N,N,"",3,418,"Tassi","","Filomena","Liberal","Libéral",N,Y,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 65","Dundas",N,N,"",1,486,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 65","Dundas",N,N,"",1,486,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 65","Dundas",N,N,"",1,486,"Samuel","","Vincent","Conservative","Conservateur",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 65","Dundas",N,N,"",1,486,"Tassi","","Filomena","Liberal","Libéral",N,Y,142
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 66","Dundas",N,N,"",1,416,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 66","Dundas",N,N,"",1,416,"Ormond","","Peter","Green Party","Parti Vert",N,N,19
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 66","Dundas",N,N,"",1,416,"Samuel","","Vincent","Conservative","Conservateur",N,N,81
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 66","Dundas",N,N,"",1,416,"Tassi","","Filomena","Liberal","Libéral",N,Y,112
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 67","Dundas",N,N,"",1,365,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 67","Dundas",N,N,"",1,365,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 67","Dundas",N,N,"",1,365,"Samuel","","Vincent","Conservative","Conservateur",N,N,73
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 67","Dundas",N,N,"",1,365,"Tassi","","Filomena","Liberal","Libéral",N,Y,104
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 68","Dundas",N,N,"",2,411,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 68","Dundas",N,N,"",2,411,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 68","Dundas",N,N,"",2,411,"Samuel","","Vincent","Conservative","Conservateur",N,N,76
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 68","Dundas",N,N,"",2,411,"Tassi","","Filomena","Liberal","Libéral",N,Y,117
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 69","Dundas",N,N,"",0,395,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 69","Dundas",N,N,"",0,395,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 69","Dundas",N,N,"",0,395,"Samuel","","Vincent","Conservative","Conservateur",N,N,65
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 69","Dundas",N,N,"",0,395,"Tassi","","Filomena","Liberal","Libéral",N,Y,121
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 70","Dundas",N,N,"",1,440,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 70","Dundas",N,N,"",1,440,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 70","Dundas",N,N,"",1,440,"Samuel","","Vincent","Conservative","Conservateur",N,N,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 70","Dundas",N,N,"",1,440,"Tassi","","Filomena","Liberal","Libéral",N,Y,138
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 71","Dundas",N,N,"",0,418,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 71","Dundas",N,N,"",0,418,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 71","Dundas",N,N,"",0,418,"Samuel","","Vincent","Conservative","Conservateur",N,N,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 71","Dundas",N,N,"",0,418,"Tassi","","Filomena","Liberal","Libéral",N,Y,100
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 72","Dundas",N,N,"",0,439,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 72","Dundas",N,N,"",0,439,"Ormond","","Peter","Green Party","Parti Vert",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 72","Dundas",N,N,"",0,439,"Samuel","","Vincent","Conservative","Conservateur",N,N,108
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 72","Dundas",N,N,"",0,439,"Tassi","","Filomena","Liberal","Libéral",N,Y,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 73","Dundas",N,N,"",2,477,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 73","Dundas",N,N,"",2,477,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 73","Dundas",N,N,"",2,477,"Samuel","","Vincent","Conservative","Conservateur",N,N,111
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 73","Dundas",N,N,"",2,477,"Tassi","","Filomena","Liberal","Libéral",N,Y,140
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 74","Dundas",N,N,"",2,446,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 74","Dundas",N,N,"",2,446,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 74","Dundas",N,N,"",2,446,"Samuel","","Vincent","Conservative","Conservateur",N,N,60
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 74","Dundas",N,N,"",2,446,"Tassi","","Filomena","Liberal","Libéral",N,Y,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 75","Dundas",N,N,"",0,360,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 75","Dundas",N,N,"",0,360,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 75","Dundas",N,N,"",0,360,"Samuel","","Vincent","Conservative","Conservateur",N,N,69
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 75","Dundas",N,N,"",0,360,"Tassi","","Filomena","Liberal","Libéral",N,Y,94
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 76","Dundas",N,N,"",1,505,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 76","Dundas",N,N,"",1,505,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 76","Dundas",N,N,"",1,505,"Samuel","","Vincent","Conservative","Conservateur",N,N,102
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 76","Dundas",N,N,"",1,505,"Tassi","","Filomena","Liberal","Libéral",N,Y,165
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 77","Dundas",N,N,"",1,282,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 77","Dundas",N,N,"",1,282,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 77","Dundas",N,N,"",1,282,"Samuel","","Vincent","Conservative","Conservateur",N,N,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 77","Dundas",N,N,"",1,282,"Tassi","","Filomena","Liberal","Libéral",N,Y,68
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 78","Ancaster",N,N,"",0,305,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 78","Ancaster",N,N,"",0,305,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 78","Ancaster",N,N,"",0,305,"Samuel","","Vincent","Conservative","Conservateur",N,N,74
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 78","Ancaster",N,N,"",0,305,"Tassi","","Filomena","Liberal","Libéral",N,Y,75
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 79","Ancaster",N,N,"",1,331,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 79","Ancaster",N,N,"",1,331,"Ormond","","Peter","Green Party","Parti Vert",N,N,1
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 79","Ancaster",N,N,"",1,331,"Samuel","","Vincent","Conservative","Conservateur",N,N,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 79","Ancaster",N,N,"",1,331,"Tassi","","Filomena","Liberal","Libéral",N,Y,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 80","Ancaster",N,N,"",0,422,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 80","Ancaster",N,N,"",0,422,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 80","Ancaster",N,N,"",0,422,"Samuel","","Vincent","Conservative","Conservateur",N,N,103
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 80","Ancaster",N,N,"",0,422,"Tassi","","Filomena","Liberal","Libéral",N,Y,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 81","Ancaster",N,N,"",0,396,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 81","Ancaster",N,N,"",0,396,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 81","Ancaster",N,N,"",0,396,"Samuel","","Vincent","Conservative","Conservateur",N,N,91
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 81","Ancaster",N,N,"",0,396,"Tassi","","Filomena","Liberal","Libéral",N,Y,86
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 82","Ancaster",N,N,"",0,376,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 82","Ancaster",N,N,"",0,376,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 82","Ancaster",N,N,"",0,376,"Samuel","","Vincent","Conservative","Conservateur",N,N,98
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 82","Ancaster",N,N,"",0,376,"Tassi","","Filomena","Liberal","Libéral",N,Y,94
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 83","Ancaster",N,N,"",1,395,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 83","Ancaster",N,N,"",1,395,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 83","Ancaster",N,N,"",1,395,"Samuel","","Vincent","Conservative","Conservateur",N,N,82
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 83","Ancaster",N,N,"",1,395,"Tassi","","Filomena","Liberal","Libéral",N,Y,122
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 84","Ancaster",N,N,"",1,390,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 84","Ancaster",N,N,"",1,390,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 84","Ancaster",N,N,"",1,390,"Samuel","","Vincent","Conservative","Conservateur",N,N,74
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 84","Ancaster",N,N,"",1,390,"Tassi","","Filomena","Liberal","Libéral",N,Y,105
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 85","Ancaster",N,N,"",0,483,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 85","Ancaster",N,N,"",0,483,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 85","Ancaster",N,N,"",0,483,"Samuel","","Vincent","Conservative","Conservateur",N,N,93
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 85","Ancaster",N,N,"",0,483,"Tassi","","Filomena","Liberal","Libéral",N,Y,132
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 86","Ancaster",N,N,"",0,416,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 86","Ancaster",N,N,"",0,416,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 86","Ancaster",N,N,"",0,416,"Samuel","","Vincent","Conservative","Conservateur",N,N,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 86","Ancaster",N,N,"",0,416,"Tassi","","Filomena","Liberal","Libéral",N,Y,107
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 87","Ancaster",N,N,"",0,421,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 87","Ancaster",N,N,"",0,421,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 87","Ancaster",N,N,"",0,421,"Samuel","","Vincent","Conservative","Conservateur",N,N,114
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 87","Ancaster",N,N,"",0,421,"Tassi","","Filomena","Liberal","Libéral",N,Y,127
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 88","Ancaster",N,N,"",0,427,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 88","Ancaster",N,N,"",0,427,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 88","Ancaster",N,N,"",0,427,"Samuel","","Vincent","Conservative","Conservateur",N,N,104
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 88","Ancaster",N,N,"",0,427,"Tassi","","Filomena","Liberal","Libéral",N,Y,108
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 89","Ancaster",N,N,"",0,353,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 89","Ancaster",N,N,"",0,353,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 89","Ancaster",N,N,"",0,353,"Samuel","","Vincent","Conservative","Conservateur",N,N,85
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 89","Ancaster",N,N,"",0,353,"Tassi","","Filomena","Liberal","Libéral",N,Y,89
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 90","Ancaster",N,N,"",18,378,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 90","Ancaster",N,N,"",18,378,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 90","Ancaster",N,N,"",18,378,"Samuel","","Vincent","Conservative","Conservateur",N,N,72
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 90","Ancaster",N,N,"",18,378,"Tassi","","Filomena","Liberal","Libéral",N,Y,54
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 91","Ancaster",N,N,"",0,385,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 91","Ancaster",N,N,"",0,385,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 91","Ancaster",N,N,"",0,385,"Samuel","","Vincent","Conservative","Conservateur",N,N,77
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 91","Ancaster",N,N,"",0,385,"Tassi","","Filomena","Liberal","Libéral",N,Y,101
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 92","Ancaster",N,N,"",1,465,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 92","Ancaster",N,N,"",1,465,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 92","Ancaster",N,N,"",1,465,"Samuel","","Vincent","Conservative","Conservateur",N,N,79
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 92","Ancaster",N,N,"",1,465,"Tassi","","Filomena","Liberal","Libéral",N,Y,113
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 93","Ancaster",N,N,"",1,490,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 93","Ancaster",N,N,"",1,490,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 93","Ancaster",N,N,"",1,490,"Samuel","","Vincent","Conservative","Conservateur",N,N,134
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 93","Ancaster",N,N,"",1,490,"Tassi","","Filomena","Liberal","Libéral",N,Y,98
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 94","Ancaster",N,N,"",0,407,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 94","Ancaster",N,N,"",0,407,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 94","Ancaster",N,N,"",0,407,"Samuel","","Vincent","Conservative","Conservateur",N,N,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 94","Ancaster",N,N,"",0,407,"Tassi","","Filomena","Liberal","Libéral",N,Y,120
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 95","Ancaster",N,N,"",0,364,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 95","Ancaster",N,N,"",0,364,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 95","Ancaster",N,N,"",0,364,"Samuel","","Vincent","Conservative","Conservateur",N,N,75
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 95","Ancaster",N,N,"",0,364,"Tassi","","Filomena","Liberal","Libéral",N,Y,120
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 96","Ancaster",N,N,"",1,482,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 96","Ancaster",N,N,"",1,482,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 96","Ancaster",N,N,"",1,482,"Samuel","","Vincent","Conservative","Conservateur",N,N,128
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 96","Ancaster",N,N,"",1,482,"Tassi","","Filomena","Liberal","Libéral",N,Y,128
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 97","Ancaster",N,N,"",1,439,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 97","Ancaster",N,N,"",1,439,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 97","Ancaster",N,N,"",1,439,"Samuel","","Vincent","Conservative","Conservateur",N,N,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 97","Ancaster",N,N,"",1,439,"Tassi","","Filomena","Liberal","Libéral",N,Y,161
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 98","Ancaster",N,N,"",0,349,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 98","Ancaster",N,N,"",0,349,"Ormond","","Peter","Green Party","Parti Vert",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 98","Ancaster",N,N,"",0,349,"Samuel","","Vincent","Conservative","Conservateur",N,N,86
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 98","Ancaster",N,N,"",0,349,"Tassi","","Filomena","Liberal","Libéral",N,Y,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 99","Ancaster",N,N,"",0,452,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 99","Ancaster",N,N,"",0,452,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 99","Ancaster",N,N,"",0,452,"Samuel","","Vincent","Conservative","Conservateur",N,N,122
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 99","Ancaster",N,N,"",0,452,"Tassi","","Filomena","Liberal","Libéral",N,Y,85
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 100","Ancaster",N,N,"",2,389,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 100","Ancaster",N,N,"",2,389,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 100","Ancaster",N,N,"",2,389,"Samuel","","Vincent","Conservative","Conservateur",N,N,117
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 100","Ancaster",N,N,"",2,389,"Tassi","","Filomena","Liberal","Libéral",N,Y,106
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 101","Ancaster",N,N,"",1,369,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 101","Ancaster",N,N,"",1,369,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 101","Ancaster",N,N,"",1,369,"Samuel","","Vincent","Conservative","Conservateur",N,N,105
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 101","Ancaster",N,N,"",1,369,"Tassi","","Filomena","Liberal","Libéral",N,Y,83
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 102","Ancaster",N,N,"",2,524,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 102","Ancaster",N,N,"",2,524,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 102","Ancaster",N,N,"",2,524,"Samuel","","Vincent","Conservative","Conservateur",N,N,85
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 102","Ancaster",N,N,"",2,524,"Tassi","","Filomena","Liberal","Libéral",N,Y,155
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 103","Ancaster",N,N,"",1,507,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 103","Ancaster",N,N,"",1,507,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 103","Ancaster",N,N,"",1,507,"Samuel","","Vincent","Conservative","Conservateur",N,N,117
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 103","Ancaster",N,N,"",1,507,"Tassi","","Filomena","Liberal","Libéral",N,Y,129
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 104","Ancaster",N,N,"",0,402,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 104","Ancaster",N,N,"",0,402,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 104","Ancaster",N,N,"",0,402,"Samuel","","Vincent","Conservative","Conservateur",N,N,55
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 104","Ancaster",N,N,"",0,402,"Tassi","","Filomena","Liberal","Libéral",N,Y,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 105","Ancaster",N,N,"",1,428,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 105","Ancaster",N,N,"",1,428,"Ormond","","Peter","Green Party","Parti Vert",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 105","Ancaster",N,N,"",1,428,"Samuel","","Vincent","Conservative","Conservateur",N,N,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 105","Ancaster",N,N,"",1,428,"Tassi","","Filomena","Liberal","Libéral",N,Y,120
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 106","Ancaster",N,N,"",1,398,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 106","Ancaster",N,N,"",1,398,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 106","Ancaster",N,N,"",1,398,"Samuel","","Vincent","Conservative","Conservateur",N,N,77
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 106","Ancaster",N,N,"",1,398,"Tassi","","Filomena","Liberal","Libéral",N,Y,87
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 107","Ancaster",N,N,"",0,392,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 107","Ancaster",N,N,"",0,392,"Ormond","","Peter","Green Party","Parti Vert",N,N,1
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 107","Ancaster",N,N,"",0,392,"Samuel","","Vincent","Conservative","Conservateur",N,N,72
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 107","Ancaster",N,N,"",0,392,"Tassi","","Filomena","Liberal","Libéral",N,Y,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 108","Ancaster",N,N,"",2,418,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 108","Ancaster",N,N,"",2,418,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 108","Ancaster",N,N,"",2,418,"Samuel","","Vincent","Conservative","Conservateur",N,N,79
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 108","Ancaster",N,N,"",2,418,"Tassi","","Filomena","Liberal","Libéral",N,Y,83
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 109","Ancaster",N,N,"",0,439,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 109","Ancaster",N,N,"",0,439,"Ormond","","Peter","Green Party","Parti Vert",N,N,1
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 109","Ancaster",N,N,"",0,439,"Samuel","","Vincent","Conservative","Conservateur",N,N,81
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 109","Ancaster",N,N,"",0,439,"Tassi","","Filomena","Liberal","Libéral",N,Y,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 110","Ancaster",N,N,"",2,347,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 110","Ancaster",N,N,"",2,347,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 110","Ancaster",N,N,"",2,347,"Samuel","","Vincent","Conservative","Conservateur",N,N,61
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 110","Ancaster",N,N,"",2,347,"Tassi","","Filomena","Liberal","Libéral",N,Y,86
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 111","Ancaster",N,N,"",1,471,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 111","Ancaster",N,N,"",1,471,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 111","Ancaster",N,N,"",1,471,"Samuel","","Vincent","Conservative","Conservateur",N,N,64
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 111","Ancaster",N,N,"",1,471,"Tassi","","Filomena","Liberal","Libéral",N,Y,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 112","Ancaster",N,N,"",0,445,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 112","Ancaster",N,N,"",0,445,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 112","Ancaster",N,N,"",0,445,"Samuel","","Vincent","Conservative","Conservateur",N,N,106
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 112","Ancaster",N,N,"",0,445,"Tassi","","Filomena","Liberal","Libéral",N,Y,100
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 113","Hamilton ",N,N,"",1,446,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 113","Hamilton ",N,N,"",1,446,"Ormond","","Peter","Green Party","Parti Vert",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 113","Hamilton ",N,N,"",1,446,"Samuel","","Vincent","Conservative","Conservateur",N,N,104
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 113","Hamilton ",N,N,"",1,446,"Tassi","","Filomena","Liberal","Libéral",N,Y,135
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 114","Hamilton ",N,N,"",0,363,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 114","Hamilton ",N,N,"",0,363,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 114","Hamilton ",N,N,"",0,363,"Samuel","","Vincent","Conservative","Conservateur",N,N,68
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 114","Hamilton ",N,N,"",0,363,"Tassi","","Filomena","Liberal","Libéral",N,Y,117
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 115","Hamilton ",N,N,"",1,353,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 115","Hamilton ",N,N,"",1,353,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 115","Hamilton ",N,N,"",1,353,"Samuel","","Vincent","Conservative","Conservateur",N,N,81
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 115","Hamilton ",N,N,"",1,353,"Tassi","","Filomena","Liberal","Libéral",N,Y,102
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 116","Hamilton ",N,N,"",1,307,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 116","Hamilton ",N,N,"",1,307,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 116","Hamilton ",N,N,"",1,307,"Samuel","","Vincent","Conservative","Conservateur",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 116","Hamilton ",N,N,"",1,307,"Tassi","","Filomena","Liberal","Libéral",N,Y,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 117","Hamilton ",N,N,"",2,477,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 117","Hamilton ",N,N,"",2,477,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 117","Hamilton ",N,N,"",2,477,"Samuel","","Vincent","Conservative","Conservateur",N,N,98
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 117","Hamilton ",N,N,"",2,477,"Tassi","","Filomena","Liberal","Libéral",N,Y,138
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 118","Hamilton ",N,N,"",2,302,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 118","Hamilton ",N,N,"",2,302,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 118","Hamilton ",N,N,"",2,302,"Samuel","","Vincent","Conservative","Conservateur",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 118","Hamilton ",N,N,"",2,302,"Tassi","","Filomena","Liberal","Libéral",N,Y,81
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 119","Hamilton ",N,N,"",1,370,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 119","Hamilton ",N,N,"",1,370,"Ormond","","Peter","Green Party","Parti Vert",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 119","Hamilton ",N,N,"",1,370,"Samuel","","Vincent","Conservative","Conservateur",N,N,77
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 119","Hamilton ",N,N,"",1,370,"Tassi","","Filomena","Liberal","Libéral",N,Y,114
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 120","Hamilton ",N,N,"",0,384,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 120","Hamilton ",N,N,"",0,384,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 120","Hamilton ",N,N,"",0,384,"Samuel","","Vincent","Conservative","Conservateur",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 120","Hamilton ",N,N,"",0,384,"Tassi","","Filomena","Liberal","Libéral",N,Y,93
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 121","Hamilton ",N,N,"",0,401,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 121","Hamilton ",N,N,"",0,401,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 121","Hamilton ",N,N,"",0,401,"Samuel","","Vincent","Conservative","Conservateur",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 121","Hamilton ",N,N,"",0,401,"Tassi","","Filomena","Liberal","Libéral",N,Y,109
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 122","Hamilton ",N,N,"",0,359,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 122","Hamilton ",N,N,"",0,359,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 122","Hamilton ",N,N,"",0,359,"Samuel","","Vincent","Conservative","Conservateur",N,N,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 122","Hamilton ",N,N,"",0,359,"Tassi","","Filomena","Liberal","Libéral",N,Y,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 123","Hamilton ",N,N,"",0,351,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 123","Hamilton ",N,N,"",0,351,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 123","Hamilton ",N,N,"",0,351,"Samuel","","Vincent","Conservative","Conservateur",N,N,90
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 123","Hamilton ",N,N,"",0,351,"Tassi","","Filomena","Liberal","Libéral",N,Y,69
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 124","Hamilton ",N,N,"",1,361,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 124","Hamilton ",N,N,"",1,361,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 124","Hamilton ",N,N,"",1,361,"Samuel","","Vincent","Conservative","Conservateur",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 124","Hamilton ",N,N,"",1,361,"Tassi","","Filomena","Liberal","Libéral",N,Y,93
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 125","Hamilton ",N,N,"",0,419,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 125","Hamilton ",N,N,"",0,419,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 125","Hamilton ",N,N,"",0,419,"Samuel","","Vincent","Conservative","Conservateur",N,N,65
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 125","Hamilton ",N,N,"",0,419,"Tassi","","Filomena","Liberal","Libéral",N,Y,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 126","Hamilton ",N,N,"",2,348,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 126","Hamilton ",N,N,"",2,348,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 126","Hamilton ",N,N,"",2,348,"Samuel","","Vincent","Conservative","Conservateur",N,N,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 126","Hamilton ",N,N,"",2,348,"Tassi","","Filomena","Liberal","Libéral",N,Y,81
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 127","Hamilton ",N,N,"",1,360,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 127","Hamilton ",N,N,"",1,360,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 127","Hamilton ",N,N,"",1,360,"Samuel","","Vincent","Conservative","Conservateur",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 127","Hamilton ",N,N,"",1,360,"Tassi","","Filomena","Liberal","Libéral",N,Y,105
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 128","Hamilton ",N,N,"",1,449,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 128","Hamilton ",N,N,"",1,449,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 128","Hamilton ",N,N,"",1,449,"Samuel","","Vincent","Conservative","Conservateur",N,N,59
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 128","Hamilton ",N,N,"",1,449,"Tassi","","Filomena","Liberal","Libéral",N,Y,110
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 129","Hamilton ",N,N,"",0,407,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 129","Hamilton ",N,N,"",0,407,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 129","Hamilton ",N,N,"",0,407,"Samuel","","Vincent","Conservative","Conservateur",N,N,77
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 129","Hamilton ",N,N,"",0,407,"Tassi","","Filomena","Liberal","Libéral",N,Y,113
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 130","Hamilton ",N,N,"",0,351,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 130","Hamilton ",N,N,"",0,351,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 130","Hamilton ",N,N,"",0,351,"Samuel","","Vincent","Conservative","Conservateur",N,N,70
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 130","Hamilton ",N,N,"",0,351,"Tassi","","Filomena","Liberal","Libéral",N,Y,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 131","Hamilton ",N,N,"",1,401,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 131","Hamilton ",N,N,"",1,401,"Ormond","","Peter","Green Party","Parti Vert",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 131","Hamilton ",N,N,"",1,401,"Samuel","","Vincent","Conservative","Conservateur",N,N,72
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 131","Hamilton ",N,N,"",1,401,"Tassi","","Filomena","Liberal","Libéral",N,Y,86
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 132","Hamilton ",N,N,"",0,366,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 132","Hamilton ",N,N,"",0,366,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 132","Hamilton ",N,N,"",0,366,"Samuel","","Vincent","Conservative","Conservateur",N,N,58
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 132","Hamilton ",N,N,"",0,366,"Tassi","","Filomena","Liberal","Libéral",N,Y,87
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 133","Hamilton ",N,N,"",1,412,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 133","Hamilton ",N,N,"",1,412,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 133","Hamilton ",N,N,"",1,412,"Samuel","","Vincent","Conservative","Conservateur",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 133","Hamilton ",N,N,"",1,412,"Tassi","","Filomena","Liberal","Libéral",N,Y,106
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 134","Hamilton ",N,N,"",4,405,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 134","Hamilton ",N,N,"",4,405,"Ormond","","Peter","Green Party","Parti Vert",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 134","Hamilton ",N,N,"",4,405,"Samuel","","Vincent","Conservative","Conservateur",N,N,72
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 134","Hamilton ",N,N,"",4,405,"Tassi","","Filomena","Liberal","Libéral",N,Y,83
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 135","Hamilton ",N,N,"",3,571,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 135","Hamilton ",N,N,"",3,571,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 135","Hamilton ",N,N,"",3,571,"Samuel","","Vincent","Conservative","Conservateur",N,N,79
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 135","Hamilton ",N,N,"",3,571,"Tassi","","Filomena","Liberal","Libéral",N,Y,149
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 136","Hamilton ",N,N,"",0,373,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 136","Hamilton ",N,N,"",0,373,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 136","Hamilton ",N,N,"",0,373,"Samuel","","Vincent","Conservative","Conservateur",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 136","Hamilton ",N,N,"",0,373,"Tassi","","Filomena","Liberal","Libéral",N,Y,129
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 137","Hamilton ",N,N,"",1,448,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 137","Hamilton ",N,N,"",1,448,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 137","Hamilton ",N,N,"",1,448,"Samuel","","Vincent","Conservative","Conservateur",N,N,40
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 137","Hamilton ",N,N,"",1,448,"Tassi","","Filomena","Liberal","Libéral",N,Y,101
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 138","Hamilton ",N,N,"",0,436,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 138","Hamilton ",N,N,"",0,436,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 138","Hamilton ",N,N,"",0,436,"Samuel","","Vincent","Conservative","Conservateur",N,N,75
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 138","Hamilton ",N,N,"",0,436,"Tassi","","Filomena","Liberal","Libéral",N,Y,86
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 139","Hamilton ",N,N,"",1,446,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 139","Hamilton ",N,N,"",1,446,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 139","Hamilton ",N,N,"",1,446,"Samuel","","Vincent","Conservative","Conservateur",N,N,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 139","Hamilton ",N,N,"",1,446,"Tassi","","Filomena","Liberal","Libéral",N,Y,103
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 140","Hamilton ",N,N,"",0,388,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 140","Hamilton ",N,N,"",0,388,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 140","Hamilton ",N,N,"",0,388,"Samuel","","Vincent","Conservative","Conservateur",N,N,74
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 140","Hamilton ",N,N,"",0,388,"Tassi","","Filomena","Liberal","Libéral",N,Y,110
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 141","Hamilton ",N,N,"",0,423,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 141","Hamilton ",N,N,"",0,423,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 141","Hamilton ",N,N,"",0,423,"Samuel","","Vincent","Conservative","Conservateur",N,N,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 141","Hamilton ",N,N,"",0,423,"Tassi","","Filomena","Liberal","Libéral",N,Y,129
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 142","Hamilton ",N,N,"",0,351,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 142","Hamilton ",N,N,"",0,351,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 142","Hamilton ",N,N,"",0,351,"Samuel","","Vincent","Conservative","Conservateur",N,N,41
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 142","Hamilton ",N,N,"",0,351,"Tassi","","Filomena","Liberal","Libéral",N,Y,76
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 143","Hamilton ",N,N,"",4,470,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 143","Hamilton ",N,N,"",4,470,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 143","Hamilton ",N,N,"",4,470,"Samuel","","Vincent","Conservative","Conservateur",N,N,86
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 143","Hamilton ",N,N,"",4,470,"Tassi","","Filomena","Liberal","Libéral",N,Y,121
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 144","Hamilton ",N,N,"",1,503,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 144","Hamilton ",N,N,"",1,503,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 144","Hamilton ",N,N,"",1,503,"Samuel","","Vincent","Conservative","Conservateur",N,N,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 144","Hamilton ",N,N,"",1,503,"Tassi","","Filomena","Liberal","Libéral",N,Y,85
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 145","Hamilton ",N,N,"",2,426,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 145","Hamilton ",N,N,"",2,426,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 145","Hamilton ",N,N,"",2,426,"Samuel","","Vincent","Conservative","Conservateur",N,N,87
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 145","Hamilton ",N,N,"",2,426,"Tassi","","Filomena","Liberal","Libéral",N,Y,91
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 146","Hamilton ",N,N,"",0,441,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 146","Hamilton ",N,N,"",0,441,"Ormond","","Peter","Green Party","Parti Vert",N,N,15
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 146","Hamilton ",N,N,"",0,441,"Samuel","","Vincent","Conservative","Conservateur",N,N,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 146","Hamilton ",N,N,"",0,441,"Tassi","","Filomena","Liberal","Libéral",N,Y,97
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 147","Hamilton ",N,N,"",2,391,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 147","Hamilton ",N,N,"",2,391,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 147","Hamilton ",N,N,"",2,391,"Samuel","","Vincent","Conservative","Conservateur",N,N,55
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 147","Hamilton ",N,N,"",2,391,"Tassi","","Filomena","Liberal","Libéral",N,Y,97
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 148","Hamilton ",N,N,"",0,415,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 148","Hamilton ",N,N,"",0,415,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 148","Hamilton ",N,N,"",0,415,"Samuel","","Vincent","Conservative","Conservateur",N,N,69
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 148","Hamilton ",N,N,"",0,415,"Tassi","","Filomena","Liberal","Libéral",N,Y,118
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 149","Hamilton ",N,N,"",3,439,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 149","Hamilton ",N,N,"",3,439,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 149","Hamilton ",N,N,"",3,439,"Samuel","","Vincent","Conservative","Conservateur",N,N,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 149","Hamilton ",N,N,"",3,439,"Tassi","","Filomena","Liberal","Libéral",N,Y,136
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 150","Hamilton ",N,N,"",2,428,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 150","Hamilton ",N,N,"",2,428,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 150","Hamilton ",N,N,"",2,428,"Samuel","","Vincent","Conservative","Conservateur",N,N,60
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 150","Hamilton ",N,N,"",2,428,"Tassi","","Filomena","Liberal","Libéral",N,Y,131
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 151","Hamilton ",N,N,"",0,441,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 151","Hamilton ",N,N,"",0,441,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 151","Hamilton ",N,N,"",0,441,"Samuel","","Vincent","Conservative","Conservateur",N,N,101
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 151","Hamilton ",N,N,"",0,441,"Tassi","","Filomena","Liberal","Libéral",N,Y,120
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 152","Hamilton ",N,N,"",3,392,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 152","Hamilton ",N,N,"",3,392,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 152","Hamilton ",N,N,"",3,392,"Samuel","","Vincent","Conservative","Conservateur",N,N,81
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 152","Hamilton ",N,N,"",3,392,"Tassi","","Filomena","Liberal","Libéral",N,Y,133
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 153","Hamilton ",N,N,"",0,426,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 153","Hamilton ",N,N,"",0,426,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 153","Hamilton ",N,N,"",0,426,"Samuel","","Vincent","Conservative","Conservateur",N,N,46
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 153","Hamilton ",N,N,"",0,426,"Tassi","","Filomena","Liberal","Libéral",N,Y,97
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 154","Hamilton ",N,N,"",0,481,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 154","Hamilton ",N,N,"",0,481,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 154","Hamilton ",N,N,"",0,481,"Samuel","","Vincent","Conservative","Conservateur",N,N,67
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 154","Hamilton ",N,N,"",0,481,"Tassi","","Filomena","Liberal","Libéral",N,Y,106
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 155","Hamilton ",N,N,"",2,423,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 155","Hamilton ",N,N,"",2,423,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 155","Hamilton ",N,N,"",2,423,"Samuel","","Vincent","Conservative","Conservateur",N,N,52
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 155","Hamilton ",N,N,"",2,423,"Tassi","","Filomena","Liberal","Libéral",N,Y,113
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 156","Hamilton ",N,N,"",0,402,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 156","Hamilton ",N,N,"",0,402,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 156","Hamilton ",N,N,"",0,402,"Samuel","","Vincent","Conservative","Conservateur",N,N,58
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 156","Hamilton ",N,N,"",0,402,"Tassi","","Filomena","Liberal","Libéral",N,Y,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 157","Hamilton ",N,N,"",1,395,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 157","Hamilton ",N,N,"",1,395,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 157","Hamilton ",N,N,"",1,395,"Samuel","","Vincent","Conservative","Conservateur",N,N,55
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 157","Hamilton ",N,N,"",1,395,"Tassi","","Filomena","Liberal","Libéral",N,Y,124
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 158","Hamilton ",N,N,"",3,391,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 158","Hamilton ",N,N,"",3,391,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 158","Hamilton ",N,N,"",3,391,"Samuel","","Vincent","Conservative","Conservateur",N,N,46
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 158","Hamilton ",N,N,"",3,391,"Tassi","","Filomena","Liberal","Libéral",N,Y,103
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 159","Hamilton ",N,N,"",0,369,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 159","Hamilton ",N,N,"",0,369,"Ormond","","Peter","Green Party","Parti Vert",N,N,2
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 159","Hamilton ",N,N,"",0,369,"Samuel","","Vincent","Conservative","Conservateur",N,N,48
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 159","Hamilton ",N,N,"",0,369,"Tassi","","Filomena","Liberal","Libéral",N,Y,84
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 160","Hamilton ",N,N,"",1,360,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 160","Hamilton ",N,N,"",1,360,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 160","Hamilton ",N,N,"",1,360,"Samuel","","Vincent","Conservative","Conservateur",N,N,53
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 160","Hamilton ",N,N,"",1,360,"Tassi","","Filomena","Liberal","Libéral",N,Y,88
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 161","Hamilton ",N,N,"",0,463,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 161","Hamilton ",N,N,"",0,463,"Ormond","","Peter","Green Party","Parti Vert",N,N,2
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 161","Hamilton ",N,N,"",0,463,"Samuel","","Vincent","Conservative","Conservateur",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 161","Hamilton ",N,N,"",0,463,"Tassi","","Filomena","Liberal","Libéral",N,Y,138
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 162","Hamilton ",N,N,"",1,498,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 162","Hamilton ",N,N,"",1,498,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 162","Hamilton ",N,N,"",1,498,"Samuel","","Vincent","Conservative","Conservateur",N,N,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 162","Hamilton ",N,N,"",1,498,"Tassi","","Filomena","Liberal","Libéral",N,Y,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 163","Hamilton ",N,N,"",1,465,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 163","Hamilton ",N,N,"",1,465,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 163","Hamilton ",N,N,"",1,465,"Samuel","","Vincent","Conservative","Conservateur",N,N,69
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 163","Hamilton ",N,N,"",1,465,"Tassi","","Filomena","Liberal","Libéral",N,Y,134
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 164","Hamilton ",N,N,"",1,349,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 164","Hamilton ",N,N,"",1,349,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 164","Hamilton ",N,N,"",1,349,"Samuel","","Vincent","Conservative","Conservateur",N,N,70
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 164","Hamilton ",N,N,"",1,349,"Tassi","","Filomena","Liberal","Libéral",N,Y,92
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 165","Hamilton ",N,N,"",0,384,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 165","Hamilton ",N,N,"",0,384,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 165","Hamilton ",N,N,"",0,384,"Samuel","","Vincent","Conservative","Conservateur",N,N,55
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 165","Hamilton ",N,N,"",0,384,"Tassi","","Filomena","Liberal","Libéral",N,Y,122
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 166","Hamilton ",N,N,"",0,446,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 166","Hamilton ",N,N,"",0,446,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 166","Hamilton ",N,N,"",0,446,"Samuel","","Vincent","Conservative","Conservateur",N,N,79
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 166","Hamilton ",N,N,"",0,446,"Tassi","","Filomena","Liberal","Libéral",N,Y,124
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 167","Hamilton ",N,N,"",1,510,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 167","Hamilton ",N,N,"",1,510,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 167","Hamilton ",N,N,"",1,510,"Samuel","","Vincent","Conservative","Conservateur",N,N,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 167","Hamilton ",N,N,"",1,510,"Tassi","","Filomena","Liberal","Libéral",N,Y,112
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 168","Ancaster",N,N,"",2,488,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 168","Ancaster",N,N,"",2,488,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 168","Ancaster",N,N,"",2,488,"Samuel","","Vincent","Conservative","Conservateur",N,N,100
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 168","Ancaster",N,N,"",2,488,"Tassi","","Filomena","Liberal","Libéral",N,Y,134
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 169","Ancaster",N,N,"",0,477,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 169","Ancaster",N,N,"",0,477,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 169","Ancaster",N,N,"",0,477,"Samuel","","Vincent","Conservative","Conservateur",N,N,116
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 169","Ancaster",N,N,"",0,477,"Tassi","","Filomena","Liberal","Libéral",N,Y,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 170","Ancaster",N,N,"",0,540,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 170","Ancaster",N,N,"",0,540,"Ormond","","Peter","Green Party","Parti Vert",N,N,5
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 170","Ancaster",N,N,"",0,540,"Samuel","","Vincent","Conservative","Conservateur",N,N,89
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 170","Ancaster",N,N,"",0,540,"Tassi","","Filomena","Liberal","Libéral",N,Y,120
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 171","Ancaster",N,N,"",1,355,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 171","Ancaster",N,N,"",1,355,"Ormond","","Peter","Green Party","Parti Vert",N,N,1
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 171","Ancaster",N,N,"",1,355,"Samuel","","Vincent","Conservative","Conservateur",N,N,76
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 171","Ancaster",N,N,"",1,355,"Tassi","","Filomena","Liberal","Libéral",N,Y,56
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 172","Ancaster",N,N,"",1,504,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 172","Ancaster",N,N,"",1,504,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 172","Ancaster",N,N,"",1,504,"Samuel","","Vincent","Conservative","Conservateur",N,N,103
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 172","Ancaster",N,N,"",1,504,"Tassi","","Filomena","Liberal","Libéral",N,Y,109
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 173","Ancaster",N,N,"",2,447,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 173","Ancaster",N,N,"",2,447,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 173","Ancaster",N,N,"",2,447,"Samuel","","Vincent","Conservative","Conservateur",N,N,97
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 173","Ancaster",N,N,"",2,447,"Tassi","","Filomena","Liberal","Libéral",N,Y,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 174","Ancaster",N,N,"",0,683,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 174","Ancaster",N,N,"",0,683,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 174","Ancaster",N,N,"",0,683,"Samuel","","Vincent","Conservative","Conservateur",N,N,124
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 174","Ancaster",N,N,"",0,683,"Tassi","","Filomena","Liberal","Libéral",N,Y,159
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 175","Ancaster",N,N,"",0,654,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 175","Ancaster",N,N,"",0,654,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 175","Ancaster",N,N,"",0,654,"Samuel","","Vincent","Conservative","Conservateur",N,N,145
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 175","Ancaster",N,N,"",0,654,"Tassi","","Filomena","Liberal","Libéral",N,Y,134
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 176","Ancaster",N,N,"",1,474,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 176","Ancaster",N,N,"",1,474,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 176","Ancaster",N,N,"",1,474,"Samuel","","Vincent","Conservative","Conservateur",N,N,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 176","Ancaster",N,N,"",1,474,"Tassi","","Filomena","Liberal","Libéral",N,Y,93
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 177","Ancaster",N,N,"",2,483,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 177","Ancaster",N,N,"",2,483,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 177","Ancaster",N,N,"",2,483,"Samuel","","Vincent","Conservative","Conservateur",N,N,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 177","Ancaster",N,N,"",2,483,"Tassi","","Filomena","Liberal","Libéral",N,Y,97
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 178","Ancaster",N,N,"",0,417,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 178","Ancaster",N,N,"",0,417,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 178","Ancaster",N,N,"",0,417,"Samuel","","Vincent","Conservative","Conservateur",N,N,95
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 178","Ancaster",N,N,"",0,417,"Tassi","","Filomena","Liberal","Libéral",N,Y,114
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 179","Ancaster",N,N,"",0,449,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 179","Ancaster",N,N,"",0,449,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 179","Ancaster",N,N,"",0,449,"Samuel","","Vincent","Conservative","Conservateur",N,N,85
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 179","Ancaster",N,N,"",0,449,"Tassi","","Filomena","Liberal","Libéral",N,Y,120
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 180","Ancaster",N,N,"",1,413,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 180","Ancaster",N,N,"",1,413,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 180","Ancaster",N,N,"",1,413,"Samuel","","Vincent","Conservative","Conservateur",N,N,91
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 180","Ancaster",N,N,"",1,413,"Tassi","","Filomena","Liberal","Libéral",N,Y,112
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 181","Ancaster",N,N,"",0,753,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 181","Ancaster",N,N,"",0,753,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 181","Ancaster",N,N,"",0,753,"Samuel","","Vincent","Conservative","Conservateur",N,N,163
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 181","Ancaster",N,N,"",0,753,"Tassi","","Filomena","Liberal","Libéral",N,Y,178
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 182","Ancaster",N,N,"",2,401,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 182","Ancaster",N,N,"",2,401,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 182","Ancaster",N,N,"",2,401,"Samuel","","Vincent","Conservative","Conservateur",N,N,87
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 182","Ancaster",N,N,"",2,401,"Tassi","","Filomena","Liberal","Libéral",N,Y,108
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 183","Ancaster",N,N,"",0,417,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 183","Ancaster",N,N,"",0,417,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 183","Ancaster",N,N,"",0,417,"Samuel","","Vincent","Conservative","Conservateur",N,N,125
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 183","Ancaster",N,N,"",0,417,"Tassi","","Filomena","Liberal","Libéral",N,Y,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 184","Hamilton ",N,N,"",0,446,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 184","Hamilton ",N,N,"",0,446,"Ormond","","Peter","Green Party","Parti Vert",N,N,12
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 184","Hamilton ",N,N,"",0,446,"Samuel","","Vincent","Conservative","Conservateur",N,N,71
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 184","Hamilton ",N,N,"",0,446,"Tassi","","Filomena","Liberal","Libéral",N,Y,111
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 185","Hamilton ",N,N,"",0,438,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 185","Hamilton ",N,N,"",0,438,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 185","Hamilton ",N,N,"",0,438,"Samuel","","Vincent","Conservative","Conservateur",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 185","Hamilton ",N,N,"",0,438,"Tassi","","Filomena","Liberal","Libéral",N,Y,116
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 186","Hamilton ",N,N,"",0,417,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 186","Hamilton ",N,N,"",0,417,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 186","Hamilton ",N,N,"",0,417,"Samuel","","Vincent","Conservative","Conservateur",N,N,72
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 186","Hamilton ",N,N,"",0,417,"Tassi","","Filomena","Liberal","Libéral",N,Y,94
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 187","Hamilton ",N,N,"",1,485,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 187","Hamilton ",N,N,"",1,485,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 187","Hamilton ",N,N,"",1,485,"Samuel","","Vincent","Conservative","Conservateur",N,N,67
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 187","Hamilton ",N,N,"",1,485,"Tassi","","Filomena","Liberal","Libéral",N,Y,123
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 188","Hamilton ",N,N,"",0,513,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 188","Hamilton ",N,N,"",0,513,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 188","Hamilton ",N,N,"",0,513,"Samuel","","Vincent","Conservative","Conservateur",N,N,64
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 188","Hamilton ",N,N,"",0,513,"Tassi","","Filomena","Liberal","Libéral",N,Y,129
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 189","Hamilton ",N,N,"",1,453,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 189","Hamilton ",N,N,"",1,453,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 189","Hamilton ",N,N,"",1,453,"Samuel","","Vincent","Conservative","Conservateur",N,N,31
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 189","Hamilton ",N,N,"",1,453,"Tassi","","Filomena","Liberal","Libéral",N,Y,104
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 190","Hamilton ",N,N,"",0,312,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 190","Hamilton ",N,N,"",0,312,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 190","Hamilton ",N,N,"",0,312,"Samuel","","Vincent","Conservative","Conservateur",N,N,22
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 190","Hamilton ",N,N,"",0,312,"Tassi","","Filomena","Liberal","Libéral",N,Y,68
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 191","Hamilton ",N,N,"",0,396,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 191","Hamilton ",N,N,"",0,396,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 191","Hamilton ",N,N,"",0,396,"Samuel","","Vincent","Conservative","Conservateur",N,N,43
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 191","Hamilton ",N,N,"",0,396,"Tassi","","Filomena","Liberal","Libéral",N,Y,79
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 192","Ancaster",N,N,"",0,395,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 192","Ancaster",N,N,"",0,395,"Ormond","","Peter","Green Party","Parti Vert",N,N,10
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 192","Ancaster",N,N,"",0,395,"Samuel","","Vincent","Conservative","Conservateur",N,N,108
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 192","Ancaster",N,N,"",0,395,"Tassi","","Filomena","Liberal","Libéral",N,Y,106
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 193","Ancaster",N,N,"",0,437,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 193","Ancaster",N,N,"",0,437,"Ormond","","Peter","Green Party","Parti Vert",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 193","Ancaster",N,N,"",0,437,"Samuel","","Vincent","Conservative","Conservateur",N,N,96
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 193","Ancaster",N,N,"",0,437,"Tassi","","Filomena","Liberal","Libéral",N,Y,113
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 194","Ancaster",N,N,"",0,316,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 194","Ancaster",N,N,"",0,316,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 194","Ancaster",N,N,"",0,316,"Samuel","","Vincent","Conservative","Conservateur",N,N,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 194","Ancaster",N,N,"",0,316,"Tassi","","Filomena","Liberal","Libéral",N,Y,82
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 195","Ancaster",N,N,"",1,458,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 195","Ancaster",N,N,"",1,458,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 195","Ancaster",N,N,"",1,458,"Samuel","","Vincent","Conservative","Conservateur",N,N,100
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 195","Ancaster",N,N,"",1,458,"Tassi","","Filomena","Liberal","Libéral",N,Y,106
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 196","Ancaster",N,N,"",0,417,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 196","Ancaster",N,N,"",0,417,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 196","Ancaster",N,N,"",0,417,"Samuel","","Vincent","Conservative","Conservateur",N,N,115
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 196","Ancaster",N,N,"",0,417,"Tassi","","Filomena","Liberal","Libéral",N,Y,110
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 400","Hamilton ",N,N,"",0,177,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 400","Hamilton ",N,N,"",0,177,"Ormond","","Peter","Green Party","Parti Vert",N,N,1
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 400","Hamilton ",N,N,"",0,177,"Samuel","","Vincent","Conservative","Conservateur",N,N,32
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 400","Hamilton ",N,N,"",0,177,"Tassi","","Filomena","Liberal","Libéral",N,Y,42
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 401","Hamilton ",N,N,"",0,601,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 401","Hamilton ",N,N,"",0,601,"Ormond","","Peter","Green Party","Parti Vert",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 401","Hamilton ",N,N,"",0,601,"Samuel","","Vincent","Conservative","Conservateur",N,N,113
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 401","Hamilton ",N,N,"",0,601,"Tassi","","Filomena","Liberal","Libéral",N,Y,314
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 402","Hamilton ",N,N,"",0,235,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 402","Hamilton ",N,N,"",0,235,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 402","Hamilton ",N,N,"",0,235,"Samuel","","Vincent","Conservative","Conservateur",N,N,36
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 402","Hamilton ",N,N,"",0,235,"Tassi","","Filomena","Liberal","Libéral",N,Y,63
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 403","Hamilton ",N,N,"",1,254,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 403","Hamilton ",N,N,"",1,254,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 403","Hamilton ",N,N,"",1,254,"Samuel","","Vincent","Conservative","Conservateur",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 403","Hamilton ",N,N,"",1,254,"Tassi","","Filomena","Liberal","Libéral",N,Y,116
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 404","Hamilton ",N,N,"",1,184,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 404","Hamilton ",N,N,"",1,184,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 404","Hamilton ",N,N,"",1,184,"Samuel","","Vincent","Conservative","Conservateur",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 404","Hamilton ",N,N,"",1,184,"Tassi","","Filomena","Liberal","Libéral",N,Y,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 405","Dundas",N,N,"",6,362,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 405","Dundas",N,N,"",6,362,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 405","Dundas",N,N,"",6,362,"Samuel","","Vincent","Conservative","Conservateur",N,N,20
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 405","Dundas",N,N,"",6,362,"Tassi","","Filomena","Liberal","Libéral",N,Y,42
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 406","Hamilton ",N,N,"",1,250,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 406","Hamilton ",N,N,"",1,250,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 406","Hamilton ",N,N,"",1,250,"Samuel","","Vincent","Conservative","Conservateur",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 406","Hamilton ",N,N,"",1,250,"Tassi","","Filomena","Liberal","Libéral",N,Y,82
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 407","Ancaster",N,N,"",2,124,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 407","Ancaster",N,N,"",2,124,"Ormond","","Peter","Green Party","Parti Vert",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 407","Ancaster",N,N,"",2,124,"Samuel","","Vincent","Conservative","Conservateur",N,N,80
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 407","Ancaster",N,N,"",2,124,"Tassi","","Filomena","Liberal","Libéral",N,Y,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 408","Hamilton ",N,N,"",2,164,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 408","Hamilton ",N,N,"",2,164,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 408","Hamilton ",N,N,"",2,164,"Samuel","","Vincent","Conservative","Conservateur",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 408","Hamilton ",N,N,"",2,164,"Tassi","","Filomena","Liberal","Libéral",N,Y,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 500","Mobile poll/Bureau itinérant",N,N,"",0,104,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 500","Mobile poll/Bureau itinérant",N,N,"",0,104,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 500","Mobile poll/Bureau itinérant",N,N,"",0,104,"Samuel","","Vincent","Conservative","Conservateur",N,N,17
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 500","Mobile poll/Bureau itinérant",N,N,"",0,104,"Tassi","","Filomena","Liberal","Libéral",N,Y,30
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 501","Mobile poll/Bureau itinérant",N,N,"",1,200,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 501","Mobile poll/Bureau itinérant",N,N,"",1,200,"Ormond","","Peter","Green Party","Parti Vert",N,N,3
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 501","Mobile poll/Bureau itinérant",N,N,"",1,200,"Samuel","","Vincent","Conservative","Conservateur",N,N,30
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 501","Mobile poll/Bureau itinérant",N,N,"",1,200,"Tassi","","Filomena","Liberal","Libéral",N,Y,50
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 502","Mobile poll/Bureau itinérant",N,N,"",0,163,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 502","Mobile poll/Bureau itinérant",N,N,"",0,163,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 502","Mobile poll/Bureau itinérant",N,N,"",0,163,"Samuel","","Vincent","Conservative","Conservateur",N,N,32
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 502","Mobile poll/Bureau itinérant",N,N,"",0,163,"Tassi","","Filomena","Liberal","Libéral",N,Y,44
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 503","Mobile poll/Bureau itinérant",N,N,"",1,159,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 503","Mobile poll/Bureau itinérant",N,N,"",1,159,"Ormond","","Peter","Green Party","Parti Vert",N,N,4
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 503","Mobile poll/Bureau itinérant",N,N,"",1,159,"Samuel","","Vincent","Conservative","Conservateur",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 503","Mobile poll/Bureau itinérant",N,N,"",1,159,"Tassi","","Filomena","Liberal","Libéral",N,Y,32
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 504","Mobile poll/Bureau itinérant",N,N,"",5,255,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 504","Mobile poll/Bureau itinérant",N,N,"",5,255,"Ormond","","Peter","Green Party","Parti Vert",N,N,11
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 504","Mobile poll/Bureau itinérant",N,N,"",5,255,"Samuel","","Vincent","Conservative","Conservateur",N,N,41
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 504","Mobile poll/Bureau itinérant",N,N,"",5,255,"Tassi","","Filomena","Liberal","Libéral",N,Y,99
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 505","Mobile poll/Bureau itinérant",N,N,"",2,322,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 505","Mobile poll/Bureau itinérant",N,N,"",2,322,"Ormond","","Peter","Green Party","Parti Vert",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 505","Mobile poll/Bureau itinérant",N,N,"",2,322,"Samuel","","Vincent","Conservative","Conservateur",N,N,43
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 505","Mobile poll/Bureau itinérant",N,N,"",2,322,"Tassi","","Filomena","Liberal","Libéral",N,Y,57
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 506","Mobile poll/Bureau itinérant",N,N,"",3,198,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 506","Mobile poll/Bureau itinérant",N,N,"",3,198,"Ormond","","Peter","Green Party","Parti Vert",N,N,8
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 506","Mobile poll/Bureau itinérant",N,N,"",3,198,"Samuel","","Vincent","Conservative","Conservateur",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 506","Mobile poll/Bureau itinérant",N,N,"",3,198,"Tassi","","Filomena","Liberal","Libéral",N,Y,61
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 507","Mobile poll/Bureau itinérant",N,N,"",0,225,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 507","Mobile poll/Bureau itinérant",N,N,"",0,225,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 507","Mobile poll/Bureau itinérant",N,N,"",0,225,"Samuel","","Vincent","Conservative","Conservateur",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 507","Mobile poll/Bureau itinérant",N,N,"",0,225,"Tassi","","Filomena","Liberal","Libéral",N,Y,59
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 508","Mobile poll/Bureau itinérant",N,N,"",2,226,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 508","Mobile poll/Bureau itinérant",N,N,"",2,226,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 508","Mobile poll/Bureau itinérant",N,N,"",2,226,"Samuel","","Vincent","Conservative","Conservateur",N,N,68
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 508","Mobile poll/Bureau itinérant",N,N,"",2,226,"Tassi","","Filomena","Liberal","Libéral",N,Y,91
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 509","Mobile poll/Bureau itinérant",N,N,"",0,160,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 509","Mobile poll/Bureau itinérant",N,N,"",0,160,"Ormond","","Peter","Green Party","Parti Vert",N,N,0
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 509","Mobile poll/Bureau itinérant",N,N,"",0,160,"Samuel","","Vincent","Conservative","Conservateur",N,N,26
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 509","Mobile poll/Bureau itinérant",N,N,"",0,160,"Tassi","","Filomena","Liberal","Libéral",N,Y,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 600","Hamilton ",N,N,"",3,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,126
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 600","Hamilton ",N,N,"",3,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,41
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 600","Hamilton ",N,N,"",3,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,189
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 600","Hamilton ",N,N,"",3,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,439
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 601","Dundas",N,N,"",6,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,163
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 601","Dundas",N,N,"",6,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,60
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 601","Dundas",N,N,"",6,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,251
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 601","Dundas",N,N,"",6,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,510
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 602","Ancaster",N,N,"",6,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,130
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 602","Ancaster",N,N,"",6,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,61
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 602","Ancaster",N,N,"",6,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,373
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 602","Ancaster",N,N,"",6,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,532
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 603","Ancaster",N,N,"",3,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,198
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 603","Ancaster",N,N,"",3,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,45
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 603","Ancaster",N,N,"",3,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,362
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 603","Ancaster",N,N,"",3,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,543
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 604","Hamilton ",N,N,"",0,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,157
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 604","Hamilton ",N,N,"",0,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 604","Hamilton ",N,N,"",0,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,203
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 604","Hamilton ",N,N,"",0,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,365
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 605","Hamilton ",N,N,"",5,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 605","Hamilton ",N,N,"",5,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,29
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 605","Hamilton ",N,N,"",5,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,218
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 605","Hamilton ",N,N,"",5,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,349
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 606","Hamilton ",N,N,"",1,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,193
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 606","Hamilton ",N,N,"",1,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,39
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 606","Hamilton ",N,N,"",1,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,265
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 606","Hamilton ",N,N,"",1,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,357
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 607","Hamilton ",N,N,"",3,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,177
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 607","Hamilton ",N,N,"",3,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 607","Hamilton ",N,N,"",3,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,182
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 607","Hamilton ",N,N,"",3,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,263
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 608","Hamilton ",N,N,"",1,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,137
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 608","Hamilton ",N,N,"",1,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,21
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 608","Hamilton ",N,N,"",1,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,210
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 608","Hamilton ",N,N,"",1,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,287
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 609","Ancaster",N,N,"",2,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 609","Ancaster",N,N,"",2,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,16
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 609","Ancaster",N,N,"",2,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,545
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 609","Ancaster",N,N,"",2,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,530
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 610","Ancaster",N,N,"",7,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 610","Ancaster",N,N,"",7,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,30
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 610","Ancaster",N,N,"",7,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,553
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 610","Ancaster",N,N,"",7,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,607
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 611","Ancaster",N,N,"",2,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 611","Ancaster",N,N,"",2,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 611","Ancaster",N,N,"",2,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,489
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 611","Ancaster",N,N,"",2,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,474
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 612","Ancaster",N,N,"",4,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 612","Ancaster",N,N,"",4,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,27
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 612","Ancaster",N,N,"",4,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,486
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," 612","Ancaster",N,N,"",4,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,545
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,104,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,104,"Ormond","","Peter","Green Party","Parti Vert",N,N,6
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,104,"Samuel","","Vincent","Conservative","Conservateur",N,N,37
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",6,104,"Tassi","","Filomena","Liberal","Libéral",N,Y,60
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Johnstone","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,383
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Ormond","","Peter","Green Party","Parti Vert",N,N,73
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Samuel","","Vincent","Conservative","Conservateur",N,N,393
+35038,"Hamilton West--Ancaster--Dundas","Hamilton-Ouest--Ancaster--Dundas"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Tassi","","Filomena","Liberal","Libéral",N,Y,832

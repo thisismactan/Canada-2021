@@ -1,0 +1,725 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 1","Winnipeg",N,N,"",2,374,"Eyolfson","","Doug","Liberal","Libéral",N,Y,121
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 1","Winnipeg",N,N,"",2,374,"Fletcher","","Steven","Conservative","Conservateur",Y,N,106
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 1","Winnipeg",N,N,"",2,374,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 1","Winnipeg",N,N,"",2,374,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 2","Winnipeg",N,N,"",0,380,"Eyolfson","","Doug","Liberal","Libéral",N,Y,112
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 2","Winnipeg",N,N,"",0,380,"Fletcher","","Steven","Conservative","Conservateur",Y,N,62
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 2","Winnipeg",N,N,"",0,380,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 2","Winnipeg",N,N,"",0,380,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 3","Winnipeg",N,N,"",1,347,"Eyolfson","","Doug","Liberal","Libéral",N,Y,114
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 3","Winnipeg",N,N,"",1,347,"Fletcher","","Steven","Conservative","Conservateur",Y,N,69
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 3","Winnipeg",N,N,"",1,347,"Nichols","","Kevin","Green Party","Parti Vert",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 3","Winnipeg",N,N,"",1,347,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 4","Winnipeg",N,N,"",0,472,"Eyolfson","","Doug","Liberal","Libéral",N,Y,139
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 4","Winnipeg",N,N,"",0,472,"Fletcher","","Steven","Conservative","Conservateur",Y,N,65
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 4","Winnipeg",N,N,"",0,472,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 4","Winnipeg",N,N,"",0,472,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 5","Winnipeg",N,N,"",0,246,"Eyolfson","","Doug","Liberal","Libéral",N,Y,78
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 5","Winnipeg",N,N,"",0,246,"Fletcher","","Steven","Conservative","Conservateur",Y,N,51
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 5","Winnipeg",N,N,"",0,246,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 5","Winnipeg",N,N,"",0,246,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 6","Winnipeg",N,N,"",1,426,"Eyolfson","","Doug","Liberal","Libéral",N,Y,137
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 6","Winnipeg",N,N,"",1,426,"Fletcher","","Steven","Conservative","Conservateur",Y,N,91
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 6","Winnipeg",N,N,"",1,426,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 6","Winnipeg",N,N,"",1,426,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 7","Winnipeg",N,N,"",0,369,"Eyolfson","","Doug","Liberal","Libéral",N,Y,94
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 7","Winnipeg",N,N,"",0,369,"Fletcher","","Steven","Conservative","Conservateur",Y,N,64
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 7","Winnipeg",N,N,"",0,369,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 7","Winnipeg",N,N,"",0,369,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 8","Winnipeg",N,N,"",0,413,"Eyolfson","","Doug","Liberal","Libéral",N,Y,138
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 8","Winnipeg",N,N,"",0,413,"Fletcher","","Steven","Conservative","Conservateur",Y,N,53
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 8","Winnipeg",N,N,"",0,413,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 8","Winnipeg",N,N,"",0,413,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 9","Winnipeg",N,N,"",2,453,"Eyolfson","","Doug","Liberal","Libéral",N,Y,104
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 9","Winnipeg",N,N,"",2,453,"Fletcher","","Steven","Conservative","Conservateur",Y,N,73
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 9","Winnipeg",N,N,"",2,453,"Nichols","","Kevin","Green Party","Parti Vert",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 9","Winnipeg",N,N,"",2,453,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 10","Winnipeg",N,N,"",0,351,"Eyolfson","","Doug","Liberal","Libéral",N,Y,129
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 10","Winnipeg",N,N,"",0,351,"Fletcher","","Steven","Conservative","Conservateur",Y,N,62
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 10","Winnipeg",N,N,"",0,351,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 10","Winnipeg",N,N,"",0,351,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 11","Winnipeg",N,N,"",0,410,"Eyolfson","","Doug","Liberal","Libéral",N,Y,151
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 11","Winnipeg",N,N,"",0,410,"Fletcher","","Steven","Conservative","Conservateur",Y,N,82
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 11","Winnipeg",N,N,"",0,410,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 11","Winnipeg",N,N,"",0,410,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 12","Winnipeg",N,N,"",0,411,"Eyolfson","","Doug","Liberal","Libéral",N,Y,164
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 12","Winnipeg",N,N,"",0,411,"Fletcher","","Steven","Conservative","Conservateur",Y,N,62
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 12","Winnipeg",N,N,"",0,411,"Nichols","","Kevin","Green Party","Parti Vert",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 12","Winnipeg",N,N,"",0,411,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 13","Winnipeg",N,N,"",2,359,"Eyolfson","","Doug","Liberal","Libéral",N,Y,120
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 13","Winnipeg",N,N,"",2,359,"Fletcher","","Steven","Conservative","Conservateur",Y,N,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 13","Winnipeg",N,N,"",2,359,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 13","Winnipeg",N,N,"",2,359,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 14","Winnipeg",N,N,"",0,384,"Eyolfson","","Doug","Liberal","Libéral",N,Y,106
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 14","Winnipeg",N,N,"",0,384,"Fletcher","","Steven","Conservative","Conservateur",Y,N,62
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 14","Winnipeg",N,N,"",0,384,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 14","Winnipeg",N,N,"",0,384,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 15","Winnipeg",N,N,"",1,405,"Eyolfson","","Doug","Liberal","Libéral",N,Y,110
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 15","Winnipeg",N,N,"",1,405,"Fletcher","","Steven","Conservative","Conservateur",Y,N,50
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 15","Winnipeg",N,N,"",1,405,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 15","Winnipeg",N,N,"",1,405,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 16","Winnipeg",N,N,"",1,565,"Eyolfson","","Doug","Liberal","Libéral",N,Y,114
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 16","Winnipeg",N,N,"",1,565,"Fletcher","","Steven","Conservative","Conservateur",Y,N,77
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 16","Winnipeg",N,N,"",1,565,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 16","Winnipeg",N,N,"",1,565,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 17","Winnipeg",N,N,"",0,389,"Eyolfson","","Doug","Liberal","Libéral",N,Y,107
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 17","Winnipeg",N,N,"",0,389,"Fletcher","","Steven","Conservative","Conservateur",Y,N,63
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 17","Winnipeg",N,N,"",0,389,"Nichols","","Kevin","Green Party","Parti Vert",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 17","Winnipeg",N,N,"",0,389,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 18","Winnipeg",N,N,"",2,345,"Eyolfson","","Doug","Liberal","Libéral",N,Y,132
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 18","Winnipeg",N,N,"",2,345,"Fletcher","","Steven","Conservative","Conservateur",Y,N,83
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 18","Winnipeg",N,N,"",2,345,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 18","Winnipeg",N,N,"",2,345,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 19","Winnipeg",N,N,"",0,395,"Eyolfson","","Doug","Liberal","Libéral",N,Y,123
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 19","Winnipeg",N,N,"",0,395,"Fletcher","","Steven","Conservative","Conservateur",Y,N,75
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 19","Winnipeg",N,N,"",0,395,"Nichols","","Kevin","Green Party","Parti Vert",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 19","Winnipeg",N,N,"",0,395,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 20","Winnipeg",N,N,"",0,375,"Eyolfson","","Doug","Liberal","Libéral",N,Y,102
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 20","Winnipeg",N,N,"",0,375,"Fletcher","","Steven","Conservative","Conservateur",Y,N,92
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 20","Winnipeg",N,N,"",0,375,"Nichols","","Kevin","Green Party","Parti Vert",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 20","Winnipeg",N,N,"",0,375,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 21","Winnipeg",N,N,"",0,592,"Eyolfson","","Doug","Liberal","Libéral",N,Y,178
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 21","Winnipeg",N,N,"",0,592,"Fletcher","","Steven","Conservative","Conservateur",Y,N,156
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 21","Winnipeg",N,N,"",0,592,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 21","Winnipeg",N,N,"",0,592,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 22","Winnipeg",N,N,"",0,425,"Eyolfson","","Doug","Liberal","Libéral",N,Y,109
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 22","Winnipeg",N,N,"",0,425,"Fletcher","","Steven","Conservative","Conservateur",Y,N,105
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 22","Winnipeg",N,N,"",0,425,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 22","Winnipeg",N,N,"",0,425,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 23","Winnipeg",N,N,"",0,475,"Eyolfson","","Doug","Liberal","Libéral",N,Y,154
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 23","Winnipeg",N,N,"",0,475,"Fletcher","","Steven","Conservative","Conservateur",Y,N,111
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 23","Winnipeg",N,N,"",0,475,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 23","Winnipeg",N,N,"",0,475,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 24","Winnipeg",N,N,"",0,363,"Eyolfson","","Doug","Liberal","Libéral",N,Y,120
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 24","Winnipeg",N,N,"",0,363,"Fletcher","","Steven","Conservative","Conservateur",Y,N,76
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 24","Winnipeg",N,N,"",0,363,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 24","Winnipeg",N,N,"",0,363,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 25","Winnipeg",N,N,"",1,439,"Eyolfson","","Doug","Liberal","Libéral",N,Y,139
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 25","Winnipeg",N,N,"",1,439,"Fletcher","","Steven","Conservative","Conservateur",Y,N,85
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 25","Winnipeg",N,N,"",1,439,"Nichols","","Kevin","Green Party","Parti Vert",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 25","Winnipeg",N,N,"",1,439,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 26","Winnipeg",N,N,"",0,458,"Eyolfson","","Doug","Liberal","Libéral",N,Y,143
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 26","Winnipeg",N,N,"",0,458,"Fletcher","","Steven","Conservative","Conservateur",Y,N,111
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 26","Winnipeg",N,N,"",0,458,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 26","Winnipeg",N,N,"",0,458,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 27","Winnipeg",N,N,"",0,481,"Eyolfson","","Doug","Liberal","Libéral",N,Y,149
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 27","Winnipeg",N,N,"",0,481,"Fletcher","","Steven","Conservative","Conservateur",Y,N,71
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 27","Winnipeg",N,N,"",0,481,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 27","Winnipeg",N,N,"",0,481,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 28","Winnipeg",N,N,"",1,423,"Eyolfson","","Doug","Liberal","Libéral",N,Y,137
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 28","Winnipeg",N,N,"",1,423,"Fletcher","","Steven","Conservative","Conservateur",Y,N,77
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 28","Winnipeg",N,N,"",1,423,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 28","Winnipeg",N,N,"",1,423,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 29","Winnipeg",N,N,"",0,424,"Eyolfson","","Doug","Liberal","Libéral",N,Y,138
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 29","Winnipeg",N,N,"",0,424,"Fletcher","","Steven","Conservative","Conservateur",Y,N,87
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 29","Winnipeg",N,N,"",0,424,"Nichols","","Kevin","Green Party","Parti Vert",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 29","Winnipeg",N,N,"",0,424,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 30","Winnipeg",N,N,"",3,427,"Eyolfson","","Doug","Liberal","Libéral",N,Y,129
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 30","Winnipeg",N,N,"",3,427,"Fletcher","","Steven","Conservative","Conservateur",Y,N,77
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 30","Winnipeg",N,N,"",3,427,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 30","Winnipeg",N,N,"",3,427,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 31","Winnipeg",N,N,"",1,404,"Eyolfson","","Doug","Liberal","Libéral",N,Y,138
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 31","Winnipeg",N,N,"",1,404,"Fletcher","","Steven","Conservative","Conservateur",Y,N,72
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 31","Winnipeg",N,N,"",1,404,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 31","Winnipeg",N,N,"",1,404,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 32","Winnipeg",N,N,"",0,404,"Eyolfson","","Doug","Liberal","Libéral",N,Y,102
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 32","Winnipeg",N,N,"",0,404,"Fletcher","","Steven","Conservative","Conservateur",Y,N,79
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 32","Winnipeg",N,N,"",0,404,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 32","Winnipeg",N,N,"",0,404,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 33","Winnipeg",N,N,"",1,399,"Eyolfson","","Doug","Liberal","Libéral",N,Y,122
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 33","Winnipeg",N,N,"",1,399,"Fletcher","","Steven","Conservative","Conservateur",Y,N,104
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 33","Winnipeg",N,N,"",1,399,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 33","Winnipeg",N,N,"",1,399,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 34","Winnipeg",N,N,"",1,421,"Eyolfson","","Doug","Liberal","Libéral",N,Y,127
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 34","Winnipeg",N,N,"",1,421,"Fletcher","","Steven","Conservative","Conservateur",Y,N,79
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 34","Winnipeg",N,N,"",1,421,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 34","Winnipeg",N,N,"",1,421,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 35","Winnipeg",N,N,"",0,442,"Eyolfson","","Doug","Liberal","Libéral",N,Y,122
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 35","Winnipeg",N,N,"",0,442,"Fletcher","","Steven","Conservative","Conservateur",Y,N,79
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 35","Winnipeg",N,N,"",0,442,"Nichols","","Kevin","Green Party","Parti Vert",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 35","Winnipeg",N,N,"",0,442,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 36","Winnipeg",N,N,"",2,442,"Eyolfson","","Doug","Liberal","Libéral",N,Y,160
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 36","Winnipeg",N,N,"",2,442,"Fletcher","","Steven","Conservative","Conservateur",Y,N,88
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 36","Winnipeg",N,N,"",2,442,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 36","Winnipeg",N,N,"",2,442,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 37","Winnipeg",N,N,"",0,475,"Eyolfson","","Doug","Liberal","Libéral",N,Y,176
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 37","Winnipeg",N,N,"",0,475,"Fletcher","","Steven","Conservative","Conservateur",Y,N,118
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 37","Winnipeg",N,N,"",0,475,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 37","Winnipeg",N,N,"",0,475,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 38","Winnipeg",N,N,"",2,350,"Eyolfson","","Doug","Liberal","Libéral",N,Y,103
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 38","Winnipeg",N,N,"",2,350,"Fletcher","","Steven","Conservative","Conservateur",Y,N,66
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 38","Winnipeg",N,N,"",2,350,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 38","Winnipeg",N,N,"",2,350,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 39","Winnipeg",N,N,"",2,443,"Eyolfson","","Doug","Liberal","Libéral",N,Y,155
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 39","Winnipeg",N,N,"",2,443,"Fletcher","","Steven","Conservative","Conservateur",Y,N,96
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 39","Winnipeg",N,N,"",2,443,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 39","Winnipeg",N,N,"",2,443,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 40","Winnipeg",N,N,"",2,426,"Eyolfson","","Doug","Liberal","Libéral",N,Y,103
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 40","Winnipeg",N,N,"",2,426,"Fletcher","","Steven","Conservative","Conservateur",Y,N,72
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 40","Winnipeg",N,N,"",2,426,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 40","Winnipeg",N,N,"",2,426,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 41","Winnipeg",N,N,"",11,445,"Eyolfson","","Doug","Liberal","Libéral",N,Y,124
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 41","Winnipeg",N,N,"",11,445,"Fletcher","","Steven","Conservative","Conservateur",Y,N,76
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 41","Winnipeg",N,N,"",11,445,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 41","Winnipeg",N,N,"",11,445,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42A","Winnipeg",N,N,"",1,396,"Eyolfson","","Doug","Liberal","Libéral",N,Y,124
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42A","Winnipeg",N,N,"",1,396,"Fletcher","","Steven","Conservative","Conservateur",Y,N,66
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42A","Winnipeg",N,N,"",1,396,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42A","Winnipeg",N,N,"",1,396,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42B","Winnipeg",N,N,"",0,401,"Eyolfson","","Doug","Liberal","Libéral",N,Y,112
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42B","Winnipeg",N,N,"",0,401,"Fletcher","","Steven","Conservative","Conservateur",Y,N,69
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42B","Winnipeg",N,N,"",0,401,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 42B","Winnipeg",N,N,"",0,401,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 43","Winnipeg",N,N,"",0,370,"Eyolfson","","Doug","Liberal","Libéral",N,Y,98
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 43","Winnipeg",N,N,"",0,370,"Fletcher","","Steven","Conservative","Conservateur",Y,N,82
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 43","Winnipeg",N,N,"",0,370,"Nichols","","Kevin","Green Party","Parti Vert",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 43","Winnipeg",N,N,"",0,370,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 44","Winnipeg",N,N,"",0,564,"Eyolfson","","Doug","Liberal","Libéral",N,Y,162
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 44","Winnipeg",N,N,"",0,564,"Fletcher","","Steven","Conservative","Conservateur",Y,N,124
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 44","Winnipeg",N,N,"",0,564,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 44","Winnipeg",N,N,"",0,564,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 45","Winnipeg",N,N,"",0,270,"Eyolfson","","Doug","Liberal","Libéral",N,Y,81
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 45","Winnipeg",N,N,"",0,270,"Fletcher","","Steven","Conservative","Conservateur",Y,N,64
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 45","Winnipeg",N,N,"",0,270,"Nichols","","Kevin","Green Party","Parti Vert",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 45","Winnipeg",N,N,"",0,270,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 46","Winnipeg",N,N,"",1,388,"Eyolfson","","Doug","Liberal","Libéral",N,Y,125
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 46","Winnipeg",N,N,"",1,388,"Fletcher","","Steven","Conservative","Conservateur",Y,N,71
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 46","Winnipeg",N,N,"",1,388,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 46","Winnipeg",N,N,"",1,388,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 47","Winnipeg",N,N,"",1,341,"Eyolfson","","Doug","Liberal","Libéral",N,Y,110
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 47","Winnipeg",N,N,"",1,341,"Fletcher","","Steven","Conservative","Conservateur",Y,N,78
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 47","Winnipeg",N,N,"",1,341,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 47","Winnipeg",N,N,"",1,341,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 48","Winnipeg",N,N,"",0,249,"Eyolfson","","Doug","Liberal","Libéral",N,Y,46
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 48","Winnipeg",N,N,"",0,249,"Fletcher","","Steven","Conservative","Conservateur",Y,N,56
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 48","Winnipeg",N,N,"",0,249,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 48","Winnipeg",N,N,"",0,249,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 49","Winnipeg",N,N,"",0,402,"Eyolfson","","Doug","Liberal","Libéral",N,Y,123
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 49","Winnipeg",N,N,"",0,402,"Fletcher","","Steven","Conservative","Conservateur",Y,N,97
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 49","Winnipeg",N,N,"",0,402,"Nichols","","Kevin","Green Party","Parti Vert",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 49","Winnipeg",N,N,"",0,402,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 50","Winnipeg",N,N,"",2,368,"Eyolfson","","Doug","Liberal","Libéral",N,Y,100
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 50","Winnipeg",N,N,"",2,368,"Fletcher","","Steven","Conservative","Conservateur",Y,N,85
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 50","Winnipeg",N,N,"",2,368,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 50","Winnipeg",N,N,"",2,368,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 51","Winnipeg",N,N,"",0,374,"Eyolfson","","Doug","Liberal","Libéral",N,Y,107
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 51","Winnipeg",N,N,"",0,374,"Fletcher","","Steven","Conservative","Conservateur",Y,N,88
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 51","Winnipeg",N,N,"",0,374,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 51","Winnipeg",N,N,"",0,374,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 52","Winnipeg",N,N,"",2,453,"Eyolfson","","Doug","Liberal","Libéral",N,Y,114
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 52","Winnipeg",N,N,"",2,453,"Fletcher","","Steven","Conservative","Conservateur",Y,N,101
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 52","Winnipeg",N,N,"",2,453,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 52","Winnipeg",N,N,"",2,453,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 53","Winnipeg",N,N,"",0,472,"Eyolfson","","Doug","Liberal","Libéral",N,Y,134
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 53","Winnipeg",N,N,"",0,472,"Fletcher","","Steven","Conservative","Conservateur",Y,N,89
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 53","Winnipeg",N,N,"",0,472,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 53","Winnipeg",N,N,"",0,472,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 54","Winnipeg",N,N,"",0,361,"Eyolfson","","Doug","Liberal","Libéral",N,Y,107
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 54","Winnipeg",N,N,"",0,361,"Fletcher","","Steven","Conservative","Conservateur",Y,N,74
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 54","Winnipeg",N,N,"",0,361,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 54","Winnipeg",N,N,"",0,361,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 55","Winnipeg",N,N,"",3,389,"Eyolfson","","Doug","Liberal","Libéral",N,Y,104
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 55","Winnipeg",N,N,"",3,389,"Fletcher","","Steven","Conservative","Conservateur",Y,N,84
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 55","Winnipeg",N,N,"",3,389,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 55","Winnipeg",N,N,"",3,389,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 56","Winnipeg",N,N,"",0,361,"Eyolfson","","Doug","Liberal","Libéral",N,Y,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 56","Winnipeg",N,N,"",0,361,"Fletcher","","Steven","Conservative","Conservateur",Y,N,131
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 56","Winnipeg",N,N,"",0,361,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 56","Winnipeg",N,N,"",0,361,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 57","Winnipeg",N,N,"",0,296,"Eyolfson","","Doug","Liberal","Libéral",N,Y,67
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 57","Winnipeg",N,N,"",0,296,"Fletcher","","Steven","Conservative","Conservateur",Y,N,97
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 57","Winnipeg",N,N,"",0,296,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 57","Winnipeg",N,N,"",0,296,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 58","Winnipeg",N,N,"",0,377,"Eyolfson","","Doug","Liberal","Libéral",N,Y,100
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 58","Winnipeg",N,N,"",0,377,"Fletcher","","Steven","Conservative","Conservateur",Y,N,111
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 58","Winnipeg",N,N,"",0,377,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 58","Winnipeg",N,N,"",0,377,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 59","Winnipeg",N,N,"",0,411,"Eyolfson","","Doug","Liberal","Libéral",N,Y,99
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 59","Winnipeg",N,N,"",0,411,"Fletcher","","Steven","Conservative","Conservateur",Y,N,152
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 59","Winnipeg",N,N,"",0,411,"Nichols","","Kevin","Green Party","Parti Vert",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 59","Winnipeg",N,N,"",0,411,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 60","Headingley",N,N,"",0,506,"Eyolfson","","Doug","Liberal","Libéral",N,Y,125
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 60","Headingley",N,N,"",0,506,"Fletcher","","Steven","Conservative","Conservateur",Y,N,182
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 60","Headingley",N,N,"",0,506,"Nichols","","Kevin","Green Party","Parti Vert",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 60","Headingley",N,N,"",0,506,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 61","Headingley",N,N,"",2,263,"Eyolfson","","Doug","Liberal","Libéral",N,Y,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 61","Headingley",N,N,"",2,263,"Fletcher","","Steven","Conservative","Conservateur",Y,N,84
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 61","Headingley",N,N,"",2,263,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 61","Headingley",N,N,"",2,263,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 62","Headingley",N,N,"",0,460,"Eyolfson","","Doug","Liberal","Libéral",N,Y,100
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 62","Headingley",N,N,"",0,460,"Fletcher","","Steven","Conservative","Conservateur",Y,N,176
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 62","Headingley",N,N,"",0,460,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 62","Headingley",N,N,"",0,460,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 63","Winnipeg",N,N,"",0,382,"Eyolfson","","Doug","Liberal","Libéral",N,Y,123
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 63","Winnipeg",N,N,"",0,382,"Fletcher","","Steven","Conservative","Conservateur",Y,N,107
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 63","Winnipeg",N,N,"",0,382,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 63","Winnipeg",N,N,"",0,382,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 64","Winnipeg",N,N,"",1,374,"Eyolfson","","Doug","Liberal","Libéral",N,Y,108
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 64","Winnipeg",N,N,"",1,374,"Fletcher","","Steven","Conservative","Conservateur",Y,N,93
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 64","Winnipeg",N,N,"",1,374,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 64","Winnipeg",N,N,"",1,374,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 65","Winnipeg",N,N,"",0,429,"Eyolfson","","Doug","Liberal","Libéral",N,Y,137
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 65","Winnipeg",N,N,"",0,429,"Fletcher","","Steven","Conservative","Conservateur",Y,N,126
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 65","Winnipeg",N,N,"",0,429,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 65","Winnipeg",N,N,"",0,429,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 66","Winnipeg",N,N,"",0,361,"Eyolfson","","Doug","Liberal","Libéral",N,Y,119
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 66","Winnipeg",N,N,"",0,361,"Fletcher","","Steven","Conservative","Conservateur",Y,N,71
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 66","Winnipeg",N,N,"",0,361,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 66","Winnipeg",N,N,"",0,361,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 67","Winnipeg",N,N,"",0,425,"Eyolfson","","Doug","Liberal","Libéral",N,Y,149
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 67","Winnipeg",N,N,"",0,425,"Fletcher","","Steven","Conservative","Conservateur",Y,N,87
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 67","Winnipeg",N,N,"",0,425,"Nichols","","Kevin","Green Party","Parti Vert",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 67","Winnipeg",N,N,"",0,425,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 68","Winnipeg",N,N,"",0,435,"Eyolfson","","Doug","Liberal","Libéral",N,Y,116
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 68","Winnipeg",N,N,"",0,435,"Fletcher","","Steven","Conservative","Conservateur",Y,N,107
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 68","Winnipeg",N,N,"",0,435,"Nichols","","Kevin","Green Party","Parti Vert",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 68","Winnipeg",N,N,"",0,435,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 69","Winnipeg",N,N,"",3,347,"Eyolfson","","Doug","Liberal","Libéral",N,Y,77
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 69","Winnipeg",N,N,"",3,347,"Fletcher","","Steven","Conservative","Conservateur",Y,N,73
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 69","Winnipeg",N,N,"",3,347,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 69","Winnipeg",N,N,"",3,347,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 70","Winnipeg",N,N,"",2,572,"Eyolfson","","Doug","Liberal","Libéral",N,Y,140
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 70","Winnipeg",N,N,"",2,572,"Fletcher","","Steven","Conservative","Conservateur",Y,N,96
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 70","Winnipeg",N,N,"",2,572,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 70","Winnipeg",N,N,"",2,572,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 71","Winnipeg",N,N,"",0,275,"Eyolfson","","Doug","Liberal","Libéral",N,Y,70
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 71","Winnipeg",N,N,"",0,275,"Fletcher","","Steven","Conservative","Conservateur",Y,N,67
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 71","Winnipeg",N,N,"",0,275,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 71","Winnipeg",N,N,"",0,275,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 72","Winnipeg",N,N,"",0,430,"Eyolfson","","Doug","Liberal","Libéral",N,Y,118
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 72","Winnipeg",N,N,"",0,430,"Fletcher","","Steven","Conservative","Conservateur",Y,N,84
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 72","Winnipeg",N,N,"",0,430,"Nichols","","Kevin","Green Party","Parti Vert",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 72","Winnipeg",N,N,"",0,430,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 73","Winnipeg",N,N,"",3,429,"Eyolfson","","Doug","Liberal","Libéral",N,Y,152
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 73","Winnipeg",N,N,"",3,429,"Fletcher","","Steven","Conservative","Conservateur",Y,N,85
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 73","Winnipeg",N,N,"",3,429,"Nichols","","Kevin","Green Party","Parti Vert",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 73","Winnipeg",N,N,"",3,429,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 74","Winnipeg",N,N,"",0,452,"Eyolfson","","Doug","Liberal","Libéral",N,Y,152
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 74","Winnipeg",N,N,"",0,452,"Fletcher","","Steven","Conservative","Conservateur",Y,N,101
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 74","Winnipeg",N,N,"",0,452,"Nichols","","Kevin","Green Party","Parti Vert",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 74","Winnipeg",N,N,"",0,452,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 75","Winnipeg",N,N,"",0,378,"Eyolfson","","Doug","Liberal","Libéral",N,Y,120
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 75","Winnipeg",N,N,"",0,378,"Fletcher","","Steven","Conservative","Conservateur",Y,N,92
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 75","Winnipeg",N,N,"",0,378,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 75","Winnipeg",N,N,"",0,378,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 76","Winnipeg",N,N,"",0,359,"Eyolfson","","Doug","Liberal","Libéral",N,Y,106
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 76","Winnipeg",N,N,"",0,359,"Fletcher","","Steven","Conservative","Conservateur",Y,N,63
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 76","Winnipeg",N,N,"",0,359,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 76","Winnipeg",N,N,"",0,359,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 77","Winnipeg",N,N,"76",0,21,"Eyolfson","","Doug","Liberal","Libéral",N,Y,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 77","Winnipeg",N,N,"76",0,21,"Fletcher","","Steven","Conservative","Conservateur",Y,N,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 77","Winnipeg",N,N,"76",0,21,"Nichols","","Kevin","Green Party","Parti Vert",N,N,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 77","Winnipeg",N,N,"76",0,21,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 78","Winnipeg",N,N,"",0,413,"Eyolfson","","Doug","Liberal","Libéral",N,Y,125
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 78","Winnipeg",N,N,"",0,413,"Fletcher","","Steven","Conservative","Conservateur",Y,N,109
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 78","Winnipeg",N,N,"",0,413,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 78","Winnipeg",N,N,"",0,413,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 79","Winnipeg",N,N,"",0,384,"Eyolfson","","Doug","Liberal","Libéral",N,Y,124
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 79","Winnipeg",N,N,"",0,384,"Fletcher","","Steven","Conservative","Conservateur",Y,N,78
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 79","Winnipeg",N,N,"",0,384,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 79","Winnipeg",N,N,"",0,384,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 80","Winnipeg",N,N,"",1,366,"Eyolfson","","Doug","Liberal","Libéral",N,Y,122
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 80","Winnipeg",N,N,"",1,366,"Fletcher","","Steven","Conservative","Conservateur",Y,N,71
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 80","Winnipeg",N,N,"",1,366,"Nichols","","Kevin","Green Party","Parti Vert",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 80","Winnipeg",N,N,"",1,366,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 81","Winnipeg",N,N,"",3,379,"Eyolfson","","Doug","Liberal","Libéral",N,Y,133
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 81","Winnipeg",N,N,"",3,379,"Fletcher","","Steven","Conservative","Conservateur",Y,N,81
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 81","Winnipeg",N,N,"",3,379,"Nichols","","Kevin","Green Party","Parti Vert",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 81","Winnipeg",N,N,"",3,379,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 82","Winnipeg",N,N,"",0,304,"Eyolfson","","Doug","Liberal","Libéral",N,Y,81
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 82","Winnipeg",N,N,"",0,304,"Fletcher","","Steven","Conservative","Conservateur",Y,N,42
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 82","Winnipeg",N,N,"",0,304,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 82","Winnipeg",N,N,"",0,304,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 83","Winnipeg",N,N,"",3,447,"Eyolfson","","Doug","Liberal","Libéral",N,Y,138
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 83","Winnipeg",N,N,"",3,447,"Fletcher","","Steven","Conservative","Conservateur",Y,N,65
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 83","Winnipeg",N,N,"",3,447,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 83","Winnipeg",N,N,"",3,447,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 84","Winnipeg",N,N,"",0,526,"Eyolfson","","Doug","Liberal","Libéral",N,Y,164
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 84","Winnipeg",N,N,"",0,526,"Fletcher","","Steven","Conservative","Conservateur",Y,N,90
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 84","Winnipeg",N,N,"",0,526,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 84","Winnipeg",N,N,"",0,526,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 85","Winnipeg",N,N,"",0,395,"Eyolfson","","Doug","Liberal","Libéral",N,Y,114
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 85","Winnipeg",N,N,"",0,395,"Fletcher","","Steven","Conservative","Conservateur",Y,N,61
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 85","Winnipeg",N,N,"",0,395,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 85","Winnipeg",N,N,"",0,395,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 86","Winnipeg",N,N,"",0,306,"Eyolfson","","Doug","Liberal","Libéral",N,Y,100
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 86","Winnipeg",N,N,"",0,306,"Fletcher","","Steven","Conservative","Conservateur",Y,N,84
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 86","Winnipeg",N,N,"",0,306,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 86","Winnipeg",N,N,"",0,306,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 87","Winnipeg",N,N,"",2,617,"Eyolfson","","Doug","Liberal","Libéral",N,Y,163
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 87","Winnipeg",N,N,"",2,617,"Fletcher","","Steven","Conservative","Conservateur",Y,N,128
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 87","Winnipeg",N,N,"",2,617,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 87","Winnipeg",N,N,"",2,617,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 88","Winnipeg",N,N,"",0,229,"Eyolfson","","Doug","Liberal","Libéral",N,Y,72
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 88","Winnipeg",N,N,"",0,229,"Fletcher","","Steven","Conservative","Conservateur",Y,N,51
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 88","Winnipeg",N,N,"",0,229,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 88","Winnipeg",N,N,"",0,229,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 89","Winnipeg",N,N,"",0,275,"Eyolfson","","Doug","Liberal","Libéral",N,Y,72
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 89","Winnipeg",N,N,"",0,275,"Fletcher","","Steven","Conservative","Conservateur",Y,N,64
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 89","Winnipeg",N,N,"",0,275,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 89","Winnipeg",N,N,"",0,275,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 90","Winnipeg",N,N,"",0,322,"Eyolfson","","Doug","Liberal","Libéral",N,Y,108
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 90","Winnipeg",N,N,"",0,322,"Fletcher","","Steven","Conservative","Conservateur",Y,N,87
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 90","Winnipeg",N,N,"",0,322,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 90","Winnipeg",N,N,"",0,322,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 91","Winnipeg",N,N,"",0,400,"Eyolfson","","Doug","Liberal","Libéral",N,Y,119
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 91","Winnipeg",N,N,"",0,400,"Fletcher","","Steven","Conservative","Conservateur",Y,N,113
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 91","Winnipeg",N,N,"",0,400,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 91","Winnipeg",N,N,"",0,400,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 92","Winnipeg",N,N,"",1,412,"Eyolfson","","Doug","Liberal","Libéral",N,Y,131
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 92","Winnipeg",N,N,"",1,412,"Fletcher","","Steven","Conservative","Conservateur",Y,N,119
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 92","Winnipeg",N,N,"",1,412,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 92","Winnipeg",N,N,"",1,412,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 93","Winnipeg",N,N,"",0,358,"Eyolfson","","Doug","Liberal","Libéral",N,Y,115
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 93","Winnipeg",N,N,"",0,358,"Fletcher","","Steven","Conservative","Conservateur",Y,N,125
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 93","Winnipeg",N,N,"",0,358,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 93","Winnipeg",N,N,"",0,358,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 94","Winnipeg",N,N,"",1,370,"Eyolfson","","Doug","Liberal","Libéral",N,Y,131
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 94","Winnipeg",N,N,"",1,370,"Fletcher","","Steven","Conservative","Conservateur",Y,N,110
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 94","Winnipeg",N,N,"",1,370,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 94","Winnipeg",N,N,"",1,370,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 95","Winnipeg",N,N,"",2,333,"Eyolfson","","Doug","Liberal","Libéral",N,Y,90
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 95","Winnipeg",N,N,"",2,333,"Fletcher","","Steven","Conservative","Conservateur",Y,N,110
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 95","Winnipeg",N,N,"",2,333,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 95","Winnipeg",N,N,"",2,333,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 96","Winnipeg",N,N,"",0,424,"Eyolfson","","Doug","Liberal","Libéral",N,Y,145
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 96","Winnipeg",N,N,"",0,424,"Fletcher","","Steven","Conservative","Conservateur",Y,N,108
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 96","Winnipeg",N,N,"",0,424,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 96","Winnipeg",N,N,"",0,424,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 97","Winnipeg",N,N,"",0,376,"Eyolfson","","Doug","Liberal","Libéral",N,Y,129
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 97","Winnipeg",N,N,"",0,376,"Fletcher","","Steven","Conservative","Conservateur",Y,N,105
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 97","Winnipeg",N,N,"",0,376,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 97","Winnipeg",N,N,"",0,376,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 98","Winnipeg",N,N,"",2,515,"Eyolfson","","Doug","Liberal","Libéral",N,Y,149
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 98","Winnipeg",N,N,"",2,515,"Fletcher","","Steven","Conservative","Conservateur",Y,N,98
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 98","Winnipeg",N,N,"",2,515,"Nichols","","Kevin","Green Party","Parti Vert",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 98","Winnipeg",N,N,"",2,515,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 99","Winnipeg",N,N,"",0,358,"Eyolfson","","Doug","Liberal","Libéral",N,Y,128
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 99","Winnipeg",N,N,"",0,358,"Fletcher","","Steven","Conservative","Conservateur",Y,N,82
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 99","Winnipeg",N,N,"",0,358,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 99","Winnipeg",N,N,"",0,358,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 100","Winnipeg",N,N,"",1,423,"Eyolfson","","Doug","Liberal","Libéral",N,Y,135
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 100","Winnipeg",N,N,"",1,423,"Fletcher","","Steven","Conservative","Conservateur",Y,N,102
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 100","Winnipeg",N,N,"",1,423,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 100","Winnipeg",N,N,"",1,423,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 101","Winnipeg",N,N,"",0,374,"Eyolfson","","Doug","Liberal","Libéral",N,Y,137
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 101","Winnipeg",N,N,"",0,374,"Fletcher","","Steven","Conservative","Conservateur",Y,N,97
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 101","Winnipeg",N,N,"",0,374,"Nichols","","Kevin","Green Party","Parti Vert",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 101","Winnipeg",N,N,"",0,374,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 102","Winnipeg",N,N,"",1,346,"Eyolfson","","Doug","Liberal","Libéral",N,Y,99
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 102","Winnipeg",N,N,"",1,346,"Fletcher","","Steven","Conservative","Conservateur",Y,N,92
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 102","Winnipeg",N,N,"",1,346,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 102","Winnipeg",N,N,"",1,346,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 103","Winnipeg",N,N,"",0,453,"Eyolfson","","Doug","Liberal","Libéral",N,Y,135
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 103","Winnipeg",N,N,"",0,453,"Fletcher","","Steven","Conservative","Conservateur",Y,N,65
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 103","Winnipeg",N,N,"",0,453,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 103","Winnipeg",N,N,"",0,453,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 104","Winnipeg",N,N,"",0,252,"Eyolfson","","Doug","Liberal","Libéral",N,Y,79
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 104","Winnipeg",N,N,"",0,252,"Fletcher","","Steven","Conservative","Conservateur",Y,N,53
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 104","Winnipeg",N,N,"",0,252,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 104","Winnipeg",N,N,"",0,252,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 105","Winnipeg",N,N,"",0,355,"Eyolfson","","Doug","Liberal","Libéral",N,Y,89
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 105","Winnipeg",N,N,"",0,355,"Fletcher","","Steven","Conservative","Conservateur",Y,N,63
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 105","Winnipeg",N,N,"",0,355,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 105","Winnipeg",N,N,"",0,355,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 106","Winnipeg",N,N,"",0,420,"Eyolfson","","Doug","Liberal","Libéral",N,Y,131
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 106","Winnipeg",N,N,"",0,420,"Fletcher","","Steven","Conservative","Conservateur",Y,N,75
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 106","Winnipeg",N,N,"",0,420,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 106","Winnipeg",N,N,"",0,420,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 107","Winnipeg",N,N,"",0,465,"Eyolfson","","Doug","Liberal","Libéral",N,Y,130
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 107","Winnipeg",N,N,"",0,465,"Fletcher","","Steven","Conservative","Conservateur",Y,N,94
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 107","Winnipeg",N,N,"",0,465,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 107","Winnipeg",N,N,"",0,465,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 108","Winnipeg",N,N,"",1,428,"Eyolfson","","Doug","Liberal","Libéral",N,Y,159
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 108","Winnipeg",N,N,"",1,428,"Fletcher","","Steven","Conservative","Conservateur",Y,N,79
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 108","Winnipeg",N,N,"",1,428,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 108","Winnipeg",N,N,"",1,428,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 109","Winnipeg",N,N,"",1,387,"Eyolfson","","Doug","Liberal","Libéral",N,Y,123
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 109","Winnipeg",N,N,"",1,387,"Fletcher","","Steven","Conservative","Conservateur",Y,N,90
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 109","Winnipeg",N,N,"",1,387,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 109","Winnipeg",N,N,"",1,387,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 110","Winnipeg",N,N,"",0,458,"Eyolfson","","Doug","Liberal","Libéral",N,Y,132
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 110","Winnipeg",N,N,"",0,458,"Fletcher","","Steven","Conservative","Conservateur",Y,N,107
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 110","Winnipeg",N,N,"",0,458,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 110","Winnipeg",N,N,"",0,458,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 111","Winnipeg",N,N,"",1,337,"Eyolfson","","Doug","Liberal","Libéral",N,Y,101
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 111","Winnipeg",N,N,"",1,337,"Fletcher","","Steven","Conservative","Conservateur",Y,N,63
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 111","Winnipeg",N,N,"",1,337,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 111","Winnipeg",N,N,"",1,337,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 112","Winnipeg",N,N,"",1,335,"Eyolfson","","Doug","Liberal","Libéral",N,Y,121
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 112","Winnipeg",N,N,"",1,335,"Fletcher","","Steven","Conservative","Conservateur",Y,N,49
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 112","Winnipeg",N,N,"",1,335,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 112","Winnipeg",N,N,"",1,335,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 113","Winnipeg",N,N,"",0,382,"Eyolfson","","Doug","Liberal","Libéral",N,Y,114
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 113","Winnipeg",N,N,"",0,382,"Fletcher","","Steven","Conservative","Conservateur",Y,N,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 113","Winnipeg",N,N,"",0,382,"Nichols","","Kevin","Green Party","Parti Vert",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 113","Winnipeg",N,N,"",0,382,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 114","Winnipeg",N,N,"",0,440,"Eyolfson","","Doug","Liberal","Libéral",N,Y,116
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 114","Winnipeg",N,N,"",0,440,"Fletcher","","Steven","Conservative","Conservateur",Y,N,90
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 114","Winnipeg",N,N,"",0,440,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 114","Winnipeg",N,N,"",0,440,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 115","Winnipeg",N,N,"",2,469,"Eyolfson","","Doug","Liberal","Libéral",N,Y,143
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 115","Winnipeg",N,N,"",2,469,"Fletcher","","Steven","Conservative","Conservateur",Y,N,69
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 115","Winnipeg",N,N,"",2,469,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 115","Winnipeg",N,N,"",2,469,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 116","Winnipeg",N,N,"",0,124,"Eyolfson","","Doug","Liberal","Libéral",N,Y,28
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 116","Winnipeg",N,N,"",0,124,"Fletcher","","Steven","Conservative","Conservateur",Y,N,20
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 116","Winnipeg",N,N,"",0,124,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 116","Winnipeg",N,N,"",0,124,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 117","Winnipeg",N,N,"",0,420,"Eyolfson","","Doug","Liberal","Libéral",N,Y,128
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 117","Winnipeg",N,N,"",0,420,"Fletcher","","Steven","Conservative","Conservateur",Y,N,44
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 117","Winnipeg",N,N,"",0,420,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 117","Winnipeg",N,N,"",0,420,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 118","Winnipeg",N,N,"",0,486,"Eyolfson","","Doug","Liberal","Libéral",N,Y,133
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 118","Winnipeg",N,N,"",0,486,"Fletcher","","Steven","Conservative","Conservateur",Y,N,145
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 118","Winnipeg",N,N,"",0,486,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 118","Winnipeg",N,N,"",0,486,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 119","Winnipeg",N,N,"",0,417,"Eyolfson","","Doug","Liberal","Libéral",N,Y,129
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 119","Winnipeg",N,N,"",0,417,"Fletcher","","Steven","Conservative","Conservateur",Y,N,72
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 119","Winnipeg",N,N,"",0,417,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 119","Winnipeg",N,N,"",0,417,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 120","Winnipeg",N,N,"",0,456,"Eyolfson","","Doug","Liberal","Libéral",N,Y,153
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 120","Winnipeg",N,N,"",0,456,"Fletcher","","Steven","Conservative","Conservateur",Y,N,88
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 120","Winnipeg",N,N,"",0,456,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 120","Winnipeg",N,N,"",0,456,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 121","Winnipeg",N,N,"",0,428,"Eyolfson","","Doug","Liberal","Libéral",N,Y,148
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 121","Winnipeg",N,N,"",0,428,"Fletcher","","Steven","Conservative","Conservateur",Y,N,75
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 121","Winnipeg",N,N,"",0,428,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 121","Winnipeg",N,N,"",0,428,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 122","Winnipeg",N,N,"",0,391,"Eyolfson","","Doug","Liberal","Libéral",N,Y,154
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 122","Winnipeg",N,N,"",0,391,"Fletcher","","Steven","Conservative","Conservateur",Y,N,88
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 122","Winnipeg",N,N,"",0,391,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 122","Winnipeg",N,N,"",0,391,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 123","Winnipeg",N,N,"",3,401,"Eyolfson","","Doug","Liberal","Libéral",N,Y,131
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 123","Winnipeg",N,N,"",3,401,"Fletcher","","Steven","Conservative","Conservateur",Y,N,93
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 123","Winnipeg",N,N,"",3,401,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 123","Winnipeg",N,N,"",3,401,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 124","Winnipeg",N,N,"",0,568,"Eyolfson","","Doug","Liberal","Libéral",N,Y,148
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 124","Winnipeg",N,N,"",0,568,"Fletcher","","Steven","Conservative","Conservateur",Y,N,85
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 124","Winnipeg",N,N,"",0,568,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 124","Winnipeg",N,N,"",0,568,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 125","Winnipeg",N,N,"",1,419,"Eyolfson","","Doug","Liberal","Libéral",N,Y,162
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 125","Winnipeg",N,N,"",1,419,"Fletcher","","Steven","Conservative","Conservateur",Y,N,62
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 125","Winnipeg",N,N,"",1,419,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 125","Winnipeg",N,N,"",1,419,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 126","Winnipeg",N,N,"",1,413,"Eyolfson","","Doug","Liberal","Libéral",N,Y,114
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 126","Winnipeg",N,N,"",1,413,"Fletcher","","Steven","Conservative","Conservateur",Y,N,64
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 126","Winnipeg",N,N,"",1,413,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 126","Winnipeg",N,N,"",1,413,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 127","Winnipeg",N,N,"",2,385,"Eyolfson","","Doug","Liberal","Libéral",N,Y,95
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 127","Winnipeg",N,N,"",2,385,"Fletcher","","Steven","Conservative","Conservateur",Y,N,63
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 127","Winnipeg",N,N,"",2,385,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 127","Winnipeg",N,N,"",2,385,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 128","Winnipeg",N,N,"",1,405,"Eyolfson","","Doug","Liberal","Libéral",N,Y,135
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 128","Winnipeg",N,N,"",1,405,"Fletcher","","Steven","Conservative","Conservateur",Y,N,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 128","Winnipeg",N,N,"",1,405,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 128","Winnipeg",N,N,"",1,405,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 129","Winnipeg",N,N,"",1,399,"Eyolfson","","Doug","Liberal","Libéral",N,Y,134
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 129","Winnipeg",N,N,"",1,399,"Fletcher","","Steven","Conservative","Conservateur",Y,N,64
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 129","Winnipeg",N,N,"",1,399,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 129","Winnipeg",N,N,"",1,399,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 130","Winnipeg",N,N,"",0,415,"Eyolfson","","Doug","Liberal","Libéral",N,Y,138
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 130","Winnipeg",N,N,"",0,415,"Fletcher","","Steven","Conservative","Conservateur",Y,N,52
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 130","Winnipeg",N,N,"",0,415,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 130","Winnipeg",N,N,"",0,415,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 131","Winnipeg",N,N,"",1,396,"Eyolfson","","Doug","Liberal","Libéral",N,Y,153
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 131","Winnipeg",N,N,"",1,396,"Fletcher","","Steven","Conservative","Conservateur",Y,N,73
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 131","Winnipeg",N,N,"",1,396,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 131","Winnipeg",N,N,"",1,396,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 132","Winnipeg",N,N,"",2,292,"Eyolfson","","Doug","Liberal","Libéral",N,Y,76
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 132","Winnipeg",N,N,"",2,292,"Fletcher","","Steven","Conservative","Conservateur",Y,N,73
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 132","Winnipeg",N,N,"",2,292,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 132","Winnipeg",N,N,"",2,292,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133A","Winnipeg",N,N,"",1,152,"Eyolfson","","Doug","Liberal","Libéral",N,Y,45
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133A","Winnipeg",N,N,"",1,152,"Fletcher","","Steven","Conservative","Conservateur",Y,N,31
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133A","Winnipeg",N,N,"",1,152,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133A","Winnipeg",N,N,"",1,152,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133B","Winnipeg",N,N,"",2,139,"Eyolfson","","Doug","Liberal","Libéral",N,Y,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133B","Winnipeg",N,N,"",2,139,"Fletcher","","Steven","Conservative","Conservateur",Y,N,23
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133B","Winnipeg",N,N,"",2,139,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 133B","Winnipeg",N,N,"",2,139,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 134","Winnipeg",N,N,"",0,398,"Eyolfson","","Doug","Liberal","Libéral",N,Y,113
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 134","Winnipeg",N,N,"",0,398,"Fletcher","","Steven","Conservative","Conservateur",Y,N,85
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 134","Winnipeg",N,N,"",0,398,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 134","Winnipeg",N,N,"",0,398,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 135","Winnipeg",N,N,"",0,353,"Eyolfson","","Doug","Liberal","Libéral",N,Y,106
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 135","Winnipeg",N,N,"",0,353,"Fletcher","","Steven","Conservative","Conservateur",Y,N,56
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 135","Winnipeg",N,N,"",0,353,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 135","Winnipeg",N,N,"",0,353,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 136","Winnipeg",N,N,"",0,337,"Eyolfson","","Doug","Liberal","Libéral",N,Y,104
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 136","Winnipeg",N,N,"",0,337,"Fletcher","","Steven","Conservative","Conservateur",Y,N,77
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 136","Winnipeg",N,N,"",0,337,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 136","Winnipeg",N,N,"",0,337,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 137","Winnipeg",N,N,"",0,371,"Eyolfson","","Doug","Liberal","Libéral",N,Y,120
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 137","Winnipeg",N,N,"",0,371,"Fletcher","","Steven","Conservative","Conservateur",Y,N,100
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 137","Winnipeg",N,N,"",0,371,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 137","Winnipeg",N,N,"",0,371,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 138","Winnipeg",N,N,"",1,336,"Eyolfson","","Doug","Liberal","Libéral",N,Y,94
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 138","Winnipeg",N,N,"",1,336,"Fletcher","","Steven","Conservative","Conservateur",Y,N,80
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 138","Winnipeg",N,N,"",1,336,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 138","Winnipeg",N,N,"",1,336,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 139","Winnipeg",N,N,"",0,353,"Eyolfson","","Doug","Liberal","Libéral",N,Y,119
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 139","Winnipeg",N,N,"",0,353,"Fletcher","","Steven","Conservative","Conservateur",Y,N,80
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 139","Winnipeg",N,N,"",0,353,"Nichols","","Kevin","Green Party","Parti Vert",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 139","Winnipeg",N,N,"",0,353,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 140","Winnipeg",N,N,"",0,431,"Eyolfson","","Doug","Liberal","Libéral",N,Y,105
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 140","Winnipeg",N,N,"",0,431,"Fletcher","","Steven","Conservative","Conservateur",Y,N,130
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 140","Winnipeg",N,N,"",0,431,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 140","Winnipeg",N,N,"",0,431,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 141","Winnipeg",N,N,"",0,458,"Eyolfson","","Doug","Liberal","Libéral",N,Y,131
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 141","Winnipeg",N,N,"",0,458,"Fletcher","","Steven","Conservative","Conservateur",Y,N,83
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 141","Winnipeg",N,N,"",0,458,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 141","Winnipeg",N,N,"",0,458,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 142","Winnipeg",N,N,"",2,537,"Eyolfson","","Doug","Liberal","Libéral",N,Y,156
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 142","Winnipeg",N,N,"",2,537,"Fletcher","","Steven","Conservative","Conservateur",Y,N,97
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 142","Winnipeg",N,N,"",2,537,"Nichols","","Kevin","Green Party","Parti Vert",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 142","Winnipeg",N,N,"",2,537,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 143","Winnipeg",N,N,"",0,366,"Eyolfson","","Doug","Liberal","Libéral",N,Y,96
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 143","Winnipeg",N,N,"",0,366,"Fletcher","","Steven","Conservative","Conservateur",Y,N,64
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 143","Winnipeg",N,N,"",0,366,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 143","Winnipeg",N,N,"",0,366,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 144","Winnipeg",N,N,"",1,442,"Eyolfson","","Doug","Liberal","Libéral",N,Y,128
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 144","Winnipeg",N,N,"",1,442,"Fletcher","","Steven","Conservative","Conservateur",Y,N,107
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 144","Winnipeg",N,N,"",1,442,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 144","Winnipeg",N,N,"",1,442,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 145","Winnipeg",N,N,"",3,394,"Eyolfson","","Doug","Liberal","Libéral",N,Y,104
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 145","Winnipeg",N,N,"",3,394,"Fletcher","","Steven","Conservative","Conservateur",Y,N,92
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 145","Winnipeg",N,N,"",3,394,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 145","Winnipeg",N,N,"",3,394,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 146","Winnipeg",N,N,"",0,418,"Eyolfson","","Doug","Liberal","Libéral",N,Y,108
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 146","Winnipeg",N,N,"",0,418,"Fletcher","","Steven","Conservative","Conservateur",Y,N,113
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 146","Winnipeg",N,N,"",0,418,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 146","Winnipeg",N,N,"",0,418,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 147","Winnipeg",N,N,"",0,416,"Eyolfson","","Doug","Liberal","Libéral",N,Y,124
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 147","Winnipeg",N,N,"",0,416,"Fletcher","","Steven","Conservative","Conservateur",Y,N,81
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 147","Winnipeg",N,N,"",0,416,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 147","Winnipeg",N,N,"",0,416,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 148","Winnipeg",N,N,"",1,416,"Eyolfson","","Doug","Liberal","Libéral",N,Y,128
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 148","Winnipeg",N,N,"",1,416,"Fletcher","","Steven","Conservative","Conservateur",Y,N,99
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 148","Winnipeg",N,N,"",1,416,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 148","Winnipeg",N,N,"",1,416,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 149","Winnipeg",N,N,"",0,409,"Eyolfson","","Doug","Liberal","Libéral",N,Y,120
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 149","Winnipeg",N,N,"",0,409,"Fletcher","","Steven","Conservative","Conservateur",Y,N,106
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 149","Winnipeg",N,N,"",0,409,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 149","Winnipeg",N,N,"",0,409,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 150","Winnipeg",N,N,"",1,500,"Eyolfson","","Doug","Liberal","Libéral",N,Y,149
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 150","Winnipeg",N,N,"",1,500,"Fletcher","","Steven","Conservative","Conservateur",Y,N,132
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 150","Winnipeg",N,N,"",1,500,"Nichols","","Kevin","Green Party","Parti Vert",N,N,3
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 150","Winnipeg",N,N,"",1,500,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 151","Winnipeg",N,N,"",1,425,"Eyolfson","","Doug","Liberal","Libéral",N,Y,129
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 151","Winnipeg",N,N,"",1,425,"Fletcher","","Steven","Conservative","Conservateur",Y,N,90
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 151","Winnipeg",N,N,"",1,425,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 151","Winnipeg",N,N,"",1,425,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 152","Winnipeg",N,N,"",3,391,"Eyolfson","","Doug","Liberal","Libéral",N,Y,121
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 152","Winnipeg",N,N,"",3,391,"Fletcher","","Steven","Conservative","Conservateur",Y,N,97
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 152","Winnipeg",N,N,"",3,391,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 152","Winnipeg",N,N,"",3,391,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 400","Winnipeg",Y,N,"",0,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 400","Winnipeg",Y,N,"",0,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 400","Winnipeg",Y,N,"",0,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 400","Winnipeg",Y,N,"",0,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 401","Winnipeg",N,N,"",0,212,"Eyolfson","","Doug","Liberal","Libéral",N,Y,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 401","Winnipeg",N,N,"",0,212,"Fletcher","","Steven","Conservative","Conservateur",Y,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 401","Winnipeg",N,N,"",0,212,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 401","Winnipeg",N,N,"",0,212,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 402","Winnipeg",N,N,"",0,236,"Eyolfson","","Doug","Liberal","Libéral",N,Y,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 402","Winnipeg",N,N,"",0,236,"Fletcher","","Steven","Conservative","Conservateur",Y,N,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 402","Winnipeg",N,N,"",0,236,"Nichols","","Kevin","Green Party","Parti Vert",N,N,4
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 402","Winnipeg",N,N,"",0,236,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 403","Winnipeg",N,N,"",0,165,"Eyolfson","","Doug","Liberal","Libéral",N,Y,54
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 403","Winnipeg",N,N,"",0,165,"Fletcher","","Steven","Conservative","Conservateur",Y,N,22
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 403","Winnipeg",N,N,"",0,165,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 403","Winnipeg",N,N,"",0,165,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 404","Winnipeg",N,N,"",2,322,"Eyolfson","","Doug","Liberal","Libéral",N,Y,116
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 404","Winnipeg",N,N,"",2,322,"Fletcher","","Steven","Conservative","Conservateur",Y,N,86
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 404","Winnipeg",N,N,"",2,322,"Nichols","","Kevin","Green Party","Parti Vert",N,N,13
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 404","Winnipeg",N,N,"",2,322,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 405","Winnipeg",N,N,"",0,62,"Eyolfson","","Doug","Liberal","Libéral",N,Y,31
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 405","Winnipeg",N,N,"",0,62,"Fletcher","","Steven","Conservative","Conservateur",Y,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 405","Winnipeg",N,N,"",0,62,"Nichols","","Kevin","Green Party","Parti Vert",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 405","Winnipeg",N,N,"",0,62,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 406","Winnipeg",N,N,"",1,358,"Eyolfson","","Doug","Liberal","Libéral",N,Y,45
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 406","Winnipeg",N,N,"",1,358,"Fletcher","","Steven","Conservative","Conservateur",Y,N,44
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 406","Winnipeg",N,N,"",1,358,"Nichols","","Kevin","Green Party","Parti Vert",N,N,2
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 406","Winnipeg",N,N,"",1,358,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 407","Winnipeg",N,N,"",2,192,"Eyolfson","","Doug","Liberal","Libéral",N,Y,70
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 407","Winnipeg",N,N,"",2,192,"Fletcher","","Steven","Conservative","Conservateur",Y,N,56
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 407","Winnipeg",N,N,"",2,192,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 407","Winnipeg",N,N,"",2,192,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 408","Winnipeg",N,N,"",2,311,"Eyolfson","","Doug","Liberal","Libéral",N,Y,100
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 408","Winnipeg",N,N,"",2,311,"Fletcher","","Steven","Conservative","Conservateur",Y,N,82
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 408","Winnipeg",N,N,"",2,311,"Nichols","","Kevin","Green Party","Parti Vert",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 408","Winnipeg",N,N,"",2,311,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 409","Winnipeg",N,N,"",2,101,"Eyolfson","","Doug","Liberal","Libéral",N,Y,34
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 409","Winnipeg",N,N,"",2,101,"Fletcher","","Steven","Conservative","Conservateur",Y,N,31
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 409","Winnipeg",N,N,"",2,101,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 409","Winnipeg",N,N,"",2,101,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 410","Winnipeg",N,N,"",3,346,"Eyolfson","","Doug","Liberal","Libéral",N,Y,114
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 410","Winnipeg",N,N,"",3,346,"Fletcher","","Steven","Conservative","Conservateur",Y,N,108
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 410","Winnipeg",N,N,"",3,346,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 410","Winnipeg",N,N,"",3,346,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,292,"Eyolfson","","Doug","Liberal","Libéral",N,Y,53
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,292,"Fletcher","","Steven","Conservative","Conservateur",Y,N,59
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,292,"Nichols","","Kevin","Green Party","Parti Vert",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,292,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 501","Mobile poll/Bureau itinérant",N,N,"",1,305,"Eyolfson","","Doug","Liberal","Libéral",N,Y,97
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 501","Mobile poll/Bureau itinérant",N,N,"",1,305,"Fletcher","","Steven","Conservative","Conservateur",Y,N,125
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 501","Mobile poll/Bureau itinérant",N,N,"",1,305,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 501","Mobile poll/Bureau itinérant",N,N,"",1,305,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 502","Mobile poll/Bureau itinérant",N,N,"",3,226,"Eyolfson","","Doug","Liberal","Libéral",N,Y,73
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 502","Mobile poll/Bureau itinérant",N,N,"",3,226,"Fletcher","","Steven","Conservative","Conservateur",Y,N,73
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 502","Mobile poll/Bureau itinérant",N,N,"",3,226,"Nichols","","Kevin","Green Party","Parti Vert",N,N,5
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 502","Mobile poll/Bureau itinérant",N,N,"",3,226,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 600","Winnipeg",N,N,"",0,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,154
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 600","Winnipeg",N,N,"",0,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,221
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 600","Winnipeg",N,N,"",0,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,6
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 600","Winnipeg",N,N,"",0,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 601","Winnipeg",N,N,"",0,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,392
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 601","Winnipeg",N,N,"",0,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,301
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 601","Winnipeg",N,N,"",0,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 601","Winnipeg",N,N,"",0,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 602","Winnipeg",N,N,"",3,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,437
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 602","Winnipeg",N,N,"",3,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,292
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 602","Winnipeg",N,N,"",3,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,21
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 602","Winnipeg",N,N,"",3,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 603","Winnipeg",N,N,"",1,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,457
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 603","Winnipeg",N,N,"",1,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,436
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 603","Winnipeg",N,N,"",1,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,24
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 603","Winnipeg",N,N,"",1,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 604","Winnipeg",N,N,"",1,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,455
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 604","Winnipeg",N,N,"",1,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,315
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 604","Winnipeg",N,N,"",1,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,9
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 604","Winnipeg",N,N,"",1,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 605","Winnipeg",N,N,"",7,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,524
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 605","Winnipeg",N,N,"",7,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,323
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 605","Winnipeg",N,N,"",7,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,34
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 605","Winnipeg",N,N,"",7,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 606","Winnipeg",N,N,"",5,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,537
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 606","Winnipeg",N,N,"",5,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,450
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 606","Winnipeg",N,N,"",5,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,27
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 606","Winnipeg",N,N,"",5,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 607","Winnipeg",N,N,"",1,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,390
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 607","Winnipeg",N,N,"",1,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,389
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 607","Winnipeg",N,N,"",1,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 607","Winnipeg",N,N,"",1,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 608","Winnipeg",N,N,"",3,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,442
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 608","Winnipeg",N,N,"",3,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,374
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 608","Winnipeg",N,N,"",3,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,31
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 608","Winnipeg",N,N,"",3,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 609","Winnipeg",N,N,"",1,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,419
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 609","Winnipeg",N,N,"",1,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,400
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 609","Winnipeg",N,N,"",1,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,15
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 609","Winnipeg",N,N,"",1,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 610","Winnipeg",N,N,"",3,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,486
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 610","Winnipeg",N,N,"",3,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,433
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 610","Winnipeg",N,N,"",3,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,47
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," 610","Winnipeg",N,N,"",3,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,95,"Eyolfson","","Doug","Liberal","Libéral",N,Y,131
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,95,"Fletcher","","Steven","Conservative","Conservateur",Y,N,123
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,95,"Nichols","","Kevin","Green Party","Parti Vert",N,N,12
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,95,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Eyolfson","","Doug","Liberal","Libéral",N,Y,595
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Fletcher","","Steven","Conservative","Conservateur",Y,N,567
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Nichols","","Kevin","Green Party","Parti Vert",N,N,35
+46002,"Charleswood--St. James--Assiniboia--Headingley","Charleswood--St. James--Assiniboia--Headingley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Paulley","","Tom","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88

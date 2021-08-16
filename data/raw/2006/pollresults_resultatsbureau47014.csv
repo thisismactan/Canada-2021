@@ -1,0 +1,971 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+47014,"Yorkton--Melville","Yorkton--Melville"," 1","McKague",N,N,"",0,180,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 1","McKague",N,N,"",0,180,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,50
+47014,"Yorkton--Melville","Yorkton--Melville"," 1","McKague",N,N,"",0,180,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 1","McKague",N,N,"",0,180,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 1","McKague",N,N,"",0,180,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 2","Archerwill",N,N,"",0,373,"Barabonoff","","Carl","Independent","Indépendant",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 2","Archerwill",N,N,"",0,373,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,126
+47014,"Yorkton--Melville","Yorkton--Melville"," 2","Archerwill",N,N,"",0,373,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 2","Archerwill",N,N,"",0,373,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,57
+47014,"Yorkton--Melville","Yorkton--Melville"," 2","Archerwill",N,N,"",0,373,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 3","Crooked River",N,N,"",0,128,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 3","Crooked River",N,N,"",0,128,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,61
+47014,"Yorkton--Melville","Yorkton--Melville"," 3","Crooked River",N,N,"",0,128,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 3","Crooked River",N,N,"",0,128,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 3","Crooked River",N,N,"",0,128,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 4","Mistatim",N,N,"",0,206,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 4","Mistatim",N,N,"",0,206,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,91
+47014,"Yorkton--Melville","Yorkton--Melville"," 4","Mistatim",N,N,"",0,206,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 4","Mistatim",N,N,"",0,206,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 4","Mistatim",N,N,"",0,206,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 5","Bjorkdale",N,N,"",0,356,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 5","Bjorkdale",N,N,"",0,356,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,112
+47014,"Yorkton--Melville","Yorkton--Melville"," 5","Bjorkdale",N,N,"",0,356,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,23
+47014,"Yorkton--Melville","Yorkton--Melville"," 5","Bjorkdale",N,N,"",0,356,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,49
+47014,"Yorkton--Melville","Yorkton--Melville"," 5","Bjorkdale",N,N,"",0,356,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 6","Chelan",N,N,"",0,135,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 6","Chelan",N,N,"",0,135,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,43
+47014,"Yorkton--Melville","Yorkton--Melville"," 6","Chelan",N,N,"",0,135,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 6","Chelan",N,N,"",0,135,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 6","Chelan",N,N,"",0,135,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 7","Porcupine Plain",N,N,"",0,362,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 7","Porcupine Plain",N,N,"",0,362,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,153
+47014,"Yorkton--Melville","Yorkton--Melville"," 7","Porcupine Plain",N,N,"",0,362,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 7","Porcupine Plain",N,N,"",0,362,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,32
+47014,"Yorkton--Melville","Yorkton--Melville"," 7","Porcupine Plain",N,N,"",0,362,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 8","Porcupine Plain",N,N,"",0,395,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 8","Porcupine Plain",N,N,"",0,395,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,116
+47014,"Yorkton--Melville","Yorkton--Melville"," 8","Porcupine Plain",N,N,"",0,395,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 8","Porcupine Plain",N,N,"",0,395,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,54
+47014,"Yorkton--Melville","Yorkton--Melville"," 8","Porcupine Plain",N,N,"",0,395,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 9","Porcupine Plain",N,N,"",0,215,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 9","Porcupine Plain",N,N,"",0,215,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,72
+47014,"Yorkton--Melville","Yorkton--Melville"," 9","Porcupine Plain",N,N,"",0,215,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 9","Porcupine Plain",N,N,"",0,215,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 9","Porcupine Plain",N,N,"",0,215,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 10","Prairie River",N,N,"",1,140,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 10","Prairie River",N,N,"",1,140,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,69
+47014,"Yorkton--Melville","Yorkton--Melville"," 10","Prairie River",N,N,"",1,140,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 10","Prairie River",N,N,"",1,140,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 10","Prairie River",N,N,"",1,140,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 11","Carragana",N,N,"",0,172,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 11","Carragana",N,N,"",0,172,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,65
+47014,"Yorkton--Melville","Yorkton--Melville"," 11","Carragana",N,N,"",0,172,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 11","Carragana",N,N,"",0,172,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 11","Carragana",N,N,"",0,172,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 12","Weekes",N,N,"",0,223,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 12","Weekes",N,N,"",0,223,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,90
+47014,"Yorkton--Melville","Yorkton--Melville"," 12","Weekes",N,N,"",0,223,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 12","Weekes",N,N,"",0,223,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 12","Weekes",N,N,"",0,223,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 13","Hudson Bay",N,N,"",0,498,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 13","Hudson Bay",N,N,"",0,498,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,174
+47014,"Yorkton--Melville","Yorkton--Melville"," 13","Hudson Bay",N,N,"",0,498,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 13","Hudson Bay",N,N,"",0,498,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,51
+47014,"Yorkton--Melville","Yorkton--Melville"," 13","Hudson Bay",N,N,"",0,498,"Neu","","Keith","Green Party","Parti Vert",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 14","Hudson Bay",N,N,"",1,413,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 14","Hudson Bay",N,N,"",1,413,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,120
+47014,"Yorkton--Melville","Yorkton--Melville"," 14","Hudson Bay",N,N,"",1,413,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,28
+47014,"Yorkton--Melville","Yorkton--Melville"," 14","Hudson Bay",N,N,"",1,413,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,43
+47014,"Yorkton--Melville","Yorkton--Melville"," 14","Hudson Bay",N,N,"",1,413,"Neu","","Keith","Green Party","Parti Vert",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 15","Hudson Bay",N,N,"",0,536,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 15","Hudson Bay",N,N,"",0,536,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,133
+47014,"Yorkton--Melville","Yorkton--Melville"," 15","Hudson Bay",N,N,"",0,536,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 15","Hudson Bay",N,N,"",0,536,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,76
+47014,"Yorkton--Melville","Yorkton--Melville"," 15","Hudson Bay",N,N,"",0,536,"Neu","","Keith","Green Party","Parti Vert",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 16","Hudson Bay",N,N,"",0,284,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 16","Hudson Bay",N,N,"",0,284,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,68
+47014,"Yorkton--Melville","Yorkton--Melville"," 16","Hudson Bay",N,N,"",0,284,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 16","Hudson Bay",N,N,"",0,284,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 16","Hudson Bay",N,N,"",0,284,"Neu","","Keith","Green Party","Parti Vert",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 17","Hudson Bay",N,N,"",1,377,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 17","Hudson Bay",N,N,"",1,377,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,110
+47014,"Yorkton--Melville","Yorkton--Melville"," 17","Hudson Bay",N,N,"",1,377,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 17","Hudson Bay",N,N,"",1,377,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,37
+47014,"Yorkton--Melville","Yorkton--Melville"," 17","Hudson Bay",N,N,"",1,377,"Neu","","Keith","Green Party","Parti Vert",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 18","Hudson Bay",N,N,"",0,136,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 18","Hudson Bay",N,N,"",0,136,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 18","Hudson Bay",N,N,"",0,136,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 18","Hudson Bay",N,N,"",0,136,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 18","Hudson Bay",N,N,"",0,136,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 19","Yellow Quill",N,N,"",0,417,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 19","Yellow Quill",N,N,"",0,417,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,41
+47014,"Yorkton--Melville","Yorkton--Melville"," 19","Yellow Quill",N,N,"",0,417,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,98
+47014,"Yorkton--Melville","Yorkton--Melville"," 19","Yellow Quill",N,N,"",0,417,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 19","Yellow Quill",N,N,"",0,417,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 20","Kelvington",N,N,"",0,232,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 20","Kelvington",N,N,"",0,232,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,97
+47014,"Yorkton--Melville","Yorkton--Melville"," 20","Kelvington",N,N,"",0,232,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 20","Kelvington",N,N,"",0,232,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 20","Kelvington",N,N,"",0,232,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 21","Kelvington",N,N,"",0,301,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 21","Kelvington",N,N,"",0,301,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,101
+47014,"Yorkton--Melville","Yorkton--Melville"," 21","Kelvington",N,N,"",0,301,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 21","Kelvington",N,N,"",0,301,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 21","Kelvington",N,N,"",0,301,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 22","Kelvington",N,N,"",0,455,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 22","Kelvington",N,N,"",0,455,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,126
+47014,"Yorkton--Melville","Yorkton--Melville"," 22","Kelvington",N,N,"",0,455,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 22","Kelvington",N,N,"",0,455,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,30
+47014,"Yorkton--Melville","Yorkton--Melville"," 22","Kelvington",N,N,"",0,455,"Neu","","Keith","Green Party","Parti Vert",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 23","Rose Valley",N,N,"",1,340,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 23","Rose Valley",N,N,"",1,340,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,158
+47014,"Yorkton--Melville","Yorkton--Melville"," 23","Rose Valley",N,N,"",1,340,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 23","Rose Valley",N,N,"",1,340,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 23","Rose Valley",N,N,"",1,340,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 24","Rose Valley",N,N,"",0,234,"Barabonoff","","Carl","Independent","Indépendant",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 24","Rose Valley",N,N,"",0,234,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,96
+47014,"Yorkton--Melville","Yorkton--Melville"," 24","Rose Valley",N,N,"",0,234,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 24","Rose Valley",N,N,"",0,234,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,38
+47014,"Yorkton--Melville","Yorkton--Melville"," 24","Rose Valley",N,N,"",0,234,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 25","Fosston",N,N,"",0,188,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 25","Fosston",N,N,"",0,188,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,77
+47014,"Yorkton--Melville","Yorkton--Melville"," 25","Fosston",N,N,"",0,188,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 25","Fosston",N,N,"",0,188,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 25","Fosston",N,N,"",0,188,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 26","Wadena",N,N,"",0,228,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 26","Wadena",N,N,"",0,228,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,86
+47014,"Yorkton--Melville","Yorkton--Melville"," 26","Wadena",N,N,"",0,228,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 26","Wadena",N,N,"",0,228,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 26","Wadena",N,N,"",0,228,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 27","Wadena",N,N,"",0,127,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 27","Wadena",N,N,"",0,127,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,59
+47014,"Yorkton--Melville","Yorkton--Melville"," 27","Wadena",N,N,"",0,127,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 27","Wadena",N,N,"",0,127,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 27","Wadena",N,N,"",0,127,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 28","Wadena",N,N,"",4,335,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 28","Wadena",N,N,"",4,335,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,117
+47014,"Yorkton--Melville","Yorkton--Melville"," 28","Wadena",N,N,"",4,335,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 28","Wadena",N,N,"",4,335,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,57
+47014,"Yorkton--Melville","Yorkton--Melville"," 28","Wadena",N,N,"",4,335,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 29","Wadena",N,N,"",0,519,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 29","Wadena",N,N,"",0,519,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,164
+47014,"Yorkton--Melville","Yorkton--Melville"," 29","Wadena",N,N,"",0,519,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 29","Wadena",N,N,"",0,519,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,82
+47014,"Yorkton--Melville","Yorkton--Melville"," 29","Wadena",N,N,"",0,519,"Neu","","Keith","Green Party","Parti Vert",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 30","Wadena",N,N,"",0,252,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 30","Wadena",N,N,"",0,252,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,81
+47014,"Yorkton--Melville","Yorkton--Melville"," 30","Wadena",N,N,"",0,252,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 30","Wadena",N,N,"",0,252,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,48
+47014,"Yorkton--Melville","Yorkton--Melville"," 30","Wadena",N,N,"",0,252,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 31","Kelvington",N,N,"",0,267,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 31","Kelvington",N,N,"",0,267,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,106
+47014,"Yorkton--Melville","Yorkton--Melville"," 31","Kelvington",N,N,"",0,267,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 31","Kelvington",N,N,"",0,267,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 31","Kelvington",N,N,"",0,267,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 32","Kuroki",N,N,"",1,232,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 32","Kuroki",N,N,"",1,232,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,125
+47014,"Yorkton--Melville","Yorkton--Melville"," 32","Kuroki",N,N,"",1,232,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 32","Kuroki",N,N,"",1,232,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 32","Kuroki",N,N,"",1,232,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 33","Margo",N,N,"",1,220,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 33","Margo",N,N,"",1,220,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,131
+47014,"Yorkton--Melville","Yorkton--Melville"," 33","Margo",N,N,"",1,220,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 33","Margo",N,N,"",1,220,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 33","Margo",N,N,"",1,220,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 34","Lintlaw",N,N,"",1,284,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 34","Lintlaw",N,N,"",1,284,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,129
+47014,"Yorkton--Melville","Yorkton--Melville"," 34","Lintlaw",N,N,"",1,284,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 34","Lintlaw",N,N,"",1,284,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 34","Lintlaw",N,N,"",1,284,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 35","Hazel Dell",N,N,"",1,260,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 35","Hazel Dell",N,N,"",1,260,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,116
+47014,"Yorkton--Melville","Yorkton--Melville"," 35","Hazel Dell",N,N,"",1,260,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 35","Hazel Dell",N,N,"",1,260,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 35","Hazel Dell",N,N,"",1,260,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 36","Endeavour",N,N,"",0,225,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 36","Endeavour",N,N,"",0,225,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,93
+47014,"Yorkton--Melville","Yorkton--Melville"," 36","Endeavour",N,N,"",0,225,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 36","Endeavour",N,N,"",0,225,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 36","Endeavour",N,N,"",0,225,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 37","Endeavour",N,N,"",0,276,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 37","Endeavour",N,N,"",0,276,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,101
+47014,"Yorkton--Melville","Yorkton--Melville"," 37","Endeavour",N,N,"",0,276,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 37","Endeavour",N,N,"",0,276,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,34
+47014,"Yorkton--Melville","Yorkton--Melville"," 37","Endeavour",N,N,"",0,276,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 38","Preeceville",N,N,"",0,264,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 38","Preeceville",N,N,"",0,264,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,124
+47014,"Yorkton--Melville","Yorkton--Melville"," 38","Preeceville",N,N,"",0,264,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 38","Preeceville",N,N,"",0,264,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 38","Preeceville",N,N,"",0,264,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 39","Preeceville",N,N,"",0,411,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 39","Preeceville",N,N,"",0,411,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,137
+47014,"Yorkton--Melville","Yorkton--Melville"," 39","Preeceville",N,N,"",0,411,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 39","Preeceville",N,N,"",0,411,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,37
+47014,"Yorkton--Melville","Yorkton--Melville"," 39","Preeceville",N,N,"",0,411,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 40","Preeceville",N,N,"",1,248,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 40","Preeceville",N,N,"",1,248,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,87
+47014,"Yorkton--Melville","Yorkton--Melville"," 40","Preeceville",N,N,"",1,248,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 40","Preeceville",N,N,"",1,248,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 40","Preeceville",N,N,"",1,248,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 41","Preeceville",N,N,"",1,225,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 41","Preeceville",N,N,"",1,225,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,80
+47014,"Yorkton--Melville","Yorkton--Melville"," 41","Preeceville",N,N,"",1,225,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 41","Preeceville",N,N,"",1,225,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 41","Preeceville",N,N,"",1,225,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 42","Sturgis",N,N,"",0,334,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 42","Sturgis",N,N,"",0,334,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,124
+47014,"Yorkton--Melville","Yorkton--Melville"," 42","Sturgis",N,N,"",0,334,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 42","Sturgis",N,N,"",0,334,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,42
+47014,"Yorkton--Melville","Yorkton--Melville"," 42","Sturgis",N,N,"",0,334,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 43","Sturgis",N,N,"",0,168,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 43","Sturgis",N,N,"",0,168,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,75
+47014,"Yorkton--Melville","Yorkton--Melville"," 43","Sturgis",N,N,"",0,168,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 43","Sturgis",N,N,"",0,168,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,45
+47014,"Yorkton--Melville","Yorkton--Melville"," 43","Sturgis",N,N,"",0,168,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 44","Sturgis",N,N,"",0,270,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 44","Sturgis",N,N,"",0,270,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,90
+47014,"Yorkton--Melville","Yorkton--Melville"," 44","Sturgis",N,N,"",0,270,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 44","Sturgis",N,N,"",0,270,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,42
+47014,"Yorkton--Melville","Yorkton--Melville"," 44","Sturgis",N,N,"",0,270,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 45","Danbury",N,N,"",1,174,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 45","Danbury",N,N,"",1,174,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,83
+47014,"Yorkton--Melville","Yorkton--Melville"," 45","Danbury",N,N,"",1,174,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 45","Danbury",N,N,"",1,174,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 45","Danbury",N,N,"",1,174,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 46","Swan Plain",N,N,"",0,169,"Barabonoff","","Carl","Independent","Indépendant",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 46","Swan Plain",N,N,"",0,169,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,82
+47014,"Yorkton--Melville","Yorkton--Melville"," 46","Swan Plain",N,N,"",0,169,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 46","Swan Plain",N,N,"",0,169,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 46","Swan Plain",N,N,"",0,169,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 47","Aaron",N,N,"",0,283,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 47","Aaron",N,N,"",0,283,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,107
+47014,"Yorkton--Melville","Yorkton--Melville"," 47","Aaron",N,N,"",0,283,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 47","Aaron",N,N,"",0,283,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 47","Aaron",N,N,"",0,283,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 48","Hyas",N,N,"",1,244,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 48","Hyas",N,N,"",1,244,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,88
+47014,"Yorkton--Melville","Yorkton--Melville"," 48","Hyas",N,N,"",1,244,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 48","Hyas",N,N,"",1,244,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 48","Hyas",N,N,"",1,244,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 49","Norquay",N,N,"",0,204,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 49","Norquay",N,N,"",0,204,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,73
+47014,"Yorkton--Melville","Yorkton--Melville"," 49","Norquay",N,N,"",0,204,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,32
+47014,"Yorkton--Melville","Yorkton--Melville"," 49","Norquay",N,N,"",0,204,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 49","Norquay",N,N,"",0,204,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 50","Norquay",N,N,"",1,400,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 50","Norquay",N,N,"",1,400,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,134
+47014,"Yorkton--Melville","Yorkton--Melville"," 50","Norquay",N,N,"",1,400,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,23
+47014,"Yorkton--Melville","Yorkton--Melville"," 50","Norquay",N,N,"",1,400,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 50","Norquay",N,N,"",1,400,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 51","Pelly",N,N,"",0,181,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 51","Pelly",N,N,"",0,181,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,101
+47014,"Yorkton--Melville","Yorkton--Melville"," 51","Pelly",N,N,"",0,181,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 51","Pelly",N,N,"",0,181,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 51","Pelly",N,N,"",0,181,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 52","Pelly",N,N,"",3,235,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 52","Pelly",N,N,"",3,235,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,81
+47014,"Yorkton--Melville","Yorkton--Melville"," 52","Pelly",N,N,"",3,235,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 52","Pelly",N,N,"",3,235,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 52","Pelly",N,N,"",3,235,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 53","Fishing Lake 89",N,N,"",0,198,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 53","Fishing Lake 89",N,N,"",0,198,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 53","Fishing Lake 89",N,N,"",0,198,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,88
+47014,"Yorkton--Melville","Yorkton--Melville"," 53","Fishing Lake 89",N,N,"",0,198,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 53","Fishing Lake 89",N,N,"",0,198,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 54","Foam Lake",N,N,"",0,304,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 54","Foam Lake",N,N,"",0,304,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,155
+47014,"Yorkton--Melville","Yorkton--Melville"," 54","Foam Lake",N,N,"",0,304,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 54","Foam Lake",N,N,"",0,304,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,35
+47014,"Yorkton--Melville","Yorkton--Melville"," 54","Foam Lake",N,N,"",0,304,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 55","Foam Lake",N,N,"",0,310,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 55","Foam Lake",N,N,"",0,310,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,87
+47014,"Yorkton--Melville","Yorkton--Melville"," 55","Foam Lake",N,N,"",0,310,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 55","Foam Lake",N,N,"",0,310,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,41
+47014,"Yorkton--Melville","Yorkton--Melville"," 55","Foam Lake",N,N,"",0,310,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 56","Foam Lake",N,N,"",0,205,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 56","Foam Lake",N,N,"",0,205,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,82
+47014,"Yorkton--Melville","Yorkton--Melville"," 56","Foam Lake",N,N,"",0,205,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 56","Foam Lake",N,N,"",0,205,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,36
+47014,"Yorkton--Melville","Yorkton--Melville"," 56","Foam Lake",N,N,"",0,205,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 57","Foam Lake",N,N,"",0,395,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 57","Foam Lake",N,N,"",0,395,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,128
+47014,"Yorkton--Melville","Yorkton--Melville"," 57","Foam Lake",N,N,"",0,395,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,32
+47014,"Yorkton--Melville","Yorkton--Melville"," 57","Foam Lake",N,N,"",0,395,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 57","Foam Lake",N,N,"",0,395,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 58","Foam Lake",N,N,"",0,173,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 58","Foam Lake",N,N,"",0,173,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,71
+47014,"Yorkton--Melville","Yorkton--Melville"," 58","Foam Lake",N,N,"",0,173,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 58","Foam Lake",N,N,"",0,173,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 58","Foam Lake",N,N,"",0,173,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 59","Invermay",N,N,"",1,146,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 59","Invermay",N,N,"",1,146,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,81
+47014,"Yorkton--Melville","Yorkton--Melville"," 59","Invermay",N,N,"",1,146,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 59","Invermay",N,N,"",1,146,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 59","Invermay",N,N,"",1,146,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 60","Invermay",N,N,"",0,220,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 60","Invermay",N,N,"",0,220,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,89
+47014,"Yorkton--Melville","Yorkton--Melville"," 60","Invermay",N,N,"",0,220,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 60","Invermay",N,N,"",0,220,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 60","Invermay",N,N,"",0,220,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 61","Rama",N,N,"",1,205,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 61","Rama",N,N,"",1,205,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,123
+47014,"Yorkton--Melville","Yorkton--Melville"," 61","Rama",N,N,"",1,205,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 61","Rama",N,N,"",1,205,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 61","Rama",N,N,"",1,205,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 62","Sheho",N,N,"",0,218,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 62","Sheho",N,N,"",0,218,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,110
+47014,"Yorkton--Melville","Yorkton--Melville"," 62","Sheho",N,N,"",0,218,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 62","Sheho",N,N,"",0,218,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 62","Sheho",N,N,"",0,218,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 63","Sheho",N,N,"",0,122,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 63","Sheho",N,N,"",0,122,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,50
+47014,"Yorkton--Melville","Yorkton--Melville"," 63","Sheho",N,N,"",0,122,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 63","Sheho",N,N,"",0,122,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 63","Sheho",N,N,"",0,122,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 64","Theodore",N,N,"",0,141,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 64","Theodore",N,N,"",0,141,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,91
+47014,"Yorkton--Melville","Yorkton--Melville"," 64","Theodore",N,N,"",0,141,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 64","Theodore",N,N,"",0,141,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 64","Theodore",N,N,"",0,141,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 65","Theodore",N,N,"",2,299,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 65","Theodore",N,N,"",2,299,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,123
+47014,"Yorkton--Melville","Yorkton--Melville"," 65","Theodore",N,N,"",2,299,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 65","Theodore",N,N,"",2,299,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,36
+47014,"Yorkton--Melville","Yorkton--Melville"," 65","Theodore",N,N,"",2,299,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 66","Buchanan",N,N,"",0,244,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 66","Buchanan",N,N,"",0,244,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,94
+47014,"Yorkton--Melville","Yorkton--Melville"," 66","Buchanan",N,N,"",0,244,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 66","Buchanan",N,N,"",0,244,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 66","Buchanan",N,N,"",0,244,"Neu","","Keith","Green Party","Parti Vert",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 67","Buchanan",N,N,"",0,173,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 67","Buchanan",N,N,"",0,173,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,73
+47014,"Yorkton--Melville","Yorkton--Melville"," 67","Buchanan",N,N,"",0,173,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 67","Buchanan",N,N,"",0,173,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 67","Buchanan",N,N,"",0,173,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 68","Canora",N,N,"",0,277,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 68","Canora",N,N,"",0,277,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,129
+47014,"Yorkton--Melville","Yorkton--Melville"," 68","Canora",N,N,"",0,277,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 68","Canora",N,N,"",0,277,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 68","Canora",N,N,"",0,277,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 69","Canora",N,N,"",0,248,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 69","Canora",N,N,"",0,248,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,98
+47014,"Yorkton--Melville","Yorkton--Melville"," 69","Canora",N,N,"",0,248,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 69","Canora",N,N,"",0,248,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 69","Canora",N,N,"",0,248,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 70","Canora",N,N,"",0,187,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 70","Canora",N,N,"",0,187,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,71
+47014,"Yorkton--Melville","Yorkton--Melville"," 70","Canora",N,N,"",0,187,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 70","Canora",N,N,"",0,187,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,30
+47014,"Yorkton--Melville","Yorkton--Melville"," 70","Canora",N,N,"",0,187,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 71","Canora",N,N,"",2,296,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 71","Canora",N,N,"",2,296,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,135
+47014,"Yorkton--Melville","Yorkton--Melville"," 71","Canora",N,N,"",2,296,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 71","Canora",N,N,"",2,296,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 71","Canora",N,N,"",2,296,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 72","Canora",N,N,"",0,396,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 72","Canora",N,N,"",0,396,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,158
+47014,"Yorkton--Melville","Yorkton--Melville"," 72","Canora",N,N,"",0,396,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 72","Canora",N,N,"",0,396,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 72","Canora",N,N,"",0,396,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 73","Canora",N,N,"",1,594,"Barabonoff","","Carl","Independent","Indépendant",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 73","Canora",N,N,"",1,594,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,182
+47014,"Yorkton--Melville","Yorkton--Melville"," 73","Canora",N,N,"",1,594,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 73","Canora",N,N,"",1,594,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,76
+47014,"Yorkton--Melville","Yorkton--Melville"," 73","Canora",N,N,"",1,594,"Neu","","Keith","Green Party","Parti Vert",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 74","Canora",N,N,"",1,242,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 74","Canora",N,N,"",1,242,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,88
+47014,"Yorkton--Melville","Yorkton--Melville"," 74","Canora",N,N,"",1,242,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 74","Canora",N,N,"",1,242,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 74","Canora",N,N,"",1,242,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 75","Veregin",N,N,"",0,273,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 75","Veregin",N,N,"",0,273,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,100
+47014,"Yorkton--Melville","Yorkton--Melville"," 75","Veregin",N,N,"",0,273,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 75","Veregin",N,N,"",0,273,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,47
+47014,"Yorkton--Melville","Yorkton--Melville"," 75","Veregin",N,N,"",0,273,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 76","Rhein",N,N,"",0,329,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 76","Rhein",N,N,"",0,329,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,159
+47014,"Yorkton--Melville","Yorkton--Melville"," 76","Rhein",N,N,"",0,329,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 76","Rhein",N,N,"",0,329,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,35
+47014,"Yorkton--Melville","Yorkton--Melville"," 76","Rhein",N,N,"",0,329,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 77","Keeseekoose 66",N,N,"",0,269,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 77","Keeseekoose 66",N,N,"",0,269,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 77","Keeseekoose 66",N,N,"",0,269,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,139
+47014,"Yorkton--Melville","Yorkton--Melville"," 77","Keeseekoose 66",N,N,"",0,269,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 77","Keeseekoose 66",N,N,"",0,269,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 78","Kamsack (Cote 64)",N,N,"",0,373,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 78","Kamsack (Cote 64)",N,N,"",0,373,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 78","Kamsack (Cote 64)",N,N,"",0,373,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,211
+47014,"Yorkton--Melville","Yorkton--Melville"," 78","Kamsack (Cote 64)",N,N,"",0,373,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 78","Kamsack (Cote 64)",N,N,"",0,373,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 79","Kamsack",N,N,"",0,362,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 79","Kamsack",N,N,"",0,362,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,144
+47014,"Yorkton--Melville","Yorkton--Melville"," 79","Kamsack",N,N,"",0,362,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 79","Kamsack",N,N,"",0,362,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 79","Kamsack",N,N,"",0,362,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 80","Kamsack",N,N,"",0,251,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 80","Kamsack",N,N,"",0,251,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,72
+47014,"Yorkton--Melville","Yorkton--Melville"," 80","Kamsack",N,N,"",0,251,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 80","Kamsack",N,N,"",0,251,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 80","Kamsack",N,N,"",0,251,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 81","Kamsack",N,N,"",0,169,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 81","Kamsack",N,N,"",0,169,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,52
+47014,"Yorkton--Melville","Yorkton--Melville"," 81","Kamsack",N,N,"",0,169,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,28
+47014,"Yorkton--Melville","Yorkton--Melville"," 81","Kamsack",N,N,"",0,169,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 81","Kamsack",N,N,"",0,169,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 82","Kamsack",N,N,"",0,542,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 82","Kamsack",N,N,"",0,542,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,99
+47014,"Yorkton--Melville","Yorkton--Melville"," 82","Kamsack",N,N,"",0,542,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 82","Kamsack",N,N,"",0,542,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,56
+47014,"Yorkton--Melville","Yorkton--Melville"," 82","Kamsack",N,N,"",0,542,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 83","Kamsack",N,N,"",0,213,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 83","Kamsack",N,N,"",0,213,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,64
+47014,"Yorkton--Melville","Yorkton--Melville"," 83","Kamsack",N,N,"",0,213,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 83","Kamsack",N,N,"",0,213,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,36
+47014,"Yorkton--Melville","Yorkton--Melville"," 83","Kamsack",N,N,"",0,213,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 84","Kamsack",N,N,"",1,350,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 84","Kamsack",N,N,"",1,350,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,82
+47014,"Yorkton--Melville","Yorkton--Melville"," 84","Kamsack",N,N,"",1,350,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 84","Kamsack",N,N,"",1,350,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,41
+47014,"Yorkton--Melville","Yorkton--Melville"," 84","Kamsack",N,N,"",1,350,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 85","Togo",N,N,"",0,224,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 85","Togo",N,N,"",0,224,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,79
+47014,"Yorkton--Melville","Yorkton--Melville"," 85","Togo",N,N,"",0,224,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,23
+47014,"Yorkton--Melville","Yorkton--Melville"," 85","Togo",N,N,"",0,224,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 85","Togo",N,N,"",0,224,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 86","Jedburgh",N,N,"",0,222,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 86","Jedburgh",N,N,"",0,222,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,106
+47014,"Yorkton--Melville","Yorkton--Melville"," 86","Jedburgh",N,N,"",0,222,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 86","Jedburgh",N,N,"",0,222,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 86","Jedburgh",N,N,"",0,222,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 87","Springside",N,N,"",0,278,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 87","Springside",N,N,"",0,278,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,162
+47014,"Yorkton--Melville","Yorkton--Melville"," 87","Springside",N,N,"",0,278,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 87","Springside",N,N,"",0,278,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 87","Springside",N,N,"",0,278,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 88","Springside",N,N,"",1,394,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 88","Springside",N,N,"",1,394,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,179
+47014,"Yorkton--Melville","Yorkton--Melville"," 88","Springside",N,N,"",1,394,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,30
+47014,"Yorkton--Melville","Yorkton--Melville"," 88","Springside",N,N,"",1,394,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 88","Springside",N,N,"",1,394,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 89","Willowbrook",N,N,"",0,175,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 89","Willowbrook",N,N,"",0,175,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,86
+47014,"Yorkton--Melville","Yorkton--Melville"," 89","Willowbrook",N,N,"",0,175,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 89","Willowbrook",N,N,"",0,175,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 89","Willowbrook",N,N,"",0,175,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 90","Yorkton",N,N,"",0,208,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 90","Yorkton",N,N,"",0,208,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,80
+47014,"Yorkton--Melville","Yorkton--Melville"," 90","Yorkton",N,N,"",0,208,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 90","Yorkton",N,N,"",0,208,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 90","Yorkton",N,N,"",0,208,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 91","Ebenezer",N,N,"",0,233,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 91","Ebenezer",N,N,"",0,233,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,122
+47014,"Yorkton--Melville","Yorkton--Melville"," 91","Ebenezer",N,N,"",0,233,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 91","Ebenezer",N,N,"",0,233,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 91","Ebenezer",N,N,"",0,233,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 92","Yorkton",N,N,"",0,468,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 92","Yorkton",N,N,"",0,468,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,210
+47014,"Yorkton--Melville","Yorkton--Melville"," 92","Yorkton",N,N,"",0,468,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 92","Yorkton",N,N,"",0,468,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,46
+47014,"Yorkton--Melville","Yorkton--Melville"," 92","Yorkton",N,N,"",0,468,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 93","Yorkton",N,N,"",1,346,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 93","Yorkton",N,N,"",1,346,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,150
+47014,"Yorkton--Melville","Yorkton--Melville"," 93","Yorkton",N,N,"",1,346,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,23
+47014,"Yorkton--Melville","Yorkton--Melville"," 93","Yorkton",N,N,"",1,346,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,34
+47014,"Yorkton--Melville","Yorkton--Melville"," 93","Yorkton",N,N,"",1,346,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 94","Otthon",N,N,"",1,216,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 94","Otthon",N,N,"",1,216,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,98
+47014,"Yorkton--Melville","Yorkton--Melville"," 94","Otthon",N,N,"",1,216,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 94","Otthon",N,N,"",1,216,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 94","Otthon",N,N,"",1,216,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 95","Yorkton",N,N,"",0,237,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 95","Yorkton",N,N,"",0,237,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,72
+47014,"Yorkton--Melville","Yorkton--Melville"," 95","Yorkton",N,N,"",0,237,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 95","Yorkton",N,N,"",0,237,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 95","Yorkton",N,N,"",0,237,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 96","Yorkton",N,N,"",0,369,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 96","Yorkton",N,N,"",0,369,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,100
+47014,"Yorkton--Melville","Yorkton--Melville"," 96","Yorkton",N,N,"",0,369,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 96","Yorkton",N,N,"",0,369,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,59
+47014,"Yorkton--Melville","Yorkton--Melville"," 96","Yorkton",N,N,"",0,369,"Neu","","Keith","Green Party","Parti Vert",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 97","Yorkton",N,N,"",0,359,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 97","Yorkton",N,N,"",0,359,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,105
+47014,"Yorkton--Melville","Yorkton--Melville"," 97","Yorkton",N,N,"",0,359,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 97","Yorkton",N,N,"",0,359,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 97","Yorkton",N,N,"",0,359,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 98","Yorkton",N,N,"",0,333,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 98","Yorkton",N,N,"",0,333,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,87
+47014,"Yorkton--Melville","Yorkton--Melville"," 98","Yorkton",N,N,"",0,333,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 98","Yorkton",N,N,"",0,333,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 98","Yorkton",N,N,"",0,333,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 99","Yorkton",N,N,"",0,324,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 99","Yorkton",N,N,"",0,324,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,69
+47014,"Yorkton--Melville","Yorkton--Melville"," 99","Yorkton",N,N,"",0,324,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 99","Yorkton",N,N,"",0,324,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,30
+47014,"Yorkton--Melville","Yorkton--Melville"," 99","Yorkton",N,N,"",0,324,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 100","Yorkton",N,N,"",0,283,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 100","Yorkton",N,N,"",0,283,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,64
+47014,"Yorkton--Melville","Yorkton--Melville"," 100","Yorkton",N,N,"",0,283,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 100","Yorkton",N,N,"",0,283,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 100","Yorkton",N,N,"",0,283,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 101","Yorkton",N,N,"",1,444,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 101","Yorkton",N,N,"",1,444,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,142
+47014,"Yorkton--Melville","Yorkton--Melville"," 101","Yorkton",N,N,"",1,444,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,36
+47014,"Yorkton--Melville","Yorkton--Melville"," 101","Yorkton",N,N,"",1,444,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,45
+47014,"Yorkton--Melville","Yorkton--Melville"," 101","Yorkton",N,N,"",1,444,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 102","Yorkton",N,N,"",0,409,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 102","Yorkton",N,N,"",0,409,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,103
+47014,"Yorkton--Melville","Yorkton--Melville"," 102","Yorkton",N,N,"",0,409,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 102","Yorkton",N,N,"",0,409,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 102","Yorkton",N,N,"",0,409,"Neu","","Keith","Green Party","Parti Vert",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 103","Yorkton",N,N,"",0,322,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 103","Yorkton",N,N,"",0,322,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,77
+47014,"Yorkton--Melville","Yorkton--Melville"," 103","Yorkton",N,N,"",0,322,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 103","Yorkton",N,N,"",0,322,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 103","Yorkton",N,N,"",0,322,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 104","Yorkton",N,N,"",1,382,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 104","Yorkton",N,N,"",1,382,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,101
+47014,"Yorkton--Melville","Yorkton--Melville"," 104","Yorkton",N,N,"",1,382,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 104","Yorkton",N,N,"",1,382,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,41
+47014,"Yorkton--Melville","Yorkton--Melville"," 104","Yorkton",N,N,"",1,382,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 105","Yorkton",N,N,"",0,391,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 105","Yorkton",N,N,"",0,391,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,143
+47014,"Yorkton--Melville","Yorkton--Melville"," 105","Yorkton",N,N,"",0,391,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,46
+47014,"Yorkton--Melville","Yorkton--Melville"," 105","Yorkton",N,N,"",0,391,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,35
+47014,"Yorkton--Melville","Yorkton--Melville"," 105","Yorkton",N,N,"",0,391,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 106","Yorkton",N,N,"",0,564,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 106","Yorkton",N,N,"",0,564,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,149
+47014,"Yorkton--Melville","Yorkton--Melville"," 106","Yorkton",N,N,"",0,564,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,42
+47014,"Yorkton--Melville","Yorkton--Melville"," 106","Yorkton",N,N,"",0,564,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,63
+47014,"Yorkton--Melville","Yorkton--Melville"," 106","Yorkton",N,N,"",0,564,"Neu","","Keith","Green Party","Parti Vert",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 107","Yorkton",N,N,"",2,492,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 107","Yorkton",N,N,"",2,492,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,179
+47014,"Yorkton--Melville","Yorkton--Melville"," 107","Yorkton",N,N,"",2,492,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,53
+47014,"Yorkton--Melville","Yorkton--Melville"," 107","Yorkton",N,N,"",2,492,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,51
+47014,"Yorkton--Melville","Yorkton--Melville"," 107","Yorkton",N,N,"",2,492,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 108A","Yorkton",N,N,"",1,468,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 108A","Yorkton",N,N,"",1,468,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,205
+47014,"Yorkton--Melville","Yorkton--Melville"," 108A","Yorkton",N,N,"",1,468,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 108A","Yorkton",N,N,"",1,468,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,46
+47014,"Yorkton--Melville","Yorkton--Melville"," 108A","Yorkton",N,N,"",1,468,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 108B","Yorkton",N,N,"",1,483,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 108B","Yorkton",N,N,"",1,483,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,200
+47014,"Yorkton--Melville","Yorkton--Melville"," 108B","Yorkton",N,N,"",1,483,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,42
+47014,"Yorkton--Melville","Yorkton--Melville"," 108B","Yorkton",N,N,"",1,483,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,62
+47014,"Yorkton--Melville","Yorkton--Melville"," 108B","Yorkton",N,N,"",1,483,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 109","Yorkton",N,N,"",0,382,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 109","Yorkton",N,N,"",0,382,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,130
+47014,"Yorkton--Melville","Yorkton--Melville"," 109","Yorkton",N,N,"",0,382,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 109","Yorkton",N,N,"",0,382,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,52
+47014,"Yorkton--Melville","Yorkton--Melville"," 109","Yorkton",N,N,"",0,382,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 110","Yorkton",N,N,"",0,358,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 110","Yorkton",N,N,"",0,358,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,160
+47014,"Yorkton--Melville","Yorkton--Melville"," 110","Yorkton",N,N,"",0,358,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,28
+47014,"Yorkton--Melville","Yorkton--Melville"," 110","Yorkton",N,N,"",0,358,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 110","Yorkton",N,N,"",0,358,"Neu","","Keith","Green Party","Parti Vert",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 111","Yorkton",N,N,"",0,297,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 111","Yorkton",N,N,"",0,297,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,106
+47014,"Yorkton--Melville","Yorkton--Melville"," 111","Yorkton",N,N,"",0,297,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 111","Yorkton",N,N,"",0,297,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,34
+47014,"Yorkton--Melville","Yorkton--Melville"," 111","Yorkton",N,N,"",0,297,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 112","Yorkton",N,N,"",0,380,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 112","Yorkton",N,N,"",0,380,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,135
+47014,"Yorkton--Melville","Yorkton--Melville"," 112","Yorkton",N,N,"",0,380,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 112","Yorkton",N,N,"",0,380,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 112","Yorkton",N,N,"",0,380,"Neu","","Keith","Green Party","Parti Vert",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 113","Yorkton",N,N,"",0,341,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 113","Yorkton",N,N,"",0,341,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,143
+47014,"Yorkton--Melville","Yorkton--Melville"," 113","Yorkton",N,N,"",0,341,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 113","Yorkton",N,N,"",0,341,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,45
+47014,"Yorkton--Melville","Yorkton--Melville"," 113","Yorkton",N,N,"",0,341,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 114","Yorkton",N,N,"",1,295,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 114","Yorkton",N,N,"",1,295,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,72
+47014,"Yorkton--Melville","Yorkton--Melville"," 114","Yorkton",N,N,"",1,295,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 114","Yorkton",N,N,"",1,295,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,23
+47014,"Yorkton--Melville","Yorkton--Melville"," 114","Yorkton",N,N,"",1,295,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 115","Yorkton",N,N,"",0,306,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 115","Yorkton",N,N,"",0,306,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,108
+47014,"Yorkton--Melville","Yorkton--Melville"," 115","Yorkton",N,N,"",0,306,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 115","Yorkton",N,N,"",0,306,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,46
+47014,"Yorkton--Melville","Yorkton--Melville"," 115","Yorkton",N,N,"",0,306,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 116","Yorkton",N,N,"",0,269,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 116","Yorkton",N,N,"",0,269,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,72
+47014,"Yorkton--Melville","Yorkton--Melville"," 116","Yorkton",N,N,"",0,269,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 116","Yorkton",N,N,"",0,269,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,36
+47014,"Yorkton--Melville","Yorkton--Melville"," 116","Yorkton",N,N,"",0,269,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 117","Yorkton",N,N,"",0,391,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 117","Yorkton",N,N,"",0,391,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,34
+47014,"Yorkton--Melville","Yorkton--Melville"," 117","Yorkton",N,N,"",0,391,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 117","Yorkton",N,N,"",0,391,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 117","Yorkton",N,N,"",0,391,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 118","Yorkton",N,N,"",0,408,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 118","Yorkton",N,N,"",0,408,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,159
+47014,"Yorkton--Melville","Yorkton--Melville"," 118","Yorkton",N,N,"",0,408,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,38
+47014,"Yorkton--Melville","Yorkton--Melville"," 118","Yorkton",N,N,"",0,408,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 118","Yorkton",N,N,"",0,408,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 119","Yorkton",N,N,"",0,441,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 119","Yorkton",N,N,"",0,441,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,151
+47014,"Yorkton--Melville","Yorkton--Melville"," 119","Yorkton",N,N,"",0,441,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,42
+47014,"Yorkton--Melville","Yorkton--Melville"," 119","Yorkton",N,N,"",0,441,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,51
+47014,"Yorkton--Melville","Yorkton--Melville"," 119","Yorkton",N,N,"",0,441,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 120","Yorkton",N,N,"",0,322,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 120","Yorkton",N,N,"",0,322,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,89
+47014,"Yorkton--Melville","Yorkton--Melville"," 120","Yorkton",N,N,"",0,322,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,30
+47014,"Yorkton--Melville","Yorkton--Melville"," 120","Yorkton",N,N,"",0,322,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 120","Yorkton",N,N,"",0,322,"Neu","","Keith","Green Party","Parti Vert",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 121","Yorkton",N,N,"",0,378,"Barabonoff","","Carl","Independent","Indépendant",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 121","Yorkton",N,N,"",0,378,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,111
+47014,"Yorkton--Melville","Yorkton--Melville"," 121","Yorkton",N,N,"",0,378,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,49
+47014,"Yorkton--Melville","Yorkton--Melville"," 121","Yorkton",N,N,"",0,378,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,52
+47014,"Yorkton--Melville","Yorkton--Melville"," 121","Yorkton",N,N,"",0,378,"Neu","","Keith","Green Party","Parti Vert",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 122","Yorkton",N,N,"",0,409,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 122","Yorkton",N,N,"",0,409,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,95
+47014,"Yorkton--Melville","Yorkton--Melville"," 122","Yorkton",N,N,"",0,409,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,32
+47014,"Yorkton--Melville","Yorkton--Melville"," 122","Yorkton",N,N,"",0,409,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,51
+47014,"Yorkton--Melville","Yorkton--Melville"," 122","Yorkton",N,N,"",0,409,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 123","Yorkton",N,N,"",0,314,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 123","Yorkton",N,N,"",0,314,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,97
+47014,"Yorkton--Melville","Yorkton--Melville"," 123","Yorkton",N,N,"",0,314,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,40
+47014,"Yorkton--Melville","Yorkton--Melville"," 123","Yorkton",N,N,"",0,314,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,45
+47014,"Yorkton--Melville","Yorkton--Melville"," 123","Yorkton",N,N,"",0,314,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 124","Yorkton",N,N,"",0,394,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 124","Yorkton",N,N,"",0,394,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,113
+47014,"Yorkton--Melville","Yorkton--Melville"," 124","Yorkton",N,N,"",0,394,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,27
+47014,"Yorkton--Melville","Yorkton--Melville"," 124","Yorkton",N,N,"",0,394,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 124","Yorkton",N,N,"",0,394,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 125","Tonkin",N,N,"",1,253,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 125","Tonkin",N,N,"",1,253,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,143
+47014,"Yorkton--Melville","Yorkton--Melville"," 125","Tonkin",N,N,"",1,253,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 125","Tonkin",N,N,"",1,253,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 125","Tonkin",N,N,"",1,253,"Neu","","Keith","Green Party","Parti Vert",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 126","Wroxton",N,N,"",0,223,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 126","Wroxton",N,N,"",0,223,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,110
+47014,"Yorkton--Melville","Yorkton--Melville"," 126","Wroxton",N,N,"",0,223,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 126","Wroxton",N,N,"",0,223,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 126","Wroxton",N,N,"",0,223,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 127","Calder",N,N,"",0,229,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 127","Calder",N,N,"",0,229,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,116
+47014,"Yorkton--Melville","Yorkton--Melville"," 127","Calder",N,N,"",0,229,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 127","Calder",N,N,"",0,229,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 127","Calder",N,N,"",0,229,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 128","Saltcoats",N,N,"",0,278,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 128","Saltcoats",N,N,"",0,278,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,127
+47014,"Yorkton--Melville","Yorkton--Melville"," 128","Saltcoats",N,N,"",0,278,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 128","Saltcoats",N,N,"",0,278,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 128","Saltcoats",N,N,"",0,278,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 129","Saltcoats",N,N,"",2,366,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 129","Saltcoats",N,N,"",2,366,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,139
+47014,"Yorkton--Melville","Yorkton--Melville"," 129","Saltcoats",N,N,"",2,366,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 129","Saltcoats",N,N,"",2,366,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 129","Saltcoats",N,N,"",2,366,"Neu","","Keith","Green Party","Parti Vert",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 130","Bredenbury",N,N,"",0,235,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 130","Bredenbury",N,N,"",0,235,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,116
+47014,"Yorkton--Melville","Yorkton--Melville"," 130","Bredenbury",N,N,"",0,235,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 130","Bredenbury",N,N,"",0,235,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 130","Bredenbury",N,N,"",0,235,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 131","Bredenbury",N,N,"",1,249,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 131","Bredenbury",N,N,"",1,249,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,102
+47014,"Yorkton--Melville","Yorkton--Melville"," 131","Bredenbury",N,N,"",1,249,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 131","Bredenbury",N,N,"",1,249,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 131","Bredenbury",N,N,"",1,249,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 132","Churchbridge",N,N,"",0,203,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 132","Churchbridge",N,N,"",0,203,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,103
+47014,"Yorkton--Melville","Yorkton--Melville"," 132","Churchbridge",N,N,"",0,203,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 132","Churchbridge",N,N,"",0,203,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 132","Churchbridge",N,N,"",0,203,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 133","Churchbridge",N,N,"",0,196,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 133","Churchbridge",N,N,"",0,196,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,74
+47014,"Yorkton--Melville","Yorkton--Melville"," 133","Churchbridge",N,N,"",0,196,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 133","Churchbridge",N,N,"",0,196,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,35
+47014,"Yorkton--Melville","Yorkton--Melville"," 133","Churchbridge",N,N,"",0,196,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 134","Churchbridge",N,N,"",3,359,"Barabonoff","","Carl","Independent","Indépendant",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 134","Churchbridge",N,N,"",3,359,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,120
+47014,"Yorkton--Melville","Yorkton--Melville"," 134","Churchbridge",N,N,"",3,359,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 134","Churchbridge",N,N,"",3,359,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,58
+47014,"Yorkton--Melville","Yorkton--Melville"," 134","Churchbridge",N,N,"",3,359,"Neu","","Keith","Green Party","Parti Vert",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 135","MacNutt",N,N,"",0,222,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 135","MacNutt",N,N,"",0,222,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,111
+47014,"Yorkton--Melville","Yorkton--Melville"," 135","MacNutt",N,N,"",0,222,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 135","MacNutt",N,N,"",0,222,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 135","MacNutt",N,N,"",0,222,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 136","Goodeve",N,N,"",0,156,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 136","Goodeve",N,N,"",0,156,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,74
+47014,"Yorkton--Melville","Yorkton--Melville"," 136","Goodeve",N,N,"",0,156,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 136","Goodeve",N,N,"",0,156,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 136","Goodeve",N,N,"",0,156,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 137","Fenwood",N,N,"",1,195,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 137","Fenwood",N,N,"",1,195,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,83
+47014,"Yorkton--Melville","Yorkton--Melville"," 137","Fenwood",N,N,"",1,195,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 137","Fenwood",N,N,"",1,195,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 137","Fenwood",N,N,"",1,195,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 138","Duff",N,N,"",0,216,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 138","Duff",N,N,"",0,216,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,99
+47014,"Yorkton--Melville","Yorkton--Melville"," 138","Duff",N,N,"",0,216,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 138","Duff",N,N,"",0,216,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 138","Duff",N,N,"",0,216,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 139","Melville",N,N,"",0,334,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 139","Melville",N,N,"",0,334,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,130
+47014,"Yorkton--Melville","Yorkton--Melville"," 139","Melville",N,N,"",0,334,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 139","Melville",N,N,"",0,334,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,35
+47014,"Yorkton--Melville","Yorkton--Melville"," 139","Melville",N,N,"",0,334,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 140","Lemberg",N,N,"",1,326,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 140","Lemberg",N,N,"",1,326,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,164
+47014,"Yorkton--Melville","Yorkton--Melville"," 140","Lemberg",N,N,"",1,326,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 140","Lemberg",N,N,"",1,326,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,35
+47014,"Yorkton--Melville","Yorkton--Melville"," 140","Lemberg",N,N,"",1,326,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 141","Neudorf",N,N,"",0,331,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 141","Neudorf",N,N,"",0,331,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,154
+47014,"Yorkton--Melville","Yorkton--Melville"," 141","Neudorf",N,N,"",0,331,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,18
+47014,"Yorkton--Melville","Yorkton--Melville"," 141","Neudorf",N,N,"",0,331,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,50
+47014,"Yorkton--Melville","Yorkton--Melville"," 141","Neudorf",N,N,"",0,331,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 142","Melville",N,N,"",1,339,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 142","Melville",N,N,"",1,339,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,92
+47014,"Yorkton--Melville","Yorkton--Melville"," 142","Melville",N,N,"",1,339,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 142","Melville",N,N,"",1,339,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 142","Melville",N,N,"",1,339,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 143","Melville",N,N,"",2,148,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 143","Melville",N,N,"",2,148,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,50
+47014,"Yorkton--Melville","Yorkton--Melville"," 143","Melville",N,N,"",2,148,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 143","Melville",N,N,"",2,148,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 143","Melville",N,N,"",2,148,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 144","Melville",N,N,"",0,310,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 144","Melville",N,N,"",0,310,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,109
+47014,"Yorkton--Melville","Yorkton--Melville"," 144","Melville",N,N,"",0,310,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,23
+47014,"Yorkton--Melville","Yorkton--Melville"," 144","Melville",N,N,"",0,310,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,43
+47014,"Yorkton--Melville","Yorkton--Melville"," 144","Melville",N,N,"",0,310,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 145","Melville",N,N,"",0,251,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 145","Melville",N,N,"",0,251,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,71
+47014,"Yorkton--Melville","Yorkton--Melville"," 145","Melville",N,N,"",0,251,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 145","Melville",N,N,"",0,251,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,39
+47014,"Yorkton--Melville","Yorkton--Melville"," 145","Melville",N,N,"",0,251,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 146","Melville",N,N,"",0,171,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 146","Melville",N,N,"",0,171,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,43
+47014,"Yorkton--Melville","Yorkton--Melville"," 146","Melville",N,N,"",0,171,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 146","Melville",N,N,"",0,171,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,29
+47014,"Yorkton--Melville","Yorkton--Melville"," 146","Melville",N,N,"",0,171,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 147","Melville",N,N,"",0,308,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 147","Melville",N,N,"",0,308,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,117
+47014,"Yorkton--Melville","Yorkton--Melville"," 147","Melville",N,N,"",0,308,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,38
+47014,"Yorkton--Melville","Yorkton--Melville"," 147","Melville",N,N,"",0,308,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 147","Melville",N,N,"",0,308,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 148","Melville",N,N,"",1,736,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 148","Melville",N,N,"",1,736,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,149
+47014,"Yorkton--Melville","Yorkton--Melville"," 148","Melville",N,N,"",1,736,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,47
+47014,"Yorkton--Melville","Yorkton--Melville"," 148","Melville",N,N,"",1,736,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,106
+47014,"Yorkton--Melville","Yorkton--Melville"," 148","Melville",N,N,"",1,736,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 149","Melville",N,N,"",0,253,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 149","Melville",N,N,"",0,253,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,55
+47014,"Yorkton--Melville","Yorkton--Melville"," 149","Melville",N,N,"",0,253,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 149","Melville",N,N,"",0,253,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,47
+47014,"Yorkton--Melville","Yorkton--Melville"," 149","Melville",N,N,"",0,253,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 150","Melville",N,N,"",1,320,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 150","Melville",N,N,"",1,320,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,99
+47014,"Yorkton--Melville","Yorkton--Melville"," 150","Melville",N,N,"",1,320,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 150","Melville",N,N,"",1,320,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,48
+47014,"Yorkton--Melville","Yorkton--Melville"," 150","Melville",N,N,"",1,320,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 151","Melville",N,N,"",0,308,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 151","Melville",N,N,"",0,308,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,101
+47014,"Yorkton--Melville","Yorkton--Melville"," 151","Melville",N,N,"",0,308,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,28
+47014,"Yorkton--Melville","Yorkton--Melville"," 151","Melville",N,N,"",0,308,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,42
+47014,"Yorkton--Melville","Yorkton--Melville"," 151","Melville",N,N,"",0,308,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 152","Melville",N,N,"",1,224,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 152","Melville",N,N,"",1,224,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,66
+47014,"Yorkton--Melville","Yorkton--Melville"," 152","Melville",N,N,"",1,224,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 152","Melville",N,N,"",1,224,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,44
+47014,"Yorkton--Melville","Yorkton--Melville"," 152","Melville",N,N,"",1,224,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 153","Killaly",N,N,"",0,222,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 153","Killaly",N,N,"",0,222,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,106
+47014,"Yorkton--Melville","Yorkton--Melville"," 153","Killaly",N,N,"",0,222,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 153","Killaly",N,N,"",0,222,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 153","Killaly",N,N,"",0,222,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 154","Grayson",N,N,"",2,306,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 154","Grayson",N,N,"",2,306,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,141
+47014,"Yorkton--Melville","Yorkton--Melville"," 154","Grayson",N,N,"",2,306,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,28
+47014,"Yorkton--Melville","Yorkton--Melville"," 154","Grayson",N,N,"",2,306,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 154","Grayson",N,N,"",2,306,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 155","Waldron",N,N,"",0,164,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 155","Waldron",N,N,"",0,164,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,71
+47014,"Yorkton--Melville","Yorkton--Melville"," 155","Waldron",N,N,"",0,164,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 155","Waldron",N,N,"",0,164,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 155","Waldron",N,N,"",0,164,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 156","Dubuc",N,N,"",0,140,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 156","Dubuc",N,N,"",0,140,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,68
+47014,"Yorkton--Melville","Yorkton--Melville"," 156","Dubuc",N,N,"",0,140,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 156","Dubuc",N,N,"",0,140,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 156","Dubuc",N,N,"",0,140,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 157","Atwater",N,N,"",0,236,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 157","Atwater",N,N,"",0,236,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,94
+47014,"Yorkton--Melville","Yorkton--Melville"," 157","Atwater",N,N,"",0,236,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 157","Atwater",N,N,"",0,236,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 157","Atwater",N,N,"",0,236,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 158","Stockholm",N,N,"",0,203,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 158","Stockholm",N,N,"",0,203,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,103
+47014,"Yorkton--Melville","Yorkton--Melville"," 158","Stockholm",N,N,"",0,203,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 158","Stockholm",N,N,"",0,203,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 158","Stockholm",N,N,"",0,203,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 159","Stockholm",N,N,"",0,255,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 159","Stockholm",N,N,"",0,255,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,109
+47014,"Yorkton--Melville","Yorkton--Melville"," 159","Stockholm",N,N,"",0,255,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,25
+47014,"Yorkton--Melville","Yorkton--Melville"," 159","Stockholm",N,N,"",0,255,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,38
+47014,"Yorkton--Melville","Yorkton--Melville"," 159","Stockholm",N,N,"",0,255,"Neu","","Keith","Green Party","Parti Vert",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 160","Esterhazy",N,N,"",0,225,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 160","Esterhazy",N,N,"",0,225,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,109
+47014,"Yorkton--Melville","Yorkton--Melville"," 160","Esterhazy",N,N,"",0,225,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 160","Esterhazy",N,N,"",0,225,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 160","Esterhazy",N,N,"",0,225,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 161","Esterhazy",N,N,"",0,237,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 161","Esterhazy",N,N,"",0,237,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,88
+47014,"Yorkton--Melville","Yorkton--Melville"," 161","Esterhazy",N,N,"",0,237,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,15
+47014,"Yorkton--Melville","Yorkton--Melville"," 161","Esterhazy",N,N,"",0,237,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 161","Esterhazy",N,N,"",0,237,"Neu","","Keith","Green Party","Parti Vert",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 162","Esterhazy",N,N,"",0,158,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 162","Esterhazy",N,N,"",0,158,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,43
+47014,"Yorkton--Melville","Yorkton--Melville"," 162","Esterhazy",N,N,"",0,158,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,23
+47014,"Yorkton--Melville","Yorkton--Melville"," 162","Esterhazy",N,N,"",0,158,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 162","Esterhazy",N,N,"",0,158,"Neu","","Keith","Green Party","Parti Vert",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 163","Esterhazy",N,N,"",0,314,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 163","Esterhazy",N,N,"",0,314,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,130
+47014,"Yorkton--Melville","Yorkton--Melville"," 163","Esterhazy",N,N,"",0,314,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,32
+47014,"Yorkton--Melville","Yorkton--Melville"," 163","Esterhazy",N,N,"",0,314,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,47
+47014,"Yorkton--Melville","Yorkton--Melville"," 163","Esterhazy",N,N,"",0,314,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 164","Esterhazy",N,N,"",0,247,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 164","Esterhazy",N,N,"",0,247,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,66
+47014,"Yorkton--Melville","Yorkton--Melville"," 164","Esterhazy",N,N,"",0,247,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,37
+47014,"Yorkton--Melville","Yorkton--Melville"," 164","Esterhazy",N,N,"",0,247,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,34
+47014,"Yorkton--Melville","Yorkton--Melville"," 164","Esterhazy",N,N,"",0,247,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 165","Esterhazy",N,N,"",2,653,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 165","Esterhazy",N,N,"",2,653,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,215
+47014,"Yorkton--Melville","Yorkton--Melville"," 165","Esterhazy",N,N,"",2,653,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,58
+47014,"Yorkton--Melville","Yorkton--Melville"," 165","Esterhazy",N,N,"",2,653,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,66
+47014,"Yorkton--Melville","Yorkton--Melville"," 165","Esterhazy",N,N,"",2,653,"Neu","","Keith","Green Party","Parti Vert",N,N,17
+47014,"Yorkton--Melville","Yorkton--Melville"," 166","Esterhazy",N,N,"",0,268,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 166","Esterhazy",N,N,"",0,268,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,64
+47014,"Yorkton--Melville","Yorkton--Melville"," 166","Esterhazy",N,N,"",0,268,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 166","Esterhazy",N,N,"",0,268,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 166","Esterhazy",N,N,"",0,268,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 167","Yarbo",N,N,"",0,184,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 167","Yarbo",N,N,"",0,184,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,76
+47014,"Yorkton--Melville","Yorkton--Melville"," 167","Yarbo",N,N,"",0,184,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 167","Yarbo",N,N,"",0,184,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,13
+47014,"Yorkton--Melville","Yorkton--Melville"," 167","Yarbo",N,N,"",0,184,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 168","Langenburg",N,N,"",0,213,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 168","Langenburg",N,N,"",0,213,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,112
+47014,"Yorkton--Melville","Yorkton--Melville"," 168","Langenburg",N,N,"",0,213,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 168","Langenburg",N,N,"",0,213,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 168","Langenburg",N,N,"",0,213,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 169","Langenburg",N,N,"",0,299,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 169","Langenburg",N,N,"",0,299,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,117
+47014,"Yorkton--Melville","Yorkton--Melville"," 169","Langenburg",N,N,"",0,299,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,34
+47014,"Yorkton--Melville","Yorkton--Melville"," 169","Langenburg",N,N,"",0,299,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 169","Langenburg",N,N,"",0,299,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 170","Langenburg",N,N,"",0,292,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 170","Langenburg",N,N,"",0,292,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,126
+47014,"Yorkton--Melville","Yorkton--Melville"," 170","Langenburg",N,N,"",0,292,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,34
+47014,"Yorkton--Melville","Yorkton--Melville"," 170","Langenburg",N,N,"",0,292,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,26
+47014,"Yorkton--Melville","Yorkton--Melville"," 170","Langenburg",N,N,"",0,292,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 171","Langenburg",N,N,"",1,276,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 171","Langenburg",N,N,"",1,276,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,97
+47014,"Yorkton--Melville","Yorkton--Melville"," 171","Langenburg",N,N,"",1,276,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,44
+47014,"Yorkton--Melville","Yorkton--Melville"," 171","Langenburg",N,N,"",1,276,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 171","Langenburg",N,N,"",1,276,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 172","Marchwell",N,N,"",0,162,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 172","Marchwell",N,N,"",0,162,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,76
+47014,"Yorkton--Melville","Yorkton--Melville"," 172","Marchwell",N,N,"",0,162,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 172","Marchwell",N,N,"",0,162,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 172","Marchwell",N,N,"",0,162,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 173","Tantallon",N,N,"",0,313,"Barabonoff","","Carl","Independent","Indépendant",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 173","Tantallon",N,N,"",0,313,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,110
+47014,"Yorkton--Melville","Yorkton--Melville"," 173","Tantallon",N,N,"",0,313,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 173","Tantallon",N,N,"",0,313,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,30
+47014,"Yorkton--Melville","Yorkton--Melville"," 173","Tantallon",N,N,"",0,313,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 174","Spy Hill",N,N,"",0,289,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 174","Spy Hill",N,N,"",0,289,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,129
+47014,"Yorkton--Melville","Yorkton--Melville"," 174","Spy Hill",N,N,"",0,289,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,20
+47014,"Yorkton--Melville","Yorkton--Melville"," 174","Spy Hill",N,N,"",0,289,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,24
+47014,"Yorkton--Melville","Yorkton--Melville"," 174","Spy Hill",N,N,"",0,289,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 600","Porcupine Plain",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 600","Porcupine Plain",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,82
+47014,"Yorkton--Melville","Yorkton--Melville"," 600","Porcupine Plain",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 600","Porcupine Plain",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 600","Porcupine Plain",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 601","Hudson Bay",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 601","Hudson Bay",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,88
+47014,"Yorkton--Melville","Yorkton--Melville"," 601","Hudson Bay",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 601","Hudson Bay",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,33
+47014,"Yorkton--Melville","Yorkton--Melville"," 601","Hudson Bay",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 602","Kelvington",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 602","Kelvington",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,117
+47014,"Yorkton--Melville","Yorkton--Melville"," 602","Kelvington",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," 602","Kelvington",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,32
+47014,"Yorkton--Melville","Yorkton--Melville"," 602","Kelvington",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 603","Preeceville--Sturgis",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," 603","Preeceville--Sturgis",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,161
+47014,"Yorkton--Melville","Yorkton--Melville"," 603","Preeceville--Sturgis",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 603","Preeceville--Sturgis",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,41
+47014,"Yorkton--Melville","Yorkton--Melville"," 603","Preeceville--Sturgis",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 604","Norquay",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 604","Norquay",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,96
+47014,"Yorkton--Melville","Yorkton--Melville"," 604","Norquay",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,12
+47014,"Yorkton--Melville","Yorkton--Melville"," 604","Norquay",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 604","Norquay",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 605","Foam Lake",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 605","Foam Lake",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,70
+47014,"Yorkton--Melville","Yorkton--Melville"," 605","Foam Lake",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 605","Foam Lake",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,14
+47014,"Yorkton--Melville","Yorkton--Melville"," 605","Foam Lake",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 606","Canora",N,N,"",1,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 606","Canora",N,N,"",1,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,113
+47014,"Yorkton--Melville","Yorkton--Melville"," 606","Canora",N,N,"",1,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 606","Canora",N,N,"",1,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,51
+47014,"Yorkton--Melville","Yorkton--Melville"," 606","Canora",N,N,"",1,0,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 607","Kamsack",N,N,"",1,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 607","Kamsack",N,N,"",1,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,113
+47014,"Yorkton--Melville","Yorkton--Melville"," 607","Kamsack",N,N,"",1,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,38
+47014,"Yorkton--Melville","Yorkton--Melville"," 607","Kamsack",N,N,"",1,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,43
+47014,"Yorkton--Melville","Yorkton--Melville"," 607","Kamsack",N,N,"",1,0,"Neu","","Keith","Green Party","Parti Vert",N,N,3
+47014,"Yorkton--Melville","Yorkton--Melville"," 608","Springside--Yorkton",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 608","Springside--Yorkton",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,91
+47014,"Yorkton--Melville","Yorkton--Melville"," 608","Springside--Yorkton",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,22
+47014,"Yorkton--Melville","Yorkton--Melville"," 608","Springside--Yorkton",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,21
+47014,"Yorkton--Melville","Yorkton--Melville"," 608","Springside--Yorkton",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 609","Yorkton",N,N,"",1,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 609","Yorkton",N,N,"",1,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,257
+47014,"Yorkton--Melville","Yorkton--Melville"," 609","Yorkton",N,N,"",1,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,74
+47014,"Yorkton--Melville","Yorkton--Melville"," 609","Yorkton",N,N,"",1,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,77
+47014,"Yorkton--Melville","Yorkton--Melville"," 609","Yorkton",N,N,"",1,0,"Neu","","Keith","Green Party","Parti Vert",N,N,5
+47014,"Yorkton--Melville","Yorkton--Melville"," 610","Yorkton",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 610","Yorkton",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,202
+47014,"Yorkton--Melville","Yorkton--Melville"," 610","Yorkton",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,48
+47014,"Yorkton--Melville","Yorkton--Melville"," 610","Yorkton",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,61
+47014,"Yorkton--Melville","Yorkton--Melville"," 610","Yorkton",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,10
+47014,"Yorkton--Melville","Yorkton--Melville"," 611","Langenburg",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 611","Langenburg",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,68
+47014,"Yorkton--Melville","Yorkton--Melville"," 611","Langenburg",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,9
+47014,"Yorkton--Melville","Yorkton--Melville"," 611","Langenburg",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,8
+47014,"Yorkton--Melville","Yorkton--Melville"," 611","Langenburg",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," 612","Melville",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 612","Melville",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,62
+47014,"Yorkton--Melville","Yorkton--Melville"," 612","Melville",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,7
+47014,"Yorkton--Melville","Yorkton--Melville"," 612","Melville",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,16
+47014,"Yorkton--Melville","Yorkton--Melville"," 612","Melville",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 613","Melville",N,N,"",2,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 613","Melville",N,N,"",2,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,213
+47014,"Yorkton--Melville","Yorkton--Melville"," 613","Melville",N,N,"",2,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,64
+47014,"Yorkton--Melville","Yorkton--Melville"," 613","Melville",N,N,"",2,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,113
+47014,"Yorkton--Melville","Yorkton--Melville"," 613","Melville",N,N,"",2,0,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 614","Esterhazy",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," 614","Esterhazy",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,181
+47014,"Yorkton--Melville","Yorkton--Melville"," 614","Esterhazy",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,55
+47014,"Yorkton--Melville","Yorkton--Melville"," 614","Esterhazy",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,31
+47014,"Yorkton--Melville","Yorkton--Melville"," 614","Esterhazy",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 615","Langenburg",N,N,"",0,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,0
+47014,"Yorkton--Melville","Yorkton--Melville"," 615","Langenburg",N,N,"",0,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,53
+47014,"Yorkton--Melville","Yorkton--Melville"," 615","Langenburg",N,N,"",0,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," 615","Langenburg",N,N,"",0,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,11
+47014,"Yorkton--Melville","Yorkton--Melville"," 615","Langenburg",N,N,"",0,0,"Neu","","Keith","Green Party","Parti Vert",N,N,2
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,155,"Barabonoff","","Carl","Independent","Indépendant",N,N,1
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,155,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,23
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,155,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,37
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,155,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,19
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,155,"Neu","","Keith","Green Party","Parti Vert",N,N,6
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Barabonoff","","Carl","Independent","Indépendant",N,N,4
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Breitkreuz","","Garry","Conservative","Conservateur",Y,Y,559
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Cushman","","Mervin Joseph","Liberal","Libéral",N,N,143
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Dennison","","Jason","N.D.P.","N.P.D.",N,N,147
+47014,"Yorkton--Melville","Yorkton--Melville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Neu","","Keith","Green Party","Parti Vert",N,N,7

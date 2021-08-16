@@ -1,0 +1,907 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+46008,Provencher","Provencher"," 1","Pine Falls",N,N,"",1,237,"Gibson","","Janine","Green Party","Parti Vert",N,N,2
+46008,Provencher","Provencher"," 1","Pine Falls",N,N,"",1,237,"Hiebert","","Shirley","Liberal","Libéral",N,N,12
+46008,Provencher","Provencher"," 1","Pine Falls",N,N,"",1,237,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,Provencher","Provencher"," 1","Pine Falls",N,N,"",1,237,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 1","Pine Falls",N,N,"",1,237,"Toews","","Vic","Conservative","Conservateur",Y,Y,92
+46008,Provencher","Provencher"," 2","Pine Falls",N,N,"",0,217,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 2","Pine Falls",N,N,"",0,217,"Hiebert","","Shirley","Liberal","Libéral",N,N,14
+46008,Provencher","Provencher"," 2","Pine Falls",N,N,"",0,217,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,Provencher","Provencher"," 2","Pine Falls",N,N,"",0,217,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 2","Pine Falls",N,N,"",0,217,"Toews","","Vic","Conservative","Conservateur",Y,Y,69
+46008,Provencher","Provencher"," 3","Powerview",N,N,"",0,210,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 3","Powerview",N,N,"",0,210,"Hiebert","","Shirley","Liberal","Libéral",N,N,14
+46008,Provencher","Provencher"," 3","Powerview",N,N,"",0,210,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,Provencher","Provencher"," 3","Powerview",N,N,"",0,210,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 3","Powerview",N,N,"",0,210,"Toews","","Vic","Conservative","Conservateur",Y,Y,69
+46008,Provencher","Provencher"," 4","Powerview--Pine Falls",N,N,"",0,607,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 4","Powerview--Pine Falls",N,N,"",0,607,"Hiebert","","Shirley","Liberal","Libéral",N,N,15
+46008,Provencher","Provencher"," 4","Powerview--Pine Falls",N,N,"",0,607,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46008,Provencher","Provencher"," 4","Powerview--Pine Falls",N,N,"",0,607,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 4","Powerview--Pine Falls",N,N,"",0,607,"Toews","","Vic","Conservative","Conservateur",Y,Y,145
+46008,Provencher","Provencher"," 5","St-Georges",N,N,"",1,393,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 5","St-Georges",N,N,"",1,393,"Hiebert","","Shirley","Liberal","Libéral",N,N,39
+46008,Provencher","Provencher"," 5","St-Georges",N,N,"",1,393,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46008,Provencher","Provencher"," 5","St-Georges",N,N,"",1,393,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 5","St-Georges",N,N,"",1,393,"Toews","","Vic","Conservative","Conservateur",Y,Y,211
+46008,Provencher","Provencher"," 6","Great Falls",N,N,"",1,286,"Gibson","","Janine","Green Party","Parti Vert",N,N,5
+46008,Provencher","Provencher"," 6","Great Falls",N,N,"",1,286,"Hiebert","","Shirley","Liberal","Libéral",N,N,17
+46008,Provencher","Provencher"," 6","Great Falls",N,N,"",1,286,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46008,Provencher","Provencher"," 6","Great Falls",N,N,"",1,286,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 6","Great Falls",N,N,"",1,286,"Toews","","Vic","Conservative","Conservateur",Y,Y,97
+46008,Provencher","Provencher"," 7","St-Georges",N,N,"5",0,141,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 7","St-Georges",N,N,"5",0,141,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 7","St-Georges",N,N,"5",0,141,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 7","St-Georges",N,N,"5",0,141,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 7","St-Georges",N,N,"5",0,141,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 8","Bird River",N,N,"",1,203,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 8","Bird River",N,N,"",1,203,"Hiebert","","Shirley","Liberal","Libéral",N,N,10
+46008,Provencher","Provencher"," 8","Bird River",N,N,"",1,203,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46008,Provencher","Provencher"," 8","Bird River",N,N,"",1,203,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 8","Bird River",N,N,"",1,203,"Toews","","Vic","Conservative","Conservateur",Y,Y,90
+46008,Provencher","Provencher"," 9","Lac du Bonnet",N,N,"",0,400,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 9","Lac du Bonnet",N,N,"",0,400,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 9","Lac du Bonnet",N,N,"",0,400,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46008,Provencher","Provencher"," 9","Lac du Bonnet",N,N,"",0,400,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 9","Lac du Bonnet",N,N,"",0,400,"Toews","","Vic","Conservative","Conservateur",Y,Y,138
+46008,Provencher","Provencher"," 10","Crescent Bay",N,N,"",0,448,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 10","Crescent Bay",N,N,"",0,448,"Hiebert","","Shirley","Liberal","Libéral",N,N,31
+46008,Provencher","Provencher"," 10","Crescent Bay",N,N,"",0,448,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46008,Provencher","Provencher"," 10","Crescent Bay",N,N,"",0,448,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 10","Crescent Bay",N,N,"",0,448,"Toews","","Vic","Conservative","Conservateur",Y,Y,162
+46008,Provencher","Provencher"," 11","Lac du Bonnet",N,N,"",1,341,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 11","Lac du Bonnet",N,N,"",1,341,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 11","Lac du Bonnet",N,N,"",1,341,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46008,Provencher","Provencher"," 11","Lac du Bonnet",N,N,"",1,341,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 11","Lac du Bonnet",N,N,"",1,341,"Toews","","Vic","Conservative","Conservateur",Y,Y,117
+46008,Provencher","Provencher"," 12","Lac du Bonnet",N,N,"",0,529,"Gibson","","Janine","Green Party","Parti Vert",N,N,17
+46008,Provencher","Provencher"," 12","Lac du Bonnet",N,N,"",0,529,"Hiebert","","Shirley","Liberal","Libéral",N,N,44
+46008,Provencher","Provencher"," 12","Lac du Bonnet",N,N,"",0,529,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46008,Provencher","Provencher"," 12","Lac du Bonnet",N,N,"",0,529,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 12","Lac du Bonnet",N,N,"",0,529,"Toews","","Vic","Conservative","Conservateur",Y,Y,188
+46008,Provencher","Provencher"," 13A","Riverland",N,N,"",0,594,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 13A","Riverland",N,N,"",0,594,"Hiebert","","Shirley","Liberal","Libéral",N,N,36
+46008,Provencher","Provencher"," 13A","Riverland",N,N,"",0,594,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46008,Provencher","Provencher"," 13A","Riverland",N,N,"",0,594,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+46008,Provencher","Provencher"," 13A","Riverland",N,N,"",0,594,"Toews","","Vic","Conservative","Conservateur",Y,Y,186
+46008,Provencher","Provencher"," 13B","Riverland",N,N,"",1,523,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 13B","Riverland",N,N,"",1,523,"Hiebert","","Shirley","Liberal","Libéral",N,N,23
+46008,Provencher","Provencher"," 13B","Riverland",N,N,"",1,523,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46008,Provencher","Provencher"," 13B","Riverland",N,N,"",1,523,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+46008,Provencher","Provencher"," 13B","Riverland",N,N,"",1,523,"Toews","","Vic","Conservative","Conservateur",Y,Y,162
+46008,Provencher","Provencher"," 14","Pointe du Bois",N,N,"",0,85,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 14","Pointe du Bois",N,N,"",0,85,"Hiebert","","Shirley","Liberal","Libéral",N,N,1
+46008,Provencher","Provencher"," 14","Pointe du Bois",N,N,"",0,85,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,Provencher","Provencher"," 14","Pointe du Bois",N,N,"",0,85,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 14","Pointe du Bois",N,N,"",0,85,"Toews","","Vic","Conservative","Conservateur",Y,Y,25
+46008,Provencher","Provencher"," 15","Seven Sisters Falls",N,N,"",0,443,"Gibson","","Janine","Green Party","Parti Vert",N,N,14
+46008,Provencher","Provencher"," 15","Seven Sisters Falls",N,N,"",0,443,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 15","Seven Sisters Falls",N,N,"",0,443,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46008,Provencher","Provencher"," 15","Seven Sisters Falls",N,N,"",0,443,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+46008,Provencher","Provencher"," 15","Seven Sisters Falls",N,N,"",0,443,"Toews","","Vic","Conservative","Conservateur",Y,Y,171
+46008,Provencher","Provencher"," 16","Pinawa",N,N,"",2,320,"Gibson","","Janine","Green Party","Parti Vert",N,N,24
+46008,Provencher","Provencher"," 16","Pinawa",N,N,"",2,320,"Hiebert","","Shirley","Liberal","Libéral",N,N,38
+46008,Provencher","Provencher"," 16","Pinawa",N,N,"",2,320,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46008,Provencher","Provencher"," 16","Pinawa",N,N,"",2,320,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 16","Pinawa",N,N,"",2,320,"Toews","","Vic","Conservative","Conservateur",Y,Y,124
+46008,Provencher","Provencher"," 17","Pinawa",N,N,"",1,455,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 17","Pinawa",N,N,"",1,455,"Hiebert","","Shirley","Liberal","Libéral",N,N,56
+46008,Provencher","Provencher"," 17","Pinawa",N,N,"",1,455,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46008,Provencher","Provencher"," 17","Pinawa",N,N,"",1,455,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 17","Pinawa",N,N,"",1,455,"Toews","","Vic","Conservative","Conservateur",Y,Y,156
+46008,Provencher","Provencher"," 18","Pinawa",N,N,"",3,413,"Gibson","","Janine","Green Party","Parti Vert",N,N,27
+46008,Provencher","Provencher"," 18","Pinawa",N,N,"",3,413,"Hiebert","","Shirley","Liberal","Libéral",N,N,65
+46008,Provencher","Provencher"," 18","Pinawa",N,N,"",3,413,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46008,Provencher","Provencher"," 18","Pinawa",N,N,"",3,413,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 18","Pinawa",N,N,"",3,413,"Toews","","Vic","Conservative","Conservateur",Y,Y,147
+46008,Provencher","Provencher"," 19","Lac du Bonnet",Y,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 19","Lac du Bonnet",Y,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 19","Lac du Bonnet",Y,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 19","Lac du Bonnet",Y,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 19","Lac du Bonnet",Y,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 20","Seddons Corner",N,N,"",0,246,"Gibson","","Janine","Green Party","Parti Vert",N,N,14
+46008,Provencher","Provencher"," 20","Seddons Corner",N,N,"",0,246,"Hiebert","","Shirley","Liberal","Libéral",N,N,14
+46008,Provencher","Provencher"," 20","Seddons Corner",N,N,"",0,246,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46008,Provencher","Provencher"," 20","Seddons Corner",N,N,"",0,246,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 20","Seddons Corner",N,N,"",0,246,"Toews","","Vic","Conservative","Conservateur",Y,Y,81
+46008,Provencher","Provencher"," 21","Elma",N,N,"",1,285,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 21","Elma",N,N,"",1,285,"Hiebert","","Shirley","Liberal","Libéral",N,N,7
+46008,Provencher","Provencher"," 21","Elma",N,N,"",1,285,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,Provencher","Provencher"," 21","Elma",N,N,"",1,285,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 21","Elma",N,N,"",1,285,"Toews","","Vic","Conservative","Conservateur",Y,Y,72
+46008,Provencher","Provencher"," 22","Whitemouth",N,N,"",7,655,"Gibson","","Janine","Green Party","Parti Vert",N,N,22
+46008,Provencher","Provencher"," 22","Whitemouth",N,N,"",7,655,"Hiebert","","Shirley","Liberal","Libéral",N,N,26
+46008,Provencher","Provencher"," 22","Whitemouth",N,N,"",7,655,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46008,Provencher","Provencher"," 22","Whitemouth",N,N,"",7,655,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 22","Whitemouth",N,N,"",7,655,"Toews","","Vic","Conservative","Conservateur",Y,Y,227
+46008,Provencher","Provencher"," 23","Whitemouth",Y,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 23","Whitemouth",Y,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 23","Whitemouth",Y,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 23","Whitemouth",Y,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 23","Whitemouth",Y,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 24","Falcon Lake",N,N,"",0,380,"Gibson","","Janine","Green Party","Parti Vert",N,N,27
+46008,Provencher","Provencher"," 24","Falcon Lake",N,N,"",0,380,"Hiebert","","Shirley","Liberal","Libéral",N,N,27
+46008,Provencher","Provencher"," 24","Falcon Lake",N,N,"",0,380,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,Provencher","Provencher"," 24","Falcon Lake",N,N,"",0,380,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 24","Falcon Lake",N,N,"",0,380,"Toews","","Vic","Conservative","Conservateur",Y,Y,133
+46008,Provencher","Provencher"," 25","Prawda",N,N,"",0,140,"Gibson","","Janine","Green Party","Parti Vert",N,N,5
+46008,Provencher","Provencher"," 25","Prawda",N,N,"",0,140,"Hiebert","","Shirley","Liberal","Libéral",N,N,6
+46008,Provencher","Provencher"," 25","Prawda",N,N,"",0,140,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,Provencher","Provencher"," 25","Prawda",N,N,"",0,140,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 25","Prawda",N,N,"",0,140,"Toews","","Vic","Conservative","Conservateur",Y,Y,39
+46008,Provencher","Provencher"," 26","Hadashville",N,N,"",1,270,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 26","Hadashville",N,N,"",1,270,"Hiebert","","Shirley","Liberal","Libéral",N,N,9
+46008,Provencher","Provencher"," 26","Hadashville",N,N,"",1,270,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,Provencher","Provencher"," 26","Hadashville",N,N,"",1,270,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 26","Hadashville",N,N,"",1,270,"Toews","","Vic","Conservative","Conservateur",Y,Y,98
+46008,Provencher","Provencher"," 27","Springfield",N,N,"",1,472,"Gibson","","Janine","Green Party","Parti Vert",N,N,11
+46008,Provencher","Provencher"," 27","Springfield",N,N,"",1,472,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 27","Springfield",N,N,"",1,472,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,Provencher","Provencher"," 27","Springfield",N,N,"",1,472,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 27","Springfield",N,N,"",1,472,"Toews","","Vic","Conservative","Conservateur",Y,Y,189
+46008,Provencher","Provencher"," 28","Oakbank",N,N,"",0,477,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 28","Oakbank",N,N,"",0,477,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 28","Oakbank",N,N,"",0,477,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+46008,Provencher","Provencher"," 28","Oakbank",N,N,"",0,477,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 28","Oakbank",N,N,"",0,477,"Toews","","Vic","Conservative","Conservateur",Y,Y,163
+46008,Provencher","Provencher"," 29","Oakbank",N,N,"",1,464,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 29","Oakbank",N,N,"",1,464,"Hiebert","","Shirley","Liberal","Libéral",N,N,30
+46008,Provencher","Provencher"," 29","Oakbank",N,N,"",1,464,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+46008,Provencher","Provencher"," 29","Oakbank",N,N,"",1,464,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 29","Oakbank",N,N,"",1,464,"Toews","","Vic","Conservative","Conservateur",Y,Y,152
+46008,Provencher","Provencher"," 30","Oakbank",N,N,"",0,667,"Gibson","","Janine","Green Party","Parti Vert",N,N,30
+46008,Provencher","Provencher"," 30","Oakbank",N,N,"",0,667,"Hiebert","","Shirley","Liberal","Libéral",N,N,36
+46008,Provencher","Provencher"," 30","Oakbank",N,N,"",0,667,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+46008,Provencher","Provencher"," 30","Oakbank",N,N,"",0,667,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 30","Oakbank",N,N,"",0,667,"Toews","","Vic","Conservative","Conservateur",Y,Y,230
+46008,Provencher","Provencher"," 31","Oakbank",N,N,"",0,504,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 31","Oakbank",N,N,"",0,504,"Hiebert","","Shirley","Liberal","Libéral",N,N,19
+46008,Provencher","Provencher"," 31","Oakbank",N,N,"",0,504,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+46008,Provencher","Provencher"," 31","Oakbank",N,N,"",0,504,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+46008,Provencher","Provencher"," 31","Oakbank",N,N,"",0,504,"Toews","","Vic","Conservative","Conservateur",Y,Y,189
+46008,Provencher","Provencher"," 32","Oakbank",N,N,"",0,585,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 32","Oakbank",N,N,"",0,585,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 32","Oakbank",N,N,"",0,585,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+46008,Provencher","Provencher"," 32","Oakbank",N,N,"",0,585,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 32","Oakbank",N,N,"",0,585,"Toews","","Vic","Conservative","Conservateur",Y,Y,234
+46008,Provencher","Provencher"," 33","Hazelridge",N,N,"",0,447,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 33","Hazelridge",N,N,"",0,447,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 33","Hazelridge",N,N,"",0,447,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+46008,Provencher","Provencher"," 33","Hazelridge",N,N,"",0,447,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 33","Hazelridge",N,N,"",0,447,"Toews","","Vic","Conservative","Conservateur",Y,Y,160
+46008,Provencher","Provencher"," 34","Anola",N,N,"",1,524,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 34","Anola",N,N,"",1,524,"Hiebert","","Shirley","Liberal","Libéral",N,N,34
+46008,Provencher","Provencher"," 34","Anola",N,N,"",1,524,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46008,Provencher","Provencher"," 34","Anola",N,N,"",1,524,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 34","Anola",N,N,"",1,524,"Toews","","Vic","Conservative","Conservateur",Y,Y,192
+46008,Provencher","Provencher"," 35","Vivian",N,N,"",1,387,"Gibson","","Janine","Green Party","Parti Vert",N,N,19
+46008,Provencher","Provencher"," 35","Vivian",N,N,"",1,387,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 35","Vivian",N,N,"",1,387,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46008,Provencher","Provencher"," 35","Vivian",N,N,"",1,387,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 35","Vivian",N,N,"",1,387,"Toews","","Vic","Conservative","Conservateur",Y,Y,144
+46008,Provencher","Provencher"," 36","Ste. Rita",N,N,"",0,312,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 36","Ste. Rita",N,N,"",0,312,"Hiebert","","Shirley","Liberal","Libéral",N,N,15
+46008,Provencher","Provencher"," 36","Ste. Rita",N,N,"",0,312,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46008,Provencher","Provencher"," 36","Ste. Rita",N,N,"",0,312,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 36","Ste. Rita",N,N,"",0,312,"Toews","","Vic","Conservative","Conservateur",Y,Y,119
+46008,Provencher","Provencher"," 37","Anola",N,N,"",0,537,"Gibson","","Janine","Green Party","Parti Vert",N,N,34
+46008,Provencher","Provencher"," 37","Anola",N,N,"",0,537,"Hiebert","","Shirley","Liberal","Libéral",N,N,20
+46008,Provencher","Provencher"," 37","Anola",N,N,"",0,537,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+46008,Provencher","Provencher"," 37","Anola",N,N,"",0,537,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 37","Anola",N,N,"",0,537,"Toews","","Vic","Conservative","Conservateur",Y,Y,171
+46008,Provencher","Provencher"," 38","Anola",N,N,"",3,445,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 38","Anola",N,N,"",3,445,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 38","Anola",N,N,"",3,445,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46008,Provencher","Provencher"," 38","Anola",N,N,"",3,445,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 38","Anola",N,N,"",3,445,"Toews","","Vic","Conservative","Conservateur",Y,Y,130
+46008,Provencher","Provencher"," 39","Anola",N,N,"",0,312,"Gibson","","Janine","Green Party","Parti Vert",N,N,3
+46008,Provencher","Provencher"," 39","Anola",N,N,"",0,312,"Hiebert","","Shirley","Liberal","Libéral",N,N,12
+46008,Provencher","Provencher"," 39","Anola",N,N,"",0,312,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46008,Provencher","Provencher"," 39","Anola",N,N,"",0,312,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 39","Anola",N,N,"",0,312,"Toews","","Vic","Conservative","Conservateur",Y,Y,100
+46008,Provencher","Provencher"," 40","Dugald",N,N,"",0,337,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 40","Dugald",N,N,"",0,337,"Hiebert","","Shirley","Liberal","Libéral",N,N,21
+46008,Provencher","Provencher"," 40","Dugald",N,N,"",0,337,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46008,Provencher","Provencher"," 40","Dugald",N,N,"",0,337,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 40","Dugald",N,N,"",0,337,"Toews","","Vic","Conservative","Conservateur",Y,Y,119
+46008,Provencher","Provencher"," 41","Dugald",N,N,"",0,377,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 41","Dugald",N,N,"",0,377,"Hiebert","","Shirley","Liberal","Libéral",N,N,19
+46008,Provencher","Provencher"," 41","Dugald",N,N,"",0,377,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46008,Provencher","Provencher"," 41","Dugald",N,N,"",0,377,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 41","Dugald",N,N,"",0,377,"Toews","","Vic","Conservative","Conservateur",Y,Y,153
+46008,Provencher","Provencher"," 42","Navin",N,N,"",0,562,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 42","Navin",N,N,"",0,562,"Hiebert","","Shirley","Liberal","Libéral",N,N,29
+46008,Provencher","Provencher"," 42","Navin",N,N,"",0,562,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46008,Provencher","Provencher"," 42","Navin",N,N,"",0,562,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 42","Navin",N,N,"",0,562,"Toews","","Vic","Conservative","Conservateur",Y,Y,117
+46008,Provencher","Provencher"," 43","Dugald",N,N,"",0,300,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 43","Dugald",N,N,"",0,300,"Hiebert","","Shirley","Liberal","Libéral",N,N,17
+46008,Provencher","Provencher"," 43","Dugald",N,N,"",0,300,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,Provencher","Provencher"," 43","Dugald",N,N,"",0,300,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 43","Dugald",N,N,"",0,300,"Toews","","Vic","Conservative","Conservateur",Y,Y,119
+46008,Provencher","Provencher"," 44","St. Adolphe",N,N,"",2,645,"Gibson","","Janine","Green Party","Parti Vert",N,N,36
+46008,Provencher","Provencher"," 44","St. Adolphe",N,N,"",2,645,"Hiebert","","Shirley","Liberal","Libéral",N,N,79
+46008,Provencher","Provencher"," 44","St. Adolphe",N,N,"",2,645,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46008,Provencher","Provencher"," 44","St. Adolphe",N,N,"",2,645,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 44","St. Adolphe",N,N,"",2,645,"Toews","","Vic","Conservative","Conservateur",Y,Y,210
+46008,Provencher","Provencher"," 45","St. Adolphe",N,N,"",0,384,"Gibson","","Janine","Green Party","Parti Vert",N,N,14
+46008,Provencher","Provencher"," 45","St. Adolphe",N,N,"",0,384,"Hiebert","","Shirley","Liberal","Libéral",N,N,49
+46008,Provencher","Provencher"," 45","St. Adolphe",N,N,"",0,384,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46008,Provencher","Provencher"," 45","St. Adolphe",N,N,"",0,384,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 45","St. Adolphe",N,N,"",0,384,"Toews","","Vic","Conservative","Conservateur",Y,Y,106
+46008,Provencher","Provencher"," 46","St. Adolphe",N,N,"",0,402,"Gibson","","Janine","Green Party","Parti Vert",N,N,17
+46008,Provencher","Provencher"," 46","St. Adolphe",N,N,"",0,402,"Hiebert","","Shirley","Liberal","Libéral",N,N,51
+46008,Provencher","Provencher"," 46","St. Adolphe",N,N,"",0,402,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46008,Provencher","Provencher"," 46","St. Adolphe",N,N,"",0,402,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 46","St. Adolphe",N,N,"",0,402,"Toews","","Vic","Conservative","Conservateur",Y,Y,121
+46008,Provencher","Provencher"," 47","Glenlea",N,N,"",0,215,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 47","Glenlea",N,N,"",0,215,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 47","Glenlea",N,N,"",0,215,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46008,Provencher","Provencher"," 47","Glenlea",N,N,"",0,215,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 47","Glenlea",N,N,"",0,215,"Toews","","Vic","Conservative","Conservateur",Y,Y,72
+46008,Provencher","Provencher"," 48","Ste. Agathe",N,N,"",4,491,"Gibson","","Janine","Green Party","Parti Vert",N,N,30
+46008,Provencher","Provencher"," 48","Ste. Agathe",N,N,"",4,491,"Hiebert","","Shirley","Liberal","Libéral",N,N,78
+46008,Provencher","Provencher"," 48","Ste. Agathe",N,N,"",4,491,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+46008,Provencher","Provencher"," 48","Ste. Agathe",N,N,"",4,491,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+46008,Provencher","Provencher"," 48","Ste. Agathe",N,N,"",4,491,"Toews","","Vic","Conservative","Conservateur",Y,Y,167
+46008,Provencher","Provencher"," 49A","Niverville",N,N,"",1,369,"Gibson","","Janine","Green Party","Parti Vert",N,N,5
+46008,Provencher","Provencher"," 49A","Niverville",N,N,"",1,369,"Hiebert","","Shirley","Liberal","Libéral",N,N,11
+46008,Provencher","Provencher"," 49A","Niverville",N,N,"",1,369,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,Provencher","Provencher"," 49A","Niverville",N,N,"",1,369,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 49A","Niverville",N,N,"",1,369,"Toews","","Vic","Conservative","Conservateur",Y,Y,218
+46008,Provencher","Provencher"," 49B","Mobile poll/Bureau itinérant",N,N,"507",0,21,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 49B","Mobile poll/Bureau itinérant",N,N,"507",0,21,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 49B","Mobile poll/Bureau itinérant",N,N,"507",0,21,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 49B","Mobile poll/Bureau itinérant",N,N,"507",0,21,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 49B","Mobile poll/Bureau itinérant",N,N,"507",0,21,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 50","Niverville",N,N,"",3,594,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 50","Niverville",N,N,"",3,594,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 50","Niverville",N,N,"",3,594,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,Provencher","Provencher"," 50","Niverville",N,N,"",3,594,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,14
+46008,Provencher","Provencher"," 50","Niverville",N,N,"",3,594,"Toews","","Vic","Conservative","Conservateur",Y,Y,305
+46008,Provencher","Provencher"," 51","Niverville",N,N,"",1,562,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 51","Niverville",N,N,"",1,562,"Hiebert","","Shirley","Liberal","Libéral",N,N,31
+46008,Provencher","Provencher"," 51","Niverville",N,N,"",1,562,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46008,Provencher","Provencher"," 51","Niverville",N,N,"",1,562,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+46008,Provencher","Provencher"," 51","Niverville",N,N,"",1,562,"Toews","","Vic","Conservative","Conservateur",Y,Y,254
+46008,Provencher","Provencher"," 52","Niverville",N,N,"",2,867,"Gibson","","Janine","Green Party","Parti Vert",N,N,30
+46008,Provencher","Provencher"," 52","Niverville",N,N,"",2,867,"Hiebert","","Shirley","Liberal","Libéral",N,N,23
+46008,Provencher","Provencher"," 52","Niverville",N,N,"",2,867,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46008,Provencher","Provencher"," 52","Niverville",N,N,"",2,867,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 52","Niverville",N,N,"",2,867,"Toews","","Vic","Conservative","Conservateur",Y,Y,307
+46008,Provencher","Provencher"," 53","New Bothwell",N,N,"",3,486,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 53","New Bothwell",N,N,"",3,486,"Hiebert","","Shirley","Liberal","Libéral",N,N,15
+46008,Provencher","Provencher"," 53","New Bothwell",N,N,"",3,486,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,Provencher","Provencher"," 53","New Bothwell",N,N,"",3,486,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,15
+46008,Provencher","Provencher"," 53","New Bothwell",N,N,"",3,486,"Toews","","Vic","Conservative","Conservateur",Y,Y,201
+46008,Provencher","Provencher"," 54","Oak Island Settlement",N,N,"",1,303,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 54","Oak Island Settlement",N,N,"",1,303,"Hiebert","","Shirley","Liberal","Libéral",N,N,32
+46008,Provencher","Provencher"," 54","Oak Island Settlement",N,N,"",1,303,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,Provencher","Provencher"," 54","Oak Island Settlement",N,N,"",1,303,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 54","Oak Island Settlement",N,N,"",1,303,"Toews","","Vic","Conservative","Conservateur",Y,Y,122
+46008,Provencher","Provencher"," 55","Ile des Chênes",N,N,"",2,508,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 55","Ile des Chênes",N,N,"",2,508,"Hiebert","","Shirley","Liberal","Libéral",N,N,44
+46008,Provencher","Provencher"," 55","Ile des Chênes",N,N,"",2,508,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46008,Provencher","Provencher"," 55","Ile des Chênes",N,N,"",2,508,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 55","Ile des Chênes",N,N,"",2,508,"Toews","","Vic","Conservative","Conservateur",Y,Y,156
+46008,Provencher","Provencher"," 56","Ile des Chênes",N,N,"",0,479,"Gibson","","Janine","Green Party","Parti Vert",N,N,19
+46008,Provencher","Provencher"," 56","Ile des Chênes",N,N,"",0,479,"Hiebert","","Shirley","Liberal","Libéral",N,N,60
+46008,Provencher","Provencher"," 56","Ile des Chênes",N,N,"",0,479,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+46008,Provencher","Provencher"," 56","Ile des Chênes",N,N,"",0,479,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 56","Ile des Chênes",N,N,"",0,479,"Toews","","Vic","Conservative","Conservateur",Y,Y,139
+46008,Provencher","Provencher"," 57","Ile des Chênes",N,N,"",2,572,"Gibson","","Janine","Green Party","Parti Vert",N,N,22
+46008,Provencher","Provencher"," 57","Ile des Chênes",N,N,"",2,572,"Hiebert","","Shirley","Liberal","Libéral",N,N,54
+46008,Provencher","Provencher"," 57","Ile des Chênes",N,N,"",2,572,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46008,Provencher","Provencher"," 57","Ile des Chênes",N,N,"",2,572,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 57","Ile des Chênes",N,N,"",2,572,"Toews","","Vic","Conservative","Conservateur",Y,Y,164
+46008,Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,476,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,476,"Hiebert","","Shirley","Liberal","Libéral",N,N,66
+46008,Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,476,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46008,Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,476,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 58","Ile des Chênes",N,N,"",0,476,"Toews","","Vic","Conservative","Conservateur",Y,Y,131
+46008,Provencher","Provencher"," 59","Lorette",N,N,"",1,411,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 59","Lorette",N,N,"",1,411,"Hiebert","","Shirley","Liberal","Libéral",N,N,36
+46008,Provencher","Provencher"," 59","Lorette",N,N,"",1,411,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46008,Provencher","Provencher"," 59","Lorette",N,N,"",1,411,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 59","Lorette",N,N,"",1,411,"Toews","","Vic","Conservative","Conservateur",Y,Y,123
+46008,Provencher","Provencher"," 60","Lorette",N,N,"",0,991,"Gibson","","Janine","Green Party","Parti Vert",N,N,39
+46008,Provencher","Provencher"," 60","Lorette",N,N,"",0,991,"Hiebert","","Shirley","Liberal","Libéral",N,N,73
+46008,Provencher","Provencher"," 60","Lorette",N,N,"",0,991,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+46008,Provencher","Provencher"," 60","Lorette",N,N,"",0,991,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,19
+46008,Provencher","Provencher"," 60","Lorette",N,N,"",0,991,"Toews","","Vic","Conservative","Conservateur",Y,Y,262
+46008,Provencher","Provencher"," 61","Lorette",N,N,"",0,346,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 61","Lorette",N,N,"",0,346,"Hiebert","","Shirley","Liberal","Libéral",N,N,27
+46008,Provencher","Provencher"," 61","Lorette",N,N,"",0,346,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46008,Provencher","Provencher"," 61","Lorette",N,N,"",0,346,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 61","Lorette",N,N,"",0,346,"Toews","","Vic","Conservative","Conservateur",Y,Y,86
+46008,Provencher","Provencher"," 62","Lorette",N,N,"",0,263,"Gibson","","Janine","Green Party","Parti Vert",N,N,11
+46008,Provencher","Provencher"," 62","Lorette",N,N,"",0,263,"Hiebert","","Shirley","Liberal","Libéral",N,N,31
+46008,Provencher","Provencher"," 62","Lorette",N,N,"",0,263,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,Provencher","Provencher"," 62","Lorette",N,N,"",0,263,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 62","Lorette",N,N,"",0,263,"Toews","","Vic","Conservative","Conservateur",Y,Y,63
+46008,Provencher","Provencher"," 63","Lorette",Y,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 63","Lorette",Y,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 63","Lorette",Y,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 63","Lorette",Y,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 63","Lorette",Y,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 64","Lorette",N,N,"",0,354,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 64","Lorette",N,N,"",0,354,"Hiebert","","Shirley","Liberal","Libéral",N,N,29
+46008,Provencher","Provencher"," 64","Lorette",N,N,"",0,354,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46008,Provencher","Provencher"," 64","Lorette",N,N,"",0,354,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 64","Lorette",N,N,"",0,354,"Toews","","Vic","Conservative","Conservateur",Y,Y,105
+46008,Provencher","Provencher"," 65","Rosewood",N,N,"",1,485,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 65","Rosewood",N,N,"",1,485,"Hiebert","","Shirley","Liberal","Libéral",N,N,30
+46008,Provencher","Provencher"," 65","Rosewood",N,N,"",1,485,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46008,Provencher","Provencher"," 65","Rosewood",N,N,"",1,485,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+46008,Provencher","Provencher"," 65","Rosewood",N,N,"",1,485,"Toews","","Vic","Conservative","Conservateur",Y,Y,134
+46008,Provencher","Provencher"," 66","Lorette",N,N,"",1,391,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 66","Lorette",N,N,"",1,391,"Hiebert","","Shirley","Liberal","Libéral",N,N,44
+46008,Provencher","Provencher"," 66","Lorette",N,N,"",1,391,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46008,Provencher","Provencher"," 66","Lorette",N,N,"",1,391,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+46008,Provencher","Provencher"," 66","Lorette",N,N,"",1,391,"Toews","","Vic","Conservative","Conservateur",Y,Y,138
+46008,Provencher","Provencher"," 67","Landmark",N,N,"",4,704,"Gibson","","Janine","Green Party","Parti Vert",N,N,23
+46008,Provencher","Provencher"," 67","Landmark",N,N,"",4,704,"Hiebert","","Shirley","Liberal","Libéral",N,N,20
+46008,Provencher","Provencher"," 67","Landmark",N,N,"",4,704,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46008,Provencher","Provencher"," 67","Landmark",N,N,"",4,704,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+46008,Provencher","Provencher"," 67","Landmark",N,N,"",4,704,"Toews","","Vic","Conservative","Conservateur",Y,Y,267
+46008,Provencher","Provencher"," 68","Taché",N,N,"",1,414,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 68","Taché",N,N,"",1,414,"Hiebert","","Shirley","Liberal","Libéral",N,N,21
+46008,Provencher","Provencher"," 68","Taché",N,N,"",1,414,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46008,Provencher","Provencher"," 68","Taché",N,N,"",1,414,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 68","Taché",N,N,"",1,414,"Toews","","Vic","Conservative","Conservateur",Y,Y,173
+46008,Provencher","Provencher"," 69","Linden",N,N,"",0,223,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 69","Linden",N,N,"",0,223,"Hiebert","","Shirley","Liberal","Libéral",N,N,8
+46008,Provencher","Provencher"," 69","Linden",N,N,"",0,223,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,Provencher","Provencher"," 69","Linden",N,N,"",0,223,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 69","Linden",N,N,"",0,223,"Toews","","Vic","Conservative","Conservateur",Y,Y,77
+46008,Provencher","Provencher"," 70","Ste. Anne",N,N,"",1,336,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 70","Ste. Anne",N,N,"",1,336,"Hiebert","","Shirley","Liberal","Libéral",N,N,15
+46008,Provencher","Provencher"," 70","Ste. Anne",N,N,"",1,336,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,Provencher","Provencher"," 70","Ste. Anne",N,N,"",1,336,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 70","Ste. Anne",N,N,"",1,336,"Toews","","Vic","Conservative","Conservateur",Y,Y,71
+46008,Provencher","Provencher"," 71","Ste. Anne",N,N,"",1,243,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 71","Ste. Anne",N,N,"",1,243,"Hiebert","","Shirley","Liberal","Libéral",N,N,37
+46008,Provencher","Provencher"," 71","Ste. Anne",N,N,"",1,243,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,Provencher","Provencher"," 71","Ste. Anne",N,N,"",1,243,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 71","Ste. Anne",N,N,"",1,243,"Toews","","Vic","Conservative","Conservateur",Y,Y,38
+46008,Provencher","Provencher"," 72","Ste. Anne",N,N,"",7,522,"Gibson","","Janine","Green Party","Parti Vert",N,N,18
+46008,Provencher","Provencher"," 72","Ste. Anne",N,N,"",7,522,"Hiebert","","Shirley","Liberal","Libéral",N,N,72
+46008,Provencher","Provencher"," 72","Ste. Anne",N,N,"",7,522,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46008,Provencher","Provencher"," 72","Ste. Anne",N,N,"",7,522,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 72","Ste. Anne",N,N,"",7,522,"Toews","","Vic","Conservative","Conservateur",Y,Y,127
+46008,Provencher","Provencher"," 73","Ste. Anne",N,N,"",2,436,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 73","Ste. Anne",N,N,"",2,436,"Hiebert","","Shirley","Liberal","Libéral",N,N,57
+46008,Provencher","Provencher"," 73","Ste. Anne",N,N,"",2,436,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46008,Provencher","Provencher"," 73","Ste. Anne",N,N,"",2,436,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 73","Ste. Anne",N,N,"",2,436,"Toews","","Vic","Conservative","Conservateur",Y,Y,87
+46008,Provencher","Provencher"," 74","Ste. Anne",N,N,"",0,206,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 74","Ste. Anne",N,N,"",0,206,"Hiebert","","Shirley","Liberal","Libéral",N,N,36
+46008,Provencher","Provencher"," 74","Ste. Anne",N,N,"",0,206,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,Provencher","Provencher"," 74","Ste. Anne",N,N,"",0,206,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+46008,Provencher","Provencher"," 74","Ste. Anne",N,N,"",0,206,"Toews","","Vic","Conservative","Conservateur",Y,Y,45
+46008,Provencher","Provencher"," 75","Ste-Geneviève",N,N,"",0,685,"Gibson","","Janine","Green Party","Parti Vert",N,N,36
+46008,Provencher","Provencher"," 75","Ste-Geneviève",N,N,"",0,685,"Hiebert","","Shirley","Liberal","Libéral",N,N,67
+46008,Provencher","Provencher"," 75","Ste-Geneviève",N,N,"",0,685,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+46008,Provencher","Provencher"," 75","Ste-Geneviève",N,N,"",0,685,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+46008,Provencher","Provencher"," 75","Ste-Geneviève",N,N,"",0,685,"Toews","","Vic","Conservative","Conservateur",Y,Y,180
+46008,Provencher","Provencher"," 76","Paradise Village",N,N,"",0,470,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 76","Paradise Village",N,N,"",0,470,"Hiebert","","Shirley","Liberal","Libéral",N,N,51
+46008,Provencher","Provencher"," 76","Paradise Village",N,N,"",0,470,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46008,Provencher","Provencher"," 76","Paradise Village",N,N,"",0,470,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 76","Paradise Village",N,N,"",0,470,"Toews","","Vic","Conservative","Conservateur",Y,Y,234
+46008,Provencher","Provencher"," 77","Ste. Anne",N,N,"",2,433,"Gibson","","Janine","Green Party","Parti Vert",N,N,29
+46008,Provencher","Provencher"," 77","Ste. Anne",N,N,"",2,433,"Hiebert","","Shirley","Liberal","Libéral",N,N,40
+46008,Provencher","Provencher"," 77","Ste. Anne",N,N,"",2,433,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+46008,Provencher","Provencher"," 77","Ste. Anne",N,N,"",2,433,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 77","Ste. Anne",N,N,"",2,433,"Toews","","Vic","Conservative","Conservateur",Y,Y,108
+46008,Provencher","Provencher"," 78","Richer",N,N,"",0,573,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 78","Richer",N,N,"",0,573,"Hiebert","","Shirley","Liberal","Libéral",N,N,39
+46008,Provencher","Provencher"," 78","Richer",N,N,"",0,573,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+46008,Provencher","Provencher"," 78","Richer",N,N,"",0,573,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 78","Richer",N,N,"",0,573,"Toews","","Vic","Conservative","Conservateur",Y,Y,122
+46008,Provencher","Provencher"," 79","Ross",N,N,"",2,359,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 79","Ross",N,N,"",2,359,"Hiebert","","Shirley","Liberal","Libéral",N,N,26
+46008,Provencher","Provencher"," 79","Ross",N,N,"",2,359,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46008,Provencher","Provencher"," 79","Ross",N,N,"",2,359,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 79","Ross",N,N,"",2,359,"Toews","","Vic","Conservative","Conservateur",Y,Y,89
+46008,Provencher","Provencher"," 80","Sperling",N,N,"",2,184,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 80","Sperling",N,N,"",2,184,"Hiebert","","Shirley","Liberal","Libéral",N,N,7
+46008,Provencher","Provencher"," 80","Sperling",N,N,"",2,184,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,Provencher","Provencher"," 80","Sperling",N,N,"",2,184,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 80","Sperling",N,N,"",2,184,"Toews","","Vic","Conservative","Conservateur",Y,Y,46
+46008,Provencher","Provencher"," 81","Rosenort",N,N,"",1,247,"Gibson","","Janine","Green Party","Parti Vert",N,N,3
+46008,Provencher","Provencher"," 81","Rosenort",N,N,"",1,247,"Hiebert","","Shirley","Liberal","Libéral",N,N,14
+46008,Provencher","Provencher"," 81","Rosenort",N,N,"",1,247,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,Provencher","Provencher"," 81","Rosenort",N,N,"",1,247,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 81","Rosenort",N,N,"",1,247,"Toews","","Vic","Conservative","Conservateur",Y,Y,131
+46008,Provencher","Provencher"," 82","Rosenort",N,N,"",0,519,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 82","Rosenort",N,N,"",0,519,"Hiebert","","Shirley","Liberal","Libéral",N,N,10
+46008,Provencher","Provencher"," 82","Rosenort",N,N,"",0,519,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,Provencher","Provencher"," 82","Rosenort",N,N,"",0,519,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,12
+46008,Provencher","Provencher"," 82","Rosenort",N,N,"",0,519,"Toews","","Vic","Conservative","Conservateur",Y,Y,223
+46008,Provencher","Provencher"," 83","Aubigny",N,N,"",0,114,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 83","Aubigny",N,N,"",0,114,"Hiebert","","Shirley","Liberal","Libéral",N,N,5
+46008,Provencher","Provencher"," 83","Aubigny",N,N,"",0,114,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,Provencher","Provencher"," 83","Aubigny",N,N,"",0,114,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 83","Aubigny",N,N,"",0,114,"Toews","","Vic","Conservative","Conservateur",Y,Y,47
+46008,Provencher","Provencher"," 84","Morris",N,N,"",1,398,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 84","Morris",N,N,"",1,398,"Hiebert","","Shirley","Liberal","Libéral",N,N,22
+46008,Provencher","Provencher"," 84","Morris",N,N,"",1,398,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,Provencher","Provencher"," 84","Morris",N,N,"",1,398,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 84","Morris",N,N,"",1,398,"Toews","","Vic","Conservative","Conservateur",Y,Y,180
+46008,Provencher","Provencher"," 85","Lowe Farm",N,N,"",2,446,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 85","Lowe Farm",N,N,"",2,446,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 85","Lowe Farm",N,N,"",2,446,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,Provencher","Provencher"," 85","Lowe Farm",N,N,"",2,446,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,26
+46008,Provencher","Provencher"," 85","Lowe Farm",N,N,"",2,446,"Toews","","Vic","Conservative","Conservateur",Y,Y,153
+46008,Provencher","Provencher"," 86","Morris",N,N,"",1,391,"Gibson","","Janine","Green Party","Parti Vert",N,N,18
+46008,Provencher","Provencher"," 86","Morris",N,N,"",1,391,"Hiebert","","Shirley","Liberal","Libéral",N,N,27
+46008,Provencher","Provencher"," 86","Morris",N,N,"",1,391,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46008,Provencher","Provencher"," 86","Morris",N,N,"",1,391,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+46008,Provencher","Provencher"," 86","Morris",N,N,"",1,391,"Toews","","Vic","Conservative","Conservateur",Y,Y,127
+46008,Provencher","Provencher"," 87","Morris",N,N,"",0,317,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 87","Morris",N,N,"",0,317,"Hiebert","","Shirley","Liberal","Libéral",N,N,23
+46008,Provencher","Provencher"," 87","Morris",N,N,"",0,317,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46008,Provencher","Provencher"," 87","Morris",N,N,"",0,317,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 87","Morris",N,N,"",0,317,"Toews","","Vic","Conservative","Conservateur",Y,Y,138
+46008,Provencher","Provencher"," 88","Morris",N,N,"",1,300,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 88","Morris",N,N,"",1,300,"Hiebert","","Shirley","Liberal","Libéral",N,N,14
+46008,Provencher","Provencher"," 88","Morris",N,N,"",1,300,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,Provencher","Provencher"," 88","Morris",N,N,"",1,300,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 88","Morris",N,N,"",1,300,"Toews","","Vic","Conservative","Conservateur",Y,Y,158
+46008,Provencher","Provencher"," 89","St. Jean Baptiste",N,N,"",0,185,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 89","St. Jean Baptiste",N,N,"",0,185,"Hiebert","","Shirley","Liberal","Libéral",N,N,29
+46008,Provencher","Provencher"," 89","St. Jean Baptiste",N,N,"",0,185,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,Provencher","Provencher"," 89","St. Jean Baptiste",N,N,"",0,185,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 89","St. Jean Baptiste",N,N,"",0,185,"Toews","","Vic","Conservative","Conservateur",Y,Y,68
+46008,Provencher","Provencher"," 90","St. Jean Baptiste",N,N,"",1,338,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 90","St. Jean Baptiste",N,N,"",1,338,"Hiebert","","Shirley","Liberal","Libéral",N,N,46
+46008,Provencher","Provencher"," 90","St. Jean Baptiste",N,N,"",1,338,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,Provencher","Provencher"," 90","St. Jean Baptiste",N,N,"",1,338,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 90","St. Jean Baptiste",N,N,"",1,338,"Toews","","Vic","Conservative","Conservateur",Y,Y,105
+46008,Provencher","Provencher"," 91","Roseau River Reserve",N,N,"",1,298,"Gibson","","Janine","Green Party","Parti Vert",N,N,3
+46008,Provencher","Provencher"," 91","Roseau River Reserve",N,N,"",1,298,"Hiebert","","Shirley","Liberal","Libéral",N,N,32
+46008,Provencher","Provencher"," 91","Roseau River Reserve",N,N,"",1,298,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46008,Provencher","Provencher"," 91","Roseau River Reserve",N,N,"",1,298,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 91","Roseau River Reserve",N,N,"",1,298,"Toews","","Vic","Conservative","Conservateur",Y,Y,16
+46008,Provencher","Provencher"," 92","Letellier",N,N,"",2,336,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 92","Letellier",N,N,"",2,336,"Hiebert","","Shirley","Liberal","Libéral",N,N,43
+46008,Provencher","Provencher"," 92","Letellier",N,N,"",2,336,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46008,Provencher","Provencher"," 92","Letellier",N,N,"",2,336,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 92","Letellier",N,N,"",2,336,"Toews","","Vic","Conservative","Conservateur",Y,Y,80
+46008,Provencher","Provencher"," 93","Emerson",N,N,"",4,334,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 93","Emerson",N,N,"",4,334,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 93","Emerson",N,N,"",4,334,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46008,Provencher","Provencher"," 93","Emerson",N,N,"",4,334,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 93","Emerson",N,N,"",4,334,"Toews","","Vic","Conservative","Conservateur",Y,Y,124
+46008,Provencher","Provencher"," 94","Emerson",N,N,"",1,231,"Gibson","","Janine","Green Party","Parti Vert",N,N,11
+46008,Provencher","Provencher"," 94","Emerson",N,N,"",1,231,"Hiebert","","Shirley","Liberal","Libéral",N,N,11
+46008,Provencher","Provencher"," 94","Emerson",N,N,"",1,231,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,Provencher","Provencher"," 94","Emerson",N,N,"",1,231,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 94","Emerson",N,N,"",1,231,"Toews","","Vic","Conservative","Conservateur",Y,Y,89
+46008,Provencher","Provencher"," 95","Dominion City",N,N,"",1,509,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 95","Dominion City",N,N,"",1,509,"Hiebert","","Shirley","Liberal","Libéral",N,N,23
+46008,Provencher","Provencher"," 95","Dominion City",N,N,"",1,509,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,Provencher","Provencher"," 95","Dominion City",N,N,"",1,509,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 95","Dominion City",N,N,"",1,509,"Toews","","Vic","Conservative","Conservateur",Y,Y,205
+46008,Provencher","Provencher"," 96","Dufrost",N,N,"",1,151,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 96","Dufrost",N,N,"",1,151,"Hiebert","","Shirley","Liberal","Libéral",N,N,25
+46008,Provencher","Provencher"," 96","Dufrost",N,N,"",1,151,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,Provencher","Provencher"," 96","Dufrost",N,N,"",1,151,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 96","Dufrost",N,N,"",1,151,"Toews","","Vic","Conservative","Conservateur",Y,Y,61
+46008,Provencher","Provencher"," 97","Rat River Settlement",N,N,"",0,466,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 97","Rat River Settlement",N,N,"",0,466,"Hiebert","","Shirley","Liberal","Libéral",N,N,32
+46008,Provencher","Provencher"," 97","Rat River Settlement",N,N,"",0,466,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,Provencher","Provencher"," 97","Rat River Settlement",N,N,"",0,466,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 97","Rat River Settlement",N,N,"",0,466,"Toews","","Vic","Conservative","Conservateur",Y,Y,97
+46008,Provencher","Provencher"," 98","Otterburne",N,N,"",0,395,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 98","Otterburne",N,N,"",0,395,"Hiebert","","Shirley","Liberal","Libéral",N,N,52
+46008,Provencher","Provencher"," 98","Otterburne",N,N,"",0,395,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,Provencher","Provencher"," 98","Otterburne",N,N,"",0,395,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+46008,Provencher","Provencher"," 98","Otterburne",N,N,"",0,395,"Toews","","Vic","Conservative","Conservateur",Y,Y,142
+46008,Provencher","Provencher"," 99","St-Pierre-Jolys",N,N,"",3,428,"Gibson","","Janine","Green Party","Parti Vert",N,N,23
+46008,Provencher","Provencher"," 99","St-Pierre-Jolys",N,N,"",3,428,"Hiebert","","Shirley","Liberal","Libéral",N,N,71
+46008,Provencher","Provencher"," 99","St-Pierre-Jolys",N,N,"",3,428,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46008,Provencher","Provencher"," 99","St-Pierre-Jolys",N,N,"",3,428,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+46008,Provencher","Provencher"," 99","St-Pierre-Jolys",N,N,"",3,428,"Toews","","Vic","Conservative","Conservateur",Y,Y,112
+46008,Provencher","Provencher"," 100","St-Pierre-Jolys",N,N,"",1,269,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 100","St-Pierre-Jolys",N,N,"",1,269,"Hiebert","","Shirley","Liberal","Libéral",N,N,50
+46008,Provencher","Provencher"," 100","St-Pierre-Jolys",N,N,"",1,269,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46008,Provencher","Provencher"," 100","St-Pierre-Jolys",N,N,"",1,269,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 100","St-Pierre-Jolys",N,N,"",1,269,"Toews","","Vic","Conservative","Conservateur",Y,Y,79
+46008,Provencher","Provencher"," 101","St. Malo",N,N,"",0,406,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 101","St. Malo",N,N,"",0,406,"Hiebert","","Shirley","Liberal","Libéral",N,N,47
+46008,Provencher","Provencher"," 101","St. Malo",N,N,"",0,406,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46008,Provencher","Provencher"," 101","St. Malo",N,N,"",0,406,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 101","St. Malo",N,N,"",0,406,"Toews","","Vic","Conservative","Conservateur",Y,Y,111
+46008,Provencher","Provencher"," 102A","St. Malo",N,N,"",1,402,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 102A","St. Malo",N,N,"",1,402,"Hiebert","","Shirley","Liberal","Libéral",N,N,38
+46008,Provencher","Provencher"," 102A","St. Malo",N,N,"",1,402,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46008,Provencher","Provencher"," 102A","St. Malo",N,N,"",1,402,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 102A","St. Malo",N,N,"",1,402,"Toews","","Vic","Conservative","Conservateur",Y,Y,99
+46008,Provencher","Provencher"," 102B","Mobile poll/Bureau itinérant",N,N,"505",0,85,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 102B","Mobile poll/Bureau itinérant",N,N,"505",0,85,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 102B","Mobile poll/Bureau itinérant",N,N,"505",0,85,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 102B","Mobile poll/Bureau itinérant",N,N,"505",0,85,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 102B","Mobile poll/Bureau itinérant",N,N,"505",0,85,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 103","St. Malo",N,N,"",0,285,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 103","St. Malo",N,N,"",0,285,"Hiebert","","Shirley","Liberal","Libéral",N,N,39
+46008,Provencher","Provencher"," 103","St. Malo",N,N,"",0,285,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46008,Provencher","Provencher"," 103","St. Malo",N,N,"",0,285,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 103","St. Malo",N,N,"",0,285,"Toews","","Vic","Conservative","Conservateur",Y,Y,116
+46008,Provencher","Provencher"," 104","Ridgeville",N,N,"",0,264,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 104","Ridgeville",N,N,"",0,264,"Hiebert","","Shirley","Liberal","Libéral",N,N,27
+46008,Provencher","Provencher"," 104","Ridgeville",N,N,"",0,264,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,Provencher","Provencher"," 104","Ridgeville",N,N,"",0,264,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 104","Ridgeville",N,N,"",0,264,"Toews","","Vic","Conservative","Conservateur",Y,Y,71
+46008,Provencher","Provencher"," 105","Rosa",N,N,"",0,261,"Gibson","","Janine","Green Party","Parti Vert",N,N,2
+46008,Provencher","Provencher"," 105","Rosa",N,N,"",0,261,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 105","Rosa",N,N,"",0,261,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,Provencher","Provencher"," 105","Rosa",N,N,"",0,261,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 105","Rosa",N,N,"",0,261,"Toews","","Vic","Conservative","Conservateur",Y,Y,111
+46008,Provencher","Provencher"," 106","Stuartburn",N,N,"",0,294,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 106","Stuartburn",N,N,"",0,294,"Hiebert","","Shirley","Liberal","Libéral",N,N,6
+46008,Provencher","Provencher"," 106","Stuartburn",N,N,"",0,294,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,Provencher","Provencher"," 106","Stuartburn",N,N,"",0,294,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+46008,Provencher","Provencher"," 106","Stuartburn",N,N,"",0,294,"Toews","","Vic","Conservative","Conservateur",Y,Y,99
+46008,Provencher","Provencher"," 107","Tolstoi",N,N,"",1,245,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 107","Tolstoi",N,N,"",1,245,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 107","Tolstoi",N,N,"",1,245,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46008,Provencher","Provencher"," 107","Tolstoi",N,N,"",1,245,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+46008,Provencher","Provencher"," 107","Tolstoi",N,N,"",1,245,"Toews","","Vic","Conservative","Conservateur",Y,Y,77
+46008,Provencher","Provencher"," 108","Vita",N,N,"",0,292,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 108","Vita",N,N,"",0,292,"Hiebert","","Shirley","Liberal","Libéral",N,N,28
+46008,Provencher","Provencher"," 108","Vita",N,N,"",0,292,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,Provencher","Provencher"," 108","Vita",N,N,"",0,292,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 108","Vita",N,N,"",0,292,"Toews","","Vic","Conservative","Conservateur",Y,Y,105
+46008,Provencher","Provencher"," 109","Vita",N,N,"",1,223,"Gibson","","Janine","Green Party","Parti Vert",N,N,3
+46008,Provencher","Provencher"," 109","Vita",N,N,"",1,223,"Hiebert","","Shirley","Liberal","Libéral",N,N,25
+46008,Provencher","Provencher"," 109","Vita",N,N,"",1,223,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46008,Provencher","Provencher"," 109","Vita",N,N,"",1,223,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+46008,Provencher","Provencher"," 109","Vita",N,N,"",1,223,"Toews","","Vic","Conservative","Conservateur",Y,Y,66
+46008,Provencher","Provencher"," 110","Zhoda",N,N,"",0,188,"Gibson","","Janine","Green Party","Parti Vert",N,N,5
+46008,Provencher","Provencher"," 110","Zhoda",N,N,"",0,188,"Hiebert","","Shirley","Liberal","Libéral",N,N,13
+46008,Provencher","Provencher"," 110","Zhoda",N,N,"",0,188,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,Provencher","Provencher"," 110","Zhoda",N,N,"",0,188,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 110","Zhoda",N,N,"",0,188,"Toews","","Vic","Conservative","Conservateur",Y,Y,52
+46008,Provencher","Provencher"," 111","Pansy",N,N,"",0,196,"Gibson","","Janine","Green Party","Parti Vert",N,N,11
+46008,Provencher","Provencher"," 111","Pansy",N,N,"",0,196,"Hiebert","","Shirley","Liberal","Libéral",N,N,4
+46008,Provencher","Provencher"," 111","Pansy",N,N,"",0,196,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,Provencher","Provencher"," 111","Pansy",N,N,"",0,196,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+46008,Provencher","Provencher"," 111","Pansy",N,N,"",0,196,"Toews","","Vic","Conservative","Conservateur",Y,Y,83
+46008,Provencher","Provencher"," 112","Barkfield",N,N,"",0,406,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 112","Barkfield",N,N,"",0,406,"Hiebert","","Shirley","Liberal","Libéral",N,N,9
+46008,Provencher","Provencher"," 112","Barkfield",N,N,"",0,406,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,Provencher","Provencher"," 112","Barkfield",N,N,"",0,406,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 112","Barkfield",N,N,"",0,406,"Toews","","Vic","Conservative","Conservateur",Y,Y,200
+46008,Provencher","Provencher"," 113","Grunthal",N,N,"",0,532,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 113","Grunthal",N,N,"",0,532,"Hiebert","","Shirley","Liberal","Libéral",N,N,11
+46008,Provencher","Provencher"," 113","Grunthal",N,N,"",0,532,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,Provencher","Provencher"," 113","Grunthal",N,N,"",0,532,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+46008,Provencher","Provencher"," 113","Grunthal",N,N,"",0,532,"Toews","","Vic","Conservative","Conservateur",Y,Y,252
+46008,Provencher","Provencher"," 114","Grunthal",N,N,"",0,274,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 114","Grunthal",N,N,"",0,274,"Hiebert","","Shirley","Liberal","Libéral",N,N,4
+46008,Provencher","Provencher"," 114","Grunthal",N,N,"",0,274,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,Provencher","Provencher"," 114","Grunthal",N,N,"",0,274,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 114","Grunthal",N,N,"",0,274,"Toews","","Vic","Conservative","Conservateur",Y,Y,121
+46008,Provencher","Provencher"," 115","Grunthal",N,N,"",1,393,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 115","Grunthal",N,N,"",1,393,"Hiebert","","Shirley","Liberal","Libéral",N,N,4
+46008,Provencher","Provencher"," 115","Grunthal",N,N,"",1,393,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,Provencher","Provencher"," 115","Grunthal",N,N,"",1,393,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+46008,Provencher","Provencher"," 115","Grunthal",N,N,"",1,393,"Toews","","Vic","Conservative","Conservateur",Y,Y,186
+46008,Provencher","Provencher"," 116","Hochstadt",N,N,"",1,456,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 116","Hochstadt",N,N,"",1,456,"Hiebert","","Shirley","Liberal","Libéral",N,N,18
+46008,Provencher","Provencher"," 116","Hochstadt",N,N,"",1,456,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,Provencher","Provencher"," 116","Hochstadt",N,N,"",1,456,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,15
+46008,Provencher","Provencher"," 116","Hochstadt",N,N,"",1,456,"Toews","","Vic","Conservative","Conservateur",Y,Y,181
+46008,Provencher","Provencher"," 117","Kleefeld",N,N,"",0,606,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 117","Kleefeld",N,N,"",0,606,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 117","Kleefeld",N,N,"",0,606,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,Provencher","Provencher"," 117","Kleefeld",N,N,"",0,606,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,32
+46008,Provencher","Provencher"," 117","Kleefeld",N,N,"",0,606,"Toews","","Vic","Conservative","Conservateur",Y,Y,233
+46008,Provencher","Provencher"," 118","Randolph",N,N,"",0,312,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 118","Randolph",N,N,"",0,312,"Hiebert","","Shirley","Liberal","Libéral",N,N,13
+46008,Provencher","Provencher"," 118","Randolph",N,N,"",0,312,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,Provencher","Provencher"," 118","Randolph",N,N,"",0,312,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,12
+46008,Provencher","Provencher"," 118","Randolph",N,N,"",0,312,"Toews","","Vic","Conservative","Conservateur",Y,Y,119
+46008,Provencher","Provencher"," 119","Mitchell",N,N,"",0,483,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 119","Mitchell",N,N,"",0,483,"Hiebert","","Shirley","Liberal","Libéral",N,N,9
+46008,Provencher","Provencher"," 119","Mitchell",N,N,"",0,483,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,Provencher","Provencher"," 119","Mitchell",N,N,"",0,483,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,22
+46008,Provencher","Provencher"," 119","Mitchell",N,N,"",0,483,"Toews","","Vic","Conservative","Conservateur",Y,Y,230
+46008,Provencher","Provencher"," 120","Mitchell",N,N,"",2,434,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 120","Mitchell",N,N,"",2,434,"Hiebert","","Shirley","Liberal","Libéral",N,N,21
+46008,Provencher","Provencher"," 120","Mitchell",N,N,"",2,434,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,Provencher","Provencher"," 120","Mitchell",N,N,"",2,434,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,19
+46008,Provencher","Provencher"," 120","Mitchell",N,N,"",2,434,"Toews","","Vic","Conservative","Conservateur",Y,Y,186
+46008,Provencher","Provencher"," 121","Hanover",N,N,"",1,378,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 121","Hanover",N,N,"",1,378,"Hiebert","","Shirley","Liberal","Libéral",N,N,9
+46008,Provencher","Provencher"," 121","Hanover",N,N,"",1,378,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,Provencher","Provencher"," 121","Hanover",N,N,"",1,378,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 121","Hanover",N,N,"",1,378,"Toews","","Vic","Conservative","Conservateur",Y,Y,139
+46008,Provencher","Provencher"," 122","Bristol",N,N,"",0,327,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 122","Bristol",N,N,"",0,327,"Hiebert","","Shirley","Liberal","Libéral",N,N,17
+46008,Provencher","Provencher"," 122","Bristol",N,N,"",0,327,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,Provencher","Provencher"," 122","Bristol",N,N,"",0,327,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,15
+46008,Provencher","Provencher"," 122","Bristol",N,N,"",0,327,"Toews","","Vic","Conservative","Conservateur",Y,Y,145
+46008,Provencher","Provencher"," 123","Sarto",N,N,"",2,346,"Gibson","","Janine","Green Party","Parti Vert",N,N,14
+46008,Provencher","Provencher"," 123","Sarto",N,N,"",2,346,"Hiebert","","Shirley","Liberal","Libéral",N,N,8
+46008,Provencher","Provencher"," 123","Sarto",N,N,"",2,346,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,Provencher","Provencher"," 123","Sarto",N,N,"",2,346,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 123","Sarto",N,N,"",2,346,"Toews","","Vic","Conservative","Conservateur",Y,Y,120
+46008,Provencher","Provencher"," 124","Sarto",N,N,"",1,257,"Gibson","","Janine","Green Party","Parti Vert",N,N,21
+46008,Provencher","Provencher"," 124","Sarto",N,N,"",1,257,"Hiebert","","Shirley","Liberal","Libéral",N,N,7
+46008,Provencher","Provencher"," 124","Sarto",N,N,"",1,257,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,Provencher","Provencher"," 124","Sarto",N,N,"",1,257,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 124","Sarto",N,N,"",1,257,"Toews","","Vic","Conservative","Conservateur",Y,Y,101
+46008,Provencher","Provencher"," 125","Friedensfeld",N,N,"",0,319,"Gibson","","Janine","Green Party","Parti Vert",N,N,14
+46008,Provencher","Provencher"," 125","Friedensfeld",N,N,"",0,319,"Hiebert","","Shirley","Liberal","Libéral",N,N,7
+46008,Provencher","Provencher"," 125","Friedensfeld",N,N,"",0,319,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,Provencher","Provencher"," 125","Friedensfeld",N,N,"",0,319,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 125","Friedensfeld",N,N,"",0,319,"Toews","","Vic","Conservative","Conservateur",Y,Y,113
+46008,Provencher","Provencher"," 126","Steinbach",N,N,"",2,953,"Gibson","","Janine","Green Party","Parti Vert",N,N,17
+46008,Provencher","Provencher"," 126","Steinbach",N,N,"",2,953,"Hiebert","","Shirley","Liberal","Libéral",N,N,35
+46008,Provencher","Provencher"," 126","Steinbach",N,N,"",2,953,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46008,Provencher","Provencher"," 126","Steinbach",N,N,"",2,953,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,28
+46008,Provencher","Provencher"," 126","Steinbach",N,N,"",2,953,"Toews","","Vic","Conservative","Conservateur",Y,Y,359
+46008,Provencher","Provencher"," 127","Blumenort",N,N,"",1,464,"Gibson","","Janine","Green Party","Parti Vert",N,N,1
+46008,Provencher","Provencher"," 127","Blumenort",N,N,"",1,464,"Hiebert","","Shirley","Liberal","Libéral",N,N,6
+46008,Provencher","Provencher"," 127","Blumenort",N,N,"",1,464,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,Provencher","Provencher"," 127","Blumenort",N,N,"",1,464,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,24
+46008,Provencher","Provencher"," 127","Blumenort",N,N,"",1,464,"Toews","","Vic","Conservative","Conservateur",Y,Y,230
+46008,Provencher","Provencher"," 128","Blumenort",N,N,"",0,560,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 128","Blumenort",N,N,"",0,560,"Hiebert","","Shirley","Liberal","Libéral",N,N,8
+46008,Provencher","Provencher"," 128","Blumenort",N,N,"",0,560,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,Provencher","Provencher"," 128","Blumenort",N,N,"",0,560,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,35
+46008,Provencher","Provencher"," 128","Blumenort",N,N,"",0,560,"Toews","","Vic","Conservative","Conservateur",Y,Y,201
+46008,Provencher","Provencher"," 129","Giroux",N,N,"",1,367,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 129","Giroux",N,N,"",1,367,"Hiebert","","Shirley","Liberal","Libéral",N,N,29
+46008,Provencher","Provencher"," 129","Giroux",N,N,"",1,367,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,Provencher","Provencher"," 129","Giroux",N,N,"",1,367,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 129","Giroux",N,N,"",1,367,"Toews","","Vic","Conservative","Conservateur",Y,Y,114
+46008,Provencher","Provencher"," 130","La Broquerie",N,N,"",2,574,"Gibson","","Janine","Green Party","Parti Vert",N,N,25
+46008,Provencher","Provencher"," 130","La Broquerie",N,N,"",2,574,"Hiebert","","Shirley","Liberal","Libéral",N,N,89
+46008,Provencher","Provencher"," 130","La Broquerie",N,N,"",2,574,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46008,Provencher","Provencher"," 130","La Broquerie",N,N,"",2,574,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,14
+46008,Provencher","Provencher"," 130","La Broquerie",N,N,"",2,574,"Toews","","Vic","Conservative","Conservateur",Y,Y,141
+46008,Provencher","Provencher"," 131","La Broquerie",N,N,"",0,520,"Gibson","","Janine","Green Party","Parti Vert",N,N,30
+46008,Provencher","Provencher"," 131","La Broquerie",N,N,"",0,520,"Hiebert","","Shirley","Liberal","Libéral",N,N,82
+46008,Provencher","Provencher"," 131","La Broquerie",N,N,"",0,520,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,Provencher","Provencher"," 131","La Broquerie",N,N,"",0,520,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,12
+46008,Provencher","Provencher"," 131","La Broquerie",N,N,"",0,520,"Toews","","Vic","Conservative","Conservateur",Y,Y,124
+46008,Provencher","Provencher"," 132","Marchand",N,N,"",0,349,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 132","Marchand",N,N,"",0,349,"Hiebert","","Shirley","Liberal","Libéral",N,N,26
+46008,Provencher","Provencher"," 132","Marchand",N,N,"",0,349,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46008,Provencher","Provencher"," 132","Marchand",N,N,"",0,349,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+46008,Provencher","Provencher"," 132","Marchand",N,N,"",0,349,"Toews","","Vic","Conservative","Conservateur",Y,Y,98
+46008,Provencher","Provencher"," 133","Steinbach",N,N,"",3,765,"Gibson","","Janine","Green Party","Parti Vert",N,N,19
+46008,Provencher","Provencher"," 133","Steinbach",N,N,"",3,765,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 133","Steinbach",N,N,"",3,765,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46008,Provencher","Provencher"," 133","Steinbach",N,N,"",3,765,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,24
+46008,Provencher","Provencher"," 133","Steinbach",N,N,"",3,765,"Toews","","Vic","Conservative","Conservateur",Y,Y,284
+46008,Provencher","Provencher"," 134","Steinbach",N,N,"",1,431,"Gibson","","Janine","Green Party","Parti Vert",N,N,20
+46008,Provencher","Provencher"," 134","Steinbach",N,N,"",1,431,"Hiebert","","Shirley","Liberal","Libéral",N,N,10
+46008,Provencher","Provencher"," 134","Steinbach",N,N,"",1,431,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,Provencher","Provencher"," 134","Steinbach",N,N,"",1,431,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,16
+46008,Provencher","Provencher"," 134","Steinbach",N,N,"",1,431,"Toews","","Vic","Conservative","Conservateur",Y,Y,173
+46008,Provencher","Provencher"," 135","Steinbach",N,N,"",0,314,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 135","Steinbach",N,N,"",0,314,"Hiebert","","Shirley","Liberal","Libéral",N,N,28
+46008,Provencher","Provencher"," 135","Steinbach",N,N,"",0,314,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46008,Provencher","Provencher"," 135","Steinbach",N,N,"",0,314,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,21
+46008,Provencher","Provencher"," 135","Steinbach",N,N,"",0,314,"Toews","","Vic","Conservative","Conservateur",Y,Y,208
+46008,Provencher","Provencher"," 136","Steinbach",N,N,"",0,533,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 136","Steinbach",N,N,"",0,533,"Hiebert","","Shirley","Liberal","Libéral",N,N,23
+46008,Provencher","Provencher"," 136","Steinbach",N,N,"",0,533,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,Provencher","Provencher"," 136","Steinbach",N,N,"",0,533,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 136","Steinbach",N,N,"",0,533,"Toews","","Vic","Conservative","Conservateur",Y,Y,210
+46008,Provencher","Provencher"," 137A","Steinbach",N,N,"",0,471,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 137A","Steinbach",N,N,"",0,471,"Hiebert","","Shirley","Liberal","Libéral",N,N,18
+46008,Provencher","Provencher"," 137A","Steinbach",N,N,"",0,471,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,Provencher","Provencher"," 137A","Steinbach",N,N,"",0,471,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,19
+46008,Provencher","Provencher"," 137A","Steinbach",N,N,"",0,471,"Toews","","Vic","Conservative","Conservateur",Y,Y,176
+46008,Provencher","Provencher"," 137B","Steinbach",N,N,"",4,577,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 137B","Steinbach",N,N,"",4,577,"Hiebert","","Shirley","Liberal","Libéral",N,N,17
+46008,Provencher","Provencher"," 137B","Steinbach",N,N,"",4,577,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,Provencher","Provencher"," 137B","Steinbach",N,N,"",4,577,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,15
+46008,Provencher","Provencher"," 137B","Steinbach",N,N,"",4,577,"Toews","","Vic","Conservative","Conservateur",Y,Y,222
+46008,Provencher","Provencher"," 138","Steinbach",N,N,"",0,333,"Gibson","","Janine","Green Party","Parti Vert",N,N,16
+46008,Provencher","Provencher"," 138","Steinbach",N,N,"",0,333,"Hiebert","","Shirley","Liberal","Libéral",N,N,15
+46008,Provencher","Provencher"," 138","Steinbach",N,N,"",0,333,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,Provencher","Provencher"," 138","Steinbach",N,N,"",0,333,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+46008,Provencher","Provencher"," 138","Steinbach",N,N,"",0,333,"Toews","","Vic","Conservative","Conservateur",Y,Y,122
+46008,Provencher","Provencher"," 139","Steinbach",N,N,"135",0,261,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 139","Steinbach",N,N,"135",0,261,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 139","Steinbach",N,N,"135",0,261,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 139","Steinbach",N,N,"135",0,261,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 139","Steinbach",N,N,"135",0,261,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 140","Steinbach",N,N,"",0,341,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 140","Steinbach",N,N,"",0,341,"Hiebert","","Shirley","Liberal","Libéral",N,N,19
+46008,Provencher","Provencher"," 140","Steinbach",N,N,"",0,341,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,Provencher","Provencher"," 140","Steinbach",N,N,"",0,341,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,20
+46008,Provencher","Provencher"," 140","Steinbach",N,N,"",0,341,"Toews","","Vic","Conservative","Conservateur",Y,Y,124
+46008,Provencher","Provencher"," 141","Steinbach",N,N,"",4,348,"Gibson","","Janine","Green Party","Parti Vert",N,N,20
+46008,Provencher","Provencher"," 141","Steinbach",N,N,"",4,348,"Hiebert","","Shirley","Liberal","Libéral",N,N,41
+46008,Provencher","Provencher"," 141","Steinbach",N,N,"",4,348,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46008,Provencher","Provencher"," 141","Steinbach",N,N,"",4,348,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,19
+46008,Provencher","Provencher"," 141","Steinbach",N,N,"",4,348,"Toews","","Vic","Conservative","Conservateur",Y,Y,159
+46008,Provencher","Provencher"," 142","Steinbach",N,N,"",0,463,"Gibson","","Janine","Green Party","Parti Vert",N,N,9
+46008,Provencher","Provencher"," 142","Steinbach",N,N,"",0,463,"Hiebert","","Shirley","Liberal","Libéral",N,N,45
+46008,Provencher","Provencher"," 142","Steinbach",N,N,"",0,463,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,Provencher","Provencher"," 142","Steinbach",N,N,"",0,463,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,12
+46008,Provencher","Provencher"," 142","Steinbach",N,N,"",0,463,"Toews","","Vic","Conservative","Conservateur",Y,Y,168
+46008,Provencher","Provencher"," 143","Steinbach",N,N,"141",0,204,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 143","Steinbach",N,N,"141",0,204,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 143","Steinbach",N,N,"141",0,204,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,Provencher","Provencher"," 143","Steinbach",N,N,"141",0,204,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 143","Steinbach",N,N,"141",0,204,"Toews","","Vic","Conservative","Conservateur",Y,Y,0
+46008,Provencher","Provencher"," 144","Steinbach",N,N,"",1,313,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 144","Steinbach",N,N,"",1,313,"Hiebert","","Shirley","Liberal","Libéral",N,N,10
+46008,Provencher","Provencher"," 144","Steinbach",N,N,"",1,313,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,Provencher","Provencher"," 144","Steinbach",N,N,"",1,313,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+46008,Provencher","Provencher"," 144","Steinbach",N,N,"",1,313,"Toews","","Vic","Conservative","Conservateur",Y,Y,88
+46008,Provencher","Provencher"," 145","Steinbach",N,N,"",0,345,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 145","Steinbach",N,N,"",0,345,"Hiebert","","Shirley","Liberal","Libéral",N,N,15
+46008,Provencher","Provencher"," 145","Steinbach",N,N,"",0,345,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,Provencher","Provencher"," 145","Steinbach",N,N,"",0,345,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+46008,Provencher","Provencher"," 145","Steinbach",N,N,"",0,345,"Toews","","Vic","Conservative","Conservateur",Y,Y,133
+46008,Provencher","Provencher"," 146","Steinbach",N,N,"",0,664,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 146","Steinbach",N,N,"",0,664,"Hiebert","","Shirley","Liberal","Libéral",N,N,24
+46008,Provencher","Provencher"," 146","Steinbach",N,N,"",0,664,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,Provencher","Provencher"," 146","Steinbach",N,N,"",0,664,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+46008,Provencher","Provencher"," 146","Steinbach",N,N,"",0,664,"Toews","","Vic","Conservative","Conservateur",Y,Y,226
+46008,Provencher","Provencher"," 147","Steinbach",N,N,"",1,501,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 147","Steinbach",N,N,"",1,501,"Hiebert","","Shirley","Liberal","Libéral",N,N,19
+46008,Provencher","Provencher"," 147","Steinbach",N,N,"",1,501,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,Provencher","Provencher"," 147","Steinbach",N,N,"",1,501,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,23
+46008,Provencher","Provencher"," 147","Steinbach",N,N,"",1,501,"Toews","","Vic","Conservative","Conservateur",Y,Y,174
+46008,Provencher","Provencher"," 148","Steinbach",N,N,"",1,580,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 148","Steinbach",N,N,"",1,580,"Hiebert","","Shirley","Liberal","Libéral",N,N,26
+46008,Provencher","Provencher"," 148","Steinbach",N,N,"",1,580,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46008,Provencher","Provencher"," 148","Steinbach",N,N,"",1,580,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,16
+46008,Provencher","Provencher"," 148","Steinbach",N,N,"",1,580,"Toews","","Vic","Conservative","Conservateur",Y,Y,193
+46008,Provencher","Provencher"," 149","Woodridge",N,N,"",0,337,"Gibson","","Janine","Green Party","Parti Vert",N,N,14
+46008,Provencher","Provencher"," 149","Woodridge",N,N,"",0,337,"Hiebert","","Shirley","Liberal","Libéral",N,N,40
+46008,Provencher","Provencher"," 149","Woodridge",N,N,"",0,337,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,Provencher","Provencher"," 149","Woodridge",N,N,"",0,337,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 149","Woodridge",N,N,"",0,337,"Toews","","Vic","Conservative","Conservateur",Y,Y,104
+46008,Provencher","Provencher"," 150","Sundown",N,N,"",0,185,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 150","Sundown",N,N,"",0,185,"Hiebert","","Shirley","Liberal","Libéral",N,N,14
+46008,Provencher","Provencher"," 150","Sundown",N,N,"",0,185,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,Provencher","Provencher"," 150","Sundown",N,N,"",0,185,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 150","Sundown",N,N,"",0,185,"Toews","","Vic","Conservative","Conservateur",Y,Y,71
+46008,Provencher","Provencher"," 151","Piney",N,N,"",3,246,"Gibson","","Janine","Green Party","Parti Vert",N,N,8
+46008,Provencher","Provencher"," 151","Piney",N,N,"",3,246,"Hiebert","","Shirley","Liberal","Libéral",N,N,13
+46008,Provencher","Provencher"," 151","Piney",N,N,"",3,246,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,Provencher","Provencher"," 151","Piney",N,N,"",3,246,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 151","Piney",N,N,"",3,246,"Toews","","Vic","Conservative","Conservateur",Y,Y,71
+46008,Provencher","Provencher"," 152","Vassar",N,N,"",0,250,"Gibson","","Janine","Green Party","Parti Vert",N,N,6
+46008,Provencher","Provencher"," 152","Vassar",N,N,"",0,250,"Hiebert","","Shirley","Liberal","Libéral",N,N,27
+46008,Provencher","Provencher"," 152","Vassar",N,N,"",0,250,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46008,Provencher","Provencher"," 152","Vassar",N,N,"",0,250,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 152","Vassar",N,N,"",0,250,"Toews","","Vic","Conservative","Conservateur",Y,Y,67
+46008,Provencher","Provencher"," 153","Sprague",N,N,"",0,259,"Gibson","","Janine","Green Party","Parti Vert",N,N,5
+46008,Provencher","Provencher"," 153","Sprague",N,N,"",0,259,"Hiebert","","Shirley","Liberal","Libéral",N,N,10
+46008,Provencher","Provencher"," 153","Sprague",N,N,"",0,259,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,Provencher","Provencher"," 153","Sprague",N,N,"",0,259,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 153","Sprague",N,N,"",0,259,"Toews","","Vic","Conservative","Conservateur",Y,Y,97
+46008,Provencher","Provencher"," 154","Middleboro",N,N,"",0,192,"Gibson","","Janine","Green Party","Parti Vert",N,N,2
+46008,Provencher","Provencher"," 154","Middleboro",N,N,"",0,192,"Hiebert","","Shirley","Liberal","Libéral",N,N,22
+46008,Provencher","Provencher"," 154","Middleboro",N,N,"",0,192,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,Provencher","Provencher"," 154","Middleboro",N,N,"",0,192,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 154","Middleboro",N,N,"",0,192,"Toews","","Vic","Conservative","Conservateur",Y,Y,70
+46008,Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",1,119,"Gibson","","Janine","Green Party","Parti Vert",N,N,1
+46008,Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",1,119,"Hiebert","","Shirley","Liberal","Libéral",N,N,11
+46008,Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",1,119,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",1,119,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 500","Mobile poll/Bureau itinérant",N,N,"",1,119,"Toews","","Vic","Conservative","Conservateur",Y,Y,39
+46008,Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,131,"Gibson","","Janine","Green Party","Parti Vert",N,N,5
+46008,Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,131,"Hiebert","","Shirley","Liberal","Libéral",N,N,7
+46008,Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,131,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,131,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 501","Mobile poll/Bureau itinérant",N,N,"",0,131,"Toews","","Vic","Conservative","Conservateur",Y,Y,35
+46008,Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,118,"Gibson","","Janine","Green Party","Parti Vert",N,N,1
+46008,Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,118,"Hiebert","","Shirley","Liberal","Libéral",N,N,0
+46008,Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,118,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,118,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+46008,Provencher","Provencher"," 502","Mobile poll/Bureau itinérant",N,N,"",2,118,"Toews","","Vic","Conservative","Conservateur",Y,Y,54
+46008,Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,54,"Gibson","","Janine","Green Party","Parti Vert",N,N,0
+46008,Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,54,"Hiebert","","Shirley","Liberal","Libéral",N,N,7
+46008,Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,54,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,54,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 503","Mobile poll/Bureau itinérant",N,N,"",1,54,"Toews","","Vic","Conservative","Conservateur",Y,Y,16
+46008,Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",2,127,"Gibson","","Janine","Green Party","Parti Vert",N,N,2
+46008,Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",2,127,"Hiebert","","Shirley","Liberal","Libéral",N,N,16
+46008,Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",2,127,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",2,127,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 504","Mobile poll/Bureau itinérant",N,N,"",2,127,"Toews","","Vic","Conservative","Conservateur",Y,Y,29
+46008,Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",0,144,"Gibson","","Janine","Green Party","Parti Vert",N,N,3
+46008,Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",0,144,"Hiebert","","Shirley","Liberal","Libéral",N,N,55
+46008,Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",0,144,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",0,144,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 505","Mobile poll/Bureau itinérant",N,N,"",0,144,"Toews","","Vic","Conservative","Conservateur",Y,Y,45
+46008,Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",3,308,"Gibson","","Janine","Green Party","Parti Vert",N,N,2
+46008,Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",3,308,"Hiebert","","Shirley","Liberal","Libéral",N,N,11
+46008,Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",3,308,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",3,308,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,11
+46008,Provencher","Provencher"," 506","Mobile poll/Bureau itinérant",N,N,"",3,308,"Toews","","Vic","Conservative","Conservateur",Y,Y,171
+46008,Provencher","Provencher"," 507","Mobile poll/Bureau itinérant",N,N,"",1,132,"Gibson","","Janine","Green Party","Parti Vert",N,N,2
+46008,Provencher","Provencher"," 507","Mobile poll/Bureau itinérant",N,N,"",1,132,"Hiebert","","Shirley","Liberal","Libéral",N,N,8
+46008,Provencher","Provencher"," 507","Mobile poll/Bureau itinérant",N,N,"",1,132,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,Provencher","Provencher"," 507","Mobile poll/Bureau itinérant",N,N,"",1,132,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+46008,Provencher","Provencher"," 507","Mobile poll/Bureau itinérant",N,N,"",1,132,"Toews","","Vic","Conservative","Conservateur",Y,Y,55
+46008,Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",0,173,"Gibson","","Janine","Green Party","Parti Vert",N,N,5
+46008,Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",0,173,"Hiebert","","Shirley","Liberal","Libéral",N,N,61
+46008,Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",0,173,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",0,173,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 508","Mobile poll/Bureau itinérant",N,N,"",0,173,"Toews","","Vic","Conservative","Conservateur",Y,Y,32
+46008,Provencher","Provencher"," 600","Powerview--Pine Falls",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,3
+46008,Provencher","Provencher"," 600","Powerview--Pine Falls",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,4
+46008,Provencher","Provencher"," 600","Powerview--Pine Falls",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,Provencher","Provencher"," 600","Powerview--Pine Falls",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 600","Powerview--Pine Falls",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,55
+46008,Provencher","Provencher"," 601","Pinawa--Lac du Bonnet",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,18
+46008,Provencher","Provencher"," 601","Pinawa--Lac du Bonnet",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,26
+46008,Provencher","Provencher"," 601","Pinawa--Lac du Bonnet",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46008,Provencher","Provencher"," 601","Pinawa--Lac du Bonnet",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 601","Pinawa--Lac du Bonnet",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,220
+46008,Provencher","Provencher"," 602","Whitemouth--Reynolds",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,1
+46008,Provencher","Provencher"," 602","Whitemouth--Reynolds",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,1
+46008,Provencher","Provencher"," 602","Whitemouth--Reynolds",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,Provencher","Provencher"," 602","Whitemouth--Reynolds",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 602","Whitemouth--Reynolds",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,43
+46008,Provencher","Provencher"," 603","Oakbank--Springfield",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,22
+46008,Provencher","Provencher"," 603","Oakbank--Springfield",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,21
+46008,Provencher","Provencher"," 603","Oakbank--Springfield",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46008,Provencher","Provencher"," 603","Oakbank--Springfield",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 603","Oakbank--Springfield",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,209
+46008,Provencher","Provencher"," 604","Niverville--Ritchot",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 604","Niverville--Ritchot",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,17
+46008,Provencher","Provencher"," 604","Niverville--Ritchot",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,Provencher","Provencher"," 604","Niverville--Ritchot",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+46008,Provencher","Provencher"," 604","Niverville--Ritchot",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,115
+46008,Provencher","Provencher"," 605","Taché--Ile des Chênes",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,13
+46008,Provencher","Provencher"," 605","Taché--Ile des Chênes",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,34
+46008,Provencher","Provencher"," 605","Taché--Ile des Chênes",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46008,Provencher","Provencher"," 605","Taché--Ile des Chênes",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+46008,Provencher","Provencher"," 605","Taché--Ile des Chênes",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,104
+46008,Provencher","Provencher"," 606","Ste. Anne",N,N,"",2,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," 606","Ste. Anne",N,N,"",2,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,35
+46008,Provencher","Provencher"," 606","Ste. Anne",N,N,"",2,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,Provencher","Provencher"," 606","Ste. Anne",N,N,"",2,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 606","Ste. Anne",N,N,"",2,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,125
+46008,Provencher","Provencher"," 607","Morris--Montcalm",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,4
+46008,Provencher","Provencher"," 607","Morris--Montcalm",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,18
+46008,Provencher","Provencher"," 607","Morris--Montcalm",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,Provencher","Provencher"," 607","Morris--Montcalm",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," 607","Morris--Montcalm",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,79
+46008,Provencher","Provencher"," 608","De Salaberry--Franklin",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,7
+46008,Provencher","Provencher"," 608","De Salaberry--Franklin",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,14
+46008,Provencher","Provencher"," 608","De Salaberry--Franklin",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,Provencher","Provencher"," 608","De Salaberry--Franklin",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+46008,Provencher","Provencher"," 608","De Salaberry--Franklin",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,51
+46008,Provencher","Provencher"," 609","Hanover--La Broquerie",N,N,"",2,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,15
+46008,Provencher","Provencher"," 609","Hanover--La Broquerie",N,N,"",2,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,25
+46008,Provencher","Provencher"," 609","Hanover--La Broquerie",N,N,"",2,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,Provencher","Provencher"," 609","Hanover--La Broquerie",N,N,"",2,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,15
+46008,Provencher","Provencher"," 609","Hanover--La Broquerie",N,N,"",2,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,199
+46008,Provencher","Provencher"," 610","Steinbach",N,N,"",3,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,12
+46008,Provencher","Provencher"," 610","Steinbach",N,N,"",3,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,36
+46008,Provencher","Provencher"," 610","Steinbach",N,N,"",3,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,Provencher","Provencher"," 610","Steinbach",N,N,"",3,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,23
+46008,Provencher","Provencher"," 610","Steinbach",N,N,"",3,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,382
+46008,Provencher","Provencher"," 611","Piney",N,N,"",0,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,2
+46008,Provencher","Provencher"," 611","Piney",N,N,"",0,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,11
+46008,Provencher","Provencher"," 611","Piney",N,N,"",0,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,Provencher","Provencher"," 611","Piney",N,N,"",0,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," 611","Piney",N,N,"",0,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,32
+46008,Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,117,"Gibson","","Janine","Green Party","Parti Vert",N,N,3
+46008,Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,117,"Hiebert","","Shirley","Liberal","Libéral",N,N,11
+46008,Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,117,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,117,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+46008,Provencher","Provencher"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",3,117,"Toews","","Vic","Conservative","Conservateur",Y,Y,30
+46008,Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Gibson","","Janine","Green Party","Parti Vert",N,N,10
+46008,Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Hiebert","","Shirley","Liberal","Libéral",N,N,31
+46008,Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Martin","","Ross","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46008,Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Reimer","","David","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+46008,Provencher","Provencher"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",6,0,"Toews","","Vic","Conservative","Conservateur",Y,Y,197
+

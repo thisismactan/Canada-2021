@@ -1,0 +1,982 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+24018,Drummond","Drummond"," 1","Notre-Dame-du-Bon-Conseil",N,N,"",2,232,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24018,Drummond","Drummond"," 1","Notre-Dame-du-Bon-Conseil",N,N,"",2,232,"Courchesne","","Jean","Liberal","Libéral",N,N,19
+24018,Drummond","Drummond"," 1","Notre-Dame-du-Bon-Conseil",N,N,"",2,232,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 1","Notre-Dame-du-Bon-Conseil",N,N,"",2,232,"Komlosy","","André","Conservative","Conservateur",N,N,37
+24018,Drummond","Drummond"," 1","Notre-Dame-du-Bon-Conseil",N,N,"",2,232,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,65
+24018,Drummond","Drummond"," 2","Notre-Dame-du-Bon-Conseil",N,N,"",9,481,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+24018,Drummond","Drummond"," 2","Notre-Dame-du-Bon-Conseil",N,N,"",9,481,"Courchesne","","Jean","Liberal","Libéral",N,N,54
+24018,Drummond","Drummond"," 2","Notre-Dame-du-Bon-Conseil",N,N,"",9,481,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 2","Notre-Dame-du-Bon-Conseil",N,N,"",9,481,"Komlosy","","André","Conservative","Conservateur",N,N,93
+24018,Drummond","Drummond"," 2","Notre-Dame-du-Bon-Conseil",N,N,"",9,481,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,95
+24018,Drummond","Drummond"," 3","Notre-Dame-du-Bon-Conseil",N,N,"",2,246,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24018,Drummond","Drummond"," 3","Notre-Dame-du-Bon-Conseil",N,N,"",2,246,"Courchesne","","Jean","Liberal","Libéral",N,N,42
+24018,Drummond","Drummond"," 3","Notre-Dame-du-Bon-Conseil",N,N,"",2,246,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 3","Notre-Dame-du-Bon-Conseil",N,N,"",2,246,"Komlosy","","André","Conservative","Conservateur",N,N,45
+24018,Drummond","Drummond"," 3","Notre-Dame-du-Bon-Conseil",N,N,"",2,246,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,49
+24018,Drummond","Drummond"," 4","Notre-Dame-du-Bon-Conseil",N,N,"",7,302,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+24018,Drummond","Drummond"," 4","Notre-Dame-du-Bon-Conseil",N,N,"",7,302,"Courchesne","","Jean","Liberal","Libéral",N,N,47
+24018,Drummond","Drummond"," 4","Notre-Dame-du-Bon-Conseil",N,N,"",7,302,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 4","Notre-Dame-du-Bon-Conseil",N,N,"",7,302,"Komlosy","","André","Conservative","Conservateur",N,N,32
+24018,Drummond","Drummond"," 4","Notre-Dame-du-Bon-Conseil",N,N,"",7,302,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,61
+24018,Drummond","Drummond"," 5","Notre-Dame-du-Bon-Conseil",N,N,"",3,452,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+24018,Drummond","Drummond"," 5","Notre-Dame-du-Bon-Conseil",N,N,"",3,452,"Courchesne","","Jean","Liberal","Libéral",N,N,57
+24018,Drummond","Drummond"," 5","Notre-Dame-du-Bon-Conseil",N,N,"",3,452,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 5","Notre-Dame-du-Bon-Conseil",N,N,"",3,452,"Komlosy","","André","Conservative","Conservateur",N,N,80
+24018,Drummond","Drummond"," 5","Notre-Dame-du-Bon-Conseil",N,N,"",3,452,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,97
+24018,Drummond","Drummond"," 6","Sainte-Brigitte-des-Saults",N,N,"",6,347,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24018,Drummond","Drummond"," 6","Sainte-Brigitte-des-Saults",N,N,"",6,347,"Courchesne","","Jean","Liberal","Libéral",N,N,43
+24018,Drummond","Drummond"," 6","Sainte-Brigitte-des-Saults",N,N,"",6,347,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 6","Sainte-Brigitte-des-Saults",N,N,"",6,347,"Komlosy","","André","Conservative","Conservateur",N,N,65
+24018,Drummond","Drummond"," 6","Sainte-Brigitte-des-Saults",N,N,"",6,347,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,87
+24018,Drummond","Drummond"," 7","Sainte-Brigitte-des-Saults",N,N,"",2,261,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24018,Drummond","Drummond"," 7","Sainte-Brigitte-des-Saults",N,N,"",2,261,"Courchesne","","Jean","Liberal","Libéral",N,N,32
+24018,Drummond","Drummond"," 7","Sainte-Brigitte-des-Saults",N,N,"",2,261,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 7","Sainte-Brigitte-des-Saults",N,N,"",2,261,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 7","Sainte-Brigitte-des-Saults",N,N,"",2,261,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,43
+24018,Drummond","Drummond"," 8","Saint-Joachim-de-Courval",N,N,"",5,589,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+24018,Drummond","Drummond"," 8","Saint-Joachim-de-Courval",N,N,"",5,589,"Courchesne","","Jean","Liberal","Libéral",N,N,35
+24018,Drummond","Drummond"," 8","Saint-Joachim-de-Courval",N,N,"",5,589,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,13
+24018,Drummond","Drummond"," 8","Saint-Joachim-de-Courval",N,N,"",5,589,"Komlosy","","André","Conservative","Conservateur",N,N,81
+24018,Drummond","Drummond"," 8","Saint-Joachim-de-Courval",N,N,"",5,589,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,175
+24018,Drummond","Drummond"," 9","Saint-Cyrille-de-Wendover",N,N,"",4,316,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+24018,Drummond","Drummond"," 9","Saint-Cyrille-de-Wendover",N,N,"",4,316,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 9","Saint-Cyrille-de-Wendover",N,N,"",4,316,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 9","Saint-Cyrille-de-Wendover",N,N,"",4,316,"Komlosy","","André","Conservative","Conservateur",N,N,32
+24018,Drummond","Drummond"," 9","Saint-Cyrille-de-Wendover",N,N,"",4,316,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,75
+24018,Drummond","Drummond"," 10","Saint-Cyrille-de-Wendover",N,N,"",5,281,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+24018,Drummond","Drummond"," 10","Saint-Cyrille-de-Wendover",N,N,"",5,281,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 10","Saint-Cyrille-de-Wendover",N,N,"",5,281,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 10","Saint-Cyrille-de-Wendover",N,N,"",5,281,"Komlosy","","André","Conservative","Conservateur",N,N,38
+24018,Drummond","Drummond"," 10","Saint-Cyrille-de-Wendover",N,N,"",5,281,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,56
+24018,Drummond","Drummond"," 11A","Saint-Cyrille-de-Wendover",N,N,"",2,380,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+24018,Drummond","Drummond"," 11A","Saint-Cyrille-de-Wendover",N,N,"",2,380,"Courchesne","","Jean","Liberal","Libéral",N,N,44
+24018,Drummond","Drummond"," 11A","Saint-Cyrille-de-Wendover",N,N,"",2,380,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,12
+24018,Drummond","Drummond"," 11A","Saint-Cyrille-de-Wendover",N,N,"",2,380,"Komlosy","","André","Conservative","Conservateur",N,N,44
+24018,Drummond","Drummond"," 11A","Saint-Cyrille-de-Wendover",N,N,"",2,380,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,94
+24018,Drummond","Drummond"," 11B","Saint-Cyrille-de-Wendover",N,N,"",7,394,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+24018,Drummond","Drummond"," 11B","Saint-Cyrille-de-Wendover",N,N,"",7,394,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 11B","Saint-Cyrille-de-Wendover",N,N,"",7,394,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 11B","Saint-Cyrille-de-Wendover",N,N,"",7,394,"Komlosy","","André","Conservative","Conservateur",N,N,57
+24018,Drummond","Drummond"," 11B","Saint-Cyrille-de-Wendover",N,N,"",7,394,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,86
+24018,Drummond","Drummond"," 12","Saint-Cyrille-de-Wendover",N,N,"",6,410,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+24018,Drummond","Drummond"," 12","Saint-Cyrille-de-Wendover",N,N,"",6,410,"Courchesne","","Jean","Liberal","Libéral",N,N,48
+24018,Drummond","Drummond"," 12","Saint-Cyrille-de-Wendover",N,N,"",6,410,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 12","Saint-Cyrille-de-Wendover",N,N,"",6,410,"Komlosy","","André","Conservative","Conservateur",N,N,57
+24018,Drummond","Drummond"," 12","Saint-Cyrille-de-Wendover",N,N,"",6,410,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,75
+24018,Drummond","Drummond"," 13","Saint-Cyrille-de-Wendover",N,N,"",4,460,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24018,Drummond","Drummond"," 13","Saint-Cyrille-de-Wendover",N,N,"",4,460,"Courchesne","","Jean","Liberal","Libéral",N,N,52
+24018,Drummond","Drummond"," 13","Saint-Cyrille-de-Wendover",N,N,"",4,460,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 13","Saint-Cyrille-de-Wendover",N,N,"",4,460,"Komlosy","","André","Conservative","Conservateur",N,N,53
+24018,Drummond","Drummond"," 13","Saint-Cyrille-de-Wendover",N,N,"",4,460,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,96
+24018,Drummond","Drummond"," 14","Saint-Cyrille-de-Wendover",N,N,"",11,579,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+24018,Drummond","Drummond"," 14","Saint-Cyrille-de-Wendover",N,N,"",11,579,"Courchesne","","Jean","Liberal","Libéral",N,N,51
+24018,Drummond","Drummond"," 14","Saint-Cyrille-de-Wendover",N,N,"",11,579,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 14","Saint-Cyrille-de-Wendover",N,N,"",11,579,"Komlosy","","André","Conservative","Conservateur",N,N,100
+24018,Drummond","Drummond"," 14","Saint-Cyrille-de-Wendover",N,N,"",11,579,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,110
+24018,Drummond","Drummond"," 15","Saint-Cyrille-de-Wendover",N,N,"",3,336,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+24018,Drummond","Drummond"," 15","Saint-Cyrille-de-Wendover",N,N,"",3,336,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 15","Saint-Cyrille-de-Wendover",N,N,"",3,336,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 15","Saint-Cyrille-de-Wendover",N,N,"",3,336,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 15","Saint-Cyrille-de-Wendover",N,N,"",3,336,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,68
+24018,Drummond","Drummond"," 16A","Saint-Lucien",N,N,"",2,377,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+24018,Drummond","Drummond"," 16A","Saint-Lucien",N,N,"",2,377,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 16A","Saint-Lucien",N,N,"",2,377,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 16A","Saint-Lucien",N,N,"",2,377,"Komlosy","","André","Conservative","Conservateur",N,N,42
+24018,Drummond","Drummond"," 16A","Saint-Lucien",N,N,"",2,377,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,91
+24018,Drummond","Drummond"," 16B","Saint-Lucien",N,N,"",3,388,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+24018,Drummond","Drummond"," 16B","Saint-Lucien",N,N,"",3,388,"Courchesne","","Jean","Liberal","Libéral",N,N,16
+24018,Drummond","Drummond"," 16B","Saint-Lucien",N,N,"",3,388,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 16B","Saint-Lucien",N,N,"",3,388,"Komlosy","","André","Conservative","Conservateur",N,N,42
+24018,Drummond","Drummond"," 16B","Saint-Lucien",N,N,"",3,388,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,74
+24018,Drummond","Drummond"," 17","Saint-Lucien",N,N,"",9,480,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+24018,Drummond","Drummond"," 17","Saint-Lucien",N,N,"",9,480,"Courchesne","","Jean","Liberal","Libéral",N,N,56
+24018,Drummond","Drummond"," 17","Saint-Lucien",N,N,"",9,480,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 17","Saint-Lucien",N,N,"",9,480,"Komlosy","","André","Conservative","Conservateur",N,N,73
+24018,Drummond","Drummond"," 17","Saint-Lucien",N,N,"",9,480,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,105
+24018,Drummond","Drummond"," 18","Kingsey",N,N,"",8,346,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 18","Kingsey",N,N,"",8,346,"Courchesne","","Jean","Liberal","Libéral",N,N,37
+24018,Drummond","Drummond"," 18","Kingsey",N,N,"",8,346,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 18","Kingsey",N,N,"",8,346,"Komlosy","","André","Conservative","Conservateur",N,N,47
+24018,Drummond","Drummond"," 18","Kingsey",N,N,"",8,346,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,77
+24018,Drummond","Drummond"," 19","Kingsey",N,N,"",7,522,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+24018,Drummond","Drummond"," 19","Kingsey",N,N,"",7,522,"Courchesne","","Jean","Liberal","Libéral",N,N,47
+24018,Drummond","Drummond"," 19","Kingsey",N,N,"",7,522,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,11
+24018,Drummond","Drummond"," 19","Kingsey",N,N,"",7,522,"Komlosy","","André","Conservative","Conservateur",N,N,84
+24018,Drummond","Drummond"," 19","Kingsey",N,N,"",7,522,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,101
+24018,Drummond","Drummond"," 20","Kingsey",N,N,"",4,311,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+24018,Drummond","Drummond"," 20","Kingsey",N,N,"",4,311,"Courchesne","","Jean","Liberal","Libéral",N,N,46
+24018,Drummond","Drummond"," 20","Kingsey",N,N,"",4,311,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 20","Kingsey",N,N,"",4,311,"Komlosy","","André","Conservative","Conservateur",N,N,62
+24018,Drummond","Drummond"," 20","Kingsey",N,N,"",4,311,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,50
+24018,Drummond","Drummond"," 21","Saint-Pie-de-Guire",N,N,"",7,346,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24018,Drummond","Drummond"," 21","Saint-Pie-de-Guire",N,N,"",7,346,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 21","Saint-Pie-de-Guire",N,N,"",7,346,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 21","Saint-Pie-de-Guire",N,N,"",7,346,"Komlosy","","André","Conservative","Conservateur",N,N,31
+24018,Drummond","Drummond"," 21","Saint-Pie-de-Guire",N,N,"",7,346,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,105
+24018,Drummond","Drummond"," 22","Saint-Bonaventure",N,N,"",11,392,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 22","Saint-Bonaventure",N,N,"",11,392,"Courchesne","","Jean","Liberal","Libéral",N,N,34
+24018,Drummond","Drummond"," 22","Saint-Bonaventure",N,N,"",11,392,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 22","Saint-Bonaventure",N,N,"",11,392,"Komlosy","","André","Conservative","Conservateur",N,N,53
+24018,Drummond","Drummond"," 22","Saint-Bonaventure",N,N,"",11,392,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,114
+24018,Drummond","Drummond"," 23","Saint-Bonaventure",N,N,"",9,394,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+24018,Drummond","Drummond"," 23","Saint-Bonaventure",N,N,"",9,394,"Courchesne","","Jean","Liberal","Libéral",N,N,26
+24018,Drummond","Drummond"," 23","Saint-Bonaventure",N,N,"",9,394,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 23","Saint-Bonaventure",N,N,"",9,394,"Komlosy","","André","Conservative","Conservateur",N,N,55
+24018,Drummond","Drummond"," 23","Saint-Bonaventure",N,N,"",9,394,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,110
+24018,Drummond","Drummond"," 24","Saint-Majorique",N,N,"",7,599,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+24018,Drummond","Drummond"," 24","Saint-Majorique",N,N,"",7,599,"Courchesne","","Jean","Liberal","Libéral",N,N,65
+24018,Drummond","Drummond"," 24","Saint-Majorique",N,N,"",7,599,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 24","Saint-Majorique",N,N,"",7,599,"Komlosy","","André","Conservative","Conservateur",N,N,89
+24018,Drummond","Drummond"," 24","Saint-Majorique",N,N,"",7,599,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,140
+24018,Drummond","Drummond"," 25","Saint-Majorique",N,N,"",6,257,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+24018,Drummond","Drummond"," 25","Saint-Majorique",N,N,"",6,257,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 25","Saint-Majorique",N,N,"",6,257,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 25","Saint-Majorique",N,N,"",6,257,"Komlosy","","André","Conservative","Conservateur",N,N,29
+24018,Drummond","Drummond"," 25","Saint-Majorique",N,N,"",6,257,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,74
+24018,Drummond","Drummond"," 26","Saint-Edmond-de-Grantham",N,N,"",3,544,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+24018,Drummond","Drummond"," 26","Saint-Edmond-de-Grantham",N,N,"",3,544,"Courchesne","","Jean","Liberal","Libéral",N,N,45
+24018,Drummond","Drummond"," 26","Saint-Edmond-de-Grantham",N,N,"",3,544,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 26","Saint-Edmond-de-Grantham",N,N,"",3,544,"Komlosy","","André","Conservative","Conservateur",N,N,82
+24018,Drummond","Drummond"," 26","Saint-Edmond-de-Grantham",N,N,"",3,544,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,126
+24018,Drummond","Drummond"," 27","Saint-Guillaume",N,N,"",6,261,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+24018,Drummond","Drummond"," 27","Saint-Guillaume",N,N,"",6,261,"Courchesne","","Jean","Liberal","Libéral",N,N,31
+24018,Drummond","Drummond"," 27","Saint-Guillaume",N,N,"",6,261,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 27","Saint-Guillaume",N,N,"",6,261,"Komlosy","","André","Conservative","Conservateur",N,N,41
+24018,Drummond","Drummond"," 27","Saint-Guillaume",N,N,"",6,261,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,54
+24018,Drummond","Drummond"," 28","Saint-Guillaume",N,N,"",6,350,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+24018,Drummond","Drummond"," 28","Saint-Guillaume",N,N,"",6,350,"Courchesne","","Jean","Liberal","Libéral",N,N,29
+24018,Drummond","Drummond"," 28","Saint-Guillaume",N,N,"",6,350,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 28","Saint-Guillaume",N,N,"",6,350,"Komlosy","","André","Conservative","Conservateur",N,N,49
+24018,Drummond","Drummond"," 28","Saint-Guillaume",N,N,"",6,350,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,90
+24018,Drummond","Drummond"," 29","Saint-Guillaume",N,N,"",6,235,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24018,Drummond","Drummond"," 29","Saint-Guillaume",N,N,"",6,235,"Courchesne","","Jean","Liberal","Libéral",N,N,26
+24018,Drummond","Drummond"," 29","Saint-Guillaume",N,N,"",6,235,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 29","Saint-Guillaume",N,N,"",6,235,"Komlosy","","André","Conservative","Conservateur",N,N,29
+24018,Drummond","Drummond"," 29","Saint-Guillaume",N,N,"",6,235,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,61
+24018,Drummond","Drummond"," 30","Saint-Guillaume",N,N,"",8,332,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24018,Drummond","Drummond"," 30","Saint-Guillaume",N,N,"",8,332,"Courchesne","","Jean","Liberal","Libéral",N,N,34
+24018,Drummond","Drummond"," 30","Saint-Guillaume",N,N,"",8,332,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 30","Saint-Guillaume",N,N,"",8,332,"Komlosy","","André","Conservative","Conservateur",N,N,67
+24018,Drummond","Drummond"," 30","Saint-Guillaume",N,N,"",8,332,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,77
+24018,Drummond","Drummond"," 31","Saint-Eugène",N,N,"",5,413,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+24018,Drummond","Drummond"," 31","Saint-Eugène",N,N,"",5,413,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 31","Saint-Eugène",N,N,"",5,413,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 31","Saint-Eugène",N,N,"",5,413,"Komlosy","","André","Conservative","Conservateur",N,N,59
+24018,Drummond","Drummond"," 31","Saint-Eugène",N,N,"",5,413,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,132
+24018,Drummond","Drummond"," 32","Saint-Eugène",N,N,"",6,445,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+24018,Drummond","Drummond"," 32","Saint-Eugène",N,N,"",6,445,"Courchesne","","Jean","Liberal","Libéral",N,N,28
+24018,Drummond","Drummond"," 32","Saint-Eugène",N,N,"",6,445,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 32","Saint-Eugène",N,N,"",6,445,"Komlosy","","André","Conservative","Conservateur",N,N,53
+24018,Drummond","Drummond"," 32","Saint-Eugène",N,N,"",6,445,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,119
+24018,Drummond","Drummond"," 33","Saint-Germain-de-Grantham",N,N,"",6,435,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+24018,Drummond","Drummond"," 33","Saint-Germain-de-Grantham",N,N,"",6,435,"Courchesne","","Jean","Liberal","Libéral",N,N,39
+24018,Drummond","Drummond"," 33","Saint-Germain-de-Grantham",N,N,"",6,435,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 33","Saint-Germain-de-Grantham",N,N,"",6,435,"Komlosy","","André","Conservative","Conservateur",N,N,56
+24018,Drummond","Drummond"," 33","Saint-Germain-de-Grantham",N,N,"",6,435,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,94
+24018,Drummond","Drummond"," 34","Saint-Germain-de-Grantham",N,N,"",8,431,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+24018,Drummond","Drummond"," 34","Saint-Germain-de-Grantham",N,N,"",8,431,"Courchesne","","Jean","Liberal","Libéral",N,N,31
+24018,Drummond","Drummond"," 34","Saint-Germain-de-Grantham",N,N,"",8,431,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 34","Saint-Germain-de-Grantham",N,N,"",8,431,"Komlosy","","André","Conservative","Conservateur",N,N,63
+24018,Drummond","Drummond"," 34","Saint-Germain-de-Grantham",N,N,"",8,431,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,114
+24018,Drummond","Drummond"," 35","Saint-Germain-de-Grantham",N,N,"",10,539,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+24018,Drummond","Drummond"," 35","Saint-Germain-de-Grantham",N,N,"",10,539,"Courchesne","","Jean","Liberal","Libéral",N,N,62
+24018,Drummond","Drummond"," 35","Saint-Germain-de-Grantham",N,N,"",10,539,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,13
+24018,Drummond","Drummond"," 35","Saint-Germain-de-Grantham",N,N,"",10,539,"Komlosy","","André","Conservative","Conservateur",N,N,71
+24018,Drummond","Drummond"," 35","Saint-Germain-de-Grantham",N,N,"",10,539,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,165
+24018,Drummond","Drummond"," 36A","Saint-Germain-de-Grantham",N,N,"",6,380,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+24018,Drummond","Drummond"," 36A","Saint-Germain-de-Grantham",N,N,"",6,380,"Courchesne","","Jean","Liberal","Libéral",N,N,40
+24018,Drummond","Drummond"," 36A","Saint-Germain-de-Grantham",N,N,"",6,380,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 36A","Saint-Germain-de-Grantham",N,N,"",6,380,"Komlosy","","André","Conservative","Conservateur",N,N,63
+24018,Drummond","Drummond"," 36A","Saint-Germain-de-Grantham",N,N,"",6,380,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,97
+24018,Drummond","Drummond"," 36B","Saint-Germain-de-Grantham",N,N,"",6,396,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 36B","Saint-Germain-de-Grantham",N,N,"",6,396,"Courchesne","","Jean","Liberal","Libéral",N,N,40
+24018,Drummond","Drummond"," 36B","Saint-Germain-de-Grantham",N,N,"",6,396,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 36B","Saint-Germain-de-Grantham",N,N,"",6,396,"Komlosy","","André","Conservative","Conservateur",N,N,56
+24018,Drummond","Drummond"," 36B","Saint-Germain-de-Grantham",N,N,"",6,396,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,102
+24018,Drummond","Drummond"," 37","Saint-Germain-de-Grantham",N,N,"",12,528,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+24018,Drummond","Drummond"," 37","Saint-Germain-de-Grantham",N,N,"",12,528,"Courchesne","","Jean","Liberal","Libéral",N,N,40
+24018,Drummond","Drummond"," 37","Saint-Germain-de-Grantham",N,N,"",12,528,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 37","Saint-Germain-de-Grantham",N,N,"",12,528,"Komlosy","","André","Conservative","Conservateur",N,N,64
+24018,Drummond","Drummond"," 37","Saint-Germain-de-Grantham",N,N,"",12,528,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,131
+24018,Drummond","Drummond"," 38","Saint-Germain-de-Grantham",N,N,"",5,378,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+24018,Drummond","Drummond"," 38","Saint-Germain-de-Grantham",N,N,"",5,378,"Courchesne","","Jean","Liberal","Libéral",N,N,33
+24018,Drummond","Drummond"," 38","Saint-Germain-de-Grantham",N,N,"",5,378,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 38","Saint-Germain-de-Grantham",N,N,"",5,378,"Komlosy","","André","Conservative","Conservateur",N,N,40
+24018,Drummond","Drummond"," 38","Saint-Germain-de-Grantham",N,N,"",5,378,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,85
+24018,Drummond","Drummond"," 39","Drummondville",N,N,"",6,462,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+24018,Drummond","Drummond"," 39","Drummondville",N,N,"",6,462,"Courchesne","","Jean","Liberal","Libéral",N,N,42
+24018,Drummond","Drummond"," 39","Drummondville",N,N,"",6,462,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 39","Drummondville",N,N,"",6,462,"Komlosy","","André","Conservative","Conservateur",N,N,76
+24018,Drummond","Drummond"," 39","Drummondville",N,N,"",6,462,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,91
+24018,Drummond","Drummond"," 40","Drummondville",N,N,"",7,476,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+24018,Drummond","Drummond"," 40","Drummondville",N,N,"",7,476,"Courchesne","","Jean","Liberal","Libéral",N,N,55
+24018,Drummond","Drummond"," 40","Drummondville",N,N,"",7,476,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 40","Drummondville",N,N,"",7,476,"Komlosy","","André","Conservative","Conservateur",N,N,68
+24018,Drummond","Drummond"," 40","Drummondville",N,N,"",7,476,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,119
+24018,Drummond","Drummond"," 41","Drummondville",N,N,"",8,644,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24018,Drummond","Drummond"," 41","Drummondville",N,N,"",8,644,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 41","Drummondville",N,N,"",8,644,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 41","Drummondville",N,N,"",8,644,"Komlosy","","André","Conservative","Conservateur",N,N,62
+24018,Drummond","Drummond"," 41","Drummondville",N,N,"",8,644,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,134
+24018,Drummond","Drummond"," 42","Drummondville",N,N,"",4,451,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+24018,Drummond","Drummond"," 42","Drummondville",N,N,"",4,451,"Courchesne","","Jean","Liberal","Libéral",N,N,32
+24018,Drummond","Drummond"," 42","Drummondville",N,N,"",4,451,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 42","Drummondville",N,N,"",4,451,"Komlosy","","André","Conservative","Conservateur",N,N,80
+24018,Drummond","Drummond"," 42","Drummondville",N,N,"",4,451,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,97
+24018,Drummond","Drummond"," 43","Drummondville",N,N,"",5,634,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+24018,Drummond","Drummond"," 43","Drummondville",N,N,"",5,634,"Courchesne","","Jean","Liberal","Libéral",N,N,60
+24018,Drummond","Drummond"," 43","Drummondville",N,N,"",5,634,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,11
+24018,Drummond","Drummond"," 43","Drummondville",N,N,"",5,634,"Komlosy","","André","Conservative","Conservateur",N,N,90
+24018,Drummond","Drummond"," 43","Drummondville",N,N,"",5,634,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,156
+24018,Drummond","Drummond"," 44","Drummondville",N,N,"",5,260,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+24018,Drummond","Drummond"," 44","Drummondville",N,N,"",5,260,"Courchesne","","Jean","Liberal","Libéral",N,N,23
+24018,Drummond","Drummond"," 44","Drummondville",N,N,"",5,260,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 44","Drummondville",N,N,"",5,260,"Komlosy","","André","Conservative","Conservateur",N,N,38
+24018,Drummond","Drummond"," 44","Drummondville",N,N,"",5,260,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,57
+24018,Drummond","Drummond"," 45","Drummondville",N,N,"",5,514,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+24018,Drummond","Drummond"," 45","Drummondville",N,N,"",5,514,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 45","Drummondville",N,N,"",5,514,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 45","Drummondville",N,N,"",5,514,"Komlosy","","André","Conservative","Conservateur",N,N,40
+24018,Drummond","Drummond"," 45","Drummondville",N,N,"",5,514,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,102
+24018,Drummond","Drummond"," 46","Drummondville",N,N,"",5,610,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+24018,Drummond","Drummond"," 46","Drummondville",N,N,"",5,610,"Courchesne","","Jean","Liberal","Libéral",N,N,61
+24018,Drummond","Drummond"," 46","Drummondville",N,N,"",5,610,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 46","Drummondville",N,N,"",5,610,"Komlosy","","André","Conservative","Conservateur",N,N,65
+24018,Drummond","Drummond"," 46","Drummondville",N,N,"",5,610,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,96
+24018,Drummond","Drummond"," 47","Drummondville",N,N,"",4,414,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+24018,Drummond","Drummond"," 47","Drummondville",N,N,"",4,414,"Courchesne","","Jean","Liberal","Libéral",N,N,28
+24018,Drummond","Drummond"," 47","Drummondville",N,N,"",4,414,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 47","Drummondville",N,N,"",4,414,"Komlosy","","André","Conservative","Conservateur",N,N,43
+24018,Drummond","Drummond"," 47","Drummondville",N,N,"",4,414,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,76
+24018,Drummond","Drummond"," 48","Drummondville",N,N,"",0,396,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+24018,Drummond","Drummond"," 48","Drummondville",N,N,"",0,396,"Courchesne","","Jean","Liberal","Libéral",N,N,46
+24018,Drummond","Drummond"," 48","Drummondville",N,N,"",0,396,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 48","Drummondville",N,N,"",0,396,"Komlosy","","André","Conservative","Conservateur",N,N,80
+24018,Drummond","Drummond"," 48","Drummondville",N,N,"",0,396,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,84
+24018,Drummond","Drummond"," 49A","Drummondville",N,N,"",2,420,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+24018,Drummond","Drummond"," 49A","Drummondville",N,N,"",2,420,"Courchesne","","Jean","Liberal","Libéral",N,N,43
+24018,Drummond","Drummond"," 49A","Drummondville",N,N,"",2,420,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 49A","Drummondville",N,N,"",2,420,"Komlosy","","André","Conservative","Conservateur",N,N,66
+24018,Drummond","Drummond"," 49A","Drummondville",N,N,"",2,420,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,91
+24018,Drummond","Drummond"," 49B","Drummondville",N,N,"",8,442,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24018,Drummond","Drummond"," 49B","Drummondville",N,N,"",8,442,"Courchesne","","Jean","Liberal","Libéral",N,N,44
+24018,Drummond","Drummond"," 49B","Drummondville",N,N,"",8,442,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 49B","Drummondville",N,N,"",8,442,"Komlosy","","André","Conservative","Conservateur",N,N,74
+24018,Drummond","Drummond"," 49B","Drummondville",N,N,"",8,442,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,87
+24018,Drummond","Drummond"," 50","Drummondville",N,N,"",7,678,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+24018,Drummond","Drummond"," 50","Drummondville",N,N,"",7,678,"Courchesne","","Jean","Liberal","Libéral",N,N,36
+24018,Drummond","Drummond"," 50","Drummondville",N,N,"",7,678,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 50","Drummondville",N,N,"",7,678,"Komlosy","","André","Conservative","Conservateur",N,N,61
+24018,Drummond","Drummond"," 50","Drummondville",N,N,"",7,678,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,112
+24018,Drummond","Drummond"," 51A","Drummondville",N,N,"",5,514,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+24018,Drummond","Drummond"," 51A","Drummondville",N,N,"",5,514,"Courchesne","","Jean","Liberal","Libéral",N,N,60
+24018,Drummond","Drummond"," 51A","Drummondville",N,N,"",5,514,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 51A","Drummondville",N,N,"",5,514,"Komlosy","","André","Conservative","Conservateur",N,N,73
+24018,Drummond","Drummond"," 51A","Drummondville",N,N,"",5,514,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,90
+24018,Drummond","Drummond"," 51B","Drummondville",N,N,"",9,497,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+24018,Drummond","Drummond"," 51B","Drummondville",N,N,"",9,497,"Courchesne","","Jean","Liberal","Libéral",N,N,48
+24018,Drummond","Drummond"," 51B","Drummondville",N,N,"",9,497,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 51B","Drummondville",N,N,"",9,497,"Komlosy","","André","Conservative","Conservateur",N,N,75
+24018,Drummond","Drummond"," 51B","Drummondville",N,N,"",9,497,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,98
+24018,Drummond","Drummond"," 52","Drummondville",N,N,"",2,562,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+24018,Drummond","Drummond"," 52","Drummondville",N,N,"",2,562,"Courchesne","","Jean","Liberal","Libéral",N,N,84
+24018,Drummond","Drummond"," 52","Drummondville",N,N,"",2,562,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 52","Drummondville",N,N,"",2,562,"Komlosy","","André","Conservative","Conservateur",N,N,117
+24018,Drummond","Drummond"," 52","Drummondville",N,N,"",2,562,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,118
+24018,Drummond","Drummond"," 53","Drummondville",N,N,"",3,376,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+24018,Drummond","Drummond"," 53","Drummondville",N,N,"",3,376,"Courchesne","","Jean","Liberal","Libéral",N,N,59
+24018,Drummond","Drummond"," 53","Drummondville",N,N,"",3,376,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,11
+24018,Drummond","Drummond"," 53","Drummondville",N,N,"",3,376,"Komlosy","","André","Conservative","Conservateur",N,N,69
+24018,Drummond","Drummond"," 53","Drummondville",N,N,"",3,376,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,80
+24018,Drummond","Drummond"," 54","Drummondville",N,N,"",3,534,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+24018,Drummond","Drummond"," 54","Drummondville",N,N,"",3,534,"Courchesne","","Jean","Liberal","Libéral",N,N,64
+24018,Drummond","Drummond"," 54","Drummondville",N,N,"",3,534,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 54","Drummondville",N,N,"",3,534,"Komlosy","","André","Conservative","Conservateur",N,N,53
+24018,Drummond","Drummond"," 54","Drummondville",N,N,"",3,534,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,58
+24018,Drummond","Drummond"," 55","Drummondville",N,N,"",1,304,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+24018,Drummond","Drummond"," 55","Drummondville",N,N,"",1,304,"Courchesne","","Jean","Liberal","Libéral",N,N,35
+24018,Drummond","Drummond"," 55","Drummondville",N,N,"",1,304,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 55","Drummondville",N,N,"",1,304,"Komlosy","","André","Conservative","Conservateur",N,N,45
+24018,Drummond","Drummond"," 55","Drummondville",N,N,"",1,304,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,71
+24018,Drummond","Drummond"," 56","Drummondville",N,N,"",1,294,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24018,Drummond","Drummond"," 56","Drummondville",N,N,"",1,294,"Courchesne","","Jean","Liberal","Libéral",N,N,22
+24018,Drummond","Drummond"," 56","Drummondville",N,N,"",1,294,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 56","Drummondville",N,N,"",1,294,"Komlosy","","André","Conservative","Conservateur",N,N,43
+24018,Drummond","Drummond"," 56","Drummondville",N,N,"",1,294,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,77
+24018,Drummond","Drummond"," 57","Drummondville",N,N,"",3,322,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24018,Drummond","Drummond"," 57","Drummondville",N,N,"",3,322,"Courchesne","","Jean","Liberal","Libéral",N,N,42
+24018,Drummond","Drummond"," 57","Drummondville",N,N,"",3,322,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 57","Drummondville",N,N,"",3,322,"Komlosy","","André","Conservative","Conservateur",N,N,68
+24018,Drummond","Drummond"," 57","Drummondville",N,N,"",3,322,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,47
+24018,Drummond","Drummond"," 58","Drummondville",N,N,"",3,501,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24018,Drummond","Drummond"," 58","Drummondville",N,N,"",3,501,"Courchesne","","Jean","Liberal","Libéral",N,N,47
+24018,Drummond","Drummond"," 58","Drummondville",N,N,"",3,501,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 58","Drummondville",N,N,"",3,501,"Komlosy","","André","Conservative","Conservateur",N,N,70
+24018,Drummond","Drummond"," 58","Drummondville",N,N,"",3,501,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,90
+24018,Drummond","Drummond"," 59","Drummondville",N,N,"",2,460,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+24018,Drummond","Drummond"," 59","Drummondville",N,N,"",2,460,"Courchesne","","Jean","Liberal","Libéral",N,N,54
+24018,Drummond","Drummond"," 59","Drummondville",N,N,"",2,460,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 59","Drummondville",N,N,"",2,460,"Komlosy","","André","Conservative","Conservateur",N,N,71
+24018,Drummond","Drummond"," 59","Drummondville",N,N,"",2,460,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,76
+24018,Drummond","Drummond"," 60","Drummondville",N,N,"",8,357,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+24018,Drummond","Drummond"," 60","Drummondville",N,N,"",8,357,"Courchesne","","Jean","Liberal","Libéral",N,N,34
+24018,Drummond","Drummond"," 60","Drummondville",N,N,"",8,357,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 60","Drummondville",N,N,"",8,357,"Komlosy","","André","Conservative","Conservateur",N,N,33
+24018,Drummond","Drummond"," 60","Drummondville",N,N,"",8,357,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,58
+24018,Drummond","Drummond"," 61","Drummondville",N,N,"",4,322,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 61","Drummondville",N,N,"",4,322,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 61","Drummondville",N,N,"",4,322,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 61","Drummondville",N,N,"",4,322,"Komlosy","","André","Conservative","Conservateur",N,N,36
+24018,Drummond","Drummond"," 61","Drummondville",N,N,"",4,322,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,82
+24018,Drummond","Drummond"," 62","Drummondville",N,N,"",3,248,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+24018,Drummond","Drummond"," 62","Drummondville",N,N,"",3,248,"Courchesne","","Jean","Liberal","Libéral",N,N,38
+24018,Drummond","Drummond"," 62","Drummondville",N,N,"",3,248,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 62","Drummondville",N,N,"",3,248,"Komlosy","","André","Conservative","Conservateur",N,N,26
+24018,Drummond","Drummond"," 62","Drummondville",N,N,"",3,248,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,47
+24018,Drummond","Drummond"," 63","Drummondville",N,N,"",2,307,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24018,Drummond","Drummond"," 63","Drummondville",N,N,"",2,307,"Courchesne","","Jean","Liberal","Libéral",N,N,35
+24018,Drummond","Drummond"," 63","Drummondville",N,N,"",2,307,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 63","Drummondville",N,N,"",2,307,"Komlosy","","André","Conservative","Conservateur",N,N,20
+24018,Drummond","Drummond"," 63","Drummondville",N,N,"",2,307,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,54
+24018,Drummond","Drummond"," 64","Drummondville",N,N,"",5,626,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 64","Drummondville",N,N,"",5,626,"Courchesne","","Jean","Liberal","Libéral",N,N,72
+24018,Drummond","Drummond"," 64","Drummondville",N,N,"",5,626,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 64","Drummondville",N,N,"",5,626,"Komlosy","","André","Conservative","Conservateur",N,N,126
+24018,Drummond","Drummond"," 64","Drummondville",N,N,"",5,626,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,90
+24018,Drummond","Drummond"," 65","Saint-Charles-de-Drummond",N,N,"",6,357,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+24018,Drummond","Drummond"," 65","Saint-Charles-de-Drummond",N,N,"",6,357,"Courchesne","","Jean","Liberal","Libéral",N,N,42
+24018,Drummond","Drummond"," 65","Saint-Charles-de-Drummond",N,N,"",6,357,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 65","Saint-Charles-de-Drummond",N,N,"",6,357,"Komlosy","","André","Conservative","Conservateur",N,N,49
+24018,Drummond","Drummond"," 65","Saint-Charles-de-Drummond",N,N,"",6,357,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,90
+24018,Drummond","Drummond"," 66A","Saint-Charles-de-Drummond",N,N,"",3,399,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 66A","Saint-Charles-de-Drummond",N,N,"",3,399,"Courchesne","","Jean","Liberal","Libéral",N,N,37
+24018,Drummond","Drummond"," 66A","Saint-Charles-de-Drummond",N,N,"",3,399,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 66A","Saint-Charles-de-Drummond",N,N,"",3,399,"Komlosy","","André","Conservative","Conservateur",N,N,62
+24018,Drummond","Drummond"," 66A","Saint-Charles-de-Drummond",N,N,"",3,399,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,87
+24018,Drummond","Drummond"," 66B","Saint-Charles-de-Drummond",N,N,"",3,393,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 66B","Saint-Charles-de-Drummond",N,N,"",3,393,"Courchesne","","Jean","Liberal","Libéral",N,N,44
+24018,Drummond","Drummond"," 66B","Saint-Charles-de-Drummond",N,N,"",3,393,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 66B","Saint-Charles-de-Drummond",N,N,"",3,393,"Komlosy","","André","Conservative","Conservateur",N,N,58
+24018,Drummond","Drummond"," 66B","Saint-Charles-de-Drummond",N,N,"",3,393,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,88
+24018,Drummond","Drummond"," 66C","Saint-Charles-de-Drummond",N,N,"",3,427,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+24018,Drummond","Drummond"," 66C","Saint-Charles-de-Drummond",N,N,"",3,427,"Courchesne","","Jean","Liberal","Libéral",N,N,44
+24018,Drummond","Drummond"," 66C","Saint-Charles-de-Drummond",N,N,"",3,427,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 66C","Saint-Charles-de-Drummond",N,N,"",3,427,"Komlosy","","André","Conservative","Conservateur",N,N,70
+24018,Drummond","Drummond"," 66C","Saint-Charles-de-Drummond",N,N,"",3,427,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,81
+24018,Drummond","Drummond"," 67","Saint-Charles-de-Drummond",N,N,"",3,424,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+24018,Drummond","Drummond"," 67","Saint-Charles-de-Drummond",N,N,"",3,424,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 67","Saint-Charles-de-Drummond",N,N,"",3,424,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 67","Saint-Charles-de-Drummond",N,N,"",3,424,"Komlosy","","André","Conservative","Conservateur",N,N,50
+24018,Drummond","Drummond"," 67","Saint-Charles-de-Drummond",N,N,"",3,424,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,105
+24018,Drummond","Drummond"," 68","Saint-Charles-de-Drummond",N,N,"",16,627,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+24018,Drummond","Drummond"," 68","Saint-Charles-de-Drummond",N,N,"",16,627,"Courchesne","","Jean","Liberal","Libéral",N,N,66
+24018,Drummond","Drummond"," 68","Saint-Charles-de-Drummond",N,N,"",16,627,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 68","Saint-Charles-de-Drummond",N,N,"",16,627,"Komlosy","","André","Conservative","Conservateur",N,N,73
+24018,Drummond","Drummond"," 68","Saint-Charles-de-Drummond",N,N,"",16,627,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,107
+24018,Drummond","Drummond"," 69","Saint-Charles-de-Drummond",N,N,"",5,294,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24018,Drummond","Drummond"," 69","Saint-Charles-de-Drummond",N,N,"",5,294,"Courchesne","","Jean","Liberal","Libéral",N,N,18
+24018,Drummond","Drummond"," 69","Saint-Charles-de-Drummond",N,N,"",5,294,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 69","Saint-Charles-de-Drummond",N,N,"",5,294,"Komlosy","","André","Conservative","Conservateur",N,N,43
+24018,Drummond","Drummond"," 69","Saint-Charles-de-Drummond",N,N,"",5,294,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,68
+24018,Drummond","Drummond"," 70","Saint-Charles-de-Drummond",N,N,"",4,343,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+24018,Drummond","Drummond"," 70","Saint-Charles-de-Drummond",N,N,"",4,343,"Courchesne","","Jean","Liberal","Libéral",N,N,31
+24018,Drummond","Drummond"," 70","Saint-Charles-de-Drummond",N,N,"",4,343,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 70","Saint-Charles-de-Drummond",N,N,"",4,343,"Komlosy","","André","Conservative","Conservateur",N,N,47
+24018,Drummond","Drummond"," 70","Saint-Charles-de-Drummond",N,N,"",4,343,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,81
+24018,Drummond","Drummond"," 71","Saint-Charles-de-Drummond",N,N,"",10,453,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+24018,Drummond","Drummond"," 71","Saint-Charles-de-Drummond",N,N,"",10,453,"Courchesne","","Jean","Liberal","Libéral",N,N,37
+24018,Drummond","Drummond"," 71","Saint-Charles-de-Drummond",N,N,"",10,453,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 71","Saint-Charles-de-Drummond",N,N,"",10,453,"Komlosy","","André","Conservative","Conservateur",N,N,58
+24018,Drummond","Drummond"," 71","Saint-Charles-de-Drummond",N,N,"",10,453,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,106
+24018,Drummond","Drummond"," 72","Drummondville",N,N,"",4,728,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+24018,Drummond","Drummond"," 72","Drummondville",N,N,"",4,728,"Courchesne","","Jean","Liberal","Libéral",N,N,61
+24018,Drummond","Drummond"," 72","Drummondville",N,N,"",4,728,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 72","Drummondville",N,N,"",4,728,"Komlosy","","André","Conservative","Conservateur",N,N,102
+24018,Drummond","Drummond"," 72","Drummondville",N,N,"",4,728,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,117
+24018,Drummond","Drummond"," 73","Saint-Charles-de-Drummond",N,N,"",8,353,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24018,Drummond","Drummond"," 73","Saint-Charles-de-Drummond",N,N,"",8,353,"Courchesne","","Jean","Liberal","Libéral",N,N,43
+24018,Drummond","Drummond"," 73","Saint-Charles-de-Drummond",N,N,"",8,353,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 73","Saint-Charles-de-Drummond",N,N,"",8,353,"Komlosy","","André","Conservative","Conservateur",N,N,36
+24018,Drummond","Drummond"," 73","Saint-Charles-de-Drummond",N,N,"",8,353,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,76
+24018,Drummond","Drummond"," 74","Saint-Charles-de-Drummond",N,N,"",6,718,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+24018,Drummond","Drummond"," 74","Saint-Charles-de-Drummond",N,N,"",6,718,"Courchesne","","Jean","Liberal","Libéral",N,N,64
+24018,Drummond","Drummond"," 74","Saint-Charles-de-Drummond",N,N,"",6,718,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 74","Saint-Charles-de-Drummond",N,N,"",6,718,"Komlosy","","André","Conservative","Conservateur",N,N,103
+24018,Drummond","Drummond"," 74","Saint-Charles-de-Drummond",N,N,"",6,718,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,166
+24018,Drummond","Drummond"," 75","Saint-Charles-de-Drummond",N,N,"",2,464,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24018,Drummond","Drummond"," 75","Saint-Charles-de-Drummond",N,N,"",2,464,"Courchesne","","Jean","Liberal","Libéral",N,N,36
+24018,Drummond","Drummond"," 75","Saint-Charles-de-Drummond",N,N,"",2,464,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,13
+24018,Drummond","Drummond"," 75","Saint-Charles-de-Drummond",N,N,"",2,464,"Komlosy","","André","Conservative","Conservateur",N,N,77
+24018,Drummond","Drummond"," 75","Saint-Charles-de-Drummond",N,N,"",2,464,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,104
+24018,Drummond","Drummond"," 76","Drummondville",N,N,"",8,250,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24018,Drummond","Drummond"," 76","Drummondville",N,N,"",8,250,"Courchesne","","Jean","Liberal","Libéral",N,N,21
+24018,Drummond","Drummond"," 76","Drummondville",N,N,"",8,250,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 76","Drummondville",N,N,"",8,250,"Komlosy","","André","Conservative","Conservateur",N,N,30
+24018,Drummond","Drummond"," 76","Drummondville",N,N,"",8,250,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,41
+24018,Drummond","Drummond"," 77","Drummondville",N,N,"",0,218,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24018,Drummond","Drummond"," 77","Drummondville",N,N,"",0,218,"Courchesne","","Jean","Liberal","Libéral",N,N,13
+24018,Drummond","Drummond"," 77","Drummondville",N,N,"",0,218,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 77","Drummondville",N,N,"",0,218,"Komlosy","","André","Conservative","Conservateur",N,N,19
+24018,Drummond","Drummond"," 77","Drummondville",N,N,"",0,218,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,36
+24018,Drummond","Drummond"," 78","Drummondville",N,N,"",7,370,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24018,Drummond","Drummond"," 78","Drummondville",N,N,"",7,370,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 78","Drummondville",N,N,"",7,370,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 78","Drummondville",N,N,"",7,370,"Komlosy","","André","Conservative","Conservateur",N,N,33
+24018,Drummond","Drummond"," 78","Drummondville",N,N,"",7,370,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,72
+24018,Drummond","Drummond"," 79","Drummondville",N,N,"",6,445,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24018,Drummond","Drummond"," 79","Drummondville",N,N,"",6,445,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 79","Drummondville",N,N,"",6,445,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 79","Drummondville",N,N,"",6,445,"Komlosy","","André","Conservative","Conservateur",N,N,35
+24018,Drummond","Drummond"," 79","Drummondville",N,N,"",6,445,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,73
+24018,Drummond","Drummond"," 80","Drummondville",N,N,"",2,352,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+24018,Drummond","Drummond"," 80","Drummondville",N,N,"",2,352,"Courchesne","","Jean","Liberal","Libéral",N,N,31
+24018,Drummond","Drummond"," 80","Drummondville",N,N,"",2,352,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 80","Drummondville",N,N,"",2,352,"Komlosy","","André","Conservative","Conservateur",N,N,24
+24018,Drummond","Drummond"," 80","Drummondville",N,N,"",2,352,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,62
+24018,Drummond","Drummond"," 81","Drummondville",N,N,"",4,241,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24018,Drummond","Drummond"," 81","Drummondville",N,N,"",4,241,"Courchesne","","Jean","Liberal","Libéral",N,N,10
+24018,Drummond","Drummond"," 81","Drummondville",N,N,"",4,241,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,0
+24018,Drummond","Drummond"," 81","Drummondville",N,N,"",4,241,"Komlosy","","André","Conservative","Conservateur",N,N,25
+24018,Drummond","Drummond"," 81","Drummondville",N,N,"",4,241,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,18
+24018,Drummond","Drummond"," 82","Drummondville",N,N,"",4,257,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24018,Drummond","Drummond"," 82","Drummondville",N,N,"",4,257,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 82","Drummondville",N,N,"",4,257,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 82","Drummondville",N,N,"",4,257,"Komlosy","","André","Conservative","Conservateur",N,N,28
+24018,Drummond","Drummond"," 82","Drummondville",N,N,"",4,257,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,37
+24018,Drummond","Drummond"," 83","Drummondville",N,N,"",2,348,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+24018,Drummond","Drummond"," 83","Drummondville",N,N,"",2,348,"Courchesne","","Jean","Liberal","Libéral",N,N,21
+24018,Drummond","Drummond"," 83","Drummondville",N,N,"",2,348,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 83","Drummondville",N,N,"",2,348,"Komlosy","","André","Conservative","Conservateur",N,N,15
+24018,Drummond","Drummond"," 83","Drummondville",N,N,"",2,348,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,50
+24018,Drummond","Drummond"," 84","Drummondville",N,N,"",1,325,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+24018,Drummond","Drummond"," 84","Drummondville",N,N,"",1,325,"Courchesne","","Jean","Liberal","Libéral",N,N,21
+24018,Drummond","Drummond"," 84","Drummondville",N,N,"",1,325,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 84","Drummondville",N,N,"",1,325,"Komlosy","","André","Conservative","Conservateur",N,N,30
+24018,Drummond","Drummond"," 84","Drummondville",N,N,"",1,325,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,64
+24018,Drummond","Drummond"," 85","Drummondville",N,N,"",3,416,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+24018,Drummond","Drummond"," 85","Drummondville",N,N,"",3,416,"Courchesne","","Jean","Liberal","Libéral",N,N,13
+24018,Drummond","Drummond"," 85","Drummondville",N,N,"",3,416,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 85","Drummondville",N,N,"",3,416,"Komlosy","","André","Conservative","Conservateur",N,N,33
+24018,Drummond","Drummond"," 85","Drummondville",N,N,"",3,416,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,62
+24018,Drummond","Drummond"," 86","Drummondville",N,N,"",8,330,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+24018,Drummond","Drummond"," 86","Drummondville",N,N,"",8,330,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 86","Drummondville",N,N,"",8,330,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 86","Drummondville",N,N,"",8,330,"Komlosy","","André","Conservative","Conservateur",N,N,30
+24018,Drummond","Drummond"," 86","Drummondville",N,N,"",8,330,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,57
+24018,Drummond","Drummond"," 87","Drummondville",N,N,"",7,389,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+24018,Drummond","Drummond"," 87","Drummondville",N,N,"",7,389,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 87","Drummondville",N,N,"",7,389,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 87","Drummondville",N,N,"",7,389,"Komlosy","","André","Conservative","Conservateur",N,N,51
+24018,Drummond","Drummond"," 87","Drummondville",N,N,"",7,389,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,92
+24018,Drummond","Drummond"," 88","Drummondville",N,N,"",9,300,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24018,Drummond","Drummond"," 88","Drummondville",N,N,"",9,300,"Courchesne","","Jean","Liberal","Libéral",N,N,31
+24018,Drummond","Drummond"," 88","Drummondville",N,N,"",9,300,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 88","Drummondville",N,N,"",9,300,"Komlosy","","André","Conservative","Conservateur",N,N,31
+24018,Drummond","Drummond"," 88","Drummondville",N,N,"",9,300,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,74
+24018,Drummond","Drummond"," 89","Drummondville",N,N,"",4,337,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+24018,Drummond","Drummond"," 89","Drummondville",N,N,"",4,337,"Courchesne","","Jean","Liberal","Libéral",N,N,37
+24018,Drummond","Drummond"," 89","Drummondville",N,N,"",4,337,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 89","Drummondville",N,N,"",4,337,"Komlosy","","André","Conservative","Conservateur",N,N,27
+24018,Drummond","Drummond"," 89","Drummondville",N,N,"",4,337,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,71
+24018,Drummond","Drummond"," 90","Drummondville",N,N,"",5,366,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24018,Drummond","Drummond"," 90","Drummondville",N,N,"",5,366,"Courchesne","","Jean","Liberal","Libéral",N,N,134
+24018,Drummond","Drummond"," 90","Drummondville",N,N,"",5,366,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 90","Drummondville",N,N,"",5,366,"Komlosy","","André","Conservative","Conservateur",N,N,75
+24018,Drummond","Drummond"," 90","Drummondville",N,N,"",5,366,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,67
+24018,Drummond","Drummond"," 91","Drummondville",N,N,"",7,350,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24018,Drummond","Drummond"," 91","Drummondville",N,N,"",7,350,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 91","Drummondville",N,N,"",7,350,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 91","Drummondville",N,N,"",7,350,"Komlosy","","André","Conservative","Conservateur",N,N,40
+24018,Drummond","Drummond"," 91","Drummondville",N,N,"",7,350,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,56
+24018,Drummond","Drummond"," 92","Drummondville",N,N,"",5,395,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+24018,Drummond","Drummond"," 92","Drummondville",N,N,"",5,395,"Courchesne","","Jean","Liberal","Libéral",N,N,62
+24018,Drummond","Drummond"," 92","Drummondville",N,N,"",5,395,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 92","Drummondville",N,N,"",5,395,"Komlosy","","André","Conservative","Conservateur",N,N,38
+24018,Drummond","Drummond"," 92","Drummondville",N,N,"",5,395,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,64
+24018,Drummond","Drummond"," 93","Drummondville",N,N,"",8,461,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 93","Drummondville",N,N,"",8,461,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 93","Drummondville",N,N,"",8,461,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 93","Drummondville",N,N,"",8,461,"Komlosy","","André","Conservative","Conservateur",N,N,49
+24018,Drummond","Drummond"," 93","Drummondville",N,N,"",8,461,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,95
+24018,Drummond","Drummond"," 94","Drummondville",N,N,"",4,297,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24018,Drummond","Drummond"," 94","Drummondville",N,N,"",4,297,"Courchesne","","Jean","Liberal","Libéral",N,N,13
+24018,Drummond","Drummond"," 94","Drummondville",N,N,"",4,297,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 94","Drummondville",N,N,"",4,297,"Komlosy","","André","Conservative","Conservateur",N,N,24
+24018,Drummond","Drummond"," 94","Drummondville",N,N,"",4,297,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,56
+24018,Drummond","Drummond"," 95","Drummondville",N,N,"",4,373,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+24018,Drummond","Drummond"," 95","Drummondville",N,N,"",4,373,"Courchesne","","Jean","Liberal","Libéral",N,N,46
+24018,Drummond","Drummond"," 95","Drummondville",N,N,"",4,373,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 95","Drummondville",N,N,"",4,373,"Komlosy","","André","Conservative","Conservateur",N,N,37
+24018,Drummond","Drummond"," 95","Drummondville",N,N,"",4,373,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,72
+24018,Drummond","Drummond"," 96","Drummondville",N,N,"",3,350,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 96","Drummondville",N,N,"",3,350,"Courchesne","","Jean","Liberal","Libéral",N,N,44
+24018,Drummond","Drummond"," 96","Drummondville",N,N,"",3,350,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 96","Drummondville",N,N,"",3,350,"Komlosy","","André","Conservative","Conservateur",N,N,56
+24018,Drummond","Drummond"," 96","Drummondville",N,N,"",3,350,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,58
+24018,Drummond","Drummond"," 97","Drummondville",N,N,"",7,373,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 97","Drummondville",N,N,"",7,373,"Courchesne","","Jean","Liberal","Libéral",N,N,43
+24018,Drummond","Drummond"," 97","Drummondville",N,N,"",7,373,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 97","Drummondville",N,N,"",7,373,"Komlosy","","André","Conservative","Conservateur",N,N,55
+24018,Drummond","Drummond"," 97","Drummondville",N,N,"",7,373,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,91
+24018,Drummond","Drummond"," 98","Drummondville",N,N,"",6,400,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+24018,Drummond","Drummond"," 98","Drummondville",N,N,"",6,400,"Courchesne","","Jean","Liberal","Libéral",N,N,33
+24018,Drummond","Drummond"," 98","Drummondville",N,N,"",6,400,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 98","Drummondville",N,N,"",6,400,"Komlosy","","André","Conservative","Conservateur",N,N,59
+24018,Drummond","Drummond"," 98","Drummondville",N,N,"",6,400,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,68
+24018,Drummond","Drummond"," 99","Drummondville",N,N,"",6,454,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+24018,Drummond","Drummond"," 99","Drummondville",N,N,"",6,454,"Courchesne","","Jean","Liberal","Libéral",N,N,33
+24018,Drummond","Drummond"," 99","Drummondville",N,N,"",6,454,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 99","Drummondville",N,N,"",6,454,"Komlosy","","André","Conservative","Conservateur",N,N,66
+24018,Drummond","Drummond"," 99","Drummondville",N,N,"",6,454,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,90
+24018,Drummond","Drummond"," 100","Drummondville",N,N,"",1,368,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+24018,Drummond","Drummond"," 100","Drummondville",N,N,"",1,368,"Courchesne","","Jean","Liberal","Libéral",N,N,38
+24018,Drummond","Drummond"," 100","Drummondville",N,N,"",1,368,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 100","Drummondville",N,N,"",1,368,"Komlosy","","André","Conservative","Conservateur",N,N,31
+24018,Drummond","Drummond"," 100","Drummondville",N,N,"",1,368,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,65
+24018,Drummond","Drummond"," 101","Drummondville",N,N,"",6,480,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+24018,Drummond","Drummond"," 101","Drummondville",N,N,"",6,480,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 101","Drummondville",N,N,"",6,480,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 101","Drummondville",N,N,"",6,480,"Komlosy","","André","Conservative","Conservateur",N,N,27
+24018,Drummond","Drummond"," 101","Drummondville",N,N,"",6,480,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,83
+24018,Drummond","Drummond"," 102","Drummondville",N,N,"",5,306,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+24018,Drummond","Drummond"," 102","Drummondville",N,N,"",5,306,"Courchesne","","Jean","Liberal","Libéral",N,N,32
+24018,Drummond","Drummond"," 102","Drummondville",N,N,"",5,306,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 102","Drummondville",N,N,"",5,306,"Komlosy","","André","Conservative","Conservateur",N,N,33
+24018,Drummond","Drummond"," 102","Drummondville",N,N,"",5,306,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,48
+24018,Drummond","Drummond"," 103","Drummondville",N,N,"",3,379,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+24018,Drummond","Drummond"," 103","Drummondville",N,N,"",3,379,"Courchesne","","Jean","Liberal","Libéral",N,N,35
+24018,Drummond","Drummond"," 103","Drummondville",N,N,"",3,379,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 103","Drummondville",N,N,"",3,379,"Komlosy","","André","Conservative","Conservateur",N,N,47
+24018,Drummond","Drummond"," 103","Drummondville",N,N,"",3,379,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,73
+24018,Drummond","Drummond"," 104","Drummondville",N,N,"",4,607,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+24018,Drummond","Drummond"," 104","Drummondville",N,N,"",4,607,"Courchesne","","Jean","Liberal","Libéral",N,N,67
+24018,Drummond","Drummond"," 104","Drummondville",N,N,"",4,607,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 104","Drummondville",N,N,"",4,607,"Komlosy","","André","Conservative","Conservateur",N,N,74
+24018,Drummond","Drummond"," 104","Drummondville",N,N,"",4,607,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,112
+24018,Drummond","Drummond"," 105","Drummondville",N,N,"",3,397,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+24018,Drummond","Drummond"," 105","Drummondville",N,N,"",3,397,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 105","Drummondville",N,N,"",3,397,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 105","Drummondville",N,N,"",3,397,"Komlosy","","André","Conservative","Conservateur",N,N,63
+24018,Drummond","Drummond"," 105","Drummondville",N,N,"",3,397,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,104
+24018,Drummond","Drummond"," 106","Drummondville",N,N,"",4,620,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+24018,Drummond","Drummond"," 106","Drummondville",N,N,"",4,620,"Courchesne","","Jean","Liberal","Libéral",N,N,46
+24018,Drummond","Drummond"," 106","Drummondville",N,N,"",4,620,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 106","Drummondville",N,N,"",4,620,"Komlosy","","André","Conservative","Conservateur",N,N,79
+24018,Drummond","Drummond"," 106","Drummondville",N,N,"",4,620,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,115
+24018,Drummond","Drummond"," 107","Drummondville",N,N,"",4,755,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+24018,Drummond","Drummond"," 107","Drummondville",N,N,"",4,755,"Courchesne","","Jean","Liberal","Libéral",N,N,65
+24018,Drummond","Drummond"," 107","Drummondville",N,N,"",4,755,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 107","Drummondville",N,N,"",4,755,"Komlosy","","André","Conservative","Conservateur",N,N,102
+24018,Drummond","Drummond"," 107","Drummondville",N,N,"",4,755,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,156
+24018,Drummond","Drummond"," 108A","Drummondville",N,N,"",2,380,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+24018,Drummond","Drummond"," 108A","Drummondville",N,N,"",2,380,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 108A","Drummondville",N,N,"",2,380,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 108A","Drummondville",N,N,"",2,380,"Komlosy","","André","Conservative","Conservateur",N,N,39
+24018,Drummond","Drummond"," 108A","Drummondville",N,N,"",2,380,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,79
+24018,Drummond","Drummond"," 108B","Drummondville",N,N,"",5,357,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 108B","Drummondville",N,N,"",5,357,"Courchesne","","Jean","Liberal","Libéral",N,N,20
+24018,Drummond","Drummond"," 108B","Drummondville",N,N,"",5,357,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 108B","Drummondville",N,N,"",5,357,"Komlosy","","André","Conservative","Conservateur",N,N,47
+24018,Drummond","Drummond"," 108B","Drummondville",N,N,"",5,357,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,96
+24018,Drummond","Drummond"," 108C","Drummondville",N,N,"",3,355,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24018,Drummond","Drummond"," 108C","Drummondville",N,N,"",3,355,"Courchesne","","Jean","Liberal","Libéral",N,N,19
+24018,Drummond","Drummond"," 108C","Drummondville",N,N,"",3,355,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 108C","Drummondville",N,N,"",3,355,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 108C","Drummondville",N,N,"",3,355,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,65
+24018,Drummond","Drummond"," 109","Drummondville",N,N,"",6,718,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+24018,Drummond","Drummond"," 109","Drummondville",N,N,"",6,718,"Courchesne","","Jean","Liberal","Libéral",N,N,69
+24018,Drummond","Drummond"," 109","Drummondville",N,N,"",6,718,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,14
+24018,Drummond","Drummond"," 109","Drummondville",N,N,"",6,718,"Komlosy","","André","Conservative","Conservateur",N,N,104
+24018,Drummond","Drummond"," 109","Drummondville",N,N,"",6,718,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,152
+24018,Drummond","Drummond"," 110","Drummondville",N,N,"",1,397,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 110","Drummondville",N,N,"",1,397,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 110","Drummondville",N,N,"",1,397,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 110","Drummondville",N,N,"",1,397,"Komlosy","","André","Conservative","Conservateur",N,N,60
+24018,Drummond","Drummond"," 110","Drummondville",N,N,"",1,397,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,83
+24018,Drummond","Drummond"," 111","Drummondville",N,N,"",6,492,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+24018,Drummond","Drummond"," 111","Drummondville",N,N,"",6,492,"Courchesne","","Jean","Liberal","Libéral",N,N,39
+24018,Drummond","Drummond"," 111","Drummondville",N,N,"",6,492,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 111","Drummondville",N,N,"",6,492,"Komlosy","","André","Conservative","Conservateur",N,N,55
+24018,Drummond","Drummond"," 111","Drummondville",N,N,"",6,492,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,111
+24018,Drummond","Drummond"," 112","Drummondville",N,N,"",4,340,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+24018,Drummond","Drummond"," 112","Drummondville",N,N,"",4,340,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 112","Drummondville",N,N,"",4,340,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 112","Drummondville",N,N,"",4,340,"Komlosy","","André","Conservative","Conservateur",N,N,37
+24018,Drummond","Drummond"," 112","Drummondville",N,N,"",4,340,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,53
+24018,Drummond","Drummond"," 113","Drummondville",N,N,"",9,356,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+24018,Drummond","Drummond"," 113","Drummondville",N,N,"",9,356,"Courchesne","","Jean","Liberal","Libéral",N,N,21
+24018,Drummond","Drummond"," 113","Drummondville",N,N,"",9,356,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 113","Drummondville",N,N,"",9,356,"Komlosy","","André","Conservative","Conservateur",N,N,38
+24018,Drummond","Drummond"," 113","Drummondville",N,N,"",9,356,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,61
+24018,Drummond","Drummond"," 114","Drummondville",N,N,"",7,362,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+24018,Drummond","Drummond"," 114","Drummondville",N,N,"",7,362,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 114","Drummondville",N,N,"",7,362,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 114","Drummondville",N,N,"",7,362,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 114","Drummondville",N,N,"",7,362,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,38
+24018,Drummond","Drummond"," 115","Drummondville",N,N,"",5,405,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+24018,Drummond","Drummond"," 115","Drummondville",N,N,"",5,405,"Courchesne","","Jean","Liberal","Libéral",N,N,12
+24018,Drummond","Drummond"," 115","Drummondville",N,N,"",5,405,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 115","Drummondville",N,N,"",5,405,"Komlosy","","André","Conservative","Conservateur",N,N,41
+24018,Drummond","Drummond"," 115","Drummondville",N,N,"",5,405,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,81
+24018,Drummond","Drummond"," 116","Drummondville",N,N,"",1,374,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+24018,Drummond","Drummond"," 116","Drummondville",N,N,"",1,374,"Courchesne","","Jean","Liberal","Libéral",N,N,19
+24018,Drummond","Drummond"," 116","Drummondville",N,N,"",1,374,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 116","Drummondville",N,N,"",1,374,"Komlosy","","André","Conservative","Conservateur",N,N,49
+24018,Drummond","Drummond"," 116","Drummondville",N,N,"",1,374,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,71
+24018,Drummond","Drummond"," 117","Drummondville",N,N,"",4,380,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+24018,Drummond","Drummond"," 117","Drummondville",N,N,"",4,380,"Courchesne","","Jean","Liberal","Libéral",N,N,35
+24018,Drummond","Drummond"," 117","Drummondville",N,N,"",4,380,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 117","Drummondville",N,N,"",4,380,"Komlosy","","André","Conservative","Conservateur",N,N,46
+24018,Drummond","Drummond"," 117","Drummondville",N,N,"",4,380,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,67
+24018,Drummond","Drummond"," 118","Drummondville",N,N,"",2,359,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+24018,Drummond","Drummond"," 118","Drummondville",N,N,"",2,359,"Courchesne","","Jean","Liberal","Libéral",N,N,33
+24018,Drummond","Drummond"," 118","Drummondville",N,N,"",2,359,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 118","Drummondville",N,N,"",2,359,"Komlosy","","André","Conservative","Conservateur",N,N,35
+24018,Drummond","Drummond"," 118","Drummondville",N,N,"",2,359,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,67
+24018,Drummond","Drummond"," 119","Drummondville",N,N,"",11,309,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+24018,Drummond","Drummond"," 119","Drummondville",N,N,"",11,309,"Courchesne","","Jean","Liberal","Libéral",N,N,47
+24018,Drummond","Drummond"," 119","Drummondville",N,N,"",11,309,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 119","Drummondville",N,N,"",11,309,"Komlosy","","André","Conservative","Conservateur",N,N,50
+24018,Drummond","Drummond"," 119","Drummondville",N,N,"",11,309,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,76
+24018,Drummond","Drummond"," 120","Drummondville",N,N,"",0,336,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24018,Drummond","Drummond"," 120","Drummondville",N,N,"",0,336,"Courchesne","","Jean","Liberal","Libéral",N,N,50
+24018,Drummond","Drummond"," 120","Drummondville",N,N,"",0,336,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 120","Drummondville",N,N,"",0,336,"Komlosy","","André","Conservative","Conservateur",N,N,44
+24018,Drummond","Drummond"," 120","Drummondville",N,N,"",0,336,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,69
+24018,Drummond","Drummond"," 121","Drummondville",N,N,"",9,362,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+24018,Drummond","Drummond"," 121","Drummondville",N,N,"",9,362,"Courchesne","","Jean","Liberal","Libéral",N,N,26
+24018,Drummond","Drummond"," 121","Drummondville",N,N,"",9,362,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 121","Drummondville",N,N,"",9,362,"Komlosy","","André","Conservative","Conservateur",N,N,50
+24018,Drummond","Drummond"," 121","Drummondville",N,N,"",9,362,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,81
+24018,Drummond","Drummond"," 122","Drummondville",N,N,"",4,312,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+24018,Drummond","Drummond"," 122","Drummondville",N,N,"",4,312,"Courchesne","","Jean","Liberal","Libéral",N,N,32
+24018,Drummond","Drummond"," 122","Drummondville",N,N,"",4,312,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 122","Drummondville",N,N,"",4,312,"Komlosy","","André","Conservative","Conservateur",N,N,35
+24018,Drummond","Drummond"," 122","Drummondville",N,N,"",4,312,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,55
+24018,Drummond","Drummond"," 123","Drummondville",N,N,"",0,344,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24018,Drummond","Drummond"," 123","Drummondville",N,N,"",0,344,"Courchesne","","Jean","Liberal","Libéral",N,N,29
+24018,Drummond","Drummond"," 123","Drummondville",N,N,"",0,344,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 123","Drummondville",N,N,"",0,344,"Komlosy","","André","Conservative","Conservateur",N,N,41
+24018,Drummond","Drummond"," 123","Drummondville",N,N,"",0,344,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,74
+24018,Drummond","Drummond"," 124","Drummondville",N,N,"",3,320,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24018,Drummond","Drummond"," 124","Drummondville",N,N,"",3,320,"Courchesne","","Jean","Liberal","Libéral",N,N,20
+24018,Drummond","Drummond"," 124","Drummondville",N,N,"",3,320,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 124","Drummondville",N,N,"",3,320,"Komlosy","","André","Conservative","Conservateur",N,N,20
+24018,Drummond","Drummond"," 124","Drummondville",N,N,"",3,320,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,48
+24018,Drummond","Drummond"," 125","Drummondville",N,N,"",4,254,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24018,Drummond","Drummond"," 125","Drummondville",N,N,"",4,254,"Courchesne","","Jean","Liberal","Libéral",N,N,10
+24018,Drummond","Drummond"," 125","Drummondville",N,N,"",4,254,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 125","Drummondville",N,N,"",4,254,"Komlosy","","André","Conservative","Conservateur",N,N,14
+24018,Drummond","Drummond"," 125","Drummondville",N,N,"",4,254,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,44
+24018,Drummond","Drummond"," 126","Drummondville",N,N,"",4,341,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+24018,Drummond","Drummond"," 126","Drummondville",N,N,"",4,341,"Courchesne","","Jean","Liberal","Libéral",N,N,33
+24018,Drummond","Drummond"," 126","Drummondville",N,N,"",4,341,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 126","Drummondville",N,N,"",4,341,"Komlosy","","André","Conservative","Conservateur",N,N,60
+24018,Drummond","Drummond"," 126","Drummondville",N,N,"",4,341,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,77
+24018,Drummond","Drummond"," 127","Drummondville",N,N,"",7,382,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+24018,Drummond","Drummond"," 127","Drummondville",N,N,"",7,382,"Courchesne","","Jean","Liberal","Libéral",N,N,39
+24018,Drummond","Drummond"," 127","Drummondville",N,N,"",7,382,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 127","Drummondville",N,N,"",7,382,"Komlosy","","André","Conservative","Conservateur",N,N,58
+24018,Drummond","Drummond"," 127","Drummondville",N,N,"",7,382,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,81
+24018,Drummond","Drummond"," 128","Drummondville",N,N,"",11,352,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+24018,Drummond","Drummond"," 128","Drummondville",N,N,"",11,352,"Courchesne","","Jean","Liberal","Libéral",N,N,28
+24018,Drummond","Drummond"," 128","Drummondville",N,N,"",11,352,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 128","Drummondville",N,N,"",11,352,"Komlosy","","André","Conservative","Conservateur",N,N,45
+24018,Drummond","Drummond"," 128","Drummondville",N,N,"",11,352,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,68
+24018,Drummond","Drummond"," 129","Drummondville",N,N,"",3,352,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+24018,Drummond","Drummond"," 129","Drummondville",N,N,"",3,352,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 129","Drummondville",N,N,"",3,352,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 129","Drummondville",N,N,"",3,352,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 129","Drummondville",N,N,"",3,352,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,65
+24018,Drummond","Drummond"," 130","Drummondville",N,N,"",11,648,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+24018,Drummond","Drummond"," 130","Drummondville",N,N,"",11,648,"Courchesne","","Jean","Liberal","Libéral",N,N,47
+24018,Drummond","Drummond"," 130","Drummondville",N,N,"",11,648,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 130","Drummondville",N,N,"",11,648,"Komlosy","","André","Conservative","Conservateur",N,N,64
+24018,Drummond","Drummond"," 130","Drummondville",N,N,"",11,648,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,143
+24018,Drummond","Drummond"," 131","Drummondville",N,N,"",3,403,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+24018,Drummond","Drummond"," 131","Drummondville",N,N,"",3,403,"Courchesne","","Jean","Liberal","Libéral",N,N,17
+24018,Drummond","Drummond"," 131","Drummondville",N,N,"",3,403,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 131","Drummondville",N,N,"",3,403,"Komlosy","","André","Conservative","Conservateur",N,N,33
+24018,Drummond","Drummond"," 131","Drummondville",N,N,"",3,403,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,101
+24018,Drummond","Drummond"," 132","Drummondville",N,N,"",2,380,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+24018,Drummond","Drummond"," 132","Drummondville",N,N,"",2,380,"Courchesne","","Jean","Liberal","Libéral",N,N,54
+24018,Drummond","Drummond"," 132","Drummondville",N,N,"",2,380,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 132","Drummondville",N,N,"",2,380,"Komlosy","","André","Conservative","Conservateur",N,N,66
+24018,Drummond","Drummond"," 132","Drummondville",N,N,"",2,380,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,87
+24018,Drummond","Drummond"," 133","Drummondville",N,N,"",5,373,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+24018,Drummond","Drummond"," 133","Drummondville",N,N,"",5,373,"Courchesne","","Jean","Liberal","Libéral",N,N,38
+24018,Drummond","Drummond"," 133","Drummondville",N,N,"",5,373,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 133","Drummondville",N,N,"",5,373,"Komlosy","","André","Conservative","Conservateur",N,N,42
+24018,Drummond","Drummond"," 133","Drummondville",N,N,"",5,373,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,72
+24018,Drummond","Drummond"," 134","Drummondville",N,N,"",2,246,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24018,Drummond","Drummond"," 134","Drummondville",N,N,"",2,246,"Courchesne","","Jean","Liberal","Libéral",N,N,12
+24018,Drummond","Drummond"," 134","Drummondville",N,N,"",2,246,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 134","Drummondville",N,N,"",2,246,"Komlosy","","André","Conservative","Conservateur",N,N,36
+24018,Drummond","Drummond"," 134","Drummondville",N,N,"",2,246,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,56
+24018,Drummond","Drummond"," 135","Drummondville",N,N,"",1,458,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+24018,Drummond","Drummond"," 135","Drummondville",N,N,"",1,458,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 135","Drummondville",N,N,"",1,458,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 135","Drummondville",N,N,"",1,458,"Komlosy","","André","Conservative","Conservateur",N,N,59
+24018,Drummond","Drummond"," 135","Drummondville",N,N,"",1,458,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,111
+24018,Drummond","Drummond"," 136","Drummondville",N,N,"",4,378,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+24018,Drummond","Drummond"," 136","Drummondville",N,N,"",4,378,"Courchesne","","Jean","Liberal","Libéral",N,N,45
+24018,Drummond","Drummond"," 136","Drummondville",N,N,"",4,378,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 136","Drummondville",N,N,"",4,378,"Komlosy","","André","Conservative","Conservateur",N,N,74
+24018,Drummond","Drummond"," 136","Drummondville",N,N,"",4,378,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,69
+24018,Drummond","Drummond"," 137","Drummondville",N,N,"",11,451,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24018,Drummond","Drummond"," 137","Drummondville",N,N,"",11,451,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 137","Drummondville",N,N,"",11,451,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 137","Drummondville",N,N,"",11,451,"Komlosy","","André","Conservative","Conservateur",N,N,77
+24018,Drummond","Drummond"," 137","Drummondville",N,N,"",11,451,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,81
+24018,Drummond","Drummond"," 138","Drummondville",N,N,"",5,450,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24018,Drummond","Drummond"," 138","Drummondville",N,N,"",5,450,"Courchesne","","Jean","Liberal","Libéral",N,N,39
+24018,Drummond","Drummond"," 138","Drummondville",N,N,"",5,450,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 138","Drummondville",N,N,"",5,450,"Komlosy","","André","Conservative","Conservateur",N,N,52
+24018,Drummond","Drummond"," 138","Drummondville",N,N,"",5,450,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,82
+24018,Drummond","Drummond"," 139","Drummondville",N,N,"",4,215,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+24018,Drummond","Drummond"," 139","Drummondville",N,N,"",4,215,"Courchesne","","Jean","Liberal","Libéral",N,N,19
+24018,Drummond","Drummond"," 139","Drummondville",N,N,"",4,215,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 139","Drummondville",N,N,"",4,215,"Komlosy","","André","Conservative","Conservateur",N,N,30
+24018,Drummond","Drummond"," 139","Drummondville",N,N,"",4,215,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,49
+24018,Drummond","Drummond"," 140","Drummondville",N,N,"",5,568,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+24018,Drummond","Drummond"," 140","Drummondville",N,N,"",5,568,"Courchesne","","Jean","Liberal","Libéral",N,N,48
+24018,Drummond","Drummond"," 140","Drummondville",N,N,"",5,568,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,11
+24018,Drummond","Drummond"," 140","Drummondville",N,N,"",5,568,"Komlosy","","André","Conservative","Conservateur",N,N,66
+24018,Drummond","Drummond"," 140","Drummondville",N,N,"",5,568,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,132
+24018,Drummond","Drummond"," 141","Saint-Nicéphore",N,N,"",1,250,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24018,Drummond","Drummond"," 141","Saint-Nicéphore",N,N,"",1,250,"Courchesne","","Jean","Liberal","Libéral",N,N,26
+24018,Drummond","Drummond"," 141","Saint-Nicéphore",N,N,"",1,250,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 141","Saint-Nicéphore",N,N,"",1,250,"Komlosy","","André","Conservative","Conservateur",N,N,36
+24018,Drummond","Drummond"," 141","Saint-Nicéphore",N,N,"",1,250,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,61
+24018,Drummond","Drummond"," 142","Saint-Nicéphore",N,N,"",2,316,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24018,Drummond","Drummond"," 142","Saint-Nicéphore",N,N,"",2,316,"Courchesne","","Jean","Liberal","Libéral",N,N,30
+24018,Drummond","Drummond"," 142","Saint-Nicéphore",N,N,"",2,316,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 142","Saint-Nicéphore",N,N,"",2,316,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 142","Saint-Nicéphore",N,N,"",2,316,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,79
+24018,Drummond","Drummond"," 143","Saint-Nicéphore",N,N,"",2,529,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+24018,Drummond","Drummond"," 143","Saint-Nicéphore",N,N,"",2,529,"Courchesne","","Jean","Liberal","Libéral",N,N,32
+24018,Drummond","Drummond"," 143","Saint-Nicéphore",N,N,"",2,529,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 143","Saint-Nicéphore",N,N,"",2,529,"Komlosy","","André","Conservative","Conservateur",N,N,73
+24018,Drummond","Drummond"," 143","Saint-Nicéphore",N,N,"",2,529,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,138
+24018,Drummond","Drummond"," 144A","Saint-Nicéphore",N,N,"",8,404,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+24018,Drummond","Drummond"," 144A","Saint-Nicéphore",N,N,"",8,404,"Courchesne","","Jean","Liberal","Libéral",N,N,32
+24018,Drummond","Drummond"," 144A","Saint-Nicéphore",N,N,"",8,404,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 144A","Saint-Nicéphore",N,N,"",8,404,"Komlosy","","André","Conservative","Conservateur",N,N,43
+24018,Drummond","Drummond"," 144A","Saint-Nicéphore",N,N,"",8,404,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,99
+24018,Drummond","Drummond"," 144B","Saint-Nicéphore",N,N,"",4,393,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+24018,Drummond","Drummond"," 144B","Saint-Nicéphore",N,N,"",4,393,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 144B","Saint-Nicéphore",N,N,"",4,393,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 144B","Saint-Nicéphore",N,N,"",4,393,"Komlosy","","André","Conservative","Conservateur",N,N,42
+24018,Drummond","Drummond"," 144B","Saint-Nicéphore",N,N,"",4,393,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,94
+24018,Drummond","Drummond"," 145","Saint-Nicéphore",N,N,"",12,553,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+24018,Drummond","Drummond"," 145","Saint-Nicéphore",N,N,"",12,553,"Courchesne","","Jean","Liberal","Libéral",N,N,29
+24018,Drummond","Drummond"," 145","Saint-Nicéphore",N,N,"",12,553,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 145","Saint-Nicéphore",N,N,"",12,553,"Komlosy","","André","Conservative","Conservateur",N,N,46
+24018,Drummond","Drummond"," 145","Saint-Nicéphore",N,N,"",12,553,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,121
+24018,Drummond","Drummond"," 146","Drummondville",N,N,"",7,497,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24018,Drummond","Drummond"," 146","Drummondville",N,N,"",7,497,"Courchesne","","Jean","Liberal","Libéral",N,N,31
+24018,Drummond","Drummond"," 146","Drummondville",N,N,"",7,497,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 146","Drummondville",N,N,"",7,497,"Komlosy","","André","Conservative","Conservateur",N,N,62
+24018,Drummond","Drummond"," 146","Drummondville",N,N,"",7,497,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,122
+24018,Drummond","Drummond"," 147","Saint-Nicéphore",N,N,"",5,480,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+24018,Drummond","Drummond"," 147","Saint-Nicéphore",N,N,"",5,480,"Courchesne","","Jean","Liberal","Libéral",N,N,28
+24018,Drummond","Drummond"," 147","Saint-Nicéphore",N,N,"",5,480,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 147","Saint-Nicéphore",N,N,"",5,480,"Komlosy","","André","Conservative","Conservateur",N,N,55
+24018,Drummond","Drummond"," 147","Saint-Nicéphore",N,N,"",5,480,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,127
+24018,Drummond","Drummond"," 148","Saint-Nicéphore",N,N,"",5,405,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+24018,Drummond","Drummond"," 148","Saint-Nicéphore",N,N,"",5,405,"Courchesne","","Jean","Liberal","Libéral",N,N,15
+24018,Drummond","Drummond"," 148","Saint-Nicéphore",N,N,"",5,405,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 148","Saint-Nicéphore",N,N,"",5,405,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 148","Saint-Nicéphore",N,N,"",5,405,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,83
+24018,Drummond","Drummond"," 149","Saint-Nicéphore",N,N,"",10,435,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 149","Saint-Nicéphore",N,N,"",10,435,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 149","Saint-Nicéphore",N,N,"",10,435,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 149","Saint-Nicéphore",N,N,"",10,435,"Komlosy","","André","Conservative","Conservateur",N,N,44
+24018,Drummond","Drummond"," 149","Saint-Nicéphore",N,N,"",10,435,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,91
+24018,Drummond","Drummond"," 150","Saint-Nicéphore",N,N,"",2,427,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+24018,Drummond","Drummond"," 150","Saint-Nicéphore",N,N,"",2,427,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 150","Saint-Nicéphore",N,N,"",2,427,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 150","Saint-Nicéphore",N,N,"",2,427,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 150","Saint-Nicéphore",N,N,"",2,427,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,93
+24018,Drummond","Drummond"," 151A","Saint-Nicéphore",N,N,"",7,376,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+24018,Drummond","Drummond"," 151A","Saint-Nicéphore",N,N,"",7,376,"Courchesne","","Jean","Liberal","Libéral",N,N,25
+24018,Drummond","Drummond"," 151A","Saint-Nicéphore",N,N,"",7,376,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 151A","Saint-Nicéphore",N,N,"",7,376,"Komlosy","","André","Conservative","Conservateur",N,N,47
+24018,Drummond","Drummond"," 151A","Saint-Nicéphore",N,N,"",7,376,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,75
+24018,Drummond","Drummond"," 151B","Saint-Nicéphore",N,N,"",5,375,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24018,Drummond","Drummond"," 151B","Saint-Nicéphore",N,N,"",5,375,"Courchesne","","Jean","Liberal","Libéral",N,N,22
+24018,Drummond","Drummond"," 151B","Saint-Nicéphore",N,N,"",5,375,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 151B","Saint-Nicéphore",N,N,"",5,375,"Komlosy","","André","Conservative","Conservateur",N,N,30
+24018,Drummond","Drummond"," 151B","Saint-Nicéphore",N,N,"",5,375,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,91
+24018,Drummond","Drummond"," 152","Saint-Nicéphore",N,N,"",2,363,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+24018,Drummond","Drummond"," 152","Saint-Nicéphore",N,N,"",2,363,"Courchesne","","Jean","Liberal","Libéral",N,N,18
+24018,Drummond","Drummond"," 152","Saint-Nicéphore",N,N,"",2,363,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 152","Saint-Nicéphore",N,N,"",2,363,"Komlosy","","André","Conservative","Conservateur",N,N,44
+24018,Drummond","Drummond"," 152","Saint-Nicéphore",N,N,"",2,363,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,72
+24018,Drummond","Drummond"," 153","Saint-Nicéphore",N,N,"",12,571,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+24018,Drummond","Drummond"," 153","Saint-Nicéphore",N,N,"",12,571,"Courchesne","","Jean","Liberal","Libéral",N,N,37
+24018,Drummond","Drummond"," 153","Saint-Nicéphore",N,N,"",12,571,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 153","Saint-Nicéphore",N,N,"",12,571,"Komlosy","","André","Conservative","Conservateur",N,N,67
+24018,Drummond","Drummond"," 153","Saint-Nicéphore",N,N,"",12,571,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,136
+24018,Drummond","Drummond"," 154","Saint-Nicéphore",N,N,"",4,457,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+24018,Drummond","Drummond"," 154","Saint-Nicéphore",N,N,"",4,457,"Courchesne","","Jean","Liberal","Libéral",N,N,17
+24018,Drummond","Drummond"," 154","Saint-Nicéphore",N,N,"",4,457,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 154","Saint-Nicéphore",N,N,"",4,457,"Komlosy","","André","Conservative","Conservateur",N,N,47
+24018,Drummond","Drummond"," 154","Saint-Nicéphore",N,N,"",4,457,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,91
+24018,Drummond","Drummond"," 155","Saint-Nicéphore",N,N,"",4,319,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+24018,Drummond","Drummond"," 155","Saint-Nicéphore",N,N,"",4,319,"Courchesne","","Jean","Liberal","Libéral",N,N,24
+24018,Drummond","Drummond"," 155","Saint-Nicéphore",N,N,"",4,319,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 155","Saint-Nicéphore",N,N,"",4,319,"Komlosy","","André","Conservative","Conservateur",N,N,38
+24018,Drummond","Drummond"," 155","Saint-Nicéphore",N,N,"",4,319,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,54
+24018,Drummond","Drummond"," 156","Saint-Nicéphore",N,N,"",6,469,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 156","Saint-Nicéphore",N,N,"",6,469,"Courchesne","","Jean","Liberal","Libéral",N,N,23
+24018,Drummond","Drummond"," 156","Saint-Nicéphore",N,N,"",6,469,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 156","Saint-Nicéphore",N,N,"",6,469,"Komlosy","","André","Conservative","Conservateur",N,N,64
+24018,Drummond","Drummond"," 156","Saint-Nicéphore",N,N,"",6,469,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,88
+24018,Drummond","Drummond"," 157","Saint-Nicéphore",N,N,"",7,471,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+24018,Drummond","Drummond"," 157","Saint-Nicéphore",N,N,"",7,471,"Courchesne","","Jean","Liberal","Libéral",N,N,28
+24018,Drummond","Drummond"," 157","Saint-Nicéphore",N,N,"",7,471,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 157","Saint-Nicéphore",N,N,"",7,471,"Komlosy","","André","Conservative","Conservateur",N,N,43
+24018,Drummond","Drummond"," 157","Saint-Nicéphore",N,N,"",7,471,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,105
+24018,Drummond","Drummond"," 158","Saint-Nicéphore",N,N,"",6,341,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+24018,Drummond","Drummond"," 158","Saint-Nicéphore",N,N,"",6,341,"Courchesne","","Jean","Liberal","Libéral",N,N,27
+24018,Drummond","Drummond"," 158","Saint-Nicéphore",N,N,"",6,341,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 158","Saint-Nicéphore",N,N,"",6,341,"Komlosy","","André","Conservative","Conservateur",N,N,29
+24018,Drummond","Drummond"," 158","Saint-Nicéphore",N,N,"",6,341,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,55
+24018,Drummond","Drummond"," 159","Wickham",N,N,"",6,512,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+24018,Drummond","Drummond"," 159","Wickham",N,N,"",6,512,"Courchesne","","Jean","Liberal","Libéral",N,N,49
+24018,Drummond","Drummond"," 159","Wickham",N,N,"",6,512,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,13
+24018,Drummond","Drummond"," 159","Wickham",N,N,"",6,512,"Komlosy","","André","Conservative","Conservateur",N,N,60
+24018,Drummond","Drummond"," 159","Wickham",N,N,"",6,512,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,117
+24018,Drummond","Drummond"," 160","Wickham",N,N,"",9,502,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+24018,Drummond","Drummond"," 160","Wickham",N,N,"",9,502,"Courchesne","","Jean","Liberal","Libéral",N,N,47
+24018,Drummond","Drummond"," 160","Wickham",N,N,"",9,502,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 160","Wickham",N,N,"",9,502,"Komlosy","","André","Conservative","Conservateur",N,N,61
+24018,Drummond","Drummond"," 160","Wickham",N,N,"",9,502,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,100
+24018,Drummond","Drummond"," 161","Wickham",N,N,"",2,414,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+24018,Drummond","Drummond"," 161","Wickham",N,N,"",2,414,"Courchesne","","Jean","Liberal","Libéral",N,N,44
+24018,Drummond","Drummond"," 161","Wickham",N,N,"",2,414,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 161","Wickham",N,N,"",2,414,"Komlosy","","André","Conservative","Conservateur",N,N,60
+24018,Drummond","Drummond"," 161","Wickham",N,N,"",2,414,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,105
+24018,Drummond","Drummond"," 162","Wickham",N,N,"",7,423,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+24018,Drummond","Drummond"," 162","Wickham",N,N,"",7,423,"Courchesne","","Jean","Liberal","Libéral",N,N,36
+24018,Drummond","Drummond"," 162","Wickham",N,N,"",7,423,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 162","Wickham",N,N,"",7,423,"Komlosy","","André","Conservative","Conservateur",N,N,44
+24018,Drummond","Drummond"," 162","Wickham",N,N,"",7,423,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,94
+24018,Drummond","Drummond"," 163","Lefebvre",N,N,"",2,361,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+24018,Drummond","Drummond"," 163","Lefebvre",N,N,"",2,361,"Courchesne","","Jean","Liberal","Libéral",N,N,35
+24018,Drummond","Drummond"," 163","Lefebvre",N,N,"",2,361,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,9
+24018,Drummond","Drummond"," 163","Lefebvre",N,N,"",2,361,"Komlosy","","André","Conservative","Conservateur",N,N,44
+24018,Drummond","Drummond"," 163","Lefebvre",N,N,"",2,361,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,92
+24018,Drummond","Drummond"," 164","Lefebvre",N,N,"",3,249,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+24018,Drummond","Drummond"," 164","Lefebvre",N,N,"",3,249,"Courchesne","","Jean","Liberal","Libéral",N,N,18
+24018,Drummond","Drummond"," 164","Lefebvre",N,N,"",3,249,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,6
+24018,Drummond","Drummond"," 164","Lefebvre",N,N,"",3,249,"Komlosy","","André","Conservative","Conservateur",N,N,40
+24018,Drummond","Drummond"," 164","Lefebvre",N,N,"",3,249,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,55
+24018,Drummond","Drummond"," 165","Durham-Sud",N,N,"",5,371,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+24018,Drummond","Drummond"," 165","Durham-Sud",N,N,"",5,371,"Courchesne","","Jean","Liberal","Libéral",N,N,59
+24018,Drummond","Drummond"," 165","Durham-Sud",N,N,"",5,371,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 165","Durham-Sud",N,N,"",5,371,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 165","Durham-Sud",N,N,"",5,371,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,76
+24018,Drummond","Drummond"," 166","Durham-Sud",N,N,"",4,440,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+24018,Drummond","Drummond"," 166","Durham-Sud",N,N,"",4,440,"Courchesne","","Jean","Liberal","Libéral",N,N,49
+24018,Drummond","Drummond"," 166","Durham-Sud",N,N,"",4,440,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,16
+24018,Drummond","Drummond"," 166","Durham-Sud",N,N,"",4,440,"Komlosy","","André","Conservative","Conservateur",N,N,65
+24018,Drummond","Drummond"," 166","Durham-Sud",N,N,"",4,440,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,103
+24018,Drummond","Drummond"," 167","L'Avenir",N,N,"",2,534,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+24018,Drummond","Drummond"," 167","L'Avenir",N,N,"",2,534,"Courchesne","","Jean","Liberal","Libéral",N,N,45
+24018,Drummond","Drummond"," 167","L'Avenir",N,N,"",2,534,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,11
+24018,Drummond","Drummond"," 167","L'Avenir",N,N,"",2,534,"Komlosy","","André","Conservative","Conservateur",N,N,93
+24018,Drummond","Drummond"," 167","L'Avenir",N,N,"",2,534,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,122
+24018,Drummond","Drummond"," 168","L'Avenir",N,N,"",10,484,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+24018,Drummond","Drummond"," 168","L'Avenir",N,N,"",10,484,"Courchesne","","Jean","Liberal","Libéral",N,N,35
+24018,Drummond","Drummond"," 168","L'Avenir",N,N,"",10,484,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 168","L'Avenir",N,N,"",10,484,"Komlosy","","André","Conservative","Conservateur",N,N,62
+24018,Drummond","Drummond"," 168","L'Avenir",N,N,"",10,484,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,130
+24018,Drummond","Drummond"," 500","Mobile poll/Bureau itinérant",N,N,"",3,156,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24018,Drummond","Drummond"," 500","Mobile poll/Bureau itinérant",N,N,"",3,156,"Courchesne","","Jean","Liberal","Libéral",N,N,39
+24018,Drummond","Drummond"," 500","Mobile poll/Bureau itinérant",N,N,"",3,156,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 500","Mobile poll/Bureau itinérant",N,N,"",3,156,"Komlosy","","André","Conservative","Conservateur",N,N,25
+24018,Drummond","Drummond"," 500","Mobile poll/Bureau itinérant",N,N,"",3,156,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,11
+24018,Drummond","Drummond"," 501","Mobile poll/Bureau itinérant",N,N,"",2,224,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24018,Drummond","Drummond"," 501","Mobile poll/Bureau itinérant",N,N,"",2,224,"Courchesne","","Jean","Liberal","Libéral",N,N,63
+24018,Drummond","Drummond"," 501","Mobile poll/Bureau itinérant",N,N,"",2,224,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 501","Mobile poll/Bureau itinérant",N,N,"",2,224,"Komlosy","","André","Conservative","Conservateur",N,N,28
+24018,Drummond","Drummond"," 501","Mobile poll/Bureau itinérant",N,N,"",2,224,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,17
+24018,Drummond","Drummond"," 502","Mobile poll/Bureau itinérant",N,N,"",5,285,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+24018,Drummond","Drummond"," 502","Mobile poll/Bureau itinérant",N,N,"",5,285,"Courchesne","","Jean","Liberal","Libéral",N,N,71
+24018,Drummond","Drummond"," 502","Mobile poll/Bureau itinérant",N,N,"",5,285,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 502","Mobile poll/Bureau itinérant",N,N,"",5,285,"Komlosy","","André","Conservative","Conservateur",N,N,48
+24018,Drummond","Drummond"," 502","Mobile poll/Bureau itinérant",N,N,"",5,285,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,46
+24018,Drummond","Drummond"," 503","Mobile poll/Bureau itinérant",N,N,"",3,211,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24018,Drummond","Drummond"," 503","Mobile poll/Bureau itinérant",N,N,"",3,211,"Courchesne","","Jean","Liberal","Libéral",N,N,49
+24018,Drummond","Drummond"," 503","Mobile poll/Bureau itinérant",N,N,"",3,211,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 503","Mobile poll/Bureau itinérant",N,N,"",3,211,"Komlosy","","André","Conservative","Conservateur",N,N,35
+24018,Drummond","Drummond"," 503","Mobile poll/Bureau itinérant",N,N,"",3,211,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,28
+24018,Drummond","Drummond"," 504","Mobile poll/Bureau itinérant",N,N,"",6,271,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24018,Drummond","Drummond"," 504","Mobile poll/Bureau itinérant",N,N,"",6,271,"Courchesne","","Jean","Liberal","Libéral",N,N,62
+24018,Drummond","Drummond"," 504","Mobile poll/Bureau itinérant",N,N,"",6,271,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,2
+24018,Drummond","Drummond"," 504","Mobile poll/Bureau itinérant",N,N,"",6,271,"Komlosy","","André","Conservative","Conservateur",N,N,56
+24018,Drummond","Drummond"," 504","Mobile poll/Bureau itinérant",N,N,"",6,271,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,47
+24018,Drummond","Drummond"," 600","Saint-Cyrille-de-Wendover",N,N,"",5,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24018,Drummond","Drummond"," 600","Saint-Cyrille-de-Wendover",N,N,"",5,0,"Courchesne","","Jean","Liberal","Libéral",N,N,36
+24018,Drummond","Drummond"," 600","Saint-Cyrille-de-Wendover",N,N,"",5,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,14
+24018,Drummond","Drummond"," 600","Saint-Cyrille-de-Wendover",N,N,"",5,0,"Komlosy","","André","Conservative","Conservateur",N,N,96
+24018,Drummond","Drummond"," 600","Saint-Cyrille-de-Wendover",N,N,"",5,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,113
+24018,Drummond","Drummond"," 601","Saint-Majorique",N,N,"",1,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+24018,Drummond","Drummond"," 601","Saint-Majorique",N,N,"",1,0,"Courchesne","","Jean","Liberal","Libéral",N,N,23
+24018,Drummond","Drummond"," 601","Saint-Majorique",N,N,"",1,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,1
+24018,Drummond","Drummond"," 601","Saint-Majorique",N,N,"",1,0,"Komlosy","","André","Conservative","Conservateur",N,N,47
+24018,Drummond","Drummond"," 601","Saint-Majorique",N,N,"",1,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,94
+24018,Drummond","Drummond"," 602","Drummondville",N,N,"",4,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+24018,Drummond","Drummond"," 602","Drummondville",N,N,"",4,0,"Courchesne","","Jean","Liberal","Libéral",N,N,61
+24018,Drummond","Drummond"," 602","Drummondville",N,N,"",4,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,4
+24018,Drummond","Drummond"," 602","Drummondville",N,N,"",4,0,"Komlosy","","André","Conservative","Conservateur",N,N,131
+24018,Drummond","Drummond"," 602","Drummondville",N,N,"",4,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,119
+24018,Drummond","Drummond"," 603","Drummondville",N,N,"",5,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+24018,Drummond","Drummond"," 603","Drummondville",N,N,"",5,0,"Courchesne","","Jean","Liberal","Libéral",N,N,128
+24018,Drummond","Drummond"," 603","Drummondville",N,N,"",5,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,7
+24018,Drummond","Drummond"," 603","Drummondville",N,N,"",5,0,"Komlosy","","André","Conservative","Conservateur",N,N,174
+24018,Drummond","Drummond"," 603","Drummondville",N,N,"",5,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,156
+24018,Drummond","Drummond"," 604","Saint-Charles-de-Drummond",N,N,"",10,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+24018,Drummond","Drummond"," 604","Saint-Charles-de-Drummond",N,N,"",10,0,"Courchesne","","Jean","Liberal","Libéral",N,N,47
+24018,Drummond","Drummond"," 604","Saint-Charles-de-Drummond",N,N,"",10,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,10
+24018,Drummond","Drummond"," 604","Saint-Charles-de-Drummond",N,N,"",10,0,"Komlosy","","André","Conservative","Conservateur",N,N,150
+24018,Drummond","Drummond"," 604","Saint-Charles-de-Drummond",N,N,"",10,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,161
+24018,Drummond","Drummond"," 605","Drummondville",N,N,"",7,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+24018,Drummond","Drummond"," 605","Drummondville",N,N,"",7,0,"Courchesne","","Jean","Liberal","Libéral",N,N,121
+24018,Drummond","Drummond"," 605","Drummondville",N,N,"",7,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,13
+24018,Drummond","Drummond"," 605","Drummondville",N,N,"",7,0,"Komlosy","","André","Conservative","Conservateur",N,N,186
+24018,Drummond","Drummond"," 605","Drummondville",N,N,"",7,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,207
+24018,Drummond","Drummond"," 606","Drummondville",N,N,"",21,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+24018,Drummond","Drummond"," 606","Drummondville",N,N,"",21,0,"Courchesne","","Jean","Liberal","Libéral",N,N,149
+24018,Drummond","Drummond"," 606","Drummondville",N,N,"",21,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,15
+24018,Drummond","Drummond"," 606","Drummondville",N,N,"",21,0,"Komlosy","","André","Conservative","Conservateur",N,N,296
+24018,Drummond","Drummond"," 606","Drummondville",N,N,"",21,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,312
+24018,Drummond","Drummond"," 607","Drummondville",N,N,"",11,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+24018,Drummond","Drummond"," 607","Drummondville",N,N,"",11,0,"Courchesne","","Jean","Liberal","Libéral",N,N,74
+24018,Drummond","Drummond"," 607","Drummondville",N,N,"",11,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,8
+24018,Drummond","Drummond"," 607","Drummondville",N,N,"",11,0,"Komlosy","","André","Conservative","Conservateur",N,N,115
+24018,Drummond","Drummond"," 607","Drummondville",N,N,"",11,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,157
+24018,Drummond","Drummond"," 608","Saint-Nicéphore",N,N,"",11,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+24018,Drummond","Drummond"," 608","Saint-Nicéphore",N,N,"",11,0,"Courchesne","","Jean","Liberal","Libéral",N,N,61
+24018,Drummond","Drummond"," 608","Saint-Nicéphore",N,N,"",11,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," 608","Saint-Nicéphore",N,N,"",11,0,"Komlosy","","André","Conservative","Conservateur",N,N,129
+24018,Drummond","Drummond"," 608","Saint-Nicéphore",N,N,"",11,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,223
+24018,Drummond","Drummond"," 609","Wickham",N,N,"",1,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24018,Drummond","Drummond"," 609","Wickham",N,N,"",1,0,"Courchesne","","Jean","Liberal","Libéral",N,N,18
+24018,Drummond","Drummond"," 609","Wickham",N,N,"",1,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,3
+24018,Drummond","Drummond"," 609","Wickham",N,N,"",1,0,"Komlosy","","André","Conservative","Conservateur",N,N,18
+24018,Drummond","Drummond"," 609","Wickham",N,N,"",1,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,47
+24018,Drummond","Drummond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,194,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24018,Drummond","Drummond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,194,"Courchesne","","Jean","Liberal","Libéral",N,N,17
+24018,Drummond","Drummond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,194,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,5
+24018,Drummond","Drummond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,194,"Komlosy","","André","Conservative","Conservateur",N,N,52
+24018,Drummond","Drummond"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,194,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,30
+24018,Drummond","Drummond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Corriveau","","Annick","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+24018,Drummond","Drummond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Courchesne","","Jean","Liberal","Libéral",N,N,183
+24018,Drummond","Drummond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Gagnon","","Réginald","Green Party","Parti Vert",N,N,20
+24018,Drummond","Drummond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Komlosy","","André","Conservative","Conservateur",N,N,390
+24018,Drummond","Drummond"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",13,0,"Pomerleau","","Roger","Bloc Québécois","Bloc Québécois",N,Y,415
+

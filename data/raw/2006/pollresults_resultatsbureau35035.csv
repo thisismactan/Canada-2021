@@ -1,0 +1,681 @@
+Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate's Family Name/Nom de famille du candidat,Candidate's Middle Name/Second prénom du candidat,Candidate's First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,216,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,40
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,216,"Brown","","Bill","Conservative","Conservateur",N,N,4
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,216,"Valley","","Roger","Liberal","Libéral",Y,Y,114
+35035,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",1,216,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,225,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,16
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,225,"Brown","","Bill","Conservative","Conservateur",N,N,3
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,225,"Valley","","Roger","Liberal","Libéral",Y,Y,117
+35035,"Kenora","Kenora"," 2","Bearskin Lake",N,N,"",0,225,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",0,449,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,129
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",0,449,"Brown","","Bill","Conservative","Conservateur",N,N,4
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",0,449,"Valley","","Roger","Liberal","Libéral",Y,Y,60
+35035,"Kenora","Kenora"," 3","Big Trout Lake",N,N,"",0,449,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 4","Wapekeka 1",N,N,"",0,178,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,36
+35035,"Kenora","Kenora"," 4","Wapekeka 1",N,N,"",0,178,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 4","Wapekeka 1",N,N,"",0,178,"Valley","","Roger","Liberal","Libéral",Y,Y,102
+35035,"Kenora","Kenora"," 4","Wapekeka 1",N,N,"",0,178,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",1,335,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,42
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",1,335,"Brown","","Bill","Conservative","Conservateur",N,N,5
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",1,335,"Valley","","Roger","Liberal","Libéral",Y,Y,145
+35035,"Kenora","Kenora"," 5","Kasabonika Lake",N,N,"",1,335,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",1,405,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,60
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",1,405,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",1,405,"Valley","","Roger","Liberal","Libéral",Y,Y,249
+35035,"Kenora","Kenora"," 6","Webequie",N,N,"",1,405,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,189,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,76
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,189,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,189,"Valley","","Roger","Liberal","Libéral",Y,Y,58
+35035,"Kenora","Kenora"," 7","Summer Beaver",N,N,"",0,189,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,255,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,75
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,255,"Brown","","Bill","Conservative","Conservateur",N,N,1
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,255,"Valley","","Roger","Liberal","Libéral",Y,Y,74
+35035,"Kenora","Kenora"," 8","Wunnummin Lake",N,N,"",0,255,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 9","Wawakepewin",N,N,"8",0,14,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,0
+35035,"Kenora","Kenora"," 9","Wawakepewin",N,N,"8",0,14,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 9","Wawakepewin",N,N,"8",0,14,"Valley","","Roger","Liberal","Libéral",Y,Y,0
+35035,"Kenora","Kenora"," 9","Wawakepewin",N,N,"8",0,14,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",0,235,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,7
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",0,235,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",0,235,"Valley","","Roger","Liberal","Libéral",Y,Y,178
+35035,"Kenora","Kenora"," 10","Kingfisher Lake 1",N,N,"",0,235,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",3,378,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,110
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",3,378,"Brown","","Bill","Conservative","Conservateur",N,N,9
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",3,378,"Valley","","Roger","Liberal","Libéral",Y,Y,121
+35035,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",3,378,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,272,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,54
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,272,"Brown","","Bill","Conservative","Conservateur",N,N,40
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,272,"Valley","","Roger","Liberal","Libéral",Y,Y,45
+35035,"Kenora","Kenora"," 12","Pickle Lake",N,N,"",1,272,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 13","Neskantaga (Lansdown House)",N,N,"",0,138,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,60
+35035,"Kenora","Kenora"," 13","Neskantaga (Lansdown House)",N,N,"",0,138,"Brown","","Bill","Conservative","Conservateur",N,N,11
+35035,"Kenora","Kenora"," 13","Neskantaga (Lansdown House)",N,N,"",0,138,"Valley","","Roger","Liberal","Libéral",Y,Y,28
+35035,"Kenora","Kenora"," 13","Neskantaga (Lansdown House)",N,N,"",0,138,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 14A","Fort Hope 64",N,N,"",0,272,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,44
+35035,"Kenora","Kenora"," 14A","Fort Hope 64",N,N,"",0,272,"Brown","","Bill","Conservative","Conservateur",N,N,7
+35035,"Kenora","Kenora"," 14A","Fort Hope 64",N,N,"",0,272,"Valley","","Roger","Liberal","Libéral",Y,Y,63
+35035,"Kenora","Kenora"," 14A","Fort Hope 64",N,N,"",0,272,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 14B","Fort Hope 64",N,N,"",0,300,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,45
+35035,"Kenora","Kenora"," 14B","Fort Hope 64",N,N,"",0,300,"Brown","","Bill","Conservative","Conservateur",N,N,3
+35035,"Kenora","Kenora"," 14B","Fort Hope 64",N,N,"",0,300,"Valley","","Roger","Liberal","Libéral",Y,Y,80
+35035,"Kenora","Kenora"," 14B","Fort Hope 64",N,N,"",0,300,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,236,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,38
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,236,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,236,"Valley","","Roger","Liberal","Libéral",Y,Y,32
+35035,"Kenora","Kenora"," 15","Osnaburgh 63A",N,N,"",0,236,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,72,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,16
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,72,"Brown","","Bill","Conservative","Conservateur",N,N,3
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,72,"Valley","","Roger","Liberal","Libéral",Y,Y,9
+35035,"Kenora","Kenora"," 16","Savant Lake",N,N,"",0,72,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,227,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,22
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,227,"Brown","","Bill","Conservative","Conservateur",N,N,8
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,227,"Valley","","Roger","Liberal","Libéral",Y,Y,89
+35035,"Kenora","Kenora"," 17","Sachigo Lake 1",N,N,"",0,227,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",N,N,"",0,317,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,18
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",N,N,"",0,317,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",N,N,"",0,317,"Valley","","Roger","Liberal","Libéral",Y,Y,177
+35035,"Kenora","Kenora"," 18","Sandy Lake 88",N,N,"",0,317,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 19","Sandy Lake 88",N,N,"",0,543,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,20
+35035,"Kenora","Kenora"," 19","Sandy Lake 88",N,N,"",0,543,"Brown","","Bill","Conservative","Conservateur",N,N,3
+35035,"Kenora","Kenora"," 19","Sandy Lake 88",N,N,"",0,543,"Valley","","Roger","Liberal","Libéral",Y,Y,293
+35035,"Kenora","Kenora"," 19","Sandy Lake 88",N,N,"",0,543,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 20","Keewaywin",N,N,"",0,129,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,6
+35035,"Kenora","Kenora"," 20","Keewaywin",N,N,"",0,129,"Brown","","Bill","Conservative","Conservateur",N,N,4
+35035,"Kenora","Kenora"," 20","Keewaywin",N,N,"",0,129,"Valley","","Roger","Liberal","Libéral",Y,Y,104
+35035,"Kenora","Kenora"," 20","Keewaywin",N,N,"",0,129,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,141,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,52
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,141,"Brown","","Bill","Conservative","Conservateur",N,N,3
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,141,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," 21","Muskrat Dam Lake",N,N,"",0,141,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,148,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,14
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,148,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,148,"Valley","","Roger","Liberal","Libéral",Y,Y,87
+35035,"Kenora","Kenora"," 22","North Spirit Lake",N,N,"",0,148,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,380,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,34
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,380,"Brown","","Bill","Conservative","Conservateur",N,N,6
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,380,"Valley","","Roger","Liberal","Libéral",Y,Y,182
+35035,"Kenora","Kenora"," 23","Deer Lake",N,N,"",0,380,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,163,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,13
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,163,"Brown","","Bill","Conservative","Conservateur",N,N,7
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,163,"Valley","","Roger","Liberal","Libéral",Y,Y,126
+35035,"Kenora","Kenora"," 24","Poplar Hill",N,N,"",0,163,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 25","Pikangikum 14",N,N,"",0,681,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,17
+35035,"Kenora","Kenora"," 25","Pikangikum 14",N,N,"",0,681,"Brown","","Bill","Conservative","Conservateur",N,N,4
+35035,"Kenora","Kenora"," 25","Pikangikum 14",N,N,"",0,681,"Valley","","Roger","Liberal","Libéral",Y,Y,154
+35035,"Kenora","Kenora"," 25","Pikangikum 14",N,N,"",0,681,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,103,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,20
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,103,"Brown","","Bill","Conservative","Conservateur",N,N,29
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,103,"Valley","","Roger","Liberal","Libéral",Y,Y,13
+35035,"Kenora","Kenora"," 26","Madsen",N,N,"",0,103,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"",0,64,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,15
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"",0,64,"Brown","","Bill","Conservative","Conservateur",N,N,8
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"",0,64,"Valley","","Roger","Liberal","Libéral",Y,Y,12
+35035,"Kenora","Kenora"," 27","McKenzie Island",N,N,"",0,64,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,405,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,84
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,405,"Brown","","Bill","Conservative","Conservateur",N,N,58
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,405,"Valley","","Roger","Liberal","Libéral",Y,Y,73
+35035,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,405,"Vasey","","Dave","Green Party","Parti Vert",N,N,12
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,405,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,71
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,405,"Brown","","Bill","Conservative","Conservateur",N,N,52
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,405,"Valley","","Roger","Liberal","Libéral",Y,Y,68
+35035,"Kenora","Kenora"," 29","Red Lake",N,N,"",0,405,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",1,357,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,78
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",1,357,"Brown","","Bill","Conservative","Conservateur",N,N,58
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",1,357,"Valley","","Roger","Liberal","Libéral",Y,Y,37
+35035,"Kenora","Kenora"," 30","Cochenour",N,N,"",1,357,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",1,294,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,56
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",1,294,"Brown","","Bill","Conservative","Conservateur",N,N,55
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",1,294,"Valley","","Roger","Liberal","Libéral",Y,Y,47
+35035,"Kenora","Kenora"," 31","Balmertown",N,N,"",1,294,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",1,310,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,58
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",1,310,"Brown","","Bill","Conservative","Conservateur",N,N,54
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",1,310,"Valley","","Roger","Liberal","Libéral",Y,Y,57
+35035,"Kenora","Kenora"," 32","Red Lake",N,N,"",1,310,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",0,393,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,68
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",0,393,"Brown","","Bill","Conservative","Conservateur",N,N,49
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",0,393,"Valley","","Roger","Liberal","Libéral",Y,Y,36
+35035,"Kenora","Kenora"," 33","Red Lake",N,N,"",0,393,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 34A","Balmertown",N,N,"",1,257,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,51
+35035,"Kenora","Kenora"," 34A","Balmertown",N,N,"",1,257,"Brown","","Bill","Conservative","Conservateur",N,N,46
+35035,"Kenora","Kenora"," 34A","Balmertown",N,N,"",1,257,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," 34A","Balmertown",N,N,"",1,257,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 34B","Balmertown",N,N,"",0,252,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,55
+35035,"Kenora","Kenora"," 34B","Balmertown",N,N,"",0,252,"Brown","","Bill","Conservative","Conservateur",N,N,45
+35035,"Kenora","Kenora"," 34B","Balmertown",N,N,"",0,252,"Valley","","Roger","Liberal","Libéral",Y,Y,44
+35035,"Kenora","Kenora"," 34B","Balmertown",N,N,"",0,252,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",1,231,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,41
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",1,231,"Brown","","Bill","Conservative","Conservateur",N,N,60
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",1,231,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," 35","Balmertown",N,N,"",1,231,"Vasey","","Dave","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,291,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,70
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,291,"Brown","","Bill","Conservative","Conservateur",N,N,59
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,291,"Valley","","Roger","Liberal","Libéral",Y,Y,18
+35035,"Kenora","Kenora"," 36","Ear Falls",N,N,"",0,291,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,410,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,73
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,410,"Brown","","Bill","Conservative","Conservateur",N,N,107
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,410,"Valley","","Roger","Liberal","Libéral",Y,Y,40
+35035,"Kenora","Kenora"," 37","Ear Falls",N,N,"",0,410,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"",0,151,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,14
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"",0,151,"Brown","","Bill","Conservative","Conservateur",N,N,34
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"",0,151,"Valley","","Roger","Liberal","Libéral",Y,Y,13
+35035,"Kenora","Kenora"," 38","Ear Falls",N,N,"",0,151,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",3,187,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,39
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",3,187,"Brown","","Bill","Conservative","Conservateur",N,N,7
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",3,187,"Valley","","Roger","Liberal","Libéral",Y,Y,48
+35035,"Kenora","Kenora"," 39","Cat Lake 63C",N,N,"",3,187,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,88,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,5
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,88,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,88,"Valley","","Roger","Liberal","Libéral",Y,Y,56
+35035,"Kenora","Kenora"," 40","Slate Falls",N,N,"",0,88,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",0,398,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,37
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",0,398,"Brown","","Bill","Conservative","Conservateur",N,N,8
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",0,398,"Valley","","Roger","Liberal","Libéral",Y,Y,105
+35035,"Kenora","Kenora"," 41","Islington 29",N,N,"",0,398,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",1,324,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,29
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",1,324,"Brown","","Bill","Conservative","Conservateur",N,N,5
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",1,324,"Valley","","Roger","Liberal","Libéral",Y,Y,118
+35035,"Kenora","Kenora"," 42","Grassy Narrows",N,N,"",1,324,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",0,137,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,19
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",0,137,"Brown","","Bill","Conservative","Conservateur",N,N,24
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",0,137,"Valley","","Roger","Liberal","Libéral",Y,Y,31
+35035,"Kenora","Kenora"," 43","Minaki",N,N,"",0,137,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,216,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,51
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,216,"Brown","","Bill","Conservative","Conservateur",N,N,53
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,216,"Valley","","Roger","Liberal","Libéral",Y,Y,27
+35035,"Kenora","Kenora"," 44","Pellatt",N,N,"",0,216,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 45A","Jaffray and Melick",N,N,"",0,310,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,62
+35035,"Kenora","Kenora"," 45A","Jaffray and Melick",N,N,"",0,310,"Brown","","Bill","Conservative","Conservateur",N,N,62
+35035,"Kenora","Kenora"," 45A","Jaffray and Melick",N,N,"",0,310,"Valley","","Roger","Liberal","Libéral",Y,Y,45
+35035,"Kenora","Kenora"," 45A","Jaffray and Melick",N,N,"",0,310,"Vasey","","Dave","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 45B","Jaffray and Melick",N,N,"",0,98,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,13
+35035,"Kenora","Kenora"," 45B","Jaffray and Melick",N,N,"",0,98,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 45B","Jaffray and Melick",N,N,"",0,98,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," 45B","Jaffray and Melick",N,N,"",0,98,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",1,113,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,35
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",1,113,"Brown","","Bill","Conservative","Conservateur",N,N,23
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",1,113,"Valley","","Roger","Liberal","Libéral",Y,Y,15
+35035,"Kenora","Kenora"," 46","Redditt",N,N,"",1,113,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",0,323,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,67
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",0,323,"Brown","","Bill","Conservative","Conservateur",N,N,78
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",0,323,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," 47","Jaffray and Melick",N,N,"",0,323,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 48","Machin",N,N,"49A",0,31,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,0
+35035,"Kenora","Kenora"," 48","Machin",N,N,"49A",0,31,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 48","Machin",N,N,"49A",0,31,"Valley","","Roger","Liberal","Libéral",Y,Y,0
+35035,"Kenora","Kenora"," 48","Machin",N,N,"49A",0,31,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 49A","Machin",N,N,"",0,260,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,44
+35035,"Kenora","Kenora"," 49A","Machin",N,N,"",0,260,"Brown","","Bill","Conservative","Conservateur",N,N,88
+35035,"Kenora","Kenora"," 49A","Machin",N,N,"",0,260,"Valley","","Roger","Liberal","Libéral",Y,Y,39
+35035,"Kenora","Kenora"," 49A","Machin",N,N,"",0,260,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 49B","Machin",N,N,"",1,291,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,43
+35035,"Kenora","Kenora"," 49B","Machin",N,N,"",1,291,"Brown","","Bill","Conservative","Conservateur",N,N,85
+35035,"Kenora","Kenora"," 49B","Machin",N,N,"",1,291,"Valley","","Roger","Liberal","Libéral",Y,Y,46
+35035,"Kenora","Kenora"," 49B","Machin",N,N,"",1,291,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",1,510,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,78
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",1,510,"Brown","","Bill","Conservative","Conservateur",N,N,130
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",1,510,"Valley","","Roger","Liberal","Libéral",Y,Y,74
+35035,"Kenora","Kenora"," 50","Longbow Lake",N,N,"",1,510,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,344,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,69
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,344,"Brown","","Bill","Conservative","Conservateur",N,N,69
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,344,"Valley","","Roger","Liberal","Libéral",Y,Y,35
+35035,"Kenora","Kenora"," 51","Jaffray and Melick",N,N,"",0,344,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,505,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,126
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,505,"Brown","","Bill","Conservative","Conservateur",N,N,136
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,505,"Valley","","Roger","Liberal","Libéral",Y,Y,51
+35035,"Kenora","Kenora"," 52","Jaffray and Melick",N,N,"",1,505,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",1,315,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,64
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",1,315,"Brown","","Bill","Conservative","Conservateur",N,N,73
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",1,315,"Valley","","Roger","Liberal","Libéral",Y,Y,31
+35035,"Kenora","Kenora"," 53","Jaffray and Melick",N,N,"",1,315,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 54A","Jaffray and Melick",N,N,"",1,293,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,47
+35035,"Kenora","Kenora"," 54A","Jaffray and Melick",N,N,"",1,293,"Brown","","Bill","Conservative","Conservateur",N,N,80
+35035,"Kenora","Kenora"," 54A","Jaffray and Melick",N,N,"",1,293,"Valley","","Roger","Liberal","Libéral",Y,Y,35
+35035,"Kenora","Kenora"," 54A","Jaffray and Melick",N,N,"",1,293,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 54B","Jaffray and Melick",N,N,"",0,338,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,60
+35035,"Kenora","Kenora"," 54B","Jaffray and Melick",N,N,"",0,338,"Brown","","Bill","Conservative","Conservateur",N,N,93
+35035,"Kenora","Kenora"," 54B","Jaffray and Melick",N,N,"",0,338,"Valley","","Roger","Liberal","Libéral",Y,Y,40
+35035,"Kenora","Kenora"," 54B","Jaffray and Melick",N,N,"",0,338,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 55A","Jaffray and Melick",N,N,"",1,272,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,50
+35035,"Kenora","Kenora"," 55A","Jaffray and Melick",N,N,"",1,272,"Brown","","Bill","Conservative","Conservateur",N,N,62
+35035,"Kenora","Kenora"," 55A","Jaffray and Melick",N,N,"",1,272,"Valley","","Roger","Liberal","Libéral",Y,Y,40
+35035,"Kenora","Kenora"," 55A","Jaffray and Melick",N,N,"",1,272,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 55B","Jaffray and Melick",N,N,"",0,256,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,50
+35035,"Kenora","Kenora"," 55B","Jaffray and Melick",N,N,"",0,256,"Brown","","Bill","Conservative","Conservateur",N,N,50
+35035,"Kenora","Kenora"," 55B","Jaffray and Melick",N,N,"",0,256,"Valley","","Roger","Liberal","Libéral",Y,Y,43
+35035,"Kenora","Kenora"," 55B","Jaffray and Melick",N,N,"",0,256,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",0,398,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,71
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",0,398,"Brown","","Bill","Conservative","Conservateur",N,N,105
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",0,398,"Valley","","Roger","Liberal","Libéral",Y,Y,65
+35035,"Kenora","Kenora"," 56","Keewatin",N,N,"",0,398,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,391,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,107
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,391,"Brown","","Bill","Conservative","Conservateur",N,N,61
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,391,"Valley","","Roger","Liberal","Libéral",Y,Y,63
+35035,"Kenora","Kenora"," 57A","Keewatin",N,N,"",0,391,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,411,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,72
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,411,"Brown","","Bill","Conservative","Conservateur",N,N,82
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,411,"Valley","","Roger","Liberal","Libéral",Y,Y,63
+35035,"Kenora","Kenora"," 57B","Keewatin",N,N,"",0,411,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 58A","Keewatin",N,N,"",0,296,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,62
+35035,"Kenora","Kenora"," 58A","Keewatin",N,N,"",0,296,"Brown","","Bill","Conservative","Conservateur",N,N,55
+35035,"Kenora","Kenora"," 58A","Keewatin",N,N,"",0,296,"Valley","","Roger","Liberal","Libéral",Y,Y,52
+35035,"Kenora","Kenora"," 58A","Keewatin",N,N,"",0,296,"Vasey","","Dave","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 58B","Keewatin",N,N,"",0,262,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,59
+35035,"Kenora","Kenora"," 58B","Keewatin",N,N,"",0,262,"Brown","","Bill","Conservative","Conservateur",N,N,59
+35035,"Kenora","Kenora"," 58B","Keewatin",N,N,"",0,262,"Valley","","Roger","Liberal","Libéral",Y,Y,40
+35035,"Kenora","Kenora"," 58B","Keewatin",N,N,"",0,262,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",0,265,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,82
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",0,265,"Brown","","Bill","Conservative","Conservateur",N,N,68
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",0,265,"Valley","","Roger","Liberal","Libéral",Y,Y,39
+35035,"Kenora","Kenora"," 59","Laclu",N,N,"",0,265,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 60A","Shoal Lake (Part) 39A",N,N,"",1,182,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,26
+35035,"Kenora","Kenora"," 60A","Shoal Lake (Part) 39A",N,N,"",1,182,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 60A","Shoal Lake (Part) 39A",N,N,"",1,182,"Valley","","Roger","Liberal","Libéral",Y,Y,67
+35035,"Kenora","Kenora"," 60A","Shoal Lake (Part) 39A",N,N,"",1,182,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 60B","Shoal Lake (Part) 39A",N,N,"",0,109,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,9
+35035,"Kenora","Kenora"," 60B","Shoal Lake (Part) 39A",N,N,"",0,109,"Brown","","Bill","Conservative","Conservateur",N,N,1
+35035,"Kenora","Kenora"," 60B","Shoal Lake (Part) 39A",N,N,"",0,109,"Valley","","Roger","Liberal","Libéral",Y,Y,62
+35035,"Kenora","Kenora"," 60B","Shoal Lake (Part) 39A",N,N,"",0,109,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,136,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,24
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,136,"Brown","","Bill","Conservative","Conservateur",N,N,31
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,136,"Valley","","Roger","Liberal","Libéral",Y,Y,7
+35035,"Kenora","Kenora"," 60-1","Clearwater Bay--Granite Lake",N,N,"",0,136,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,312,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,38
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,312,"Brown","","Bill","Conservative","Conservateur",N,N,73
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,312,"Valley","","Roger","Liberal","Libéral",Y,Y,53
+35035,"Kenora","Kenora"," 61","Keewatin",N,N,"",0,312,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 61-1","Rat Portage 38A",N,N,"",0,58,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,23
+35035,"Kenora","Kenora"," 61-1","Rat Portage 38A",N,N,"",0,58,"Brown","","Bill","Conservative","Conservateur",N,N,6
+35035,"Kenora","Kenora"," 61-1","Rat Portage 38A",N,N,"",0,58,"Valley","","Roger","Liberal","Libéral",Y,Y,20
+35035,"Kenora","Kenora"," 61-1","Rat Portage 38A",N,N,"",0,58,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 62","Kenora 38B",N,N,"",0,155,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,7
+35035,"Kenora","Kenora"," 62","Kenora 38B",N,N,"",0,155,"Brown","","Bill","Conservative","Conservateur",N,N,4
+35035,"Kenora","Kenora"," 62","Kenora 38B",N,N,"",0,155,"Valley","","Roger","Liberal","Libéral",Y,Y,52
+35035,"Kenora","Kenora"," 62","Kenora 38B",N,N,"",0,155,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,28,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,5
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,28,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,28,"Valley","","Roger","Liberal","Libéral",Y,Y,3
+35035,"Kenora","Kenora"," 63A","Northwest Angle 34C & 37B",N,N,"",0,28,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,28,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,8
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,28,"Brown","","Bill","Conservative","Conservateur",N,N,2
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,28,"Valley","","Roger","Liberal","Libéral",Y,Y,6
+35035,"Kenora","Kenora"," 63B","Northwest Angle 34C & 37B",N,N,"",0,28,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,342,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,40
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,342,"Brown","","Bill","Conservative","Conservateur",N,N,84
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,342,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," 64","Sioux Narrows",N,N,"",0,342,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 65A","Whitefish Bay 32A",N,N,"",0,261,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,25
+35035,"Kenora","Kenora"," 65A","Whitefish Bay 32A",N,N,"",0,261,"Brown","","Bill","Conservative","Conservateur",N,N,4
+35035,"Kenora","Kenora"," 65A","Whitefish Bay 32A",N,N,"",0,261,"Valley","","Roger","Liberal","Libéral",Y,Y,124
+35035,"Kenora","Kenora"," 65A","Whitefish Bay 32A",N,N,"",0,261,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 65B","Whitefish Bay 32A",N,N,"",1,35,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,1
+35035,"Kenora","Kenora"," 65B","Whitefish Bay 32A",N,N,"",1,35,"Brown","","Bill","Conservative","Conservateur",N,N,1
+35035,"Kenora","Kenora"," 65B","Whitefish Bay 32A",N,N,"",1,35,"Valley","","Roger","Liberal","Libéral",Y,Y,25
+35035,"Kenora","Kenora"," 65B","Whitefish Bay 32A",N,N,"",1,35,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,168,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,33
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,168,"Brown","","Bill","Conservative","Conservateur",N,N,65
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,168,"Valley","","Roger","Liberal","Libéral",Y,Y,20
+35035,"Kenora","Kenora"," 66","Nestor Falls",N,N,"",1,168,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",1,245,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,64
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",1,245,"Brown","","Bill","Conservative","Conservateur",N,N,10
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",1,245,"Valley","","Roger","Liberal","Libéral",Y,Y,66
+35035,"Kenora","Kenora"," 67","Onegaming",N,N,"",1,245,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,357,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,79
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,357,"Brown","","Bill","Conservative","Conservateur",N,N,76
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,357,"Valley","","Roger","Liberal","Libéral",Y,Y,53
+35035,"Kenora","Kenora"," 68","Kenora",N,N,"",0,357,"Vasey","","Dave","Green Party","Parti Vert",N,N,11
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,249,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,23
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,249,"Brown","","Bill","Conservative","Conservateur",N,N,59
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,249,"Valley","","Roger","Liberal","Libéral",Y,Y,49
+35035,"Kenora","Kenora"," 69","Kenora",N,N,"",0,249,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",0,371,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,97
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",0,371,"Brown","","Bill","Conservative","Conservateur",N,N,55
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",0,371,"Valley","","Roger","Liberal","Libéral",Y,Y,43
+35035,"Kenora","Kenora"," 70","Kenora",N,N,"",0,371,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",2,388,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,86
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",2,388,"Brown","","Bill","Conservative","Conservateur",N,N,59
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",2,388,"Valley","","Roger","Liberal","Libéral",Y,Y,42
+35035,"Kenora","Kenora"," 71","Kenora",N,N,"",2,388,"Vasey","","Dave","Green Party","Parti Vert",N,N,10
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",0,340,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,61
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",0,340,"Brown","","Bill","Conservative","Conservateur",N,N,55
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",0,340,"Valley","","Roger","Liberal","Libéral",Y,Y,48
+35035,"Kenora","Kenora"," 72","Kenora",N,N,"",0,340,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",2,356,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,80
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",2,356,"Brown","","Bill","Conservative","Conservateur",N,N,46
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",2,356,"Valley","","Roger","Liberal","Libéral",Y,Y,50
+35035,"Kenora","Kenora"," 73","Kenora",N,N,"",2,356,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,441,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,107
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,441,"Brown","","Bill","Conservative","Conservateur",N,N,71
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,441,"Valley","","Roger","Liberal","Libéral",Y,Y,80
+35035,"Kenora","Kenora"," 74","Kenora",N,N,"",0,441,"Vasey","","Dave","Green Party","Parti Vert",N,N,10
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",1,349,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,60
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",1,349,"Brown","","Bill","Conservative","Conservateur",N,N,42
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",1,349,"Valley","","Roger","Liberal","Libéral",Y,Y,28
+35035,"Kenora","Kenora"," 75","Kenora",N,N,"",1,349,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",0,315,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,40
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",0,315,"Brown","","Bill","Conservative","Conservateur",N,N,51
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",0,315,"Valley","","Roger","Liberal","Libéral",Y,Y,37
+35035,"Kenora","Kenora"," 76","Kenora",N,N,"",0,315,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",2,380,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,54
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",2,380,"Brown","","Bill","Conservative","Conservateur",N,N,85
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",2,380,"Valley","","Roger","Liberal","Libéral",Y,Y,74
+35035,"Kenora","Kenora"," 77","Kenora",N,N,"",2,380,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",2,359,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,72
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",2,359,"Brown","","Bill","Conservative","Conservateur",N,N,89
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",2,359,"Valley","","Roger","Liberal","Libéral",Y,Y,47
+35035,"Kenora","Kenora"," 78","Kenora",N,N,"",2,359,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 79A","Kenora",N,N,"",2,239,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,58
+35035,"Kenora","Kenora"," 79A","Kenora",N,N,"",2,239,"Brown","","Bill","Conservative","Conservateur",N,N,59
+35035,"Kenora","Kenora"," 79A","Kenora",N,N,"",2,239,"Valley","","Roger","Liberal","Libéral",Y,Y,64
+35035,"Kenora","Kenora"," 79A","Kenora",N,N,"",2,239,"Vasey","","Dave","Green Party","Parti Vert",N,N,12
+35035,"Kenora","Kenora"," 79B","Kenora",N,N,"",0,246,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,56
+35035,"Kenora","Kenora"," 79B","Kenora",N,N,"",0,246,"Brown","","Bill","Conservative","Conservateur",N,N,44
+35035,"Kenora","Kenora"," 79B","Kenora",N,N,"",0,246,"Valley","","Roger","Liberal","Libéral",Y,Y,15
+35035,"Kenora","Kenora"," 79B","Kenora",N,N,"",0,246,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",2,229,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,42
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",2,229,"Brown","","Bill","Conservative","Conservateur",N,N,49
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",2,229,"Valley","","Roger","Liberal","Libéral",Y,Y,40
+35035,"Kenora","Kenora"," 80","Kenora",N,N,"",2,229,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,342,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,64
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,342,"Brown","","Bill","Conservative","Conservateur",N,N,56
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,342,"Valley","","Roger","Liberal","Libéral",Y,Y,64
+35035,"Kenora","Kenora"," 81","Kenora",N,N,"",1,342,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 82A","Kenora",N,N,"",1,249,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,31
+35035,"Kenora","Kenora"," 82A","Kenora",N,N,"",1,249,"Brown","","Bill","Conservative","Conservateur",N,N,38
+35035,"Kenora","Kenora"," 82A","Kenora",N,N,"",1,249,"Valley","","Roger","Liberal","Libéral",Y,Y,32
+35035,"Kenora","Kenora"," 82A","Kenora",N,N,"",1,249,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 82B","Kenora",N,N,"79A",0,53,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,0
+35035,"Kenora","Kenora"," 82B","Kenora",N,N,"79A",0,53,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 82B","Kenora",N,N,"79A",0,53,"Valley","","Roger","Liberal","Libéral",Y,Y,0
+35035,"Kenora","Kenora"," 82B","Kenora",N,N,"79A",0,53,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",2,374,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,51
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",2,374,"Brown","","Bill","Conservative","Conservateur",N,N,84
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",2,374,"Valley","","Roger","Liberal","Libéral",Y,Y,62
+35035,"Kenora","Kenora"," 83","Kenora",N,N,"",2,374,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",2,330,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,73
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",2,330,"Brown","","Bill","Conservative","Conservateur",N,N,68
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",2,330,"Valley","","Roger","Liberal","Libéral",Y,Y,32
+35035,"Kenora","Kenora"," 84","Kenora",N,N,"",2,330,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,325,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,37
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,325,"Brown","","Bill","Conservative","Conservateur",N,N,79
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,325,"Valley","","Roger","Liberal","Libéral",Y,Y,48
+35035,"Kenora","Kenora"," 85","Kenora",N,N,"",1,325,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,314,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,51
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,314,"Brown","","Bill","Conservative","Conservateur",N,N,55
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,314,"Valley","","Roger","Liberal","Libéral",Y,Y,40
+35035,"Kenora","Kenora"," 85-1","Kenora",N,N,"",0,314,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",3,459,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,54
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",3,459,"Brown","","Bill","Conservative","Conservateur",N,N,108
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",3,459,"Valley","","Roger","Liberal","Libéral",Y,Y,68
+35035,"Kenora","Kenora"," 86","Kenora",N,N,"",3,459,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,215,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,36
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,215,"Brown","","Bill","Conservative","Conservateur",N,N,52
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,215,"Valley","","Roger","Liberal","Libéral",Y,Y,15
+35035,"Kenora","Kenora"," 87","Quibell",N,N,"",0,215,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",0,236,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,24
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",0,236,"Brown","","Bill","Conservative","Conservateur",N,N,47
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",0,236,"Valley","","Roger","Liberal","Libéral",Y,Y,22
+35035,"Kenora","Kenora"," 88A","Rugby Township",N,N,"",0,236,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",0,272,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,29
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",0,272,"Brown","","Bill","Conservative","Conservateur",N,N,48
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",0,272,"Valley","","Roger","Liberal","Libéral",Y,Y,32
+35035,"Kenora","Kenora"," 88B","Rugby Township",N,N,"",0,272,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 89","Wabigoon",N,N,"",0,187,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,24
+35035,"Kenora","Kenora"," 89","Wabigoon",N,N,"",0,187,"Brown","","Bill","Conservative","Conservateur",N,N,68
+35035,"Kenora","Kenora"," 89","Wabigoon",N,N,"",0,187,"Valley","","Roger","Liberal","Libéral",Y,Y,19
+35035,"Kenora","Kenora"," 89","Wabigoon",N,N,"",0,187,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",1,288,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,76
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",1,288,"Brown","","Bill","Conservative","Conservateur",N,N,68
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",1,288,"Valley","","Roger","Liberal","Libéral",Y,Y,48
+35035,"Kenora","Kenora"," 90","Wabigoon",N,N,"",1,288,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",0,361,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,57
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",0,361,"Brown","","Bill","Conservative","Conservateur",N,N,88
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",0,361,"Valley","","Roger","Liberal","Libéral",Y,Y,50
+35035,"Kenora","Kenora"," 91A","Dryden",N,N,"",0,361,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,318,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,45
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,318,"Brown","","Bill","Conservative","Conservateur",N,N,92
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,318,"Valley","","Roger","Liberal","Libéral",Y,Y,50
+35035,"Kenora","Kenora"," 91B","Dryden",N,N,"",0,318,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 92A","Dryden",N,N,"",0,272,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,41
+35035,"Kenora","Kenora"," 92A","Dryden",N,N,"",0,272,"Brown","","Bill","Conservative","Conservateur",N,N,83
+35035,"Kenora","Kenora"," 92A","Dryden",N,N,"",0,272,"Valley","","Roger","Liberal","Libéral",Y,Y,36
+35035,"Kenora","Kenora"," 92A","Dryden",N,N,"",0,272,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 92B","Dryden",N,N,"",0,244,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,43
+35035,"Kenora","Kenora"," 92B","Dryden",N,N,"",0,244,"Brown","","Bill","Conservative","Conservateur",N,N,55
+35035,"Kenora","Kenora"," 92B","Dryden",N,N,"",0,244,"Valley","","Roger","Liberal","Libéral",Y,Y,43
+35035,"Kenora","Kenora"," 92B","Dryden",N,N,"",0,244,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,248,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,34
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,248,"Brown","","Bill","Conservative","Conservateur",N,N,59
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,248,"Valley","","Roger","Liberal","Libéral",Y,Y,39
+35035,"Kenora","Kenora"," 93","Two Mile Corner",N,N,"",1,248,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,365,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,57
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,365,"Brown","","Bill","Conservative","Conservateur",N,N,92
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,365,"Valley","","Roger","Liberal","Libéral",Y,Y,52
+35035,"Kenora","Kenora"," 94","Dryden",N,N,"",0,365,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 95A","Dryden",N,N,"",0,312,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,46
+35035,"Kenora","Kenora"," 95A","Dryden",N,N,"",0,312,"Brown","","Bill","Conservative","Conservateur",N,N,76
+35035,"Kenora","Kenora"," 95A","Dryden",N,N,"",0,312,"Valley","","Roger","Liberal","Libéral",Y,Y,54
+35035,"Kenora","Kenora"," 95A","Dryden",N,N,"",0,312,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 95B","Dryden",N,N,"",0,290,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,53
+35035,"Kenora","Kenora"," 95B","Dryden",N,N,"",0,290,"Brown","","Bill","Conservative","Conservateur",N,N,54
+35035,"Kenora","Kenora"," 95B","Dryden",N,N,"",0,290,"Valley","","Roger","Liberal","Libéral",Y,Y,47
+35035,"Kenora","Kenora"," 95B","Dryden",N,N,"",0,290,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,424,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,61
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,424,"Brown","","Bill","Conservative","Conservateur",N,N,92
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,424,"Valley","","Roger","Liberal","Libéral",Y,Y,89
+35035,"Kenora","Kenora"," 96","Dryden",N,N,"",0,424,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",1,353,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,55
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",1,353,"Brown","","Bill","Conservative","Conservateur",N,N,86
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",1,353,"Valley","","Roger","Liberal","Libéral",Y,Y,80
+35035,"Kenora","Kenora"," 97","Dryden",N,N,"",1,353,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",1,279,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,48
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",1,279,"Brown","","Bill","Conservative","Conservateur",N,N,48
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",1,279,"Valley","","Roger","Liberal","Libéral",Y,Y,52
+35035,"Kenora","Kenora"," 98","Dryden",N,N,"",1,279,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,395,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,52
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,395,"Brown","","Bill","Conservative","Conservateur",N,N,75
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,395,"Valley","","Roger","Liberal","Libéral",Y,Y,68
+35035,"Kenora","Kenora"," 99","Dryden",N,N,"",0,395,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",1,357,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,42
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",1,357,"Brown","","Bill","Conservative","Conservateur",N,N,88
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",1,357,"Valley","","Roger","Liberal","Libéral",Y,Y,89
+35035,"Kenora","Kenora"," 100","Dryden",N,N,"",1,357,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 101A","Dryden",N,N,"",1,281,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,31
+35035,"Kenora","Kenora"," 101A","Dryden",N,N,"",1,281,"Brown","","Bill","Conservative","Conservateur",N,N,71
+35035,"Kenora","Kenora"," 101A","Dryden",N,N,"",1,281,"Valley","","Roger","Liberal","Libéral",Y,Y,51
+35035,"Kenora","Kenora"," 101A","Dryden",N,N,"",1,281,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 101B","Dryden",N,N,"",0,302,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,35
+35035,"Kenora","Kenora"," 101B","Dryden",N,N,"",0,302,"Brown","","Bill","Conservative","Conservateur",N,N,72
+35035,"Kenora","Kenora"," 101B","Dryden",N,N,"",0,302,"Valley","","Roger","Liberal","Libéral",Y,Y,67
+35035,"Kenora","Kenora"," 101B","Dryden",N,N,"",0,302,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 102A","Dryden",N,N,"",0,466,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,52
+35035,"Kenora","Kenora"," 102A","Dryden",N,N,"",0,466,"Brown","","Bill","Conservative","Conservateur",N,N,96
+35035,"Kenora","Kenora"," 102A","Dryden",N,N,"",0,466,"Valley","","Roger","Liberal","Libéral",Y,Y,112
+35035,"Kenora","Kenora"," 102A","Dryden",N,N,"",0,466,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 102B","Mobile poll/Bureau itinérant",N,N,"103B",0,1,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,0
+35035,"Kenora","Kenora"," 102B","Mobile poll/Bureau itinérant",N,N,"103B",0,1,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 102B","Mobile poll/Bureau itinérant",N,N,"103B",0,1,"Valley","","Roger","Liberal","Libéral",Y,Y,0
+35035,"Kenora","Kenora"," 102B","Mobile poll/Bureau itinérant",N,N,"103B",0,1,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 103A","Dryden",N,N,"",0,306,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,30
+35035,"Kenora","Kenora"," 103A","Dryden",N,N,"",0,306,"Brown","","Bill","Conservative","Conservateur",N,N,60
+35035,"Kenora","Kenora"," 103A","Dryden",N,N,"",0,306,"Valley","","Roger","Liberal","Libéral",Y,Y,59
+35035,"Kenora","Kenora"," 103A","Dryden",N,N,"",0,306,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,70,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,7
+35035,"Kenora","Kenora"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,70,"Brown","","Bill","Conservative","Conservateur",N,N,8
+35035,"Kenora","Kenora"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,70,"Valley","","Roger","Liberal","Libéral",Y,Y,14
+35035,"Kenora","Kenora"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,70,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",0,247,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,36
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",0,247,"Brown","","Bill","Conservative","Conservateur",N,N,59
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",0,247,"Valley","","Roger","Liberal","Libéral",Y,Y,38
+35035,"Kenora","Kenora"," 104","Dryden",N,N,"",0,247,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",1,362,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,47
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",1,362,"Brown","","Bill","Conservative","Conservateur",N,N,83
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",1,362,"Valley","","Roger","Liberal","Libéral",Y,Y,81
+35035,"Kenora","Kenora"," 105","Dryden",N,N,"",1,362,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 106A","Dryden",N,N,"",0,252,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,36
+35035,"Kenora","Kenora"," 106A","Dryden",N,N,"",0,252,"Brown","","Bill","Conservative","Conservateur",N,N,62
+35035,"Kenora","Kenora"," 106A","Dryden",N,N,"",0,252,"Valley","","Roger","Liberal","Libéral",Y,Y,30
+35035,"Kenora","Kenora"," 106A","Dryden",N,N,"",0,252,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 106B","Dryden",N,N,"",0,272,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,45
+35035,"Kenora","Kenora"," 106B","Dryden",N,N,"",0,272,"Brown","","Bill","Conservative","Conservateur",N,N,58
+35035,"Kenora","Kenora"," 106B","Dryden",N,N,"",0,272,"Valley","","Roger","Liberal","Libéral",Y,Y,26
+35035,"Kenora","Kenora"," 106B","Dryden",N,N,"",0,272,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,286,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,51
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,286,"Brown","","Bill","Conservative","Conservateur",N,N,65
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,286,"Valley","","Roger","Liberal","Libéral",Y,Y,34
+35035,"Kenora","Kenora"," 107A","Dryden",N,N,"",0,286,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",0,269,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,43
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",0,269,"Brown","","Bill","Conservative","Conservateur",N,N,52
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",0,269,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," 107B","Dryden",N,N,"",0,269,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,242,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,25
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,242,"Brown","","Bill","Conservative","Conservateur",N,N,58
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,242,"Valley","","Roger","Liberal","Libéral",Y,Y,40
+35035,"Kenora","Kenora"," 108","Two Mile Corner",N,N,"",0,242,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",2,347,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,50
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",2,347,"Brown","","Bill","Conservative","Conservateur",N,N,121
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",2,347,"Valley","","Roger","Liberal","Libéral",Y,Y,66
+35035,"Kenora","Kenora"," 109","Oxdrift",N,N,"",2,347,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 110A","Minnitaki",N,N,"",0,75,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,22
+35035,"Kenora","Kenora"," 110A","Minnitaki",N,N,"",0,75,"Brown","","Bill","Conservative","Conservateur",N,N,31
+35035,"Kenora","Kenora"," 110A","Minnitaki",N,N,"",0,75,"Valley","","Roger","Liberal","Libéral",Y,Y,8
+35035,"Kenora","Kenora"," 110A","Minnitaki",N,N,"",0,75,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 110B","Minnitaki",N,N,"",0,139,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,14
+35035,"Kenora","Kenora"," 110B","Minnitaki",N,N,"",0,139,"Brown","","Bill","Conservative","Conservateur",N,N,4
+35035,"Kenora","Kenora"," 110B","Minnitaki",N,N,"",0,139,"Valley","","Roger","Liberal","Libéral",Y,Y,57
+35035,"Kenora","Kenora"," 110B","Minnitaki",N,N,"",0,139,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",0,394,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,74
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",0,394,"Brown","","Bill","Conservative","Conservateur",N,N,88
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",0,394,"Valley","","Roger","Liberal","Libéral",Y,Y,68
+35035,"Kenora","Kenora"," 111","Eagle River",N,N,"",0,394,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",0,149,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,28
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",0,149,"Brown","","Bill","Conservative","Conservateur",N,N,43
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",0,149,"Valley","","Roger","Liberal","Libéral",Y,Y,13
+35035,"Kenora","Kenora"," 112","Dinorwic",N,N,"",0,149,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,70,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,13
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,70,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,70,"Valley","","Roger","Liberal","Libéral",Y,Y,33
+35035,"Kenora","Kenora"," 112-1","Wabigoon Lake 27",N,N,"",0,70,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,474,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,82
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,474,"Brown","","Bill","Conservative","Conservateur",N,N,63
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,474,"Valley","","Roger","Liberal","Libéral",Y,Y,101
+35035,"Kenora","Kenora"," 113","Sioux Lookout",N,N,"",0,474,"Vasey","","Dave","Green Party","Parti Vert",N,N,7
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",0,489,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,74
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",0,489,"Brown","","Bill","Conservative","Conservateur",N,N,60
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",0,489,"Valley","","Roger","Liberal","Libéral",Y,Y,116
+35035,"Kenora","Kenora"," 114","Sioux Lookout",N,N,"",0,489,"Vasey","","Dave","Green Party","Parti Vert",N,N,8
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",0,144,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,11
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",0,144,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",0,144,"Valley","","Roger","Liberal","Libéral",Y,Y,52
+35035,"Kenora","Kenora"," 115","Lac Seul 28",N,N,"",0,144,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 116","Sioux Lookout",N,N,"",0,134,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,32
+35035,"Kenora","Kenora"," 116","Sioux Lookout",N,N,"",0,134,"Brown","","Bill","Conservative","Conservateur",N,N,17
+35035,"Kenora","Kenora"," 116","Sioux Lookout",N,N,"",0,134,"Valley","","Roger","Liberal","Libéral",Y,Y,16
+35035,"Kenora","Kenora"," 116","Sioux Lookout",N,N,"",0,134,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,428,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,86
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,428,"Brown","","Bill","Conservative","Conservateur",N,N,54
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,428,"Valley","","Roger","Liberal","Libéral",Y,Y,84
+35035,"Kenora","Kenora"," 117","Sioux Lookout",N,N,"",0,428,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",1,277,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,72
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",1,277,"Brown","","Bill","Conservative","Conservateur",N,N,22
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",1,277,"Valley","","Roger","Liberal","Libéral",Y,Y,38
+35035,"Kenora","Kenora"," 118","Sioux Lookout",N,N,"",1,277,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,271,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,60
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,271,"Brown","","Bill","Conservative","Conservateur",N,N,30
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,271,"Valley","","Roger","Liberal","Libéral",Y,Y,39
+35035,"Kenora","Kenora"," 119A","Sioux Lookout",N,N,"",0,271,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",1,293,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,62
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",1,293,"Brown","","Bill","Conservative","Conservateur",N,N,25
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",1,293,"Valley","","Roger","Liberal","Libéral",Y,Y,56
+35035,"Kenora","Kenora"," 119B","Sioux Lookout",N,N,"",1,293,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",1,304,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,53
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",1,304,"Brown","","Bill","Conservative","Conservateur",N,N,46
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",1,304,"Valley","","Roger","Liberal","Libéral",Y,Y,46
+35035,"Kenora","Kenora"," 120","Sioux Lookout",N,N,"",1,304,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 121A","Sioux Lookout",N,N,"",1,244,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,56
+35035,"Kenora","Kenora"," 121A","Sioux Lookout",N,N,"",1,244,"Brown","","Bill","Conservative","Conservateur",N,N,41
+35035,"Kenora","Kenora"," 121A","Sioux Lookout",N,N,"",1,244,"Valley","","Roger","Liberal","Libéral",Y,Y,38
+35035,"Kenora","Kenora"," 121A","Sioux Lookout",N,N,"",1,244,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 121B","Sioux Lookout",N,N,"",0,285,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,70
+35035,"Kenora","Kenora"," 121B","Sioux Lookout",N,N,"",0,285,"Brown","","Bill","Conservative","Conservateur",N,N,28
+35035,"Kenora","Kenora"," 121B","Sioux Lookout",N,N,"",0,285,"Valley","","Roger","Liberal","Libéral",Y,Y,34
+35035,"Kenora","Kenora"," 121B","Sioux Lookout",N,N,"",0,285,"Vasey","","Dave","Green Party","Parti Vert",N,N,5
+35035,"Kenora","Kenora"," 122A","Sioux Lookout",N,N,"",0,246,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,53
+35035,"Kenora","Kenora"," 122A","Sioux Lookout",N,N,"",0,246,"Brown","","Bill","Conservative","Conservateur",N,N,30
+35035,"Kenora","Kenora"," 122A","Sioux Lookout",N,N,"",0,246,"Valley","","Roger","Liberal","Libéral",Y,Y,48
+35035,"Kenora","Kenora"," 122A","Sioux Lookout",N,N,"",0,246,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 122B","Sioux Lookout",N,N,"",0,267,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,49
+35035,"Kenora","Kenora"," 122B","Sioux Lookout",N,N,"",0,267,"Brown","","Bill","Conservative","Conservateur",N,N,41
+35035,"Kenora","Kenora"," 122B","Sioux Lookout",N,N,"",0,267,"Valley","","Roger","Liberal","Libéral",Y,Y,50
+35035,"Kenora","Kenora"," 122B","Sioux Lookout",N,N,"",0,267,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",1,294,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,61
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",1,294,"Brown","","Bill","Conservative","Conservateur",N,N,48
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",1,294,"Valley","","Roger","Liberal","Libéral",Y,Y,48
+35035,"Kenora","Kenora"," 123","Sioux Lookout",N,N,"",1,294,"Vasey","","Dave","Green Party","Parti Vert",N,N,12
+35035,"Kenora","Kenora"," 124","Valora",N,N,"126A",0,13,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,0
+35035,"Kenora","Kenora"," 124","Valora",N,N,"126A",0,13,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 124","Valora",N,N,"126A",0,13,"Valley","","Roger","Liberal","Libéral",Y,Y,0
+35035,"Kenora","Kenora"," 124","Valora",N,N,"126A",0,13,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,143,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,20
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,143,"Brown","","Bill","Conservative","Conservateur",N,N,20
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,143,"Valley","","Roger","Liberal","Libéral",Y,Y,19
+35035,"Kenora","Kenora"," 125","Ignace",N,N,"",0,143,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 126A","Ignace",N,N,"",0,185,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,35
+35035,"Kenora","Kenora"," 126A","Ignace",N,N,"",0,185,"Brown","","Bill","Conservative","Conservateur",N,N,24
+35035,"Kenora","Kenora"," 126A","Ignace",N,N,"",0,185,"Valley","","Roger","Liberal","Libéral",Y,Y,15
+35035,"Kenora","Kenora"," 126A","Ignace",N,N,"",0,185,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 126B","Ignace",N,N,"",1,243,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,54
+35035,"Kenora","Kenora"," 126B","Ignace",N,N,"",1,243,"Brown","","Bill","Conservative","Conservateur",N,N,27
+35035,"Kenora","Kenora"," 126B","Ignace",N,N,"",1,243,"Valley","","Roger","Liberal","Libéral",Y,Y,31
+35035,"Kenora","Kenora"," 126B","Ignace",N,N,"",1,243,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,308,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,50
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,308,"Brown","","Bill","Conservative","Conservateur",N,N,37
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,308,"Valley","","Roger","Liberal","Libéral",Y,Y,44
+35035,"Kenora","Kenora"," 127","Ignace",N,N,"",0,308,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,242,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,56
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,242,"Brown","","Bill","Conservative","Conservateur",N,N,33
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,242,"Valley","","Roger","Liberal","Libéral",Y,Y,17
+35035,"Kenora","Kenora"," 128","Ignace",N,N,"",0,242,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,15
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Brown","","Bill","Conservative","Conservateur",N,N,8
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Valley","","Roger","Liberal","Libéral",Y,Y,20
+35035,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,0
+35035,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Brown","","Bill","Conservative","Conservateur",N,N,0
+35035,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Valley","","Roger","Liberal","Libéral",Y,Y,0
+35035,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,0
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,113
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Brown","","Bill","Conservative","Conservateur",N,N,106
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",Y,Y,100
+35035,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,15
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,52
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Brown","","Bill","Conservative","Conservateur",N,N,73
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Valley","","Roger","Liberal","Libéral",Y,Y,50
+35035,"Kenora","Kenora"," 601","Red Lake",N,N,"",3,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,4
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,19
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Brown","","Bill","Conservative","Conservateur",N,N,46
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",Y,Y,13
+35035,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,2
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",0,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,90
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",0,0,"Brown","","Bill","Conservative","Conservateur",N,N,161
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",Y,Y,101
+35035,"Kenora","Kenora"," 603","Kenora",N,N,"",0,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,15
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,117
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Brown","","Bill","Conservative","Conservateur",N,N,191
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",Y,Y,131
+35035,"Kenora","Kenora"," 604","Kenora",N,N,"",0,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,6
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",0,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,108
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",0,0,"Brown","","Bill","Conservative","Conservateur",N,N,326
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",0,0,"Valley","","Roger","Liberal","Libéral",Y,Y,250
+35035,"Kenora","Kenora"," 605","Dryden",N,N,"",0,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,9
+35035,"Kenora","Kenora"," 606","Ignace",N,N,"",1,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,63
+35035,"Kenora","Kenora"," 606","Ignace",N,N,"",1,0,"Brown","","Bill","Conservative","Conservateur",N,N,66
+35035,"Kenora","Kenora"," 606","Ignace",N,N,"",1,0,"Valley","","Roger","Liberal","Libéral",Y,Y,36
+35035,"Kenora","Kenora"," 606","Ignace",N,N,"",1,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,1
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,129,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,13
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,129,"Brown","","Bill","Conservative","Conservateur",N,N,21
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,129,"Valley","","Roger","Liberal","Libéral",Y,Y,41
+35035,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",2,129,"Vasey","","Dave","Green Party","Parti Vert",N,N,3
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Barclay","","Susan","N.D.P.","N.P.D.",N,N,243
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Brown","","Bill","Conservative","Conservateur",N,N,470
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Valley","","Roger","Liberal","Libéral",Y,Y,467
+35035,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",11,0,"Vasey","","Dave","Green Party","Parti Vert",N,N,23
