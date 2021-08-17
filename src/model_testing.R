@@ -245,6 +245,8 @@ for(i in 1:length(regions)) {
   }
 }
 
+write_rds(district_error_covariances, "data/district_error_covariances.rds")
+
 # Regional-level modeling
 regional_natl_results <- regional_results %>%
   left_join(natl_results, by = c("year", "party")) %>%

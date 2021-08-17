@@ -227,7 +227,7 @@ province_map_data <- province_shp %>%
          color_4 = party_to_color(party_4),
          color_5 = party_to_color(party_5),
          color_6 = party_to_color(party_6),
-         alpha = sqrt((vote_pct_50_1 - 0.3) / 0.3),
+         alpha = sqrt((vote_pct_50_1 - 0.29) / 0.29),
          seat_word_total = ifelse(n_seats == 1, "riding", "ridings"),
          seat_word_1 = ifelse(seats_pct_50_1 == 1, "seat", "seats"),
          seat_word_2 = ifelse(seats_pct_50_2 == 1, "seat", "seats"),

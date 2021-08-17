@@ -112,6 +112,8 @@ district_sims <- data_2021 %>%
   mutate(pred_pct = predict(district_model, newdata = .))
 
 ## Add on errors
+district_error_covariances <- read_rds("data/district_error_covariances.rds")
+
 district_errors <- district_sims %>%
   filter(party != "Independent") %>%
   dplyr::select(id, region, district_code, party) %>%
@@ -243,6 +245,14 @@ result_probs <- sim_results %>%
   dplyr::select(date, result, prob)
 
 ## At provincial level
+province_key <- tibble(province_code = c(10, 11, 12, 13, 24, 35, 46, 47, 48, 59, 60, 61, 62),
+                       province = c("Newfoundland and Labrador", "Prince Edward Island", "Nova Scotia", "New Brunswick", "Quebec",
+                                    "Ontario", "Manitoba", "Saskatchewan", "Alberta", "British Columbia", "Yukon", "Northwest Territories",
+                                    "Nunavut"),
+                       province_abbr = c("NL", "PE", "NS", "NB", "QC", "ON", "MB", "SK", "AB", "BC", "YT", "NT", "NU"),
+                       region = c("Atlantic", "Atlantic", "Atlantic", "Atlantic", "Quebec", "Ontario", "Prairie", "Prairie", "Alberta",
+                                  "British Columbia", "The frigid northlands", "The frigid northlands", "The frigid northlands"))
+
 province_sims <- provincial_vote_implied %>%
   left_join(district_winners %>%
               mutate(province_code = floor(district_code / 1000)) %>%
