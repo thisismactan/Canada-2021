@@ -162,6 +162,7 @@ district_sims <- district_sims %>%
 district_sims %>%
   filter(id <= 1000) %>%
   dplyr::select(id, district_code, district, party, pct) %>%
+  mutate(pct = round(pct, 4)) %>%
   write_csv("shiny-app/data/district_sims_1-1000.csv")
 
 district_winners <- district_sims %>%
