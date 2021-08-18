@@ -16,8 +16,9 @@ library(leaflet)
 
 party_order <- c("NDP", "Green", "Bloc", "Liberal", "Conservative", "People's")
 
-party_colors <- c("Liberal" = "red", "Conservative" = "blue", "NDP" = "darkorange1", "Bloc" = "#8ECEF9", "Green" = "green4", 
-                  "People's" = "midnightblue")
+party_colors <- c("Liberal" = "red", "Conservative" = "blue", "NDP" = "darkorange1", "Green" = "green4", 
+                  "People's" = "midnightblue", "Bloc" = "#8ECEF9")
 
 party_fullnames <- c("Liberal" = "Liberal Party", "Conservative" = "Conservative Party", "NDP" = "New Democratic Party", 
-                     "Bloc" = "Bloc Québécois", "Green" = "Green Party", "People's" = "People's Party")
+                     "Green" = "Green Party", "People's" = "People's Party", "Bloc" = "Bloc Québécois") %>%
+  enc2utf8()

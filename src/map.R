@@ -313,3 +313,5 @@ leaflet(province_map_data) %>%
               popup = ~popup_label, highlightOptions = highlightOptions(color = "black", weight = 4, bringToFront = TRUE, opacity = 1))
 
 write_rds(paste0(as.character(Sys.time()), " EDT"), "shiny-app/data/update_time.rds")
+
+deployApp(appDir = "shiny-app")
