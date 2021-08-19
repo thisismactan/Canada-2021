@@ -339,3 +339,8 @@ overall_result_timeline <- read_csv("shiny-app/data/overall_result_timeline.csv"
   as_tibble()
 
 write_csv(overall_result_timeline, "shiny-app/data/overall_result_timeline.csv")
+
+# Cleanup
+rm(district_errors)
+rm(region_error_sims)
+gc()

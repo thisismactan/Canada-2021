@@ -314,4 +314,4 @@ leaflet(province_map_data) %>%
 
 write_rds(paste0(as.character(Sys.time()), " EDT"), "shiny-app/data/update_time.rds")
 
-deployApp(appDir = "shiny-app")
+rsconnect::deployApp(appDir = "shiny-app", forceUpdate = TRUE, launch.browser = FALSE)
