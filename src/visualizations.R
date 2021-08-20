@@ -1,8 +1,19 @@
+source("src/lib.R")
+
 library(shiny)
 library(shinyWidgets)
 library(shinythemes)
 library(ggiraph)
 library(extrafont)
+
+party_order <- c("NDP", "Green", "Bloc", "Liberal", "Conservative", "People's")
+
+party_colors <- c("Liberal" = "red", "Conservative" = "blue", "NDP" = "darkorange1", "Green" = "green4", 
+                  "People's" = "midnightblue", "Bloc" = "#8ECEF9")
+
+party_fullnames <- c("Liberal" = "Liberal Party", "Conservative" = "Conservative Party", "NDP" = "New Democratic Party", 
+                     "Green" = "Green Party", "People's" = "People's Party", "Bloc" = "Bloc Québécois") %>%
+  enc2utf8()
 
 tooltip_css <- "background-color:gray;color:white;font-style:italic;padding:10px;border-radius:5px;"
 

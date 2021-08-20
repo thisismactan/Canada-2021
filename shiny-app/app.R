@@ -36,7 +36,9 @@ shp_list <- list(Province = province_shp, Riding = district_shp)
 # Simulation results and timelines
 district_sims_sample <- read_csv("data/district_sims_1-1000.csv")
 province_sims <- read_csv("data/province_sims.csv") %>%
-    mutate(party = ordered(party, levels = party_order))
+    mutate(party = ordered(party, levels = party_order)) %>%
+    filter(id <= 1000)
+
 summary_stats_timeline <- read_csv("data/summary_stats_timeline.csv") %>%
     mutate(party = ordered(party, levels = party_order))
 overall_result_timeline <- read_csv("data/overall_result_timeline.csv")

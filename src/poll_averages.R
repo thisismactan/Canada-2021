@@ -6,7 +6,7 @@ natl_polls <- read_csv("data/polls_2021_natl.csv") %>%
   dplyr::select(-rating, -lead) %>%
   melt(measure.vars = c("Liberal", "Conservative", "NDP", "Green", "Bloc", "People's"), variable.name = "party", value.name = "pct") %>%
   mutate(pct = pct / 100,
-         loess_weight = n^0.25 / ifelse(pollster %in% c("Nanos Research", "Forum Research"), 4, 1),
+         loess_weight = n^0.25 / ifelse(pollster %in% c("Nanos Research", "Forum Research", "EKOS"), 4, 1),
          age = as.numeric(today() - median_date)) %>%
   dplyr::select(pollster, median_date, age, n, loess_weight, party, pct) %>%
   as_tibble()
