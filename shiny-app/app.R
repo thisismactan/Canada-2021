@@ -393,7 +393,7 @@ server <- function(input, output) {
                        ggplot(aes(x = date, y = prob)) +
                        geom_vline(xintercept = as.Date("2021-09-20"), size = 0, col = "black") +
                        geom_line(aes(col = result)) +
-                       geom_point_interactive(aes(col = result, tooltip = paste0(date, "\n", percent(prob, accuracy = 1))),
+                       geom_point_interactive(aes(col = result, tooltip = paste0(date, "\n", result, ": ", percent(prob, accuracy = 1))),
                                               size = 1, alpha = 0.01, show.legend = FALSE) +
                        geom_text(data = overall_result_timeline %>% filter(date == max(date)), 
                                  aes(x = date + diff(input$date_range_forecast) / 36, y = prob, label = percent(prob, accuracy = 1), col = result), 
