@@ -3,11 +3,16 @@ source("src/polling_error.R")
 
 # National polls
 natl_polls <- read_csv("data/polls_2021_natl.csv") %>%
-  dplyr::select(-rating, -lead) %>%
+  dplyr::select(-lead) %>%
+  mutate(tracking_weight = case_when(grepl("1/4", n) ~ 1/4,
+                                     grepl("1/3", n) ~ 1/3,
+                                     !grepl("/", n) ~ 1),
+         tracking_weight = ifelse(pollster == "Forum Research", tracking_weight * 1/4, tracking_weight),
+         n = gsub(",| ", "", n),
+         n = gsub("\\(1/.\\)", "", n) %>% as.numeric()) %>%
   melt(measure.vars = c("Liberal", "Conservative", "NDP", "Green", "Bloc", "People's"), variable.name = "party", value.name = "pct") %>%
   mutate(pct = pct / 100,
-         loess_weight = n^0.25 / (ifelse(pollster %in% c("Forum Research", "EKOS"), 4, 1) *
-                                    ifelse(pollster %in% c("Mainstreet Research", "Nanos Research"), 3, 1)),
+         loess_weight = (n^0.25) * tracking_weight,
          age = as.numeric(today() - median_date)) %>%
   dplyr::select(pollster, median_date, age, n, loess_weight, party, pct) %>%
   as_tibble()
@@ -107,7 +112,14 @@ regional_polls <- bind_rows(
   read_csv("data/polls_2021_ab.csv"),
   read_csv("data/polls_2021_bc.csv")
   ) %>%
-  dplyr::select(-rating, -lead) %>%
+  dplyr::select(-lead) %>%
+  mutate(tracking_weight = case_when(grepl("1/4", pollster) ~ 1/4,
+                                     grepl("1/3", pollster) ~ 1/3,
+                                     !grepl("/", pollster) ~ 1),
+         tracking_weight = ifelse(pollster == "Forum Research", tracking_weight * 1/4, tracking_weight),
+         pollster = gsub(" \\(1/.\\)", "", pollster),
+         `People's` = ifelse(is.na(`People's`), 0, `People's`)) %>%
+  filter(Liberal > 0) %>% # there's a row for Angus Reid that seems to not have real numbers
   melt(measure.vars = c("Liberal", "Conservative", "NDP", "Green", "Bloc", "People's"), variable.name = "party", value.name = "pct") %>%
   mutate(pct = pct / 100,
          region = case_when(region == "ATL" ~ "Atlantic",
