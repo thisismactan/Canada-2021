@@ -6,6 +6,9 @@ library(Hmisc)
 library(scales)
 library(mvnfast)
 library(readr)
+library(rvest)
+library(xml2)
+library(MCMCpack)
 
 # Mapping
 library(sp)

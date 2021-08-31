@@ -124,7 +124,6 @@ district_errors <- district_sims %>%
 
 error_sim_list <- vector("list", length(regions))
 
-## Add errors
 for(i in 1:length(regions)) {
   n_district_sims <- district_errors %>%
     filter(region == regions[i]) %>%
@@ -152,10 +151,81 @@ district_errors <- bind_rows(error_sim_list) %>%
   filter(!is.na(pred_error)) %>%
   as_tibble()
 
+## Simulate from riding-level polling
+district_poll_averages_simp <- district_poll_averages %>%
+  dplyr::select(district_code, district, party, district_avg, district_var) %>%
+  filter(party %in% c("Liberal", "Conservative", "NDP", "Green", "People's", "Bloc"))
+
+district_polling_sims <- do.call("rbind", replicate(n_sims, district_poll_averages_simp, simplify = FALSE)) %>%
+  arrange(district_code, party) %>%
+  mutate(id = rep(1:n_sims, n() / n_sims),
+         poll_sim = rnorm(n(), district_avg, sqrt(district_var))) %>%
+  dplyr::select(id, district_code, district, party, poll_sim) 
+
+district_undecided_sims <- district_polling_sims %>%
+  group_by(id, district_code, district) %>%
+  summarise(undecided = 1 - sum(poll_sim)) %>%
+  arrange(district_code, district, id)
+
+undecided_dirichlet_params <- district_poll_averages_simp %>%
+  arrange(district_code, party) %>%
+  group_by(district_code) %>%
+  mutate(alpha = 10 * district_avg / sum(district_avg)) %>%
+  dplyr::select(-district_avg, -district_var) %>%
+  mutate(alpha = pmax(0, alpha)) %>%
+  spread(party, alpha, fill = 0) %>%
+  ungroup()
+  
+undecided_dirichlet_params
+
+district_codes_with_polling <- unique(district_undecided_sims$district_code)
+undecided_allocation_list <- vector("list", length(district_codes_with_polling))
+
+for(i in 1:length(district_codes_with_polling)) {
+  district_dirichlet_params <- undecided_dirichlet_params %>%
+    filter(district_code == district_codes_with_polling[i]) %>%
+    dplyr::select(-district_code, -district) %>%
+    as.matrix() %>%
+    as.vector()
+  
+  # Simulate undecided fractions
+  undecided_allocation_list[[i]] <- rdirichlet(n_sims, district_dirichlet_params) %>%
+    as.data.frame() %>%
+    mutate(district_code = district_codes_with_polling[i],
+           id = 1:n_sims) %>%
+    as_tibble()
+}
+
+district_undecided_frac <- bind_rows(undecided_allocation_list) %>%
+  dplyr::select(id, district_code, Liberal = V1, Conservative = V2, NDP = V3, Green = V4, `People's` = V5, Bloc = V6) %>%
+  melt(id.vars = c("id", "district_code"), variable.name = "party", value.name = "undecided_frac") %>%
+  as_tibble()
+
+district_undecided_allocation <- district_undecided_frac %>%
+  left_join(district_undecided_sims, by = c("id", "district_code")) %>%
+  mutate(undecided_pct = undecided * undecided_frac) %>%
+  dplyr::select(id, district_code, party, undecided_pct)
+
+## Add undecided onto sims
+district_polling_sims <- district_polling_sims %>%
+  left_join(district_undecided_allocation, by = c("id", "district_code", "party")) %>%
+  mutate(poll_sim = poll_sim + undecided_pct) %>%
+  group_by(district_code) %>%
+  mutate(poll_weight = 1 / var(poll_sim)) %>%
+  ungroup()
+
+## Weighted average
 district_sims <- district_sims %>%
   left_join(district_errors, by = c("district_code", "id", "party")) %>%
   mutate(pred_sim = pred_pct + pred_error) %>%
-  mutate(pct = pmax(pred_sim, 0)) %>%
+  group_by(district_code, party) %>%
+  mutate(pred_weight = 1 / var(pred_sim)) %>%
+  ungroup() %>%
+  left_join(district_polling_sims, by = c("id", "district_code", "district", "party")) %>%
+  mutate(poll_weight = ifelse(is.na(poll_weight), 0, poll_weight),
+         poll_sim = ifelse(is.na(poll_sim), 0, poll_sim),
+         pct = (pred_weight * pred_sim + poll_weight * poll_sim) / (pred_weight + poll_weight)) %>%
+  mutate(pct = pmax(pct, 0)) %>%
   dplyr::select(id, region, province, district_code, district, party, candidate, incumbent_running, pct) %>%
   filter(!is.na(id))
 
