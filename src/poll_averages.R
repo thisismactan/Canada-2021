@@ -233,6 +233,7 @@ regional_poll_averages_smoothed <- regional_poll_averages %>%
               (x + lag(x) + lag(x, 2) + lag(x, 3) + lag(x, 4)) / 5
             })
 
+showtext_auto()
 regional_polls %>%
   mutate(party = ordered(party, levels = party_order)) %>%
   ggplot() +
@@ -243,13 +244,14 @@ regional_polls %>%
   geom_line(data = regional_poll_averages_smoothed %>% mutate(party = ordered(party, levels = party_order)), 
             aes(x = date, y = avg, col = party), size = 1) +
   geom_text(data = regional_polling_average %>% mutate(party = ordered(party, levels = party_order)), 
-            aes(x = today() + 18, y = avg, col = party, label = percent(avg, accuracy = 0.1)), size = 3,
+            aes(x = today() + 4, y = avg, col = party, label = percent(avg, accuracy = 0.1)), size = 3,
             show.legend = FALSE) +
-  scale_x_date(breaks = "months", date_labels = "%b %Y", limits = as.Date(c("2020-01-01", NA))) +
+  scale_x_date(breaks = "months", date_labels = "%b %Y", limits = as.Date(c("2021-07-01", NA))) +
   scale_y_continuous(breaks = (0:10) / 10, labels = percent_format(accuracy = 1)) +
   scale_colour_manual(name = "Party", values = party_colors) +
   scale_fill_manual(name = "Party", values = party_colors) +
-  theme(legend.position = "bottom", axis.text.x = element_text(angle = 90, vjust = 0.5), axis.title.x = element_blank()) +
+  theme(legend.position = "bottom", text = element_text(family = "Lato"), axis.text.x = element_text(angle = 90, vjust = 0.5), 
+        axis.title.x = element_blank()) +
   labs(title = "2021 Canadian federal election polling by region", y = "Support", caption = "Error bands indicate 90% confidence intervals")
 
 # Riding leans relative to region

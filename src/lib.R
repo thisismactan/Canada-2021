@@ -9,6 +9,7 @@ library(readr)
 library(rvest)
 library(xml2)
 library(MCMCpack)
+library(showtext)
 
 # Mapping
 library(sp)
