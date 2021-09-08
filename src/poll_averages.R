@@ -90,7 +90,7 @@ natl_polls %>%
 natl_polls_wide <- natl_polls %>%
   distinct() %>%
   spread(party, pct) %>%
-  mutate(weight = (age <= 30) * loess_weight / exp((age + 1)^0.4)) %>%
+  mutate(weight = (age <= 30) * loess_weight / exp((age + 1)^0.5)) %>%
   filter(weight > 0)
 
 natl_poll_cov_major <- cov.wt(natl_polls_wide %>% dplyr::select(Liberal, Conservative, NDP, Green, Bloc),
@@ -136,7 +136,7 @@ regional_polls <- bind_rows(
 
 ## Current polling average
 regional_polling_average <- regional_polls %>%
-  mutate(weight = (age <= 60) * loess_weight / exp((age + 1)^0.4)) %>%
+  mutate(weight = (age <= 45) * loess_weight / exp((age + 1)^0.5)) %>%
   filter(weight > 0) %>%
   group_by(party, region) %>%
   summarise(avg = wtd.mean(pct, weight),
