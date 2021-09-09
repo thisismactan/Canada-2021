@@ -342,9 +342,9 @@ province_summary_stats <- province_sims %>%
   summarise(vote_pct_05 = quantile(pct, 0.05),
             vote_pct_50 = median(pct),
             vote_pct_95 = quantile(pct, 0.95),
-            seats_pct_05 = quantile(seats, 0.05),
-            seats_pct_50 = median(seats),
-            seats_pct_95 = quantile(seats, 0.95)) 
+            seats_pct_05 = round(quantile(seats, 0.05)),
+            seats_pct_50 = round(median(seats)),
+            seats_pct_95 = round(quantile(seats, 0.95)))
 
 province_summary_stats %>%
   print(n = Inf)
