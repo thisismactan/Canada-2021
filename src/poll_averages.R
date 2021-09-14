@@ -145,7 +145,7 @@ regional_polling_average <- regional_polls %>%
             eff_n = sum(weight)^2 / sum(weight^2))
 
 regional_polling_average %>%
-  mutate(party = ordered(party, levels = party_order)) %>%
+  mutate(region = ordered(region, levels = c("Atlantic", "Quebec", "Ontario", "Prairie", "Alberta", "British Columbia"))) %>%
   ggplot(aes(x = party, y = avg, fill = party)) +
   facet_wrap(~region, nrow = 2) +
   geom_col() +

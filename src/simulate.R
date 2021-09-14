@@ -395,7 +395,7 @@ summary_stats_timeline <- read_csv("shiny-app/data/summary_stats_timeline.csv") 
   bind_rows(summary_stats_by_geo) %>%
   distinct(geography, date, party, outcome, .keep_all = TRUE)
 
-write_csv(summary_stats_timeline, "shiny-app/data/summary_stats_timeline.csv")
+write_csv(summary_stats_timeline, "shiny-app/data/summary_stats_timeline.csv")                   
 
 if(!("overall_result_timeline.csv" %in% list.files("shiny-app/data"))) {
   write_csv(result_probs, "shiny-app/data/overall_result_timeline.csv")

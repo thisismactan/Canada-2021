@@ -17,6 +17,8 @@ party_fullnames <- c("Liberal" = "Liberal Party", "Conservative" = "Conservative
 
 tooltip_css <- "background-color:gray;color:white;font-style:italic;padding:10px;border-radius:5px;"
 
+showtext_auto()
+
 ui <- fluidPage(
   theme = shinytheme("flatly"),
   tags$head(

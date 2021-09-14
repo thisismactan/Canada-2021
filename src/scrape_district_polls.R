@@ -5,12 +5,14 @@ wikipage <- read_html("https://en.wikipedia.org/wiki/Opinion_polling_for_the_202
 # Grab district poll tables
 district_poll_tables <- html_nodes(wikipage, "table") %>%
   html_table()
+district_poll_tables <- district_poll_tables[2:length(district_poll_tables)]
 
 # Grab district names
 district_poll_districts <- html_nodes(wikipage, "h4") %>%
   html_text()
 
 district_poll_districts <- gsub("\\[edit\\]", "", district_poll_districts)
+district_poll_districts <- gsub("’", "'", district_poll_districts)
 district_poll_districts 
 
 poll_table_formatter <- function(df) {

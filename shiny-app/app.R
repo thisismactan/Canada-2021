@@ -467,7 +467,8 @@ server <- function(input, output) {
                                                             diff(input$date_range_polls) > 30 & diff(input$date_range_polls) <= 60 ~ "2 weeks",
                                                             diff(input$date_range_polls) > 60 & diff(input$date_range_polls) <= 360 ~ "months",
                                                             diff(input$date_range_polls) > 360 ~ "2 months"), 
-                                    limits = input$date_range_polls, date_labels = "%e %b %Y") +
+                                    limits = c(input$date_range_polls[1], input$date_range_polls[2] + diff(input$date_range_polls) / 45 + 1), 
+                                    date_labels = "%e %b %Y") +
                        scale_y_continuous(labels = percent_format(accuracy = 1), limits = c(-0.001, NA)) +
                        scale_colour_manual(name = "Party", values = party_colors) +
                        scale_fill_manual(name = "Party", values = party_colors) +
