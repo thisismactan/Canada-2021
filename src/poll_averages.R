@@ -20,7 +20,7 @@ natl_polls <- read_csv("data/polls_2021_natl.csv") %>%
 
 ## Current polling average
 natl_polling_average <- natl_polls %>%
-  mutate(weight = (age <= 60) * loess_weight / exp((age + 1)^0.4)) %>%
+  mutate(weight = (age <= 30) * loess_weight / exp((age + 1)^0.5)) %>%
   filter(weight > 0) %>%
   group_by(party) %>%
   summarise(avg = wtd.mean(pct, weight),
@@ -136,7 +136,7 @@ regional_polls <- bind_rows(
 
 ## Current polling average
 regional_polling_average <- regional_polls %>%
-  mutate(weight = (age <= 45) * loess_weight / exp((age + 1)^0.5)) %>%
+  mutate(weight = (age <= 30) * loess_weight / exp((age + 1)^0.5)) %>%
   filter(weight > 0) %>%
   group_by(party, region) %>%
   summarise(avg = wtd.mean(pct, weight),
@@ -166,7 +166,7 @@ for(i in 1:length(polling_regions)) {
     filter(region == polling_regions[i]) %>%
     dplyr::select(-natl_pct, -provincial_lean) %>%
     spread(party, pct) %>%
-    mutate(weight = (age <= 60) * loess_weight / exp((1 + age)^0.4)) %>%
+    mutate(weight = (age <= 30) * loess_weight / exp((1 + age)^0.5)) %>%
     filter(weight > 0)
   
   if(polling_regions[i] == "Quebec") {
@@ -213,7 +213,7 @@ for(i in 1:n_days) {
   poll_average_list[[i]] <- suppressMessages(regional_polls %>%
     filter(median_date <= average_dates[i]) %>%
     mutate(age = as.numeric(average_dates[i] - median_date),
-           weight = 10 * (age <= 45) * loess_weight / exp((age + 1)^0.5)) %>%
+           weight = 10 * (age <= 30) * loess_weight / exp((age + 1)^0.5)) %>%
     filter(weight > 0) %>%
     group_by(region, party, date = average_dates[i]) %>%
     summarise(avg = wtd.mean(pct, weight),
@@ -263,7 +263,7 @@ district_poll_leans <- district_polls %>%
          pct = ifelse(is.na(pct), 0, pct),
          lean = pct - regional_avg,
          age = as.numeric(today() - median_date),
-         weight = 10 * (ifelse(mode == "IVR", 1, 3) * n^0.25 / exp((age + 1)^(1/3))))
+         weight = 10 * (ifelse(mode == "IVR", 1, 3) * n^0.25 / exp((age + 1)^0.4)))
 
 district_poll_averages <- district_poll_leans %>%
   group_by(region, district_code, district, party) %>%
