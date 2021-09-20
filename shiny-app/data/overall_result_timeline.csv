@@ -33,6 +33,7 @@ date,result,prob
 2021-09-17,Conservative majority,0
 2021-09-18,Conservative majority,0
 2021-09-19,Conservative majority,0.0089
+2021-09-20,Conservative majority,0.0089
 2021-08-15,Conservative minority,0.0027
 2021-08-16,Conservative minority,0.002
 2021-08-17,Conservative minority,0.0041
@@ -67,6 +68,7 @@ date,result,prob
 2021-09-17,Conservative minority,0.0865
 2021-09-18,Conservative minority,0.0873
 2021-09-19,Conservative minority,0.1545
+2021-09-20,Conservative minority,0.1545
 2021-08-15,Liberal majority,0.3009
 2021-08-16,Liberal majority,0.305
 2021-08-17,Liberal majority,0.259
@@ -101,6 +103,7 @@ date,result,prob
 2021-09-17,Liberal majority,0.0249
 2021-09-18,Liberal majority,0.0241
 2021-09-19,Liberal majority,0.1046
+2021-09-20,Liberal majority,0.1046
 2021-08-15,Liberal minority,0.6962
 2021-08-16,Liberal minority,0.6924
 2021-08-17,Liberal minority,0.7362
@@ -135,6 +138,7 @@ date,result,prob
 2021-09-17,Liberal minority,0.8817
 2021-09-18,Liberal minority,0.8821
 2021-09-19,Liberal minority,0.7254
+2021-09-20,Liberal minority,0.7254
 2021-08-15,NDP minority,0
 2021-08-16,NDP minority,0
 2021-08-17,NDP minority,0
@@ -169,6 +173,7 @@ date,result,prob
 2021-09-17,NDP minority,0
 2021-09-18,NDP minority,0
 2021-09-19,NDP minority,0.0011
+2021-09-20,NDP minority,0.0011
 2021-08-15,Tie,2e-4
 2021-08-16,Tie,6e-4
 2021-08-17,Tie,7e-4
@@ -203,3 +208,4 @@ date,result,prob
 2021-09-17,Tie,0.0069
 2021-09-18,Tie,0.0065
 2021-09-19,Tie,0.0055
+2021-09-20,Tie,0.0055

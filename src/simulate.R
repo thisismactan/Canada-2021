@@ -175,8 +175,6 @@ undecided_dirichlet_params <- district_poll_averages_simp %>%
   mutate(alpha = pmax(0, alpha)) %>%
   spread(party, alpha, fill = 0) %>%
   ungroup()
-  
-undecided_dirichlet_params
 
 district_codes_with_polling <- unique(district_undecided_sims$district_code)
 undecided_allocation_list <- vector("list", length(district_codes_with_polling))
